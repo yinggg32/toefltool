@@ -1,0 +1,985 @@
+<!DOCTYPE html>
+<html lang="zh-Hant">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>TOEFL 衝刺站</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link href="https://fonts.googleapis.com/css2?family=Space+Grotesk:wght@500;600;700&family=Inter:wght@400;500;600;700&family=IBM+Plex+Mono:wght@500;600&display=swap" rel="stylesheet">
+<style>
+:root{
+  --paper:#EFEEE4;
+  --paper-deep:#E5E3D6;
+  --ink:#1A2233;
+  --ink-soft:#5B6477;
+  --accent:#2F6F62;
+  --accent-soft:#DCE8E2;
+  --warm:#C0562E;
+  --warm-soft:#F2DECF;
+  --alert:#B23B3B;
+  --card:#FFFFFF;
+  --line:#D5D2C2;
+}
+*{box-sizing:border-box;}
+body{
+  margin:0;
+  background:var(--paper);
+  color:var(--ink);
+  font-family:'Inter',sans-serif;
+  -webkit-font-smoothing:antialiased;
+}
+.app{max-width:920px;margin:0 auto;padding:0 0 64px;}
+header.top{
+  position:sticky;top:0;z-index:10;
+  background:var(--ink);
+  color:var(--paper);
+  padding:18px 20px 0;
+  border-bottom:3px solid var(--accent);
+}
+.brand{display:flex;align-items:baseline;justify-content:space-between;gap:12px;margin-bottom:14px;flex-wrap:wrap;}
+.brand h1{
+  font-family:'Space Grotesk',sans-serif;
+  font-size:22px;letter-spacing:0.01em;margin:0;font-weight:700;
+}
+.brand .tag{
+  font-family:'IBM Plex Mono',monospace;
+  font-size:11px;color:#B9C2B3;letter-spacing:0.06em;
+}
+nav.tabs{display:flex;gap:2px;overflow-x:auto;}
+nav.tabs button{
+  flex:1;min-width:90px;
+  background:transparent;border:none;
+  color:#9AA3AE;
+  font-family:'Space Grotesk',sans-serif;
+  font-size:13px;font-weight:600;
+  padding:12px 8px;cursor:pointer;
+  border-bottom:3px solid transparent;
+  transition:color .15s, border-color .15s;
+  white-space:nowrap;
+}
+nav.tabs button:hover{color:#E7E9E1;}
+nav.tabs button.active{color:var(--paper);border-bottom-color:var(--accent);}
+
+main{padding:24px 20px 0;}
+.panel{display:none;}
+.panel.active{display:block;animation:fadeIn .25s ease;}
+@keyframes fadeIn{from{opacity:0;transform:translateY(4px);}to{opacity:1;transform:translateY(0);}}
+
+.section-intro{margin-bottom:18px;}
+.section-intro h2{
+  font-family:'Space Grotesk',sans-serif;
+  font-size:19px;margin:0 0 6px;
+}
+.section-intro p{color:var(--ink-soft);font-size:14px;line-height:1.6;margin:0;}
+
+.card{
+  background:var(--card);
+  border:1px solid var(--line);
+  border-radius:10px;
+  padding:18px;
+  margin-bottom:16px;
+}
+.card h3{
+  font-family:'Space Grotesk',sans-serif;
+  font-size:15px;margin:0 0 10px;
+  display:flex;align-items:center;gap:8px;
+}
+.chip{
+  display:inline-flex;align-items:center;
+  font-family:'IBM Plex Mono',monospace;
+  font-size:11px;background:var(--accent-soft);color:var(--accent);
+  padding:3px 8px;border-radius:999px;font-weight:600;letter-spacing:.02em;
+}
+.chip.warm{background:var(--warm-soft);color:var(--warm);}
+
+/* ---- Vocabulary ---- */
+.vocab-bar{
+  display:flex;justify-content:space-between;align-items:center;
+  margin-bottom:14px;flex-wrap:wrap;gap:10px;
+}
+.progress-stub{
+  font-family:'IBM Plex Mono',monospace;
+  font-size:13px;background:var(--ink);color:var(--paper);
+  padding:6px 12px;border-radius:6px;
+  position:relative;
+}
+.cat-select{
+  display:flex;gap:6px;flex-wrap:wrap;margin-bottom:16px;
+}
+.cat-select button{
+  font-family:'Inter',sans-serif;font-size:12px;font-weight:600;
+  border:1px solid var(--line);background:var(--card);color:var(--ink-soft);
+  padding:6px 10px;border-radius:999px;cursor:pointer;
+}
+.cat-select button.active{background:var(--ink);color:var(--paper);border-color:var(--ink);}
+
+.flash-wrap{display:flex;flex-direction:column;align-items:center;gap:16px;}
+.flashcard{
+  width:100%;max-width:480px;height:230px;
+  perspective:1200px;cursor:pointer;
+}
+.flashcard-inner{
+  position:relative;width:100%;height:100%;
+  transition:transform .5s cubic-bezier(.4,.2,.2,1);
+  transform-style:preserve-3d;
+}
+.flashcard.flipped .flashcard-inner{transform:rotateY(180deg);}
+.face{
+  position:absolute;inset:0;
+  backface-visibility:hidden;
+  border-radius:14px;
+  border:1px solid var(--line);
+  background:var(--card);
+  display:flex;flex-direction:column;justify-content:center;align-items:center;
+  text-align:center;padding:26px;
+}
+.face::before{
+  content:"";position:absolute;top:-8px;left:50%;transform:translateX(-50%);
+  width:24px;height:16px;background:var(--paper);border-radius:0 0 50% 50%;
+  border:1px solid var(--line);border-top:none;
+}
+.face.back{transform:rotateY(180deg);background:var(--ink);color:var(--paper);border-color:var(--ink);}
+.face .word{font-family:'Space Grotesk',sans-serif;font-size:28px;font-weight:700;}
+.face .pos{font-family:'IBM Plex Mono',monospace;font-size:11px;color:var(--ink-soft);margin-top:6px;}
+.face .root{font-size:13px;color:var(--accent);margin-top:14px;font-weight:600;}
+.face .hint{position:absolute;bottom:14px;font-size:11px;color:var(--ink-soft);}
+.face.back .zh{font-size:20px;font-weight:700;margin-bottom:10px;}
+.face.back .ex{font-size:13px;line-height:1.6;color:#D8DED9;}
+.flash-controls{display:flex;gap:10px;}
+.btn{
+  font-family:'Space Grotesk',sans-serif;font-size:13px;font-weight:600;
+  border:none;border-radius:7px;padding:10px 18px;cursor:pointer;
+  background:var(--ink);color:var(--paper);
+}
+.btn.ghost{background:transparent;color:var(--ink);border:1px solid var(--line);}
+.btn.accent{background:var(--accent);}
+.btn:disabled{opacity:.4;cursor:not-allowed;}
+
+/* ---- Speaking / drills ---- */
+.timer-row{display:flex;align-items:center;gap:16px;flex-wrap:wrap;}
+.dial{position:relative;width:78px;height:78px;flex-shrink:0;}
+.dial svg{transform:rotate(-90deg);}
+.dial circle{fill:none;stroke-width:6;}
+.dial .bg{stroke:var(--line);}
+.dial .fg{stroke:var(--accent);stroke-linecap:round;transition:stroke-dashoffset .2s linear, stroke .2s;}
+.dial .num{
+  position:absolute;inset:0;display:flex;align-items:center;justify-content:center;
+  font-family:'IBM Plex Mono',monospace;font-weight:600;font-size:18px;
+}
+.sentence-display{
+  font-family:'Space Grotesk',sans-serif;font-size:18px;line-height:1.5;
+  background:var(--paper-deep);border-radius:8px;padding:16px;margin:14px 0;
+  min-height:54px;display:flex;align-items:center;
+}
+.sentence-display.hidden-text{color:transparent;background:repeating-linear-gradient(45deg,var(--paper-deep),var(--paper-deep) 6px,#e3e0d2 6px,#e3e0d2 12px);}
+.qa-list{display:flex;flex-direction:column;gap:6px;}
+.qa-list .qitem{
+  font-size:14px;padding:10px 12px;border:1px solid var(--line);border-radius:7px;
+  cursor:pointer;background:var(--card);
+}
+.qa-list .qitem:hover{border-color:var(--accent);}
+
+/* ---- Build a sentence ---- */
+.chip-pool, .chip-assembled{
+  display:flex;flex-wrap:wrap;gap:8px;min-height:46px;
+  padding:10px;border-radius:8px;border:1px dashed var(--line);margin-bottom:10px;
+}
+.chip-assembled{border-style:solid;background:var(--paper-deep);}
+.word-chip{
+  font-family:'IBM Plex Mono',monospace;font-size:13px;
+  background:var(--card);border:1px solid var(--line);
+  padding:8px 12px;border-radius:6px;cursor:pointer;user-select:none;
+}
+.word-chip:hover{border-color:var(--accent);}
+.result-msg{font-size:14px;font-weight:600;margin-top:10px;}
+.result-msg.correct{color:var(--accent);}
+.result-msg.wrong{color:var(--alert);}
+.correct-sentence{
+  margin-top:8px;font-size:14px;color:var(--ink-soft);font-style:italic;display:none;
+}
+
+/* ---- Writing tasks ---- */
+select, textarea{
+  width:100%;font-family:'Inter',sans-serif;font-size:14px;
+  border:1px solid var(--line);border-radius:7px;padding:10px;
+  background:var(--card);color:var(--ink);
+}
+textarea{min-height:140px;resize:vertical;margin-top:10px;line-height:1.6;}
+.meta-row{display:flex;justify-content:space-between;align-items:center;margin-top:8px;flex-wrap:wrap;gap:8px;}
+.wordcount{font-family:'IBM Plex Mono',monospace;font-size:12px;color:var(--ink-soft);}
+.guide-box{
+  background:var(--accent-soft);border-radius:8px;padding:12px 14px;
+  font-size:13px;line-height:1.7;color:var(--ink);margin-bottom:14px;
+}
+.guide-box b{color:var(--accent);}
+
+/* ---- Accordion ---- */
+.accordion-item{border:1px solid var(--line);border-radius:8px;margin-bottom:8px;overflow:hidden;}
+.accordion-head{
+  display:flex;justify-content:space-between;align-items:center;
+  padding:13px 16px;cursor:pointer;background:var(--card);
+  font-family:'Space Grotesk',sans-serif;font-size:14px;font-weight:600;
+}
+.accordion-head .arrow{transition:transform .2s;color:var(--accent);}
+.accordion-item.open .arrow{transform:rotate(180deg);}
+.accordion-body{padding:0 16px;max-height:0;overflow:hidden;transition:max-height .25s ease;}
+.accordion-item.open .accordion-body{padding:0 16px 14px;}
+.accordion-body p{font-size:13px;line-height:1.7;color:var(--ink-soft);margin:0;}
+
+.mcq{margin-bottom:16px;}
+.mcq .qtext{font-size:14px;font-weight:600;margin-bottom:8px;}
+.mcq .opt{
+  display:block;width:100%;text-align:left;
+  font-family:'Inter',sans-serif;font-size:13px;
+  background:var(--card);border:1px solid var(--line);border-radius:7px;
+  padding:9px 12px;margin-bottom:6px;cursor:pointer;
+}
+.mcq .opt:hover{border-color:var(--accent);}
+.mcq .opt.correct{background:var(--accent-soft);border-color:var(--accent);font-weight:600;}
+.mcq .opt.wrong{background:#F3DEDA;border-color:var(--alert);}
+.mcq .explain{font-size:12px;color:var(--ink-soft);margin-top:4px;display:none;}
+.blank-input{
+  font-family:'IBM Plex Mono',monospace;font-size:14px;
+  width:74px;border:none;border-bottom:2px solid var(--accent);
+  background:var(--paper-deep);padding:1px 4px;text-align:center;
+}
+.qa-list .qitem.correct{background:var(--accent-soft);border-color:var(--accent);}
+.qa-list .qitem.wrong{background:#F3DEDA;border-color:var(--alert);}
+.vocab-tools{display:flex;gap:8px;flex-wrap:wrap;margin-top:14px;}
+.vocab-tools .btn{font-size:12px;padding:8px 12px;}
+.mastered-tag{
+  font-family:'IBM Plex Mono',monospace;font-size:10px;color:var(--accent);
+  position:absolute;top:10px;right:14px;
+}
+
+footer.note{
+  max-width:920px;margin:24px auto 0;padding:14px 20px;
+  font-size:11px;color:var(--ink-soft);font-family:'IBM Plex Mono',monospace;
+  border-top:1px solid var(--line);
+}
+@media (max-width:520px){
+  .flashcard{height:210px;}
+  .face .word{font-size:22px;}
+}
+</style>
+</head>
+<body>
+<div class="app">
+  <header class="top">
+    <div class="brand">
+      <h1>TOEFL 衝刺站</h1>
+      <span class="tag">2026 新制 · 目標 80–100</span>
+    </div>
+    <nav class="tabs">
+      <button class="active" data-tab="vocab">單字</button>
+      <button data-tab="speaking">口說（新制）</button>
+      <button data-tab="writing">寫作（新制）</button>
+      <button data-tab="rl">閱讀／聽力</button>
+    </nav>
+  </header>
+
+  <main>
+
+    <!-- ===================== VOCAB ===================== -->
+    <section class="panel active" id="panel-vocab">
+      <div class="section-intro">
+        <h2>單字卡：詞根詞綴記憶</h2>
+        <p>按類別練習，點卡片翻面看中文與例句。詞根記一次，能帶出一整串單字。</p>
+      </div>
+      <div class="vocab-bar">
+        <div class="cat-select" id="catSelect"></div>
+        <div class="progress-stub" id="progressStub">0 / 0</div>
+      </div>
+      <div class="flash-wrap">
+        <div class="flashcard" id="flashcard">
+          <div class="flashcard-inner">
+            <div class="face front">
+              <div class="word" id="fcWord">—</div>
+              <div class="pos" id="fcPos">—</div>
+              <div class="root" id="fcRoot">—</div>
+              <div class="hint">點擊翻面 →</div>
+            </div>
+            <div class="face back">
+              <div class="zh" id="fcZh">—</div>
+              <div class="ex" id="fcEx">—</div>
+            </div>
+          </div>
+        </div>
+        <div class="flash-controls">
+          <button class="btn ghost" id="prevBtn">← 上一個</button>
+          <button class="btn accent" id="flipBtn">翻面</button>
+          <button class="btn ghost" id="nextBtn">下一個 →</button>
+        </div>
+        <div class="vocab-tools">
+          <button class="btn ghost" id="masterBtn">★ 標記已掌握</button>
+          <button class="btn ghost" id="aiGenBtn">✨ 用 AI 出新單字（同類詞根）</button>
+        </div>
+        <p style="font-size:11px;color:var(--ink-soft);margin-top:6px;" id="vocabNote"></p>
+      </div>
+    </section>
+
+    <!-- ===================== SPEAKING ===================== -->
+    <section class="panel" id="panel-speaking">
+      <div class="section-intro">
+        <h2>口說：Listen and Repeat ＋ Take an Interview</h2>
+        <p>新制口說沒有準備時間，重點是「即時反應力」與「聽到立刻覆述的記憶力」，不再是套模板。</p>
+      </div>
+
+      <div class="card">
+        <h3><span class="chip">Listen and Repeat</span> 跟讀記憶訓練</h3>
+        <p style="font-size:13px;color:var(--ink-soft);margin:0 0 4px;">看一次句子後立刻遮起來，憑記憶大聲覆述。練習的是「聽完馬上重組句子」的能力，不是看著唸。</p>
+        <div class="sentence-display" id="shadowSentence">點「顯示句子」開始</div>
+        <div class="flash-controls">
+          <button class="btn accent" id="shadowShow">顯示句子（3 秒）</button>
+          <button class="btn ghost" id="shadowNext">換下一句 →</button>
+        </div>
+        <p style="font-size:12px;color:var(--ink-soft);margin-top:10px;">第 <span id="shadowIdx">1</span> / <span id="shadowTotal">10</span> 句　·　句子難度漸增</p>
+      </div>
+
+      <div class="card">
+        <h3><span class="chip warm">Take an Interview</span> 模擬即時訪談</h3>
+        <p style="font-size:13px;color:var(--ink-soft);margin:0 0 10px;">新制沒有準備時間，所以練習時也不要先想好答案——抽到題目立刻開始說，計時器一響就要開口。</p>
+        <div class="timer-row">
+          <div class="dial">
+            <svg width="78" height="78"><circle class="bg" cx="39" cy="39" r="33"/><circle class="fg" id="interviewArc" cx="39" cy="39" r="33"/></svg>
+            <div class="num" id="interviewNum">30</div>
+          </div>
+          <div style="flex:1;min-width:200px;">
+            <div class="sentence-display" id="interviewQ" style="font-size:15px;">點「抽題」開始</div>
+            <div class="flash-controls">
+              <button class="btn accent" id="interviewDraw">抽題</button>
+              <button class="btn ghost" id="interviewStart">開始 30 秒計時</button>
+            </div>
+          </div>
+        </div>
+      </div>
+    </section>
+
+    <!-- ===================== WRITING ===================== -->
+    <section class="panel" id="panel-writing">
+      <div class="section-intro">
+        <h2>寫作：句子重組／Email／學術討論回覆</h2>
+        <p>新制寫作共 12 題、約 23 分鐘，三種題型考的能力完全不同，分開練習效率最高。</p>
+      </div>
+
+      <div class="card">
+        <h3><span class="chip">Build a Sentence</span> 句子重組</h3>
+        <p style="font-size:13px;color:var(--ink-soft);margin:0 0 4px;">依序點選下方詞組，組成一句語法正確、語意通順的句子。</p>
+        <div class="chip-pool" id="chipPool"></div>
+        <div class="chip-assembled" id="chipAssembled"></div>
+        <div class="flash-controls">
+          <button class="btn ghost" id="chipReset">清空重排</button>
+          <button class="btn accent" id="chipCheck">檢查</button>
+          <button class="btn ghost" id="chipNext">下一題 →</button>
+        </div>
+        <div class="result-msg" id="chipResult"></div>
+        <div class="correct-sentence" id="chipCorrect"></div>
+      </div>
+
+      <div class="card">
+        <h3><span class="chip warm">Write an Email</span></h3>
+        <div class="guide-box">
+          <b>結構：</b>稱呼（Dear / Hello ___,）→ 一句說明寄信目的 → 補充細節或請求 → 禮貌結尾（Thank you / I look forward to...）→ 署名。語氣依收件人調整，對教授或客服較正式，對社團同學可以較輕鬆。
+        </div>
+        <select id="emailPrompt"></select>
+        <textarea id="emailText" placeholder="開始寫信..."></textarea>
+        <div class="meta-row">
+          <span class="wordcount" id="emailCount">0 words</span>
+          <div class="timer-row" style="gap:8px;">
+            <span style="font-size:12px;color:var(--ink-soft);">建議 5 分鐘</span>
+            <button class="btn ghost" id="emailTimerBtn">開始倒數</button>
+            <span class="chip" id="emailTimerNum">5:00</span>
+          </div>
+        </div>
+      </div>
+
+      <div class="card">
+        <h3><span class="chip">Academic Discussion</span> 學術討論回覆</h3>
+        <div class="guide-box">
+          <b>結構：</b>一句表明立場 → 1–2 句理由＋例子 → 一句呼應或回應同學的觀點（展現你在「參與討論」而非自說自話）。建議 80–120 字，避免離題。
+        </div>
+        <select id="discPrompt"></select>
+        <textarea id="discText" placeholder="開始回覆討論..."></textarea>
+        <div class="meta-row">
+          <span class="wordcount" id="discCount">0 words</span>
+          <div class="timer-row" style="gap:8px;">
+            <span style="font-size:12px;color:var(--ink-soft);">建議 5 分鐘</span>
+            <button class="btn ghost" id="discTimerBtn">開始倒數</button>
+            <span class="chip" id="discTimerNum">5:00</span>
+          </div>
+        </div>
+      </div>
+    </section>
+
+    <!-- ===================== READING/LISTENING ===================== -->
+    <section class="panel" id="panel-rl">
+      <div class="section-intro">
+        <h2>閱讀與聽力：題型拆解</h2>
+        <p>新制閱讀／聽力改成多階段適性測驗——答對會出現更難的題目，所以前面穩穩作答比衝快更重要。題型本身大致延續，點開看策略。</p>
+      </div>
+      <div class="card">
+        <h3>📖 閱讀題型</h3>
+        <div id="readingAccordion"></div>
+      </div>
+      <div class="card">
+        <h3>🎧 聽力題型</h3>
+        <div id="listeningAccordion"></div>
+      </div>
+
+      <div class="card">
+        <h3>📖 閱讀例題練習</h3>
+        <p style="font-size:12px;color:var(--ink-soft);margin:0 0 12px;">三種新制閱讀題型，各附一組例題。</p>
+
+        <div class="practice-block">
+          <div class="chip" style="margin-bottom:8px;">Complete the Words 填字母</div>
+          <p style="font-size:14px;line-height:1.9;" id="clozePassage"></p>
+          <div class="flash-controls">
+            <button class="btn accent" id="clozeCheck">檢查答案</button>
+            <button class="btn ghost" id="clozeReveal">顯示答案</button>
+          </div>
+          <div class="result-msg" id="clozeResult"></div>
+        </div>
+
+        <div class="practice-block" style="margin-top:22px;">
+          <div class="chip warm" style="margin-bottom:8px;">Academic Passage 學術短文</div>
+          <div class="sentence-display" id="acadPassage" style="font-size:14px;line-height:1.8;height:auto;align-items:flex-start;"></div>
+          <div id="acadQuestions"></div>
+        </div>
+
+        <div class="practice-block" style="margin-top:22px;">
+          <div class="chip" style="margin-bottom:8px;">Daily Life Text 生活化文本</div>
+          <div class="sentence-display" id="dailyPassage" style="font-size:14px;line-height:1.8;height:auto;align-items:flex-start;"></div>
+          <div id="dailyQuestions"></div>
+        </div>
+      </div>
+
+      <div class="card">
+        <h3>🎧 聽力例題練習</h3>
+        <p style="font-size:12px;color:var(--ink-soft);margin:0 0 12px;">這是文字模擬版——實際考試只會播放一次語音、不顯示文字。練習時建議「先讀過逐字稿一次後遮住」，模擬只聽一次的狀況。</p>
+
+        <div class="practice-block">
+          <div class="chip" style="margin-bottom:8px;">Choose a Response</div>
+          <p style="font-size:12px;color:var(--ink-soft);margin:0 0 10px;">聽到一句話，選出最自然的回應。</p>
+          <div id="chooseResponseList"></div>
+        </div>
+
+        <div class="practice-block" style="margin-top:22px;">
+          <div class="chip warm" style="margin-bottom:8px;">Daily Life Conversation</div>
+          <div class="sentence-display" id="convoPassage" style="font-size:14px;line-height:1.8;height:auto;align-items:flex-start;white-space:pre-line;"></div>
+          <div id="convoQuestions"></div>
+        </div>
+
+        <div class="practice-block" style="margin-top:22px;">
+          <div class="chip" style="margin-bottom:8px;">Daily Life Announcement</div>
+          <div class="sentence-display" id="announcePassage" style="font-size:14px;line-height:1.8;height:auto;align-items:flex-start;"></div>
+          <div id="announceQuestions"></div>
+        </div>
+
+        <div class="practice-block" style="margin-top:22px;">
+          <div class="chip warm" style="margin-bottom:8px;">Academic Talk</div>
+          <div class="sentence-display" id="talkPassage" style="font-size:14px;line-height:1.8;height:auto;align-items:flex-start;"></div>
+          <div id="talkQuestions"></div>
+        </div>
+      </div>
+    </section>
+
+  </main>
+  <footer class="note">資料整理參考 ETS 官方公告之 2026 新制變動（2026/1/21 生效）。內容僅供練習參考，正式題型請以 ETS 官方說明為準。</footer>
+</div>
+
+<script>
+/* ---------------- TAB SWITCHING ---------------- */
+document.querySelectorAll('nav.tabs button').forEach(btn=>{
+  btn.addEventListener('click',()=>{
+    document.querySelectorAll('nav.tabs button').forEach(b=>b.classList.remove('active'));
+    document.querySelectorAll('.panel').forEach(p=>p.classList.remove('active'));
+    btn.classList.add('active');
+    document.getElementById('panel-'+btn.dataset.tab).classList.add('active');
+  });
+});
+
+/* ---------------- VOCAB DATA ---------------- */
+const vocab = [
+ {cat:'bene- / mal-（好／壞）',word:'beneficial',pos:'adj.',root:'bene(好)+fic(做)+ial',zh:'有益的',ex:"Regular exercise is beneficial to cardiovascular health."},
+ {cat:'bene- / mal-（好／壞）',word:'benevolent',pos:'adj.',root:'bene(好)+vol(意願)',zh:'仁慈的',ex:"The benevolent donor funded the entire scholarship program."},
+ {cat:'bene- / mal-（好／壞）',word:'malnutrition',pos:'n.',root:'mal(壞)+nutrition',zh:'營養不良',ex:"Malnutrition remains a serious problem in developing regions."},
+ {cat:'bene- / mal-（好／壞）',word:'malfunction',pos:'n./v.',root:'mal(壞)+function',zh:'故障',ex:"The satellite's malfunction delayed the data transmission by weeks."},
+
+ {cat:'contra- / counter-（反對）',word:'contradict',pos:'v.',root:'contra(反)+dict(說)',zh:'反駁；矛盾',ex:"The new findings contradict the earlier hypothesis."},
+ {cat:'contra- / counter-（反對）',word:'controversial',pos:'adj.',root:'contra(反)+vers(轉)',zh:'有爭議的',ex:"The professor's theory remains controversial among biologists."},
+ {cat:'contra- / counter-（反對）',word:'counterargument',pos:'n.',root:'counter(反)+argument',zh:'反駁論點',ex:"A strong essay anticipates the reader's counterargument."},
+ {cat:'contra- / counter-（反對）',word:'counteract',pos:'v.',root:'counter(反)+act',zh:'抵銷；對抗',ex:"Antioxidants can counteract some effects of cellular damage."},
+
+ {cat:'-ology（…學）',word:'methodology',pos:'n.',root:'method+ology',zh:'方法論',ex:"The study's methodology relied on a longitudinal survey."},
+ {cat:'-ology（…學）',word:'chronology',pos:'n.',root:'chrono(時間)+logy',zh:'年代順序',ex:"Historians reconstructed the chronology of the empire's collapse."},
+ {cat:'-ology（…學）',word:'terminology',pos:'n.',root:'term+inology',zh:'術語',ex:"Each discipline develops its own specialized terminology."},
+ {cat:'-ology（…學）',word:'ecology',pos:'n.',root:'eco(環境)+logy',zh:'生態學',ex:"Ecology examines the relationships between organisms and their environment."},
+
+ {cat:'trans-（跨越／轉變）',word:'transition',pos:'n./v.',root:'trans(跨)+ition',zh:'過渡；轉變',ex:"The species underwent a gradual transition to land-based life."},
+ {cat:'trans-（跨越／轉變）',word:'transmit',pos:'v.',root:'trans(跨)+mit(送)',zh:'傳遞；傳播',ex:"Neurons transmit electrical signals across synapses."},
+ {cat:'trans-（跨越／轉變）',word:'transform',pos:'v.',root:'trans(跨)+form',zh:'轉變；改造',ex:"Industrialization transformed agrarian societies into urban economies."},
+ {cat:'trans-（跨越／轉變）',word:'translucent',pos:'adj.',root:'trans(穿)+lucent(光)',zh:'半透明的',ex:"The mineral's translucent surface allows some light to pass through."},
+
+ {cat:'inter-（之間）',word:'interpret',pos:'v.',root:'inter(間)+pret',zh:'詮釋；解讀',ex:"Scholars continue to interpret the ancient text differently."},
+ {cat:'inter-（之間）',word:'interaction',pos:'n.',root:'inter(間)+action',zh:'互動',ex:"Social interaction plays a key role in cognitive development."},
+ {cat:'inter-（之間）',word:'intermediate',pos:'adj.',root:'inter(間)+medi(中)',zh:'中等的；中間的',ex:"The course is designed for intermediate-level learners."},
+ {cat:'inter-（之間）',word:'interdisciplinary',pos:'adj.',root:'inter(間)+disciplinary',zh:'跨學科的',ex:"Climate research is inherently interdisciplinary, combining physics and biology."},
+
+ {cat:'ambi-（雙重／兩者）',word:'ambiguous',pos:'adj.',root:'ambi(兩)+gu(去)',zh:'模稜兩可的',ex:"The professor's instructions were somewhat ambiguous."},
+ {cat:'ambi-（雙重／兩者）',word:'ambivalent',pos:'adj.',root:'ambi(兩)+val(力)',zh:'矛盾的；猶豫的',ex:"Many students feel ambivalent about standardized testing."},
+ {cat:'ambi-（雙重／兩者）',word:'ambidextrous',pos:'adj.',root:'ambi(兩)+dexter(右手)',zh:'雙手皆靈巧的',ex:"Few people are naturally ambidextrous."},
+ {cat:'ambi-（雙重／兩者）',word:'ambient',pos:'adj.',root:'ambi(周圍)',zh:'周圍的；環境的',ex:"Ambient noise can interfere with the experiment's accuracy."},
+
+ {cat:'抽象名詞化 -tion/-sion',word:'dissertation',pos:'n.',root:'dis+sert+ation',zh:'論文',ex:"She defended her dissertation on marine biodiversity."},
+ {cat:'抽象名詞化 -tion/-sion',word:'assumption',pos:'n.',root:'assume+tion',zh:'假定',ex:"The argument rests on a questionable assumption."},
+ {cat:'抽象名詞化 -tion/-sion',word:'comprehension',pos:'n.',root:'comprehend+sion',zh:'理解力',ex:"Reading comprehension improves with regular practice."},
+ {cat:'抽象名詞化 -tion/-sion',word:'contribution',pos:'n.',root:'contribute+tion',zh:'貢獻',ex:"His contribution to the field was widely recognized."},
+
+ {cat:'syn- / co-（共同）',word:'synthesis',pos:'n.',root:'syn(共)+thesis(放置)',zh:'綜合；合成',ex:"Photosynthesis is the synthesis of glucose from sunlight."},
+ {cat:'syn- / co-（共同）',word:'coherent',pos:'adj.',root:'co(共)+her(黏)',zh:'連貫的',ex:"The essay lacked a coherent structure."},
+ {cat:'syn- / co-（共同）',word:'collaborate',pos:'v.',root:'co(共)+labor(工作)',zh:'合作',ex:"Researchers from three universities collaborated on the project."},
+ {cat:'syn- / co-（共同）',word:'synchronize',pos:'v.',root:'syn(共)+chron(時間)',zh:'使同步',ex:"The dancers synchronized their movements perfectly."},
+
+ {cat:'-able / -ible（可…的）',word:'feasible',pos:'adj.',root:'feas(做)+ible',zh:'可行的',ex:"Building a solar farm there is economically feasible."},
+ {cat:'-able / -ible（可…的）',word:'plausible',pos:'adj.',root:'plaus(贊同)+ible',zh:'似乎合理的',ex:"The witness offered a plausible explanation for the delay."},
+ {cat:'-able / -ible（可…的）',word:'inevitable',pos:'adj.',root:'in(不)+evit(避)+able',zh:'不可避免的',ex:"Some erosion is an inevitable result of river flow."},
+ {cat:'-able / -ible（可…的）',word:'negligible',pos:'adj.',root:'neglig(忽略)+ible',zh:'微不足道的',ex:"The temperature change was negligible."},
+
+ {cat:'de- / dis-（負向／移除）',word:'deteriorate',pos:'v.',root:'de(向下)+terior(更糟)',zh:'惡化',ex:"Without maintenance, the bridge began to deteriorate."},
+ {cat:'de- / dis-（負向／移除）',word:'disrupt',pos:'v.',root:'dis(分離)+rupt(破)',zh:'中斷；擾亂',ex:"The storm disrupted the migration pattern of local birds."},
+ {cat:'de- / dis-（負向／移除）',word:'discredit',pos:'v.',root:'dis(不)+credit',zh:'使不可信',ex:"New evidence discredited the original theory."},
+ {cat:'de- / dis-（負向／移除）',word:'dismantle',pos:'v.',root:'dis(分離)+mantle',zh:'拆除；廢除',ex:"The committee voted to dismantle the outdated policy."},
+];
+
+let activeCat = 'all';
+let idx = 0;
+let flipped = false;
+
+function filteredVocab(){
+  return activeCat==='all' ? vocab : vocab.filter(v=>v.cat===activeCat);
+}
+function renderCatSelect(){
+  const cats = ['all', ...new Set(vocab.map(v=>v.cat))];
+  const wrap = document.getElementById('catSelect');
+  wrap.innerHTML = '';
+  cats.forEach(c=>{
+    const b = document.createElement('button');
+    b.textContent = c==='all' ? '全部' : c;
+    if(c===activeCat) b.classList.add('active');
+    b.addEventListener('click',()=>{ activeCat=c; idx=0; flipped=false; renderCatSelect(); renderCard(); });
+    wrap.appendChild(b);
+  });
+}
+function renderCard(){
+  const list = filteredVocab();
+  if(idx>=list.length) idx=0;
+  if(idx<0) idx=list.length-1;
+  const v = list[idx] || {word:'—',pos:'—',root:'—',zh:'—',ex:'—'};
+  document.getElementById('fcWord').textContent=v.word;
+  document.getElementById('fcPos').textContent=v.pos;
+  document.getElementById('fcRoot').textContent=v.root;
+  document.getElementById('fcZh').textContent=v.zh;
+  document.getElementById('fcEx').textContent=v.ex;
+  document.getElementById('progressStub').textContent=(idx+1)+' / '+list.length;
+  document.getElementById('flashcard').classList.remove('flipped');
+  flipped=false;
+}
+document.getElementById('flashcard').addEventListener('click',()=>{
+  flipped=!flipped;
+  document.getElementById('flashcard').classList.toggle('flipped',flipped);
+});
+document.getElementById('flipBtn').addEventListener('click',(e)=>{e.stopPropagation();flipped=!flipped;document.getElementById('flashcard').classList.toggle('flipped',flipped);});
+document.getElementById('nextBtn').addEventListener('click',()=>{idx++;renderCard();});
+document.getElementById('prevBtn').addEventListener('click',()=>{idx--;renderCard();});
+renderCatSelect();
+renderCard();
+
+/* ---------------- SHADOWING (Listen and Repeat) ---------------- */
+const shadowSentences = [
+ "The library closes at nine tonight.",
+ "She left her umbrella on the bus again.",
+ "Despite the rain, the game continued as planned.",
+ "Could you please forward this email to the admissions office?",
+ "The professor postponed the quiz until next Monday.",
+ "Although tired, the team kept working until the project was finished.",
+ "If the weather improves, we will hold the ceremony outdoors instead.",
+ "The committee is reviewing several proposals before making a final decision.",
+ "Having missed the first lecture, she had to catch up using recorded notes.",
+ "The new policy, which takes effect next semester, will affect all incoming students."
+];
+let shadowIdx = 0;
+document.getElementById('shadowTotal').textContent = shadowSentences.length;
+function showShadow(){
+  const el = document.getElementById('shadowSentence');
+  el.textContent = shadowSentences[shadowIdx];
+  el.classList.remove('hidden-text');
+  setTimeout(()=>{ el.classList.add('hidden-text'); },3000);
+}
+document.getElementById('shadowShow').addEventListener('click',showShadow);
+document.getElementById('shadowNext').addEventListener('click',()=>{
+  shadowIdx = (shadowIdx+1)%shadowSentences.length;
+  document.getElementById('shadowIdx').textContent = shadowIdx+1;
+  const el = document.getElementById('shadowSentence');
+  el.textContent='點「顯示句子」開始';
+  el.classList.remove('hidden-text');
+});
+
+/* ---------------- INTERVIEW TIMER ---------------- */
+const interviewQs = [
+ "What do you usually do on weekends?",
+ "Describe a teacher who influenced you and explain why.",
+ "What is your favorite season of the year? Why?",
+ "Talk about a skill you would like to learn in the future.",
+ "Describe your hometown to someone who has never been there.",
+ "What did you do during your last vacation?",
+ "Talk about a book or movie you recently enjoyed.",
+ "How do you usually spend time with your friends?",
+ "Describe a typical day at your school or workplace.",
+ "What is one habit you would like to change? Why?",
+ "Talk about a memorable trip you have taken.",
+ "Describe your favorite place to relax."
+];
+const arc = document.getElementById('interviewArc');
+const R = 33, C = 2*Math.PI*R;
+arc.style.strokeDasharray = C;
+arc.style.strokeDashoffset = 0;
+let interviewTimer = null;
+document.getElementById('interviewDraw').addEventListener('click',()=>{
+  clearInterval(interviewTimer);
+  arc.style.strokeDashoffset = 0;
+  arc.style.stroke = 'var(--accent)';
+  document.getElementById('interviewNum').textContent = 30;
+  const q = interviewQs[Math.floor(Math.random()*interviewQs.length)];
+  document.getElementById('interviewQ').textContent = q;
+});
+document.getElementById('interviewStart').addEventListener('click',()=>{
+  clearInterval(interviewTimer);
+  let t = 30;
+  arc.style.strokeDashoffset = 0;
+  arc.style.stroke = 'var(--accent)';
+  document.getElementById('interviewNum').textContent = t;
+  interviewTimer = setInterval(()=>{
+    t--;
+    document.getElementById('interviewNum').textContent = Math.max(t,0);
+    arc.style.strokeDashoffset = C*(1-t/30);
+    if(t<=10) arc.style.stroke = 'var(--alert)';
+    if(t<=0){ clearInterval(interviewTimer); document.getElementById('interviewQ').textContent += ' 　[時間到]'; }
+  },1000);
+});
+
+/* ---------------- BUILD A SENTENCE ---------------- */
+const buildItems = [
+ {chunks:["The museum's new exhibit,","which opened last week,","has already attracted","thousands of visitors."]},
+ {chunks:["Although she had never traveled abroad,","Maria adapted","quickly","to life in a new country."]},
+ {chunks:["Researchers believe that","the decline in bee populations","could seriously affect","global food production."]},
+ {chunks:["Not only did the experiment fail,","but it also","raised new questions","about the original hypothesis."]},
+ {chunks:["The committee, after months of debate,","finally approved","the proposed budget","for next year."]},
+ {chunks:["Had the city invested in public transportation earlier,","traffic congestion","would likely be","far less severe today."]},
+ {chunks:["What surprised the scientists most","was not the speed of the reaction,","but","its unexpected byproduct."]},
+ {chunks:["By the time the lecture ended,","most students","had already","left the auditorium."]}
+];
+let buildIdx = 0;
+let pool = [], assembled = [];
+function shuffle(arr){ return arr.map(v=>[Math.random(),v]).sort((a,b)=>a[0]-b[0]).map(v=>v[1]); }
+function renderBuild(){
+  const item = buildItems[buildIdx];
+  pool = shuffle(item.chunks.slice());
+  assembled = [];
+  document.getElementById('chipResult').textContent='';
+  document.getElementById('chipCorrect').style.display='none';
+  drawBuild();
+}
+function drawBuild(){
+  const poolEl = document.getElementById('chipPool');
+  const asmEl = document.getElementById('chipAssembled');
+  poolEl.innerHTML=''; asmEl.innerHTML='';
+  pool.forEach((c,i)=>{
+    const chip=document.createElement('div');
+    chip.className='word-chip'; chip.textContent=c;
+    chip.addEventListener('click',()=>{ assembled.push(c); pool.splice(i,1); drawBuild(); });
+    poolEl.appendChild(chip);
+  });
+  assembled.forEach((c,i)=>{
+    const chip=document.createElement('div');
+    chip.className='word-chip'; chip.textContent=c;
+    chip.addEventListener('click',()=>{ pool.push(c); assembled.splice(i,1); drawBuild(); });
+    asmEl.appendChild(chip);
+  });
+}
+document.getElementById('chipReset').addEventListener('click',renderBuild);
+document.getElementById('chipNext').addEventListener('click',()=>{ buildIdx=(buildIdx+1)%buildItems.length; renderBuild(); });
+document.getElementById('chipCheck').addEventListener('click',()=>{
+  const item = buildItems[buildIdx];
+  const correct = item.chunks.join(' ');
+  const attempt = assembled.join(' ');
+  const resultEl = document.getElementById('chipResult');
+  const correctEl = document.getElementById('chipCorrect');
+  if(attempt === correct){
+    resultEl.textContent = '✓ 正確！語序通順。';
+    resultEl.className='result-msg correct';
+  } else {
+    resultEl.textContent = '✗ 順序不對，再試一次，或看正確答案。';
+    resultEl.className='result-msg wrong';
+  }
+  correctEl.textContent = '正確句子：'+correct;
+  correctEl.style.display='block';
+});
+renderBuild();
+
+/* ---------------- EMAIL / DISCUSSION PROMPTS ---------------- */
+const emailPrompts = [
+ "寄信給教授，說明因病無法參加期中考，詢問補考事宜。（正式語氣）",
+ "寫信給宿舍管理處，反映房間暖氣故障，請求盡快維修。",
+ "回覆雜誌編輯，詢問投稿文章的審核進度。",
+ "寫信給圖書館，說明遺失借閱的書籍，詢問賠償流程。",
+ "寄信給社團負責人，詢問下次社團活動的時間與地點。（語氣較輕鬆）",
+ "寫信給航空公司客服，說明行李遺失，請求協助查詢。"
+];
+const discPrompts = [
+ "教授問：「線上學習是否能取代實體課堂？」",
+ "教授問：「企業是否該為員工提供無限期遠距工作？」",
+ "教授問：「政府是否該對含糖飲料課稅以促進健康？」",
+ "教授問：「大學是否應該將所有教材改為免費電子書？」",
+ "教授問：「社群媒體對年輕人的心理健康整體上是正面還是負面？」",
+ "教授問：「動物實驗在醫學研究中是否仍然必要？」"
+];
+function fillSelect(id, arr){
+  const el = document.getElementById(id);
+  arr.forEach(p=>{ const o=document.createElement('option'); o.textContent=p; el.appendChild(o); });
+}
+fillSelect('emailPrompt', emailPrompts);
+fillSelect('discPrompt', discPrompts);
+
+function wireWordCount(taId, countId){
+  const ta = document.getElementById(taId);
+  const ct = document.getElementById(countId);
+  ta.addEventListener('input',()=>{
+    const words = ta.value.trim().split(/\s+/).filter(Boolean).length;
+    ct.textContent = words+' words';
+  });
+}
+wireWordCount('emailText','emailCount');
+wireWordCount('discText','discCount');
+
+function wireTimer(btnId, numId, seconds){
+  let t = seconds, timer = null, running=false;
+  const btn = document.getElementById(btnId);
+  const num = document.getElementById(numId);
+  function fmt(s){ const m=Math.floor(s/60), r=s%60; return m+':'+String(r).padStart(2,'0'); }
+  btn.addEventListener('click',()=>{
+    if(running){ clearInterval(timer); running=false; btn.textContent='開始倒數'; return; }
+    running=true; btn.textContent='暫停';
+    timer = setInterval(()=>{
+      t--; num.textContent = fmt(Math.max(t,0));
+      if(t<=0){ clearInterval(timer); running=false; btn.textContent='時間到'; }
+    },1000);
+  });
+}
+wireTimer('emailTimerBtn','emailTimerNum',300);
+wireTimer('discTimerBtn','discTimerNum',300);
+
+/* ---------------- ACCORDIONS ---------------- */
+const readingTypes = [
+ {t:'主旨／目的題 (Main Idea / Purpose)',d:'問整篇或整段的核心重點。策略：看首尾句，作者通常在此交代主旨，不要被中間細節牽走。'},
+ {t:'細節題 (Detail)',d:'針對文中明確提到的資訊。策略：用關鍵字回找原文定位，不要靠記憶猜，答案幾乎都能在文中找到對應句。'},
+ {t:'推論題 (Inference)',d:'問文中沒有直接寫出但合理推得的結論。策略：選項要「合理且不超出文本範圍」，過度延伸的選項通常是陷阱。'},
+ {t:'詞彙題 (Vocabulary in Context)',d:'考單字在該句中的意思。策略：先看單字本身詞義，再用前後句確認是否符合語境，學術文章常有一詞多義。'},
+ {t:'句子簡化題 (Sentence Simplification)',d:'選出與原句意思最接近、但較簡短的版本。策略：保留原句的所有重要資訊，刪除冗詞但不能改變邏輯關係（因果、對比等）。'},
+ {t:'插入句題 (Insert Text)',d:'判斷一句話該插入文章哪個位置。策略：注意代詞（this, such, however）的指代對象，新句通常需要承接前一句的概念。'},
+ {t:'填空段落題 (Cloze / 補全段落)',d:'2026 新增題型，依文意填入缺漏的字母或詞語。策略：先讀懂整段邏輯，再用上下文搭配字首字母去推斷單字，而非單純猜字母。'},
+];
+const listeningTypes = [
+ {t:'主旨／目的題',d:'問整段對話或講座在談什麼、為什麼發生。策略：開頭幾句通常會點出主題，邊聽邊記下關鍵詞。'},
+ {t:'細節題',d:'針對講者明確提到的資訊。策略：筆記要記「數字、專有名詞、轉折詞後面的內容」，這些最常被考。'},
+ {t:'語氣／態度題',d:'問講者對某件事的感受或立場。策略：注意語調詞（語氣詞、重音、停頓）與用字選擇，例如諷刺、保留、肯定的措辭。'},
+ {t:'功能題（說話意圖）',d:'問講者說某句話的目的是什麼，常考「為什麼要重播這句」。策略：思考這句話在對話脈絡中的作用，而非字面意思。'},
+ {t:'組織結構題',d:'問講座的整體架構，例如用了什麼方式說明概念（舉例、比較、分類）。策略：聽的時候留意轉折／列舉詞（first, however, for example）。'},
+ {t:'推論題',d:'問對話／講座暗示但沒直接說出的內容。策略：根據語氣與上下文合理推斷，避免選太極端或無關的選項。'},
+];
+function buildAccordion(containerId, items){
+  const c = document.getElementById(containerId);
+  items.forEach(item=>{
+    const wrap = document.createElement('div');
+    wrap.className='accordion-item';
+    wrap.innerHTML = `<div class="accordion-head"><span>${item.t}</span><span class="arrow">⌄</span></div>
+      <div class="accordion-body"><p>${item.d}</p></div>`;
+    const head = wrap.querySelector('.accordion-head');
+    const body = wrap.querySelector('.accordion-body');
+    head.addEventListener('click',()=>{
+      const isOpen = wrap.classList.contains('open');
+      wrap.classList.toggle('open');
+      body.style.maxHeight = isOpen ? '0px' : body.scrollHeight+40+'px';
+    });
+    c.appendChild(wrap);
+  });
+}
+buildAccordion('readingAccordion', readingTypes);
+buildAccordion('listeningAccordion', listeningTypes);
+
+/* ---------------- VOCAB PERSISTENCE (storage) ---------------- */
+let masteredWords = [];
+async function loadMastered(){
+  try{
+    const r = await window.storage.get('toefl-mastered-words');
+    masteredWords = r ? JSON.parse(r.value) : [];
+  }catch(e){ masteredWords = []; }
+  updateVocabNote();
+}
+async function saveMastered(){
+  try{ await window.storage.set('toefl-mastered-words', JSON.stringify(masteredWords)); }catch(e){}
+  updateVocabNote();
+}
+function updateVocabNote(){
+  document.getElementById('vocabNote').textContent = '已掌握 '+masteredWords.length+' / '+vocab.length+' 個單字（會保留在這個分頁的紀錄中）';
+}
+document.getElementById('masterBtn').addEventListener('click',()=>{
+  const list = filteredVocab();
+  const v = list[idx];
+  if(!v) return;
+  if(!masteredWords.includes(v.word)){ masteredWords.push(v.word); saveMastered(); }
+});
+loadMastered();
+
+/* ---------------- AI-GENERATED NEW VOCAB ---------------- */
+document.getElementById('aiGenBtn').addEventListener('click', async ()=>{
+  const btn = document.getElementById('aiGenBtn');
+  const list = filteredVocab();
+  const v = list[idx];
+  const rootHint = v ? v.root : 'academic vocabulary';
+  const catHint = v ? v.cat : 'academic vocabulary';
+  btn.disabled = true; btn.textContent = '生成中...';
+  try{
+    const response = await fetch("https://api.anthropic.com/v1/messages", {
+      method: "POST",
+      headers: { "Content-Type": "application/json" },
+      body: JSON.stringify({
+        model: "claude-sonnet-4-6",
+        max_tokens: 1000,
+        messages: [{
+          role: "user",
+          content: `Generate 4 new TOEFL-level academic English vocabulary words sharing the same root/affix pattern as "${rootHint}" (category: "${catHint}"). Return ONLY a raw JSON array, no markdown, no preamble, in this exact schema: [{"word":"...","pos":"adj./n./v.","root":"short root breakdown in Chinese+English","zh":"Traditional Chinese meaning","ex":"one academic-style English example sentence"}]. Do not repeat any word already common in basic TOEFL lists. Words must be different from each other.`
+        }]
+      })
+    });
+    const data = await response.json();
+    const text = data.content.map(b=>b.text||"").join("");
+    const clean = text.replace(/```json|```/g,"").trim();
+    const newWords = JSON.parse(clean);
+    newWords.forEach(w=>{ w.cat = '✨ AI 生成：'+catHint; vocab.push(w); });
+    renderCatSelect();
+    activeCat = '✨ AI 生成：'+catHint;
+    renderCatSelect();
+    idx = filteredVocab().length - newWords.length;
+    renderCard();
+    document.getElementById('vocabNote').textContent = '已新增 '+newWords.length+' 個單字到「'+catHint+'」相關分類，可繼續翻卡複習。';
+  }catch(e){
+    document.getElementById('vocabNote').textContent = '生成失敗，請稍後再試一次。';
+  }
+  btn.disabled = false; btn.textContent = '✨ 用 AI 出新單字（同類詞根）';
+});
+
+/* ====================================================
+   READING PRACTICE
+==================================================== */
+function renderMCQ(containerId, questions){
+  const c = document.getElementById(containerId);
+  c.innerHTML = '';
+  questions.forEach((q,qi)=>{
+    const block = document.createElement('div');
+    block.className='mcq';
+    const qt = document.createElement('div'); qt.className='qtext'; qt.textContent=(qi+1)+'. '+q.q;
+    block.appendChild(qt);
+    const exp = document.createElement('div'); exp.className='explain'; exp.textContent=q.explain||'';
+    q.options.forEach((opt,oi)=>{
+      const b = document.createElement('button');
+      b.className='opt'; b.textContent=opt;
+      b.addEventListener('click',()=>{
+        const opts = block.querySelectorAll('.opt');
+        opts.forEach(o=>o.disabled=true);
+        if(oi===q.correctIndex){ b.classList.add('correct'); }
+        else{ b.classList.add('wrong'); opts[q.correctIndex].classList.add('correct'); }
+        exp.style.display='block';
+      });
+      block.appendChild(b);
+    });
+    block.appendChild(exp);
+    c.appendChild(block);
+  });
+}
+
+/* Complete the Words */
+const clozeAnswers = ['port','ide','spread','ents'];
+document.getElementById('clozePassage').innerHTML =
+ 'Coral reefs are often described as the rainforests of the sea because they sup<input class="blank-input" data-i="0" maxlength="14"> an extraordinary diversity of marine life. Despite covering less than one percent of the ocean floor, reefs prov<input class="blank-input" data-i="1" maxlength="14"> habitat for roughly a quarter of all known marine species. However, rising water temperatures have caused wide<input class="blank-input" data-i="2" maxlength="14"> bleaching events, in which corals expel the algae they depend on for nutri<input class="blank-input" data-i="3" maxlength="14">, often resulting in death if conditions do not improve quickly.';
+
+document.getElementById('clozeCheck').addEventListener('click',()=>{
+  const inputs = document.querySelectorAll('#clozePassage .blank-input');
+  let correctCount = 0;
+  inputs.forEach(inp=>{
+    const i = +inp.dataset.i;
+    const val = inp.value.trim().toLowerCase();
+    const isRight = val === clozeAnswers[i].toLowerCase();
+    inp.style.borderBottomColor = isRight ? 'var(--accent)' : 'var(--alert)';
+    if(isRight) correctCount++;
+  });
+  document.getElementById('clozeResult').textContent = '答對 '+correctCount+' / '+clozeAnswers.length+'　正確答案：support / provide / widespread / nutrients';
+  document.getElementById('clozeResult').className = correctCount===clozeAnswers.length ? 'result-msg correct' : 'result-msg wrong';
+});
+document.getElementById('clozeReveal').addEventListener('click',()=>{
+  document.querySelectorAll('#clozePassage .blank-input').forEach((inp,i)=>{ inp.value = clozeAnswers[i]; inp.style.borderBottomColor='var(--accent)'; });
+});
+
+/* Academic passage */
+document.getElementById('acadPassage').textContent =
+ "The domestication of the dog likely began more than 15,000 years ago, though researchers continue to debate the exact timeline and location. One leading hypothesis suggests that wolves were first drawn to human campsites by the prospect of scavenging food scraps. Over generations, the wolves that tolerated human presence most calmly would have had greater access to this food source, gradually favoring traits associated with tameness. This process, often called self-domestication, did not require deliberate breeding by early humans at all. Genetic evidence supports the idea that domestication occurred gradually rather than through a single deliberate event.";
+renderMCQ('acadQuestions', [
+ {q:"What is this passage mainly about?", options:["A possible explanation for how dogs became domesticated","The diet of wild wolves","Modern dog breeding techniques","The dangers of approaching wild animals"], correctIndex:0, explain:"主旨題：整段在解釋「自我馴化」這個假說。"},
+ {q:"According to the passage, what advantage did calmer wolves have?", options:["Greater access to food scraps near human camps","Better hunting skills","Larger litters","Resistance to disease"], correctIndex:0, explain:"細節題：原文明確提到「greater access to this food source」。"},
+ {q:"It can be inferred from the passage that self-domestication", options:["happened without humans intentionally breeding wolves","was disproven by genetic evidence","occurred only in one specific region","required centuries of selective breeding programs"], correctIndex:0, explain:"推論題：文中說「did not require deliberate breeding」。"},
+ {q:'The word "tameness" in the passage most likely means', options:["gentleness and ease around humans","physical strength","intelligence","aggressiveness"], correctIndex:0, explain:"詞彙題：根據上下文「tolerated human presence calmly」可推知意思。"}
+]);
+
+/* Daily life text */
+document.getElementById('dailyPassage').textContent =
+ "Notice: Starting next week, the Student Health Center will offer free flu vaccinations every Tuesday and Thursday from 10 a.m. to 2 p.m. No appointment is necessary, but students must bring their student ID. Vaccinations will continue through the end of the semester or while supplies last.";
+renderMCQ('dailyQuestions', [
+ {q:"What do students need to bring to get a vaccination?", options:["Their student ID","A doctor's note","Payment","A parent's signature"], correctIndex:0, explain:"細節題：直接寫在公告中。"},
+ {q:"When will the vaccinations stop being offered?", options:["At the end of the semester or when supplies run out","After one week","Only during final exams","They will continue indefinitely"], correctIndex:0, explain:"細節題：注意「or」連接的兩個結束條件。"}
+]);
+
+/* ====================================================
+   LISTENING PRACTICE
+==================================================== */
+const chooseResponses = [
+ {q:"Could you hand me those files on the desk?", options:["Sure, here you go.","I'm fine, thanks.","It's on the third floor.","Yes, I like reading them."], correctIndex:0},
+ {q:"I can't believe how long the line at the registrar's office is today.", options:["Yeah, I heard they're short-staffed this week.","It's three blocks from here.","I prefer tea over coffee.","The exam starts at nine."], correctIndex:0},
+ {q:"Do you know if the library is open this weekend?", options:["I think so, but maybe check their website to be sure.","I usually study in the morning.","It's a five-minute walk from the dorm.","No, I haven't read that book."], correctIndex:0},
+ {q:"I just realized I forgot to submit my assignment online.", options:["You should email your professor right away and explain.","That sounds like a great class.","I submitted mine last semester.","The library closes at midnight."], correctIndex:0}
+];
+renderMCQ('chooseResponseList', chooseResponses);
+
+document.getElementById('convoPassage').textContent =
+"Student: Hi, I wanted to ask about switching my major to Computer Science.\nAdvisor: Sure, do you currently meet the prerequisite courses?\nStudent: I've taken Calculus I and an intro programming course.\nAdvisor: That's a good start, but you'll also need Calculus II before you can declare.\nStudent: Okay, can I take that next semester and still switch over?\nAdvisor: Yes, as long as you complete it before your junior year.\nStudent: That's a relief. Is there a form I need to fill out?\nAdvisor: Yes, I'll email it to you today.";
+renderMCQ('convoQuestions', [
+ {q:"What is the student's main purpose for visiting the advisor?", options:["To ask about switching majors","To complain about a professor","To request a tuition refund","To drop a course"], correctIndex:0, explain:"主旨題：開頭第一句就點出目的。"},
+ {q:"What does the student still need to complete?", options:["Calculus II","An internship","A foreign language requirement","A lab report"], correctIndex:0, explain:"細節題：顧問明確指出還缺 Calculus II。"}
+]);
+
+document.getElementById('announcePassage').textContent =
+"Attention students: The campus shuttle schedule will change starting next Monday due to road construction near the main gate. Shuttles will now depart every twenty minutes instead of every ten, and the West Lot stop will be temporarily relocated to the Science Building entrance. Please check the updated map posted at each stop.";
+renderMCQ('announceQuestions', [
+ {q:"Why is the shuttle schedule changing?", options:["Road construction","A holiday break","A driver shortage","New bus purchases"], correctIndex:0, explain:"細節題：原因在第一句說明。"},
+ {q:"What is changing about the West Lot stop?", options:["It is temporarily relocated","It is being removed permanently","It now runs all night","It only operates on weekends"], correctIndex:0, explain:"細節題：注意「temporarily」這個關鍵字。"}
+]);
+
+document.getElementById('talkPassage').textContent =
+"Today I want to talk briefly about an idea in psychology called the 'mere exposure effect.' This is the tendency for people to develop a preference for things simply because they are familiar with them. In one classic study, participants were shown a series of unfamiliar images repeatedly. Even though the images themselves had no particular meaning, participants began to rate the images they had seen more often as more likeable than ones they'd seen only once or not at all. Some researchers believe this effect explains why we often grow fond of songs we initially disliked, simply after hearing them several times. However, the effect isn't unlimited — extreme overexposure can sometimes lead to the opposite reaction, where people grow tired of something instead of liking it more.";
+renderMCQ('talkQuestions', [
+ {q:"What is the main topic of the talk?", options:["The mere exposure effect","Memory loss in aging adults","How to design psychology experiments","The history of psychological research"], correctIndex:0, explain:"主旨題：開頭即點明主題。"},
+ {q:"According to the talk, what happened in the classic study?", options:["Participants rated frequently shown images more favorably","Participants forgot the images entirely","Participants rated all images as equally unlikeable","Participants couldn't tell the images apart"], correctIndex:0, explain:"細節題：對應「rate the images they had seen more often as more likeable」。"},
+ {q:"What example does the speaker give to relate the idea to real life?", options:["Growing fond of a song after repeated listening","Falling in love at first sight","Memorizing a phone number","Recognizing a celebrity's face"], correctIndex:0, explain:"細節題：對應「songs we initially disliked」的例子。"},
+ {q:"What does the speaker say about extreme overexposure?", options:["It can cause the opposite effect — people may grow tired of something","It has no effect at all","It only happens with images, not sounds","It always increases liking further"], correctIndex:0, explain:"細節／推論題：對應「the effect isn't unlimited」之後的句子。"}
+]);
+</script>
+</body>
+</html>
