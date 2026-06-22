@@ -7,11 +7,18 @@
 │   └── workflows/
 │       └── daily-vocab.yml      ← 排程設定（每天幾點要跑）
 ├── scripts/
-│   └── generate-vocab.js        ← 真正呼叫 OpenAI 的腳本
+│   ├── generate-vocab.js        ← 生成單字（會累積到 word-bank.json）
+│   └── generate-content.js      ← 生成閱讀／聽力／口說／寫作（每天覆寫）
 ├── data/
-│   └── word-bank.json           ← 累積的單字庫（一開始是空的 []）
-└── toefl_tool.html              ← 工具本體（已經改好會自動讀 data/word-bank.json）
+│   ├── word-bank.json           ← 累積的單字庫（一開始是空的 []）
+│   ├── daily-reading.json       ← 由 Actions 自動產生，不用手動建立
+│   ├── daily-listening.json     ← 同上
+│   ├── daily-speaking.json      ← 同上
+│   └── daily-writing.json       ← 同上
+└── toefl_tool.html              ← 工具本體（已經改好會自動讀取以上所有 JSON）
 ```
+
+**注意**：`daily-reading.json`、`daily-listening.json`、`daily-speaking.json`、`daily-writing.json` 這四個檔案**不用你自己建立**，第一次手動跑 Actions 的時候會自動生成。
 
 ## 設定步驟
 
@@ -33,6 +40,10 @@
 **4. 之後就會自動跑**
 - 預設排程是每天 UTC 23:00（= 台灣時間早上 7 點），在 `daily-vocab.yml` 裡的 `cron: '0 23 * * *'` 那行可以改時間
 - 每天都會挑一個新主題（環境科學、經濟學、心理學...等14個主題輪流），生成40個不重複的新單字，累加進 `word-bank.json`
+
+## 兩種更新邏輯不一樣，提醒一下
+- `word-bank.json`(單字)：每天**累加**新單字進去，越用越多
+- `daily-reading/listening/speaking/writing.json`(其他四大類)：每天**整批覆寫**，今天的內容會取代昨天的，不會累積——因為這四類本來就是設計成「今天的練習題」，不是長期題庫
 
 ## 費用
 用的是 `gpt-4o-mini`，一天40個單字的生成量非常小，大概幾分錢美金一天，一個月加起來通常不到一美金，但記得這是你 OpenAI 帳號在計費，要自己留意額度。
