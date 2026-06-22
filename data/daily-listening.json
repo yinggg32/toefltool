@@ -1,0 +1,117 @@
+{
+  "chooseResponse": [
+    {
+      "q": "What time does the meeting start?",
+      "options": [
+        "It's at 3 PM.",
+        "I didn't check.",
+        "Could you remind me?",
+        "I think it's canceled."
+      ],
+      "correctIndex": 0
+    }
+  ],
+  "conversation": {
+    "transcript": "Student: Hi, did you hear about the guest speaker this Friday?\nAdvisor: Yes, I did! I'm really looking forward to it.\nStudent: Me too. I heard they specialize in renewable energy.\nAdvisor: That's right. It should be quite informative.",
+    "questions": [
+      {
+        "q": "What is the topic of the guest speaker?",
+        "options": [
+          "Technology innovations",
+          "Renewable energy",
+          "Global warming",
+          "Sustainable agriculture"
+        ],
+        "correctIndex": 1,
+        "explain": "客座講者的專業是可再生能源。"
+      },
+      {
+        "q": "When is the guest speaker event scheduled?",
+        "options": [
+          "This Thursday",
+          "Next Friday",
+          "This Saturday",
+          "This Friday"
+        ],
+        "correctIndex": 3,
+        "explain": "客座講者的活動安排在這個星期五。"
+      }
+    ]
+  },
+  "announcement": {
+    "transcript": "Attention students! The library will have extended hours this weekend, staying open until 11 PM on both Saturday and Sunday. We encourage you to take advantage of these hours for your study needs.",
+    "questions": [
+      {
+        "q": "What are the new library hours this weekend?",
+        "options": [
+          "9 AM to 11 PM",
+          "8 AM to 10 PM",
+          "10 AM to 11 PM",
+          "9 AM to 10 PM"
+        ],
+        "correctIndex": 0,
+        "explain": "這個週末圖書館的開放時間是早上九點到晚上十一點。"
+      },
+      {
+        "q": "On which days will the library stay open late?",
+        "options": [
+          "Only Saturday",
+          "Only Sunday",
+          "Saturday and Monday",
+          "Saturday and Sunday"
+        ],
+        "correctIndex": 3,
+        "explain": "圖書館在星期六和星期天會延長開放時間。"
+      }
+    ]
+  },
+  "talk": {
+    "transcript": "Today, we will discuss the concept of cultural diffusion, which refers to the spread of cultural beliefs and social activities from one group to another. This process can occur through trade, migration, or the influence of technology and media. For example, when different cultures interact, they often exchange ideas, languages, and customs. An example of this is the spread of sushi from Japan to various parts of the world, which has led to a fusion of traditional and modern culinary practices. Understanding cultural diffusion is crucial as it highlights how interconnected our world has become.",
+    "questions": [
+      {
+        "q": "What does cultural diffusion refer to?",
+        "options": [
+          "Economic trade",
+          "Spread of cultural beliefs",
+          "Political alliances",
+          "Technological advancements"
+        ],
+        "correctIndex": 1,
+        "explain": "文化擴散是指文化信仰的傳播。"
+      },
+      {
+        "q": "What is one way cultural diffusion can occur?",
+        "options": [
+          "Through isolation",
+          "Through trade",
+          "Through conflict",
+          "Through education"
+        ],
+        "correctIndex": 1,
+        "explain": "文化擴散可以通過貿易發生。"
+      },
+      {
+        "q": "What is an example of cultural diffusion mentioned?",
+        "options": [
+          "Pizza",
+          "Sushi",
+          "Tacos",
+          "Pasta"
+        ],
+        "correctIndex": 1,
+        "explain": "講座中提到的例子是壽司的傳播。"
+      },
+      {
+        "q": "Why is understanding cultural diffusion important?",
+        "options": [
+          "It prevents wars",
+          "It promotes isolation",
+          "It shows interconnectedness",
+          "It reduces trade"
+        ],
+        "correctIndex": 2,
+        "explain": "理解文化擴散很重要，因為它顯示了我們世界的相互聯繫。"
+      }
+    ]
+  }
+}

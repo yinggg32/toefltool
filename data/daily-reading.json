@@ -1,0 +1,115 @@
+{
+  "cloze": {
+    "segments": [
+      {
+        "text": "The process of photosynthesis is essential for life on Earth. This process allows plants to convert sunlight into e"
+      },
+      {
+        "blank": "nergy"
+      },
+      {
+        "text": ", which they use to produce glucose from carbon d"
+      },
+      {
+        "blank": "ioxide"
+      },
+      {
+        "text": ". Photosynthesis occurs primarily in the chloroplasts of plant cells, where chlorophyll captures l"
+      },
+      {
+        "blank": "ight"
+      },
+      {
+        "text": ". The overall chemical reaction can be simplified to: 6CO₂ + 6H₂O + light energy → C₆H₁₂O₆ + 6O₂. This reaction not only provides food for the plants but also releases o"
+      },
+      {
+        "blank": "xygen"
+      },
+      {
+        "text": ", making it vital for the survival of most life forms. During photosynthesis, plants also absorb n"
+      },
+      {
+        "blank": "utrients"
+      },
+      {
+        "text": ", which are necessary for their growth and development."
+      }
+    ]
+  },
+  "academic": {
+    "passage": "Photosynthesis is a crucial biological process that sustains life on Earth. It allows plants to convert light energy into chemical energy stored in glucose, while also producing oxygen as a byproduct. This process occurs in the chloroplasts of plant cells, utilizing chlorophyll to capture sunlight. The importance of photosynthesis extends beyond just food production, as it plays a pivotal role in regulating atmospheric oxygen levels and supporting the entire food chain.",
+    "questions": [
+      {
+        "q": "What is the main purpose of photosynthesis?",
+        "options": [
+          "To produce glucose and oxygen",
+          "To absorb carbon dioxide",
+          "To release nutrients",
+          "To capture light energy"
+        ],
+        "correctIndex": 0,
+        "explain": "光合作用的主要目的是生產葡萄糖和氧氣。"
+      },
+      {
+        "q": "Where does photosynthesis occur?",
+        "options": [
+          "In the mitochondria",
+          "In the chloroplasts",
+          "In the vacuoles",
+          "In the cell membrane"
+        ],
+        "correctIndex": 1,
+        "explain": "光合作用發生在葉綠體内。"
+      },
+      {
+        "q": "What can be inferred about the role of chlorophyll?",
+        "options": [
+          "It produces glucose",
+          "It absorbs sunlight",
+          "It releases oxygen",
+          "It stores nutrients"
+        ],
+        "correctIndex": 1,
+        "explain": "可以推斷出葉綠素的作用是吸收陽光。"
+      },
+      {
+        "q": "What does the term 'byproduct' refer to in the context of photosynthesis?",
+        "options": [
+          "The main product",
+          "An unintended product",
+          "A waste product",
+          "A necessary component"
+        ],
+        "correctIndex": 1,
+        "explain": "在光合作用中，'副產品'指的是意外產生的產品。"
+      }
+    ]
+  },
+  "daily": {
+    "passage": "Attention students: The university library will be closed for maintenance this Saturday. Please plan accordingly and make sure to return any borrowed materials before the closure. We apologize for any inconvenience this may cause.",
+    "questions": [
+      {
+        "q": "When will the library be closed?",
+        "options": [
+          "This Saturday",
+          "Next Saturday",
+          "Tomorrow",
+          "Today"
+        ],
+        "correctIndex": 0,
+        "explain": "圖書館將在本週六關閉。"
+      },
+      {
+        "q": "What should students do before the library closes?",
+        "options": [
+          "Return borrowed materials",
+          "Check out new books",
+          "Attend a maintenance class",
+          "Submit library feedback"
+        ],
+        "correctIndex": 0,
+        "explain": "學生在圖書館關閉之前應該歸還借出的資料。"
+      }
+    ]
+  }
+}

@@ -1,0 +1,127 @@
+{
+  "buildSentences": [
+    {
+      "words": [
+        "the",
+        "students",
+        "discussed",
+        "the",
+        "impact",
+        "of",
+        "climate",
+        "change"
+      ],
+      "display": "The students discussed the impact of climate change."
+    },
+    {
+      "words": [
+        "this",
+        "research",
+        "provides",
+        "valuable",
+        "insights",
+        "into",
+        "human",
+        "behavior"
+      ],
+      "display": "This research provides valuable insights into human behavior."
+    },
+    {
+      "words": [
+        "the",
+        "presentation",
+        "was",
+        "about",
+        "the",
+        "importance",
+        "of",
+        "sustainability"
+      ],
+      "display": "The presentation was about the importance of sustainability."
+    },
+    {
+      "words": [
+        "many",
+        "experts",
+        "agree",
+        "that",
+        "education",
+        "is",
+        "a",
+        "key"
+      ],
+      "display": "Many experts agree that education is a key."
+    },
+    {
+      "words": [
+        "the",
+        "government",
+        "should",
+        "invest",
+        "more",
+        "in",
+        "renewable",
+        "energy"
+      ],
+      "display": "The government should invest more in renewable energy."
+    },
+    {
+      "words": [
+        "students",
+        "should",
+        "participate",
+        "in",
+        "extracurricular",
+        "activities",
+        "for",
+        "personal",
+        "growth"
+      ],
+      "display": "Students should participate in extracurricular activities for personal growth."
+    },
+    {
+      "words": [
+        "technology",
+        "has",
+        "revolutionized",
+        "the",
+        "way",
+        "we",
+        "communicate",
+        "and",
+        "learn"
+      ],
+      "display": "Technology has revolutionized the way we communicate and learn."
+    },
+    {
+      "words": [
+        "the",
+        "professor",
+        "encouraged",
+        "discussion",
+        "on",
+        "ethical",
+        "issues",
+        "in",
+        "research"
+      ],
+      "display": "The professor encouraged discussion on ethical issues in research."
+    }
+  ],
+  "emailPrompts": [
+    "寄信給教授，詢問課程的期末報告要求和截止日期。",
+    "寄信給宿舍管理處，請求更換宿舍房間。",
+    "寄信給圖書館，詢問如何延長書籍的借閱期限。",
+    "寄信給社團會長，表達想參加下個月的社團活動。",
+    "寄信給客服，報告訂單問題並請求退款。",
+    "寄信給學校輔導員，尋求學術和情感上的支持。"
+  ],
+  "discussionPrompts": [
+    "教授問：「你認為科技對教育的影響是正面還是負面？」",
+    "教授問：「全球暖化的主要原因是什麼？我們應該如何應對？」",
+    "教授問：「社交媒體對人際關係的影響是什麼？」",
+    "教授問：「藝術在現代社會中扮演了什麼樣的角色？」",
+    "教授問：「科學研究應該遵循哪些倫理準則？」",
+    "教授問：「如何在多元文化社會中促進包容性？」"
+  ]
+}

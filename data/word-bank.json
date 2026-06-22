@@ -286,5 +286,133 @@
     "zh": "異音",
     "ex": "Allophones are different phonetic realizations of the same phoneme.",
     "cat": "📰 每日新詞：linguistics"
+  },
+  {
+    "word": "linguistic",
+    "pos": "adj.",
+    "root": "語言 + linguistic",
+    "zh": "語言的",
+    "ex": "Linguistic analysis helps us understand language structure and use.",
+    "cat": "📰 每日新詞：linguistics"
+  },
+  {
+    "word": "idiolect",
+    "pos": "n.",
+    "root": "個體 + idiolect",
+    "zh": "個人語言",
+    "ex": "An idiolect is the unique language use of an individual.",
+    "cat": "📰 每日新詞：linguistics"
+  },
+  {
+    "word": "orthography",
+    "pos": "n.",
+    "root": "正 + orthographic",
+    "zh": "正字法",
+    "ex": "Orthography is the conventional spelling system of a language.",
+    "cat": "📰 每日新詞：linguistics"
+  },
+  {
+    "word": "connotation",
+    "pos": "n.",
+    "root": "內涵 + connotative",
+    "zh": "聯想意義",
+    "ex": "Connotation refers to the implied meaning of a word beyond its literal definition.",
+    "cat": "📰 每日新詞：linguistics"
+  },
+  {
+    "word": "denotation",
+    "pos": "n.",
+    "root": "外延 + denotative",
+    "zh": "字面意義",
+    "ex": "Denotation is the explicit, dictionary definition of a word.",
+    "cat": "📰 每日新詞：linguistics"
+  },
+  {
+    "word": "language acquisition",
+    "pos": "n.",
+    "root": "語言 + acquisition",
+    "zh": "語言習得",
+    "ex": "Language acquisition refers to the process of learning a language.",
+    "cat": "📰 每日新詞：linguistics"
+  },
+  {
+    "word": "pidgin",
+    "pos": "n.",
+    "root": "混雜 + pidgin",
+    "zh": "皮欽語",
+    "ex": "A pidgin is a simplified language that develops as a means of communication between speakers of different languages.",
+    "cat": "📰 每日新詞：linguistics"
+  },
+  {
+    "word": "grammatical",
+    "pos": "adj.",
+    "root": "語法 + grammatical",
+    "zh": "語法的",
+    "ex": "Grammatical errors can impede clear communication.",
+    "cat": "📰 每日新詞：linguistics"
+  },
+  {
+    "word": "speech act",
+    "pos": "n.",
+    "root": "言語 + speech act",
+    "zh": "言語行為",
+    "ex": "A speech act is an utterance that performs an action rather than just conveying information.",
+    "cat": "📰 每日新詞：linguistics"
+  },
+  {
+    "word": "metaphor",
+    "pos": "n.",
+    "root": "隱喻 + metaphorical",
+    "zh": "隱喻",
+    "ex": "A metaphor is a figure of speech that implies a comparison between two unlike things.",
+    "cat": "📰 每日新詞：linguistics"
+  },
+  {
+    "word": "subordinate",
+    "pos": "adj./n.",
+    "root": "下 + subordinate",
+    "zh": "從屬的",
+    "ex": "In a complex sentence, subordinate clauses provide additional information.",
+    "cat": "📰 每日新詞：linguistics"
+  },
+  {
+    "word": "affix",
+    "pos": "n.",
+    "root": "附加 + affix",
+    "zh": "詞綴",
+    "ex": "An affix is a morpheme that is added to a word to change its meaning.",
+    "cat": "📰 每日新詞：linguistics"
+  },
+  {
+    "word": "token",
+    "pos": "n.",
+    "root": "代幣 + token",
+    "zh": "詞元",
+    "ex": "In linguistics, a token refers to an instance of a word or phrase.",
+    "cat": "📰 每日新詞：linguistics"
+  },
+  {
+    "word": "cognition",
+    "pos": "n.",
+    "root": "認知 + cognitive",
+    "zh": "認知",
+    "ex": "Cognition plays a crucial role in understanding language processing.",
+    "cat": "📰 每日新詞：linguistics"
+  },
+  {
+    "word": "contextual",
+    "pos": "adj.",
+    "root": "上下文 + contextual",
+    "zh": "上下文的",
+    "ex": "Contextual clues can help decipher the meaning of unfamiliar words.",
+    "cat": "📰 每日新詞：linguistics"
+  },
+  {
+    "word": "collocation",
+    "pos": "n.",
+    "root": "搭配 + collocation",
+    "zh": "搭配詞",
+    "ex": "Collocations are words that frequently occur together in a language.",
+    "cat": "📰 每日新詞：linguistics"
   }
 ]
