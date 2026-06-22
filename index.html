@@ -291,6 +291,16 @@ footer.note{
         <div class="progress-stub" id="progressStub">0 / 0</div>
       </div>
 
+      <div class="card" id="checkinCard" style="padding:16px 18px;border-color:var(--accent);">
+        <h3 style="margin-bottom:6px;">📅 每日打卡</h3>
+        <p style="font-size:12px;color:var(--ink-soft);margin:0 0 10px;">每天打卡解鎖當天的 50 個單字（從整個單字庫裡輪流分配，目前庫存 <span id="poolSizeNum">0</span> 個，約每 <span id="cycleDaysNum">0</span> 天循環一輪）。紀錄存在這個瀏覽器的 localStorage，換裝置或清快取會重置。</p>
+        <div style="display:flex;align-items:center;gap:14px;flex-wrap:wrap;">
+          <div class="progress-stub" id="streakStub">🔥 連續 0 天</div>
+          <button class="btn accent" id="checkinBtn">今日打卡，解鎖單字</button>
+          <button class="btn ghost" id="viewTodayBtn">看今天的 50 個單字</button>
+        </div>
+      </div>
+
       <div class="card" id="catOverviewCard" style="padding:14px 16px;">
         <h3 style="margin-bottom:10px;">分類總覽（點分類名稱可直接跳去複習）</h3>
         <div id="catOverviewGrid" style="display:grid;grid-template-columns:repeat(auto-fill,minmax(140px,1fr));gap:8px;"></div>
@@ -601,14 +611,82 @@ const vocab = [
  {cat:'🗣️ 口說常用詞／句型',word:'it depends on',pos:'phrase',root:'—',zh:'這取決於',ex:"It depends on how much time I have before the deadline."},
  {cat:'🗣️ 口說常用詞／句型',word:'from my experience',pos:'phrase',root:'—',zh:'根據我的經驗',ex:"From my experience, group projects work best with clear roles."},
  {cat:'🗣️ 口說常用詞／句型',word:'to sum up',pos:'phrase',root:'—',zh:'總結來說',ex:"To sum up, I'd recommend taking the class with a friend."},
+
+ {cat:'📚 學術寫作動詞',word:'analyze',pos:'v.',root:'—',zh:'分析',ex:"Researchers analyzed the data to identify patterns."},
+ {cat:'📚 學術寫作動詞',word:'assess',pos:'v.',root:'—',zh:'評估',ex:"The committee will assess the proposal's feasibility."},
+ {cat:'📚 學術寫作動詞',word:'demonstrate',pos:'v.',root:'—',zh:'證明；顯示',ex:"The results demonstrate a clear correlation between the variables."},
+ {cat:'📚 學術寫作動詞',word:'illustrate',pos:'v.',root:'—',zh:'闈明；說明',ex:"The diagram illustrates how the process works."},
+ {cat:'📚 學術寫作動詞',word:'indicate',pos:'v.',root:'—',zh:'顯示；指出',ex:"The survey indicates a shift in public opinion."},
+ {cat:'📚 學術寫作動詞',word:'justify',pos:'v.',root:'—',zh:'證明合理',ex:"She struggled to justify the additional expense."},
+ {cat:'📚 學術寫作動詞',word:'emphasize',pos:'v.',root:'—',zh:'強調',ex:"The professor emphasized the importance of citing sources."},
+ {cat:'📚 學術寫作動詞',word:'attribute',pos:'v.',root:'—',zh:'歸因於',ex:"Scientists attribute the decline to habitat loss."},
+ {cat:'📚 學術寫作動詞',word:'derive',pos:'v.',root:'—',zh:'源自；推導',ex:"The term derives from a Latin root."},
+ {cat:'📚 學術寫作動詞',word:'facilitate',pos:'v.',root:'—',zh:'促進；使便利',ex:"New technology can facilitate collaboration across campuses."},
+ {cat:'📚 學術寫作動詞',word:'undermine',pos:'v.',root:'—',zh:'破壞；削弱',ex:"Constant interruptions can undermine productivity."},
+ {cat:'📚 學術寫作動詞',word:'reinforce',pos:'v.',root:'—',zh:'加強',ex:"The experiment reinforced the original theory."},
+
+ {cat:'🌍 社會議題詞彙',word:'sustainability',pos:'n.',root:'—',zh:'永續性',ex:"The company focused on sustainability in its packaging design."},
+ {cat:'🌍 社會議題詞彙',word:'inequality',pos:'n.',root:'—',zh:'不平等',ex:"Income inequality remains a major topic in economics."},
+ {cat:'🌍 社會議題詞彙',word:'urbanization',pos:'n.',root:'—',zh:'城市化',ex:"Rapid urbanization has changed the city's skyline."},
+ {cat:'🌍 社會議題詞彙',word:'regulation',pos:'n.',root:'—',zh:'法規；管制',ex:"New regulations aim to reduce carbon emissions."},
+ {cat:'🌍 社會議題詞彙',word:'globalization',pos:'n.',root:'—',zh:'全球化',ex:"Globalization has increased cultural exchange between countries."},
+ {cat:'🌍 社會議題詞彙',word:'discrimination',pos:'n.',root:'—',zh:'歧視',ex:"The policy was designed to prevent workplace discrimination."},
+ {cat:'🌍 社會議題詞彙',word:'policy',pos:'n.',root:'—',zh:'政策',ex:"The government introduced a new education policy."},
+ {cat:'🌍 社會議題詞彙',word:'welfare',pos:'n.',root:'—',zh:'福利',ex:"Public welfare programs support low-income families."},
+ {cat:'🌍 社會議題詞彙',word:'infrastructure',pos:'n.',root:'—',zh:'基礎設施',ex:"The city invested heavily in transportation infrastructure."},
+ {cat:'🌍 社會議題詞彙',word:'demographic',pos:'adj.',root:'—',zh:'人口統計的',ex:"The study focused on a specific demographic group."},
+ {cat:'🌍 社會議題詞彙',word:'legislation',pos:'n.',root:'—',zh:'法律；立法',ex:"New legislation will take effect next year."},
+ {cat:'🌍 社會議題詞彙',word:'civic',pos:'adj.',root:'—',zh:'公民的',ex:"Voting is an important civic responsibility."},
+
+ {cat:'🔬 科學報告詞彙',word:'variable',pos:'n.',root:'—',zh:'變數',ex:"The experiment controlled for several variables."},
+ {cat:'🔬 科學報告詞彙',word:'correlation',pos:'n.',root:'—',zh:'相關性',ex:"There is a strong correlation between exercise and mood."},
+ {cat:'🔬 科學報告詞彙',word:'sample',pos:'n.',root:'—',zh:'樣本',ex:"Researchers used a random sample of 200 participants."},
+ {cat:'🔬 科學報告詞彙',word:'observation',pos:'n.',root:'—',zh:'觀察',ex:"Field observations supported the initial hypothesis."},
+ {cat:'🔬 科學報告詞彙',word:'mechanism',pos:'n.',root:'—',zh:'機制',ex:"The exact mechanism behind the reaction remains unclear."},
+ {cat:'🔬 科學報告詞彙',word:'theory',pos:'n.',root:'—',zh:'理論',ex:"The theory was later confirmed by experimental evidence."},
+ {cat:'🔬 科學報告詞彙',word:'statistically',pos:'adv.',root:'—',zh:'統計上',ex:"The results were statistically significant."},
+ {cat:'🔬 科學報告詞彙',word:'replicate',pos:'v.',root:'—',zh:'複製；重複實驗',ex:"Other labs were unable to replicate the findings."},
+ {cat:'🔬 科學報告詞彙',word:'anomaly',pos:'n.',root:'—',zh:'異常',ex:"The sudden temperature anomaly puzzled scientists."},
+ {cat:'🔬 科學報告詞彙',word:'simulate',pos:'v.',root:'—',zh:'模擬',ex:"Computer models can simulate climate patterns."},
+ {cat:'🔬 科學報告詞彙',word:'empirical',pos:'adj.',root:'—',zh:'實證的',ex:"The claim lacks empirical support."},
+ {cat:'🔬 科學報告詞彙',word:'data',pos:'n.',root:'—',zh:'數據',ex:"The data were collected over a six-month period."},
+
+ {cat:'🏫 校園生活詞彙',word:'enroll',pos:'v.',root:'—',zh:'註冊；入學',ex:"She enrolled in three courses this semester."},
+ {cat:'🏫 校園生活詞彙',word:'tuition',pos:'n.',root:'—',zh:'學費',ex:"Tuition increased slightly this academic year."},
+ {cat:'🏫 校園生活詞彙',word:'dormitory',pos:'n.',root:'—',zh:'宿舍',ex:"Most freshmen live in the dormitory."},
+ {cat:'🏫 校園生活詞彙',word:'syllabus',pos:'n.',root:'—',zh:'課程大綱',ex:"The syllabus outlines the grading policy."},
+ {cat:'🏫 校園生活詞彙',word:'advisor',pos:'n.',root:'—',zh:'指導教授',ex:"Her advisor recommended she take the seminar."},
+ {cat:'🏫 校園生活詞彙',word:'extracurricular',pos:'adj.',root:'—',zh:'課外的',ex:"He's involved in several extracurricular activities."},
+ {cat:'🏫 校園生活詞彙',word:'semester',pos:'n.',root:'—',zh:'學期',ex:"Final exams take place at the end of the semester."},
+ {cat:'🏫 校園生活詞彙',word:'credit',pos:'n.',root:'—',zh:'學分',ex:"Students need 120 credits to graduate."},
+ {cat:'🏫 校園生活詞彙',word:'prerequisite',pos:'n.',root:'—',zh:'先修課程',ex:"Calculus is a prerequisite for this course."},
+ {cat:'🏫 校園生活詞彙',word:'scholarship',pos:'n.',root:'—',zh:'獎學金',ex:"She received a scholarship to study abroad."},
+ {cat:'🏫 校園生活詞彙',word:'orientation',pos:'n.',root:'—',zh:'新生訓練',ex:"Orientation week helps new students settle in."},
+ {cat:'🏫 校園生活詞彙',word:'transcript',pos:'n.',root:'—',zh:'成績單',ex:"The transcript shows all completed courses."},
+
+ {cat:'💬 態度與意見詞彙',word:'skeptical',pos:'adj.',root:'—',zh:'懷疑的',ex:"Many scientists remained skeptical of the new claim."},
+ {cat:'💬 態度與意見詞彙',word:'optimistic',pos:'adj.',root:'—',zh:'樂觀的',ex:"She stayed optimistic despite the setback."},
+ {cat:'💬 態度與意見詞彙',word:'reluctant',pos:'adj.',root:'—',zh:'不情願的',ex:"He was reluctant to change his research methods."},
+ {cat:'💬 態度與意見詞彙',word:'enthusiastic',pos:'adj.',root:'—',zh:'熱情的',ex:"The students were enthusiastic about the field trip."},
+ {cat:'💬 態度與意見詞彙',word:'indifferent',pos:'adj.',root:'—',zh:'不在乎的',ex:"The committee seemed indifferent to student feedback."},
+ {cat:'💬 態度與意見詞彙',word:'adamant',pos:'adj.',root:'—',zh:'堅持的',ex:"The professor was adamant that deadlines be respected."},
+ {cat:'💬 態度與意見詞彙',word:'apprehensive',pos:'adj.',root:'—',zh:'擔憂的',ex:"She felt apprehensive before her presentation."},
+ {cat:'💬 態度與意見詞彙',word:'confident',pos:'adj.',root:'—',zh:'有信心的',ex:"He spoke confidently about his findings."},
+ {cat:'💬 態度與意見詞彙',word:'dismissive',pos:'adj.',root:'—',zh:'不屑一顧的',ex:"The critic was dismissive of the new theory."},
+ {cat:'💬 態度與意見詞彙',word:'candid',pos:'adj.',root:'—',zh:'坦率的',ex:"Her candid feedback helped improve the paper."},
+ {cat:'💬 態度與意見詞彙',word:'tentative',pos:'adj.',root:'—',zh:'試探性的；暫定的',ex:"They reached a tentative agreement on the schedule."},
+ {cat:'💬 態度與意見詞彙',word:'resentful',pos:'adj.',root:'—',zh:'不滿的；憤恨的',ex:"Some employees felt resentful about the new policy."},
 ];
 
 let activeCat = 'all';
 let idx = 0;
 let flipped = false;
 let masteredWords = [];
+const DAILY_CAT = '📅 今日打卡單字';
+let dailyWords = [];
 
 function filteredVocab(){
+  if(activeCat===DAILY_CAT) return dailyWords;
   return activeCat==='all' ? vocab : vocab.filter(v=>v.cat===activeCat);
 }
 function renderCatSelect(){
@@ -904,22 +982,22 @@ function buildAccordion(containerId, items){
 buildAccordion('readingAccordion', readingTypes);
 buildAccordion('listeningAccordion', listeningTypes);
 
-/* ---------------- VOCAB PERSISTENCE (storage) ---------------- */
-async function loadMastered(){
+/* ---------------- VOCAB PERSISTENCE (localStorage — works on GitHub Pages too) ---------------- */
+function loadMastered(){
   try{
-    const r = await window.storage.get('toefl-mastered-words');
-    masteredWords = r ? JSON.parse(r.value) : [];
+    const raw = localStorage.getItem('toefl-mastered-words');
+    masteredWords = raw ? JSON.parse(raw) : [];
   }catch(e){ masteredWords = []; }
   updateVocabNote();
   renderCatOverview();
 }
-async function saveMastered(){
-  try{ await window.storage.set('toefl-mastered-words', JSON.stringify(masteredWords)); }catch(e){}
+function saveMastered(){
+  try{ localStorage.setItem('toefl-mastered-words', JSON.stringify(masteredWords)); }catch(e){}
   updateVocabNote();
   renderCatOverview();
 }
 function updateVocabNote(){
-  document.getElementById('vocabNote').textContent = '已掌握 '+masteredWords.length+' / '+vocab.length+' 個單字（會保留在這個分頁的紀錄中）';
+  document.getElementById('vocabNote').textContent = '已掌握 '+masteredWords.length+' / '+vocab.length+' 個單字（紀錄存在這個瀏覽器，換裝置不會同步）';
 }
 document.getElementById('masterBtn').addEventListener('click',()=>{
   const list = filteredVocab();
@@ -928,6 +1006,56 @@ document.getElementById('masterBtn').addEventListener('click',()=>{
   if(!masteredWords.includes(v.word)){ masteredWords.push(v.word); saveMastered(); }
 });
 loadMastered();
+
+/* ---------------- DAILY CHECK-IN ---------------- */
+function todayStr(){ const d=new Date(); return d.getFullYear()+'-'+(d.getMonth()+1)+'-'+d.getDate(); }
+function yesterdayStr(){ const d=new Date(); d.setDate(d.getDate()-1); return d.getFullYear()+'-'+(d.getMonth()+1)+'-'+d.getDate(); }
+function loadCheckin(){
+  try{
+    const raw = localStorage.getItem('toefl-checkin');
+    return raw ? JSON.parse(raw) : {lastDate:null, streak:0, dayIndex:-1};
+  }catch(e){ return {lastDate:null, streak:0, dayIndex:-1}; }
+}
+function saveCheckin(state){
+  try{ localStorage.setItem('toefl-checkin', JSON.stringify(state)); }catch(e){}
+}
+function getDailyWords(dayIndex){
+  const perDay = 50;
+  const n = vocab.length;
+  const start = (dayIndex*perDay) % n;
+  const out = [];
+  for(let i=0;i<Math.min(perDay,n);i++){ out.push(vocab[(start+i)%n]); }
+  return out;
+}
+function refreshCheckinUI(){
+  const state = loadCheckin();
+  document.getElementById('streakStub').textContent = '🔥 連續 '+state.streak+' 天';
+  document.getElementById('poolSizeNum').textContent = vocab.length;
+  document.getElementById('cycleDaysNum').textContent = Math.max(1, Math.ceil(vocab.length/50));
+  const checkedToday = state.lastDate === todayStr();
+  document.getElementById('checkinBtn').textContent = checkedToday ? '✓ 今天已打卡' : '今日打卡，解鎖單字';
+  document.getElementById('checkinBtn').disabled = checkedToday;
+}
+document.getElementById('checkinBtn').addEventListener('click',()=>{
+  const state = loadCheckin();
+  const today = todayStr();
+  if(state.lastDate === today) return;
+  const newStreak = (state.lastDate === yesterdayStr()) ? state.streak+1 : 1;
+  const newDayIndex = state.dayIndex+1;
+  saveCheckin({lastDate: today, streak: newStreak, dayIndex: newDayIndex});
+  dailyWords = getDailyWords(newDayIndex);
+  activeCat = DAILY_CAT; idx = 0; flipped = false;
+  renderCatSelect(); renderCard();
+  refreshCheckinUI();
+});
+document.getElementById('viewTodayBtn').addEventListener('click',()=>{
+  const state = loadCheckin();
+  const dayIndex = state.dayIndex>=0 ? state.dayIndex : 0;
+  dailyWords = getDailyWords(dayIndex);
+  activeCat = DAILY_CAT; idx = 0; flipped = false;
+  renderCatSelect(); renderCard();
+});
+refreshCheckinUI();
 
 /* ---------------- AI-GENERATED NEW VOCAB ---------------- */
 document.getElementById('aiGenBtn').addEventListener('click', async ()=>{
@@ -964,10 +1092,27 @@ document.getElementById('aiGenBtn').addEventListener('click', async ()=>{
     renderCard();
     document.getElementById('vocabNote').textContent = '已新增 '+newWords.length+' 個單字到「'+newCatName+'」分類，可以開始複習了。';
   }catch(e){
-    document.getElementById('vocabNote').textContent = '生成失敗，請稍後再試一次，或換個主題描述。';
+    document.getElementById('vocabNote').textContent = '生成失敗——這個功能需要在 Claude.ai 對話視窗裡開啟才能用，部署到 GitHub Pages 等外部網站後會無法連線（屬於架構限制，非故障）。';
   }
   btn.disabled = false; btn.textContent = '生成新單字';
 });
+
+function speakListening(text){
+  try{ window.speechSynthesis.cancel(); const u = new SpeechSynthesisUtterance(text); u.lang='en-US'; u.rate=0.95; window.speechSynthesis.speak(u); return true; }
+  catch(e){ return false; }
+}
+function addPlayButton(targetId, getText){
+  const target = document.getElementById(targetId);
+  const btn = document.createElement('button');
+  btn.className = 'btn accent';
+  btn.style.marginBottom = '10px';
+  btn.textContent = '🔊 播放語音';
+  btn.addEventListener('click', ()=>{
+    const ok = speakListening(getText());
+    if(!ok) btn.textContent = '瀏覽器不支援語音，請自行朗讀逐字稿';
+  });
+  target.parentNode.insertBefore(btn, target);
+}
 
 /* ====================================================
    READING PRACTICE
@@ -986,13 +1131,23 @@ function updateSummary(key){
   }
   el.textContent = txt;
 }
-function renderMCQ(containerId, questions, statsKey){
+function renderMCQ(containerId, questions, statsKey, speakable){
   const c = document.getElementById(containerId);
   c.innerHTML = '';
   questions.forEach((q,qi)=>{
     const block = document.createElement('div');
     block.className='mcq';
-    const qt = document.createElement('div'); qt.className='qtext'; qt.textContent=(qi+1)+'. '+q.q;
+    const qt = document.createElement('div'); qt.className='qtext';
+    if(speakable){
+      const playBtn = document.createElement('button');
+      playBtn.className='btn ghost'; playBtn.style.cssText='font-size:11px;padding:4px 9px;margin-right:8px;';
+      playBtn.textContent='🔊';
+      playBtn.addEventListener('click',(e)=>{ e.stopPropagation(); speakListening(q.q); });
+      qt.appendChild(playBtn);
+      qt.appendChild(document.createTextNode((qi+1)+'. '+q.q));
+    } else {
+      qt.textContent=(qi+1)+'. '+q.q;
+    }
     block.appendChild(qt);
     const exp = document.createElement('div'); exp.className='explain'; exp.textContent=q.explain||'';
     q.options.forEach((opt,oi)=>{
@@ -1067,7 +1222,7 @@ document.getElementById('clozeReveal').addEventListener('click',()=>{
 
 /* Academic passage */
 document.getElementById('acadPassage').textContent =
- "The domestication of the dog likely began more than 15,000 years ago, though researchers continue to debate the exact timeline and location. One leading hypothesis suggests that wolves were first drawn to human campsites by the prospect of scavenging food scraps. Over generations, the wolves that tolerated human presence most calmly would have had greater access to this food source, gradually favoring traits associated with tameness. This process, often called self-domestication, did not require deliberate breeding by early humans at all. Genetic evidence supports the idea that domestication occurred gradually rather than through a single deliberate event.";
+ "The domestication of the dog likely began more than 15,000 years ago, though researchers continue to debate the exact timeline and location. One leading hypothesis suggests that wolves were first drawn to human campsites by the prospect of scavenging food scraps left behind by early hunter-gatherers. Over many generations, the wolves that tolerated human presence most calmly would have had greater and more consistent access to this food source, gradually favoring traits associated with tameness over traits suited to wariness and aggression. This process, often called self-domestication, did not require deliberate breeding by early humans at all; instead, it unfolded as a natural by-product of proximity and opportunity. Genetic evidence largely supports the idea that domestication occurred gradually over thousands of years rather than through a single deliberate event at one site. Some scientists have proposed alternative explanations, including the possibility that humans intentionally captured and raised wolf pups from an early stage, slowly shaping a more cooperative lineage through repeated human contact. Even so, the self-domestication hypothesis remains the most widely supported explanation among researchers studying the evolutionary history of dogs and their relationship with humans today.";
 renderMCQ('acadQuestions', [
  {q:"What is this passage mainly about?", options:["A possible explanation for how dogs became domesticated","The diet of wild wolves","Modern dog breeding techniques","The dangers of approaching wild animals"], correctIndex:0, explain:"主旨題：整段在解釋「自我馴化」這個假說。"},
  {q:"According to the passage, what advantage did calmer wolves have?", options:["Greater access to food scraps near human camps","Better hunting skills","Larger litters","Resistance to disease"], correctIndex:0, explain:"細節題：原文明確提到「greater access to this food source」。"},
@@ -1092,10 +1247,11 @@ const chooseResponses = [
  {q:"Do you know if the library is open this weekend?", options:["I think so, but maybe check their website to be sure.","I usually study in the morning.","It's a five-minute walk from the dorm.","No, I haven't read that book."], correctIndex:0},
  {q:"I just realized I forgot to submit my assignment online.", options:["You should email your professor right away and explain.","That sounds like a great class.","I submitted mine last semester.","The library closes at midnight."], correctIndex:0}
 ];
-renderMCQ('chooseResponseList', chooseResponses, 'listening');
+renderMCQ('chooseResponseList', chooseResponses, 'listening', true);
 
 document.getElementById('convoPassage').textContent =
 "Student: Hi, I wanted to ask about switching my major to Computer Science.\nAdvisor: Sure, do you currently meet the prerequisite courses?\nStudent: I've taken Calculus I and an intro programming course.\nAdvisor: That's a good start, but you'll also need Calculus II before you can declare.\nStudent: Okay, can I take that next semester and still switch over?\nAdvisor: Yes, as long as you complete it before your junior year.\nStudent: That's a relief. Is there a form I need to fill out?\nAdvisor: Yes, I'll email it to you today.";
+addPlayButton('convoPassage', ()=>document.getElementById('convoPassage').textContent);
 renderMCQ('convoQuestions', [
  {q:"What is the student's main purpose for visiting the advisor?", options:["To ask about switching majors","To complain about a professor","To request a tuition refund","To drop a course"], correctIndex:0, explain:"主旨題：開頭第一句就點出目的。"},
  {q:"What does the student still need to complete?", options:["Calculus II","An internship","A foreign language requirement","A lab report"], correctIndex:0, explain:"細節題：顧問明確指出還缺 Calculus II。"}
@@ -1103,6 +1259,7 @@ renderMCQ('convoQuestions', [
 
 document.getElementById('announcePassage').textContent =
 "Attention students: The campus shuttle schedule will change starting next Monday due to road construction near the main gate. Shuttles will now depart every twenty minutes instead of every ten, and the West Lot stop will be temporarily relocated to the Science Building entrance. Please check the updated map posted at each stop.";
+addPlayButton('announcePassage', ()=>document.getElementById('announcePassage').textContent);
 renderMCQ('announceQuestions', [
  {q:"Why is the shuttle schedule changing?", options:["Road construction","A holiday break","A driver shortage","New bus purchases"], correctIndex:0, explain:"細節題：原因在第一句說明。"},
  {q:"What is changing about the West Lot stop?", options:["It is temporarily relocated","It is being removed permanently","It now runs all night","It only operates on weekends"], correctIndex:0, explain:"細節題：注意「temporarily」這個關鍵字。"}
@@ -1110,6 +1267,7 @@ renderMCQ('announceQuestions', [
 
 document.getElementById('talkPassage').textContent =
 "Today I want to talk briefly about an idea in psychology called the 'mere exposure effect.' This is the tendency for people to develop a preference for things simply because they are familiar with them. In one classic study, participants were shown a series of unfamiliar images repeatedly. Even though the images themselves had no particular meaning, participants began to rate the images they had seen more often as more likeable than ones they'd seen only once or not at all. Some researchers believe this effect explains why we often grow fond of songs we initially disliked, simply after hearing them several times. However, the effect isn't unlimited — extreme overexposure can sometimes lead to the opposite reaction, where people grow tired of something instead of liking it more.";
+addPlayButton('talkPassage', ()=>document.getElementById('talkPassage').textContent);
 renderMCQ('talkQuestions', [
  {q:"What is the main topic of the talk?", options:["The mere exposure effect","Memory loss in aging adults","How to design psychology experiments","The history of psychological research"], correctIndex:0, explain:"主旨題：開頭即點明主題。"},
  {q:"According to the talk, what happened in the classic study?", options:["Participants rated frequently shown images more favorably","Participants forgot the images entirely","Participants rated all images as equally unlikeable","Participants couldn't tell the images apart"], correctIndex:0, explain:"細節題：對應「rate the images they had seen more often as more likeable」。"},
