@@ -692,6 +692,7 @@ function filteredVocab(){
 }
 function renderCatSelect(){
   const cats = ['all', ...new Set(vocab.map(v=>v.cat))];
+  if(activeCat===DAILY_CAT) cats.unshift(DAILY_CAT);
   const wrap = document.getElementById('catSelect');
   wrap.innerHTML = '';
   cats.forEach(c=>{
@@ -1037,10 +1038,17 @@ function refreshCheckinUI(){
   document.getElementById('checkinBtn').textContent = checkedToday ? '✓ 今天已打卡' : '今日打卡，解鎖單字';
   document.getElementById('checkinBtn').disabled = checkedToday;
 }
+function scrollToFlashcard(){
+  const el = document.getElementById('flashcard');
+  if(el) el.scrollIntoView({behavior:'smooth', block:'center'});
+}
 document.getElementById('checkinBtn').addEventListener('click',()=>{
   const state = loadCheckin();
   const today = todayStr();
-  if(state.lastDate === today) return;
+  if(state.lastDate === today){
+    document.getElementById('checkinBtn').textContent = '✓ 今天已打卡（明天才能再打卡）';
+    return;
+  }
   const newStreak = (state.lastDate === yesterdayStr()) ? state.streak+1 : 1;
   const newDayIndex = state.dayIndex+1;
   saveCheckin({lastDate: today, streak: newStreak, dayIndex: newDayIndex});
@@ -1048,6 +1056,7 @@ document.getElementById('checkinBtn').addEventListener('click',()=>{
   activeCat = DAILY_CAT; idx = 0; flipped = false;
   renderCatSelect(); renderCard();
   refreshCheckinUI();
+  scrollToFlashcard();
 });
 document.getElementById('viewTodayBtn').addEventListener('click',()=>{
   const state = loadCheckin();
@@ -1055,6 +1064,7 @@ document.getElementById('viewTodayBtn').addEventListener('click',()=>{
   dailyWords = getDailyWords(dayIndex);
   activeCat = DAILY_CAT; idx = 0; flipped = false;
   renderCatSelect(); renderCard();
+  scrollToFlashcard();
 });
 refreshCheckinUI();
 
