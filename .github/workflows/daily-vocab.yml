@@ -1,12 +1,14 @@
-name: Daily Vocab Update
+name: Daily Content Update
 
 on:
   schedule:
+    # 23:00 UTC = 07:00 Taiwan time (UTC+8) the next day.
+    # Change this if you want a different time — use https://crontab.guru to check.
     - cron: '0 23 * * *'
-  workflow_dispatch: {}
+  workflow_dispatch: {}   # lets you click "Run workflow" manually on GitHub to test it
 
 permissions:
-  contents: write
+  contents: write   # needed so the workflow can commit the updated JSON back to the repo
 
 jobs:
   update-vocab:
@@ -25,8 +27,13 @@ jobs:
           OPENAI_API_KEY: ${{ secrets.OPENAI_API_KEY }}
         run: node scripts/generate-vocab.js
 
+      - name: Generate today's reading / listening / speaking / writing content
+        env:
+          OPENAI_API_KEY: ${{ secrets.OPENAI_API_KEY }}
+        run: node scripts/generate-content.js
+
       - name: Commit and push changes
         uses: stefanzweifel/git-auto-commit-action@v5
         with:
-          commit_message: "🤖 Daily vocab update"
+          commit_message: "🤖 Daily content update (vocab + reading + listening + speaking + writing)"
           file_pattern: data/*.json
