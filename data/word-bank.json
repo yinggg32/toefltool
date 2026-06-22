@@ -1,1 +1,290 @@
-[]
+[
+  {
+    "word": "phonetics",
+    "pos": "n.",
+    "root": "音-音+etics-學科",
+    "zh": "語音學",
+    "ex": "Phonetics is crucial for understanding how sounds are produced and perceived in different languages.",
+    "cat": "📰 每日新詞：linguistics"
+  },
+  {
+    "word": "syntax",
+    "pos": "n.",
+    "root": "句法-句子+tax-結構",
+    "zh": "句法",
+    "ex": "The syntax of a language dictates how words combine to form meaningful sentences.",
+    "cat": "📰 每日新詞：linguistics"
+  },
+  {
+    "word": "morpheme",
+    "pos": "n.",
+    "root": "語素-語+heme-單位",
+    "zh": "語素",
+    "ex": "A morpheme is the smallest grammatical unit in a language that carries meaning.",
+    "cat": "📰 每日新詞：linguistics"
+  },
+  {
+    "word": "semantics",
+    "pos": "n.",
+    "root": "語義-語+antics-學科",
+    "zh": "語義學",
+    "ex": "Semantics explores the meaning of words and how they combine in context.",
+    "cat": "📰 每日新詞：linguistics"
+  },
+  {
+    "word": "pragmatics",
+    "pos": "n.",
+    "root": "語用-語+matics-學科",
+    "zh": "語用學",
+    "ex": "Pragmatics studies how context influences the interpretation of meaning.",
+    "cat": "📰 每日新詞：linguistics"
+  },
+  {
+    "word": "phonology",
+    "pos": "n.",
+    "root": "音系-音+ology-學科",
+    "zh": "音系學",
+    "ex": "Phonology examines the abstract sound systems of languages and their patterns.",
+    "cat": "📰 每日新詞：linguistics"
+  },
+  {
+    "word": "dialect",
+    "pos": "n.",
+    "root": "方言-方+lect-說話",
+    "zh": "方言",
+    "ex": "A dialect may vary significantly in pronunciation, vocabulary, and grammar from the standard language.",
+    "cat": "📰 每日新詞：linguistics"
+  },
+  {
+    "word": "grammar",
+    "pos": "n.",
+    "root": "文法-文+mar-規則",
+    "zh": "文法",
+    "ex": "Grammar is the set of rules that govern the structure of sentences in a language.",
+    "cat": "📰 每日新詞：linguistics"
+  },
+  {
+    "word": "lexicon",
+    "pos": "n.",
+    "root": "詞彙-詞+icon-表徵",
+    "zh": "詞彙",
+    "ex": "The lexicon of a language includes all the words and phrases used by speakers.",
+    "cat": "📰 每日新詞：linguistics"
+  },
+  {
+    "word": "linguistics",
+    "pos": "n.",
+    "root": "語言-語+istics-學科",
+    "zh": "語言學",
+    "ex": "Linguistics is the scientific study of language and its structure.",
+    "cat": "📰 每日新詞：linguistics"
+  },
+  {
+    "word": "articulation",
+    "pos": "n.",
+    "root": "發音-發+ulation-過程",
+    "zh": "發音",
+    "ex": "Articulation refers to the physical production of speech sounds.",
+    "cat": "📰 每日新詞：linguistics"
+  },
+  {
+    "word": "intonation",
+    "pos": "n.",
+    "root": "語調-語+ation-過程",
+    "zh": "語調",
+    "ex": "Intonation patterns can change the meaning of a sentence in spoken language.",
+    "cat": "📰 每日新詞：linguistics"
+  },
+  {
+    "word": "sociolinguistics",
+    "pos": "n.",
+    "root": "社會-社會+linguistics-語言學",
+    "zh": "社會語言學",
+    "ex": "Sociolinguistics studies how language varies and changes in social groups.",
+    "cat": "📰 每日新詞：linguistics"
+  },
+  {
+    "word": "bilingualism",
+    "pos": "n.",
+    "root": "雙語-雙+linguism-語言能力",
+    "zh": "雙語性",
+    "ex": "Bilingualism can enhance cognitive abilities and cultural understanding.",
+    "cat": "📰 每日新詞：linguistics"
+  },
+  {
+    "word": "register",
+    "pos": "n.",
+    "root": "語域-語+ster-範疇",
+    "zh": "語域",
+    "ex": "Different registers are used in formal and informal communication.",
+    "cat": "📰 每日新詞：linguistics"
+  },
+  {
+    "word": "neologism",
+    "pos": "n.",
+    "root": "新詞-新+logism-語言",
+    "zh": "新詞",
+    "ex": "The rise of technology has led to the creation of many neologisms.",
+    "cat": "📰 每日新詞：linguistics"
+  },
+  {
+    "word": "etymology",
+    "pos": "n.",
+    "root": "語源-語+logy-學科",
+    "zh": "語源學",
+    "ex": "Etymology traces the history and origins of words.",
+    "cat": "📰 每日新詞：linguistics"
+  },
+  {
+    "word": "lexical",
+    "pos": "adj.",
+    "root": "詞彙-詞+ical-形容詞",
+    "zh": "詞彙的",
+    "ex": "Lexical choices can significantly affect the tone of a written text.",
+    "cat": "📰 每日新詞：linguistics"
+  },
+  {
+    "word": "morphology",
+    "pos": "n.",
+    "root": "形態-形+ology-學科",
+    "zh": "形態學",
+    "ex": "Morphology studies the structure and formation of words in a language.",
+    "cat": "📰 每日新詞：linguistics"
+  },
+  {
+    "word": "code-switching",
+    "pos": "n.",
+    "root": "代碼-代碼+switching-轉換",
+    "zh": "代碼轉換",
+    "ex": "Code-switching often occurs in bilingual communities to convey identity.",
+    "cat": "📰 每日新詞：linguistics"
+  },
+  {
+    "word": "creole",
+    "pos": "n.",
+    "root": "克里奧語-混合+ole-語言",
+    "zh": "克里奧語",
+    "ex": "Creole languages develop from the mixing of different linguistic traditions.",
+    "cat": "📰 每日新詞：linguistics"
+  },
+  {
+    "word": "homonym",
+    "pos": "n.",
+    "root": "同名-同+onym-名字",
+    "zh": "同名詞",
+    "ex": "Homonyms can lead to confusion in language due to their similar sounds but different meanings.",
+    "cat": "📰 每日新詞：linguistics"
+  },
+  {
+    "word": "syntax tree",
+    "pos": "n.",
+    "root": "句法樹-句+法樹",
+    "zh": "句法樹",
+    "ex": "A syntax tree graphically represents the grammatical structure of a sentence.",
+    "cat": "📰 每日新詞：linguistics"
+  },
+  {
+    "word": "conjugation",
+    "pos": "n.",
+    "root": "變位-變+gation-過程",
+    "zh": "變位",
+    "ex": "Conjugation is essential for understanding verb forms in various tenses.",
+    "cat": "📰 每日新詞：linguistics"
+  },
+  {
+    "word": "lexicalization",
+    "pos": "n.",
+    "root": "詞彙化-詞+icalization-化",
+    "zh": "詞彙化",
+    "ex": "Lexicalization occurs when a phrase becomes a single word in a language.",
+    "cat": "📰 每日新詞：linguistics"
+  },
+  {
+    "word": "foreignism",
+    "pos": "n.",
+    "root": "外來語-外+ism-現象",
+    "zh": "外來語",
+    "ex": "Foreignisms can enrich a language by introducing new concepts.",
+    "cat": "📰 每日新詞：linguistics"
+  },
+  {
+    "word": "intonational",
+    "pos": "adj.",
+    "root": "語調-語+ational-形容詞",
+    "zh": "語調的",
+    "ex": "Intonational patterns can convey different emotions in spoken language.",
+    "cat": "📰 每日新詞：linguistics"
+  },
+  {
+    "word": "anaphora",
+    "pos": "n.",
+    "root": "指代-指+phora-帶來",
+    "zh": "指代",
+    "ex": "Anaphora refers to the use of pronouns to refer back to previously mentioned entities.",
+    "cat": "📰 每日新詞：linguistics"
+  },
+  {
+    "word": "discourse",
+    "pos": "n.",
+    "root": "話語-話+course-流通",
+    "zh": "話語",
+    "ex": "Discourse analysis examines how language is used in various contexts.",
+    "cat": "📰 每日新詞：linguistics"
+  },
+  {
+    "word": "inflection",
+    "pos": "n.",
+    "root": "屈折-屈+flection-彎曲",
+    "zh": "屈折變化",
+    "ex": "Inflection indicates grammatical relationships through changes in word forms.",
+    "cat": "📰 每日新詞：linguistics"
+  },
+  {
+    "word": "diphthong",
+    "pos": "n.",
+    "root": "雙元音-雙+thong-音",
+    "zh": "雙元音",
+    "ex": "A diphthong is a complex vowel sound that begins with one vowel sound and glides into another.",
+    "cat": "📰 每日新詞：linguistics"
+  },
+  {
+    "word": "toponymy",
+    "pos": "n.",
+    "root": "地名-地名+nomy-命名",
+    "zh": "地名學",
+    "ex": "Toponymy studies the origin and meaning of place names.",
+    "cat": "📰 每日新詞：linguistics"
+  },
+  {
+    "word": "sibilant",
+    "pos": "n.",
+    "root": "嘶音-嘶+ilant-聲音",
+    "zh": "嘶音",
+    "ex": "Sibilants are sounds that produce a hissing effect, such as 's' and 'sh'.",
+    "cat": "📰 每日新詞：linguistics"
+  },
+  {
+    "word": "glossary",
+    "pos": "n.",
+    "root": "詞彙表-詞+ary-表",
+    "zh": "詞彙表",
+    "ex": "A glossary provides definitions of specialized terms used in a text.",
+    "cat": "📰 每日新詞：linguistics"
+  },
+  {
+    "word": "transcription",
+    "pos": "n.",
+    "root": "轉錄-轉+scription-書寫",
+    "zh": "轉錄",
+    "ex": "Transcription involves converting spoken language into written form.",
+    "cat": "📰 每日新詞：linguistics"
+  },
+  {
+    "word": "allophone",
+    "pos": "n.",
+    "root": "異音-異+phone-聲音",
+    "zh": "異音",
+    "ex": "Allophones are different phonetic realizations of the same phoneme.",
+    "cat": "📰 每日新詞：linguistics"
+  }
+]
