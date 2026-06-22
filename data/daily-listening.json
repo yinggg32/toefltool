@@ -1,116 +1,116 @@
 {
   "chooseResponse": [
     {
-      "q": "What time does the meeting start?",
+      "q": "What time is the meeting?",
       "options": [
-        "It's at 3 PM.",
-        "I didn't check.",
-        "Could you remind me?",
-        "I think it's canceled."
+        "At 3 PM.",
+        "In the library.",
+        "On Friday.",
+        "Before lunch."
       ],
       "correctIndex": 0
     }
   ],
   "conversation": {
-    "transcript": "Student: Hi, did you hear about the guest speaker this Friday?\nAdvisor: Yes, I did! I'm really looking forward to it.\nStudent: Me too. I heard they specialize in renewable energy.\nAdvisor: That's right. It should be quite informative.",
+    "transcript": "Student: Hi, Professor Thompson! I was wondering about the extra credit project.\nProfessor: Sure! What do you want to know about it?\nStudent: When is it due?\nProfessor: It's due next month on the 15th.",
     "questions": [
       {
-        "q": "What is the topic of the guest speaker?",
+        "q": "What is the due date for the project?",
         "options": [
-          "Technology innovations",
-          "Renewable energy",
-          "Global warming",
-          "Sustainable agriculture"
+          "Next month on the 15th.",
+          "This week.",
+          "Tomorrow.",
+          "Next semester."
         ],
-        "correctIndex": 1,
-        "explain": "客座講者的專業是可再生能源。"
+        "correctIndex": 0,
+        "explain": "專案的截止日期是下個月的15日。"
       },
       {
-        "q": "When is the guest speaker event scheduled?",
+        "q": "Who is the student talking to?",
         "options": [
-          "This Thursday",
-          "Next Friday",
-          "This Saturday",
-          "This Friday"
+          "A professor.",
+          "A fellow student.",
+          "A librarian.",
+          "An advisor."
         ],
-        "correctIndex": 3,
-        "explain": "客座講者的活動安排在這個星期五。"
+        "correctIndex": 0,
+        "explain": "學生正在和一位教授交談。"
       }
     ]
   },
   "announcement": {
-    "transcript": "Attention students! The library will have extended hours this weekend, staying open until 11 PM on both Saturday and Sunday. We encourage you to take advantage of these hours for your study needs.",
+    "transcript": "Attention students! The library will be closing early today at 5 PM due to maintenance. Please plan accordingly and make sure to check out any materials you may need before then. Thank you for your understanding.",
     "questions": [
       {
-        "q": "What are the new library hours this weekend?",
+        "q": "Why is the library closing early?",
         "options": [
-          "9 AM to 11 PM",
-          "8 AM to 10 PM",
-          "10 AM to 11 PM",
-          "9 AM to 10 PM"
+          "Due to maintenance.",
+          "For a special event.",
+          "Because of snow.",
+          "For inventory checks."
         ],
         "correctIndex": 0,
-        "explain": "這個週末圖書館的開放時間是早上九點到晚上十一點。"
+        "explain": "圖書館提前關閉是因為維護。"
       },
       {
-        "q": "On which days will the library stay open late?",
+        "q": "What time will the library close?",
         "options": [
-          "Only Saturday",
-          "Only Sunday",
-          "Saturday and Monday",
-          "Saturday and Sunday"
+          "At 5 PM.",
+          "At 6 PM.",
+          "At 4 PM.",
+          "At 7 PM."
         ],
-        "correctIndex": 3,
-        "explain": "圖書館在星期六和星期天會延長開放時間。"
+        "correctIndex": 0,
+        "explain": "圖書館將於下午5點關閉。"
       }
     ]
   },
   "talk": {
-    "transcript": "Today, we will discuss the concept of cultural diffusion, which refers to the spread of cultural beliefs and social activities from one group to another. This process can occur through trade, migration, or the influence of technology and media. For example, when different cultures interact, they often exchange ideas, languages, and customs. An example of this is the spread of sushi from Japan to various parts of the world, which has led to a fusion of traditional and modern culinary practices. Understanding cultural diffusion is crucial as it highlights how interconnected our world has become.",
+    "transcript": "Today, I'm going to explain the concept of photosynthesis. Photosynthesis is the process by which green plants, algae, and some bacteria convert light energy, usually from the sun, into chemical energy stored in glucose. This process takes place mainly in the leaves of plants, where chlorophyll captures sunlight. During photosynthesis, carbon dioxide from the air and water from the soil combine to form glucose and oxygen. The glucose serves as food for the plant, while oxygen is released into the atmosphere, which is essential for the survival of most living organisms. Understanding photosynthesis is crucial as it is the foundation of the food chain and plays a significant role in maintaining ecological balance.",
     "questions": [
       {
-        "q": "What does cultural diffusion refer to?",
+        "q": "What do plants convert during photosynthesis?",
         "options": [
-          "Economic trade",
-          "Spread of cultural beliefs",
-          "Political alliances",
-          "Technological advancements"
+          "Light energy into glucose.",
+          "Glucose into oxygen.",
+          "Oxygen into carbon dioxide.",
+          "Carbon dioxide into water."
         ],
-        "correctIndex": 1,
-        "explain": "文化擴散是指文化信仰的傳播。"
+        "correctIndex": 0,
+        "explain": "植物在光合作用中將光能轉換為葡萄糖。"
       },
       {
-        "q": "What is one way cultural diffusion can occur?",
+        "q": "What is produced as a byproduct of photosynthesis?",
         "options": [
-          "Through isolation",
-          "Through trade",
-          "Through conflict",
-          "Through education"
+          "Oxygen.",
+          "Carbon dioxide.",
+          "Water.",
+          "Glucose."
         ],
-        "correctIndex": 1,
-        "explain": "文化擴散可以通過貿易發生。"
+        "correctIndex": 0,
+        "explain": "光合作用的副產品是氧氣。"
       },
       {
-        "q": "What is an example of cultural diffusion mentioned?",
+        "q": "Where does photosynthesis primarily occur?",
         "options": [
-          "Pizza",
-          "Sushi",
-          "Tacos",
-          "Pasta"
+          "In the leaves.",
+          "In the roots.",
+          "In the flowers.",
+          "In the stems."
         ],
-        "correctIndex": 1,
-        "explain": "講座中提到的例子是壽司的傳播。"
+        "correctIndex": 0,
+        "explain": "光合作用主要發生在葉子中。"
       },
       {
-        "q": "Why is understanding cultural diffusion important?",
+        "q": "Why is photosynthesis important?",
         "options": [
-          "It prevents wars",
-          "It promotes isolation",
-          "It shows interconnectedness",
-          "It reduces trade"
+          "It supports the food chain.",
+          "It creates energy.",
+          "It absorbs carbon dioxide.",
+          "It produces water."
         ],
-        "correctIndex": 2,
-        "explain": "理解文化擴散很重要，因為它顯示了我們世界的相互聯繫。"
+        "correctIndex": 0,
+        "explain": "光合作用對於維持食物鏈至關重要。"
       }
     ]
   }

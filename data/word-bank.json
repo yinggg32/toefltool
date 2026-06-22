@@ -414,5 +414,101 @@
     "zh": "搭配詞",
     "ex": "Collocations are words that frequently occur together in a language.",
     "cat": "📰 每日新詞：linguistics"
+  },
+  {
+    "word": "phoneme",
+    "pos": "n.",
+    "root": "音素—phoneme",
+    "zh": "音素",
+    "ex": "In linguistics, a phoneme is the smallest unit of sound that can distinguish meaning.",
+    "cat": "📰 每日新詞：linguistics"
+  },
+  {
+    "word": "phonological",
+    "pos": "adj.",
+    "root": "音韻的—phonological",
+    "zh": "音韻的",
+    "ex": "Phonological rules dictate how phonemes are organized and pronounced in a language.",
+    "cat": "📰 每日新詞：linguistics"
+  },
+  {
+    "word": "grammaticality",
+    "pos": "n.",
+    "root": "語法性—grammaticality",
+    "zh": "語法性",
+    "ex": "Grammaticality refers to whether a sentence conforms to the rules of a given language.",
+    "cat": "📰 每日新詞：linguistics"
+  },
+  {
+    "word": "slang",
+    "pos": "n.",
+    "root": "俚語—slang",
+    "zh": "俚語",
+    "ex": "Slang consists of informal words and expressions that are often specific to a particular group.",
+    "cat": "📰 每日新詞：linguistics"
+  },
+  {
+    "word": "codification",
+    "pos": "n.",
+    "root": "編纂—codification",
+    "zh": "編纂",
+    "ex": "Codification is the process of compiling and organizing language rules and standards.",
+    "cat": "📰 每日新詞：linguistics"
+  },
+  {
+    "word": "diglossia",
+    "pos": "n.",
+    "root": "雙語現象—diglossia",
+    "zh": "雙語現象",
+    "ex": "Diglossia describes a situation where two dialects or languages are used in different social contexts.",
+    "cat": "📰 每日新詞：linguistics"
+  },
+  {
+    "word": "prosody",
+    "pos": "n.",
+    "root": "韻律—prosody",
+    "zh": "韻律",
+    "ex": "Prosody includes the rhythm, stress, and intonation of speech.",
+    "cat": "📰 每日新詞：linguistics"
+  },
+  {
+    "word": "language family",
+    "pos": "n.",
+    "root": "語言家族—language family",
+    "zh": "語言家族",
+    "ex": "A language family is a group of languages that have a common historical origin.",
+    "cat": "📰 每日新詞：linguistics"
+  },
+  {
+    "word": "semantic shift",
+    "pos": "n.",
+    "root": "語義變遷—semantic shift",
+    "zh": "語義變遷",
+    "ex": "Semantic shift refers to the evolution of word meanings over time.",
+    "cat": "📰 每日新詞：linguistics"
+  },
+  {
+    "word": "substrate",
+    "pos": "n.",
+    "root": "底層—substrate",
+    "zh": "底層",
+    "ex": "A substrate language influences another language that has taken its place in a community.",
+    "cat": "📰 每日新詞：linguistics"
+  },
+  {
+    "word": "superstrate",
+    "pos": "n.",
+    "root": "上層—superstrate",
+    "zh": "上層",
+    "ex": "A superstrate is a language that influences another language that it dominates.",
+    "cat": "📰 每日新詞：linguistics"
+  },
+  {
+    "word": "lingua franca",
+    "pos": "n.",
+    "root": "通用語—lingua franca",
+    "zh": "通用語",
+    "ex": "A lingua franca is a language that is adopted as a common language between speakers of different native languages.",
+    "cat": "📰 每日新詞：linguistics"
   }
 ]

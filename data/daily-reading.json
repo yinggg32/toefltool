@@ -2,113 +2,83 @@
   "cloze": {
     "segments": [
       {
-        "text": "The process of photosynthesis is essential for life on Earth. This process allows plants to convert sunlight into e"
-      },
-      {
-        "blank": "nergy"
-      },
-      {
-        "text": ", which they use to produce glucose from carbon d"
-      },
-      {
-        "blank": "ioxide"
-      },
-      {
-        "text": ". Photosynthesis occurs primarily in the chloroplasts of plant cells, where chlorophyll captures l"
-      },
-      {
-        "blank": "ight"
-      },
-      {
-        "text": ". The overall chemical reaction can be simplified to: 6CO₂ + 6H₂O + light energy → C₆H₁₂O₆ + 6O₂. This reaction not only provides food for the plants but also releases o"
-      },
-      {
-        "blank": "xygen"
-      },
-      {
-        "text": ", making it vital for the survival of most life forms. During photosynthesis, plants also absorb n"
-      },
-      {
-        "blank": "utrients"
-      },
-      {
-        "text": ", which are necessary for their growth and development."
+        "text": "The process of photosynthesis is essential for plant life. During this process, plants convert light energy, usually from the sun, into chemical energy stored in glucose. This transformation occurs primarily in the chloroplasts, cellular organelles containing chlorophyll. Plants also require water and carbon dioxide to perform photosynthesis. The overall reaction can be simplified as follows: light energy from the sun, combined with water and carbon dioxide, produces glucose and oxygen. This oxygen is then released back into the atmosphere, providing a vital gas for organisms that re-... (respiratorySuffix) and sustain life on Earth. Without photosynthesis, the energy flow in ecosystems would be disrupted, leading to a decline in biodiversity and changing the balance of natural environments."
       }
     ]
   },
   "academic": {
-    "passage": "Photosynthesis is a crucial biological process that sustains life on Earth. It allows plants to convert light energy into chemical energy stored in glucose, while also producing oxygen as a byproduct. This process occurs in the chloroplasts of plant cells, utilizing chlorophyll to capture sunlight. The importance of photosynthesis extends beyond just food production, as it plays a pivotal role in regulating atmospheric oxygen levels and supporting the entire food chain.",
+    "passage": "Photosynthesis is a crucial process for living organisms that rely on plants for energy. It occurs mainly in the chloroplasts of plant cells, where light, water, and carbon dioxide are transformed into glucose and oxygen. This process not only provides energy for plants but also sustains the oxygen supply in the atmosphere, making it vital for most life forms on Earth. Understanding photosynthesis is key to addressing issues like food production and climate change.",
     "questions": [
       {
-        "q": "What is the main purpose of photosynthesis?",
+        "q": "What is the main idea of the passage?",
         "options": [
-          "To produce glucose and oxygen",
-          "To absorb carbon dioxide",
-          "To release nutrients",
-          "To capture light energy"
+          "Photosynthesis is essential for life.",
+          "Plants only use sunlight to grow.",
+          "Chloroplasts are the most important organelles.",
+          "Oxygen is harmful to living organisms."
         ],
         "correctIndex": 0,
-        "explain": "光合作用的主要目的是生產葡萄糖和氧氣。"
+        "explain": "這段文字主要講述光合作用對生命的重要性。"
       },
       {
-        "q": "Where does photosynthesis occur?",
+        "q": "Where does photosynthesis primarily occur?",
         "options": [
           "In the mitochondria",
           "In the chloroplasts",
-          "In the vacuoles",
-          "In the cell membrane"
+          "In the cell membrane",
+          "In the vacuoles"
         ],
         "correctIndex": 1,
-        "explain": "光合作用發生在葉綠體内。"
+        "explain": "光合作用主要在植物細胞的葉綠體中進行。"
       },
       {
-        "q": "What can be inferred about the role of chlorophyll?",
+        "q": "Why is photosynthesis considered vital for ecosystems?",
         "options": [
-          "It produces glucose",
-          "It absorbs sunlight",
-          "It releases oxygen",
-          "It stores nutrients"
+          "It produces food for animals.",
+          "It creates more carbon dioxide.",
+          "It prevents plants from growing.",
+          "It limits the number of species."
         ],
-        "correctIndex": 1,
-        "explain": "可以推斷出葉綠素的作用是吸收陽光。"
+        "correctIndex": 0,
+        "explain": "光合作用為動物提供食物，因此被視為生態系統的重要組成部分。"
       },
       {
-        "q": "What does the term 'byproduct' refer to in the context of photosynthesis?",
+        "q": "What does the term 'biodiversity' refer to in the passage?",
         "options": [
-          "The main product",
-          "An unintended product",
-          "A waste product",
-          "A necessary component"
+          "The number of plant species",
+          "The variety of life forms",
+          "The amount of sunlight",
+          "The size of ecosystems"
         ],
         "correctIndex": 1,
-        "explain": "在光合作用中，'副產品'指的是意外產生的產品。"
+        "explain": "在這段文字中，'生物多樣性'指的是生態系中的生命形式的多樣性。"
       }
     ]
   },
   "daily": {
-    "passage": "Attention students: The university library will be closed for maintenance this Saturday. Please plan accordingly and make sure to return any borrowed materials before the closure. We apologize for any inconvenience this may cause.",
+    "passage": "Attention all students! The library will be hosting an event on academic writing this Friday at 3 PM in the main hall. Join us to learn tips and strategies for improving your writing skills. Refreshments will be provided!",
     "questions": [
       {
-        "q": "When will the library be closed?",
+        "q": "What is the purpose of the event at the library?",
         "options": [
-          "This Saturday",
-          "Next Saturday",
-          "Tomorrow",
-          "Today"
+          "To discuss library rules",
+          "To teach academic writing skills",
+          "To showcase new books",
+          "To celebrate reading week"
         ],
-        "correctIndex": 0,
-        "explain": "圖書館將在本週六關閉。"
+        "correctIndex": 1,
+        "explain": "這個活動的目的是教授學術寫作技巧。"
       },
       {
-        "q": "What should students do before the library closes?",
+        "q": "When will the event take place?",
         "options": [
-          "Return borrowed materials",
-          "Check out new books",
-          "Attend a maintenance class",
-          "Submit library feedback"
+          "This Wednesday",
+          "Next Monday",
+          "This Friday",
+          "Next Saturday"
         ],
-        "correctIndex": 0,
-        "explain": "學生在圖書館關閉之前應該歸還借出的資料。"
+        "correctIndex": 2,
+        "explain": "活動定於本週五舉行。"
       }
     ]
   }
