@@ -247,10 +247,17 @@ textarea{min-height:140px;resize:vertical;margin-top:10px;line-height:1.6;}
 .qa-list .qitem.wrong{background:#F3DEDA;border-color:var(--alert);}
 .vocab-tools{display:flex;gap:8px;flex-wrap:wrap;margin-top:14px;}
 .vocab-tools .btn{font-size:12px;padding:8px 12px;}
-.mastered-tag{
-  font-family:'IBM Plex Mono',monospace;font-size:10px;color:var(--accent);
-  position:absolute;top:10px;right:14px;
+.mastered-chip{
+  display:inline-flex;align-items:center;gap:6px;
+  font-family:'IBM Plex Mono',monospace;font-size:12px;
+  background:var(--accent-soft);color:var(--accent);
+  padding:5px 6px 5px 10px;border-radius:999px;
 }
+.mastered-chip button{
+  background:none;border:none;color:var(--accent);cursor:pointer;
+  font-size:13px;line-height:1;padding:2px 4px;font-weight:700;
+}
+.mastered-chip button:hover{color:var(--alert);}
 
 footer.note{
   max-width:920px;margin:24px auto 0;padding:14px 20px;
@@ -305,6 +312,31 @@ footer.note{
       <div class="card" id="catOverviewCard" style="padding:14px 16px;">
         <h3 style="margin-bottom:10px;">分類總覽（點分類名稱可直接跳去複習）</h3>
         <div id="catOverviewGrid" style="display:grid;grid-template-columns:repeat(auto-fill,minmax(140px,1fr));gap:8px;"></div>
+      </div>
+
+      <div class="card" id="masteredCard" style="padding:14px 16px;">
+        <h3 style="margin-bottom:6px;">✅ 已掌握單字管理</h3>
+        <p style="font-size:12px;color:var(--ink-soft);margin:0 0 10px;">點單字上的 × 可以取消標記（如果不小心誤觸標記到，這裡可以救回來）。</p>
+        <div id="masteredList" style="display:flex;flex-wrap:wrap;gap:6px;"></div>
+      </div>
+
+      <div class="card" id="customWordCard" style="padding:14px 16px;">
+        <h3 style="margin-bottom:6px;">✏️ 新增我的單字</h3>
+        <p style="font-size:12px;color:var(--ink-soft);margin:0 0 10px;">手動加入自己想背的單字，會存在這個瀏覽器（localStorage），歸到「✏️ 我的單字」分類。也可以用下面的批量輸入一次貼多個。</p>
+        <div style="display:grid;grid-template-columns:1fr 90px 1fr;gap:8px;margin-bottom:8px;">
+          <input type="text" id="customWordInput" placeholder="單字 / 片語" style="font-family:'Inter',sans-serif;font-size:13px;border:1px solid var(--line);border-radius:7px;padding:9px 12px;">
+          <input type="text" id="customPosInput" placeholder="詞性" style="font-family:'Inter',sans-serif;font-size:13px;border:1px solid var(--line);border-radius:7px;padding:9px 12px;">
+          <input type="text" id="customZhInput" placeholder="中文意思" style="font-family:'Inter',sans-serif;font-size:13px;border:1px solid var(--line);border-radius:7px;padding:9px 12px;">
+        </div>
+        <input type="text" id="customExInput" placeholder="例句（選填）" style="width:100%;font-family:'Inter',sans-serif;font-size:13px;border:1px solid var(--line);border-radius:7px;padding:9px 12px;margin-bottom:8px;">
+        <button class="btn accent" id="customAddBtn">加入單字</button>
+
+        <details style="margin-top:14px;">
+          <summary style="cursor:pointer;font-size:12px;color:var(--ink-soft);">批量輸入（一行一個，格式：單字 | 詞性 | 中文 | 例句，例句可省略）</summary>
+          <textarea id="customBulkInput" placeholder="例如：&#10;resilience | n. | 適應力；韌性 | Her resilience helped her recover quickly.&#10;ubiquitous | adj. | 無所不在的" style="margin-top:8px;min-height:100px;"></textarea>
+          <button class="btn ghost" id="customBulkBtn" style="margin-top:8px;">批量加入</button>
+        </details>
+        <p style="font-size:11px;color:var(--ink-soft);margin-top:8px;" id="customWordNote"></p>
       </div>
 
       <div class="flash-wrap">
@@ -733,6 +765,7 @@ function renderCard(){
   document.getElementById('progressStub').textContent=(idx+1)+' / '+list.length;
   document.getElementById('flashcard').classList.remove('flipped');
   flipped=false;
+  if(typeof updateMasterBtnLabel==='function') updateMasterBtnLabel();
 }
 document.getElementById('flashcard').addEventListener('click',()=>{
   flipped=!flipped;
@@ -745,7 +778,7 @@ renderCatSelect();
 renderCard();
 
 /* ---------------- SHADOWING (Listen and Repeat) ---------------- */
-const shadowSentences = [
+let shadowSentences = [
  "I usually wake up around seven o'clock.",
  "She left her umbrella on the bus again.",
  "Could you tell me where the cafeteria is?",
@@ -785,7 +818,7 @@ document.getElementById('shadowNext').addEventListener('click',()=>{
 });
 
 /* ---------------- INTERVIEW TIMER ---------------- */
-const interviewQs = [
+let interviewQs = [
  "What do you usually do on weekends?",
  "Describe a teacher who influenced you and explain why.",
  "What is your favorite season of the year? Why?",
@@ -828,7 +861,7 @@ document.getElementById('interviewStart').addEventListener('click',()=>{
 });
 
 /* ---------------- BUILD A SENTENCE ---------------- */
-const buildItems = [
+let buildItems = [
  {words:["despite","the","heavy","rain","the","marathon","continued","as","scheduled"],
   display:"Despite the heavy rain, the marathon continued as scheduled."},
  {words:["although","she","had","never","traveled","abroad","maria","adapted","quickly","to","life","in","a","new","country"],
@@ -895,7 +928,7 @@ document.getElementById('chipCheck').addEventListener('click',()=>{
 renderBuild();
 
 /* ---------------- EMAIL / DISCUSSION PROMPTS ---------------- */
-const emailPrompts = [
+let emailPrompts = [
  "寄信給教授，說明因病無法參加期中考，詢問補考事宜。（正式語氣）",
  "寫信給宿舍管理處，反映房間暖氣故障，請求盡快維修。",
  "回覆雜誌編輯，詢問投稿文章的審核進度。",
@@ -903,7 +936,7 @@ const emailPrompts = [
  "寄信給社團負責人，詢問下次社團活動的時間與地點。（語氣較輕鬆）",
  "寫信給航空公司客服，說明行李遺失，請求協助查詢。"
 ];
-const discPrompts = [
+let discPrompts = [
  "教授問：「線上學習是否能取代實體課堂？」",
  "教授問：「企業是否該為員工提供無限期遠距工作？」",
  "教授問：「政府是否該對含糖飲料課稅以促進健康？」",
@@ -992,22 +1025,127 @@ function loadMastered(){
   }catch(e){ masteredWords = []; }
   updateVocabNote();
   renderCatOverview();
+  renderMasteredList();
+  updateMasterBtnLabel();
 }
 function saveMastered(){
   try{ localStorage.setItem('toefl-mastered-words', JSON.stringify(masteredWords)); }catch(e){}
   updateVocabNote();
   renderCatOverview();
+  renderMasteredList();
 }
 function updateVocabNote(){
   document.getElementById('vocabNote').textContent = '已掌握 '+masteredWords.length+' / '+vocab.length+' 個單字（紀錄存在這個瀏覽器，換裝置不會同步）';
+}
+function renderMasteredList(){
+  const wrap = document.getElementById('masteredList');
+  if(!wrap) return;
+  wrap.innerHTML = '';
+  if(masteredWords.length===0){
+    wrap.innerHTML = '<span style="font-size:12px;color:var(--ink-soft);">還沒有標記任何單字。</span>';
+    return;
+  }
+  masteredWords.forEach(word=>{
+    const chip = document.createElement('span');
+    chip.className = 'mastered-chip';
+    const label = document.createElement('span'); label.textContent = word;
+    const removeBtn = document.createElement('button'); removeBtn.textContent = '×'; removeBtn.title = '取消標記';
+    removeBtn.addEventListener('click', ()=>{
+      masteredWords = masteredWords.filter(w=>w!==word);
+      saveMastered();
+      updateMasterBtnLabel();
+    });
+    chip.appendChild(label); chip.appendChild(removeBtn);
+    wrap.appendChild(chip);
+  });
+}
+function updateMasterBtnLabel(){
+  const list = filteredVocab();
+  const v = list[idx];
+  const btn = document.getElementById('masterBtn');
+  if(!v || !btn) return;
+  const isMastered = masteredWords.includes(v.word);
+  btn.textContent = isMastered ? '☆ 取消已掌握' : '★ 標記已掌握';
 }
 document.getElementById('masterBtn').addEventListener('click',()=>{
   const list = filteredVocab();
   const v = list[idx];
   if(!v) return;
-  if(!masteredWords.includes(v.word)){ masteredWords.push(v.word); saveMastered(); }
+  if(masteredWords.includes(v.word)){
+    masteredWords = masteredWords.filter(w=>w!==v.word);
+  } else {
+    masteredWords.push(v.word);
+  }
+  saveMastered();
+  updateMasterBtnLabel();
 });
 loadMastered();
+
+/* ---------------- CUSTOM WORDS (user-added, localStorage) ---------------- */
+const CUSTOM_CAT = '✏️ 我的單字';
+function loadCustomWords(){
+  try{
+    const raw = localStorage.getItem('toefl-custom-words');
+    const custom = raw ? JSON.parse(raw) : [];
+    const existing = new Set(vocab.map(v=>v.word.toLowerCase()));
+    custom.forEach(w=>{
+      if(w && w.word && !existing.has(w.word.toLowerCase())){
+        vocab.push({...w, cat: CUSTOM_CAT});
+        existing.add(w.word.toLowerCase());
+      }
+    });
+    if(custom.length>0){ renderCatSelect(); }
+  }catch(e){}
+}
+function saveCustomWord(wordObj){
+  try{
+    const raw = localStorage.getItem('toefl-custom-words');
+    const custom = raw ? JSON.parse(raw) : [];
+    custom.push(wordObj);
+    localStorage.setItem('toefl-custom-words', JSON.stringify(custom));
+  }catch(e){}
+}
+loadCustomWords();
+
+document.getElementById('customAddBtn').addEventListener('click',()=>{
+  const word = document.getElementById('customWordInput').value.trim();
+  const pos = document.getElementById('customPosInput').value.trim() || '—';
+  const zh = document.getElementById('customZhInput').value.trim();
+  const ex = document.getElementById('customExInput').value.trim() || '（無例句）';
+  const note = document.getElementById('customWordNote');
+  if(!word || !zh){ note.textContent = '請至少填單字和中文意思。'; return; }
+  const wordObj = {word, pos, root:'—', zh, ex, cat: CUSTOM_CAT};
+  vocab.push(wordObj);
+  saveCustomWord(wordObj);
+  renderCatSelect();
+  document.getElementById('customWordInput').value='';
+  document.getElementById('customPosInput').value='';
+  document.getElementById('customZhInput').value='';
+  document.getElementById('customExInput').value='';
+  note.textContent = '已加入「'+word+'」到「'+CUSTOM_CAT+'」分類。';
+});
+
+document.getElementById('customBulkBtn').addEventListener('click',()=>{
+  const raw = document.getElementById('customBulkInput').value;
+  const lines = raw.split('\n').map(l=>l.trim()).filter(Boolean);
+  const note = document.getElementById('customWordNote');
+  let count = 0;
+  lines.forEach(line=>{
+    const parts = line.split('|').map(p=>p.trim());
+    if(parts.length<2) return;
+    const wordObj = {word:parts[0], pos:parts[1]?.match(/^(n|v|adj|adv|phrase)/i) ? parts[1] : '—', root:'—', zh: parts[2] || parts[1] || '', ex: parts[3] || parts[2] || '（無例句）', cat: CUSTOM_CAT};
+    // if only 2 or 3 parts given, shift fields sensibly
+    if(parts.length===2){ wordObj.pos='—'; wordObj.zh=parts[1]; wordObj.ex='（無例句）'; }
+    else if(parts.length===3){ wordObj.pos=parts[1]; wordObj.zh=parts[2]; wordObj.ex='（無例句）'; }
+    if(!wordObj.word || !wordObj.zh) return;
+    vocab.push(wordObj);
+    saveCustomWord(wordObj);
+    count++;
+  });
+  renderCatSelect();
+  document.getElementById('customBulkInput').value='';
+  note.textContent = '已批量加入 '+count+' 個單字到「'+CUSTOM_CAT+'」分類。';
+});
 
 /* ---------------- DAILY CHECK-IN ---------------- */
 function todayStr(){ const d=new Date(); return d.getFullYear()+'-'+(d.getMonth()+1)+'-'+d.getDate(); }
@@ -1146,8 +1284,10 @@ function speakListening(text){
 }
 function addPlayButton(targetId, getText){
   const target = document.getElementById(targetId);
+  const prev = target.previousElementSibling;
+  if(prev && prev.classList && prev.classList.contains('play-btn-injected')) prev.remove();
   const btn = document.createElement('button');
-  btn.className = 'btn accent';
+  btn.className = 'btn accent play-btn-injected';
   btn.style.marginBottom = '10px';
   btn.textContent = '🔊 播放語音';
   btn.addEventListener('click', ()=>{
@@ -1216,107 +1356,255 @@ function renderMCQ(containerId, questions, statsKey, speakable){
   });
 }
 
-/* Complete the Words — two passages, ~9 blanks each, matching real format more closely */
-const clozePassages = [
-  {
-    html: 'Evaporation is one of the main steps in the water cycle, in which liquid water on the sur<input class="blank-input" data-i="0" maxlength="14"> of oceans, lakes, and rivers turns into vapor through the action of solar heat. This pro<input class="blank-input" data-i="1" maxlength="14"> lifts moisture upward into the atmosphere, where it grad<input class="blank-input" data-i="2" maxlength="14"> cools and con<input class="blank-input" data-i="3" maxlength="14"> into tiny droplets that form clouds. Once enough drop<input class="blank-input" data-i="4" maxlength="14"> gather, precipitation occurs and wa<input class="blank-input" data-i="5" maxlength="14"> returns to the surface, complet<input class="blank-input" data-i="6" maxlength="14"> the cycle. This continuous move<input class="blank-input" data-i="7" maxlength="14"> of water sup<input class="blank-input" data-i="8" maxlength="14"> nearly every ecosystem on Earth.',
-    answers: ['face','cess','ually','denses','lets','ter','ing','ment','ports']
-  },
-  {
-    html: 'Coral reefs are often compared to underwater cities because they sup<input class="blank-input" data-i="0" maxlength="14"> an extraordinary range of marine organisms. Although reefs cov<input class="blank-input" data-i="1" maxlength="14"> less than one percent of the ocean floor, they prov<input class="blank-input" data-i="2" maxlength="14"> shelter and food for roughly a quarter of all known marine spe<input class="blank-input" data-i="3" maxlength="14">. In rec<input class="blank-input" data-i="4" maxlength="14"> decades, however, rising water temper<input class="blank-input" data-i="5" maxlength="14"> have triggered widespread bleach<input class="blank-input" data-i="6" maxlength="14"> events, during which corals exp<input class="blank-input" data-i="7" maxlength="14"> the algae they depend on for nutrients.',
-    answers: ['port','er','ide','cies','ent','atures','ing','el']
-  }
+/* Complete the Words — segment-based so static AND fetched daily content share one renderer.
+   Each passage = { segments: [ {text:"..."} | {blank:"answer"}, ... ] } */
+let clozePassages = [
+  { segments: [
+    {text:"Evaporation is one of the main steps in the water cycle, in which liquid water on the sur"}, {blank:"face"},
+    {text:" of oceans, lakes, and rivers turns into vapor through the action of solar heat. This pro"}, {blank:"cess"},
+    {text:" lifts moisture upward into the atmosphere, where it grad"}, {blank:"ually"},
+    {text:" cools and con"}, {blank:"denses"},
+    {text:" into tiny droplets that form clouds. Once enough drop"}, {blank:"lets"},
+    {text:" gather, precipitation occurs and wa"}, {blank:"ter"},
+    {text:" returns to the surface, complet"}, {blank:"ing"},
+    {text:" the cycle. This continuous move"}, {blank:"ment"},
+    {text:" of water sup"}, {blank:"ports"},
+    {text:" nearly every ecosystem on Earth."}
+  ]},
+  { segments: [
+    {text:"Coral reefs are often compared to underwater cities because they sup"}, {blank:"port"},
+    {text:" an extraordinary range of marine organisms. Although reefs cov"}, {blank:"er"},
+    {text:" less than one percent of the ocean floor, they prov"}, {blank:"ide"},
+    {text:" shelter and food for roughly a quarter of all known marine spe"}, {blank:"cies"},
+    {text:". In rec"}, {blank:"ent"},
+    {text:" decades, however, rising water temper"}, {blank:"atures"},
+    {text:" have triggered widespread bleach"}, {blank:"ing"},
+    {text:" events, during which corals exp"}, {blank:"el"},
+    {text:" the algae they depend on for nutrients."}
+  ]}
 ];
 let clozeIdx = 0;
-const clozeScored = new Set();
+let clozeScored = new Set();
+let readingAcademicCount = 0;
+let readingDailyCount = 0;
 function renderCloze(){
-  document.getElementById('clozePassage').innerHTML = clozePassages[clozeIdx].html;
+  const container = document.getElementById('clozePassage');
+  container.innerHTML = '';
+  clozePassages[clozeIdx].segments.forEach(seg=>{
+    if(seg.text!==undefined){
+      container.appendChild(document.createTextNode(seg.text));
+    } else {
+      const inp = document.createElement('input');
+      inp.className = 'blank-input'; inp.maxLength = 16;
+      inp.dataset.answer = seg.blank;
+      container.appendChild(inp);
+    }
+  });
   document.getElementById('clozeResult').textContent = '';
 }
-renderCloze();
 document.getElementById('clozeNext').addEventListener('click',()=>{
   clozeIdx = (clozeIdx+1)%clozePassages.length;
   renderCloze();
 });
 document.getElementById('clozeCheck').addEventListener('click',()=>{
-  const clozeAnswers = clozePassages[clozeIdx].answers;
   const inputs = document.querySelectorAll('#clozePassage .blank-input');
   let correctCount = 0;
   inputs.forEach(inp=>{
-    const i = +inp.dataset.i;
-    const val = inp.value.trim().toLowerCase();
-    const isRight = val === clozeAnswers[i].toLowerCase();
+    const isRight = inp.value.trim().toLowerCase() === String(inp.dataset.answer).toLowerCase();
     inp.style.borderBottomColor = isRight ? 'var(--accent)' : 'var(--alert)';
     if(isRight) correctCount++;
   });
-  document.getElementById('clozeResult').textContent = '答對 '+correctCount+' / '+clozeAnswers.length+'　（第 '+(clozeIdx+1)+' / '+clozePassages.length+' 篇）';
-  document.getElementById('clozeResult').className = correctCount===clozeAnswers.length ? 'result-msg correct' : 'result-msg wrong';
+  document.getElementById('clozeResult').textContent = '答對 '+correctCount+' / '+inputs.length+'　（第 '+(clozeIdx+1)+' / '+clozePassages.length+' 篇）';
+  document.getElementById('clozeResult').className = correctCount===inputs.length ? 'result-msg correct' : 'result-msg wrong';
   if(!clozeScored.has(clozeIdx)){
     clozeScored.add(clozeIdx);
-    sectionStats.reading.answered += clozeAnswers.length;
+    sectionStats.reading.answered += inputs.length;
     sectionStats.reading.correct += correctCount;
     updateSummary('reading');
   }
 });
 document.getElementById('clozeReveal').addEventListener('click',()=>{
-  const clozeAnswers = clozePassages[clozeIdx].answers;
-  document.querySelectorAll('#clozePassage .blank-input').forEach((inp,i)=>{ inp.value = clozeAnswers[i]; inp.style.borderBottomColor='var(--accent)'; });
+  document.querySelectorAll('#clozePassage .blank-input').forEach(inp=>{ inp.value = inp.dataset.answer; inp.style.borderBottomColor='var(--accent)'; });
 });
 
-/* Academic passage */
-document.getElementById('acadPassage').textContent =
- "The domestication of the dog likely began more than 15,000 years ago, though researchers continue to debate the exact timeline and location. One leading hypothesis suggests that wolves were first drawn to human campsites by the prospect of scavenging food scraps left behind by early hunter-gatherers. Over many generations, the wolves that tolerated human presence most calmly would have had greater and more consistent access to this food source, gradually favoring traits associated with tameness over traits suited to wariness and aggression. This process, often called self-domestication, did not require deliberate breeding by early humans at all; instead, it unfolded as a natural by-product of proximity and opportunity. Genetic evidence largely supports the idea that domestication occurred gradually over thousands of years rather than through a single deliberate event at one site. Some scientists have proposed alternative explanations, including the possibility that humans intentionally captured and raised wolf pups from an early stage, slowly shaping a more cooperative lineage through repeated human contact. Even so, the self-domestication hypothesis remains the most widely supported explanation among researchers studying the evolutionary history of dogs and their relationship with humans today.";
-renderMCQ('acadQuestions', [
- {q:"What is this passage mainly about?", options:["A possible explanation for how dogs became domesticated","The diet of wild wolves","Modern dog breeding techniques","The dangers of approaching wild animals"], correctIndex:0, explain:"主旨題：整段在解釋「自我馴化」這個假說。"},
- {q:"According to the passage, what advantage did calmer wolves have?", options:["Greater access to food scraps near human camps","Better hunting skills","Larger litters","Resistance to disease"], correctIndex:0, explain:"細節題：原文明確提到「greater access to this food source」。"},
- {q:"It can be inferred from the passage that self-domestication", options:["happened without humans intentionally breeding wolves","was disproven by genetic evidence","occurred only in one specific region","required centuries of selective breeding programs"], correctIndex:0, explain:"推論題：文中說「did not require deliberate breeding」。"},
- {q:'The word "tameness" in the passage most likely means', options:["gentleness and ease around humans","physical strength","intelligence","aggressiveness"], correctIndex:0, explain:"詞彙題：根據上下文「tolerated human presence calmly」可推知意思。"}
-], 'reading');
+/* Academic passage + Daily life text — wrapped so fetched daily data can replace them */
+function setReadingAcademic(passage, questions){
+  document.getElementById('acadPassage').textContent = passage;
+  renderMCQ('acadQuestions', questions, 'reading');
+  readingAcademicCount = questions.length;
+}
+function setReadingDaily(passage, questions){
+  document.getElementById('dailyPassage').textContent = passage;
+  renderMCQ('dailyQuestions', questions, 'reading');
+  readingDailyCount = questions.length;
+}
+function clozeBlankCount(){
+  return clozePassages.reduce((sum,p)=>sum+p.segments.filter(s=>s.blank!==undefined).length, 0);
+}
+function recomputeReadingTotal(){
+  sectionStats.reading.total = clozeBlankCount() + readingAcademicCount + readingDailyCount;
+  document.getElementById('readingSummary').textContent = '已作答 '+sectionStats.reading.answered+' / '+sectionStats.reading.total+'　正確 '+sectionStats.reading.correct;
+}
+/* Replace all reading content at once (used when today's GitHub Actions data is available) */
+function setReadingData(data){
+  if(data.cloze && Array.isArray(data.cloze.segments)){ clozePassages = [{segments:data.cloze.segments}]; clozeIdx=0; clozeScored=new Set(); renderCloze(); }
+  if(data.academic) setReadingAcademic(data.academic.passage, data.academic.questions);
+  if(data.daily) setReadingDaily(data.daily.passage, data.daily.questions);
+  sectionStats.reading.answered = 0; sectionStats.reading.correct = 0;
+  recomputeReadingTotal();
+}
+renderCloze();
 
-/* Daily life text */
-document.getElementById('dailyPassage').textContent =
- "Notice: Starting next week, the Student Health Center will offer free flu vaccinations every Tuesday and Thursday from 10 a.m. to 2 p.m. No appointment is necessary, but students must bring their student ID. Vaccinations will continue through the end of the semester or while supplies last.";
-renderMCQ('dailyQuestions', [
- {q:"What do students need to bring to get a vaccination?", options:["Their student ID","A doctor's note","Payment","A parent's signature"], correctIndex:0, explain:"細節題：直接寫在公告中。"},
- {q:"When will the vaccinations stop being offered?", options:["At the end of the semester or when supplies run out","After one week","Only during final exams","They will continue indefinitely"], correctIndex:0, explain:"細節題：注意「or」連接的兩個結束條件。"}
-], 'reading');
+setReadingAcademic(
+ "The domestication of the dog likely began more than 15,000 years ago, though researchers continue to debate the exact timeline and location. One leading hypothesis suggests that wolves were first drawn to human campsites by the prospect of scavenging food scraps left behind by early hunter-gatherers. Over many generations, the wolves that tolerated human presence most calmly would have had greater and more consistent access to this food source, gradually favoring traits associated with tameness over traits suited to wariness and aggression. This process, often called self-domestication, did not require deliberate breeding by early humans at all; instead, it unfolded as a natural by-product of proximity and opportunity. Genetic evidence largely supports the idea that domestication occurred gradually over thousands of years rather than through a single deliberate event at one site. Some scientists have proposed alternative explanations, including the possibility that humans intentionally captured and raised wolf pups from an early stage, slowly shaping a more cooperative lineage through repeated human contact. Even so, the self-domestication hypothesis remains the most widely supported explanation among researchers studying the evolutionary history of dogs and their relationship with humans today.",
+ [
+  {q:"What is this passage mainly about?", options:["A possible explanation for how dogs became domesticated","The diet of wild wolves","Modern dog breeding techniques","The dangers of approaching wild animals"], correctIndex:0, explain:"主旨題：整段在解釋「自我馴化」這個假說。"},
+  {q:"According to the passage, what advantage did calmer wolves have?", options:["Greater access to food scraps near human camps","Better hunting skills","Larger litters","Resistance to disease"], correctIndex:0, explain:"細節題：原文明確提到「greater access to this food source」。"},
+  {q:"It can be inferred from the passage that self-domestication", options:["happened without humans intentionally breeding wolves","was disproven by genetic evidence","occurred only in one specific region","required centuries of selective breeding programs"], correctIndex:0, explain:"推論題：文中說「did not require deliberate breeding」。"},
+  {q:'The word "tameness" in the passage most likely means', options:["gentleness and ease around humans","physical strength","intelligence","aggressiveness"], correctIndex:0, explain:"詞彙題：根據上下文「tolerated human presence calmly」可推知意思。"}
+ ]
+);
+
+setReadingDaily(
+ "Notice: Starting next week, the Student Health Center will offer free flu vaccinations every Tuesday and Thursday from 10 a.m. to 2 p.m. No appointment is necessary, but students must bring their student ID. Vaccinations will continue through the end of the semester or while supplies last.",
+ [
+  {q:"What do students need to bring to get a vaccination?", options:["Their student ID","A doctor's note","Payment","A parent's signature"], correctIndex:0, explain:"細節題：直接寫在公告中。"},
+  {q:"When will the vaccinations stop being offered?", options:["At the end of the semester or when supplies run out","After one week","Only during final exams","They will continue indefinitely"], correctIndex:0, explain:"細節題：注意「or」連接的兩個結束條件。"}
+ ]
+);
+
+sectionStats.reading.total = clozeBlankCount() + readingAcademicCount + readingDailyCount;
+document.getElementById('readingSummary').textContent = '已作答 0 / '+sectionStats.reading.total+'　正確 0';
 
 /* ====================================================
    LISTENING PRACTICE
 ==================================================== */
-const chooseResponses = [
+let chooseResponses = [
  {q:"Could you hand me those files on the desk?", options:["Sure, here you go.","I'm fine, thanks.","It's on the third floor.","Yes, I like reading them."], correctIndex:0},
  {q:"I can't believe how long the line at the registrar's office is today.", options:["Yeah, I heard they're short-staffed this week.","It's three blocks from here.","I prefer tea over coffee.","The exam starts at nine."], correctIndex:0},
  {q:"Do you know if the library is open this weekend?", options:["I think so, but maybe check their website to be sure.","I usually study in the morning.","It's a five-minute walk from the dorm.","No, I haven't read that book."], correctIndex:0},
  {q:"I just realized I forgot to submit my assignment online.", options:["You should email your professor right away and explain.","That sounds like a great class.","I submitted mine last semester.","The library closes at midnight."], correctIndex:0}
 ];
-renderMCQ('chooseResponseList', chooseResponses, 'listening', true);
 
-document.getElementById('convoPassage').textContent =
-"Student: Hi, I wanted to ask about switching my major to Computer Science.\nAdvisor: Sure, do you currently meet the prerequisite courses?\nStudent: I've taken Calculus I and an intro programming course.\nAdvisor: That's a good start, but you'll also need Calculus II before you can declare.\nStudent: Okay, can I take that next semester and still switch over?\nAdvisor: Yes, as long as you complete it before your junior year.\nStudent: That's a relief. Is there a form I need to fill out?\nAdvisor: Yes, I'll email it to you today.";
-addPlayButton('convoPassage', ()=>document.getElementById('convoPassage').textContent);
-renderMCQ('convoQuestions', [
+let listeningCounts = {choose:0, convo:0, announce:0, talk:0};
+function setListeningChooseResponse(items){
+  chooseResponses = items;
+  renderMCQ('chooseResponseList', chooseResponses, 'listening', true);
+  listeningCounts.choose = items.length;
+}
+function setListeningConvo(transcript, questions){
+  document.getElementById('convoPassage').textContent = transcript;
+  addPlayButton('convoPassage', ()=>document.getElementById('convoPassage').textContent);
+  renderMCQ('convoQuestions', questions, 'listening');
+  listeningCounts.convo = questions.length;
+}
+function setListeningAnnounce(transcript, questions){
+  document.getElementById('announcePassage').textContent = transcript;
+  addPlayButton('announcePassage', ()=>document.getElementById('announcePassage').textContent);
+  renderMCQ('announceQuestions', questions, 'listening');
+  listeningCounts.announce = questions.length;
+}
+function setListeningTalk(transcript, questions){
+  document.getElementById('talkPassage').textContent = transcript;
+  addPlayButton('talkPassage', ()=>document.getElementById('talkPassage').textContent);
+  renderMCQ('talkQuestions', questions, 'listening');
+  listeningCounts.talk = questions.length;
+}
+function recomputeListeningTotal(){
+  sectionStats.listening.total = listeningCounts.choose + listeningCounts.convo + listeningCounts.announce + listeningCounts.talk;
+  document.getElementById('listeningSummary').textContent = '已作答 '+sectionStats.listening.answered+' / '+sectionStats.listening.total+'　正確 '+sectionStats.listening.correct;
+}
+function setListeningData(data){
+  if(data.chooseResponse) setListeningChooseResponse(data.chooseResponse);
+  if(data.conversation) setListeningConvo(data.conversation.transcript, data.conversation.questions);
+  if(data.announcement) setListeningAnnounce(data.announcement.transcript, data.announcement.questions);
+  if(data.talk) setListeningTalk(data.talk.transcript, data.talk.questions);
+  sectionStats.listening.answered = 0; sectionStats.listening.correct = 0;
+  recomputeListeningTotal();
+}
+
+setListeningChooseResponse(chooseResponses);
+setListeningConvo(
+"Student: Hi, I wanted to ask about switching my major to Computer Science.\nAdvisor: Sure, do you currently meet the prerequisite courses?\nStudent: I've taken Calculus I and an intro programming course.\nAdvisor: That's a good start, but you'll also need Calculus II before you can declare.\nStudent: Okay, can I take that next semester and still switch over?\nAdvisor: Yes, as long as you complete it before your junior year.\nStudent: That's a relief. Is there a form I need to fill out?\nAdvisor: Yes, I'll email it to you today.",
+[
  {q:"What is the student's main purpose for visiting the advisor?", options:["To ask about switching majors","To complain about a professor","To request a tuition refund","To drop a course"], correctIndex:0, explain:"主旨題：開頭第一句就點出目的。"},
  {q:"What does the student still need to complete?", options:["Calculus II","An internship","A foreign language requirement","A lab report"], correctIndex:0, explain:"細節題：顧問明確指出還缺 Calculus II。"}
-], 'listening');
-
-document.getElementById('announcePassage').textContent =
-"Attention students: The campus shuttle schedule will change starting next Monday due to road construction near the main gate. Shuttles will now depart every twenty minutes instead of every ten, and the West Lot stop will be temporarily relocated to the Science Building entrance. Please check the updated map posted at each stop.";
-addPlayButton('announcePassage', ()=>document.getElementById('announcePassage').textContent);
-renderMCQ('announceQuestions', [
+]
+);
+setListeningAnnounce(
+"Attention students: The campus shuttle schedule will change starting next Monday due to road construction near the main gate. Shuttles will now depart every twenty minutes instead of every ten, and the West Lot stop will be temporarily relocated to the Science Building entrance. Please check the updated map posted at each stop.",
+[
  {q:"Why is the shuttle schedule changing?", options:["Road construction","A holiday break","A driver shortage","New bus purchases"], correctIndex:0, explain:"細節題：原因在第一句說明。"},
  {q:"What is changing about the West Lot stop?", options:["It is temporarily relocated","It is being removed permanently","It now runs all night","It only operates on weekends"], correctIndex:0, explain:"細節題：注意「temporarily」這個關鍵字。"}
-], 'listening');
-
-document.getElementById('talkPassage').textContent =
-"Today I want to talk briefly about an idea in psychology called the 'mere exposure effect.' This is the tendency for people to develop a preference for things simply because they are familiar with them. In one classic study, participants were shown a series of unfamiliar images repeatedly. Even though the images themselves had no particular meaning, participants began to rate the images they had seen more often as more likeable than ones they'd seen only once or not at all. Some researchers believe this effect explains why we often grow fond of songs we initially disliked, simply after hearing them several times. However, the effect isn't unlimited — extreme overexposure can sometimes lead to the opposite reaction, where people grow tired of something instead of liking it more.";
-addPlayButton('talkPassage', ()=>document.getElementById('talkPassage').textContent);
-renderMCQ('talkQuestions', [
+]
+);
+setListeningTalk(
+"Today I want to talk briefly about an idea in psychology called the 'mere exposure effect.' This is the tendency for people to develop a preference for things simply because they are familiar with them. In one classic study, participants were shown a series of unfamiliar images repeatedly. Even though the images themselves had no particular meaning, participants began to rate the images they had seen more often as more likeable than ones they'd seen only once or not at all. Some researchers believe this effect explains why we often grow fond of songs we initially disliked, simply after hearing them several times. However, the effect isn't unlimited — extreme overexposure can sometimes lead to the opposite reaction, where people grow tired of something instead of liking it more.",
+[
  {q:"What is the main topic of the talk?", options:["The mere exposure effect","Memory loss in aging adults","How to design psychology experiments","The history of psychological research"], correctIndex:0, explain:"主旨題：開頭即點明主題。"},
  {q:"According to the talk, what happened in the classic study?", options:["Participants rated frequently shown images more favorably","Participants forgot the images entirely","Participants rated all images as equally unlikeable","Participants couldn't tell the images apart"], correctIndex:0, explain:"細節題：對應「rate the images they had seen more often as more likeable」。"},
  {q:"What example does the speaker give to relate the idea to real life?", options:["Growing fond of a song after repeated listening","Falling in love at first sight","Memorizing a phone number","Recognizing a celebrity's face"], correctIndex:0, explain:"細節題：對應「songs we initially disliked」的例子。"},
  {q:"What does the speaker say about extreme overexposure?", options:["It can cause the opposite effect — people may grow tired of something","It has no effect at all","It only happens with images, not sounds","It always increases liking further"], correctIndex:0, explain:"細節／推論題：對應「the effect isn't unlimited」之後的句子。"}
-], 'listening');
+]
+);
+recomputeListeningTotal();
+
+/* ====================================================
+   SPEAKING & WRITING DAILY DATA SETTERS
+==================================================== */
+function setSpeakingData(data){
+  if(Array.isArray(data.shadowSentences) && data.shadowSentences.length){
+    shadowSentences = data.shadowSentences;
+    shadowIdx = 0;
+    document.getElementById('shadowTotal').textContent = shadowSentences.length;
+    document.getElementById('shadowIdx').textContent = 1;
+    document.getElementById('shadowSentence').textContent = '點「播放語音」開始';
+  }
+  if(Array.isArray(data.interviewQuestions) && data.interviewQuestions.length){
+    interviewQs = data.interviewQuestions;
+  }
+}
+function refillSelect(id, arr){
+  const el = document.getElementById(id);
+  el.innerHTML = '';
+  arr.forEach(p=>{ const o=document.createElement('option'); o.textContent=p; el.appendChild(o); });
+}
+function setWritingData(data){
+  if(Array.isArray(data.buildSentences) && data.buildSentences.length){
+    buildItems = data.buildSentences;
+    buildIdx = 0;
+    renderBuild();
+  }
+  if(Array.isArray(data.emailPrompts) && data.emailPrompts.length){
+    emailPrompts = data.emailPrompts;
+    refillSelect('emailPrompt', emailPrompts);
+  }
+  if(Array.isArray(data.discussionPrompts) && data.discussionPrompts.length){
+    discPrompts = data.discussionPrompts;
+    refillSelect('discPrompt', discPrompts);
+  }
+}
+
+/* ====================================================
+   FETCH TODAY'S CONTENT (filled in daily by GitHub Actions, if configured)
+==================================================== */
+async function loadRemoteDaily(){
+  const targets = [
+    {url:'./data/daily-reading.json', setter:setReadingData},
+    {url:'./data/daily-listening.json', setter:setListeningData},
+    {url:'./data/daily-speaking.json', setter:setSpeakingData},
+    {url:'./data/daily-writing.json', setter:setWritingData}
+  ];
+  for(const t of targets){
+    try{
+      const res = await fetch(t.url, {cache:'no-store'});
+      if(!res.ok) continue;
+      const data = await res.json();
+      t.setter(data);
+    }catch(e){ /* file not set up yet, or running outside GitHub Pages — static content stays as-is */ }
+  }
+}
+loadRemoteDaily();
 </script>
 </body>
 </html>
