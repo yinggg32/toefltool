@@ -437,19 +437,34 @@ footer.note{
 
       <div class="card">
         <h3><span class="chip warm">Take an Interview</span> 模擬即時訪談</h3>
-        <p style="font-size:13px;color:var(--ink-soft);margin:0 0 10px;">新制沒有準備時間，所以練習時也不要先想好答案——抽到題目立刻開始說，計時器一響就要開口。</p>
-        <div class="timer-row">
+        <p style="font-size:13px;color:var(--ink-soft);margin:0 0 10px;">新制是「同一個情境連續四題」，題目通常依序是：個人經驗 → 延伸面向／挑戰 → 意見 → 建議，每題45秒、完全沒有準備時間，問完立刻倒數。</p>
+        <div class="sentence-display" id="interviewIntro" style="font-size:13px;color:var(--ink-soft);height:auto;align-items:flex-start;">點「抽情境」開始，會連續跑完四題。</div>
+        <div class="timer-row" style="margin-top:10px;">
           <div class="dial">
             <svg width="78" height="78"><circle class="bg" cx="39" cy="39" r="33"/><circle class="fg" id="interviewArc" cx="39" cy="39" r="33"/></svg>
-            <div class="num" id="interviewNum">30</div>
+            <div class="num" id="interviewNum">45</div>
           </div>
           <div style="flex:1;min-width:200px;">
-            <div class="sentence-display" id="interviewQ" style="font-size:15px;">點「抽題」開始</div>
-            <div class="flash-controls">
-              <button class="btn accent" id="interviewDraw">抽題</button>
-              <button class="btn ghost" id="interviewStart">開始 30 秒計時</button>
+            <div class="sentence-display" id="interviewQ" style="font-size:15px;">－</div>
+            <p style="font-size:11px;color:var(--ink-soft);margin:6px 0 0;">第 <span id="interviewQNum">0</span> / 4 題</p>
+          </div>
+        </div>
+        <div class="flash-controls" style="margin-top:10px;">
+          <button class="btn accent" id="interviewDraw">抽情境（連續四題）</button>
+          <button class="btn ghost" id="interviewNextQ">跳到下一題</button>
+        </div>
+
+        <div style="margin-top:16px;padding-top:14px;border-top:1px solid var(--line);">
+          <div style="display:flex;align-items:center;justify-content:space-between;flex-wrap:wrap;gap:8px;margin-bottom:8px;">
+            <span style="font-size:12px;color:var(--ink-soft);">🎙️ 錄音轉文字（Chrome／Edge／Safari 14.1+ 皆可，Safari 需先在「系統設定→Siri」開啟）</span>
+            <div class="flash-controls" style="margin:0;">
+              <button class="btn ghost" id="interviewRecBtn">🎙️ 開始錄音</button>
+              <button class="btn ghost" id="interviewClearBtn">清空逐字稿</button>
             </div>
           </div>
+          <textarea id="interviewTranscript" placeholder="按開始錄音後，你說的話會即時轉成文字顯示在這裡…" style="min-height:90px;"></textarea>
+          <button class="btn accent" id="interviewToClaudeBtn" style="margin-top:8px;">📋 複製逐字稿＋開啟 Claude 幫我改</button>
+          <p style="font-size:11px;color:var(--ink-soft);margin-top:6px;" id="interviewCopyNote"></p>
         </div>
       </div>
     </section>
@@ -490,6 +505,8 @@ footer.note{
             <span class="chip" id="emailTimerNum">5:00</span>
           </div>
         </div>
+        <button class="btn accent" id="emailToClaudeBtn" style="margin-top:10px;">📋 複製＋開啟 Claude 幫我改</button>
+        <p style="font-size:11px;color:var(--ink-soft);margin-top:6px;" id="emailCopyNote"></p>
       </div>
 
       <div class="card">
@@ -507,6 +524,8 @@ footer.note{
             <span class="chip" id="discTimerNum">5:00</span>
           </div>
         </div>
+        <button class="btn accent" id="discToClaudeBtn" style="margin-top:10px;">📋 複製＋開啟 Claude 幫我改</button>
+        <p style="font-size:11px;color:var(--ink-soft);margin-top:6px;" id="discCopyNote"></p>
       </div>
     </section>
 
@@ -556,7 +575,7 @@ footer.note{
 
       <div class="card">
         <h3>🎧 聽力例題練習</h3>
-        <p style="font-size:12px;color:var(--ink-soft);margin:0 0 12px;">這是文字模擬版——實際考試只會播放一次語音、不顯示文字。練習時建議「先讀過逐字稿一次後遮住」，模擬只聽一次的狀況。</p>
+        <p style="font-size:12px;color:var(--ink-soft);margin:0 0 12px;">這是文字模擬版——實際考試只會播放一次語音、不顯示文字。練習時建議「先讀過逐字稿一次後遮住」，模擬只聽一次的狀況。<b style="color:var(--accent);">點選你覺得對的選項就會立刻顯示對錯，不用另外按送出。</b></p>
         <div class="progress-stub" id="listeningSummary" style="display:inline-block;margin-bottom:14px;">已作答 0 / 12　正確 0</div>
 
         <div class="practice-block">
@@ -854,47 +873,154 @@ document.getElementById('shadowNext').addEventListener('click',()=>{
   document.getElementById('shadowSentence').textContent = '點「播放語音」開始';
 });
 
-/* ---------------- INTERVIEW TIMER ---------------- */
-let interviewQs = [
- "What do you usually do on weekends?",
- "Describe a teacher who influenced you and explain why.",
- "What is your favorite season of the year? Why?",
- "Talk about a skill you would like to learn in the future.",
- "Describe your hometown to someone who has never been there.",
- "What did you do during your last vacation?",
- "Talk about a book or movie you recently enjoyed.",
- "How do you usually spend time with your friends?",
- "Describe a typical day at your school or workplace.",
- "What is one habit you would like to change? Why?",
- "Talk about a memorable trip you have taken.",
- "Describe your favorite place to relax."
+/* ---------------- TAKE AN INTERVIEW: connected 4-question scenarios ---------------- */
+let interviewScenarios = [
+ {topic:"通勤習慣", intro:"You have agreed to take part in a research study about commuting habits.",
+  questions:[
+   "Is it important to live close to your school or workplace? Why?",
+   "What is the most challenging part of your daily commute?",
+   "Do you think public transportation in your area is good enough? Why or why not?",
+   "What would you recommend cities do to make commuting easier for students?"
+  ]},
+ {topic:"城市生活", intro:"You have agreed to take part in a research study about urban life.",
+  questions:[
+   "Do you currently live in a big city, a small town, or a village? Describe it briefly.",
+   "What part of living there do you find most stressful or difficult?",
+   "Do you think cities are generally good or bad for people's wellbeing?",
+   "Should city governments invest more in public parks and green spaces? Why or why not?"
+  ]},
+ {topic:"智慧型手機使用", intro:"You have agreed to take part in a research study about smartphone usage.",
+  questions:[
+   "Think back to the last time you used your phone for something important. What did you use it for?",
+   "What is one feature of your phone that you couldn't live without?",
+   "Do you think people your age spend too much time on their phones?",
+   "What advice would you give someone trying to reduce their screen time?"
+  ]},
+ {topic:"暑期活動規劃", intro:"You have agreed to take part in a research study about how students spend their summer.",
+  questions:[
+   "Describe a summer camp or summer program you attended or would like to attend.",
+   "What was the most challenging part of planning or organizing that kind of activity?",
+   "Do you think summer programs are valuable for students? Why or why not?",
+   "What would you recommend to someone planning a summer camp for teenagers?"
+  ]},
+ {topic:"學習習慣", intro:"You have agreed to take part in a research study about study habits.",
+  questions:[
+   "Describe where and how you usually study.",
+   "What is the biggest distraction you face while studying?",
+   "Do you think studying in groups is more effective than studying alone?",
+   "What advice would you give a new student struggling to focus on their studies?"
+  ]},
+ {topic:"社群媒體", intro:"You have agreed to take part in a research study about social media habits.",
+  questions:[
+   "How often do you use social media, and what do you mainly use it for?",
+   "What is one downside of social media that you have personally experienced?",
+   "Do you think social media has an overall positive or negative effect on young people?",
+   "What would you suggest someone do to use social media in a healthier way?"
+  ]}
 ];
+let currentScenario = null;
+let interviewQIdx = 0;
 const arc = document.getElementById('interviewArc');
 const R = 33, C = 2*Math.PI*R;
 arc.style.strokeDasharray = C;
 arc.style.strokeDashoffset = 0;
 let interviewTimer = null;
-document.getElementById('interviewDraw').addEventListener('click',()=>{
+
+function startInterviewTimer(){
   clearInterval(interviewTimer);
-  arc.style.strokeDashoffset = 0;
-  arc.style.stroke = 'var(--accent)';
-  document.getElementById('interviewNum').textContent = 30;
-  const q = interviewQs[Math.floor(Math.random()*interviewQs.length)];
-  document.getElementById('interviewQ').textContent = q;
-});
-document.getElementById('interviewStart').addEventListener('click',()=>{
-  clearInterval(interviewTimer);
-  let t = 30;
+  let t = 45;
   arc.style.strokeDashoffset = 0;
   arc.style.stroke = 'var(--accent)';
   document.getElementById('interviewNum').textContent = t;
   interviewTimer = setInterval(()=>{
     t--;
     document.getElementById('interviewNum').textContent = Math.max(t,0);
-    arc.style.strokeDashoffset = C*(1-t/30);
+    arc.style.strokeDashoffset = C*(1-t/45);
     if(t<=10) arc.style.stroke = 'var(--alert)';
-    if(t<=0){ clearInterval(interviewTimer); document.getElementById('interviewQ').textContent += ' 　[時間到]'; }
+    if(t<=0){
+      clearInterval(interviewTimer);
+      if(interviewQIdx < currentScenario.questions.length-1){
+        interviewQIdx++;
+        showInterviewQuestion();
+      } else {
+        document.getElementById('interviewQ').textContent += '　[四題結束]';
+      }
+    }
   },1000);
+}
+function showInterviewQuestion(){
+  document.getElementById('interviewQNum').textContent = interviewQIdx+1;
+  document.getElementById('interviewQ').textContent = currentScenario.questions[interviewQIdx];
+  startInterviewTimer();
+}
+document.getElementById('interviewDraw').addEventListener('click',()=>{
+  currentScenario = interviewScenarios[Math.floor(Math.random()*interviewScenarios.length)];
+  interviewQIdx = 0;
+  document.getElementById('interviewIntro').textContent = '【'+currentScenario.topic+'】 '+currentScenario.intro;
+  showInterviewQuestion();
+});
+document.getElementById('interviewNextQ').addEventListener('click',()=>{
+  if(!currentScenario) return;
+  if(interviewQIdx < currentScenario.questions.length-1){
+    interviewQIdx++;
+    showInterviewQuestion();
+  }
+});
+
+/* ---------------- SPEECH-TO-TEXT RECORDING (for interview answers) ---------------- */
+let interviewRecognizer = null;
+let interviewRecording = false;
+function setupRecognizer(){
+  const SR = window.SpeechRecognition || window.webkitSpeechRecognition;
+  if(!SR) return null;
+  const r = new SR();
+  r.lang = 'en-US';
+  r.continuous = true;
+  r.interimResults = true;
+  let finalText = document.getElementById('interviewTranscript').value;
+  r.onresult = (e)=>{
+    let interim = '';
+    for(let i=e.resultIndex;i<e.results.length;i++){
+      if(e.results[i].isFinal) finalText += e.results[i][0].transcript + ' ';
+      else interim += e.results[i][0].transcript;
+    }
+    document.getElementById('interviewTranscript').value = finalText + interim;
+  };
+  r.onerror = ()=>{};
+  return r;
+}
+document.getElementById('interviewRecBtn').addEventListener('click',()=>{
+  const btn = document.getElementById('interviewRecBtn');
+  if(!interviewRecording){
+    interviewRecognizer = setupRecognizer();
+    if(!interviewRecognizer){
+      document.getElementById('interviewCopyNote').textContent = '這個瀏覽器不支援語音辨識。如果你用的是 Safari，請先到「系統設定→Siri」打開 Siri 再重試；也可以改用 Chrome 或 Edge。';
+      return;
+    }
+    interviewRecognizer.start();
+    interviewRecording = true;
+    btn.textContent = '⏹ 停止錄音';
+  } else {
+    if(interviewRecognizer) interviewRecognizer.stop();
+    interviewRecording = false;
+    btn.textContent = '🎙️ 開始錄音';
+  }
+});
+document.getElementById('interviewClearBtn').addEventListener('click',()=>{
+  document.getElementById('interviewTranscript').value = '';
+});
+document.getElementById('interviewToClaudeBtn').addEventListener('click',async ()=>{
+  const transcript = document.getElementById('interviewTranscript').value.trim();
+  const note = document.getElementById('interviewCopyNote');
+  if(!transcript){ note.textContent = '逐字稿是空的，先錄一段再複製。'; return; }
+  const promptText = '這是我托福口說 Take an Interview 練習的逐字稿（可能有語音辨識的小錯字），請幫我看文法、用詞、邏輯連貫性，給出修改建議和更道地的講法：\n\n'+transcript;
+  try{
+    await navigator.clipboard.writeText(promptText);
+    note.textContent = '已複製到剪貼簿！正在開啟 Claude.ai，貼上（Cmd+V / Ctrl+V）即可送出。';
+  }catch(e){
+    note.textContent = '自動複製失敗，請手動選取逐字稿文字複製，再貼到 Claude.ai。';
+  }
+  window.open('https://claude.ai/new', '_blank');
 });
 
 /* ---------------- BUILD A SENTENCE ---------------- */
@@ -998,6 +1124,24 @@ function wireWordCount(taId, countId){
 }
 wireWordCount('emailText','emailCount');
 wireWordCount('discText','discCount');
+
+function wireCopyToClaude(btnId, textareaId, noteId, instructionPrefix){
+  document.getElementById(btnId).addEventListener('click', async ()=>{
+    const text = document.getElementById(textareaId).value.trim();
+    const note = document.getElementById(noteId);
+    if(!text){ note.textContent = '還是空的，先寫一點東西再複製。'; return; }
+    const promptText = instructionPrefix + '\n\n' + text;
+    try{
+      await navigator.clipboard.writeText(promptText);
+      note.textContent = '已複製到剪貼簿！正在開啟 Claude.ai，貼上（Cmd+V / Ctrl+V）即可送出。';
+    }catch(e){
+      note.textContent = '自動複製失敗，請手動選取文字複製，再貼到 Claude.ai。';
+    }
+    window.open('https://claude.ai/new', '_blank');
+  });
+}
+wireCopyToClaude('emailToClaudeBtn', 'emailText', 'emailCopyNote', '這是我寫的托福 Write an Email 練習，請幫我看文法、用詞、語氣是否合適，並給修改建議：');
+wireCopyToClaude('discToClaudeBtn', 'discText', 'discCopyNote', '這是我寫的托福 Write for an Academic Discussion 練習，請幫我看論證是否完整、有沒有呼應到討論情境，並給修改建議：');
 
 function wireTimer(btnId, numId, seconds){
   let t = seconds, timer = null, running=false;
@@ -1442,13 +1586,40 @@ function recomputeReadingTotal(){
   sectionStats.reading.total = clozeBlankCount() + readingAcademicCount + readingDailyCount;
   document.getElementById('readingSummary').textContent = '已作答 '+sectionStats.reading.answered+' / '+sectionStats.reading.total+'　正確 '+sectionStats.reading.correct;
 }
+/* Validates the fetched cloze format before applying it. Daily AI-generated content
+   occasionally doesn't follow the exact alternating text/blank schema — if so, we skip it
+   and keep whatever was already rendering (the static fallback) rather than show a broken UI. */
+function isValidClozeSegments(segments){
+  if(!Array.isArray(segments) || segments.length < 5) return false;
+  let blankCount = 0;
+  for(const seg of segments){
+    if(seg === null || typeof seg !== 'object') return false;
+    const hasText = typeof seg.text === 'string';
+    const hasBlank = typeof seg.blank === 'string' && seg.blank.length > 0 && seg.blank.length <= 20;
+    if(hasText === hasBlank) return false; // must be exactly one of the two, not both/neither
+    if(hasBlank) blankCount++;
+  }
+  return blankCount >= 3;
+}
+function isValidQuestionSet(questions, expectedCount){
+  if(!Array.isArray(questions) || questions.length !== expectedCount) return false;
+  return questions.every(q => q && typeof q.q === 'string' && Array.isArray(q.options) && q.options.length === 4 && typeof q.correctIndex === 'number');
+}
 /* Replace all reading content at once (used when today's GitHub Actions data is available) */
 function setReadingData(data){
-  if(data.cloze && Array.isArray(data.cloze.segments)){ clozePassages = [{segments:data.cloze.segments}]; clozeIdx=0; clozeScored=new Set(); renderCloze(); }
-  if(data.academic) setReadingAcademic(data.academic.passage, data.academic.questions);
-  if(data.daily) setReadingDaily(data.daily.passage, data.daily.questions);
-  sectionStats.reading.answered = 0; sectionStats.reading.correct = 0;
-  recomputeReadingTotal();
+  try{
+    if(data.cloze && isValidClozeSegments(data.cloze.segments)){
+      clozePassages = [{segments:data.cloze.segments}]; clozeIdx=0; clozeScored=new Set(); renderCloze();
+    }
+    if(data.academic && typeof data.academic.passage==='string' && isValidQuestionSet(data.academic.questions, 4)){
+      setReadingAcademic(data.academic.passage, data.academic.questions);
+    }
+    if(data.daily && typeof data.daily.passage==='string' && isValidQuestionSet(data.daily.questions, 2)){
+      setReadingDaily(data.daily.passage, data.daily.questions);
+    }
+    sectionStats.reading.answered = 0; sectionStats.reading.correct = 0;
+    recomputeReadingTotal();
+  }catch(e){ console.warn('今日閱讀資料格式異常，已保留備用內容', e); }
 }
 renderCloze();
 
@@ -1511,13 +1682,21 @@ function recomputeListeningTotal(){
   sectionStats.listening.total = listeningCounts.choose + listeningCounts.convo + listeningCounts.announce + listeningCounts.talk;
   document.getElementById('listeningSummary').textContent = '已作答 '+sectionStats.listening.answered+' / '+sectionStats.listening.total+'　正確 '+sectionStats.listening.correct;
 }
+function isValidTranscriptQuestionSet(item, expectedCount){
+  return item && typeof item.transcript==='string' && item.transcript.length>10 && isValidQuestionSet(item.questions, expectedCount);
+}
 function setListeningData(data){
-  if(data.chooseResponse) setListeningChooseResponse(data.chooseResponse);
-  if(data.conversation) setListeningConvo(data.conversation.transcript, data.conversation.questions);
-  if(data.announcement) setListeningAnnounce(data.announcement.transcript, data.announcement.questions);
-  if(data.talk) setListeningTalk(data.talk.transcript, data.talk.questions);
-  sectionStats.listening.answered = 0; sectionStats.listening.correct = 0;
-  recomputeListeningTotal();
+  try{
+    if(Array.isArray(data.chooseResponse) && data.chooseResponse.length===4 &&
+       data.chooseResponse.every(q=>q && typeof q.q==='string' && Array.isArray(q.options) && q.options.length===4 && typeof q.correctIndex==='number')){
+      setListeningChooseResponse(data.chooseResponse);
+    }
+    if(isValidTranscriptQuestionSet(data.conversation, 2)) setListeningConvo(data.conversation.transcript, data.conversation.questions);
+    if(isValidTranscriptQuestionSet(data.announcement, 2)) setListeningAnnounce(data.announcement.transcript, data.announcement.questions);
+    if(isValidTranscriptQuestionSet(data.talk, 4)) setListeningTalk(data.talk.transcript, data.talk.questions);
+    sectionStats.listening.answered = 0; sectionStats.listening.correct = 0;
+    recomputeListeningTotal();
+  }catch(e){ console.warn('今日聽力資料格式異常，已保留備用內容', e); }
 }
 
 setListeningChooseResponse(chooseResponses);
@@ -1549,37 +1728,47 @@ recomputeListeningTotal();
 /* ====================================================
    SPEAKING & WRITING DAILY DATA SETTERS
 ==================================================== */
+function isValidScenario(s){
+  return s && typeof s.topic==='string' && typeof s.intro==='string' && Array.isArray(s.questions) && s.questions.length===4 && s.questions.every(q=>typeof q==='string' && q.length>5);
+}
 function setSpeakingData(data){
-  if(Array.isArray(data.shadowSentences) && data.shadowSentences.length){
-    shadowSentences = data.shadowSentences;
-    shadowIdx = 0;
-    document.getElementById('shadowTotal').textContent = shadowSentences.length;
-    document.getElementById('shadowIdx').textContent = 1;
-    document.getElementById('shadowSentence').textContent = '點「播放語音」開始';
-  }
-  if(Array.isArray(data.interviewQuestions) && data.interviewQuestions.length){
-    interviewQs = data.interviewQuestions;
-  }
+  try{
+    if(Array.isArray(data.shadowSentences) && data.shadowSentences.length>=5 && data.shadowSentences.every(s=>typeof s==='string')){
+      shadowSentences = data.shadowSentences;
+      shadowIdx = 0;
+      document.getElementById('shadowTotal').textContent = shadowSentences.length;
+      document.getElementById('shadowIdx').textContent = 1;
+      document.getElementById('shadowSentence').textContent = '點「播放語音」開始';
+    }
+    if(Array.isArray(data.interviewScenarios) && data.interviewScenarios.length>0 && data.interviewScenarios.every(isValidScenario)){
+      interviewScenarios = data.interviewScenarios;
+    }
+  }catch(e){ console.warn('今日口說資料格式異常，已保留備用內容', e); }
 }
 function refillSelect(id, arr){
   const el = document.getElementById(id);
   el.innerHTML = '';
   arr.forEach(p=>{ const o=document.createElement('option'); o.textContent=p; el.appendChild(o); });
 }
+function isValidBuildItem(b){
+  return b && Array.isArray(b.words) && b.words.length>=4 && b.words.every(w=>typeof w==='string') && typeof b.display==='string';
+}
 function setWritingData(data){
-  if(Array.isArray(data.buildSentences) && data.buildSentences.length){
-    buildItems = data.buildSentences;
-    buildIdx = 0;
-    renderBuild();
-  }
-  if(Array.isArray(data.emailPrompts) && data.emailPrompts.length){
-    emailPrompts = data.emailPrompts;
-    refillSelect('emailPrompt', emailPrompts);
-  }
-  if(Array.isArray(data.discussionPrompts) && data.discussionPrompts.length){
-    discPrompts = data.discussionPrompts;
-    refillSelect('discPrompt', discPrompts);
-  }
+  try{
+    if(Array.isArray(data.buildSentences) && data.buildSentences.length>0 && data.buildSentences.every(isValidBuildItem)){
+      buildItems = data.buildSentences;
+      buildIdx = 0;
+      renderBuild();
+    }
+    if(Array.isArray(data.emailPrompts) && data.emailPrompts.length>0 && data.emailPrompts.every(p=>typeof p==='string')){
+      emailPrompts = data.emailPrompts;
+      refillSelect('emailPrompt', emailPrompts);
+    }
+    if(Array.isArray(data.discussionPrompts) && data.discussionPrompts.length>0 && data.discussionPrompts.every(p=>typeof p==='string')){
+      discPrompts = data.discussionPrompts;
+      refillSelect('discPrompt', discPrompts);
+    }
+  }catch(e){ console.warn('今日寫作資料格式異常，已保留備用內容', e); }
 }
 
 /* ====================================================
