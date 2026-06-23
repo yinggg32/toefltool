@@ -510,5 +510,269 @@
     "zh": "通用語",
     "ex": "A lingua franca is a language that is adopted as a common language between speakers of different native languages.",
     "cat": "📰 每日新詞：linguistics"
+  },
+  {
+    "word": "aesthetic",
+    "pos": "adj.",
+    "root": "美—beauty",
+    "zh": "美學的；審美的",
+    "ex": "The aesthetic qualities of the building contribute significantly to its overall impact.",
+    "cat": "📰 每日新詞：art and architecture"
+  },
+  {
+    "word": "architecture",
+    "pos": "n.",
+    "root": "建築—building",
+    "zh": "建築學；建築物",
+    "ex": "The architecture of ancient Rome has influenced countless structures worldwide.",
+    "cat": "📰 每日新詞：art and architecture"
+  },
+  {
+    "word": "composition",
+    "pos": "n.",
+    "root": "組成—compose",
+    "zh": "構成；作品",
+    "ex": "The composition of the painting reveals the artist's unique perspective.",
+    "cat": "📰 每日新詞：art and architecture"
+  },
+  {
+    "word": "contemporary",
+    "pos": "adj.",
+    "root": "當代—contemporaneous",
+    "zh": "當代的；現代的",
+    "ex": "Contemporary art often challenges traditional notions of aesthetics.",
+    "cat": "📰 每日新詞：art and architecture"
+  },
+  {
+    "word": "cultural",
+    "pos": "adj.",
+    "root": "文化—culture",
+    "zh": "文化的；文藝的",
+    "ex": "Cultural influences are evident in the design of the museum.",
+    "cat": "📰 每日新詞：art and architecture"
+  },
+  {
+    "word": "decorative",
+    "pos": "adj.",
+    "root": "裝飾—decorate",
+    "zh": "裝飾性的",
+    "ex": "The decorative elements of the sculpture enhance its visual appeal.",
+    "cat": "📰 每日新詞：art and architecture"
+  },
+  {
+    "word": "design",
+    "pos": "n./v.",
+    "root": "設計—design",
+    "zh": "設計；構思",
+    "ex": "The design of the bridge was both functional and visually striking.",
+    "cat": "📰 每日新詞：art and architecture"
+  },
+  {
+    "word": "dimension",
+    "pos": "n.",
+    "root": "維度—dimension",
+    "zh": "維度；方面",
+    "ex": "The dimension of space in the installation creates an immersive experience.",
+    "cat": "📰 每日新詞：art and architecture"
+  },
+  {
+    "word": "eclectic",
+    "pos": "adj.",
+    "root": "折衷—eclectic",
+    "zh": "折衷的；兼容並包的",
+    "ex": "The eclectic style of the gallery attracts a diverse audience.",
+    "cat": "📰 每日新詞：art and architecture"
+  },
+  {
+    "word": "emphasis",
+    "pos": "n.",
+    "root": "重點—emphasize",
+    "zh": "重點；強調",
+    "ex": "The emphasis on natural light in the design enhances the building's atmosphere.",
+    "cat": "📰 每日新詞：art and architecture"
+  },
+  {
+    "word": "exhibition",
+    "pos": "n.",
+    "root": "展覽—exhibit",
+    "zh": "展覽；展示",
+    "ex": "The exhibition featured works from various artistic movements.",
+    "cat": "📰 每日新詞：art and architecture"
+  },
+  {
+    "word": "form",
+    "pos": "n./v.",
+    "root": "形狀—form",
+    "zh": "形狀；形式",
+    "ex": "The form of the sculpture is inspired by organic shapes found in nature.",
+    "cat": "📰 每日新詞：art and architecture"
+  },
+  {
+    "word": "function",
+    "pos": "n./v.",
+    "root": "功能—function",
+    "zh": "功能；用途",
+    "ex": "The function of the space was carefully considered during the design process.",
+    "cat": "📰 每日新詞：art and architecture"
+  },
+  {
+    "word": "historical",
+    "pos": "adj.",
+    "root": "歷史—history",
+    "zh": "歷史的；史學的",
+    "ex": "The historical significance of the building attracts many visitors.",
+    "cat": "📰 每日新詞：art and architecture"
+  },
+  {
+    "word": "iconic",
+    "pos": "adj.",
+    "root": "圖標—icon",
+    "zh": "標誌性的",
+    "ex": "The Eiffel Tower is an iconic symbol of Paris.",
+    "cat": "📰 每日新詞：art and architecture"
+  },
+  {
+    "word": "installation",
+    "pos": "n.",
+    "root": "安裝—install",
+    "zh": "裝置藝術；安裝",
+    "ex": "The installation invites viewers to engage with the space in new ways.",
+    "cat": "📰 每日新詞：art and architecture"
+  },
+  {
+    "word": "medium",
+    "pos": "n.",
+    "root": "媒介—medium",
+    "zh": "媒介；工具",
+    "ex": "The artist experimented with different mediums to express her vision.",
+    "cat": "📰 每日新詞：art and architecture"
+  },
+  {
+    "word": "movement",
+    "pos": "n.",
+    "root": "運動—move",
+    "zh": "運動；流派",
+    "ex": "The Impressionist movement marked a significant shift in art history.",
+    "cat": "📰 每日新詞：art and architecture"
+  },
+  {
+    "word": "narrative",
+    "pos": "n.",
+    "root": "敘事—narrate",
+    "zh": "敘事；故事",
+    "ex": "The narrative conveyed through the artwork reflects societal issues.",
+    "cat": "📰 每日新詞：art and architecture"
+  },
+  {
+    "word": "perspective",
+    "pos": "n.",
+    "root": "視角—perspective",
+    "zh": "視角；觀點",
+    "ex": "The perspective used in the painting creates a sense of depth.",
+    "cat": "📰 每日新詞：art and architecture"
+  },
+  {
+    "word": "proportion",
+    "pos": "n.",
+    "root": "比例—proportion",
+    "zh": "比例；相稱",
+    "ex": "The proportion of the elements in the composition is carefully balanced.",
+    "cat": "📰 每日新詞：art and architecture"
+  },
+  {
+    "word": "style",
+    "pos": "n.",
+    "root": "風格—style",
+    "zh": "風格；樣式",
+    "ex": "The style of the architecture reflects the cultural context of the time.",
+    "cat": "📰 每日新詞：art and architecture"
+  },
+  {
+    "word": "symbolism",
+    "pos": "n.",
+    "root": "象徵—symbol",
+    "zh": "象徵主義",
+    "ex": "Symbolism plays a crucial role in interpreting the meaning of the artwork.",
+    "cat": "📰 每日新詞：art and architecture"
+  },
+  {
+    "word": "technique",
+    "pos": "n.",
+    "root": "技巧—technique",
+    "zh": "技巧；手法",
+    "ex": "The artist's technique is characterized by meticulous attention to detail.",
+    "cat": "📰 每日新詞：art and architecture"
+  },
+  {
+    "word": "texture",
+    "pos": "n.",
+    "root": "質地—texture",
+    "zh": "質地；紋理",
+    "ex": "The texture of the canvas adds depth to the painting.",
+    "cat": "📰 每日新詞：art and architecture"
+  },
+  {
+    "word": "theme",
+    "pos": "n.",
+    "root": "主題—theme",
+    "zh": "主題；題材",
+    "ex": "The theme of urban life is prevalent in many contemporary artworks.",
+    "cat": "📰 每日新詞：art and architecture"
+  },
+  {
+    "word": "traditional",
+    "pos": "adj.",
+    "root": "傳統—tradition",
+    "zh": "傳統的；慣例的",
+    "ex": "Traditional techniques are often employed in the creation of handcrafted items.",
+    "cat": "📰 每日新詞：art and architecture"
+  },
+  {
+    "word": "transformation",
+    "pos": "n.",
+    "root": "轉變—transform",
+    "zh": "轉變；改變",
+    "ex": "The transformation of the old factory into an art space revitalized the area.",
+    "cat": "📰 每日新詞：art and architecture"
+  },
+  {
+    "word": "visual",
+    "pos": "adj.",
+    "root": "視覺—visual",
+    "zh": "視覺的；可見的",
+    "ex": "The visual elements of the exhibition are designed to provoke thought.",
+    "cat": "📰 每日新詞：art and architecture"
+  },
+  {
+    "word": "vocabulary",
+    "pos": "n.",
+    "root": "詞彙—vocab",
+    "zh": "詞彙；詞彙表",
+    "ex": "The vocabulary of art history includes terms that describe various styles and techniques.",
+    "cat": "📰 每日新詞：art and architecture"
+  },
+  {
+    "word": "venue",
+    "pos": "n.",
+    "root": "場地—venue",
+    "zh": "場地；場所",
+    "ex": "The venue for the art fair was selected for its accessibility and space.",
+    "cat": "📰 每日新詞：art and architecture"
+  },
+  {
+    "word": "volume",
+    "pos": "n.",
+    "root": "體積—volume",
+    "zh": "體積；音量",
+    "ex": "The volume of the sculpture creates a commanding presence in the gallery.",
+    "cat": "📰 每日新詞：art and architecture"
+  },
+  {
+    "word": "works",
+    "pos": "n.",
+    "root": "作品—work",
+    "zh": "作品；著作",
+    "ex": "The artist's works have been exhibited in major galleries around the world.",
+    "cat": "📰 每日新詞：art and architecture"
   }
 ]

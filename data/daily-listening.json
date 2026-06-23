@@ -1,116 +1,116 @@
 {
   "chooseResponse": [
     {
-      "q": "What time is the meeting?",
+      "q": "How do you feel about the club meeting?",
       "options": [
-        "At 3 PM.",
-        "In the library.",
-        "On Friday.",
-        "Before lunch."
+        "It was exciting!",
+        "I don't care.",
+        "It was boring.",
+        "I didn't go."
       ],
       "correctIndex": 0
     }
   ],
   "conversation": {
-    "transcript": "Student: Hi, Professor Thompson! I was wondering about the extra credit project.\nProfessor: Sure! What do you want to know about it?\nStudent: When is it due?\nProfessor: It's due next month on the 15th.",
+    "transcript": "Student: Did you attend the environmental club meeting last night?\nAdvisor: Yes, I did! It was really informative.\nStudent: What topics did they cover?\nAdvisor: They discussed upcoming projects and volunteer opportunities.",
     "questions": [
       {
-        "q": "What is the due date for the project?",
+        "q": "What was discussed at the meeting?",
         "options": [
-          "Next month on the 15th.",
-          "This week.",
-          "Tomorrow.",
-          "Next semester."
+          "Library changes",
+          "Volunteer opportunities",
+          "Sports events",
+          "Art exhibitions"
         ],
-        "correctIndex": 0,
-        "explain": "專案的截止日期是下個月的15日。"
+        "correctIndex": 1,
+        "explain": "他們討論了志願者機會。"
       },
       {
-        "q": "Who is the student talking to?",
+        "q": "How did the student feel about the meeting?",
         "options": [
-          "A professor.",
-          "A fellow student.",
-          "A librarian.",
-          "An advisor."
+          "Excited",
+          "Indifferent",
+          "Bored",
+          "Unsure"
         ],
         "correctIndex": 0,
-        "explain": "學生正在和一位教授交談。"
+        "explain": "學生對會議感到興奮。"
       }
     ]
   },
   "announcement": {
-    "transcript": "Attention students! The library will be closing early today at 5 PM due to maintenance. Please plan accordingly and make sure to check out any materials you may need before then. Thank you for your understanding.",
+    "transcript": "Attention students! The annual campus-wide clean-up day is scheduled for next Saturday from 9 AM to 1 PM. Supplies will be provided, and lunch will be served for all volunteers. Come join us to help keep our campus clean!",
     "questions": [
       {
-        "q": "Why is the library closing early?",
+        "q": "When is the campus clean-up day?",
         "options": [
-          "Due to maintenance.",
-          "For a special event.",
-          "Because of snow.",
-          "For inventory checks."
+          "Next Saturday",
+          "This Friday",
+          "Tomorrow",
+          "Next month"
         ],
         "correctIndex": 0,
-        "explain": "圖書館提前關閉是因為維護。"
+        "explain": "清理日定於下週六。"
       },
       {
-        "q": "What time will the library close?",
+        "q": "What will be provided for volunteers?",
         "options": [
-          "At 5 PM.",
-          "At 6 PM.",
-          "At 4 PM.",
-          "At 7 PM."
+          "Snacks only",
+          "Lunch and supplies",
+          "Drinks only",
+          "No provisions"
         ],
-        "correctIndex": 0,
-        "explain": "圖書館將於下午5點關閉。"
+        "correctIndex": 1,
+        "explain": "會為志願者提供午餐和用品。"
       }
     ]
   },
   "talk": {
-    "transcript": "Today, I'm going to explain the concept of photosynthesis. Photosynthesis is the process by which green plants, algae, and some bacteria convert light energy, usually from the sun, into chemical energy stored in glucose. This process takes place mainly in the leaves of plants, where chlorophyll captures sunlight. During photosynthesis, carbon dioxide from the air and water from the soil combine to form glucose and oxygen. The glucose serves as food for the plant, while oxygen is released into the atmosphere, which is essential for the survival of most living organisms. Understanding photosynthesis is crucial as it is the foundation of the food chain and plays a significant role in maintaining ecological balance.",
+    "transcript": "Today, I will explain the concept of renewable energy. Renewable energy refers to energy sources that are naturally replenished, such as solar, wind, and hydroelectric power. Unlike fossil fuels, which can take millions of years to form and can deplete, renewable energy sources are sustainable and can be harnessed without the fear of running out. This transition to renewable energy is crucial for reducing greenhouse gas emissions and combating climate change. By investing in renewable technologies, we can create a cleaner environment and ensure energy security for future generations.",
     "questions": [
       {
-        "q": "What do plants convert during photosynthesis?",
+        "q": "What is renewable energy?",
         "options": [
-          "Light energy into glucose.",
-          "Glucose into oxygen.",
-          "Oxygen into carbon dioxide.",
-          "Carbon dioxide into water."
+          "Energy from fossil fuels",
+          "Energy that can't be replenished",
+          "Naturally replenished energy",
+          "Energy used in cars"
         ],
-        "correctIndex": 0,
-        "explain": "植物在光合作用中將光能轉換為葡萄糖。"
+        "correctIndex": 2,
+        "explain": "可再生能源是自然補充的能源。"
       },
       {
-        "q": "What is produced as a byproduct of photosynthesis?",
+        "q": "Why is the transition to renewable energy important?",
         "options": [
-          "Oxygen.",
-          "Carbon dioxide.",
-          "Water.",
-          "Glucose."
+          "To increase fossil fuel use",
+          "To reduce greenhouse gases",
+          "To deplete resources",
+          "To increase pollution"
         ],
-        "correctIndex": 0,
-        "explain": "光合作用的副產品是氧氣。"
+        "correctIndex": 1,
+        "explain": "過渡到可再生能源有助於減少溫室氣體。"
       },
       {
-        "q": "Where does photosynthesis primarily occur?",
+        "q": "Which is NOT a renewable energy source mentioned?",
         "options": [
-          "In the leaves.",
-          "In the roots.",
-          "In the flowers.",
-          "In the stems."
+          "Solar",
+          "Wind",
+          "Hydroelectric",
+          "Coal"
         ],
-        "correctIndex": 0,
-        "explain": "光合作用主要發生在葉子中。"
+        "correctIndex": 3,
+        "explain": "煤不是可再生能源。"
       },
       {
-        "q": "Why is photosynthesis important?",
+        "q": "What can be achieved by investing in renewable technologies?",
         "options": [
-          "It supports the food chain.",
-          "It creates energy.",
-          "It absorbs carbon dioxide.",
-          "It produces water."
+          "Increased pollution",
+          "Energy security",
+          "Higher fossil fuel prices",
+          "More waste"
         ],
-        "correctIndex": 0,
-        "explain": "光合作用對於維持食物鏈至關重要。"
+        "correctIndex": 1,
+        "explain": "投資可再生技術可確保能源安全。"
       }
     ]
   }

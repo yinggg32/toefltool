@@ -2,83 +2,113 @@
   "cloze": {
     "segments": [
       {
-        "text": "The process of photosynthesis is essential for plant life. During this process, plants convert light energy, usually from the sun, into chemical energy stored in glucose. This transformation occurs primarily in the chloroplasts, cellular organelles containing chlorophyll. Plants also require water and carbon dioxide to perform photosynthesis. The overall reaction can be simplified as follows: light energy from the sun, combined with water and carbon dioxide, produces glucose and oxygen. This oxygen is then released back into the atmosphere, providing a vital gas for organisms that re-... (respiratorySuffix) and sustain life on Earth. Without photosynthesis, the energy flow in ecosystems would be disrupted, leading to a decline in biodiversity and changing the balance of natural environments."
+        "text": "The human brain is a complex organ responsible for controlling various functions of the body. It is divided into several "
+      },
+      {
+        "blank": "hemispheres"
+      },
+      {
+        "text": ", each with distinct roles. The left hemisphere is primarily associated with "
+      },
+      {
+        "blank": "langua"
+      },
+      {
+        "text": ", logical reasoning, and analytical thinking, while the right hemisphere is linked to creativity and "
+      },
+      {
+        "blank": "artis"
+      },
+      {
+        "text": ". Neurons, the basic units of the brain, communicate through connections called synapses. "
+      },
+      {
+        "blank": "Neuro"
+      },
+      {
+        "text": ", a process essential for learning and memory, involves strengthening these connections based on experience. "
+      },
+      {
+        "blank": "Pla"
+      },
+      {
+        "text": ". Research into brain function continues to evolve, revealing the intricate relationship between cognitive processes and behavior."
       }
     ]
   },
   "academic": {
-    "passage": "Photosynthesis is a crucial process for living organisms that rely on plants for energy. It occurs mainly in the chloroplasts of plant cells, where light, water, and carbon dioxide are transformed into glucose and oxygen. This process not only provides energy for plants but also sustains the oxygen supply in the atmosphere, making it vital for most life forms on Earth. Understanding photosynthesis is key to addressing issues like food production and climate change.",
+    "passage": "The study of artificial intelligence (AI) has significantly advanced in recent years. Researchers are now developing algorithms that allow machines to learn from data, improving their performance over time. AI applications are becoming increasingly prevalent in various fields, including healthcare, finance, and transportation. For instance, AI can analyze medical images with remarkable accuracy, assisting doctors in diagnosing diseases. As AI technology continues to evolve, ethical considerations regarding its use also emerge, prompting discussions about its impact on society.",
     "questions": [
       {
-        "q": "What is the main idea of the passage?",
+        "q": "What is the main focus of the passage?",
         "options": [
-          "Photosynthesis is essential for life.",
-          "Plants only use sunlight to grow.",
-          "Chloroplasts are the most important organelles.",
-          "Oxygen is harmful to living organisms."
+          "The advancements and implications of AI technology",
+          "The history of artificial intelligence",
+          "The ethical concerns around technological advancements",
+          "The financial benefits of AI"
         ],
         "correctIndex": 0,
-        "explain": "這段文字主要講述光合作用對生命的重要性。"
+        "explain": "此段落的主要重點在於人工智能技術的進步及其影響。"
       },
       {
-        "q": "Where does photosynthesis primarily occur?",
+        "q": "Which field is mentioned as an application of AI?",
         "options": [
-          "In the mitochondria",
-          "In the chloroplasts",
-          "In the cell membrane",
-          "In the vacuoles"
+          "Education",
+          "Healthcare",
+          "Manufacturing",
+          "Agriculture"
         ],
         "correctIndex": 1,
-        "explain": "光合作用主要在植物細胞的葉綠體中進行。"
+        "explain": "段落中提及醫療保健領域的AI應用。"
       },
       {
-        "q": "Why is photosynthesis considered vital for ecosystems?",
+        "q": "What can be inferred about the future of AI?",
         "options": [
-          "It produces food for animals.",
-          "It creates more carbon dioxide.",
-          "It prevents plants from growing.",
-          "It limits the number of species."
+          "AI will likely become less relevant",
+          "Ethical discussions around AI will diminish",
+          "AI technology is expected to grow and evolve",
+          "AI will only be used in finance"
         ],
-        "correctIndex": 0,
-        "explain": "光合作用為動物提供食物，因此被視為生態系統的重要組成部分。"
+        "correctIndex": 2,
+        "explain": "可以推斷，AI技術預計將持續增長和演變。"
       },
       {
-        "q": "What does the term 'biodiversity' refer to in the passage?",
+        "q": "What does the word 'algorithms' refer to in the passage?",
         "options": [
-          "The number of plant species",
-          "The variety of life forms",
-          "The amount of sunlight",
-          "The size of ecosystems"
+          "Complex mathematical problems",
+          "Step-by-step procedures for calculations",
+          "The history of computers",
+          "Data storage systems"
         ],
         "correctIndex": 1,
-        "explain": "在這段文字中，'生物多樣性'指的是生態系中的生命形式的多樣性。"
+        "explain": "'Algorithms'指的是計算過程中的逐步步驟。"
       }
     ]
   },
   "daily": {
-    "passage": "Attention all students! The library will be hosting an event on academic writing this Friday at 3 PM in the main hall. Join us to learn tips and strategies for improving your writing skills. Refreshments will be provided!",
+    "passage": "Attention students: The university library will be closed for renovations from March 1 to March 15. All services will resume on March 16. Please plan your studies accordingly.",
     "questions": [
       {
-        "q": "What is the purpose of the event at the library?",
+        "q": "When will the library be closed?",
         "options": [
-          "To discuss library rules",
-          "To teach academic writing skills",
-          "To showcase new books",
-          "To celebrate reading week"
+          "From March 1 to March 15",
+          "Only on March 16",
+          "From March 15 to March 31",
+          "Throughout the month of March"
         ],
-        "correctIndex": 1,
-        "explain": "這個活動的目的是教授學術寫作技巧。"
+        "correctIndex": 0,
+        "explain": "圖書館將於3月1日至3月15日關閉。"
       },
       {
-        "q": "When will the event take place?",
+        "q": "When will library services resume?",
         "options": [
-          "This Wednesday",
-          "Next Monday",
-          "This Friday",
-          "Next Saturday"
+          "March 1",
+          "March 15",
+          "March 16",
+          "March 30"
         ],
         "correctIndex": 2,
-        "explain": "活動定於本週五舉行。"
+        "explain": "圖書館服務將在3月16日恢復。"
       }
     ]
   }
