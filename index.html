@@ -1013,10 +1013,15 @@ document.getElementById('interviewToClaudeBtn').addEventListener('click',async (
   const transcript = document.getElementById('interviewTranscript').value.trim();
   const note = document.getElementById('interviewCopyNote');
   if(!transcript){ note.textContent = '逐字稿是空的，先錄一段再複製。'; return; }
-  const promptText = '這是我托福口說 Take an Interview 練習的逐字稿（可能有語音辨識的小錯字），請幫我看文法、用詞、邏輯連貫性，給出修改建議和更道地的講法：\n\n'+transcript;
+  let scenarioBlock = '（沒有抽情境就直接錄音，所以沒有題目可附上）';
+  if(currentScenario){
+    scenarioBlock = '情境主題：'+currentScenario.topic+'\n'+currentScenario.intro+'\n\n四個題目：\n'+
+      currentScenario.questions.map((q,i)=>(i+1)+'. '+q).join('\n');
+  }
+  const promptText = '這是我托福口說 Take an Interview 練習的逐字稿（可能有語音辨識的小錯字），請幫我看文法、用詞、邏輯連貫性，給出修改建議和更道地的講法。\n\n【題目】\n'+scenarioBlock+'\n\n【我的回答逐字稿】\n'+transcript;
   try{
     await navigator.clipboard.writeText(promptText);
-    note.textContent = '已複製到剪貼簿！正在開啟 Claude.ai，貼上（Cmd+V / Ctrl+V）即可送出。';
+    note.textContent = '已複製到剪貼簿（含題目＋逐字稿）！正在開啟 Claude.ai，貼上（Cmd+V / Ctrl+V）即可送出。';
   }catch(e){
     note.textContent = '自動複製失敗，請手動選取逐字稿文字複製，再貼到 Claude.ai。';
   }
@@ -1125,23 +1130,28 @@ function wireWordCount(taId, countId){
 wireWordCount('emailText','emailCount');
 wireWordCount('discText','discCount');
 
-function wireCopyToClaude(btnId, textareaId, noteId, instructionPrefix){
+function wireCopyToClaude(btnId, textareaId, noteId, instructionPrefix, selectId){
   document.getElementById(btnId).addEventListener('click', async ()=>{
     const text = document.getElementById(textareaId).value.trim();
     const note = document.getElementById(noteId);
     if(!text){ note.textContent = '還是空的，先寫一點東西再複製。'; return; }
-    const promptText = instructionPrefix + '\n\n' + text;
+    let promptText = instructionPrefix;
+    if(selectId){
+      const promptLabel = document.getElementById(selectId).value;
+      promptText += '\n\n【題目】\n' + promptLabel;
+    }
+    promptText += '\n\n【我寫的內容】\n' + text;
     try{
       await navigator.clipboard.writeText(promptText);
-      note.textContent = '已複製到剪貼簿！正在開啟 Claude.ai，貼上（Cmd+V / Ctrl+V）即可送出。';
+      note.textContent = '已複製到剪貼簿（含題目＋我寫的內容）！正在開啟 Claude.ai，貼上（Cmd+V / Ctrl+V）即可送出。';
     }catch(e){
       note.textContent = '自動複製失敗，請手動選取文字複製，再貼到 Claude.ai。';
     }
     window.open('https://claude.ai/new', '_blank');
   });
 }
-wireCopyToClaude('emailToClaudeBtn', 'emailText', 'emailCopyNote', '這是我寫的托福 Write an Email 練習，請幫我看文法、用詞、語氣是否合適，並給修改建議：');
-wireCopyToClaude('discToClaudeBtn', 'discText', 'discCopyNote', '這是我寫的托福 Write for an Academic Discussion 練習，請幫我看論證是否完整、有沒有呼應到討論情境，並給修改建議：');
+wireCopyToClaude('emailToClaudeBtn', 'emailText', 'emailCopyNote', '這是我寫的托福 Write an Email 練習，請幫我看文法、用詞、語氣是否合適，並給修改建議。', 'emailPrompt');
+wireCopyToClaude('discToClaudeBtn', 'discText', 'discCopyNote', '這是我寫的托福 Write for an Academic Discussion 練習，請幫我看論證是否完整、有沒有呼應到討論情境，並給修改建議。', 'discPrompt');
 
 function wireTimer(btnId, numId, seconds){
   let t = seconds, timer = null, running=false;
