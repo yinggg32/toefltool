@@ -1,116 +1,116 @@
 {
   "chooseResponse": [
     {
-      "q": "How do you feel about the club meeting?",
+      "q": "What did you think of the lecture?",
       "options": [
-        "It was exciting!",
-        "I don't care.",
-        "It was boring.",
-        "I didn't go."
+        "It was very interesting.",
+        "I didn't understand it.",
+        "It was too long.",
+        "I liked the examples."
       ],
       "correctIndex": 0
     }
   ],
   "conversation": {
-    "transcript": "Student: Did you attend the environmental club meeting last night?\nAdvisor: Yes, I did! It was really informative.\nStudent: What topics did they cover?\nAdvisor: They discussed upcoming projects and volunteer opportunities.",
+    "transcript": "Student: Hey, did you finish the group project?\nClassmate: Yeah, I just submitted it this morning.\nStudent: That's great! How did it go?\nClassmate: It went well, but we had some disagreements about the approach.",
     "questions": [
       {
-        "q": "What was discussed at the meeting?",
+        "q": "What did the classmate submit?",
         "options": [
-          "Library changes",
-          "Volunteer opportunities",
-          "Sports events",
-          "Art exhibitions"
+          "An essay",
+          "A group project",
+          "A presentation",
+          "A report"
         ],
         "correctIndex": 1,
-        "explain": "他們討論了志願者機會。"
+        "explain": "同學提到他早上提交了小組項目。"
       },
       {
-        "q": "How did the student feel about the meeting?",
+        "q": "What was a challenge in the project?",
         "options": [
-          "Excited",
-          "Indifferent",
-          "Bored",
-          "Unsure"
+          "Time management",
+          "Disagreements",
+          "Topic selection",
+          "Research difficulty"
         ],
-        "correctIndex": 0,
-        "explain": "學生對會議感到興奮。"
+        "correctIndex": 1,
+        "explain": "同學提到他們在項目中有一些分歧。"
       }
     ]
   },
   "announcement": {
-    "transcript": "Attention students! The annual campus-wide clean-up day is scheduled for next Saturday from 9 AM to 1 PM. Supplies will be provided, and lunch will be served for all volunteers. Come join us to help keep our campus clean!",
+    "transcript": "Attention students: The library will be closed this Saturday for maintenance. Please plan accordingly and return any books before then. Thank you for your understanding.",
     "questions": [
       {
-        "q": "When is the campus clean-up day?",
+        "q": "Why will the library be closed?",
         "options": [
-          "Next Saturday",
-          "This Friday",
-          "Tomorrow",
-          "Next month"
-        ],
-        "correctIndex": 0,
-        "explain": "清理日定於下週六。"
-      },
-      {
-        "q": "What will be provided for volunteers?",
-        "options": [
-          "Snacks only",
-          "Lunch and supplies",
-          "Drinks only",
-          "No provisions"
+          "For a holiday",
+          "For maintenance",
+          "For an event",
+          "For cleaning"
         ],
         "correctIndex": 1,
-        "explain": "會為志願者提供午餐和用品。"
+        "explain": "圖書館將於本週六關閉，因為要進行維護。"
+      },
+      {
+        "q": "When should books be returned?",
+        "options": [
+          "By Friday",
+          "By Saturday",
+          "By next week",
+          "By the end of the month"
+        ],
+        "correctIndex": 0,
+        "explain": "學生需要在週六之前歸還書籍。"
       }
     ]
   },
   "talk": {
-    "transcript": "Today, I will explain the concept of renewable energy. Renewable energy refers to energy sources that are naturally replenished, such as solar, wind, and hydroelectric power. Unlike fossil fuels, which can take millions of years to form and can deplete, renewable energy sources are sustainable and can be harnessed without the fear of running out. This transition to renewable energy is crucial for reducing greenhouse gas emissions and combating climate change. By investing in renewable technologies, we can create a cleaner environment and ensure energy security for future generations.",
+    "transcript": "Today, I will discuss the importance of biodiversity in ecosystems. Biodiversity refers to the variety of life in a particular habitat or ecosystem. A rich biodiversity ensures natural sustainability for all life forms. It promotes resilience, allowing ecosystems to recover from disturbances and adapt to changes. Furthermore, diverse ecosystems provide essential services, such as clean air and water, pollination of plants, and regulation of the climate. Protecting biodiversity is crucial because it supports the ecosystem's health and stability, which ultimately benefits humans as well.",
     "questions": [
       {
-        "q": "What is renewable energy?",
+        "q": "What does biodiversity refer to?",
         "options": [
-          "Energy from fossil fuels",
-          "Energy that can't be replenished",
-          "Naturally replenished energy",
-          "Energy used in cars"
+          "Variety of species",
+          "Ecosystem stability",
+          "Plant growth",
+          "Animals in an area"
+        ],
+        "correctIndex": 0,
+        "explain": "生物多樣性是指特定生境或生態系統中的生命多樣性。"
+      },
+      {
+        "q": "Why is biodiversity important?",
+        "options": [
+          "For educational purposes",
+          "For economic growth",
+          "For ecosystem sustainability",
+          "For cultural identity"
         ],
         "correctIndex": 2,
-        "explain": "可再生能源是自然補充的能源。"
+        "explain": "生物多樣性確保了所有生命形式的自然可持續性。"
       },
       {
-        "q": "Why is the transition to renewable energy important?",
+        "q": "What is a benefit of diverse ecosystems mentioned?",
         "options": [
-          "To increase fossil fuel use",
-          "To reduce greenhouse gases",
-          "To deplete resources",
-          "To increase pollution"
+          "Increased tourism",
+          "Enhanced food production",
+          "Regulation of climate",
+          "Urban development"
         ],
-        "correctIndex": 1,
-        "explain": "過渡到可再生能源有助於減少溫室氣體。"
+        "correctIndex": 2,
+        "explain": "多樣化的生態系統有助於調節氣候。"
       },
       {
-        "q": "Which is NOT a renewable energy source mentioned?",
-        "options": [
-          "Solar",
-          "Wind",
-          "Hydroelectric",
-          "Coal"
-        ],
-        "correctIndex": 3,
-        "explain": "煤不是可再生能源。"
-      },
-      {
-        "q": "What can be achieved by investing in renewable technologies?",
+        "q": "What can biodiversity promote?",
         "options": [
           "Increased pollution",
-          "Energy security",
-          "Higher fossil fuel prices",
-          "More waste"
+          "More species extinction",
+          "Ecosystem resilience",
+          "Less adaptability"
         ],
-        "correctIndex": 1,
-        "explain": "投資可再生技術可確保能源安全。"
+        "correctIndex": 2,
+        "explain": "生物多樣性促進生態系統的韌性，使其能夠從擾動中恢復。"
       }
     ]
   }

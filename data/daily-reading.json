@@ -2,113 +2,101 @@
   "cloze": {
     "segments": [
       {
-        "text": "The human brain is a complex organ responsible for controlling various functions of the body. It is divided into several "
+        "text": "The process of photosynthesis is essential for life on Earth. It begins when plants absorb sunlight through their lea"
       },
       {
-        "blank": "hemispheres"
+        "blank": "ves"
       },
       {
-        "text": ", each with distinct roles. The left hemisphere is primarily associated with "
+        "text": ". This energy is then used to convert carbon dioxide from the air and water from the soil into glucose, a type of sugar that plants use for fu"
       },
       {
-        "blank": "langua"
+        "blank": "el"
       },
       {
-        "text": ", logical reasoning, and analytical thinking, while the right hemisphere is linked to creativity and "
+        "text": ". Oxygen is released as a byproduct, which is vital for most living organisms. In this way, photosynthesis not only sustains plant life but also helps maint"
       },
       {
-        "blank": "artis"
+        "blank": "ain"
       },
       {
-        "text": ". Neurons, the basic units of the brain, communicate through connections called synapses. "
-      },
-      {
-        "blank": "Neuro"
-      },
-      {
-        "text": ", a process essential for learning and memory, involves strengthening these connections based on experience. "
-      },
-      {
-        "blank": "Pla"
-      },
-      {
-        "text": ". Research into brain function continues to evolve, revealing the intricate relationship between cognitive processes and behavior."
+        "text": " the planet's atmosphere. Furthermore, the process occurs in two main stages: the light-dependent reactions and the light-independent reactions, commonly known as the Calvin cycle."
       }
     ]
   },
   "academic": {
-    "passage": "The study of artificial intelligence (AI) has significantly advanced in recent years. Researchers are now developing algorithms that allow machines to learn from data, improving their performance over time. AI applications are becoming increasingly prevalent in various fields, including healthcare, finance, and transportation. For instance, AI can analyze medical images with remarkable accuracy, assisting doctors in diagnosing diseases. As AI technology continues to evolve, ethical considerations regarding its use also emerge, prompting discussions about its impact on society.",
+    "passage": "Photosynthesis is a biochemical process that allows green plants to convert sunlight into chemical energy. During this process, plants take in carbon dioxide and water and, using light energy, synthesize glucose. This glucose serves as food for the plants, fueling their growth and development. Moreover, oxygen is released as a byproduct, which is essential for the survival of aerobic organisms. The importance of photosynthesis extends beyond individual plants; it plays a crucial role in maintaining the ecological balance and supporting life on Earth.",
     "questions": [
       {
-        "q": "What is the main focus of the passage?",
+        "q": "What is the main idea of the passage?",
         "options": [
-          "The advancements and implications of AI technology",
-          "The history of artificial intelligence",
-          "The ethical concerns around technological advancements",
-          "The financial benefits of AI"
-        ],
-        "correctIndex": 0,
-        "explain": "此段落的主要重點在於人工智能技術的進步及其影響。"
-      },
-      {
-        "q": "Which field is mentioned as an application of AI?",
-        "options": [
-          "Education",
-          "Healthcare",
-          "Manufacturing",
-          "Agriculture"
-        ],
-        "correctIndex": 1,
-        "explain": "段落中提及醫療保健領域的AI應用。"
-      },
-      {
-        "q": "What can be inferred about the future of AI?",
-        "options": [
-          "AI will likely become less relevant",
-          "Ethical discussions around AI will diminish",
-          "AI technology is expected to grow and evolve",
-          "AI will only be used in finance"
+          "Photosynthesis is important for plants.",
+          "Photosynthesis occurs in two stages.",
+          "Photosynthesis sustains life on Earth.",
+          "Photosynthesis produces glucose."
         ],
         "correctIndex": 2,
-        "explain": "可以推斷，AI技術預計將持續增長和演變。"
+        "explain": "這段文字的主旨是光合作用對地球生命的重要性。"
       },
       {
-        "q": "What does the word 'algorithms' refer to in the passage?",
+        "q": "What do plants synthesize during photosynthesis?",
         "options": [
-          "Complex mathematical problems",
-          "Step-by-step procedures for calculations",
-          "The history of computers",
-          "Data storage systems"
+          "Carbon dioxide",
+          "Oxygen",
+          "Glucose",
+          "Water"
         ],
-        "correctIndex": 1,
-        "explain": "'Algorithms'指的是計算過程中的逐步步驟。"
+        "correctIndex": 2,
+        "explain": "植物在光合作用中合成葡萄糖。"
+      },
+      {
+        "q": "Why is oxygen important according to the passage?",
+        "options": [
+          "It helps plants grow.",
+          "It is a byproduct of photosynthesis.",
+          "It is necessary for aerobic organisms.",
+          "It is used in the Calvin cycle."
+        ],
+        "correctIndex": 2,
+        "explain": "氧氣對於需氧生物的生存是必要的。"
+      },
+      {
+        "q": "What does the term 'biochemical' imply in the context of this passage?",
+        "options": [
+          "It relates to chemistry and biology.",
+          "It refers to the energy from sunlight.",
+          "It is a process involving water and air.",
+          "It indicates a type of plant."
+        ],
+        "correctIndex": 0,
+        "explain": "在這段文字中，'生化'指的是化學和生物學相關的過程。"
       }
     ]
   },
   "daily": {
-    "passage": "Attention students: The university library will be closed for renovations from March 1 to March 15. All services will resume on March 16. Please plan your studies accordingly.",
+    "passage": "Attention students: The library will be closed for maintenance on Friday from 9 AM to 1 PM. Please plan accordingly and return any books before this time. Thank you for your understanding.",
     "questions": [
       {
         "q": "When will the library be closed?",
         "options": [
-          "From March 1 to March 15",
-          "Only on March 16",
-          "From March 15 to March 31",
-          "Throughout the month of March"
+          "Friday morning",
+          "Friday afternoon",
+          "Saturday",
+          "Thursday"
         ],
         "correctIndex": 0,
-        "explain": "圖書館將於3月1日至3月15日關閉。"
+        "explain": "圖書館將於星期五上午關閉。"
       },
       {
-        "q": "When will library services resume?",
+        "q": "What should students do before the library closes?",
         "options": [
-          "March 1",
-          "March 15",
-          "March 16",
-          "March 30"
+          "Return their books",
+          "Study in the library",
+          "Borrow new books",
+          "Attend a workshop"
         ],
-        "correctIndex": 2,
-        "explain": "圖書館服務將在3月16日恢復。"
+        "correctIndex": 0,
+        "explain": "學生應在圖書館關閉之前歸還書籍。"
       }
     ]
   }

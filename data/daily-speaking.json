@@ -1,28 +1,46 @@
 {
   "shadowSentences": [
-    "I love to read books in my free time.",
-    "My favorite season is spring because of the flowers.",
-    "I usually go for a walk after dinner every day.",
-    "My brother enjoys playing soccer with his friends at school.",
-    "I often visit the local market to buy fresh fruits.",
-    "Cooking new recipes is one of my favorite hobbies.",
-    "I like to listen to music while I study in the evening.",
-    "Traveling to new places helps me learn about different cultures.",
-    "I always try to stay active by going to the gym regularly.",
-    "Sharing experiences with friends makes my weekends more enjoyable."
+    "I love to read books.",
+    "My favorite color is blue.",
+    "I enjoy cooking new recipes.",
+    "Walking in the park is very relaxing.",
+    "Traveling to new places is exciting.",
+    "I like to listen to music while studying.",
+    "My daily routine includes exercising in the morning.",
+    "I often watch documentaries to learn new things.",
+    "Gardening helps me to reduce stress and stay calm.",
+    "I believe that volunteering is a great way to give back."
   ],
-  "interviewQuestions": [
-    "What do you like to do in your free time?",
-    "How do you usually celebrate your birthday?",
-    "Can you describe your hometown and why you love it?",
-    "What is your favorite subject in school and why?",
-    "Do you prefer spending time alone or with friends?",
-    "What is your favorite hobby and how did you get into it?",
-    "How do you manage your time between school and leisure activities?",
-    "What kind of music do you enjoy and why?",
-    "Can you share a memorable experience from your childhood?",
-    "What is an important lesson you learned recently?",
-    "How do you stay connected with family and friends?",
-    "What is your favorite food and how often do you eat it?"
+  "interviewScenarios": [
+    {
+      "topic": "運動習慣",
+      "intro": "You have agreed to take part in a research study about exercise habits.",
+      "questions": [
+        "Q1: Can you describe your current exercise routine?",
+        "Q2: What challenges do you face when trying to stay active?",
+        "Q3: How do you think exercise impacts your daily life?",
+        "Q4: What advice would you give someone starting their exercise journey?"
+      ]
+    },
+    {
+      "topic": "飲食習慣",
+      "intro": "You have agreed to take part in a research study about eating habits.",
+      "questions": [
+        "Q1: What does a typical meal look like for you?",
+        "Q2: Have you encountered any difficulties in maintaining a healthy diet?",
+        "Q3: What is your opinion on the importance of nutrition?",
+        "Q4: What tips would you give to someone looking to eat healthier?"
+      ]
+    },
+    {
+      "topic": "學習方法",
+      "intro": "You have agreed to take part in a research study about study methods.",
+      "questions": [
+        "Q1: What study techniques do you find most effective?",
+        "Q2: What are some obstacles you face while studying?",
+        "Q3: How do you feel about group versus individual study sessions?",
+        "Q4: What recommendations do you have for improving study habits?"
+      ]
+    }
   ]
 }

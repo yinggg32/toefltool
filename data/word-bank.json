@@ -774,5 +774,317 @@
     "zh": "作品；著作",
     "ex": "The artist's works have been exhibited in major galleries around the world.",
     "cat": "📰 每日新詞：art and architecture"
+  },
+  {
+    "word": "cellular",
+    "pos": "adj.",
+    "root": "cell-細胞+ular-小的",
+    "zh": "細胞的",
+    "ex": "Cellular respiration is crucial for energy production in living organisms.",
+    "cat": "📰 每日新詞：biology"
+  },
+  {
+    "word": "organism",
+    "pos": "n.",
+    "root": "organ-器官+ism-狀態",
+    "zh": "生物，生物體",
+    "ex": "An organism's ability to adapt to its environment is vital for its survival.",
+    "cat": "📰 每日新詞：biology"
+  },
+  {
+    "word": "ecosystem",
+    "pos": "n.",
+    "root": "eco-生態+system-系統",
+    "zh": "生態系統",
+    "ex": "The ecosystem is a complex network of interacting organisms and their environment.",
+    "cat": "📰 每日新詞：biology"
+  },
+  {
+    "word": "genetic",
+    "pos": "adj.",
+    "root": "gene-基因+tic-的",
+    "zh": "遺傳的",
+    "ex": "Genetic variation is essential for the evolution of species.",
+    "cat": "📰 每日新詞：biology"
+  },
+  {
+    "word": "photosynthesis",
+    "pos": "n.",
+    "root": "photo-光+synthe-合成+sis-過程",
+    "zh": "光合作用",
+    "ex": "Photosynthesis allows plants to convert sunlight into chemical energy.",
+    "cat": "📰 每日新詞：biology"
+  },
+  {
+    "word": "biodiversity",
+    "pos": "n.",
+    "root": "bio-生命+diversity-多樣性",
+    "zh": "生物多樣性",
+    "ex": "Biodiversity is vital for ecosystem stability and resilience.",
+    "cat": "📰 每日新詞：biology"
+  },
+  {
+    "word": "homeostasis",
+    "pos": "n.",
+    "root": "homeo-相似+stasis-穩定",
+    "zh": "內穩態",
+    "ex": "Homeostasis is the process by which biological systems maintain stability.",
+    "cat": "📰 每日新詞：biology"
+  },
+  {
+    "word": "mutation",
+    "pos": "n.",
+    "root": "mut-變化+ation-動作或過程",
+    "zh": "變異",
+    "ex": "Mutation can lead to new traits that may benefit the organism.",
+    "cat": "📰 每日新詞：biology"
+  },
+  {
+    "word": "species",
+    "pos": "n.",
+    "root": "spec-看+ies-複數",
+    "zh": "物種",
+    "ex": "There are over 8.7 million species of plants and animals on Earth.",
+    "cat": "📰 每日新詞：biology"
+  },
+  {
+    "word": "habitat",
+    "pos": "n.",
+    "root": "habit-居住+at-場所",
+    "zh": "棲息地",
+    "ex": "Each species thrives in a specific habitat that meets its needs.",
+    "cat": "📰 每日新詞：biology"
+  },
+  {
+    "word": "adaptation",
+    "pos": "n.",
+    "root": "adapt-適應+ation-動作或過程",
+    "zh": "適應",
+    "ex": "Adaptation to climate change is crucial for many species.",
+    "cat": "📰 每日新詞：biology"
+  },
+  {
+    "word": "microorganism",
+    "pos": "n.",
+    "root": "micro-微小+organism-生物",
+    "zh": "微生物",
+    "ex": "Microorganisms play essential roles in nutrient cycling in ecosystems.",
+    "cat": "📰 每日新詞：biology"
+  },
+  {
+    "word": "synthesize",
+    "pos": "v.",
+    "root": "synth-合成+esize-使",
+    "zh": "合成",
+    "ex": "Organisms synthesize proteins based on their genetic information.",
+    "cat": "📰 每日新詞：biology"
+  },
+  {
+    "word": "organismal",
+    "pos": "adj.",
+    "root": "organ-器官+ism-狀態+al-的",
+    "zh": "生物的",
+    "ex": "Organismal biology studies the structure and function of living systems.",
+    "cat": "📰 每日新詞：biology"
+  },
+  {
+    "word": "cellularization",
+    "pos": "n.",
+    "root": "cellular-細胞的+ization-過程",
+    "zh": "細胞化",
+    "ex": "Cellularization is a key process in the development of multicellular organisms.",
+    "cat": "📰 每日新詞：biology"
+  },
+  {
+    "word": "pathogen",
+    "pos": "n.",
+    "root": "patho-疾病+gen-產生者",
+    "zh": "病原體",
+    "ex": "Pathogens can cause diseases in plants, animals, and humans.",
+    "cat": "📰 每日新詞：biology"
+  },
+  {
+    "word": "nucleotide",
+    "pos": "n.",
+    "root": "nucle-核+otide-類似物",
+    "zh": "核苷酸",
+    "ex": "Nucleotides are the basic building blocks of nucleic acids.",
+    "cat": "📰 每日新詞：biology"
+  },
+  {
+    "word": "chromosome",
+    "pos": "n.",
+    "root": "chrom-顏色+some-體",
+    "zh": "染色體",
+    "ex": "Humans have 23 pairs of chromosomes in each cell.",
+    "cat": "📰 每日新詞：biology"
+  },
+  {
+    "word": "population",
+    "pos": "n.",
+    "root": "popul-人群+ation-狀態",
+    "zh": "種群",
+    "ex": "The population of a species can fluctuate based on environmental conditions.",
+    "cat": "📰 每日新詞：biology"
+  },
+  {
+    "word": "symbiosis",
+    "pos": "n.",
+    "root": "sym-共同+bio-生命+sis-過程",
+    "zh": "共生",
+    "ex": "Symbiosis can be beneficial, neutral, or harmful to the organisms involved.",
+    "cat": "📰 每日新詞：biology"
+  },
+  {
+    "word": "enzyme",
+    "pos": "n.",
+    "root": "enz-酶+yme-物質",
+    "zh": "酶",
+    "ex": "Enzymes act as catalysts to accelerate biochemical reactions.",
+    "cat": "📰 每日新詞：biology"
+  },
+  {
+    "word": "organogenesis",
+    "pos": "n.",
+    "root": "organ-器官+genesis-生成",
+    "zh": "器官生成",
+    "ex": "Organogenesis is the process by which organs are formed during development.",
+    "cat": "📰 每日新詞：biology"
+  },
+  {
+    "word": "ecosystemic",
+    "pos": "adj.",
+    "root": "eco-生態+systemic-系統的",
+    "zh": "生態系統的",
+    "ex": "Ecosystemic approaches are essential for addressing environmental challenges.",
+    "cat": "📰 每日新詞：biology"
+  },
+  {
+    "word": "physiology",
+    "pos": "n.",
+    "root": "physio-生理+logy-學科",
+    "zh": "生理學",
+    "ex": "Physiology explores how organisms function at various levels.",
+    "cat": "📰 每日新詞：biology"
+  },
+  {
+    "word": "biochemistry",
+    "pos": "n.",
+    "root": "bio-生命+chemistry-化學",
+    "zh": "生物化學",
+    "ex": "Biochemistry studies the chemical processes within and related to living organisms.",
+    "cat": "📰 每日新詞：biology"
+  },
+  {
+    "word": "neuron",
+    "pos": "n.",
+    "root": "neur-神經+on-細胞",
+    "zh": "神經元",
+    "ex": "Neurons transmit signals throughout the nervous system.",
+    "cat": "📰 每日新詞：biology"
+  },
+  {
+    "word": "cell division",
+    "pos": "n.",
+    "root": "cell-細胞+division-分裂",
+    "zh": "細胞分裂",
+    "ex": "Cell division is essential for growth and repair in multicellular organisms.",
+    "cat": "📰 每日新詞：biology"
+  },
+  {
+    "word": "chromatin",
+    "pos": "n.",
+    "root": "chrom-顏色+atin-物質",
+    "zh": "染色質",
+    "ex": "Chromatin is the complex of DNA and proteins found in the nucleus.",
+    "cat": "📰 每日新詞：biology"
+  },
+  {
+    "word": "allele",
+    "pos": "n.",
+    "root": "alle-變異+le-小的",
+    "zh": "等位基因",
+    "ex": "Each individual inherits one allele from each parent for a given trait.",
+    "cat": "📰 每日新詞：biology"
+  },
+  {
+    "word": "biome",
+    "pos": "n.",
+    "root": "bio-生命+me-區域",
+    "zh": "生物群落",
+    "ex": "A biome is a large geographical area characterized by specific climate and ecosystems.",
+    "cat": "📰 每日新詞：biology"
+  },
+  {
+    "word": "genome",
+    "pos": "n.",
+    "root": "geno-基因+me-體",
+    "zh": "基因組",
+    "ex": "The genome contains all the genetic information required for the development of an organism.",
+    "cat": "📰 每日新詞：biology"
+  },
+  {
+    "word": "physicochemical",
+    "pos": "adj.",
+    "root": "physico-物理+chemical-化學的",
+    "zh": "物理化學的",
+    "ex": "Physicochemical properties influence how substances interact in biological systems.",
+    "cat": "📰 每日新詞：biology"
+  },
+  {
+    "word": "molecular",
+    "pos": "adj.",
+    "root": "molecul-分子+ar-的",
+    "zh": "分子的",
+    "ex": "Molecular biology examines the interactions between biological molecules.",
+    "cat": "📰 每日新詞：biology"
+  },
+  {
+    "word": "tissue",
+    "pos": "n.",
+    "root": "tiss-織+ue-狀態",
+    "zh": "組織",
+    "ex": "Tissues are groups of cells that work together to perform specific functions.",
+    "cat": "📰 每日新詞：biology"
+  },
+  {
+    "word": "chromosomal",
+    "pos": "adj.",
+    "root": "chromosom-染色體+al-的",
+    "zh": "染色體的",
+    "ex": "Chromosomal abnormalities can lead to genetic disorders.",
+    "cat": "📰 每日新詞：biology"
+  },
+  {
+    "word": "biotechnology",
+    "pos": "n.",
+    "root": "bio-生命+technology-技術",
+    "zh": "生物技術",
+    "ex": "Biotechnology harnesses biological processes for industrial and medical applications.",
+    "cat": "📰 每日新詞：biology"
+  },
+  {
+    "word": "antigen",
+    "pos": "n.",
+    "root": "anti-反+gen-產生者",
+    "zh": "抗原",
+    "ex": "Antigens are substances that trigger an immune response in the body.",
+    "cat": "📰 每日新詞：biology"
+  },
+  {
+    "word": "phylum",
+    "pos": "n.",
+    "root": "phy-生物類+lum-分類",
+    "zh": "門",
+    "ex": "The animal kingdom is divided into several phyla based on shared characteristics.",
+    "cat": "📰 每日新詞：biology"
+  },
+  {
+    "word": "biogeography",
+    "pos": "n.",
+    "root": "bio-生命+geo-地理+graphy-學科",
+    "zh": "生物地理學",
+    "ex": "Biogeography studies the distribution of species across geographic areas.",
+    "cat": "📰 每日新詞：biology"
   }
 ]

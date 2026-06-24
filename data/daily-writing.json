@@ -4,134 +4,127 @@
       "words": [
         "the",
         "students",
-        "finished",
-        "their",
-        "assignments",
-        "before",
+        "prepared",
+        "for",
         "the",
-        "deadline"
+        "exam",
+        "by",
+        "studying"
       ],
-      "display": "The students finished their assignments before the deadline."
+      "display": "The students prepared for the exam by studying."
+    },
+    {
+      "words": [
+        "many",
+        "people",
+        "find",
+        "it",
+        "difficult",
+        "to",
+        "learn",
+        "a",
+        "new",
+        "language"
+      ],
+      "display": "Many people find it difficult to learn a new language."
+    },
+    {
+      "words": [
+        "the",
+        "novel",
+        "explores",
+        "themes",
+        "of",
+        "identity",
+        "and",
+        "belonging"
+      ],
+      "display": "The novel explores themes of identity and belonging."
+    },
+    {
+      "words": [
+        "technology",
+        "has",
+        "significantly",
+        "changed",
+        "the",
+        "way",
+        "we",
+        "communicate"
+      ],
+      "display": "Technology has significantly changed the way we communicate."
+    },
+    {
+      "words": [
+        "students",
+        "are",
+        "encouraged",
+        "to",
+        "participate",
+        "in",
+        "extracurricular",
+        "activities"
+      ],
+      "display": "Students are encouraged to participate in extracurricular activities."
     },
     {
       "words": [
         "the",
         "research",
-        "team",
-        "will",
-        "present",
-        "their",
-        "findings",
-        "next",
-        "week"
-      ],
-      "display": "The research team will present their findings next week."
-    },
-    {
-      "words": [
-        "after",
+        "study",
+        "focused",
+        "on",
         "the",
-        "meeting",
-        "the",
-        "participants",
-        "provided",
-        "valuable",
-        "feedback"
-      ],
-      "display": "After the meeting, the participants provided valuable feedback."
-    },
-    {
-      "words": [
-        "the",
-        "university",
-        "offers",
-        "a",
-        "variety",
+        "effects",
         "of",
-        "courses",
-        "in",
-        "different",
-        "fields"
+        "climate",
+        "change"
       ],
-      "display": "The university offers a variety of courses in different fields."
-    },
-    {
-      "words": [
-        "the",
-        "library",
-        "will",
-        "be",
-        "closed",
-        "for",
-        "renovation",
-        "next",
-        "month"
-      ],
-      "display": "The library will be closed for renovation next month."
-    },
-    {
-      "words": [
-        "students",
-        "should",
-        "submit",
-        "their",
-        "applications",
-        "by",
-        "the",
-        "end",
-        "of",
-        "the",
-        "month"
-      ],
-      "display": "Students should submit their applications by the end of the month."
-    },
-    {
-      "words": [
-        "the",
-        "club",
-        "organized",
-        "a",
-        "charity",
-        "event",
-        "to",
-        "raise",
-        "funds",
-        "for",
-        "the",
-        "community"
-      ],
-      "display": "The club organized a charity event to raise funds for the community."
+      "display": "The research study focused on the effects of climate change."
     },
     {
       "words": [
         "the",
         "professor",
-        "encouraged",
-        "students",
-        "to",
-        "participate",
-        "in",
-        "the",
-        "research",
-        "project"
+        "assigned",
+        "a",
+        "paper",
+        "that",
+        "requires",
+        "extensive",
+        "research"
       ],
-      "display": "The professor encouraged students to participate in the research project."
+      "display": "The professor assigned a paper that requires extensive research."
+    },
+    {
+      "words": [
+        "reading",
+        "fiction",
+        "can",
+        "improve",
+        "empathy",
+        "and",
+        "understanding",
+        "of",
+        "others"
+      ],
+      "display": "Reading fiction can improve empathy and understanding of others."
     }
   ],
   "emailPrompts": [
-    "寄信給教授，告知因家庭緊急狀況無法出席課堂，請求補課資料。",
-    "寄信給宿舍辦公室，詢問關於租約續簽的相關事宜。",
-    "寄信給圖書館，請求延長借書期限，因為需要更多時間完成研究。",
-    "寄信給學生會，表達參加即將舉行的社交活動的興趣。",
-    "寄信給客服，反映最近購買的產品有缺陷，請求退換貨。",
-    "寄信給導師，詢問如何改善寫作技巧，並希望獲得建議。"
+    "寄信給教授，請求延長報告的截止日期，因為需要更多時間研究。",
+    "寄信給宿舍管理處，報告房間內的漏水問題，請求維修。",
+    "寄信給圖書館，詢問如何延長書籍的借閱期限。",
+    "寄信給俱樂部主席，表達對下一次會議的興趣，並詢問參加的細節。",
+    "寄信給客服，反映產品的問題，請求退款或更換。",
+    "寄信給導師，感謝他們的指導，並詢問推薦信的可能性。"
   ],
   "discussionPrompts": [
-    "教授問：「你認為科技在教育中的影響是正面還是負面？」",
-    "教授問：「社交媒體對年輕人的心理健康有何影響？」",
-    "教授問：「全球化是促進還是抑制文化多樣性的因素？」",
-    "教授問：「可再生能源是否能夠完全取代化石燃料？」",
-    "教授問：「政府應該如何平衡經濟發展和環境保護？」",
-    "教授問：「現代藝術能否被視為真正的藝術形式？」"
+    "教授問：「如何評估社交媒體對青少年的影響？」",
+    "教授問：「科技進步是否會導致失業問題加劇？」",
+    "教授問：「在全球化背景下，文化保護的重要性何在？」",
+    "教授問：「環境保護與經濟發展之間應如何取得平衡？」",
+    "教授問：「大學教育是否仍然是成功的必要條件？」",
+    "教授問：「女性在科學領域的參與應如何提高？」"
   ]
 }
