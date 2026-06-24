@@ -58,7 +58,7 @@ Return ONLY a raw JSON object, no markdown, in this exact schema:
 }
 
 Rules:
-- "cloze.segments" must alternate readable text chunks and blanks. Each blank's "blank" value is the SUFFIX the learner must type (the segments before it already show the word's first few letters as part of the preceding "text" chunk). Produce about 9 blanks total across one coherent ~120 word passage about any academic topic (water cycle, coral reefs, and dog domestication have already been used — pick a different topic).
+- "cloze.segments" must alternate readable text chunks and blanks. Each blank's "blank" value is the part of the word the learner must type. For variety, MIX two styles across the ~9 blanks: (a) prefix-hint style — the preceding "text" chunk ends with the word's first few letters, and "blank" is the rest of the word (e.g. text ends "...sur", blank "face" for "surface"); (b) suffix-hint style — the "blank" is the first part of the word, and the FOLLOWING "text" chunk starts with the word's last few letters (e.g. blank "proce", next text starts "ss..." for "process"). Use roughly half of each style, not all prefix-hint. Build one coherent ~120 word passage about any academic topic (water cycle, coral reefs, and dog domestication have already been used — pick a different topic).
 - "academic.questions" must have exactly 4 items: one main-idea, one detail, one inference, one vocabulary-in-context question.
 - "daily.questions" must have exactly 2 detail questions.
 - All "options" arrays must have exactly 4 items, with "correctIndex" pointing to the correct one.
@@ -102,17 +102,28 @@ Rules:
 /* ---------- SPEAKING ---------- */
 async function generateSpeaking() {
   const prompt = `You are creating TOEFL iBT (2026 format) speaking practice content for one day.
-The new Speaking section has two task types: "Listen and Repeat" (short sentence, no prep time, repeat exactly) and "Take an Interview" (spontaneous response to a familiar-topic question, no prep time).
+The new Speaking section has two task types: "Listen and Repeat" (short sentence, no prep time, repeat exactly) and "Take an Interview" (a SINGLE simulated interview topic with FOUR CONNECTED questions on that same topic, no prep time, 45 seconds per answer — the four questions typically progress: personal experience -> a related aspect or challenge -> opinion -> recommendation/advice).
 Return ONLY a raw JSON object, no markdown, in this exact schema:
 
 {
   "shadowSentences": [ "short natural English sentence (6-12 words)", ... ],
-  "interviewQuestions": [ "an interview-style question about a familiar/personal topic", ... ]
+  "interviewScenarios": [
+    {
+      "topic": "short Traditional Chinese label for the topic, e.g. 通勤習慣",
+      "intro": "one English sentence introducing the simulated interview, e.g. 'You have agreed to take part in a research study about ___.'",
+      "questions": [
+        "Q1: about personal experience related to the topic",
+        "Q2: about a related aspect, detail, or challenge",
+        "Q3: asking for an opinion on the topic",
+        "Q4: asking for a recommendation, prediction, or advice related to the topic"
+      ]
+    }
+  ]
 }
 
 Rules:
 - "shadowSentences": exactly 10 sentences, simple to medium difficulty, natural spoken English (not academic essay style), increasing slightly in length.
-- "interviewQuestions": exactly 12 questions about familiar topics (daily life, school, hobbies, hometown, opinions) — similar in spirit to real TOEFL speaking interview prompts.`;
+- "interviewScenarios": exactly 3 scenarios, each with EXACTLY 4 questions following the experience -> aspect/challenge -> opinion -> recommendation progression. Use varied everyday/academic topics (commuting, technology, social media, study habits, city life, hobbies, etc.) — don't reuse: commuting habits, urban life, smartphone usage, summer camp planning, study habits, or social media habits (these are already covered by the static fallback set, so pick different topics).`;
 
   return await callOpenAI(prompt);
 }
