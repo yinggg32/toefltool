@@ -4,127 +4,137 @@
       "words": [
         "the",
         "students",
-        "prepared",
-        "for",
-        "the",
-        "exam",
-        "by",
-        "studying"
-      ],
-      "display": "The students prepared for the exam by studying."
-    },
-    {
-      "words": [
-        "many",
-        "people",
-        "find",
-        "it",
-        "difficult",
-        "to",
-        "learn",
-        "a",
-        "new",
-        "language"
-      ],
-      "display": "Many people find it difficult to learn a new language."
-    },
-    {
-      "words": [
-        "the",
-        "novel",
-        "explores",
-        "themes",
-        "of",
-        "identity",
-        "and",
-        "belonging"
-      ],
-      "display": "The novel explores themes of identity and belonging."
-    },
-    {
-      "words": [
-        "technology",
-        "has",
-        "significantly",
-        "changed",
-        "the",
-        "way",
-        "we",
-        "communicate"
-      ],
-      "display": "Technology has significantly changed the way we communicate."
-    },
-    {
-      "words": [
-        "students",
-        "are",
-        "encouraged",
-        "to",
-        "participate",
-        "in",
-        "extracurricular",
-        "activities"
-      ],
-      "display": "Students are encouraged to participate in extracurricular activities."
-    },
-    {
-      "words": [
-        "the",
+        "presented",
+        "their",
         "research",
-        "study",
-        "focused",
-        "on",
+        "findings",
+        "to",
         "the",
-        "effects",
-        "of",
-        "climate",
-        "change"
+        "class"
       ],
-      "display": "The research study focused on the effects of climate change."
+      "display": "The students presented their research findings to the class."
+    },
+    {
+      "words": [
+        "she",
+        "has",
+        "been",
+        "working",
+        "on",
+        "this",
+        "project",
+        "for",
+        "several",
+        "months"
+      ],
+      "display": "She has been working on this project for several months."
+    },
+    {
+      "words": [
+        "he",
+        "suggested",
+        "that",
+        "we",
+        "consider",
+        "alternative",
+        "solutions",
+        "to",
+        "the",
+        "problem"
+      ],
+      "display": "He suggested that we consider alternative solutions to the problem."
+    },
+    {
+      "words": [
+        "the",
+        "conference",
+        "will",
+        "be",
+        "held",
+        "at",
+        "the",
+        "university",
+        "next",
+        "month"
+      ],
+      "display": "The conference will be held at the university next month."
+    },
+    {
+      "words": [
+        "her",
+        "presentation",
+        "was",
+        "well-received",
+        "by",
+        "the",
+        "audience",
+        "and",
+        "inspired",
+        "many"
+      ],
+      "display": "Her presentation was well-received by the audience and inspired many."
     },
     {
       "words": [
         "the",
         "professor",
-        "assigned",
-        "a",
-        "paper",
-        "that",
-        "requires",
-        "extensive",
+        "emphasized",
+        "the",
+        "importance",
+        "of",
+        "critical",
+        "thinking",
+        "in",
         "research"
       ],
-      "display": "The professor assigned a paper that requires extensive research."
+      "display": "The professor emphasized the importance of critical thinking in research."
     },
     {
       "words": [
-        "reading",
-        "fiction",
-        "can",
-        "improve",
-        "empathy",
-        "and",
-        "understanding",
-        "of",
-        "others"
+        "students",
+        "should",
+        "review",
+        "the",
+        "course",
+        "materials",
+        "before",
+        "the",
+        "final",
+        "exam"
       ],
-      "display": "Reading fiction can improve empathy and understanding of others."
+      "display": "Students should review the course materials before the final exam."
+    },
+    {
+      "words": [
+        "the",
+        "new",
+        "library",
+        "policies",
+        "aim",
+        "to",
+        "improve",
+        "the",
+        "overall",
+        "student",
+        "experience"
+      ],
+      "display": "The new library policies aim to improve the overall student experience."
     }
   ],
   "emailPrompts": [
-    "寄信給教授，請求延長報告的截止日期，因為需要更多時間研究。",
-    "寄信給宿舍管理處，報告房間內的漏水問題，請求維修。",
-    "寄信給圖書館，詢問如何延長書籍的借閱期限。",
-    "寄信給俱樂部主席，表達對下一次會議的興趣，並詢問參加的細節。",
-    "寄信給客服，反映產品的問題，請求退款或更換。",
-    "寄信給導師，感謝他們的指導，並詢問推薦信的可能性。"
+    "寄信給教授，詢問可以參加的補修課程資訊。",
+    "寄信給宿舍管理處，請求修理宿舍的水管問題。",
+    "寄信給圖書館，詢問有關延長書籍借閱期限的政策。",
+    "寄信給社團負責人，表達想參加社團活動的興趣。",
+    "寄信給客戶服務部門，反映對產品的問題並請求協助。",
+    "寄信給校內活動組織，詢問即將舉辦的活動詳情。"
   ],
   "discussionPrompts": [
-    "教授問：「如何評估社交媒體對青少年的影響？」",
-    "教授問：「科技進步是否會導致失業問題加劇？」",
-    "教授問：「在全球化背景下，文化保護的重要性何在？」",
-    "教授問：「環境保護與經濟發展之間應如何取得平衡？」",
+    "教授問：「如何看待科技對於教育的影響？」",
+    "教授問：「你認為社交媒體對人際關係的影響是正面還是負面？」",
+    "教授問：「氣候變遷是否應該成為全球首要的議題？」",
+    "教授問：「文化差異對於國際商業的影響是什麼？」",
     "教授問：「大學教育是否仍然是成功的必要條件？」",
-    "教授問：「女性在科學領域的參與應如何提高？」"
+    "教授問：「你認為政府在經濟危機中的角色是什麼？」"
   ]
 }

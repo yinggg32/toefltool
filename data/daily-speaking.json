@@ -1,45 +1,45 @@
 {
   "shadowSentences": [
-    "I love to read books.",
-    "My favorite color is blue.",
-    "I enjoy cooking new recipes.",
-    "Walking in the park is very relaxing.",
-    "Traveling to new places is exciting.",
-    "I like to listen to music while studying.",
-    "My daily routine includes exercising in the morning.",
-    "I often watch documentaries to learn new things.",
-    "Gardening helps me to reduce stress and stay calm.",
-    "I believe that volunteering is a great way to give back."
+    "I enjoy my morning coffee.",
+    "She walks her dog every evening.",
+    "We watched a movie last night.",
+    "He reads books on the weekends.",
+    "My friends and I play soccer together.",
+    "They often visit the local museum.",
+    "I love to try new recipes at home.",
+    "We regularly go hiking in the mountains.",
+    "She is taking a pottery class this semester.",
+    "I plan to travel to Japan next summer."
   ],
   "interviewScenarios": [
     {
-      "topic": "運動習慣",
-      "intro": "You have agreed to take part in a research study about exercise habits.",
-      "questions": [
-        "Q1: Can you describe your current exercise routine?",
-        "Q2: What challenges do you face when trying to stay active?",
-        "Q3: How do you think exercise impacts your daily life?",
-        "Q4: What advice would you give someone starting their exercise journey?"
-      ]
-    },
-    {
       "topic": "飲食習慣",
-      "intro": "You have agreed to take part in a research study about eating habits.",
+      "intro": "You have agreed to take part in a research study about your eating habits.",
       "questions": [
-        "Q1: What does a typical meal look like for you?",
-        "Q2: Have you encountered any difficulties in maintaining a healthy diet?",
-        "Q3: What is your opinion on the importance of nutrition?",
-        "Q4: What tips would you give to someone looking to eat healthier?"
+        "Q1: Can you tell me about a typical meal you enjoy?",
+        "Q2: What challenges do you face when trying to eat healthily?",
+        "Q3: How important do you think it is to have balanced meals?",
+        "Q4: What advice would you give someone looking to improve their diet?"
       ]
     },
     {
-      "topic": "學習方法",
-      "intro": "You have agreed to take part in a research study about study methods.",
+      "topic": "旅行計劃",
+      "intro": "You have agreed to take part in a research study about travel planning.",
       "questions": [
-        "Q1: What study techniques do you find most effective?",
-        "Q2: What are some obstacles you face while studying?",
-        "Q3: How do you feel about group versus individual study sessions?",
-        "Q4: What recommendations do you have for improving study habits?"
+        "Q1: What was your last travel experience like?",
+        "Q2: What difficulties do you often encounter when organizing a trip?",
+        "Q3: In your opinion, what is the best way to plan a vacation?",
+        "Q4: What tips would you give to someone planning their first trip?"
+      ]
+    },
+    {
+      "topic": "運動習慣",
+      "intro": "You have agreed to take part in a research study about your exercise habits.",
+      "questions": [
+        "Q1: What types of exercise do you enjoy the most?",
+        "Q2: What obstacles have you faced in sticking to your workout routine?",
+        "Q3: How do you think exercise impacts your overall well-being?",
+        "Q4: What advice would you offer someone who wants to start exercising?"
       ]
     }
   ]

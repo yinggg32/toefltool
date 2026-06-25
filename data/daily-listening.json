@@ -1,116 +1,116 @@
 {
   "chooseResponse": [
     {
-      "q": "What did you think of the lecture?",
+      "q": "Are you going to the art exhibit?",
       "options": [
-        "It was very interesting.",
-        "I didn't understand it.",
-        "It was too long.",
-        "I liked the examples."
+        "Yes, I can't wait!",
+        "No, not interested.",
+        "Maybe next time.",
+        "I have other plans."
       ],
       "correctIndex": 0
     }
   ],
   "conversation": {
-    "transcript": "Student: Hey, did you finish the group project?\nClassmate: Yeah, I just submitted it this morning.\nStudent: That's great! How did it go?\nClassmate: It went well, but we had some disagreements about the approach.",
+    "transcript": "Student: Hey, did you hear about the new art exhibit at the gallery?\nAdvisor: Yes, I heard it features local artists. Are you planning to go?\nStudent: Definitely! I love supporting local talent.\nAdvisor: That sounds great! It’s a good way to appreciate the community.",
     "questions": [
       {
-        "q": "What did the classmate submit?",
+        "q": "What does the student think about local artists?",
         "options": [
-          "An essay",
-          "A group project",
-          "A presentation",
-          "A report"
+          "They should not be supported.",
+          "They are very talented.",
+          "They are not well-known.",
+          "They should focus on other careers."
         ],
         "correctIndex": 1,
-        "explain": "同學提到他早上提交了小組項目。"
+        "explain": "學生認為當地藝術家非常有才華。"
       },
       {
-        "q": "What was a challenge in the project?",
+        "q": "What is the main topic of this conversation?",
         "options": [
-          "Time management",
-          "Disagreements",
-          "Topic selection",
-          "Research difficulty"
+          "A new art exhibit.",
+          "A local festival.",
+          "An artist's career.",
+          "A community service project."
         ],
-        "correctIndex": 1,
-        "explain": "同學提到他們在項目中有一些分歧。"
+        "correctIndex": 0,
+        "explain": "這段對話的主要主題是新的藝術展覽。"
       }
     ]
   },
   "announcement": {
-    "transcript": "Attention students: The library will be closed this Saturday for maintenance. Please plan accordingly and return any books before then. Thank you for your understanding.",
+    "transcript": "Attention, students! The university will be hosting a community service day next Saturday. Volunteer opportunities will be available in various local organizations. It's a great chance to give back and meet new people. For more details, please visit the student activities office.",
     "questions": [
       {
-        "q": "Why will the library be closed?",
+        "q": "What event is being announced?",
         "options": [
-          "For a holiday",
-          "For maintenance",
-          "For an event",
-          "For cleaning"
+          "A sports tournament.",
+          "A community service day.",
+          "An art exhibit opening.",
+          "A guest lecture series."
         ],
         "correctIndex": 1,
-        "explain": "圖書館將於本週六關閉，因為要進行維護。"
+        "explain": "公告的事件是社區服務日。"
       },
       {
-        "q": "When should books be returned?",
+        "q": "When will the event take place?",
         "options": [
-          "By Friday",
-          "By Saturday",
-          "By next week",
-          "By the end of the month"
+          "This Friday.",
+          "Next Saturday.",
+          "Tomorrow evening.",
+          "Next month."
         ],
-        "correctIndex": 0,
-        "explain": "學生需要在週六之前歸還書籍。"
+        "correctIndex": 1,
+        "explain": "事件將在下星期六舉行。"
       }
     ]
   },
   "talk": {
-    "transcript": "Today, I will discuss the importance of biodiversity in ecosystems. Biodiversity refers to the variety of life in a particular habitat or ecosystem. A rich biodiversity ensures natural sustainability for all life forms. It promotes resilience, allowing ecosystems to recover from disturbances and adapt to changes. Furthermore, diverse ecosystems provide essential services, such as clean air and water, pollination of plants, and regulation of the climate. Protecting biodiversity is crucial because it supports the ecosystem's health and stability, which ultimately benefits humans as well.",
+    "transcript": "Today, I want to talk about the concept of biodiversity. Biodiversity refers to the variety of life on Earth, including the different species of plants, animals, and microorganisms, as well as the ecosystems they form. High biodiversity is crucial for ecosystem stability, providing numerous benefits such as clean air, water, and fertile soil. Unfortunately, human activities like deforestation and pollution are threatening biodiversity. Protecting various species and their habitats is essential for maintaining the health of our planet and ensuring future generations can enjoy its rich natural heritage.",
     "questions": [
       {
         "q": "What does biodiversity refer to?",
         "options": [
-          "Variety of species",
-          "Ecosystem stability",
-          "Plant growth",
-          "Animals in an area"
-        ],
-        "correctIndex": 0,
-        "explain": "生物多樣性是指特定生境或生態系統中的生命多樣性。"
-      },
-      {
-        "q": "Why is biodiversity important?",
-        "options": [
-          "For educational purposes",
-          "For economic growth",
-          "For ecosystem sustainability",
-          "For cultural identity"
+          "Only plant species.",
+          "Only animal species.",
+          "The variety of life on Earth.",
+          "The extinction of species."
         ],
         "correctIndex": 2,
-        "explain": "生物多樣性確保了所有生命形式的自然可持續性。"
+        "explain": "生物多樣性是指地球上生命的多樣性。"
       },
       {
-        "q": "What is a benefit of diverse ecosystems mentioned?",
+        "q": "Why is high biodiversity important?",
         "options": [
-          "Increased tourism",
-          "Enhanced food production",
-          "Regulation of climate",
-          "Urban development"
+          "It leads to more pollution.",
+          "It stabilizes ecosystems.",
+          "It decreases species variety.",
+          "It increases deforestation."
         ],
-        "correctIndex": 2,
-        "explain": "多樣化的生態系統有助於調節氣候。"
+        "correctIndex": 1,
+        "explain": "高生物多樣性對生態系統的穩定非常重要。"
       },
       {
-        "q": "What can biodiversity promote?",
+        "q": "What threatens biodiversity according to the talk?",
         "options": [
-          "Increased pollution",
-          "More species extinction",
-          "Ecosystem resilience",
-          "Less adaptability"
+          "Climate change only.",
+          "Natural disasters only.",
+          "Human activities.",
+          "Increased species diversity."
         ],
         "correctIndex": 2,
-        "explain": "生物多樣性促進生態系統的韌性，使其能夠從擾動中恢復。"
+        "explain": "根據講座，人類活動威脅著生物多樣性。"
+      },
+      {
+        "q": "What is one benefit of high biodiversity?",
+        "options": [
+          "More diseases.",
+          "Less fertile soil.",
+          "Clean air and water.",
+          "More invasive species."
+        ],
+        "correctIndex": 2,
+        "explain": "高生物多樣性的一個好處是能提供清潔的空氣和水。"
       }
     ]
   }

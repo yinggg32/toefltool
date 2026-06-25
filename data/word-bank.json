@@ -1086,5 +1086,309 @@
     "zh": "生物地理學",
     "ex": "Biogeography studies the distribution of species across geographic areas.",
     "cat": "📰 每日新詞：biology"
+  },
+  {
+    "word": "society",
+    "pos": "n.",
+    "root": "社會 (shèhuì) - society",
+    "zh": "社會",
+    "ex": "Sociologists study the structures and functions of different types of society.",
+    "cat": "📰 每日新詞：sociology"
+  },
+  {
+    "word": "culture",
+    "pos": "n.",
+    "root": "文化 (wénhuà) - culture",
+    "zh": "文化",
+    "ex": "Culture shapes the values and beliefs of a society.",
+    "cat": "📰 每日新詞：sociology"
+  },
+  {
+    "word": "norms",
+    "pos": "n.",
+    "root": "規範 (guīfàn) - norms",
+    "zh": "規範",
+    "ex": "Social norms dictate acceptable behaviors within a community.",
+    "cat": "📰 每日新詞：sociology"
+  },
+  {
+    "word": "deviance",
+    "pos": "n.",
+    "root": "偏差 (piānchā) - deviance",
+    "zh": "偏差",
+    "ex": "Deviance can challenge societal norms and lead to social change.",
+    "cat": "📰 每日新詞：sociology"
+  },
+  {
+    "word": "integration",
+    "pos": "n.",
+    "root": "整合 (zhěnghé) - integrate; 合併 (hébìng) - merge",
+    "zh": "整合",
+    "ex": "Social integration is essential for maintaining stability in diverse communities.",
+    "cat": "📰 每日新詞：sociology"
+  },
+  {
+    "word": "identity",
+    "pos": "n.",
+    "root": "身份 (shēnfèn) - identity",
+    "zh": "身份",
+    "ex": "Personal identity is influenced by various social factors.",
+    "cat": "📰 每日新詞：sociology"
+  },
+  {
+    "word": "inequality",
+    "pos": "n.",
+    "root": "不平等 (bùpíngděng) - inequality",
+    "zh": "不平等",
+    "ex": "Inequality in wealth distribution can lead to social unrest.",
+    "cat": "📰 每日新詞：sociology"
+  },
+  {
+    "word": "ethnicity",
+    "pos": "n.",
+    "root": "民族 (mínzú) - ethnicity",
+    "zh": "民族",
+    "ex": "Ethnicity plays a crucial role in shaping individual experiences within society.",
+    "cat": "📰 每日新詞：sociology"
+  },
+  {
+    "word": "group",
+    "pos": "n.",
+    "root": "群體 (qúntǐ) - group",
+    "zh": "群體",
+    "ex": "Groups can exert significant influence on individual behavior.",
+    "cat": "📰 每日新詞：sociology"
+  },
+  {
+    "word": "socialization",
+    "pos": "n.",
+    "root": "社會化 (shèhuìhuà) - socialization",
+    "zh": "社會化",
+    "ex": "Socialization is the process through which individuals learn societal norms.",
+    "cat": "📰 每日新詞：sociology"
+  },
+  {
+    "word": "class",
+    "pos": "n.",
+    "root": "階級 (jiējí) - class",
+    "zh": "階級",
+    "ex": "Social class affects access to resources and opportunities.",
+    "cat": "📰 每日新詞：sociology"
+  },
+  {
+    "word": "interaction",
+    "pos": "n.",
+    "root": "互動 (hùdòng) - interaction",
+    "zh": "互動",
+    "ex": "Social interaction is fundamental to building relationships.",
+    "cat": "📰 每日新詞：sociology"
+  },
+  {
+    "word": "institution",
+    "pos": "n.",
+    "root": "機構 (jīgòu) - institution",
+    "zh": "機構",
+    "ex": "Institutions such as family and education are vital for societal cohesion.",
+    "cat": "📰 每日新詞：sociology"
+  },
+  {
+    "word": "role",
+    "pos": "n.",
+    "root": "角色 (juésè) - role",
+    "zh": "角色",
+    "ex": "Each individual plays multiple roles within society.",
+    "cat": "📰 每日新詞：sociology"
+  },
+  {
+    "word": "power",
+    "pos": "n.",
+    "root": "權力 (quánlì) - power",
+    "zh": "權力",
+    "ex": "Power dynamics can influence social relationships and structures.",
+    "cat": "📰 每日新詞：sociology"
+  },
+  {
+    "word": "status",
+    "pos": "n.",
+    "root": "地位 (dìwèi) - status",
+    "zh": "地位",
+    "ex": "Status can affect one’s opportunities and social interactions.",
+    "cat": "📰 每日新詞：sociology"
+  },
+  {
+    "word": "community",
+    "pos": "n.",
+    "root": "社區 (shèqū) - community",
+    "zh": "社區",
+    "ex": "A strong sense of community can enhance social well-being.",
+    "cat": "📰 每日新詞：sociology"
+  },
+  {
+    "word": "migration",
+    "pos": "n.",
+    "root": "移民 (yímín) - migration",
+    "zh": "移民",
+    "ex": "Migration patterns can significantly impact demographic changes.",
+    "cat": "📰 每日新詞：sociology"
+  },
+  {
+    "word": "gender",
+    "pos": "n.",
+    "root": "性別 (xìngbié) - gender",
+    "zh": "性別",
+    "ex": "Gender roles are socially constructed and can vary across cultures.",
+    "cat": "📰 每日新詞：sociology"
+  },
+  {
+    "word": "discrimination",
+    "pos": "n.",
+    "root": "歧視 (qíshì) - discrimination",
+    "zh": "歧視",
+    "ex": "Discrimination based on race or gender remains a pressing issue.",
+    "cat": "📰 每日新詞：sociology"
+  },
+  {
+    "word": "values",
+    "pos": "n.",
+    "root": "價值 (jiàzhí) - values",
+    "zh": "價值",
+    "ex": "Values guide the behaviors and decisions of individuals within society.",
+    "cat": "📰 每日新詞：sociology"
+  },
+  {
+    "word": "social",
+    "pos": "adj.",
+    "root": "社會 (shèhuì) - social",
+    "zh": "社會的",
+    "ex": "Social issues often require collective action for resolution.",
+    "cat": "📰 每日新詞：sociology"
+  },
+  {
+    "word": "research",
+    "pos": "n./v.",
+    "root": "研究 (yánjiū) - research",
+    "zh": "研究",
+    "ex": "Research in sociology helps to understand complex social phenomena.",
+    "cat": "📰 每日新詞：sociology"
+  },
+  {
+    "word": "behavior",
+    "pos": "n.",
+    "root": "行為 (xíngwéi) - behavior",
+    "zh": "行為",
+    "ex": "Behavioral patterns can reveal insights about social norms.",
+    "cat": "📰 每日新詞：sociology"
+  },
+  {
+    "word": "theory",
+    "pos": "n.",
+    "root": "理論 (lǐlùn) - theory",
+    "zh": "理論",
+    "ex": "Sociological theories provide frameworks for analyzing social issues.",
+    "cat": "📰 每日新詞：sociology"
+  },
+  {
+    "word": "conflict",
+    "pos": "n.",
+    "root": "衝突 (chōngtū) - conflict",
+    "zh": "衝突",
+    "ex": "Conflict theory examines the struggles between different social classes.",
+    "cat": "📰 每日新詞：sociology"
+  },
+  {
+    "word": "symbol",
+    "pos": "n.",
+    "root": "符號 (fúhào) - symbol",
+    "zh": "符號",
+    "ex": "Symbols play a crucial role in communication and social interaction.",
+    "cat": "📰 每日新詞：sociology"
+  },
+  {
+    "word": "urbanization",
+    "pos": "n.",
+    "root": "城市化 (chéngshìhuà) - urbanization",
+    "zh": "城市化",
+    "ex": "Urbanization has transformed social dynamics in many regions.",
+    "cat": "📰 每日新詞：sociology"
+  },
+  {
+    "word": "researcher",
+    "pos": "n.",
+    "root": "研究者 (yánjiūzhě) - researcher",
+    "zh": "研究者",
+    "ex": "Social researchers often conduct surveys to gather data on public opinion.",
+    "cat": "📰 每日新詞：sociology"
+  },
+  {
+    "word": "socialism",
+    "pos": "n.",
+    "root": "社會主義 (shèhuìzhǔyì) - socialism",
+    "zh": "社會主義",
+    "ex": "Socialism advocates for collective ownership and equitable distribution of resources.",
+    "cat": "📰 每日新詞：sociology"
+  },
+  {
+    "word": "collective",
+    "pos": "adj./n.",
+    "root": "集體 (jítǐ) - collective",
+    "zh": "集體的",
+    "ex": "Collective action is necessary for achieving social change.",
+    "cat": "📰 每日新詞：sociology"
+  },
+  {
+    "word": "values",
+    "pos": "n.",
+    "root": "價值觀 (jiàzhíguān) - values",
+    "zh": "價值觀",
+    "ex": "Cultural values influence social behavior and attitudes.",
+    "cat": "📰 每日新詞：sociology"
+  },
+  {
+    "word": "participation",
+    "pos": "n.",
+    "root": "參與 (cānyù) - participation",
+    "zh": "參與",
+    "ex": "Active participation in community events fosters social cohesion.",
+    "cat": "📰 每日新詞：sociology"
+  },
+  {
+    "word": "alienation",
+    "pos": "n.",
+    "root": "疏離 (shūlì) - alienation",
+    "zh": "疏離",
+    "ex": "Alienation can occur when individuals feel disconnected from their communities.",
+    "cat": "📰 每日新詞：sociology"
+  },
+  {
+    "word": "stigma",
+    "pos": "n.",
+    "root": "污名 (wūmíng) - stigma",
+    "zh": "污名",
+    "ex": "Stigma surrounding mental health can hinder individuals from seeking help.",
+    "cat": "📰 每日新詞：sociology"
+  },
+  {
+    "word": "prejudice",
+    "pos": "n.",
+    "root": "偏見 (piānjiàn) - prejudice",
+    "zh": "偏見",
+    "ex": "Prejudice can lead to discrimination and social division.",
+    "cat": "📰 每日新詞：sociology"
+  },
+  {
+    "word": "assimilation",
+    "pos": "n.",
+    "root": "同化 (tónghuà) - assimilation",
+    "zh": "同化",
+    "ex": "Assimilation involves the process of adopting the cultural norms of a dominant group.",
+    "cat": "📰 每日新詞：sociology"
+  },
+  {
+    "word": "network",
+    "pos": "n.",
+    "root": "網絡 (wǎngluò) - network",
+    "zh": "網絡",
+    "ex": "Social networks can facilitate the sharing of resources and information.",
+    "cat": "📰 每日新詞：sociology"
   }
 ]

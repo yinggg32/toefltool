@@ -2,101 +2,107 @@
   "cloze": {
     "segments": [
       {
-        "text": "The process of photosynthesis is essential for life on Earth. It begins when plants absorb sunlight through their lea"
+        "text": "The human brain is a highly complex organ that controls various functions."
       },
       {
-        "blank": "ves"
+        "blank": "arti"
       },
       {
-        "text": ". This energy is then used to convert carbon dioxide from the air and water from the soil into glucose, a type of sugar that plants use for fu"
+        "text": "ficial intelligence is becoming increasingly integrated into daily life."
       },
       {
-        "blank": "el"
+        "blank": "cogn"
       },
       {
-        "text": ". Oxygen is released as a byproduct, which is vital for most living organisms. In this way, photosynthesis not only sustains plant life but also helps maint"
+        "text": "ition and machine learning are vital areas of research."
       },
       {
-        "blank": "ain"
+        "blank": "neuro"
       },
       {
-        "text": " the planet's atmosphere. Furthermore, the process occurs in two main stages: the light-dependent reactions and the light-independent reactions, commonly known as the Calvin cycle."
+        "text": "science has revealed much about brain plasticity."
+      },
+      {
+        "blank": "biolo"
+      },
+      {
+        "text": "gical systems mirror some of the processes found in artificial networks."
       }
     ]
   },
   "academic": {
-    "passage": "Photosynthesis is a biochemical process that allows green plants to convert sunlight into chemical energy. During this process, plants take in carbon dioxide and water and, using light energy, synthesize glucose. This glucose serves as food for the plants, fueling their growth and development. Moreover, oxygen is released as a byproduct, which is essential for the survival of aerobic organisms. The importance of photosynthesis extends beyond individual plants; it plays a crucial role in maintaining the ecological balance and supporting life on Earth.",
+    "passage": "The concept of artificial intelligence (AI) has gained considerable attention in recent years. AI refers to machines or software that exhibit behaviors considered intelligent. This includes learning, reasoning, and problem-solving capabilities. Researchers are continually exploring how AI can replicate human cognitive functions. Notably, advancements in machine learning, a subset of AI, allow systems to improve their performance based on experience. The intersection of neuroscience and AI is particularly fascinating, as scientists study how the human brain processes information to develop better algorithms. However, ethical considerations regarding the deployment of AI technologies remain a crucial topic of discussion.",
     "questions": [
       {
-        "q": "What is the main idea of the passage?",
+        "q": "What is the main topic of the passage?",
         "options": [
-          "Photosynthesis is important for plants.",
-          "Photosynthesis occurs in two stages.",
-          "Photosynthesis sustains life on Earth.",
-          "Photosynthesis produces glucose."
-        ],
-        "correctIndex": 2,
-        "explain": "這段文字的主旨是光合作用對地球生命的重要性。"
-      },
-      {
-        "q": "What do plants synthesize during photosynthesis?",
-        "options": [
-          "Carbon dioxide",
-          "Oxygen",
-          "Glucose",
-          "Water"
-        ],
-        "correctIndex": 2,
-        "explain": "植物在光合作用中合成葡萄糖。"
-      },
-      {
-        "q": "Why is oxygen important according to the passage?",
-        "options": [
-          "It helps plants grow.",
-          "It is a byproduct of photosynthesis.",
-          "It is necessary for aerobic organisms.",
-          "It is used in the Calvin cycle."
-        ],
-        "correctIndex": 2,
-        "explain": "氧氣對於需氧生物的生存是必要的。"
-      },
-      {
-        "q": "What does the term 'biochemical' imply in the context of this passage?",
-        "options": [
-          "It relates to chemistry and biology.",
-          "It refers to the energy from sunlight.",
-          "It is a process involving water and air.",
-          "It indicates a type of plant."
+          "Artificial intelligence",
+          "Neuroscience",
+          "Machine learning",
+          "Cognitive functions"
         ],
         "correctIndex": 0,
-        "explain": "在這段文字中，'生化'指的是化學和生物學相關的過程。"
+        "explain": "這篇文章的主要主題是人工智慧（AI），因為它介紹了AI及其研究。"
+      },
+      {
+        "q": "What subset of AI is particularly highlighted in the passage?",
+        "options": [
+          "Robotics",
+          "Machine learning",
+          "Natural language processing",
+          "Expert systems"
+        ],
+        "correctIndex": 1,
+        "explain": "這段文字特別強調機器學習，它是人工智慧的一個子集。"
+      },
+      {
+        "q": "What can be inferred about the relationship between neuroscience and AI?",
+        "options": [
+          "They are unrelated fields",
+          "Neuroscience helps improve AI algorithms",
+          "AI has no ethical concerns",
+          "They compete for research funding"
+        ],
+        "correctIndex": 1,
+        "explain": "可以推斷神經科學有助於改善AI算法，因為研究人員研究大腦如何處理信息來開發更好的算法。"
+      },
+      {
+        "q": "What does the term 'cognitive functions' refer to in the passage?",
+        "options": [
+          "Physical abilities",
+          "Intelligent behaviors",
+          "Social interactions",
+          "Creative skills"
+        ],
+        "correctIndex": 1,
+        "explain": "在這篇文章中，認知功能指的是智能行為，因為人工智慧旨在模擬這些行為。"
       }
     ]
   },
   "daily": {
-    "passage": "Attention students: The library will be closed for maintenance on Friday from 9 AM to 1 PM. Please plan accordingly and return any books before this time. Thank you for your understanding.",
+    "passage": "Attention all students! The library will be holding a book fair next Friday from 10 AM to 4 PM. Come explore a variety of genres, meet local authors, and enjoy special discounts on selected titles. Don't miss this great opportunity!",
     "questions": [
       {
-        "q": "When will the library be closed?",
+        "q": "What day of the week will the book fair take place?",
         "options": [
-          "Friday morning",
-          "Friday afternoon",
-          "Saturday",
-          "Thursday"
+          "Monday",
+          "Thursday",
+          "Friday",
+          "Saturday"
         ],
-        "correctIndex": 0,
-        "explain": "圖書館將於星期五上午關閉。"
+        "correctIndex": 2,
+        "explain": "書展將在星期五舉行，這是公告中提到的日子。"
       },
       {
-        "q": "What should students do before the library closes?",
+        "q": "What time will the book fair start?",
         "options": [
-          "Return their books",
-          "Study in the library",
-          "Borrow new books",
-          "Attend a workshop"
+          "9 AM",
+          "10 AM",
+          "11 AM",
+          "12 PM"
         ],
-        "correctIndex": 0,
-        "explain": "學生應在圖書館關閉之前歸還書籍。"
+        "correctIndex": 1,
+        "explain": "公告中提到書展將於上午10點開始。"
       }
     ]
   }
