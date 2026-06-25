@@ -1619,7 +1619,7 @@ function isValidQuestionSet(questions, expectedCount){
 function setReadingData(data){
   try{
     if(data.cloze && isValidClozeSegments(data.cloze.segments)){
-      clozePassages = [{segments:data.cloze.segments}]; clozeIdx=0; clozeScored=new Set(); renderCloze();
+      clozePassages = [{segments:data.cloze.segments}, ...clozePassages]; clozeIdx=0; clozeScored=new Set(); renderCloze();
     }
     if(data.academic && typeof data.academic.passage==='string' && isValidQuestionSet(data.academic.questions, 4)){
       setReadingAcademic(data.academic.passage, data.academic.questions);
