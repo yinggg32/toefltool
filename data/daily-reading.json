@@ -2,107 +2,107 @@
   "cloze": {
     "segments": [
       {
-        "text": "The human brain is a highly complex organ that controls various functions."
+        "text": "The process of photosynthesis is essential for plants, as it allows them to convert light energy into chemical en"
       },
       {
-        "blank": "arti"
+        "blank": "ergy"
       },
       {
-        "text": "ficial intelligence is becoming increasingly integrated into daily life."
+        "text": ". This process primarily occurs in the leaves, where chlorophyll absorbs sunlight. During photosynthesis, carbon d"
       },
       {
-        "blank": "cogn"
+        "blank": "ioxide"
       },
       {
-        "text": "ition and machine learning are vital areas of research."
+        "text": " from the atmosphere is combined with water taken up by the roots. The result is glucose, which serves as food for the plant, and oxygen, a vital b"
       },
       {
-        "blank": "neuro"
+        "blank": "yproduct"
       },
       {
-        "text": "science has revealed much about brain plasticity."
+        "text": ". This oxygen is released into the atmosphere, contributing significantly to the air we breathe. Understanding photosynthesis is crucial for e"
       },
       {
-        "blank": "biolo"
+        "blank": "cology"
       },
       {
-        "text": "gical systems mirror some of the processes found in artificial networks."
+        "text": ", as it explains how energy flows through ecosystems and supports life on Earth."
       }
     ]
   },
   "academic": {
-    "passage": "The concept of artificial intelligence (AI) has gained considerable attention in recent years. AI refers to machines or software that exhibit behaviors considered intelligent. This includes learning, reasoning, and problem-solving capabilities. Researchers are continually exploring how AI can replicate human cognitive functions. Notably, advancements in machine learning, a subset of AI, allow systems to improve their performance based on experience. The intersection of neuroscience and AI is particularly fascinating, as scientists study how the human brain processes information to develop better algorithms. However, ethical considerations regarding the deployment of AI technologies remain a crucial topic of discussion.",
+    "passage": "Photosynthesis is the process by which green plants and some other organisms use sunlight to synthesize foods with the help of chlorophyll. It primarily occurs in the chloroplasts of plant cells, converting carbon dioxide and water into glucose and oxygen. This process is vital not only for plant growth but also for maintaining atmospheric oxygen levels and supporting life on Earth.",
     "questions": [
       {
-        "q": "What is the main topic of the passage?",
+        "q": "What is the main purpose of photosynthesis?",
         "options": [
-          "Artificial intelligence",
-          "Neuroscience",
-          "Machine learning",
-          "Cognitive functions"
+          "To produce energy for plants",
+          "To absorb sunlight",
+          "To create oxygen",
+          "To convert carbon dioxide"
         ],
         "correctIndex": 0,
-        "explain": "這篇文章的主要主題是人工智慧（AI），因為它介紹了AI及其研究。"
+        "explain": "這個問題的正確答案是「為植物產生能量」，因為光合作用的主要目的是將光能轉化為化學能。"
       },
       {
-        "q": "What subset of AI is particularly highlighted in the passage?",
+        "q": "Where does photosynthesis primarily occur?",
         "options": [
-          "Robotics",
-          "Machine learning",
-          "Natural language processing",
-          "Expert systems"
+          "In the roots",
+          "In the flowers",
+          "In the stems",
+          "In the leaves"
         ],
-        "correctIndex": 1,
-        "explain": "這段文字特別強調機器學習，它是人工智慧的一個子集。"
+        "correctIndex": 3,
+        "explain": "正確答案是「在葉子中」，因為葉子是進行光合作用的主要部位。"
       },
       {
-        "q": "What can be inferred about the relationship between neuroscience and AI?",
+        "q": "What can be inferred about the importance of photosynthesis?",
         "options": [
-          "They are unrelated fields",
-          "Neuroscience helps improve AI algorithms",
-          "AI has no ethical concerns",
-          "They compete for research funding"
+          "It is only important for plants",
+          "It has no impact on the environment",
+          "It helps maintain oxygen levels",
+          "It only benefits animals"
         ],
-        "correctIndex": 1,
-        "explain": "可以推斷神經科學有助於改善AI算法，因為研究人員研究大腦如何處理信息來開發更好的算法。"
+        "correctIndex": 2,
+        "explain": "可以推斷光合作用對於維持氧氣水平是重要的，因此正確答案是「它有助於維持氧氣水平」。"
       },
       {
-        "q": "What does the term 'cognitive functions' refer to in the passage?",
+        "q": "What does chlorophyll primarily do?",
         "options": [
-          "Physical abilities",
-          "Intelligent behaviors",
-          "Social interactions",
-          "Creative skills"
+          "Absorb sunlight",
+          "Create glucose",
+          "Release oxygen",
+          "Store water"
         ],
-        "correctIndex": 1,
-        "explain": "在這篇文章中，認知功能指的是智能行為，因為人工智慧旨在模擬這些行為。"
+        "correctIndex": 0,
+        "explain": "葉綠素的主要功能是「吸收陽光」，因此正確答案是這個選項。"
       }
     ]
   },
   "daily": {
-    "passage": "Attention all students! The library will be holding a book fair next Friday from 10 AM to 4 PM. Come explore a variety of genres, meet local authors, and enjoy special discounts on selected titles. Don't miss this great opportunity!",
+    "passage": "Attention students! The library will be closed for maintenance this Saturday from 9 AM to 3 PM. Please plan your study sessions accordingly.",
     "questions": [
       {
-        "q": "What day of the week will the book fair take place?",
+        "q": "When will the library be closed?",
         "options": [
-          "Monday",
-          "Thursday",
-          "Friday",
-          "Saturday"
+          "This Saturday",
+          "Next Saturday",
+          "This Sunday",
+          "Next Sunday"
         ],
-        "correctIndex": 2,
-        "explain": "書展將在星期五舉行，這是公告中提到的日子。"
+        "correctIndex": 0,
+        "explain": "正確答案是「這個星期六」，因為公告中提到將在這個星期六關閉。"
       },
       {
-        "q": "What time will the book fair start?",
+        "q": "What time will the library close?",
         "options": [
-          "9 AM",
-          "10 AM",
-          "11 AM",
-          "12 PM"
+          "From 8 AM to 2 PM",
+          "From 9 AM to 3 PM",
+          "From 10 AM to 4 PM",
+          "From 11 AM to 5 PM"
         ],
         "correctIndex": 1,
-        "explain": "公告中提到書展將於上午10點開始。"
+        "explain": "正確答案是「從上午9點到下午3點」，這是公告中提供的具體時間。"
       }
     ]
   }

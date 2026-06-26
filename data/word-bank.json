@@ -1390,5 +1390,309 @@
     "zh": "網絡",
     "ex": "Social networks can facilitate the sharing of resources and information.",
     "cat": "📰 每日新詞：sociology"
+  },
+  {
+    "word": "astronomy",
+    "pos": "n.",
+    "root": "天文-astronomy",
+    "zh": "天文學",
+    "ex": "Astronomy is the scientific study of celestial bodies and the universe as a whole.",
+    "cat": "📰 每日新詞：astronomy and space science"
+  },
+  {
+    "word": "celestial",
+    "pos": "adj.",
+    "root": "天體-celestial",
+    "zh": "天體的",
+    "ex": "Celestial navigation relies on the positions of stars and planets.",
+    "cat": "📰 每日新詞：astronomy and space science"
+  },
+  {
+    "word": "cosmology",
+    "pos": "n.",
+    "root": "宇宙-ology",
+    "zh": "宇宙學",
+    "ex": "Cosmology explores the origins and evolution of the universe.",
+    "cat": "📰 每日新詞：astronomy and space science"
+  },
+  {
+    "word": "galaxy",
+    "pos": "n.",
+    "root": "星系-galaxy",
+    "zh": "星系",
+    "ex": "The Milky Way is the galaxy that contains our solar system.",
+    "cat": "📰 每日新詞：astronomy and space science"
+  },
+  {
+    "word": "nebula",
+    "pos": "n.",
+    "root": "星雲-nebula",
+    "zh": "星雲",
+    "ex": "A nebula is a giant cloud of dust and gas in space.",
+    "cat": "📰 每日新詞：astronomy and space science"
+  },
+  {
+    "word": "supernova",
+    "pos": "n.",
+    "root": "超新星-supernova",
+    "zh": "超新星",
+    "ex": "A supernova occurs when a star explodes at the end of its life cycle.",
+    "cat": "📰 每日新詞：astronomy and space science"
+  },
+  {
+    "word": "exoplanet",
+    "pos": "n.",
+    "root": "外行星-exo+planet",
+    "zh": "外行星",
+    "ex": "Astronomers have discovered thousands of exoplanets in recent years.",
+    "cat": "📰 每日新詞：astronomy and space science"
+  },
+  {
+    "word": "orbit",
+    "pos": "n./v.",
+    "root": "軌道-orbit",
+    "zh": "軌道",
+    "ex": "The Earth orbits the sun in an elliptical path.",
+    "cat": "📰 每日新詞：astronomy and space science"
+  },
+  {
+    "word": "gravity",
+    "pos": "n.",
+    "root": "重力-gravity",
+    "zh": "重力",
+    "ex": "Gravity is the force that attracts objects toward one another.",
+    "cat": "📰 每日新詞：astronomy and space science"
+  },
+  {
+    "word": "telescope",
+    "pos": "n.",
+    "root": "望遠鏡-tele+scope",
+    "zh": "望遠鏡",
+    "ex": "A telescope allows astronomers to observe distant celestial objects.",
+    "cat": "📰 每日新詞：astronomy and space science"
+  },
+  {
+    "word": "spectroscopy",
+    "pos": "n.",
+    "root": "光譜-spectro+scopy",
+    "zh": "光譜學",
+    "ex": "Spectroscopy is used to analyze the composition of stars.",
+    "cat": "📰 每日新詞：astronomy and space science"
+  },
+  {
+    "word": "quasar",
+    "pos": "n.",
+    "root": "準星-quasar",
+    "zh": "準星",
+    "ex": "Quasars are incredibly bright and distant objects powered by black holes.",
+    "cat": "📰 每日新詞：astronomy and space science"
+  },
+  {
+    "word": "lightyear",
+    "pos": "n.",
+    "root": "光年-light+year",
+    "zh": "光年",
+    "ex": "A lightyear is the distance light travels in one year.",
+    "cat": "📰 每日新詞：astronomy and space science"
+  },
+  {
+    "word": "asteroid",
+    "pos": "n.",
+    "root": "小行星-asteroid",
+    "zh": "小行星",
+    "ex": "Asteroids are rocky bodies that orbit the sun, primarily found in the asteroid belt.",
+    "cat": "📰 每日新詞：astronomy and space science"
+  },
+  {
+    "word": "meteor",
+    "pos": "n.",
+    "root": "流星-meteor",
+    "zh": "流星",
+    "ex": "A meteor is a streak of light produced when a meteoroid enters the Earth's atmosphere.",
+    "cat": "📰 每日新詞：astronomy and space science"
+  },
+  {
+    "word": "black hole",
+    "pos": "n.",
+    "root": "黑洞-black+hole",
+    "zh": "黑洞",
+    "ex": "A black hole is a region of space where gravity is so strong that nothing can escape.",
+    "cat": "📰 每日新詞：astronomy and space science"
+  },
+  {
+    "word": "stellar",
+    "pos": "adj.",
+    "root": "恆星-stellar",
+    "zh": "恆星的",
+    "ex": "Stellar evolution describes the life cycle of stars.",
+    "cat": "📰 每日新詞：astronomy and space science"
+  },
+  {
+    "word": "cosmic",
+    "pos": "adj.",
+    "root": "宇宙-cosmic",
+    "zh": "宇宙的",
+    "ex": "Cosmic rays are high-energy particles that originate from outer space.",
+    "cat": "📰 每日新詞：astronomy and space science"
+  },
+  {
+    "word": "radiation",
+    "pos": "n.",
+    "root": "輻射-radiation",
+    "zh": "輻射",
+    "ex": "Radiation from the sun is essential for life on Earth.",
+    "cat": "📰 每日新詞：astronomy and space science"
+  },
+  {
+    "word": "satellite",
+    "pos": "n.",
+    "root": "衛星-satellite",
+    "zh": "衛星",
+    "ex": "Artificial satellites are used for communication and weather monitoring.",
+    "cat": "📰 每日新詞：astronomy and space science"
+  },
+  {
+    "word": "planets",
+    "pos": "n.",
+    "root": "行星-planet",
+    "zh": "行星",
+    "ex": "The solar system consists of eight major planets orbiting the sun.",
+    "cat": "📰 每日新詞：astronomy and space science"
+  },
+  {
+    "word": "heliocentric",
+    "pos": "adj.",
+    "root": "日心-helio+centric",
+    "zh": "日心的",
+    "ex": "The heliocentric model places the sun at the center of the solar system.",
+    "cat": "📰 每日新詞：astronomy and space science"
+  },
+  {
+    "word": "dwarf planet",
+    "pos": "n.",
+    "root": "矮行星-dwarf+planet",
+    "zh": "矮行星",
+    "ex": "Pluto is classified as a dwarf planet in our solar system.",
+    "cat": "📰 每日新詞：astronomy and space science"
+  },
+  {
+    "word": "orbiting",
+    "pos": "v.",
+    "root": "軌道-orbit",
+    "zh": "繞軌道運行",
+    "ex": "The satellites are orbiting the Earth at various altitudes.",
+    "cat": "📰 每日新詞：astronomy and space science"
+  },
+  {
+    "word": "astronaut",
+    "pos": "n.",
+    "root": "宇航員-astro+naut",
+    "zh": "宇航員",
+    "ex": "An astronaut undergoes extensive training to prepare for space missions.",
+    "cat": "📰 每日新詞：astronomy and space science"
+  },
+  {
+    "word": "interstellar",
+    "pos": "adj.",
+    "root": "星際-inter+stellar",
+    "zh": "星際的",
+    "ex": "Interstellar travel involves moving between stars or planetary systems.",
+    "cat": "📰 每日新詞：astronomy and space science"
+  },
+  {
+    "word": "spacecraft",
+    "pos": "n.",
+    "root": "太空船-space+craft",
+    "zh": "太空船",
+    "ex": "NASA's spacecraft are designed to explore other planets and moons.",
+    "cat": "📰 每日新詞：astronomy and space science"
+  },
+  {
+    "word": "tide",
+    "pos": "n.",
+    "root": "潮汐-tide",
+    "zh": "潮汐",
+    "ex": "The gravitational pull of the moon affects the tides on Earth.",
+    "cat": "📰 每日新詞：astronomy and space science"
+  },
+  {
+    "word": "eclipse",
+    "pos": "n./v.",
+    "root": "日食-ec+clipse",
+    "zh": "日食",
+    "ex": "A solar eclipse occurs when the moon passes between the Earth and the sun.",
+    "cat": "📰 每日新詞：astronomy and space science"
+  },
+  {
+    "word": "magnitude",
+    "pos": "n.",
+    "root": "大小-magnitude",
+    "zh": "大小",
+    "ex": "The magnitude of a star indicates its brightness as seen from Earth.",
+    "cat": "📰 每日新詞：astronomy and space science"
+  },
+  {
+    "word": "vacuum",
+    "pos": "n.",
+    "root": "真空-vacuum",
+    "zh": "真空",
+    "ex": "Space is a near-perfect vacuum, devoid of matter.",
+    "cat": "📰 每日新詞：astronomy and space science"
+  },
+  {
+    "word": "astrobiology",
+    "pos": "n.",
+    "root": "天體生物-astro+biology",
+    "zh": "天體生物學",
+    "ex": "Astrobiology studies the potential for life beyond Earth.",
+    "cat": "📰 每日新詞：astronomy and space science"
+  },
+  {
+    "word": "pulsar",
+    "pos": "n.",
+    "root": "脈衝星-pulse+ar",
+    "zh": "脈衝星",
+    "ex": "A pulsar is a highly magnetized rotating neutron star that emits beams of electromagnetic radiation.",
+    "cat": "📰 每日新詞：astronomy and space science"
+  },
+  {
+    "word": "solar",
+    "pos": "adj.",
+    "root": "太陽-solar",
+    "zh": "太陽的",
+    "ex": "Solar energy is harnessed from sunlight for various applications.",
+    "cat": "📰 每日新詞：astronomy and space science"
+  },
+  {
+    "word": "telescope",
+    "pos": "n.",
+    "root": "望遠鏡-tele+scope",
+    "zh": "望遠鏡",
+    "ex": "Astronomers use telescopes to observe distant galaxies and stars.",
+    "cat": "📰 每日新詞：astronomy and space science"
+  },
+  {
+    "word": "orbit",
+    "pos": "n./v.",
+    "root": "軌道-orbit",
+    "zh": "軌道",
+    "ex": "The satellite will orbit the Earth every 90 minutes.",
+    "cat": "📰 每日新詞：astronomy and space science"
+  },
+  {
+    "word": "spectrum",
+    "pos": "n.",
+    "root": "光譜-spectrum",
+    "zh": "光譜",
+    "ex": "The spectrum of light emitted by a star can reveal its temperature and composition.",
+    "cat": "📰 每日新詞：astronomy and space science"
+  },
+  {
+    "word": "proxima",
+    "pos": "n.",
+    "root": "最近的-proxima",
+    "zh": "最近的",
+    "ex": "Proxima Centauri is the closest known star to the Sun.",
+    "cat": "📰 每日新詞：astronomy and space science"
   }
 ]

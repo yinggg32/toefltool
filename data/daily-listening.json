@@ -1,116 +1,116 @@
 {
   "chooseResponse": [
     {
-      "q": "Are you going to the art exhibit?",
+      "q": "Are you attending the workshop?",
       "options": [
-        "Yes, I can't wait!",
-        "No, not interested.",
+        "Yes, I registered!",
+        "I don't know yet.",
         "Maybe next time.",
-        "I have other plans."
+        "I forgot about it."
       ],
       "correctIndex": 0
     }
   ],
   "conversation": {
-    "transcript": "Student: Hey, did you hear about the new art exhibit at the gallery?\nAdvisor: Yes, I heard it features local artists. Are you planning to go?\nStudent: Definitely! I love supporting local talent.\nAdvisor: That sounds great! It’s a good way to appreciate the community.",
+    "transcript": "Student: Hey, did you sign up for the sustainability workshop next week?\nAdvisor: Yes, I registered for it last month. Are you going?\nStudent: I'm thinking about it, but I'm not sure.\nAdvisor: You should definitely attend! It will be very informative.",
     "questions": [
       {
-        "q": "What does the student think about local artists?",
+        "q": "What is the main topic of the workshop?",
         "options": [
-          "They should not be supported.",
-          "They are very talented.",
-          "They are not well-known.",
-          "They should focus on other careers."
-        ],
-        "correctIndex": 1,
-        "explain": "學生認為當地藝術家非常有才華。"
-      },
-      {
-        "q": "What is the main topic of this conversation?",
-        "options": [
-          "A new art exhibit.",
-          "A local festival.",
-          "An artist's career.",
-          "A community service project."
+          "Sustainability practices",
+          "Culinary skills",
+          "Digital marketing",
+          "Conflict resolution"
         ],
         "correctIndex": 0,
-        "explain": "這段對話的主要主題是新的藝術展覽。"
+        "explain": "這個研討會的主要主題是可持續性實踐。"
+      },
+      {
+        "q": "How did the advisor feel about the workshop?",
+        "options": [
+          "Uncertain",
+          "Excited",
+          "Indifferent",
+          "Negative"
+        ],
+        "correctIndex": 1,
+        "explain": "顧問對這個研討會感到興奮。"
       }
     ]
   },
   "announcement": {
-    "transcript": "Attention, students! The university will be hosting a community service day next Saturday. Volunteer opportunities will be available in various local organizations. It's a great chance to give back and meet new people. For more details, please visit the student activities office.",
+    "transcript": "Attention students: The annual Sustainability Week will commence next Monday. Activities will include workshops, guest lectures, and panel discussions. Please check the campus website for the full schedule and sign-up details. We encourage everyone to participate and learn how to contribute to a greener campus.",
     "questions": [
       {
-        "q": "What event is being announced?",
+        "q": "When does Sustainability Week start?",
         "options": [
-          "A sports tournament.",
-          "A community service day.",
-          "An art exhibit opening.",
-          "A guest lecture series."
+          "Next Monday",
+          "Next Friday",
+          "This Sunday",
+          "Tomorrow"
         ],
-        "correctIndex": 1,
-        "explain": "公告的事件是社區服務日。"
+        "correctIndex": 0,
+        "explain": "可持續性周從下週一開始。"
       },
       {
-        "q": "When will the event take place?",
+        "q": "What can students do during Sustainability Week?",
         "options": [
-          "This Friday.",
-          "Next Saturday.",
-          "Tomorrow evening.",
-          "Next month."
+          "Attend sports events",
+          "Join sustainability activities",
+          "Visit art galleries",
+          "Take exams"
         ],
         "correctIndex": 1,
-        "explain": "事件將在下星期六舉行。"
+        "explain": "學生可以參加可持續性活動。"
       }
     ]
   },
   "talk": {
-    "transcript": "Today, I want to talk about the concept of biodiversity. Biodiversity refers to the variety of life on Earth, including the different species of plants, animals, and microorganisms, as well as the ecosystems they form. High biodiversity is crucial for ecosystem stability, providing numerous benefits such as clean air, water, and fertile soil. Unfortunately, human activities like deforestation and pollution are threatening biodiversity. Protecting various species and their habitats is essential for maintaining the health of our planet and ensuring future generations can enjoy its rich natural heritage.",
+    "transcript": "Today, we are going to discuss renewable energy sources, which are essential for sustainable development. Renewable energy comes from natural sources that can be replenished, like sunlight, wind, and water. Unlike fossil fuels, which contribute to environmental degradation, renewable energy reduces greenhouse gas emissions, making it a cleaner choice. Solar panels and wind turbines are common technologies used to harness these energy sources. As the world seeks to combat climate change, the transition to renewable energy is becoming increasingly important. Implementing these technologies not only helps the planet but also creates new job opportunities in the energy sector.",
     "questions": [
       {
-        "q": "What does biodiversity refer to?",
+        "q": "What is the main benefit of renewable energy?",
         "options": [
-          "Only plant species.",
-          "Only animal species.",
-          "The variety of life on Earth.",
-          "The extinction of species."
-        ],
-        "correctIndex": 2,
-        "explain": "生物多樣性是指地球上生命的多樣性。"
-      },
-      {
-        "q": "Why is high biodiversity important?",
-        "options": [
-          "It leads to more pollution.",
-          "It stabilizes ecosystems.",
-          "It decreases species variety.",
-          "It increases deforestation."
+          "It is cheaper than fossil fuels",
+          "It reduces greenhouse gas emissions",
+          "It is more convenient",
+          "It requires less technology"
         ],
         "correctIndex": 1,
-        "explain": "高生物多樣性對生態系統的穩定非常重要。"
+        "explain": "可再生能源的主要好處是減少溫室氣體排放。"
       },
       {
-        "q": "What threatens biodiversity according to the talk?",
+        "q": "What are two examples of renewable energy sources mentioned?",
         "options": [
-          "Climate change only.",
-          "Natural disasters only.",
-          "Human activities.",
-          "Increased species diversity."
+          "Coal and oil",
+          "Natural gas and solar",
+          "Sunlight and wind",
+          "Wood and uranium"
         ],
         "correctIndex": 2,
-        "explain": "根據講座，人類活動威脅著生物多樣性。"
+        "explain": "提到的兩種可再生能源來源是陽光和風。"
       },
       {
-        "q": "What is one benefit of high biodiversity?",
+        "q": "How do renewable energy technologies benefit the economy?",
         "options": [
-          "More diseases.",
-          "Less fertile soil.",
-          "Clean air and water.",
-          "More invasive species."
+          "They reduce government spending",
+          "They create job opportunities",
+          "They lower energy prices",
+          "They increase fossil fuel use"
         ],
-        "correctIndex": 2,
-        "explain": "高生物多樣性的一個好處是能提供清潔的空氣和水。"
+        "correctIndex": 1,
+        "explain": "可再生能源技術為經濟帶來好處，因為它們創造工作機會。"
+      },
+      {
+        "q": "What is a major challenge in transitioning to renewable energy?",
+        "options": [
+          "High initial costs",
+          "Lack of interest",
+          "Limited technology",
+          "Excessive regulations"
+        ],
+        "correctIndex": 0,
+        "explain": "轉向可再生能源的一個主要挑戰是高昂的初始成本。"
       }
     ]
   }

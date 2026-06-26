@@ -1,45 +1,45 @@
 {
   "shadowSentences": [
-    "I enjoy my morning coffee.",
-    "She walks her dog every evening.",
-    "We watched a movie last night.",
-    "He reads books on the weekends.",
-    "My friends and I play soccer together.",
-    "They often visit the local museum.",
-    "I love to try new recipes at home.",
-    "We regularly go hiking in the mountains.",
-    "She is taking a pottery class this semester.",
-    "I plan to travel to Japan next summer."
+    "She enjoys reading books in her free time.",
+    "I often go for walks in the park nearby.",
+    "He plays soccer every Saturday with friends.",
+    "They love trying new restaurants in the city.",
+    "My sister paints beautiful landscapes on weekends.",
+    "We usually watch movies together on Friday nights.",
+    "I like to cook different cuisines for dinner parties.",
+    "He takes online courses to learn new skills.",
+    "She volunteers at the animal shelter every month.",
+    "They travel to new countries every summer to explore."
   ],
   "interviewScenarios": [
     {
-      "topic": "飲食習慣",
-      "intro": "You have agreed to take part in a research study about your eating habits.",
-      "questions": [
-        "Q1: Can you tell me about a typical meal you enjoy?",
-        "Q2: What challenges do you face when trying to eat healthily?",
-        "Q3: How important do you think it is to have balanced meals?",
-        "Q4: What advice would you give someone looking to improve their diet?"
-      ]
-    },
-    {
-      "topic": "旅行計劃",
+      "topic": "旅行計畫",
       "intro": "You have agreed to take part in a research study about travel planning.",
       "questions": [
-        "Q1: What was your last travel experience like?",
-        "Q2: What difficulties do you often encounter when organizing a trip?",
-        "Q3: In your opinion, what is the best way to plan a vacation?",
-        "Q4: What tips would you give to someone planning their first trip?"
+        "Q1: Can you share a memorable travel experience you had?",
+        "Q2: What challenges do you face when planning a trip?",
+        "Q3: How do you feel about traveling to new places?",
+        "Q4: What advice would you give someone planning their first trip?"
       ]
     },
     {
-      "topic": "運動習慣",
-      "intro": "You have agreed to take part in a research study about your exercise habits.",
+      "topic": "夢想職業",
+      "intro": "You have agreed to take part in a research study about dream careers.",
       "questions": [
-        "Q1: What types of exercise do you enjoy the most?",
-        "Q2: What obstacles have you faced in sticking to your workout routine?",
-        "Q3: How do you think exercise impacts your overall well-being?",
-        "Q4: What advice would you offer someone who wants to start exercising?"
+        "Q1: What is your dream job and why?",
+        "Q2: What obstacles might someone encounter in achieving this job?",
+        "Q3: Why do you think this job is appealing to many people?",
+        "Q4: What steps would you recommend for someone pursuing this career?"
+      ]
+    },
+    {
+      "topic": "家庭傳統",
+      "intro": "You have agreed to take part in a research study about family traditions.",
+      "questions": [
+        "Q1: Can you describe a family tradition you cherish?",
+        "Q2: What difficulties do families face in maintaining traditions?",
+        "Q3: How important do you think traditions are for family bonding?",
+        "Q4: What suggestions do you have for keeping traditions alive?"
       ]
     }
   ]
