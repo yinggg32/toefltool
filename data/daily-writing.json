@@ -3,145 +3,139 @@
     {
       "words": [
         "the",
-        "researcher",
-        "published",
+        "researchers",
+        "conducted",
         "an",
-        "important",
-        "paper",
-        "on",
-        "climate",
-        "change"
+        "experiment",
+        "to",
+        "test",
+        "the",
+        "hypothesis"
       ],
-      "display": "The researcher published an important paper on climate change."
+      "display": "The researchers conducted an experiment to test the hypothesis."
     },
     {
       "words": [
         "students",
-        "should",
-        "engage",
-        "with",
-        "different",
-        "cultural",
-        "perspectives",
-        "in",
+        "must",
+        "submit",
         "their",
-        "studies"
-      ],
-      "display": "Students should engage with different cultural perspectives in their studies."
-    },
-    {
-      "words": [
+        "assignments",
+        "by",
         "the",
-        "professor",
-        "encouraged",
-        "us",
-        "to",
-        "explore",
-        "new",
-        "ideas",
-        "in",
-        "our",
-        "projects"
+        "end",
+        "of",
+        "the",
+        "week"
       ],
-      "display": "The professor encouraged us to explore new ideas in our projects."
+      "display": "Students must submit their assignments by the end of the week."
     },
     {
       "words": [
         "the",
         "library",
         "will",
-        "host",
-        "a",
-        "workshop",
+        "close",
+        "early",
         "on",
-        "academic",
-        "writing",
-        "next",
-        "week"
-      ],
-      "display": "The library will host a workshop on academic writing next week."
-    },
-    {
-      "words": [
-        "many",
-        "students",
-        "find",
-        "it",
-        "challenging",
-        "to",
-        "balance",
-        "their",
-        "studies",
-        "and",
-        "work"
-      ],
-      "display": "Many students find it challenging to balance their studies and work."
-    },
-    {
-      "words": [
-        "discussing",
-        "global",
-        "issues",
-        "can",
-        "help",
-        "students",
-        "to",
-        "develop",
-        "critical",
-        "thinking",
-        "skills"
-      ],
-      "display": "Discussing global issues can help students to develop critical thinking skills."
-    },
-    {
-      "words": [
-        "the",
-        "club",
-        "is",
-        "planning",
+        "friday",
+        "for",
         "a",
-        "trip",
+        "special",
+        "event"
+      ],
+      "display": "The library will close early on Friday for a special event."
+    },
+    {
+      "words": [
+        "her",
+        "presentation",
+        "was",
+        "both",
+        "informative",
+        "and",
+        "engaging",
         "to",
         "the",
-        "national",
-        "museum",
+        "audience"
+      ],
+      "display": "Her presentation was both informative and engaging to the audience."
+    },
+    {
+      "words": [
+        "they",
+        "decided",
+        "to",
+        "collaborate",
+        "on",
+        "the",
+        "project",
+        "to",
+        "increase",
+        "efficiency"
+      ],
+      "display": "They decided to collaborate on the project to increase efficiency."
+    },
+    {
+      "words": [
+        "the",
+        "professor",
+        "encouraged",
+        "students",
+        "to",
+        "participate",
         "in",
         "the",
-        "spring"
+        "discussion",
+        "active"
       ],
-      "display": "The club is planning a trip to the national museum in the spring."
+      "display": "The professor encouraged students to participate in the discussion actively."
     },
     {
       "words": [
+        "after",
+        "reviewing",
         "the",
-        "university",
-        "is",
-        "implementing",
-        "new",
-        "policies",
-        "to",
-        "support",
-        "student",
-        "mental",
-        "health"
+        "data",
+        "the",
+        "team",
+        "revised",
+        "their",
+        "conclusions",
+        "significantly"
       ],
-      "display": "The university is implementing new policies to support student mental health."
+      "display": "After reviewing the data, the team revised their conclusions significantly."
+    },
+    {
+      "words": [
+        "students",
+        "should",
+        "explore",
+        "various",
+        "resources",
+        "to",
+        "enhance",
+        "their",
+        "learning",
+        "experience"
+      ],
+      "display": "Students should explore various resources to enhance their learning experience."
     }
   ],
   "emailPrompts": [
-    "寄信給教授，詢問關於課程作業的截止日期及要求。",
-    "寄信給宿舍管理處，請求修理破損的水管。",
-    "寄信給圖書館，詢問如何延長借書期限。",
-    "寄信給社團負責人，報名參加即將舉行的志願服務活動。",
-    "寄信給客服，反映最近購買的產品有瑕疵，請求退換。",
-    "寄信給學校行政部門，詢問轉學的程序及所需文件。"
+    "寄信給宿舍管理員，詢問有關重新分配房間的流程。",
+    "寄信給圖書館，反映書籍借閱系統的問題，請求協助。",
+    "寄信給社團顧問，表達對下一次社團活動的想法和建議。",
+    "寄信給教授，請教有關論文主題的建議和指導。",
+    "寄信給客服，反映最近購物的產品問題，請求退換。",
+    "寄信給同學，邀請他參加即將舉行的學術研討會。"
   ],
   "discussionPrompts": [
-    "教授問：「教育應該更注重實用技能還是理論知識？」",
-    "教授問：「社交媒體對青少年心理健康的影響是正面還是負面？」",
-    "教授問：「藝術在社會變革中扮演什麼角色？」",
-    "教授問：「移民對於本地經濟的影響是好還是壞？」",
-    "教授問：「環保與經濟發展之間的關係應該如何平衡？」",
-    "教授問：「如何評估科技對於人際關係的影響？」"
+    "教授問：「你認為社交媒體對青少年的影響是正面還是負面？」",
+    "教授問：「應該如何平衡工作與生活的壓力？」",
+    "教授問：「在當前的全球化背景下，文化保存的意義何在？」",
+    "教授問：「人工智慧在未來的職場中會取代人類工作嗎？」",
+    "教授問：「環保與經濟發展之間應如何找到平衡？」",
+    "教授問：「教育應該更注重技能還是知識的傳授？」"
   ]
 }

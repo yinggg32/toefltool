@@ -1,116 +1,116 @@
 {
   "chooseResponse": [
     {
-      "q": "Are you attending the workshop?",
+      "q": "Are you attending the workshop tomorrow?",
       "options": [
-        "Yes, I registered!",
-        "I don't know yet.",
-        "Maybe next time.",
+        "Yes, I am.",
+        "No, I'm busy.",
+        "Maybe, I'll decide later.",
         "I forgot about it."
       ],
       "correctIndex": 0
     }
   ],
   "conversation": {
-    "transcript": "Student: Hey, did you sign up for the sustainability workshop next week?\nAdvisor: Yes, I registered for it last month. Are you going?\nStudent: I'm thinking about it, but I'm not sure.\nAdvisor: You should definitely attend! It will be very informative.",
+    "transcript": "Student: Have you signed up for the environmental science workshop?\nAdvisor: Yes, I have. It seems really interesting! Have you?\nStudent: Not yet. What topics will they cover?\nAdvisor: They’ll discuss climate change and sustainable practices. I think it’s very relevant.",
     "questions": [
       {
         "q": "What is the main topic of the workshop?",
         "options": [
-          "Sustainability practices",
-          "Culinary skills",
-          "Digital marketing",
-          "Conflict resolution"
+          "Climate change",
+          "History",
+          "Mathematics",
+          "Art"
         ],
         "correctIndex": 0,
-        "explain": "這個研討會的主要主題是可持續性實踐。"
+        "explain": "工作坊的主要主題是氣候變遷。"
       },
       {
-        "q": "How did the advisor feel about the workshop?",
+        "q": "What did the student say about signing up?",
         "options": [
-          "Uncertain",
-          "Excited",
-          "Indifferent",
-          "Negative"
+          "They already signed up.",
+          "They haven't signed up yet.",
+          "They are unsure.",
+          "They forgot to check."
         ],
         "correctIndex": 1,
-        "explain": "顧問對這個研討會感到興奮。"
+        "explain": "學生說他們尚未報名。"
       }
     ]
   },
   "announcement": {
-    "transcript": "Attention students: The annual Sustainability Week will commence next Monday. Activities will include workshops, guest lectures, and panel discussions. Please check the campus website for the full schedule and sign-up details. We encourage everyone to participate and learn how to contribute to a greener campus.",
+    "transcript": "Attention all students: The campus library will be closed for maintenance this Saturday. Please plan your study schedule accordingly. We apologize for any inconvenience this may cause. Thank you for your understanding.",
     "questions": [
       {
-        "q": "When does Sustainability Week start?",
+        "q": "When will the library be closed?",
         "options": [
-          "Next Monday",
-          "Next Friday",
-          "This Sunday",
-          "Tomorrow"
+          "This Saturday",
+          "Next Sunday",
+          "Tomorrow",
+          "Next week"
         ],
         "correctIndex": 0,
-        "explain": "可持續性周從下週一開始。"
+        "explain": "圖書館將在本週六關閉。"
       },
       {
-        "q": "What can students do during Sustainability Week?",
+        "q": "Why is the library closing?",
         "options": [
-          "Attend sports events",
-          "Join sustainability activities",
-          "Visit art galleries",
-          "Take exams"
+          "For a holiday",
+          "For maintenance",
+          "For an event",
+          "For cleaning"
         ],
         "correctIndex": 1,
-        "explain": "學生可以參加可持續性活動。"
+        "explain": "圖書館關閉是因為維護。"
       }
     ]
   },
   "talk": {
-    "transcript": "Today, we are going to discuss renewable energy sources, which are essential for sustainable development. Renewable energy comes from natural sources that can be replenished, like sunlight, wind, and water. Unlike fossil fuels, which contribute to environmental degradation, renewable energy reduces greenhouse gas emissions, making it a cleaner choice. Solar panels and wind turbines are common technologies used to harness these energy sources. As the world seeks to combat climate change, the transition to renewable energy is becoming increasingly important. Implementing these technologies not only helps the planet but also creates new job opportunities in the energy sector.",
+    "transcript": "Today, I want to discuss the concept of biodiversity. Biodiversity refers to the variety of life forms on Earth, including the different species of plants, animals, and microorganisms, as well as the ecosystems they form. High biodiversity is essential for ecosystem resilience, allowing ecosystems to recover from disturbances. Additionally, it provides numerous benefits such as food, medicine, and ecosystem services like pollination and water purification. Loss of biodiversity can lead to ecosystem collapse and reduced resources for humans and wildlife alike. Protecting biodiversity is crucial for maintaining the balance of our planet.",
     "questions": [
       {
-        "q": "What is the main benefit of renewable energy?",
+        "q": "What is biodiversity?",
         "options": [
-          "It is cheaper than fossil fuels",
-          "It reduces greenhouse gas emissions",
-          "It is more convenient",
-          "It requires less technology"
+          "Variety of languages",
+          "Variety of life forms",
+          "Variety of cultures",
+          "Variety of technologies"
         ],
         "correctIndex": 1,
-        "explain": "可再生能源的主要好處是減少溫室氣體排放。"
+        "explain": "生物多樣性是指生命形式的多樣性。"
       },
       {
-        "q": "What are two examples of renewable energy sources mentioned?",
+        "q": "Why is high biodiversity important?",
         "options": [
-          "Coal and oil",
-          "Natural gas and solar",
-          "Sunlight and wind",
-          "Wood and uranium"
-        ],
-        "correctIndex": 2,
-        "explain": "提到的兩種可再生能源來源是陽光和風。"
-      },
-      {
-        "q": "How do renewable energy technologies benefit the economy?",
-        "options": [
-          "They reduce government spending",
-          "They create job opportunities",
-          "They lower energy prices",
-          "They increase fossil fuel use"
+          "For aesthetic reasons",
+          "For ecosystem resilience",
+          "For technological advancement",
+          "For economic growth"
         ],
         "correctIndex": 1,
-        "explain": "可再生能源技術為經濟帶來好處，因為它們創造工作機會。"
+        "explain": "高生物多樣性對維持生態系統的韌性至關重要。"
       },
       {
-        "q": "What is a major challenge in transitioning to renewable energy?",
+        "q": "What can loss of biodiversity lead to?",
         "options": [
-          "High initial costs",
-          "Lack of interest",
-          "Limited technology",
-          "Excessive regulations"
+          "Peaceful coexistence",
+          "Ecosystem collapse",
+          "More resources",
+          "Technological innovation"
         ],
-        "correctIndex": 0,
-        "explain": "轉向可再生能源的一個主要挑戰是高昂的初始成本。"
+        "correctIndex": 1,
+        "explain": "生物多樣性的喪失可能導致生態系統崩潰。"
+      },
+      {
+        "q": "What is one benefit of biodiversity mentioned?",
+        "options": [
+          "Increased pollution",
+          "Food sources",
+          "More sports",
+          "Higher taxes"
+        ],
+        "correctIndex": 1,
+        "explain": "提到的生物多樣性的一個好處是食物來源。"
       }
     ]
   }

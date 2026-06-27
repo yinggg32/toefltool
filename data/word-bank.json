@@ -1694,5 +1694,277 @@
     "zh": "最近的",
     "ex": "Proxima Centauri is the closest known star to the Sun.",
     "cat": "📰 每日新詞：astronomy and space science"
+  },
+  {
+    "word": "epistemology",
+    "pos": "n.",
+    "root": "episteme (知識) + logos (言,理論)",
+    "zh": "知識論",
+    "ex": "Epistemology examines the nature and scope of knowledge, questioning what it means to know something.",
+    "cat": "📰 每日新詞：philosophy"
+  },
+  {
+    "word": "ontology",
+    "pos": "n.",
+    "root": "onto (存在) + logia (學)",
+    "zh": "本體論",
+    "ex": "Ontology is a fundamental branch of philosophy that studies the nature of being and existence.",
+    "cat": "📰 每日新詞：philosophy"
+  },
+  {
+    "word": "metaphysics",
+    "pos": "n.",
+    "root": "meta (超越) + physics (物理)",
+    "zh": "形而上學",
+    "ex": "Metaphysics seeks to understand the fundamental nature of reality beyond the physical world.",
+    "cat": "📰 每日新詞：philosophy"
+  },
+  {
+    "word": "axiology",
+    "pos": "n.",
+    "root": "axios (有價值的) + logia (學)",
+    "zh": "價值論",
+    "ex": "Axiology investigates the nature of values and value judgments in philosophical discourse.",
+    "cat": "📰 每日新詞：philosophy"
+  },
+  {
+    "word": "dialectic",
+    "pos": "n./adj.",
+    "root": "dialektikos (對話的)",
+    "zh": "辯證法",
+    "ex": "The dialectic method involves resolving contradictions through dialogue and critical discussion.",
+    "cat": "📰 每日新詞：philosophy"
+  },
+  {
+    "word": "ethics",
+    "pos": "n.",
+    "root": "ethos (習俗)",
+    "zh": "倫理學",
+    "ex": "Ethics is the study of moral principles that govern a person's behavior and decisions.",
+    "cat": "📰 每日新詞：philosophy"
+  },
+  {
+    "word": "utilitarianism",
+    "pos": "n.",
+    "root": "utilis (有用的) + arian (屬於)",
+    "zh": "功利主義",
+    "ex": "Utilitarianism posits that the best action is the one that maximizes overall happiness.",
+    "cat": "📰 每日新詞：philosophy"
+  },
+  {
+    "word": "existentialism",
+    "pos": "n.",
+    "root": "existentia (存在) + alism (主義)",
+    "zh": "存在主義",
+    "ex": "Existentialism explores themes of individual freedom, choice, and the meaning of existence.",
+    "cat": "📰 每日新詞：philosophy"
+  },
+  {
+    "word": "phenomenology",
+    "pos": "n.",
+    "root": "phenomenon (現象) + logia (學)",
+    "zh": "現象學",
+    "ex": "Phenomenology studies structures of consciousness as experienced from the first-person point of view.",
+    "cat": "📰 每日新詞：philosophy"
+  },
+  {
+    "word": "rationalism",
+    "pos": "n.",
+    "root": "ratio (理性) + alism (主義)",
+    "zh": "理性主義",
+    "ex": "Rationalism asserts that reason is the primary source of knowledge and truth.",
+    "cat": "📰 每日新詞：philosophy"
+  },
+  {
+    "word": "empiricism",
+    "pos": "n.",
+    "root": "empiria (經驗) + cism (主義)",
+    "zh": "經驗主義",
+    "ex": "Empiricism emphasizes the role of sensory experience in the formation of ideas.",
+    "cat": "📰 每日新詞：philosophy"
+  },
+  {
+    "word": "skepticism",
+    "pos": "n.",
+    "root": "skeptikos (懷疑的)",
+    "zh": "懷疑論",
+    "ex": "Skepticism challenges the possibility of certainty in knowledge and belief.",
+    "cat": "📰 每日新詞：philosophy"
+  },
+  {
+    "word": "positivism",
+    "pos": "n.",
+    "root": "positus (放置,確立) + ism (主義)",
+    "zh": "實證主義",
+    "ex": "Positivism asserts that knowledge should be based on observable phenomena and empirical evidence.",
+    "cat": "📰 每日新詞：philosophy"
+  },
+  {
+    "word": "solipsism",
+    "pos": "n.",
+    "root": "solus (唯一) + ipse (自我)",
+    "zh": "唯我論",
+    "ex": "Solipsism is the philosophical idea that only one's own mind is sure to exist.",
+    "cat": "📰 每日新詞：philosophy"
+  },
+  {
+    "word": "dualism",
+    "pos": "n.",
+    "root": "duo (二) + ism (主義)",
+    "zh": "二元論",
+    "ex": "Dualism posits that there are two fundamental kinds of substance: mental and physical.",
+    "cat": "📰 每日新詞：philosophy"
+  },
+  {
+    "word": "monism",
+    "pos": "n.",
+    "root": "monos (單一) + ism (主義)",
+    "zh": "一元論",
+    "ex": "Monism is the view that a variety of existing things can be explained in terms of a single reality.",
+    "cat": "📰 每日新詞：philosophy"
+  },
+  {
+    "word": "pragmatism",
+    "pos": "n.",
+    "root": "pragmatikos (實用的)",
+    "zh": "實用主義",
+    "ex": "Pragmatism evaluates theories or beliefs in terms of the success of their practical application.",
+    "cat": "📰 每日新詞：philosophy"
+  },
+  {
+    "word": "theism",
+    "pos": "n.",
+    "root": "theos (神) + ism (主義)",
+    "zh": "有神論",
+    "ex": "Theism is the belief in the existence of a god or gods, particularly a creator who intervenes in the universe.",
+    "cat": "📰 每日新詞：philosophy"
+  },
+  {
+    "word": "nihilism",
+    "pos": "n.",
+    "root": "nihil (無) + ism (主義)",
+    "zh": "虛無主義",
+    "ex": "Nihilism is the philosophical viewpoint that suggests the absence of meaning or value in life.",
+    "cat": "📰 每日新詞：philosophy"
+  },
+  {
+    "word": "cognitivism",
+    "pos": "n.",
+    "root": "cognitio (知識) + ism (主義)",
+    "zh": "認知主義",
+    "ex": "Cognitivism focuses on the role of mental processes in understanding human behavior.",
+    "cat": "📰 每日新詞：philosophy"
+  },
+  {
+    "word": "determinism",
+    "pos": "n.",
+    "root": "determinare (確定) + ism (主義)",
+    "zh": "決定論",
+    "ex": "Determinism is the philosophical belief that all events are determined completely by previously existing causes.",
+    "cat": "📰 每日新詞：philosophy"
+  },
+  {
+    "word": "liberalism",
+    "pos": "n.",
+    "root": "liber (自由) + ism (主義)",
+    "zh": "自由主義",
+    "ex": "Liberalism advocates for individual rights and freedoms, often emphasizing social justice.",
+    "cat": "📰 每日新詞：philosophy"
+  },
+  {
+    "word": "tolerance",
+    "pos": "n.",
+    "root": "tolerare (忍受)",
+    "zh": "寬容",
+    "ex": "Tolerance is a key concept in philosophy, promoting acceptance of differing beliefs and practices.",
+    "cat": "📰 每日新詞：philosophy"
+  },
+  {
+    "word": "altruism",
+    "pos": "n.",
+    "root": "alter (他人) + ism (主義)",
+    "zh": "利他主義",
+    "ex": "Altruism emphasizes selfless concern for the well-being of others.",
+    "cat": "📰 每日新詞：philosophy"
+  },
+  {
+    "word": "hermeneutics",
+    "pos": "n.",
+    "root": "hermeneuein (解釋)",
+    "zh": "詮釋學",
+    "ex": "Hermeneutics is the study of interpretation, especially of texts and symbolic expressions.",
+    "cat": "📰 每日新詞：philosophy"
+  },
+  {
+    "word": "axiom",
+    "pos": "n.",
+    "root": "axioma (自明之理)",
+    "zh": "公理",
+    "ex": "An axiom is a statement or proposition that is regarded as being self-evidently true.",
+    "cat": "📰 每日新詞：philosophy"
+  },
+  {
+    "word": "consciousness",
+    "pos": "n.",
+    "root": "con (共同) + scire (知道)",
+    "zh": "意識",
+    "ex": "Consciousness is a central topic in philosophy, concerning the nature of awareness and perception.",
+    "cat": "📰 每日新詞：philosophy"
+  },
+  {
+    "word": "dogmatism",
+    "pos": "n.",
+    "root": "dogma (信條) + ism (主義)",
+    "zh": "教條主義",
+    "ex": "Dogmatism is the tendency to lay down principles as undeniably true without consideration of evidence.",
+    "cat": "📰 每日新詞：philosophy"
+  },
+  {
+    "word": "introspection",
+    "pos": "n.",
+    "root": "intro (內部) + specere (看)",
+    "zh": "內省",
+    "ex": "Introspection is the examination of one's own conscious thoughts and feelings.",
+    "cat": "📰 每日新詞：philosophy"
+  },
+  {
+    "word": "reductionism",
+    "pos": "n.",
+    "root": "reducere (縮小) + ism (主義)",
+    "zh": "還原論",
+    "ex": "Reductionism is the approach of reducing complex phenomena to simpler components.",
+    "cat": "📰 每日新詞：philosophy"
+  },
+  {
+    "word": "indeterminacy",
+    "pos": "n.",
+    "root": "in (不) + determinare (確定)",
+    "zh": "不確定性",
+    "ex": "Indeterminacy suggests that certain events or outcomes cannot be precisely predicted.",
+    "cat": "📰 每日新詞：philosophy"
+  },
+  {
+    "word": "normative",
+    "pos": "adj.",
+    "root": "norma (標準)",
+    "zh": "規範的",
+    "ex": "Normative ethics deals with the principles that govern what is right and wrong.",
+    "cat": "📰 每日新詞：philosophy"
+  },
+  {
+    "word": "paradox",
+    "pos": "n.",
+    "root": "para (相對) + doxa (觀點)",
+    "zh": "悖論",
+    "ex": "A paradox is a statement that contradicts itself but may still have some truth.",
+    "cat": "📰 每日新詞：philosophy"
+  },
+  {
+    "word": "transcendence",
+    "pos": "n.",
+    "root": "trans (超越) + scandere (攀登)",
+    "zh": "超越",
+    "ex": "Transcendence refers to the existence or experience beyond the normal or physical level.",
+    "cat": "📰 每日新詞：philosophy"
   }
 ]

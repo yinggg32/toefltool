@@ -1,45 +1,45 @@
 {
   "shadowSentences": [
-    "She enjoys reading books in her free time.",
-    "I often go for walks in the park nearby.",
-    "He plays soccer every Saturday with friends.",
-    "They love trying new restaurants in the city.",
-    "My sister paints beautiful landscapes on weekends.",
-    "We usually watch movies together on Friday nights.",
-    "I like to cook different cuisines for dinner parties.",
-    "He takes online courses to learn new skills.",
-    "She volunteers at the animal shelter every month.",
-    "They travel to new countries every summer to explore."
+    "I like to read books.",
+    "The sun is shining brightly today.",
+    "She enjoys cooking new recipes.",
+    "We went for a long walk yesterday.",
+    "He often listens to music while studying.",
+    "They plan to travel to Europe next summer.",
+    "I find it relaxing to paint in my free time.",
+    "The team worked hard to finish the project on time.",
+    "After dinner, we usually watch a movie together.",
+    "Learning a new language can be challenging but rewarding."
   ],
   "interviewScenarios": [
     {
-      "topic": "旅行計畫",
-      "intro": "You have agreed to take part in a research study about travel planning.",
+      "topic": "運動習慣",
+      "intro": "You have agreed to take part in a research study about exercise habits.",
       "questions": [
-        "Q1: Can you share a memorable travel experience you had?",
-        "Q2: What challenges do you face when planning a trip?",
-        "Q3: How do you feel about traveling to new places?",
-        "Q4: What advice would you give someone planning their first trip?"
+        "Q1: Can you share your personal experience with exercise?",
+        "Q2: What challenges do you face when trying to stay active?",
+        "Q3: What is your opinion on the importance of regular exercise?",
+        "Q4: What advice would you give someone looking to start an exercise routine?"
       ]
     },
     {
-      "topic": "夢想職業",
-      "intro": "You have agreed to take part in a research study about dream careers.",
+      "topic": "飲食偏好",
+      "intro": "You have agreed to take part in a research study about dietary preferences.",
       "questions": [
-        "Q1: What is your dream job and why?",
-        "Q2: What obstacles might someone encounter in achieving this job?",
-        "Q3: Why do you think this job is appealing to many people?",
-        "Q4: What steps would you recommend for someone pursuing this career?"
+        "Q1: What are your favorite types of food?",
+        "Q2: Have you ever faced any challenges with your diet?",
+        "Q3: How do you think diet impacts overall health?",
+        "Q4: What recommendations would you give someone trying to eat healthier?"
       ]
     },
     {
-      "topic": "家庭傳統",
-      "intro": "You have agreed to take part in a research study about family traditions.",
+      "topic": "環保意識",
+      "intro": "You have agreed to participate in a study on environmental awareness.",
       "questions": [
-        "Q1: Can you describe a family tradition you cherish?",
-        "Q2: What difficulties do families face in maintaining traditions?",
-        "Q3: How important do you think traditions are for family bonding?",
-        "Q4: What suggestions do you have for keeping traditions alive?"
+        "Q1: Can you describe your personal views on environmental issues?",
+        "Q2: What challenges do people face in being environmentally friendly?",
+        "Q3: In your opinion, why is environmental awareness important?",
+        "Q4: What steps can individuals take to help the environment?"
       ]
     }
   ]
