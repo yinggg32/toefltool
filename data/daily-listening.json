@@ -1,116 +1,116 @@
 {
   "chooseResponse": [
     {
-      "q": "Are you attending the workshop tomorrow?",
+      "q": "What time is the meeting?",
       "options": [
-        "Yes, I am.",
-        "No, I'm busy.",
-        "Maybe, I'll decide later.",
-        "I forgot about it."
+        "At 3 PM.",
+        "I don't know.",
+        "It was cancelled.",
+        "I'll check my email."
       ],
       "correctIndex": 0
     }
   ],
   "conversation": {
-    "transcript": "Student: Have you signed up for the environmental science workshop?\nAdvisor: Yes, I have. It seems really interesting! Have you?\nStudent: Not yet. What topics will they cover?\nAdvisor: They’ll discuss climate change and sustainable practices. I think it’s very relevant.",
+    "transcript": "Student: Hey, have you heard about the new library hours?\nLibrarian: Yes, they extended them on weekends!\nStudent: That’s great! What time do they close now?\nLibrarian: They’re open until 10 PM on Saturdays and Sundays.",
     "questions": [
       {
-        "q": "What is the main topic of the workshop?",
+        "q": "What change was made to the library hours?",
         "options": [
-          "Climate change",
-          "History",
-          "Mathematics",
-          "Art"
+          "Extended weekend hours.",
+          "Shortened weekday hours.",
+          "Closed on Sundays.",
+          "Open earlier on weekdays."
         ],
         "correctIndex": 0,
-        "explain": "工作坊的主要主題是氣候變遷。"
+        "explain": "圖書館延長了周末的開放時間。"
       },
       {
-        "q": "What did the student say about signing up?",
+        "q": "When do the library hours end on weekends?",
         "options": [
-          "They already signed up.",
-          "They haven't signed up yet.",
-          "They are unsure.",
-          "They forgot to check."
+          "8 PM",
+          "9 PM",
+          "10 PM",
+          "11 PM"
         ],
-        "correctIndex": 1,
-        "explain": "學生說他們尚未報名。"
+        "correctIndex": 2,
+        "explain": "圖書館在周末的關閉時間是晚上10點。"
       }
     ]
   },
   "announcement": {
-    "transcript": "Attention all students: The campus library will be closed for maintenance this Saturday. Please plan your study schedule accordingly. We apologize for any inconvenience this may cause. Thank you for your understanding.",
+    "transcript": "Attention students: The annual campus festival will take place this Friday from 4 PM to 11 PM on the main quad. There will be food trucks, live music, and games. Don’t forget to bring your student ID for discounts!",
     "questions": [
       {
-        "q": "When will the library be closed?",
+        "q": "What event is happening this Friday?",
         "options": [
-          "This Saturday",
-          "Next Sunday",
-          "Tomorrow",
-          "Next week"
-        ],
-        "correctIndex": 0,
-        "explain": "圖書館將在本週六關閉。"
-      },
-      {
-        "q": "Why is the library closing?",
-        "options": [
-          "For a holiday",
-          "For maintenance",
-          "For an event",
-          "For cleaning"
+          "A lecture series.",
+          "The campus festival.",
+          "A sports competition.",
+          "An art exhibition."
         ],
         "correctIndex": 1,
-        "explain": "圖書館關閉是因為維護。"
+        "explain": "本週五將舉行校園嘉年華。"
+      },
+      {
+        "q": "What should students bring to the event?",
+        "options": [
+          "A blanket.",
+          "Their student ID.",
+          "A camera.",
+          "Some snacks."
+        ],
+        "correctIndex": 1,
+        "explain": "學生應該攜帶學生證以獲得折扣。"
       }
     ]
   },
   "talk": {
-    "transcript": "Today, I want to discuss the concept of biodiversity. Biodiversity refers to the variety of life forms on Earth, including the different species of plants, animals, and microorganisms, as well as the ecosystems they form. High biodiversity is essential for ecosystem resilience, allowing ecosystems to recover from disturbances. Additionally, it provides numerous benefits such as food, medicine, and ecosystem services like pollination and water purification. Loss of biodiversity can lead to ecosystem collapse and reduced resources for humans and wildlife alike. Protecting biodiversity is crucial for maintaining the balance of our planet.",
+    "transcript": "Today, I will explain the concept of sustainable development. It refers to meeting the needs of the present without compromising the ability of future generations to meet their own needs. This involves balancing economic growth, environmental care, and social well-being. Sustainable development encourages us to use resources efficiently, reduce waste, and promote renewable energy sources. It's a holistic approach that aims to create a better quality of life for all while protecting our planet for future generations.",
     "questions": [
       {
-        "q": "What is biodiversity?",
+        "q": "What is the main goal of sustainable development?",
         "options": [
-          "Variety of languages",
-          "Variety of life forms",
-          "Variety of cultures",
-          "Variety of technologies"
+          "To increase economic growth.",
+          "To protect wildlife.",
+          "To meet present and future needs.",
+          "To promote urbanization."
         ],
-        "correctIndex": 1,
-        "explain": "生物多樣性是指生命形式的多樣性。"
+        "correctIndex": 2,
+        "explain": "可持續發展的主要目標是滿足當前和未來的需求。"
       },
       {
-        "q": "Why is high biodiversity important?",
+        "q": "What does sustainable development encourage?",
         "options": [
-          "For aesthetic reasons",
-          "For ecosystem resilience",
-          "For technological advancement",
-          "For economic growth"
+          "Wasting resources.",
+          "Using fossil fuels.",
+          "Balancing economic growth and care for the environment.",
+          "Ignoring social issues."
         ],
-        "correctIndex": 1,
-        "explain": "高生物多樣性對維持生態系統的韌性至關重要。"
+        "correctIndex": 2,
+        "explain": "可持續發展鼓勵平衡經濟增長和對環境的關注。"
       },
       {
-        "q": "What can loss of biodiversity lead to?",
+        "q": "What type of energy sources does sustainable development promote?",
         "options": [
-          "Peaceful coexistence",
-          "Ecosystem collapse",
-          "More resources",
-          "Technological innovation"
+          "Non-renewable energy.",
+          "Fossil fuels.",
+          "Renewable energy sources.",
+          "Nuclear energy."
         ],
-        "correctIndex": 1,
-        "explain": "生物多樣性的喪失可能導致生態系統崩潰。"
+        "correctIndex": 2,
+        "explain": "可持續發展提倡使用可再生能源。"
       },
       {
-        "q": "What is one benefit of biodiversity mentioned?",
+        "q": "Why is sustainable development considered holistic?",
         "options": [
-          "Increased pollution",
-          "Food sources",
-          "More sports",
-          "Higher taxes"
+          "It focuses on economic growth only.",
+          "It integrates various aspects of society.",
+          "It ignores environmental issues.",
+          "It is only about reducing costs."
         ],
         "correctIndex": 1,
-        "explain": "提到的生物多樣性的一個好處是食物來源。"
+        "explain": "可持續發展被認為是全面的，因為它整合了社會的各個方面。"
       }
     ]
   }

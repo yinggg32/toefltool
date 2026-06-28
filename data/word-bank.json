@@ -1966,5 +1966,293 @@
     "zh": "超越",
     "ex": "Transcendence refers to the existence or experience beyond the normal or physical level.",
     "cat": "📰 每日新詞：philosophy"
+  },
+  {
+    "word": "epidemiology",
+    "pos": "n.",
+    "root": "epidemic-流行病+ology-學科",
+    "zh": "流行病學",
+    "ex": "Epidemiology plays a crucial role in understanding the spread of infectious diseases.",
+    "cat": "📰 每日新詞：public health"
+  },
+  {
+    "word": "prevalence",
+    "pos": "n.",
+    "root": "prevalent-普遍的+ence-狀態",
+    "zh": "流行率",
+    "ex": "The prevalence of obesity has increased significantly over the past two decades.",
+    "cat": "📰 每日新詞：public health"
+  },
+  {
+    "word": "intervention",
+    "pos": "n.",
+    "root": "intervene-介入+tion-行為",
+    "zh": "介入",
+    "ex": "The government implemented a new health intervention to reduce smoking rates.",
+    "cat": "📰 每日新詞：public health"
+  },
+  {
+    "word": "vaccination",
+    "pos": "n.",
+    "root": "vaccine-疫苗+ation-行為",
+    "zh": "疫苗接種",
+    "ex": "Vaccination is essential for preventing the spread of contagious diseases.",
+    "cat": "📰 每日新詞：public health"
+  },
+  {
+    "word": "transmission",
+    "pos": "n.",
+    "root": "transmit-傳播+tion-行為",
+    "zh": "傳播",
+    "ex": "Understanding the modes of transmission is vital in controlling an outbreak.",
+    "cat": "📰 每日新詞：public health"
+  },
+  {
+    "word": "chronic",
+    "pos": "adj.",
+    "root": "—",
+    "zh": "慢性的",
+    "ex": "Chronic diseases, such as diabetes, require ongoing management and treatment.",
+    "cat": "📰 每日新詞：public health"
+  },
+  {
+    "word": "immunization",
+    "pos": "n.",
+    "root": "immune-免疫的+ization-過程",
+    "zh": "免疫接種",
+    "ex": "Immunization programs are critical in protecting public health.",
+    "cat": "📰 每日新詞：public health"
+  },
+  {
+    "word": "outbreak",
+    "pos": "n.",
+    "root": "out-外部+break-爆發",
+    "zh": "爆發",
+    "ex": "An outbreak of measles was reported in the community.",
+    "cat": "📰 每日新詞：public health"
+  },
+  {
+    "word": "surveillance",
+    "pos": "n.",
+    "root": "surveil-監視+lance-行為",
+    "zh": "監測",
+    "ex": "Disease surveillance is necessary to identify and respond to public health threats.",
+    "cat": "📰 每日新詞：public health"
+  },
+  {
+    "word": "risk factor",
+    "pos": "n.",
+    "root": "risk-風險+factor-因素",
+    "zh": "風險因素",
+    "ex": "Smoking is a major risk factor for lung cancer.",
+    "cat": "📰 每日新詞：public health"
+  },
+  {
+    "word": "healthcare",
+    "pos": "n.",
+    "root": "health-健康+care-照顧",
+    "zh": "醫療保健",
+    "ex": "Access to quality healthcare is fundamental for a healthy population.",
+    "cat": "📰 每日新詞：public health"
+  },
+  {
+    "word": "prevention",
+    "pos": "n.",
+    "root": "prevent-預防+ion-行為",
+    "zh": "預防",
+    "ex": "Prevention strategies are more effective than treatment approaches in public health.",
+    "cat": "📰 每日新詞：public health"
+  },
+  {
+    "word": "policy",
+    "pos": "n.",
+    "root": "—",
+    "zh": "政策",
+    "ex": "Public health policy must adapt to emerging health challenges.",
+    "cat": "📰 每日新詞：public health"
+  },
+  {
+    "word": "hygiene",
+    "pos": "n.",
+    "root": "hygienic-衛生的+e-名詞後綴",
+    "zh": "衛生",
+    "ex": "Proper hygiene is essential in preventing the spread of infections.",
+    "cat": "📰 每日新詞：public health"
+  },
+  {
+    "word": "mortality",
+    "pos": "n.",
+    "root": "mortal-致命的+ity-狀態",
+    "zh": "死亡率",
+    "ex": "The mortality rate from heart disease remains a significant public health concern.",
+    "cat": "📰 每日新詞：public health"
+  },
+  {
+    "word": "accessibility",
+    "pos": "n.",
+    "root": "accessible-可達到的+ity-狀態",
+    "zh": "可及性",
+    "ex": "Improving the accessibility of healthcare services is critical for underserved populations.",
+    "cat": "📰 每日新詞：public health"
+  },
+  {
+    "word": "disparity",
+    "pos": "n.",
+    "root": "dispar-不相同+ity-狀態",
+    "zh": "差距",
+    "ex": "Health disparities among different demographic groups must be addressed.",
+    "cat": "📰 每日新詞：public health"
+  },
+  {
+    "word": "nutrition",
+    "pos": "n.",
+    "root": "nutrient-營養素+ion-過程",
+    "zh": "營養",
+    "ex": "Proper nutrition is fundamental for maintaining overall health.",
+    "cat": "📰 每日新詞：public health"
+  },
+  {
+    "word": "behavioral",
+    "pos": "adj.",
+    "root": "behavior-行為+al-形容詞後綴",
+    "zh": "行為的",
+    "ex": "Behavioral interventions can significantly affect health outcomes.",
+    "cat": "📰 每日新詞：public health"
+  },
+  {
+    "word": "treatment",
+    "pos": "n.",
+    "root": "treat-對待+ment-行為",
+    "zh": "治療",
+    "ex": "Effective treatment options are available for many chronic illnesses.",
+    "cat": "📰 每日新詞：public health"
+  },
+  {
+    "word": "outcome",
+    "pos": "n.",
+    "root": "out-外部+come-來",
+    "zh": "結果",
+    "ex": "The outcome of the study highlighted the importance of early intervention.",
+    "cat": "📰 每日新詞：public health"
+  },
+  {
+    "word": "sustainability",
+    "pos": "n.",
+    "root": "sustain-維持+ability-能力",
+    "zh": "可持續性",
+    "ex": "Sustainability in public health initiatives ensures long-term benefits.",
+    "cat": "📰 每日新詞：public health"
+  },
+  {
+    "word": "advocacy",
+    "pos": "n.",
+    "root": "advocate-倡導者+y-名詞後綴",
+    "zh": "倡導",
+    "ex": "Public health advocacy is vital for influencing policy changes.",
+    "cat": "📰 每日新詞：public health"
+  },
+  {
+    "word": "infection",
+    "pos": "n.",
+    "root": "infect-感染+ion-過程",
+    "zh": "感染",
+    "ex": "Control of infection is crucial in healthcare settings.",
+    "cat": "📰 每日新詞：public health"
+  },
+  {
+    "word": "tobacco",
+    "pos": "n.",
+    "root": "—",
+    "zh": "煙草",
+    "ex": "Tobacco use remains a leading cause of preventable death.",
+    "cat": "📰 每日新詞：public health"
+  },
+  {
+    "word": "environmental",
+    "pos": "adj.",
+    "root": "environment-環境+al-形容詞後綴",
+    "zh": "環境的",
+    "ex": "Environmental factors significantly influence public health outcomes.",
+    "cat": "📰 每日新詞：public health"
+  },
+  {
+    "word": "screening",
+    "pos": "n.",
+    "root": "screen-篩選+ing-動名詞",
+    "zh": "篩檢",
+    "ex": "Screening for diseases can lead to early diagnosis and better outcomes.",
+    "cat": "📰 每日新詞：public health"
+  },
+  {
+    "word": "alliance",
+    "pos": "n.",
+    "root": "ally-聯盟+ance-狀態",
+    "zh": "聯盟",
+    "ex": "Public health alliances can enhance community health initiatives.",
+    "cat": "📰 每日新詞：public health"
+  },
+  {
+    "word": "collaboration",
+    "pos": "n.",
+    "root": "collaborate-合作+ion-行為",
+    "zh": "合作",
+    "ex": "Collaboration among various stakeholders is vital for effective public health responses.",
+    "cat": "📰 每日新詞：public health"
+  },
+  {
+    "word": "outcomes",
+    "pos": "n.",
+    "root": "out-外部+come-來",
+    "zh": "結果",
+    "ex": "Positive health outcomes depend on a range of factors including access to care.",
+    "cat": "📰 每日新詞：public health"
+  },
+  {
+    "word": "disease",
+    "pos": "n.",
+    "root": "—",
+    "zh": "疾病",
+    "ex": "Preventing disease transmission is a primary goal of public health.",
+    "cat": "📰 每日新詞：public health"
+  },
+  {
+    "word": "awareness",
+    "pos": "n.",
+    "root": "aware-意識到+ness-狀態",
+    "zh": "意識",
+    "ex": "Raising awareness about health issues is crucial for community health.",
+    "cat": "📰 每日新詞：public health"
+  },
+  {
+    "word": "interdisciplinary",
+    "pos": "adj.",
+    "root": "inter-互相+disciplinary-學科的",
+    "zh": "跨學科的",
+    "ex": "An interdisciplinary approach is necessary to tackle complex public health challenges.",
+    "cat": "📰 每日新詞：public health"
+  },
+  {
+    "word": "psychosocial",
+    "pos": "adj.",
+    "root": "psycho-心理的+social-社會的",
+    "zh": "心理社會的",
+    "ex": "Psychosocial factors can significantly impact health behaviors and outcomes.",
+    "cat": "📰 每日新詞：public health"
+  },
+  {
+    "word": "equity",
+    "pos": "n.",
+    "root": "equal-平等的+ity-狀態",
+    "zh": "公平",
+    "ex": "Health equity is a fundamental principle in public health.",
+    "cat": "📰 每日新詞：public health"
+  },
+  {
+    "word": "consequences",
+    "pos": "n.",
+    "root": "consequence-結果+es-名詞複數",
+    "zh": "後果",
+    "ex": "The consequences of neglecting public health can be severe.",
+    "cat": "📰 每日新詞：public health"
   }
 ]

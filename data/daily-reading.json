@@ -2,125 +2,101 @@
   "cloze": {
     "segments": [
       {
-        "text": "The process of photosynthesis is essential for plant "
+        "text": "The human brain is an incredibly complex organ that is responsible for controlling all bodily functions. It consists of billions of neurons that communicate with each other through electrical and chemical signals. The br"
       },
       {
-        "blank": "gro"
+        "blank": "ain"
       },
       {
-        "text": "th and energy production. It involves the conversion of "
+        "text": " is divided into various regions, each responsible for different functions. For instance, the frontal lobe is associated with decision-making and problem-solving, while the occipital lobe is primarily involved in vi"
       },
       {
-        "blank": "sun"
+        "blank": "sion"
       },
       {
-        "text": "light into chemical energy. During photosynthesis, "
+        "text": ". Additionally, the brain undergoes changes throughout a person's life, influenced by experiences and learning. Neuroplasticity allows for the brain to adapt, forming new connections and pathways as needed. This dy"
       },
       {
-        "blank": "chlor"
+        "blank": "namic"
       },
       {
-        "text": "ophyll in plants absorbs sunlight and uses it to "
-      },
-      {
-        "blank": "synthesize"
-      },
-      {
-        "text": "glucose from carbon dioxide and water. This remarkable "
-      },
-      {
-        "blank": "bi"
-      },
-      {
-        "text": "ochemical pathway not only fuels plant life but also "
-      },
-      {
-        "blank": "provi"
-      },
-      {
-        "text": "des oxygen, which is crucial for the survival of most "
-      },
-      {
-        "blank": "org"
-      },
-      {
-        "text": "anisms on Earth."
+        "text": " nature of the brain highlights its remarkable ability to learn and recover from injuries, emphasizing the importance of mental stimulation and healthy living for brain health."
       }
     ]
   },
   "academic": {
-    "passage": "Photosynthesis is a fundamental biological process that enables green plants, algae, and some bacteria to convert light energy into chemical energy. It occurs mainly in the chloroplasts of plant cells, where chlorophyll captures sunlight. The overall reaction involves carbon dioxide and water, producing glucose and oxygen as byproducts. This process not only sustains the plants themselves but also supports life on Earth by supplying oxygen and serving as the base of the food chain.",
+    "passage": "The human brain is an incredibly complex organ that controls all bodily functions. It consists of billions of neurons that communicate through electrical and chemical signals. The brain is divided into regions, each responsible for different functions. The frontal lobe is associated with decision-making, while the occipital lobe is involved in vision. The brain undergoes changes throughout a person's life, influenced by experiences and learning. Neuroplasticity allows the brain to adapt, forming new connections as needed. This dynamic nature underscores the importance of mental stimulation for brain health.",
     "questions": [
       {
-        "q": "What is the main idea of the passage?",
+        "q": "What is the main function of the human brain?",
         "options": [
-          "Photosynthesis is vital for plant life and the ecosystem.",
-          "Chlorophyll plays a significant role in photosynthesis.",
-          "Oxygen is a byproduct of photosynthesis.",
-          "Plants require sunlight for growth."
+          "Controlling bodily functions",
+          "Producing hormones",
+          "Facilitating digestion",
+          "Regulating temperature"
         ],
         "correctIndex": 0,
-        "explain": "這段文字的主旨在於強調光合作用對植物和生態系統的重要性。"
+        "explain": "人的大腦主要功能是控制身體的所有功能。"
       },
       {
-        "q": "Which organisms perform photosynthesis?",
+        "q": "Which lobe is responsible for decision-making?",
         "options": [
-          "Only green plants",
-          "Bacteria and fungi",
-          "Some bacteria, algae, and green plants",
-          "Most animals"
-        ],
-        "correctIndex": 2,
-        "explain": "只有某些細菌、藻類和綠色植物能進行光合作用。"
-      },
-      {
-        "q": "What can be inferred about the role of photosynthesis?",
-        "options": [
-          "It is only important for plants.",
-          "It contributes to the oxygen supply on Earth.",
-          "It is a recent discovery in biology.",
-          "It has no impact on the food chain."
+          "Occipital lobe",
+          "Frontal lobe",
+          "Temporal lobe",
+          "Parietal lobe"
         ],
         "correctIndex": 1,
-        "explain": "可以推測光合作用對地球的氧氣供應起著重要作用。"
+        "explain": "額葉負責決策和問題解決。"
       },
       {
-        "q": "What does the term 'chloroplasts' refer to?",
+        "q": "What can be inferred about neuroplasticity?",
         "options": [
-          "Types of plants",
-          "Cellular structures for photosynthesis",
-          "A type of chlorophyll",
-          "The process of energy conversion"
+          "It is fixed and unchangeable",
+          "It promotes learning",
+          "It decreases with age",
+          "It is only beneficial for children"
         ],
         "correctIndex": 1,
-        "explain": "'葉綠體'是指進行光合作用的細胞結構。"
+        "explain": "神經可塑性促進學習，顯示大腦能隨著經驗改變。"
+      },
+      {
+        "q": "What does the term 'plasticity' imply in the context of the brain?",
+        "options": [
+          "Rigidity",
+          "Flexibility",
+          "Stability",
+          "Fragility"
+        ],
+        "correctIndex": 1,
+        "explain": "在大腦背景下，'可塑性'代表靈活性，即大腦能夠適應和改變。"
       }
     ]
   },
   "daily": {
-    "passage": "Attention students! The university library will be undergoing renovations next week. Please be aware that certain sections may be temporarily closed. We appreciate your understanding and encourage you to use the online resources during this time.",
+    "passage": "Attention all students! There will be a campus-wide event on Friday at 5 PM in the main hall. Join us for a night of fun activities, food, and a chance to meet new friends. Don't miss out!",
     "questions": [
       {
-        "q": "When will the renovations take place?",
+        "q": "What time does the event start on Friday?",
         "options": [
-          "Next month",
-          "Next week",
-          "This week",
-          "Over the weekend"
+          "3 PM",
+          "5 PM",
+          "7 PM",
+          "6 PM"
         ],
         "correctIndex": 1,
-        "explain": "公告中提到翻修工作將於下週進行。"
+        "explain": "活動在星期五的下午5點開始。"
       },
       {
-        "q": "What should students do during the renovations?",
+        "q": "What can students expect at the event?",
         "options": [
-          "Avoid the library entirely",
-          "Use online resources",
-          "Go to other campuses",
-          "Study at home"
+          "Only food",
+          "Only activities",
+          "Activities and food",
+          "Exclusively games"
         ],
-        "correctIndex": 1,
-        "explain": "公告建議學生在翻修期間使用線上資源。"
+        "correctIndex": 2,
+        "explain": "學生可以期待活動和食物，這是活動的主要內容。"
       }
     ]
   }

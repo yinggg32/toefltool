@@ -3,139 +3,127 @@
     {
       "words": [
         "the",
-        "researchers",
-        "conducted",
-        "an",
-        "experiment",
-        "to",
-        "test",
-        "the",
-        "hypothesis"
+        "students",
+        "completed",
+        "their",
+        "assignments",
+        "on",
+        "time",
+        "yesterday"
       ],
-      "display": "The researchers conducted an experiment to test the hypothesis."
+      "display": "The students completed their assignments on time yesterday."
     },
     {
       "words": [
-        "students",
-        "must",
-        "submit",
-        "their",
-        "assignments",
-        "by",
         "the",
-        "end",
-        "of",
-        "the",
-        "week"
+        "new",
+        "policy",
+        "will",
+        "be",
+        "implemented",
+        "next",
+        "month"
       ],
-      "display": "Students must submit their assignments by the end of the week."
+      "display": "The new policy will be implemented next month."
+    },
+    {
+      "words": [
+        "professor",
+        "suggested",
+        "reading",
+        "the",
+        "article",
+        "for",
+        "better",
+        "understanding"
+      ],
+      "display": "The professor suggested reading the article for better understanding."
     },
     {
       "words": [
         "the",
         "library",
         "will",
-        "close",
-        "early",
-        "on",
-        "friday",
+        "be",
+        "closed",
         "for",
-        "a",
-        "special",
-        "event"
+        "renovation",
+        "next",
+        "week"
       ],
-      "display": "The library will close early on Friday for a special event."
-    },
-    {
-      "words": [
-        "her",
-        "presentation",
-        "was",
-        "both",
-        "informative",
-        "and",
-        "engaging",
-        "to",
-        "the",
-        "audience"
-      ],
-      "display": "Her presentation was both informative and engaging to the audience."
-    },
-    {
-      "words": [
-        "they",
-        "decided",
-        "to",
-        "collaborate",
-        "on",
-        "the",
-        "project",
-        "to",
-        "increase",
-        "efficiency"
-      ],
-      "display": "They decided to collaborate on the project to increase efficiency."
-    },
-    {
-      "words": [
-        "the",
-        "professor",
-        "encouraged",
-        "students",
-        "to",
-        "participate",
-        "in",
-        "the",
-        "discussion",
-        "active"
-      ],
-      "display": "The professor encouraged students to participate in the discussion actively."
-    },
-    {
-      "words": [
-        "after",
-        "reviewing",
-        "the",
-        "data",
-        "the",
-        "team",
-        "revised",
-        "their",
-        "conclusions",
-        "significantly"
-      ],
-      "display": "After reviewing the data, the team revised their conclusions significantly."
+      "display": "The library will be closed for renovation next week."
     },
     {
       "words": [
         "students",
         "should",
-        "explore",
-        "various",
-        "resources",
+        "attend",
+        "the",
+        "seminar",
         "to",
-        "enhance",
-        "their",
-        "learning",
-        "experience"
+        "gain",
+        "insight"
       ],
-      "display": "Students should explore various resources to enhance their learning experience."
+      "display": "Students should attend the seminar to gain insight."
+    },
+    {
+      "words": [
+        "the",
+        "research",
+        "project",
+        "requires",
+        "more",
+        "funding",
+        "than",
+        "expected"
+      ],
+      "display": "The research project requires more funding than expected."
+    },
+    {
+      "words": [
+        "please",
+        "submit",
+        "your",
+        "final",
+        "papers",
+        "by",
+        "the",
+        "end",
+        "of",
+        "the",
+        "semester"
+      ],
+      "display": "Please submit your final papers by the end of the semester."
+    },
+    {
+      "words": [
+        "the",
+        "team",
+        "is",
+        "working",
+        "hard",
+        "to",
+        "meet",
+        "the",
+        "deadline"
+      ],
+      "display": "The team is working hard to meet the deadline."
     }
   ],
   "emailPrompts": [
-    "寄信給宿舍管理員，詢問有關重新分配房間的流程。",
-    "寄信給圖書館，反映書籍借閱系統的問題，請求協助。",
-    "寄信給社團顧問，表達對下一次社團活動的想法和建議。",
-    "寄信給教授，請教有關論文主題的建議和指導。",
-    "寄信給客服，反映最近購物的產品問題，請求退換。",
-    "寄信給同學，邀請他參加即將舉行的學術研討會。"
+    "寄信給教授，說明因病無法參加期中考，詢問補考事宜。",
+    "向宿舍管理處請求延長入住期限，因為有特殊情況。",
+    "向圖書館詢問如何獲得圖書館卡及借書流程。",
+    "寄信給社團會長，申請加入新成立的文化社團。",
+    "向客服部門反映產品問題，請求更換或退款。",
+    "寄信給導師，詢問進修課程的相關資訊和建議。"
   ],
   "discussionPrompts": [
-    "教授問：「你認為社交媒體對青少年的影響是正面還是負面？」",
-    "教授問：「應該如何平衡工作與生活的壓力？」",
-    "教授問：「在當前的全球化背景下，文化保存的意義何在？」",
-    "教授問：「人工智慧在未來的職場中會取代人類工作嗎？」",
-    "教授問：「環保與經濟發展之間應如何找到平衡？」",
-    "教授問：「教育應該更注重技能還是知識的傳授？」"
+    "教授問：「在現代社會中，科技對人際關係的影響是什麼？」",
+    "教授問：「全球暖化的主要原因與應對策略是什麼？」",
+    "教授問：「社會媒體是否促進了或阻礙了有效的溝通？」",
+    "教授問：「教育公平的重要性以及如何實現它？」",
+    "教授問：「藝術在社會中的角色和價值是什麼？」",
+    "教授問：「移民對於國家經濟發展的影響是正面還是負面？」"
   ]
 }
