@@ -3,127 +3,127 @@
     {
       "words": [
         "the",
-        "students",
-        "completed",
-        "their",
-        "assignments",
-        "on",
-        "time",
-        "yesterday"
+        "increase",
+        "of",
+        "technology",
+        "has",
+        "changed",
+        "our",
+        "lives"
       ],
-      "display": "The students completed their assignments on time yesterday."
+      "display": "The increase of technology has changed our lives."
     },
     {
       "words": [
-        "the",
-        "new",
-        "policy",
-        "will",
-        "be",
-        "implemented",
-        "next",
-        "month"
+        "climate",
+        "change",
+        "is",
+        "a",
+        "global",
+        "issue",
+        "that",
+        "affects"
       ],
-      "display": "The new policy will be implemented next month."
-    },
-    {
-      "words": [
-        "professor",
-        "suggested",
-        "reading",
-        "the",
-        "article",
-        "for",
-        "better",
-        "understanding"
-      ],
-      "display": "The professor suggested reading the article for better understanding."
-    },
-    {
-      "words": [
-        "the",
-        "library",
-        "will",
-        "be",
-        "closed",
-        "for",
-        "renovation",
-        "next",
-        "week"
-      ],
-      "display": "The library will be closed for renovation next week."
+      "display": "Climate change is a global issue that affects."
     },
     {
       "words": [
         "students",
         "should",
-        "attend",
-        "the",
-        "seminar",
+        "participate",
+        "in",
+        "extracurricular",
+        "activities",
         "to",
-        "gain",
-        "insight"
+        "grow"
       ],
-      "display": "Students should attend the seminar to gain insight."
+      "display": "Students should participate in extracurricular activities to grow."
+    },
+    {
+      "words": [
+        "the",
+        "importance",
+        "of",
+        "learning",
+        "a",
+        "second",
+        "language",
+        "cannot",
+        "be",
+        "overstated"
+      ],
+      "display": "The importance of learning a second language cannot be overstated."
     },
     {
       "words": [
         "the",
         "research",
-        "project",
-        "requires",
-        "more",
-        "funding",
-        "than",
-        "expected"
+        "study",
+        "revealed",
+        "new",
+        "data",
+        "about",
+        "the",
+        "effects"
       ],
-      "display": "The research project requires more funding than expected."
+      "display": "The research study revealed new data about the effects."
     },
     {
       "words": [
-        "please",
-        "submit",
-        "your",
-        "final",
-        "papers",
-        "by",
-        "the",
-        "end",
-        "of",
-        "the",
-        "semester"
-      ],
-      "display": "Please submit your final papers by the end of the semester."
-    },
-    {
-      "words": [
-        "the",
+        "collaboration",
+        "among",
         "team",
+        "members",
         "is",
-        "working",
-        "hard",
-        "to",
-        "meet",
-        "the",
-        "deadline"
+        "essential",
+        "for",
+        "success"
       ],
-      "display": "The team is working hard to meet the deadline."
+      "display": "Collaboration among team members is essential for success."
+    },
+    {
+      "words": [
+        "the",
+        "impact",
+        "of",
+        "social",
+        "media",
+        "on",
+        "youth",
+        "is",
+        "significant"
+      ],
+      "display": "The impact of social media on youth is significant."
+    },
+    {
+      "words": [
+        "to",
+        "understand",
+        "the",
+        "complexities",
+        "of",
+        "human",
+        "behavior",
+        "is",
+        "challenging"
+      ],
+      "display": "To understand the complexities of human behavior is challenging."
     }
   ],
   "emailPrompts": [
     "寄信給教授，說明因病無法參加期中考，詢問補考事宜。",
-    "向宿舍管理處請求延長入住期限，因為有特殊情況。",
-    "向圖書館詢問如何獲得圖書館卡及借書流程。",
-    "寄信給社團會長，申請加入新成立的文化社團。",
-    "向客服部門反映產品問題，請求更換或退款。",
-    "寄信給導師，詢問進修課程的相關資訊和建議。"
+    "寫信給宿舍辦公室，請求延長住宿期限，說明理由。",
+    "寄信給圖書館，詢問新書的上架時間和借閱規則。",
+    "寫信給學生俱樂部，表達參加下次會議的興趣，並詢問具體時間。",
+    "寄信給客服部門，反映產品的問題，請求解決方案。",
+    "寫信給課外活動負責人，詢問如何報名參加即將舉行的工作坊。"
   ],
   "discussionPrompts": [
-    "教授問：「在現代社會中，科技對人際關係的影響是什麼？」",
-    "教授問：「全球暖化的主要原因與應對策略是什麼？」",
-    "教授問：「社會媒體是否促進了或阻礙了有效的溝通？」",
-    "教授問：「教育公平的重要性以及如何實現它？」",
-    "教授問：「藝術在社會中的角色和價值是什麼？」",
-    "教授問：「移民對於國家經濟發展的影響是正面還是負面？」"
+    "教授問：「在全球化的背景下，文化認同的重要性如何變化？」",
+    "教授問：「科技進步對於傳統教育方法的影響是什麼？」",
+    "教授問：「環境保護與經濟發展之間的衝突該如何解決？」",
+    "教授問：「社會媒體對於青少年心理健康的影響有哪些？」",
+    "教授問：「是否應該取消大學入學考試，為什麼？」",
+    "教授問：「人工智慧在未來的職場中會帶來哪些挑戰？」"
   ]
 }

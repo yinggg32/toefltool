@@ -2,101 +2,110 @@
   "cloze": {
     "segments": [
       {
-        "text": "The human brain is an incredibly complex organ that is responsible for controlling all bodily functions. It consists of billions of neurons that communicate with each other through electrical and chemical signals. The br"
+        "text": "The theory of relativity, proposed by Albert Einstein, revolutionized our understanding of time and "
       },
       {
-        "blank": "ain"
+        "blank": "space"
       },
       {
-        "text": " is divided into various regions, each responsible for different functions. For instance, the frontal lobe is associated with decision-making and problem-solving, while the occipital lobe is primarily involved in vi"
+        "text": ", showing that these concepts are interwoven rather than separate. According to Einstein, time is not an absolute, but a relative measure that can be affected by "
       },
       {
-        "blank": "sion"
+        "blank": "gravity"
       },
       {
-        "text": ". Additionally, the brain undergoes changes throughout a person's life, influenced by experiences and learning. Neuroplasticity allows for the brain to adapt, forming new connections and pathways as needed. This dy"
+        "text": ". This means that the stronger the gravitational field, the slower time "
       },
       {
-        "blank": "namic"
+        "blank": "passes"
       },
       {
-        "text": " nature of the brain highlights its remarkable ability to learn and recover from injuries, emphasizing the importance of mental stimulation and healthy living for brain health."
+        "text": ". For example, time runs slightly faster on a mountain than at sea level. This phenomenon has been confirmed through various experiments, including those that utilize atomic "
+      },
+      {
+        "blank": "clocks"
+      },
+      {
+        "text": ". Understanding relativity is crucial for modern technologies such as GPS, which must account for these effects to provide accurate location "
+      },
+      {
+        "blank": "information"
       }
     ]
   },
   "academic": {
-    "passage": "The human brain is an incredibly complex organ that controls all bodily functions. It consists of billions of neurons that communicate through electrical and chemical signals. The brain is divided into regions, each responsible for different functions. The frontal lobe is associated with decision-making, while the occipital lobe is involved in vision. The brain undergoes changes throughout a person's life, influenced by experiences and learning. Neuroplasticity allows the brain to adapt, forming new connections as needed. This dynamic nature underscores the importance of mental stimulation for brain health.",
+    "passage": "The study of artificial intelligence (AI) explores the development of systems that can perform tasks typically requiring human intelligence. Key areas of research include machine learning, natural language processing, and robotics. Machine learning enables systems to learn from data and improve over time, while natural language processing focuses on the interaction between computers and human language. Robotics integrates AI into machines to automate tasks. The implications of AI are profound, affecting industries ranging from healthcare to finance.",
     "questions": [
       {
-        "q": "What is the main function of the human brain?",
+        "q": "What is the main focus of the study of artificial intelligence?",
         "options": [
-          "Controlling bodily functions",
-          "Producing hormones",
-          "Facilitating digestion",
-          "Regulating temperature"
+          "Development of human-like systems",
+          "Exploration of the universe",
+          "Improvement of human memory",
+          "Study of natural ecosystems"
         ],
         "correctIndex": 0,
-        "explain": "人的大腦主要功能是控制身體的所有功能。"
+        "explain": "本題的主要焦點在於人工智慧的系統開發，其目的是模擬人類智能的行為。"
       },
       {
-        "q": "Which lobe is responsible for decision-making?",
+        "q": "Which area of AI involves the interaction between computers and human language?",
         "options": [
-          "Occipital lobe",
-          "Frontal lobe",
-          "Temporal lobe",
-          "Parietal lobe"
+          "Machine learning",
+          "Natural language processing",
+          "Robotics",
+          "Data analysis"
         ],
         "correctIndex": 1,
-        "explain": "額葉負責決策和問題解決。"
+        "explain": "自然語言處理是涉及計算機與人類語言互動的領域。"
       },
       {
-        "q": "What can be inferred about neuroplasticity?",
+        "q": "What can be inferred about the impact of AI on industries?",
         "options": [
-          "It is fixed and unchangeable",
-          "It promotes learning",
-          "It decreases with age",
-          "It is only beneficial for children"
+          "AI will have minimal effects on industries",
+          "AI will only benefit the technology sector",
+          "AI may transform various industries",
+          "AI is not widely used in any industry"
         ],
-        "correctIndex": 1,
-        "explain": "神經可塑性促進學習，顯示大腦能隨著經驗改變。"
+        "correctIndex": 2,
+        "explain": "從文本中可以推斷，人工智慧將對多個產業產生變革。"
       },
       {
-        "q": "What does the term 'plasticity' imply in the context of the brain?",
+        "q": "What does the term 'machine learning' refer to in the context of AI?",
         "options": [
-          "Rigidity",
-          "Flexibility",
-          "Stability",
-          "Fragility"
+          "Learning from experience",
+          "Programming computers",
+          "Understanding human emotions",
+          "Designing robots"
         ],
-        "correctIndex": 1,
-        "explain": "在大腦背景下，'可塑性'代表靈活性，即大腦能夠適應和改變。"
+        "correctIndex": 0,
+        "explain": "在人工智慧的背景下，機器學習指的是從數據中學習和改進的過程。"
       }
     ]
   },
   "daily": {
-    "passage": "Attention all students! There will be a campus-wide event on Friday at 5 PM in the main hall. Join us for a night of fun activities, food, and a chance to meet new friends. Don't miss out!",
+    "passage": "Attention all students: The campus library will be closed for maintenance this Saturday from 8 AM to 4 PM. Please plan accordingly and make sure to return any books by Friday. We apologize for any inconvenience this may cause.",
     "questions": [
       {
-        "q": "What time does the event start on Friday?",
+        "q": "When will the campus library be closed?",
         "options": [
-          "3 PM",
-          "5 PM",
-          "7 PM",
-          "6 PM"
+          "Friday",
+          "Saturday",
+          "Sunday",
+          "Monday"
         ],
         "correctIndex": 1,
-        "explain": "活動在星期五的下午5點開始。"
+        "explain": "根據公告，圖書館將在星期六關閉。"
       },
       {
-        "q": "What can students expect at the event?",
+        "q": "What should students do before the library closes?",
         "options": [
-          "Only food",
-          "Only activities",
-          "Activities and food",
-          "Exclusively games"
+          "Check out more books",
+          "Return any books by Friday",
+          "Come to study on Saturday",
+          "Attend a workshop"
         ],
-        "correctIndex": 2,
-        "explain": "學生可以期待活動和食物，這是活動的主要內容。"
+        "correctIndex": 1,
+        "explain": "學生應在星期五前歸還任何書籍，以免在圖書館關閉期間受到影響。"
       }
     ]
   }

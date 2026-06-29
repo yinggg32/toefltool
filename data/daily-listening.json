@@ -1,116 +1,116 @@
 {
   "chooseResponse": [
     {
-      "q": "What time is the meeting?",
+      "q": "What do you think about the new library hours?",
       "options": [
-        "At 3 PM.",
-        "I don't know.",
-        "It was cancelled.",
-        "I'll check my email."
+        "They're great!",
+        "I'm not sure.",
+        "I think it's too late.",
+        "I prefer the old schedule."
       ],
       "correctIndex": 0
     }
   ],
   "conversation": {
-    "transcript": "Student: Hey, have you heard about the new library hours?\nLibrarian: Yes, they extended them on weekends!\nStudent: That’s great! What time do they close now?\nLibrarian: They’re open until 10 PM on Saturdays and Sundays.",
+    "transcript": "Student: Have you seen the new library hours?\nAdvisor: Yes, I think they really accommodate late-night studying.\nStudent: I agree! I often study late.\nAdvisor: Me too! It’s nice to have that option now.",
     "questions": [
       {
-        "q": "What change was made to the library hours?",
+        "q": "What does the student think about the library hours?",
         "options": [
-          "Extended weekend hours.",
-          "Shortened weekday hours.",
-          "Closed on Sundays.",
-          "Open earlier on weekdays."
+          "They are great.",
+          "They are too late.",
+          "They don't accommodate studying.",
+          "They are confusing."
         ],
         "correctIndex": 0,
-        "explain": "圖書館延長了周末的開放時間。"
+        "explain": "學生認為新的圖書館開放時間很好。"
       },
       {
-        "q": "When do the library hours end on weekends?",
+        "q": "What does the advisor think about late-night studying?",
         "options": [
-          "8 PM",
-          "9 PM",
-          "10 PM",
-          "11 PM"
+          "It's not necessary.",
+          "It's important.",
+          "It's too distracting.",
+          "It's uncommon."
         ],
-        "correctIndex": 2,
-        "explain": "圖書館在周末的關閉時間是晚上10點。"
+        "correctIndex": 1,
+        "explain": "顧問認為夜間學習是重要的。"
       }
     ]
   },
   "announcement": {
-    "transcript": "Attention students: The annual campus festival will take place this Friday from 4 PM to 11 PM on the main quad. There will be food trucks, live music, and games. Don’t forget to bring your student ID for discounts!",
+    "transcript": "Attention students: The campus health center will be extending its hours on weekdays to better serve you. The new hours will be from 8 AM to 8 PM. Please take advantage of this service and stay healthy!",
     "questions": [
       {
-        "q": "What event is happening this Friday?",
+        "q": "What is the main purpose of the announcement?",
         "options": [
-          "A lecture series.",
-          "The campus festival.",
-          "A sports competition.",
-          "An art exhibition."
+          "To inform about extended hours.",
+          "To cancel the health services.",
+          "To change location of the center.",
+          "To promote a health campaign."
         ],
-        "correctIndex": 1,
-        "explain": "本週五將舉行校園嘉年華。"
+        "correctIndex": 0,
+        "explain": "公告的主要目的是通知學生健康中心延長開放時間。"
       },
       {
-        "q": "What should students bring to the event?",
+        "q": "When will the health center be open?",
         "options": [
-          "A blanket.",
-          "Their student ID.",
-          "A camera.",
-          "Some snacks."
+          "From 8 AM to 5 PM.",
+          "From 9 AM to 6 PM.",
+          "From 8 AM to 8 PM.",
+          "From 7 AM to 7 PM."
         ],
-        "correctIndex": 1,
-        "explain": "學生應該攜帶學生證以獲得折扣。"
+        "correctIndex": 2,
+        "explain": "健康中心將在工作日的早上8點到晚上8點開放。"
       }
     ]
   },
   "talk": {
-    "transcript": "Today, I will explain the concept of sustainable development. It refers to meeting the needs of the present without compromising the ability of future generations to meet their own needs. This involves balancing economic growth, environmental care, and social well-being. Sustainable development encourages us to use resources efficiently, reduce waste, and promote renewable energy sources. It's a holistic approach that aims to create a better quality of life for all while protecting our planet for future generations.",
+    "transcript": "Today, we will discuss the concept of renewable energy. Renewable energy comes from sources that are naturally replenished, such as sunlight, wind, and water. These sources are sustainable and can help reduce our carbon footprint. For instance, solar panels convert sunlight into electricity, while wind turbines harness wind power. Transitioning to renewable energy is essential for combating climate change and ensuring a healthier planet for future generations.",
     "questions": [
       {
-        "q": "What is the main goal of sustainable development?",
+        "q": "What is renewable energy?",
         "options": [
-          "To increase economic growth.",
-          "To protect wildlife.",
-          "To meet present and future needs.",
-          "To promote urbanization."
-        ],
-        "correctIndex": 2,
-        "explain": "可持續發展的主要目標是滿足當前和未來的需求。"
-      },
-      {
-        "q": "What does sustainable development encourage?",
-        "options": [
-          "Wasting resources.",
-          "Using fossil fuels.",
-          "Balancing economic growth and care for the environment.",
-          "Ignoring social issues."
-        ],
-        "correctIndex": 2,
-        "explain": "可持續發展鼓勵平衡經濟增長和對環境的關注。"
-      },
-      {
-        "q": "What type of energy sources does sustainable development promote?",
-        "options": [
-          "Non-renewable energy.",
-          "Fossil fuels.",
-          "Renewable energy sources.",
-          "Nuclear energy."
-        ],
-        "correctIndex": 2,
-        "explain": "可持續發展提倡使用可再生能源。"
-      },
-      {
-        "q": "Why is sustainable development considered holistic?",
-        "options": [
-          "It focuses on economic growth only.",
-          "It integrates various aspects of society.",
-          "It ignores environmental issues.",
-          "It is only about reducing costs."
+          "Energy from fossil fuels.",
+          "Energy from natural sources.",
+          "Energy that is always in demand.",
+          "Energy that has no impact on climate."
         ],
         "correctIndex": 1,
-        "explain": "可持續發展被認為是全面的，因為它整合了社會的各個方面。"
+        "explain": "可再生能源是來自自然來源的能源。"
+      },
+      {
+        "q": "What does solar energy do?",
+        "options": [
+          "Creates wind.",
+          "Generates electricity.",
+          "Cools the environment.",
+          "Increases carbon emissions."
+        ],
+        "correctIndex": 1,
+        "explain": "太陽能能產生電力。"
+      },
+      {
+        "q": "Why is renewable energy important?",
+        "options": [
+          "It reduces costs.",
+          "It is non-polluting.",
+          "It increases fossil fuel usage.",
+          "It has no benefits."
+        ],
+        "correctIndex": 1,
+        "explain": "可再生能源很重要，因為它能減少污染。"
+      },
+      {
+        "q": "What is one use of wind energy?",
+        "options": [
+          "Heating buildings.",
+          "Generating electricity.",
+          "Water purification.",
+          "Transportation."
+        ],
+        "correctIndex": 1,
+        "explain": "風能的一個用途是發電。"
       }
     ]
   }
