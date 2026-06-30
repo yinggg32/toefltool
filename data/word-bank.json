@@ -2558,5 +2558,205 @@
     "zh": "集體主義",
     "ex": "Collectivism emphasizes the importance of collective goals over individual interests.",
     "cat": "📰 每日新詞：political science"
+  },
+  {
+    "word": "anthropology",
+    "pos": "n.",
+    "root": "人類學 — anthropology",
+    "zh": "人類學",
+    "ex": "Anthropology provides critical insights into the cultural practices of various societies.",
+    "cat": "📰 每日新詞：anthropology"
+  },
+  {
+    "word": "ethnography",
+    "pos": "n.",
+    "root": "民族 — ethnos + 寫 — graphe",
+    "zh": "民族誌",
+    "ex": "Ethnography allows researchers to immerse themselves in the daily lives of the communities they study.",
+    "cat": "📰 每日新詞：anthropology"
+  },
+  {
+    "word": "ritual",
+    "pos": "n.",
+    "root": "儀式 — ritus",
+    "zh": "儀式",
+    "ex": "Rituals play a crucial role in the cohesion of community identities.",
+    "cat": "📰 每日新詞：anthropology"
+  },
+  {
+    "word": "tradition",
+    "pos": "n.",
+    "root": "傳統 — tradere",
+    "zh": "傳統",
+    "ex": "Tradition can shape the values and norms of a society over generations.",
+    "cat": "📰 每日新詞：anthropology"
+  },
+  {
+    "word": "ethnic",
+    "pos": "adj.",
+    "root": "種族 — ethnos",
+    "zh": "種族的",
+    "ex": "Ethnic diversity enriches the cultural landscape of a nation.",
+    "cat": "📰 每日新詞：anthropology"
+  },
+  {
+    "word": "indigenous",
+    "pos": "adj.",
+    "root": "本土 — indigena",
+    "zh": "本土的",
+    "ex": "Indigenous cultures often possess unique knowledge systems that contribute to biodiversity conservation.",
+    "cat": "📰 每日新詞：anthropology"
+  },
+  {
+    "word": "fieldwork",
+    "pos": "n.",
+    "root": "田野 — field + 工作 — work",
+    "zh": "田野工作",
+    "ex": "Fieldwork is essential for gathering firsthand data in anthropology.",
+    "cat": "📰 每日新詞：anthropology"
+  },
+  {
+    "word": "kinship",
+    "pos": "n.",
+    "root": "親屬 — kin + 友誼 — ship",
+    "zh": "親屬關係",
+    "ex": "Kinship ties can influence social organization and resource sharing.",
+    "cat": "📰 每日新詞：anthropology"
+  },
+  {
+    "word": "subculture",
+    "pos": "n.",
+    "root": "亞 — sub + 文化 — culture",
+    "zh": "次文化",
+    "ex": "Subcultures often develop distinct identities within larger societal frameworks.",
+    "cat": "📰 每日新詞：anthropology"
+  },
+  {
+    "word": "anthropocentric",
+    "pos": "adj.",
+    "root": "人類 — anthropo + 以中心 — centric",
+    "zh": "人類中心的",
+    "ex": "Anthropocentric views often prioritize human needs over environmental considerations.",
+    "cat": "📰 每日新詞：anthropology"
+  },
+  {
+    "word": "globalization",
+    "pos": "n.",
+    "root": "全球 — global + 化 — ization",
+    "zh": "全球化",
+    "ex": "Globalization has profound effects on local cultures and economies.",
+    "cat": "📰 每日新詞：anthropology"
+  },
+  {
+    "word": "archaeology",
+    "pos": "n.",
+    "root": "考古 — archaeon + 學 — logia",
+    "zh": "考古學",
+    "ex": "Archaeology provides insights into the past through the study of material remains.",
+    "cat": "📰 每日新詞：anthropology"
+  },
+  {
+    "word": "cultural relativism",
+    "pos": "n.",
+    "root": "文化 — cultura + 相對主義 — relativism",
+    "zh": "文化相對主義",
+    "ex": "Cultural relativism encourages the understanding of cultural practices within their own context.",
+    "cat": "📰 每日新詞：anthropology"
+  },
+  {
+    "word": "hierarchy",
+    "pos": "n.",
+    "root": "層級 — hierarchia",
+    "zh": "階層",
+    "ex": "Social hierarchy often dictates power dynamics within a community.",
+    "cat": "📰 每日新詞：anthropology"
+  },
+  {
+    "word": "patriarchy",
+    "pos": "n.",
+    "root": "父權 — patriarcha",
+    "zh": "父權制",
+    "ex": "Patriarchy can shape gender roles and expectations in various cultures.",
+    "cat": "📰 每日新詞：anthropology"
+  },
+  {
+    "word": "colonialism",
+    "pos": "n.",
+    "root": "殖民 — colonia + 主義 — ism",
+    "zh": "殖民主義",
+    "ex": "Colonialism has left lasting impacts on the social structures of affected countries.",
+    "cat": "📰 每日新詞：anthropology"
+  },
+  {
+    "word": "ceremony",
+    "pos": "n.",
+    "root": "儀式 — caeremonia",
+    "zh": "儀式",
+    "ex": "Ceremonies play a significant role in marking important life transitions.",
+    "cat": "📰 每日新詞：anthropology"
+  },
+  {
+    "word": "artifact",
+    "pos": "n.",
+    "root": "文物 — arte + 物 — fact",
+    "zh": "文物",
+    "ex": "Artifacts discovered at archaeological sites provide valuable information about past societies.",
+    "cat": "📰 每日新詞：anthropology"
+  },
+  {
+    "word": "cultural assimilation",
+    "pos": "n.",
+    "root": "文化 — cultura + 同化 — assimilation",
+    "zh": "文化同化",
+    "ex": "Cultural assimilation can lead to the loss of unique cultural identities.",
+    "cat": "📰 每日新詞：anthropology"
+  },
+  {
+    "word": "gender roles",
+    "pos": "n.",
+    "root": "性別 — gender + 角色 — roles",
+    "zh": "性別角色",
+    "ex": "Gender roles are often socially constructed and vary across cultures.",
+    "cat": "📰 每日新詞：anthropology"
+  },
+  {
+    "word": "social stratification",
+    "pos": "n.",
+    "root": "社會 — soci + 分層 — stratification",
+    "zh": "社會分層",
+    "ex": "Social stratification can determine access to resources and opportunities.",
+    "cat": "📰 每日新詞：anthropology"
+  },
+  {
+    "word": "cultural exchange",
+    "pos": "n.",
+    "root": "文化 — cultura + 交流 — exchange",
+    "zh": "文化交流",
+    "ex": "Cultural exchange fosters mutual understanding between different societies.",
+    "cat": "📰 每日新詞：anthropology"
+  },
+  {
+    "word": "sociocultural",
+    "pos": "adj.",
+    "root": "社會 — socio + 文化 — cultural",
+    "zh": "社會文化的",
+    "ex": "Sociocultural factors can influence individual and group behavior.",
+    "cat": "📰 每日新詞：anthropology"
+  },
+  {
+    "word": "ethnocentrism",
+    "pos": "n.",
+    "root": "民族 — ethnos + 中心主義 — centrism",
+    "zh": "民族中心主義",
+    "ex": "Ethnocentrism can hinder cross-cultural understanding and appreciation.",
+    "cat": "📰 每日新詞：anthropology"
+  },
+  {
+    "word": "worldview",
+    "pos": "n.",
+    "root": "世界觀 — world + view",
+    "zh": "世界觀",
+    "ex": "An individual's worldview is shaped by their cultural background and experiences.",
+    "cat": "📰 每日新詞：anthropology"
   }
 ]

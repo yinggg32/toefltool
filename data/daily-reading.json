@@ -2,110 +2,110 @@
   "cloze": {
     "segments": [
       {
-        "text": "The theory of relativity, proposed by Albert Einstein, revolutionized our understanding of time and "
+        "text": "The concept of sm"
       },
       {
-        "blank": "space"
+        "blank": "og"
       },
       {
-        "text": ", showing that these concepts are interwoven rather than separate. According to Einstein, time is not an absolute, but a relative measure that can be affected by "
+        "text": "g is often misunderstood. In terms of its impact on cli"
       },
       {
-        "blank": "gravity"
+        "blank": "mate"
       },
       {
-        "text": ". This means that the stronger the gravitational field, the slower time "
+        "text": ", it refers to the small particles released into the atmosphere. While sm"
       },
       {
-        "blank": "passes"
+        "blank": "oke"
       },
       {
-        "text": ". For example, time runs slightly faster on a mountain than at sea level. This phenomenon has been confirmed through various experiments, including those that utilize atomic "
+        "text": " can have immediate effects on air quality, it also contributes to long-term environmental issues like ac"
       },
       {
-        "blank": "clocks"
+        "blank": "id"
       },
       {
-        "text": ". Understanding relativity is crucial for modern technologies such as GPS, which must account for these effects to provide accurate location "
+        "text": "ification of water sources. Understanding the role of sm"
       },
       {
-        "blank": "information"
+        "blank": "og"
       }
     ]
   },
   "academic": {
-    "passage": "The study of artificial intelligence (AI) explores the development of systems that can perform tasks typically requiring human intelligence. Key areas of research include machine learning, natural language processing, and robotics. Machine learning enables systems to learn from data and improve over time, while natural language processing focuses on the interaction between computers and human language. Robotics integrates AI into machines to automate tasks. The implications of AI are profound, affecting industries ranging from healthcare to finance.",
+    "passage": "The study of smog encompasses the investigation of air pollution caused by various pollutants, including particulate matter and chemical compounds. Smog not only affects visibility but also poses significant health risks. Studies show that prolonged exposure to smog can lead to respiratory issues and aggravate pre-existing conditions. Researchers are continually examining the effects of different smog types, particularly in urban settings, where vehicle emissions and industrial activities are prevalent. Strategies to mitigate smog include government regulations, technological innovations, and public awareness campaigns aimed at reducing emissions.",
     "questions": [
       {
-        "q": "What is the main focus of the study of artificial intelligence?",
+        "q": "What is the main focus of the passage?",
         "options": [
-          "Development of human-like systems",
-          "Exploration of the universe",
-          "Improvement of human memory",
-          "Study of natural ecosystems"
-        ],
-        "correctIndex": 0,
-        "explain": "本題的主要焦點在於人工智慧的系統開發，其目的是模擬人類智能的行為。"
-      },
-      {
-        "q": "Which area of AI involves the interaction between computers and human language?",
-        "options": [
-          "Machine learning",
-          "Natural language processing",
-          "Robotics",
-          "Data analysis"
-        ],
-        "correctIndex": 1,
-        "explain": "自然語言處理是涉及計算機與人類語言互動的領域。"
-      },
-      {
-        "q": "What can be inferred about the impact of AI on industries?",
-        "options": [
-          "AI will have minimal effects on industries",
-          "AI will only benefit the technology sector",
-          "AI may transform various industries",
-          "AI is not widely used in any industry"
+          "The definition of smog",
+          "The health effects of smog",
+          "The study of air pollution",
+          "Strategies to reduce smog"
         ],
         "correctIndex": 2,
-        "explain": "從文本中可以推斷，人工智慧將對多個產業產生變革。"
+        "explain": "本段落主要探討有關雾霾的研究，尤其是空氣污染的相關事宜。"
       },
       {
-        "q": "What does the term 'machine learning' refer to in the context of AI?",
+        "q": "Which pollutants are mentioned as causes of smog?",
         "options": [
-          "Learning from experience",
-          "Programming computers",
-          "Understanding human emotions",
-          "Designing robots"
+          "Particulate matter and chemical compounds",
+          "Carbon dioxide and oxygen",
+          "Nitrogen and sulfur compounds",
+          "Water vapor and dust"
         ],
         "correctIndex": 0,
-        "explain": "在人工智慧的背景下，機器學習指的是從數據中學習和改進的過程。"
+        "explain": "提到的污染物包括微粒物質和化學化合物，它們是造成雾霾的原因。"
+      },
+      {
+        "q": "What inference can be drawn about urban settings from the passage?",
+        "options": [
+          "They typically have less smog",
+          "They have more vehicle emissions and industrial activities",
+          "They are less affected by smog",
+          "They have government regulations in place"
+        ],
+        "correctIndex": 1,
+        "explain": "文中提到城市環境中車輛排放和工業活動盛行，因此可以推斷城市中的雾霾更為嚴重。"
+      },
+      {
+        "q": "What does the term 'particulate matter' refer to in the context of the passage?",
+        "options": [
+          "Large water droplets",
+          "Chemical compounds",
+          "Tiny particles in the air",
+          "Gases released from vehicles"
+        ],
+        "correctIndex": 2,
+        "explain": "‘微粒物質’指的是空氣中的微小顆粒，與雾霾的形成有關。"
       }
     ]
   },
   "daily": {
-    "passage": "Attention all students: The campus library will be closed for maintenance this Saturday from 8 AM to 4 PM. Please plan accordingly and make sure to return any books by Friday. We apologize for any inconvenience this may cause.",
+    "passage": "Attention students! The library will be closed for maintenance on Friday, from 8 AM to 5 PM. Please plan your visits accordingly. We apologize for any inconvenience this may cause.",
     "questions": [
       {
-        "q": "When will the campus library be closed?",
+        "q": "When will the library be closed?",
         "options": [
+          "Thursday",
           "Friday",
           "Saturday",
-          "Sunday",
-          "Monday"
+          "Sunday"
         ],
         "correctIndex": 1,
-        "explain": "根據公告，圖書館將在星期六關閉。"
+        "explain": "圖書館將在星期五關閉。"
       },
       {
-        "q": "What should students do before the library closes?",
+        "q": "What is the reason for the library's closure?",
         "options": [
-          "Check out more books",
-          "Return any books by Friday",
-          "Come to study on Saturday",
-          "Attend a workshop"
+          "Staff training",
+          "Maintenance",
+          "Special event",
+          "Inventory check"
         ],
         "correctIndex": 1,
-        "explain": "學生應在星期五前歸還任何書籍，以免在圖書館關閉期間受到影響。"
+        "explain": "因為圖書館需要進行維護，所以會暫時關閉。"
       }
     ]
   }
