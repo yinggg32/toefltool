@@ -3,134 +3,131 @@
     {
       "words": [
         "the",
+        "student",
+        "submitted",
+        "his",
         "research",
+        "paper",
+        "on",
+        "time"
+      ],
+      "display": "The student submitted his research paper on time."
+    },
+    {
+      "words": [
+        "the",
         "team",
-        "presented",
-        "their",
-        "findings",
-        "at",
-        "the",
-        "annual",
-        "conference"
-      ],
-      "display": "The research team presented their findings at the annual conference."
-    },
-    {
-      "words": [
-        "students",
-        "should",
-        "study",
-        "regularly",
+        "worked",
+        "hard",
         "to",
-        "improve",
-        "their",
-        "academic",
-        "performance"
+        "complete",
+        "the",
+        "project"
       ],
-      "display": "Students should study regularly to improve their academic performance."
+      "display": "The team worked hard to complete the project."
+    },
+    {
+      "words": [
+        "she",
+        "enjoys",
+        "reading",
+        "books",
+        "during",
+        "her",
+        "free",
+        "time"
+      ],
+      "display": "She enjoys reading books during her free time."
     },
     {
       "words": [
         "the",
-        "book",
-        "by",
+        "conference",
+        "will",
+        "be",
+        "held",
+        "in",
         "the",
-        "author",
-        "was",
-        "well",
-        "received",
-        "by",
-        "readers"
+        "main",
+        "auditorium"
       ],
-      "display": "The book by the author was well received by readers."
+      "display": "The conference will be held in the main auditorium."
     },
     {
       "words": [
+        "he",
+        "decided",
+        "to",
+        "take",
         "a",
-        "healthy",
-        "lifestyle",
-        "includes",
-        "regular",
-        "exercise",
-        "and",
-        "balanced",
-        "diet"
+        "different",
+        "approach",
+        "to",
+        "the",
+        "problem"
       ],
-      "display": "A healthy lifestyle includes regular exercise and a balanced diet."
+      "display": "He decided to take a different approach to the problem."
     },
     {
       "words": [
         "the",
-        "project",
-        "requires",
-        "collaboration",
-        "between",
-        "different",
-        "departments",
-        "to",
-        "succeed"
+        "professor",
+        "requested",
+        "that",
+        "all",
+        "students",
+        "attend",
+        "the",
+        "lecture"
       ],
-      "display": "The project requires collaboration between different departments to succeed."
+      "display": "The professor requested that all students attend the lecture."
     },
     {
       "words": [
-        "attending",
-        "lectures",
+        "we",
+        "need",
+        "to",
+        "organize",
+        "a",
+        "meeting",
+        "to",
+        "discuss",
+        "the",
+        "upcoming",
+        "event"
+      ],
+      "display": "We need to organize a meeting to discuss the upcoming event."
+    },
+    {
+      "words": [
+        "it",
         "is",
         "important",
-        "for",
-        "understanding",
-        "the",
-        "course",
-        "material"
-      ],
-      "display": "Attending lectures is important for understanding the course material."
-    },
-    {
-      "words": [
-        "the",
-        "government",
-        "plans",
         "to",
-        "invest",
-        "in",
-        "renewable",
-        "energy",
-        "sources"
-      ],
-      "display": "The government plans to invest in renewable energy sources."
-    },
-    {
-      "words": [
-        "students",
-        "must",
-        "complete",
-        "their",
-        "assignments",
+        "review",
+        "the",
+        "material",
         "before",
         "the",
-        "deadline",
-        "to",
-        "avoid",
-        "penalties"
+        "exam"
       ],
-      "display": "Students must complete their assignments before the deadline to avoid penalties."
+      "display": "It is important to review the material before the exam."
     }
   ],
   "emailPrompts": [
-    "寄信給宿舍管理處，詢問有關修繕宿舍的進度。",
-    "寄信給圖書館，申請延長借書期限。",
-    "寄信給社團顧問，告知缺席下次會議的原因。",
-    "寄信給教授，請求會議時間的調整。",
-    "寄信給客服，反映最近購買商品的問題。",
-    "寄信給班主任，請求提供學習資源以幫助學習。"
+    "寄信給教授，請假參加下週的研討會，並詢問是否可以獲得會議資料。",
+    "寄信給宿舍辦公室，詢問關於延長住宿期限的流程。",
+    "寄信給圖書館，請求延長已借書籍的還書期限。",
+    "寄信給社團負責人，表達你對下次活動的興趣並詢問怎麼參加。",
+    "寄信給客服，反映最近購買產品的問題並請求退換貨。",
+    "寄信給學校的職業規劃中心，請求安排一次職業諮詢。"
   ],
   "discussionPrompts": [
-    "教授問：「在現今社會中，科技對人際關係的影響是正面還是負面？」",
-    "教授問：「應該優先考慮經濟發展還是環境保護？」",
-    "教授問：「大學教育應該更注重理論還是實踐經驗？」",
-    "教授問：「社交媒體對青年的心理健康有何影響？」",
-    "教授問：「是否應該推動免費大學教育的政策？」",
-    "教授問：「文化多樣性在全球化中扮演什麼角色？」"
+    "教授問：「如何看待科技對於人類社會的影響？」",
+    "教授問：「應該如何平衡經濟發展與環境保護的關係？」",
+    "教授問：「社交媒體對人際關係的影響是正面還是負面？」",
+    "教授問：「教育制度應該如何改革以適應未來的需求？」",
+    "教授問：「文化多樣性在全球化中的重要性是什麼？」",
+    "教授問：「大學教育的目的是什麼？應該如何評估其成功？」"
   ]
 }

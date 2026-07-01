@@ -1,116 +1,116 @@
 {
   "chooseResponse": [
     {
-      "q": "What time is the study group meeting?",
+      "q": "What did you think of the lecture?",
       "options": [
-        "At 5 PM.",
-        "In the library.",
-        "Next week.",
-        "With the professor."
+        "It was fascinating!",
+        "I didn't understand much.",
+        "It was boring.",
+        "I can't wait to read more."
       ],
       "correctIndex": 0
     }
   ],
   "conversation": {
-    "transcript": "Student: Hey, have you heard about the study group for biology?\nAdvisor: Yeah, I just found out. It's happening this Thursday.\nStudent: I was thinking of joining. Do you think it's useful?\nAdvisor: Absolutely! It'll really help with understanding the material.",
+    "transcript": "Student: Hey, did you go to the art exhibit last night?\nAdvisor: Yes, I did! It was really impressive. Did you see the sculpture section?\nStudent: I missed that! What was so special about it?\nAdvisor: The artist used recycled materials to create amazing pieces. You should check it out!",
     "questions": [
       {
-        "q": "When is the study group meeting?",
+        "q": "What did the student miss at the exhibit?",
         "options": [
-          "This Thursday.",
-          "Next Monday.",
-          "Tomorrow.",
-          "Last week."
+          "The sculpture section",
+          "The painting section",
+          "The interactive display",
+          "The guided tour"
         ],
         "correctIndex": 0,
-        "explain": "這個問題是關於學習小組的會議時間。"
+        "explain": "學生錯過了雕塑區。"
       },
       {
-        "q": "What subject is the study group for?",
+        "q": "What materials did the artist use?",
         "options": [
-          "Mathematics.",
-          "Biology.",
-          "Chemistry.",
-          "Physics."
+          "Wood and metal",
+          "Plastic and glass",
+          "Recycled materials",
+          "Only metal"
         ],
-        "correctIndex": 1,
-        "explain": "這個問題是關於學習小組的科目。"
+        "correctIndex": 2,
+        "explain": "藝術家使用了回收材料。"
       }
     ]
   },
   "announcement": {
-    "transcript": "Attention students: The library will be closing early today at 4 PM due to maintenance. Please make sure to check out any books you need before that time. Thank you for your understanding.",
+    "transcript": "Attention students! The library will be closed for maintenance this weekend. Please make sure to return or renew your books before Friday evening. We apologize for any inconvenience and appreciate your understanding.",
     "questions": [
       {
-        "q": "Why is the library closing early?",
+        "q": "Why will the library be closed?",
         "options": [
-          "For maintenance.",
-          "A holiday.",
-          "Staff training.",
-          "Book sale."
+          "For a holiday",
+          "For maintenance",
+          "For a special event",
+          "For staff training"
         ],
-        "correctIndex": 0,
-        "explain": "這個問題是關於為什麼圖書館提前關閉的原因。"
+        "correctIndex": 1,
+        "explain": "圖書館會因為維護而關閉。"
       },
       {
-        "q": "What time does the library close today?",
+        "q": "When should students return their books?",
         "options": [
-          "6 PM.",
-          "5 PM.",
-          "4 PM.",
-          "3 PM."
+          "Before Saturday night",
+          "Before Friday evening",
+          "Before next week",
+          "Before Monday morning"
         ],
-        "correctIndex": 2,
-        "explain": "這個問題是詢問圖書館今天的關閉時間。"
+        "correctIndex": 1,
+        "explain": "學生應該在星期五晚上之前歸還書籍。"
       }
     ]
   },
   "talk": {
-    "transcript": "Today, we will discuss the concept of biodiversity. Biodiversity refers to the variety of life on Earth, including the diversity of species, ecosystems, and genetic variations. It is crucial for maintaining ecosystem services, such as clean air and water, pollination of plants, and climate regulation. High levels of biodiversity increase resilience to environmental changes, making ecosystems more robust. However, human activities, like habitat destruction and pollution, threaten biodiversity. Conservation efforts are therefore essential to protect our planet's natural heritage and ensure sustainable development for future generations.",
+    "transcript": "Today, I want to discuss the concept of biodiversity and its importance to ecosystems. Biodiversity refers to the variety of life found on Earth, including the different species of plants, animals, and microorganisms. It plays a crucial role in maintaining the balance of ecosystems. High biodiversity helps ecosystems to be more resilient to changes, such as climate change or human impact. For instance, diverse ecosystems can recover more quickly from disturbances. Additionally, biodiversity contributes to human well-being by providing resources like food, medicine, and clean air. Protecting biodiversity is essential for a sustainable future.",
     "questions": [
       {
-        "q": "What does biodiversity refer to?",
+        "q": "What is biodiversity?",
         "options": [
-          "Variety of life.",
-          "Weather patterns.",
-          "Geological formations.",
-          "Human cultures."
+          "Variety of ecosystems",
+          "Variety of species",
+          "Variety of climates",
+          "Variety of landscapes"
         ],
-        "correctIndex": 0,
-        "explain": "這個問題是關於生物多樣性定義的。"
+        "correctIndex": 1,
+        "explain": "生物多樣性是指物種的多樣性。"
       },
       {
         "q": "Why is biodiversity important?",
         "options": [
-          "For tourism.",
-          "To enhance beauty.",
-          "To maintain ecosystem services.",
-          "To increase population."
+          "It helps in climate regulation",
+          "It increases pollution",
+          "It reduces food resources",
+          "It makes ecosystems fragile"
         ],
-        "correctIndex": 2,
-        "explain": "這個問題是關於生物多樣性重要性的原因。"
+        "correctIndex": 0,
+        "explain": "生物多樣性有助於氣候調節。"
       },
       {
-        "q": "What threatens biodiversity according to the talk?",
+        "q": "How does biodiversity affect human well-being?",
         "options": [
-          "Natural disasters.",
-          "Human activities.",
-          "Animal migration.",
-          "Space exploration."
+          "By creating more waste",
+          "By providing resources",
+          "By limiting resources",
+          "By increasing conflicts"
         ],
         "correctIndex": 1,
-        "explain": "這個問題是關於講座中威脅生物多樣性的因素。"
+        "explain": "生物多樣性通過提供資源來影響人類福祉。"
       },
       {
-        "q": "What can help protect biodiversity?",
+        "q": "What can diverse ecosystems do better?",
         "options": [
-          "Technology advancements.",
-          "Conservation efforts.",
-          "Urban development.",
-          "Increased population."
+          "Grow faster",
+          "Recover from disturbances",
+          "Reduce pollution",
+          "Attract more visitors"
         ],
         "correctIndex": 1,
-        "explain": "這個問題是關於如何保護生物多樣性的措施。"
+        "explain": "多樣的生態系統能更好地從擾動中恢復。"
       }
     ]
   }

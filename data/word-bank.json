@@ -2758,5 +2758,261 @@
     "zh": "世界觀",
     "ex": "An individual's worldview is shaped by their cultural background and experiences.",
     "cat": "📰 每日新詞：anthropology"
+  },
+  {
+    "word": "pollution",
+    "pos": "n.",
+    "root": "pollute-污染 + -ion名詞後綴",
+    "zh": "污染",
+    "ex": "Air pollution has significant effects on human health and the environment.",
+    "cat": "📰 每日新詞：environmental science"
+  },
+  {
+    "word": "renewable",
+    "pos": "adj.",
+    "root": "re-再 + new-新的 + able能的",
+    "zh": "可再生的",
+    "ex": "Renewable energy sources are essential for a sustainable future.",
+    "cat": "📰 每日新詞：environmental science"
+  },
+  {
+    "word": "climate",
+    "pos": "n.",
+    "root": "climat-氣候",
+    "zh": "氣候",
+    "ex": "Climate change is one of the greatest challenges facing humanity today.",
+    "cat": "📰 每日新詞：environmental science"
+  },
+  {
+    "word": "conservation",
+    "pos": "n.",
+    "root": "conserve-保護 + -ation名詞後綴",
+    "zh": "保護",
+    "ex": "Conservation efforts are crucial for preserving endangered species.",
+    "cat": "📰 每日新詞：environmental science"
+  },
+  {
+    "word": "deforestation",
+    "pos": "n.",
+    "root": "de-去除 + forest-森林 + -ation名詞後綴",
+    "zh": "森林砍伐",
+    "ex": "Deforestation has devastating effects on global biodiversity.",
+    "cat": "📰 每日新詞：environmental science"
+  },
+  {
+    "word": "carbon footprint",
+    "pos": "n.",
+    "root": "carbon-碳 + footprint-足跡",
+    "zh": "碳足跡",
+    "ex": "Reducing one's carbon footprint is essential for combating climate change.",
+    "cat": "📰 每日新詞：environmental science"
+  },
+  {
+    "word": "ecosystem services",
+    "pos": "n.",
+    "root": "ecosystem-生態系統 + services服務",
+    "zh": "生態系統服務",
+    "ex": "Ecosystem services provide essential benefits for human well-being.",
+    "cat": "📰 每日新詞：environmental science"
+  },
+  {
+    "word": "sustain",
+    "pos": "v.",
+    "root": "sustain-維持",
+    "zh": "維持",
+    "ex": "We must sustain our natural resources for future generations.",
+    "cat": "📰 每日新詞：environmental science"
+  },
+  {
+    "word": "degrade",
+    "pos": "v.",
+    "root": "de-降低 + grade-等級",
+    "zh": "降解",
+    "ex": "Human activities can degrade the quality of natural environments.",
+    "cat": "📰 每日新詞：environmental science"
+  },
+  {
+    "word": "interdependent",
+    "pos": "adj.",
+    "root": "inter-相互 + dependent-依賴的",
+    "zh": "相互依存的",
+    "ex": "All species in an ecosystem are interdependent on each other.",
+    "cat": "📰 每日新詞：environmental science"
+  },
+  {
+    "word": "mitigation",
+    "pos": "n.",
+    "root": "mitigate-減輕 + -ion名詞後綴",
+    "zh": "減輕",
+    "ex": "Mitigation strategies are necessary to address the impacts of climate change.",
+    "cat": "📰 每日新詞：environmental science"
+  },
+  {
+    "word": "emission",
+    "pos": "n.",
+    "root": "emit-放出 + -ion名詞後綴",
+    "zh": "排放",
+    "ex": "Greenhouse gas emissions are a major contributor to global warming.",
+    "cat": "📰 每日新詞：environmental science"
+  },
+  {
+    "word": "fertility",
+    "pos": "n.",
+    "root": "fertile-肥沃的 + -ity名詞後綴",
+    "zh": "肥沃",
+    "ex": "Soil fertility is crucial for agricultural productivity.",
+    "cat": "📰 每日新詞：environmental science"
+  },
+  {
+    "word": "restoration",
+    "pos": "n.",
+    "root": "restore-恢復 + -ation名詞後綴",
+    "zh": "恢復",
+    "ex": "Ecological restoration aims to return ecosystems to their natural state.",
+    "cat": "📰 每日新詞：environmental science"
+  },
+  {
+    "word": "biodiversity hotspot",
+    "pos": "n.",
+    "root": "biodiversity-生物多樣性 + hotspot-熱點",
+    "zh": "生物多樣性熱點",
+    "ex": "The Amazon rainforest is considered a biodiversity hotspot.",
+    "cat": "📰 每日新詞：environmental science"
+  },
+  {
+    "word": "geothermal",
+    "pos": "adj.",
+    "root": "geo-地球 + thermal-熱的",
+    "zh": "地熱的",
+    "ex": "Geothermal energy is a renewable resource derived from the Earth's heat.",
+    "cat": "📰 每日新詞：environmental science"
+  },
+  {
+    "word": "habitat fragmentation",
+    "pos": "n.",
+    "root": "habitat-棲息地 + fragmentation-碎片化",
+    "zh": "棲息地碎片化",
+    "ex": "Habitat fragmentation negatively impacts wildlife populations.",
+    "cat": "📰 每日新詞：environmental science"
+  },
+  {
+    "word": "aquifer",
+    "pos": "n.",
+    "root": "aqua-水 + fer-承載",
+    "zh": "含水層",
+    "ex": "Aquifers are vital sources of freshwater for many communities.",
+    "cat": "📰 每日新詞：environmental science"
+  },
+  {
+    "word": "organic",
+    "pos": "adj.",
+    "root": "organ-有機的 + -ic形容詞後綴",
+    "zh": "有機的",
+    "ex": "Organic farming practices promote soil health and reduce chemical use.",
+    "cat": "📰 每日新詞：environmental science"
+  },
+  {
+    "word": "climate resilience",
+    "pos": "n.",
+    "root": "climate-氣候 + resilience-韌性",
+    "zh": "氣候韌性",
+    "ex": "Building climate resilience is essential for communities facing environmental challenges.",
+    "cat": "📰 每日新詞：environmental science"
+  },
+  {
+    "word": "landfill",
+    "pos": "n.",
+    "root": "land-土地 + fill-填充",
+    "zh": "垃圾填埋場",
+    "ex": "Landfills are a major source of environmental pollution.",
+    "cat": "📰 每日新詞：environmental science"
+  },
+  {
+    "word": "overexploitation",
+    "pos": "n.",
+    "root": "over-過度 + exploit-開採 + -ation名詞後綴",
+    "zh": "過度開採",
+    "ex": "Overexploitation of resources can lead to severe ecological consequences.",
+    "cat": "📰 每日新詞：environmental science"
+  },
+  {
+    "word": "natural resource",
+    "pos": "n.",
+    "root": "natural-自然的 + resource-資源",
+    "zh": "自然資源",
+    "ex": "Conservation of natural resources is vital for sustainable development.",
+    "cat": "📰 每日新詞：environmental science"
+  },
+  {
+    "word": "acidification",
+    "pos": "n.",
+    "root": "acid-酸 + -ification名詞後綴",
+    "zh": "酸化",
+    "ex": "Ocean acidification poses a serious threat to marine life.",
+    "cat": "📰 每日新詞：environmental science"
+  },
+  {
+    "word": "biodegradable",
+    "pos": "adj.",
+    "root": "bio-生物 + degradable可降解的",
+    "zh": "可生物降解的",
+    "ex": "Biodegradable materials are preferred for reducing waste.",
+    "cat": "📰 每日新詞：environmental science"
+  },
+  {
+    "word": "pollutant",
+    "pos": "n.",
+    "root": "pollute-污染 + -ant名詞後綴",
+    "zh": "污染物",
+    "ex": "Identifying pollutants is key to environmental monitoring.",
+    "cat": "📰 每日新詞：environmental science"
+  },
+  {
+    "word": "anthropogenic",
+    "pos": "adj.",
+    "root": "anthropo-人類 + genic-產生的",
+    "zh": "人為的",
+    "ex": "Anthropogenic activities significantly alter natural landscapes.",
+    "cat": "📰 每日新詞：environmental science"
+  },
+  {
+    "word": "sustainable development",
+    "pos": "n.",
+    "root": "sustainable-可持續的 + development-發展",
+    "zh": "可持續發展",
+    "ex": "Sustainable development aims to meet the needs of the present without compromising future generations.",
+    "cat": "📰 每日新詞：environmental science"
+  },
+  {
+    "word": "greenhouse effect",
+    "pos": "n.",
+    "root": "greenhouse-溫室 + effect-效應",
+    "zh": "溫室效應",
+    "ex": "The greenhouse effect is a natural phenomenon that warms the Earth's surface.",
+    "cat": "📰 每日新詞：environmental science"
+  },
+  {
+    "word": "reforestation",
+    "pos": "n.",
+    "root": "re-重新 + forest-森林 + -ation名詞後綴",
+    "zh": "再造林",
+    "ex": "Reforestation efforts are critical for restoring degraded landscapes.",
+    "cat": "📰 每日新詞：environmental science"
+  },
+  {
+    "word": "waste management",
+    "pos": "n.",
+    "root": "waste-廢物 + management-管理",
+    "zh": "廢物管理",
+    "ex": "Effective waste management is essential for minimizing environmental impact.",
+    "cat": "📰 每日新詞：environmental science"
+  },
+  {
+    "word": "ecological footprint",
+    "pos": "n.",
+    "root": "ecological-生態的 + footprint-足跡",
+    "zh": "生態足跡",
+    "ex": "An ecological footprint measures the environmental impact of an individual or community.",
+    "cat": "📰 每日新詞：environmental science"
   }
 ]

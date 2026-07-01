@@ -1,45 +1,45 @@
 {
   "shadowSentences": [
-    "I enjoy reading books in my free time.",
-    "The weather today is surprisingly warm and sunny.",
-    "I like to go hiking on weekends with my friends.",
-    "Cooking new recipes can be both fun and challenging.",
-    "My favorite movies are often those with a great story.",
-    "Traveling to new places helps me learn about different cultures.",
-    "Listening to music helps me relax after a long day.",
-    "I often take short breaks while studying to stay focused.",
-    "Exercising regularly has many benefits for physical and mental health.",
-    "Volunteering at local shelters gives me a sense of purpose and community."
+    "I enjoy reading books every evening.",
+    "My brother plays soccer on weekends.",
+    "We often go hiking during summer vacations.",
+    "She loves to cook new recipes for dinner.",
+    "Traveling to new places can be very exciting.",
+    "The weather today is perfect for a picnic.",
+    "I like to listen to music while studying.",
+    "My favorite movie genre is science fiction and fantasy.",
+    "Exploring different cultures through food can be enlightening.",
+    "Volunteering at local shelters brings me great joy and fulfillment."
   ],
   "interviewScenarios": [
     {
-      "topic": "旅行經歷",
-      "intro": "You have agreed to take part in a research study about travel experiences.",
+      "topic": "寵物照顧",
+      "intro": "You have agreed to take part in a research study about pet care.",
       "questions": [
-        "Q1: Can you share a memorable travel experience you had?",
-        "Q2: What challenges did you face while traveling?",
-        "Q3: How do you think travel impacts personal growth?",
-        "Q4: What advice would you give to someone traveling for the first time?"
+        "Q1: What kind of pet do you have, and how did you choose it?",
+        "Q2: What are some challenges you face while taking care of your pet?",
+        "Q3: In your opinion, what makes a good pet owner?",
+        "Q4: What advice would you give to someone considering getting a pet?"
       ]
     },
     {
-      "topic": "運動習慣",
-      "intro": "You have agreed to take part in a research study about sports habits.",
+      "topic": "環保生活",
+      "intro": "You have agreed to take part in a research study about eco-friendly living.",
       "questions": [
-        "Q1: What sports do you enjoy participating in regularly?",
-        "Q2: Have you encountered any difficulties in maintaining your sports routine?",
-        "Q3: Why do you think sports are important for a healthy lifestyle?",
-        "Q4: What tips would you offer someone who wants to start exercising?"
+        "Q1: Can you describe some eco-friendly practices you follow at home?",
+        "Q2: What obstacles do you encounter when trying to live sustainably?",
+        "Q3: How important do you think eco-friendly living is for our future?",
+        "Q4: What recommendations do you have for someone wanting to reduce their environmental impact?"
       ]
     },
     {
-      "topic": "藝術欣賞",
-      "intro": "You have agreed to take part in a research study about art appreciation.",
+      "topic": "終身學習",
+      "intro": "You have agreed to take part in a research study about lifelong learning.",
       "questions": [
-        "Q1: What type of art do you enjoy the most and why?",
-        "Q2: Are there any barriers you face when exploring art?",
-        "Q3: In your opinion, how does art influence society?",
-        "Q4: What suggestions do you have for someone looking to appreciate art more?"
+        "Q1: What motivates you to continue learning new things?",
+        "Q2: What challenges have you faced in trying to learn new skills?",
+        "Q3: Why do you believe lifelong learning is essential in today's world?",
+        "Q4: What tips can you offer for making learning a regular part of life?"
       ]
     }
   ]
