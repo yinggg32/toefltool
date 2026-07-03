@@ -1,116 +1,116 @@
 {
   "chooseResponse": [
     {
-      "q": "What did you think of the lecture?",
+      "q": "What time is the meeting tomorrow?",
       "options": [
-        "It was fascinating!",
-        "I didn't understand much.",
-        "It was boring.",
-        "I can't wait to read more."
+        "At 10 AM",
+        "I forgot",
+        "Can I join?",
+        "Where is it?"
       ],
       "correctIndex": 0
     }
   ],
   "conversation": {
-    "transcript": "Student: Hey, did you go to the art exhibit last night?\nAdvisor: Yes, I did! It was really impressive. Did you see the sculpture section?\nStudent: I missed that! What was so special about it?\nAdvisor: The artist used recycled materials to create amazing pieces. You should check it out!",
+    "transcript": "Student: Hey, did you finish the project?\nProfessor: Not yet, I still have some data to analyze.\nStudent: Are you planning to submit it on time?\nProfessor: Yes, I’ll stay late if I have to.",
     "questions": [
       {
-        "q": "What did the student miss at the exhibit?",
+        "q": "What is the student asking about?",
         "options": [
-          "The sculpture section",
-          "The painting section",
-          "The interactive display",
-          "The guided tour"
+          "A meeting",
+          "A project",
+          "An exam",
+          "A class"
         ],
-        "correctIndex": 0,
-        "explain": "學生錯過了雕塑區。"
+        "correctIndex": 1,
+        "explain": "學生在詢問一個項目。"
       },
       {
-        "q": "What materials did the artist use?",
+        "q": "What does the professor plan to do?",
         "options": [
-          "Wood and metal",
-          "Plastic and glass",
-          "Recycled materials",
-          "Only metal"
+          "Work late",
+          "Take a break",
+          "Ask for help",
+          "Change the topic"
         ],
-        "correctIndex": 2,
-        "explain": "藝術家使用了回收材料。"
+        "correctIndex": 0,
+        "explain": "教授計劃加班。"
       }
     ]
   },
   "announcement": {
-    "transcript": "Attention students! The library will be closed for maintenance this weekend. Please make sure to return or renew your books before Friday evening. We apologize for any inconvenience and appreciate your understanding.",
+    "transcript": "Attention, students! The library will be closing early today at 5 PM for maintenance. Please make sure to gather your materials before then. Thank you for your understanding.",
     "questions": [
       {
-        "q": "Why will the library be closed?",
+        "q": "Why is the library closing early?",
         "options": [
-          "For a holiday",
-          "For maintenance",
-          "For a special event",
-          "For staff training"
+          "Staff meeting",
+          "Maintenance work",
+          "Inventory check",
+          "Holiday"
         ],
         "correctIndex": 1,
-        "explain": "圖書館會因為維護而關閉。"
+        "explain": "圖書館因為維護工作提前關閉。"
       },
       {
-        "q": "When should students return their books?",
+        "q": "What time will the library close?",
         "options": [
-          "Before Saturday night",
-          "Before Friday evening",
-          "Before next week",
-          "Before Monday morning"
+          "6 PM",
+          "4 PM",
+          "5 PM",
+          "7 PM"
         ],
-        "correctIndex": 1,
-        "explain": "學生應該在星期五晚上之前歸還書籍。"
+        "correctIndex": 2,
+        "explain": "圖書館將在下午5點關閉。"
       }
     ]
   },
   "talk": {
-    "transcript": "Today, I want to discuss the concept of biodiversity and its importance to ecosystems. Biodiversity refers to the variety of life found on Earth, including the different species of plants, animals, and microorganisms. It plays a crucial role in maintaining the balance of ecosystems. High biodiversity helps ecosystems to be more resilient to changes, such as climate change or human impact. For instance, diverse ecosystems can recover more quickly from disturbances. Additionally, biodiversity contributes to human well-being by providing resources like food, medicine, and clean air. Protecting biodiversity is essential for a sustainable future.",
+    "transcript": "Today, we will discuss the concept of renewable energy. Renewable energy comes from natural sources that can be replenished, such as sunlight, wind, and water. Unlike fossil fuels, which are limited and harmful to the environment, renewable energy sources are sustainable. For instance, solar panels convert sunlight into electricity, while wind turbines harness wind power. This shift towards renewables is essential for combating climate change and reducing our carbon footprint. By investing in renewable energy, we can create a cleaner, healthier planet for future generations.",
     "questions": [
       {
-        "q": "What is biodiversity?",
+        "q": "What is renewable energy?",
         "options": [
-          "Variety of ecosystems",
-          "Variety of species",
-          "Variety of climates",
-          "Variety of landscapes"
+          "Energy from fossil fuels",
+          "Sustainable energy sources",
+          "Nuclear energy",
+          "Coal energy"
         ],
         "correctIndex": 1,
-        "explain": "生物多樣性是指物種的多樣性。"
+        "explain": "可再生能源是可持續的能源來源。"
       },
       {
-        "q": "Why is biodiversity important?",
+        "q": "Why is renewable energy important?",
         "options": [
-          "It helps in climate regulation",
-          "It increases pollution",
-          "It reduces food resources",
-          "It makes ecosystems fragile"
-        ],
-        "correctIndex": 0,
-        "explain": "生物多樣性有助於氣候調節。"
-      },
-      {
-        "q": "How does biodiversity affect human well-being?",
-        "options": [
-          "By creating more waste",
-          "By providing resources",
-          "By limiting resources",
-          "By increasing conflicts"
+          "It is cheaper",
+          "It combats climate change",
+          "It is easier to use",
+          "It is more popular"
         ],
         "correctIndex": 1,
-        "explain": "生物多樣性通過提供資源來影響人類福祉。"
+        "explain": "可再生能源對抗氣候變化很重要。"
       },
       {
-        "q": "What can diverse ecosystems do better?",
+        "q": "What does solar energy use?",
         "options": [
-          "Grow faster",
-          "Recover from disturbances",
-          "Reduce pollution",
-          "Attract more visitors"
+          "Wind",
+          "Sunlight",
+          "Water",
+          "Geothermal heat"
         ],
         "correctIndex": 1,
-        "explain": "多樣的生態系統能更好地從擾動中恢復。"
+        "explain": "太陽能利用陽光。"
+      },
+      {
+        "q": "What is one benefit of renewable energy?",
+        "options": [
+          "Limited availability",
+          "Environmental harm",
+          "Sustainability",
+          "High cost"
+        ],
+        "correctIndex": 2,
+        "explain": "可再生能源的一個優點是可持續性。"
       }
     ]
   }

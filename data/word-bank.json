@@ -3014,5 +3014,269 @@
     "zh": "生態足跡",
     "ex": "An ecological footprint measures the environmental impact of an individual or community.",
     "cat": "📰 每日新詞：environmental science"
+  },
+  {
+    "word": "emotion",
+    "pos": "n.",
+    "root": "情感—emotion",
+    "zh": "情感，情緒",
+    "ex": "Emotion can significantly influence decision-making processes in various contexts.",
+    "cat": "📰 每日新詞：psychology"
+  },
+  {
+    "word": "neuroscience",
+    "pos": "n.",
+    "root": "神經科學—neuroscience",
+    "zh": "神經科學",
+    "ex": "Neuroscience has provided valuable insights into the biological underpinnings of mental health.",
+    "cat": "📰 每日新詞：psychology"
+  },
+  {
+    "word": "psychotherapy",
+    "pos": "n.",
+    "root": "心理治療—psychotherapy",
+    "zh": "心理治療",
+    "ex": "Psychotherapy can be an effective treatment for various psychological disorders.",
+    "cat": "📰 每日新詞：psychology"
+  },
+  {
+    "word": "cognitive",
+    "pos": "adj.",
+    "root": "認知—cognitive",
+    "zh": "認知的",
+    "ex": "Cognitive development is a key area of study in developmental psychology.",
+    "cat": "📰 每日新詞：psychology"
+  },
+  {
+    "word": "motivation",
+    "pos": "n.",
+    "root": "動機—motivation",
+    "zh": "動機，驅動力",
+    "ex": "Understanding motivation is essential for enhancing learning outcomes in educational settings.",
+    "cat": "📰 每日新詞：psychology"
+  },
+  {
+    "word": "personality",
+    "pos": "n.",
+    "root": "個性—personality",
+    "zh": "個性，性格",
+    "ex": "Personality traits can predict behavioral responses in different social situations.",
+    "cat": "📰 每日新詞：psychology"
+  },
+  {
+    "word": "psychologist",
+    "pos": "n.",
+    "root": "心理學家—psychologist",
+    "zh": "心理學家",
+    "ex": "A psychologist may employ various therapeutic techniques to help clients.",
+    "cat": "📰 每日新詞：psychology"
+  },
+  {
+    "word": "developmental",
+    "pos": "adj.",
+    "root": "發展—developmental",
+    "zh": "發展的",
+    "ex": "Developmental psychology examines the changes that occur throughout a person's life.",
+    "cat": "📰 每日新詞：psychology"
+  },
+  {
+    "word": "stress",
+    "pos": "n./v.",
+    "root": "壓力—stress",
+    "zh": "壓力",
+    "ex": "Stress management techniques are vital for maintaining mental health.",
+    "cat": "📰 每日新詞：psychology"
+  },
+  {
+    "word": "resilience",
+    "pos": "n.",
+    "root": "韌性—resilience",
+    "zh": "韌性，恢復力",
+    "ex": "Resilience is the ability to bounce back from adversity and challenges.",
+    "cat": "📰 每日新詞：psychology"
+  },
+  {
+    "word": "disorder",
+    "pos": "n.",
+    "root": "障礙—disorder",
+    "zh": "障礙，失調",
+    "ex": "Mental disorders require comprehensive assessment and treatment strategies.",
+    "cat": "📰 每日新詞：psychology"
+  },
+  {
+    "word": "hypothesis",
+    "pos": "n.",
+    "root": "假設—hypothesis",
+    "zh": "假設",
+    "ex": "The hypothesis was tested through controlled experiments to validate its accuracy.",
+    "cat": "📰 每日新詞：psychology"
+  },
+  {
+    "word": "perception",
+    "pos": "n.",
+    "root": "知覺—perception",
+    "zh": "知覺，感知",
+    "ex": "Perception can be influenced by social and cultural factors.",
+    "cat": "📰 每日新詞：psychology"
+  },
+  {
+    "word": "emotionally",
+    "pos": "adv.",
+    "root": "情感—emotionally",
+    "zh": "情感上",
+    "ex": "Emotionally supportive environments can foster better mental health.",
+    "cat": "📰 每日新詞：psychology"
+  },
+  {
+    "word": "attitude",
+    "pos": "n.",
+    "root": "態度—attitude",
+    "zh": "態度",
+    "ex": "Attitude can significantly influence an individual’s behavior and interactions.",
+    "cat": "📰 每日新詞：psychology"
+  },
+  {
+    "word": "anxiety",
+    "pos": "n.",
+    "root": "焦慮—anxiety",
+    "zh": "焦慮",
+    "ex": "Anxiety disorders are among the most common mental health issues affecting individuals.",
+    "cat": "📰 每日新詞：psychology"
+  },
+  {
+    "word": "empathy",
+    "pos": "n.",
+    "root": "同理心—empathy",
+    "zh": "同理心",
+    "ex": "Empathy is essential for effective communication and interpersonal relationships.",
+    "cat": "📰 每日新詞：psychology"
+  },
+  {
+    "word": "neuroticism",
+    "pos": "n.",
+    "root": "神經質—neuroticism",
+    "zh": "神經質",
+    "ex": "High levels of neuroticism can be associated with increased susceptibility to stress.",
+    "cat": "📰 每日新詞：psychology"
+  },
+  {
+    "word": "dynamics",
+    "pos": "n.",
+    "root": "動態—dynamics",
+    "zh": "動態，變化",
+    "ex": "Group dynamics can impact team performance and collaboration.",
+    "cat": "📰 每日新詞：psychology"
+  },
+  {
+    "word": "attachment",
+    "pos": "n.",
+    "root": "依附—attachment",
+    "zh": "依附，連結",
+    "ex": "Attachment theory explores the bonds formed between individuals.",
+    "cat": "📰 每日新詞：psychology"
+  },
+  {
+    "word": "cognitive-behavioral",
+    "pos": "adj.",
+    "root": "認知行為—cognitive-behavioral",
+    "zh": "認知行為的",
+    "ex": "Cognitive-behavioral therapy is a widely used treatment for depression.",
+    "cat": "📰 每日新詞：psychology"
+  },
+  {
+    "word": "psychopathology",
+    "pos": "n.",
+    "root": "心理病理學—psychopathology",
+    "zh": "心理病理學",
+    "ex": "Psychopathology examines the nature and development of mental disorders.",
+    "cat": "📰 每日新詞：psychology"
+  },
+  {
+    "word": "self-esteem",
+    "pos": "n.",
+    "root": "自尊—self-esteem",
+    "zh": "自尊，自我評價",
+    "ex": "High self-esteem is often linked to positive mental health outcomes.",
+    "cat": "📰 每日新詞：psychology"
+  },
+  {
+    "word": "neurotransmitter",
+    "pos": "n.",
+    "root": "神經傳導物質—neurotransmitter",
+    "zh": "神經傳導物質",
+    "ex": "Neurotransmitters play a key role in regulating mood and behavior.",
+    "cat": "📰 每日新詞：psychology"
+  },
+  {
+    "word": "therapeutic",
+    "pos": "adj.",
+    "root": "治療—therapeutic",
+    "zh": "治療的",
+    "ex": "Therapeutic approaches vary widely among mental health professionals.",
+    "cat": "📰 每日新詞：psychology"
+  },
+  {
+    "word": "counseling",
+    "pos": "n.",
+    "root": "輔導—counseling",
+    "zh": "輔導，諮詢",
+    "ex": "Counseling provides individuals with support and guidance in difficult times.",
+    "cat": "📰 每日新詞：psychology"
+  },
+  {
+    "word": "condition",
+    "pos": "n./v.",
+    "root": "狀況—condition",
+    "zh": "狀況，條件",
+    "ex": "Mental health conditions require a nuanced understanding of symptoms and treatment.",
+    "cat": "📰 每日新詞：psychology"
+  },
+  {
+    "word": "validation",
+    "pos": "n.",
+    "root": "驗證—validation",
+    "zh": "驗證，確認",
+    "ex": "Validation of feelings can enhance emotional well-being.",
+    "cat": "📰 每日新詞：psychology"
+  },
+  {
+    "word": "distraction",
+    "pos": "n.",
+    "root": "分心—distraction",
+    "zh": "分心，干擾",
+    "ex": "Distraction can impede effective learning and concentration.",
+    "cat": "📰 每日新詞：psychology"
+  },
+  {
+    "word": "neurodevelopment",
+    "pos": "n.",
+    "root": "神經發展—neurodevelopment",
+    "zh": "神經發展",
+    "ex": "Neurodevelopmental disorders often manifest in early childhood.",
+    "cat": "📰 每日新詞：psychology"
+  },
+  {
+    "word": "psychometric",
+    "pos": "adj.",
+    "root": "心理測量—psychometric",
+    "zh": "心理測量的",
+    "ex": "Psychometric tests are used to measure psychological attributes.",
+    "cat": "📰 每日新詞：psychology"
+  },
+  {
+    "word": "framework",
+    "pos": "n.",
+    "root": "框架—framework",
+    "zh": "框架，結構",
+    "ex": "The theoretical framework provides a basis for understanding human behavior.",
+    "cat": "📰 每日新詞：psychology"
+  },
+  {
+    "word": "dissonance",
+    "pos": "n.",
+    "root": "不和諧—dissonance",
+    "zh": "不和諧，矛盾",
+    "ex": "Cognitive dissonance can lead to changes in attitudes or beliefs.",
+    "cat": "📰 每日新詞：psychology"
   }
 ]

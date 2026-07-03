@@ -2,113 +2,95 @@
   "cloze": {
     "segments": [
       {
-        "text": "The theory of "
+        "text": "The process of photosynthesis is essential for life on Earth. It occurs in plants and certain bacteria, transforming light energy into chemical energy. During this process, carbon dioxide and water are absorbed and, through a series of reactions, converted into glucose and oxygen. The primary pigment involved in photosynthesis is chlorophyll, which absorbs light mostly in the blue and red wavelengths. Without photosynthesis, many organisms would not be able to obtain the energy necessary for survival, leading to a collapse of the food "
       },
       {
-        "blank": "torque"
+        "blank": "chain"
       },
       {
-        "text": " is fundamental to understanding rotational motion. In physics, torque is defined as the measure of the force that produces or prevents rotation around an axis. The formula to calculate torque is "
+        "text": ". Additionally, this process plays a crucial role in the Earth's carbon cycle, helping to regulate atmospheric carbon dioxide levels. As a result, photosynthesis is not only important for individual species but also for maintaining ecological balance. Understanding this process can help in the conservation of ecosystems and the development of sustainable "
       },
       {
-        "blank": "r"
+        "blank": "practices"
       },
       {
-        "text": " × F, where 'r' represents the distance from the pivot point to the point where the force is applied, and 'F' is the magnitude of the force. This concept is crucial in various applications, such as engineering and mechanics."
-      },
-      {
-        "blank": "applic"
-      },
-      {
-        "text": "ations in real-world scenarios can include everything from simple tools to complex machinery."
-      },
-      {
-        "blank": "under"
-      },
-      {
-        "text": "standing how torque works allows engineers to design safer and more efficient systems."
-      },
-      {
-        "blank": "mech"
-      },
-      {
-        "text": "anical devices often rely on precise torque calculations to function correctly."
+        "text": ". Research in this area continues to reveal new insights into its efficiency and its potential applications in renewable energy."
       }
     ]
   },
   "academic": {
-    "passage": "Torque is a critical concept in physics and engineering, essential for analyzing rotational dynamics. It refers to the rotational equivalent of linear force, influencing how objects rotate around an axis. The importance of torque extends to various engineering fields, where the correct application of this concept ensures functionality and safety in mechanical systems. Understanding torque allows for better design and optimization of tools, vehicles, and machinery, making it a vital part of both theoretical studies and practical applications.",
+    "passage": "Photosynthesis is a biological process where green plants and some bacteria convert light energy into chemical energy. This process primarily takes place in chloroplasts, utilizing carbon dioxide and water to produce glucose and oxygen. The importance of photosynthesis extends beyond individual organisms; it is a fundamental component of the Earth's ecosystem, influencing food chains and atmospheric conditions. Furthermore, the study of photosynthesis has significant implications for developing renewable energy sources and addressing climate change, highlighting its relevance in both ecological and technological contexts.",
     "questions": [
       {
         "q": "What is the main idea of the passage?",
         "options": [
-          "Torque is important in physics and engineering.",
-          "Torque only applies to simple tools.",
-          "Torque does not influence motion.",
-          "Torque is irrelevant in mechanical systems."
+          "Photosynthesis is crucial for life and ecological balance.",
+          "Chloroplasts are essential for photosynthesis.",
+          "Renewable energy can be derived from photosynthesis.",
+          "Photosynthesis only occurs in plants."
         ],
         "correctIndex": 0,
-        "explain": "本文主要講述了扭矩在物理和工程中的重要性。"
+        "explain": "這段文字的主要思想是光合作用對生命和生態平衡至關重要。"
       },
       {
-        "q": "What does the formula for torque include?",
+        "q": "What do chloroplasts do?",
         "options": [
-          "The speed of the object.",
-          "The distance from the pivot and the force applied.",
-          "The mass of the object only.",
-          "The angle of inclination."
+          "They convert light energy into food.",
+          "They regulate water intake.",
+          "They store energy as fats.",
+          "They absorb nutrients from the soil."
+        ],
+        "correctIndex": 0,
+        "explain": "葉綠體的功能是將光能轉化為食物。"
+      },
+      {
+        "q": "What can be inferred about the importance of photosynthesis?",
+        "options": [
+          "It affects only plant life.",
+          "It plays a role in energy production.",
+          "It has no impact on climate change.",
+          "It is a modern scientific discovery."
         ],
         "correctIndex": 1,
-        "explain": "扭矩的公式包含從支點到施力點的距離和施加的力量。"
+        "explain": "可以推斷光合作用對於能量生產很重要。"
       },
       {
-        "q": "What can be inferred about the applications of torque?",
+        "q": "What does the term 'chloroplasts' refer to in the passage?",
         "options": [
-          "Torque is only theoretical and not used practically.",
-          "Understanding torque is unnecessary for engineers.",
-          "Torque is crucial for safe and efficient designs.",
-          "Only simple machinery requires torque calculations."
-        ],
-        "correctIndex": 2,
-        "explain": "可以推斷，了解扭矩對於設計安全和有效的系統至關重要。"
-      },
-      {
-        "q": "What does 'pivot point' refer to in the context?",
-        "options": [
-          "The center of mass.",
-          "The point around which rotation occurs.",
-          "A fixed angle.",
-          "The point of force application."
+          "Parts of the plant that absorb nutrients.",
+          "Organs within plants where photosynthesis occurs.",
+          "Chemical compounds used in energy production.",
+          "Types of light used in photosynthesis."
         ],
         "correctIndex": 1,
-        "explain": "在上下文中，'支點'指的是旋轉發生的點。"
+        "explain": "在文章中，'葉綠體' 是指植物內進行光合作用的器官。"
       }
     ]
   },
   "daily": {
-    "passage": "Attention students: The library will be closed for maintenance this weekend. Please plan accordingly and return any borrowed materials before Friday. Thank you for your understanding!",
+    "passage": "Attention students: The library will be closed for renovations from March 1st to March 15th. Please plan accordingly and return any books before the closure. We apologize for any inconvenience this may cause and appreciate your understanding.",
     "questions": [
       {
         "q": "When will the library be closed?",
         "options": [
-          "This weekend.",
-          "Next week.",
-          "Friday only.",
-          "Tomorrow."
+          "From March 1st to March 15th.",
+          "From April 1st to April 15th.",
+          "From March 15th to March 30th.",
+          "From February 28th to March 1st."
         ],
         "correctIndex": 0,
-        "explain": "公告中提到圖書館將在本週末關閉。"
+        "explain": "圖書館將於3月1日至3月15日關閉。"
       },
       {
-        "q": "What should students do before the library closes?",
+        "q": "What should students do before the library closure?",
         "options": [
-          "Return borrowed materials.",
-          "Borrow more books.",
-          "Study in the library.",
-          "Attend a meeting."
+          "Return any books.",
+          "Start new projects.",
+          "Attend workshops.",
+          "Go on vacation."
         ],
         "correctIndex": 0,
-        "explain": "學生們應該在圖書館關閉之前歸還借用的材料。"
+        "explain": "學生應在圖書館關閉之前歸還所有書籍。"
       }
     ]
   }

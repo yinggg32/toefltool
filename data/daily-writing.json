@@ -3,131 +3,131 @@
     {
       "words": [
         "the",
-        "student",
-        "submitted",
-        "his",
-        "research",
-        "paper",
-        "on",
-        "time"
+        "quick",
+        "brown",
+        "fox",
+        "jumps",
+        "over",
+        "the",
+        "lazy",
+        "dog"
       ],
-      "display": "The student submitted his research paper on time."
+      "display": "The quick brown fox jumps over the lazy dog."
     },
     {
       "words": [
-        "the",
-        "team",
-        "worked",
-        "hard",
         "to",
-        "complete",
-        "the",
-        "project"
+        "study",
+        "effectively",
+        "you",
+        "must",
+        "establish",
+        "a",
+        "schedule"
       ],
-      "display": "The team worked hard to complete the project."
+      "display": "To study effectively, you must establish a schedule."
     },
     {
       "words": [
-        "she",
-        "enjoys",
-        "reading",
-        "books",
-        "during",
-        "her",
-        "free",
-        "time"
+        "the",
+        "research",
+        "team",
+        "published",
+        "their",
+        "findings",
+        "in",
+        "a",
+        "prestigious",
+        "journal"
       ],
-      "display": "She enjoys reading books during her free time."
+      "display": "The research team published their findings in a prestigious journal."
+    },
+    {
+      "words": [
+        "climate",
+        "change",
+        "affects",
+        "the",
+        "environment",
+        "and",
+        "human",
+        "societies"
+      ],
+      "display": "Climate change affects the environment and human societies."
+    },
+    {
+      "words": [
+        "the",
+        "library",
+        "offers",
+        "many",
+        "resources",
+        "for",
+        "students",
+        "to",
+        "access"
+      ],
+      "display": "The library offers many resources for students to access."
+    },
+    {
+      "words": [
+        "to",
+        "succeed",
+        "in",
+        "college",
+        "dedication",
+        "and",
+        "time",
+        "management",
+        "are",
+        "essential"
+      ],
+      "display": "To succeed in college, dedication and time management are essential."
     },
     {
       "words": [
         "the",
         "conference",
         "will",
-        "be",
-        "held",
+        "feature",
+        "experts",
+        "from",
+        "various",
+        "fields",
+        "of",
+        "study"
+      ],
+      "display": "The conference will feature experts from various fields of study."
+    },
+    {
+      "words": [
+        "participating",
         "in",
-        "the",
-        "main",
-        "auditorium"
+        "extracurricular",
+        "activities",
+        "can",
+        "enhance",
+        "your",
+        "college",
+        "experience"
       ],
-      "display": "The conference will be held in the main auditorium."
-    },
-    {
-      "words": [
-        "he",
-        "decided",
-        "to",
-        "take",
-        "a",
-        "different",
-        "approach",
-        "to",
-        "the",
-        "problem"
-      ],
-      "display": "He decided to take a different approach to the problem."
-    },
-    {
-      "words": [
-        "the",
-        "professor",
-        "requested",
-        "that",
-        "all",
-        "students",
-        "attend",
-        "the",
-        "lecture"
-      ],
-      "display": "The professor requested that all students attend the lecture."
-    },
-    {
-      "words": [
-        "we",
-        "need",
-        "to",
-        "organize",
-        "a",
-        "meeting",
-        "to",
-        "discuss",
-        "the",
-        "upcoming",
-        "event"
-      ],
-      "display": "We need to organize a meeting to discuss the upcoming event."
-    },
-    {
-      "words": [
-        "it",
-        "is",
-        "important",
-        "to",
-        "review",
-        "the",
-        "material",
-        "before",
-        "the",
-        "exam"
-      ],
-      "display": "It is important to review the material before the exam."
+      "display": "Participating in extracurricular activities can enhance your college experience."
     }
   ],
   "emailPrompts": [
-    "寄信給教授，請假參加下週的研討會，並詢問是否可以獲得會議資料。",
-    "寄信給宿舍辦公室，詢問關於延長住宿期限的流程。",
-    "寄信給圖書館，請求延長已借書籍的還書期限。",
-    "寄信給社團負責人，表達你對下次活動的興趣並詢問怎麼參加。",
-    "寄信給客服，反映最近購買產品的問題並請求退換貨。",
-    "寄信給學校的職業規劃中心，請求安排一次職業諮詢。"
+    "寄信給教授，詢問有關上課討論的問題。",
+    "寄信給宿舍辦公室，要求更換房間因為噪音問題。",
+    "寄信給圖書館，詢問延長借書期限的程序。",
+    "寄信給學生會，表達對近期活動的建議和意見。",
+    "寄信給客服，反映最近購買的產品出現的問題。",
+    "寄信給實習負責人，確認面試的具體時間和地點。"
   ],
   "discussionPrompts": [
-    "教授問：「如何看待科技對於人類社會的影響？」",
-    "教授問：「應該如何平衡經濟發展與環境保護的關係？」",
-    "教授問：「社交媒體對人際關係的影響是正面還是負面？」",
-    "教授問：「教育制度應該如何改革以適應未來的需求？」",
-    "教授問：「文化多樣性在全球化中的重要性是什麼？」",
-    "教授問：「大學教育的目的是什麼？應該如何評估其成功？」"
+    "教授問：「在現代社會中，科技對教育的影響是正面還是負面？」",
+    "教授問：「社會媒體在塑造公共意見方面的角色是什麼？」",
+    "教授問：「環境保護和經濟發展之間應該如何取得平衡？」",
+    "教授問：「全球化是否有助於文化交流還是導致文化同質化？」",
+    "教授問：「應該如何看待基因編輯技術的倫理問題？」",
+    "教授問：「大學應該如何應對學生心理健康的挑戰？」"
   ]
 }

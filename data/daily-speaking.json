@@ -1,45 +1,45 @@
 {
   "shadowSentences": [
-    "I enjoy reading books every evening.",
-    "My brother plays soccer on weekends.",
-    "We often go hiking during summer vacations.",
-    "She loves to cook new recipes for dinner.",
-    "Traveling to new places can be very exciting.",
-    "The weather today is perfect for a picnic.",
-    "I like to listen to music while studying.",
-    "My favorite movie genre is science fiction and fantasy.",
-    "Exploring different cultures through food can be enlightening.",
-    "Volunteering at local shelters brings me great joy and fulfillment."
+    "The weather is really nice today.",
+    "I enjoy reading books in my free time.",
+    "My favorite season is spring because of the flowers.",
+    "I like to cook dinner for my friends on weekends.",
+    "Traveling to new places helps me learn about cultures.",
+    "Listening to music helps me relax after a long day.",
+    "I often go hiking in the mountains during the summer.",
+    "Learning a new language can be challenging but rewarding.",
+    "Volunteering at local shelters makes me feel fulfilled.",
+    "Watching documentaries opens my mind to different perspectives."
   ],
   "interviewScenarios": [
     {
-      "topic": "寵物照顧",
-      "intro": "You have agreed to take part in a research study about pet care.",
+      "topic": "環保行為",
+      "intro": "You have agreed to take part in a research study about environmental behaviors.",
       "questions": [
-        "Q1: What kind of pet do you have, and how did you choose it?",
-        "Q2: What are some challenges you face while taking care of your pet?",
-        "Q3: In your opinion, what makes a good pet owner?",
-        "Q4: What advice would you give to someone considering getting a pet?"
+        "Q1: Can you share an experience when you practiced an eco-friendly habit?",
+        "Q2: What challenges do you face in maintaining these behaviors?",
+        "Q3: What do you think about the importance of environmental protection?",
+        "Q4: What advice would you give someone trying to live more sustainably?"
       ]
     },
     {
-      "topic": "環保生活",
-      "intro": "You have agreed to take part in a research study about eco-friendly living.",
+      "topic": "興趣愛好",
+      "intro": "You have agreed to take part in a research study about hobbies.",
       "questions": [
-        "Q1: Can you describe some eco-friendly practices you follow at home?",
-        "Q2: What obstacles do you encounter when trying to live sustainably?",
-        "Q3: How important do you think eco-friendly living is for our future?",
-        "Q4: What recommendations do you have for someone wanting to reduce their environmental impact?"
+        "Q1: What hobby do you enjoy the most and why?",
+        "Q2: Have you encountered any difficulties while pursuing this hobby?",
+        "Q3: How do you think hobbies impact our daily lives?",
+        "Q4: What suggestions would you give to someone looking for a new hobby?"
       ]
     },
     {
-      "topic": "終身學習",
-      "intro": "You have agreed to take part in a research study about lifelong learning.",
+      "topic": "數位學習",
+      "intro": "You have agreed to take part in a research study about digital learning.",
       "questions": [
-        "Q1: What motivates you to continue learning new things?",
-        "Q2: What challenges have you faced in trying to learn new skills?",
-        "Q3: Why do you believe lifelong learning is essential in today's world?",
-        "Q4: What tips can you offer for making learning a regular part of life?"
+        "Q1: Can you describe your experience with online learning?",
+        "Q2: What obstacles have you faced while studying digitally?",
+        "Q3: How effective do you think digital learning is compared to traditional methods?",
+        "Q4: What tips would you offer to improve the online learning experience?"
       ]
     }
   ]
