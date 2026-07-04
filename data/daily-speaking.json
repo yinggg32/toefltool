@@ -1,45 +1,45 @@
 {
   "shadowSentences": [
-    "The weather is really nice today.",
-    "I enjoy reading books in my free time.",
-    "My favorite season is spring because of the flowers.",
-    "I like to cook dinner for my friends on weekends.",
-    "Traveling to new places helps me learn about cultures.",
+    "I enjoy reading books every night.",
+    "My favorite season is autumn because of the colors.",
+    "I like to cook new recipes on weekends.",
+    "Traveling to new places makes me feel alive.",
     "Listening to music helps me relax after a long day.",
-    "I often go hiking in the mountains during the summer.",
-    "Learning a new language can be challenging but rewarding.",
-    "Volunteering at local shelters makes me feel fulfilled.",
-    "Watching documentaries opens my mind to different perspectives."
+    "I often go hiking with friends during the summer.",
+    "Learning new languages opens many doors for me.",
+    "I find gardening to be a rewarding hobby that relaxes me.",
+    "Exploring different cultures through food is a fun experience.",
+    "Participating in community service enriches my life and helps others."
   ],
   "interviewScenarios": [
     {
-      "topic": "環保行為",
-      "intro": "You have agreed to take part in a research study about environmental behaviors.",
+      "topic": "旅行體驗",
+      "intro": "You have agreed to take part in a research study about travel experiences.",
       "questions": [
-        "Q1: Can you share an experience when you practiced an eco-friendly habit?",
-        "Q2: What challenges do you face in maintaining these behaviors?",
-        "Q3: What do you think about the importance of environmental protection?",
-        "Q4: What advice would you give someone trying to live more sustainably?"
+        "Q1: Can you share a memorable travel experience you had?",
+        "Q2: What challenges did you face while traveling?",
+        "Q3: How do you feel about the impact of travel on personal growth?",
+        "Q4: What advice would you give someone planning their first big trip?"
       ]
     },
     {
-      "topic": "興趣愛好",
-      "intro": "You have agreed to take part in a research study about hobbies.",
+      "topic": "健康習慣",
+      "intro": "You have agreed to take part in a research study about healthy habits.",
       "questions": [
-        "Q1: What hobby do you enjoy the most and why?",
-        "Q2: Have you encountered any difficulties while pursuing this hobby?",
-        "Q3: How do you think hobbies impact our daily lives?",
-        "Q4: What suggestions would you give to someone looking for a new hobby?"
+        "Q1: What healthy habits do you try to maintain in your daily life?",
+        "Q2: Have you encountered any obstacles in keeping these habits?",
+        "Q3: What is your opinion on the importance of mental health in overall well-being?",
+        "Q4: What tips would you offer someone looking to improve their health?"
       ]
     },
     {
-      "topic": "數位學習",
-      "intro": "You have agreed to take part in a research study about digital learning.",
+      "topic": "科技對生活的影響",
+      "intro": "You have agreed to take part in a research study about the impact of technology on daily life.",
       "questions": [
-        "Q1: Can you describe your experience with online learning?",
-        "Q2: What obstacles have you faced while studying digitally?",
-        "Q3: How effective do you think digital learning is compared to traditional methods?",
-        "Q4: What tips would you offer to improve the online learning experience?"
+        "Q1: How has technology changed the way you communicate with others?",
+        "Q2: What challenges do you face with technology in your daily routine?",
+        "Q3: In your opinion, is technology more beneficial or harmful to society?",
+        "Q4: What advice would you give to someone struggling with technology dependence?"
       ]
     }
   ]

@@ -3278,5 +3278,269 @@
     "zh": "不和諧，矛盾",
     "ex": "Cognitive dissonance can lead to changes in attitudes or beliefs.",
     "cat": "📰 每日新詞：psychology"
+  },
+  {
+    "word": "artificial",
+    "pos": "adj.",
+    "root": "artificial—人造的",
+    "zh": "人造的",
+    "ex": "Artificial intelligence has revolutionized many industries by enhancing efficiency.",
+    "cat": "📰 每日新詞：technology and innovation"
+  },
+  {
+    "word": "automation",
+    "pos": "n.",
+    "root": "auto—自動化",
+    "zh": "自動化",
+    "ex": "The automation of manufacturing processes has significantly reduced labor costs.",
+    "cat": "📰 每日新詞：technology and innovation"
+  },
+  {
+    "word": "innovation",
+    "pos": "n.",
+    "root": "nova—新",
+    "zh": "創新",
+    "ex": "Innovation is essential for companies to maintain a competitive edge in the market.",
+    "cat": "📰 每日新詞：technology and innovation"
+  },
+  {
+    "word": "digital",
+    "pos": "adj.",
+    "root": "digit—數字的",
+    "zh": "數位的",
+    "ex": "Digital technologies have transformed the way we communicate and access information.",
+    "cat": "📰 每日新詞：technology and innovation"
+  },
+  {
+    "word": "infrastructure",
+    "pos": "n.",
+    "root": "struct—結構",
+    "zh": "基礎設施",
+    "ex": "Investing in infrastructure is crucial for supporting technological advancements.",
+    "cat": "📰 每日新詞：technology and innovation"
+  },
+  {
+    "word": "cybersecurity",
+    "pos": "n.",
+    "root": "cyber—網絡安全",
+    "zh": "網絡安全",
+    "ex": "Cybersecurity measures are vital for protecting sensitive data from breaches.",
+    "cat": "📰 每日新詞：technology and innovation"
+  },
+  {
+    "word": "platform",
+    "pos": "n.",
+    "root": "plat—平台",
+    "zh": "平台",
+    "ex": "The platform allows developers to create applications that enhance user experience.",
+    "cat": "📰 每日新詞：technology and innovation"
+  },
+  {
+    "word": "networking",
+    "pos": "n.",
+    "root": "work—工作",
+    "zh": "網絡",
+    "ex": "Effective networking can lead to numerous opportunities in the tech industry.",
+    "cat": "📰 每日新詞：technology and innovation"
+  },
+  {
+    "word": "prototype",
+    "pos": "n.",
+    "root": "typ—原型",
+    "zh": "原型",
+    "ex": "Developing a prototype is a crucial step in the product design process.",
+    "cat": "📰 每日新詞：technology and innovation"
+  },
+  {
+    "word": "algorithm",
+    "pos": "n.",
+    "root": "algor—算法",
+    "zh": "算法",
+    "ex": "The algorithm used in the software ensures accurate data analysis.",
+    "cat": "📰 每日新詞：technology and innovation"
+  },
+  {
+    "word": "interface",
+    "pos": "n.",
+    "root": "face—介面",
+    "zh": "介面",
+    "ex": "An intuitive user interface can greatly enhance the usability of software.",
+    "cat": "📰 每日新詞：technology and innovation"
+  },
+  {
+    "word": "innovation",
+    "pos": "v.",
+    "root": "nova—創新",
+    "zh": "創新",
+    "ex": "Companies must innovate continuously to adapt to changing market demands.",
+    "cat": "📰 每日新詞：technology and innovation"
+  },
+  {
+    "word": "cloud computing",
+    "pos": "n.",
+    "root": "cloud—雲端運算",
+    "zh": "雲端運算",
+    "ex": "Cloud computing has made it easier for businesses to store and access data remotely.",
+    "cat": "📰 每日新詞：technology and innovation"
+  },
+  {
+    "word": "connectivity",
+    "pos": "n.",
+    "root": "connect—連接性",
+    "zh": "連接性",
+    "ex": "High connectivity is essential for the functioning of modern smart devices.",
+    "cat": "📰 每日新詞：technology and innovation"
+  },
+  {
+    "word": "virtual",
+    "pos": "adj.",
+    "root": "virt—虛擬的",
+    "zh": "虛擬的",
+    "ex": "Virtual reality technologies have opened new avenues for immersive learning experiences.",
+    "cat": "📰 每日新詞：technology and innovation"
+  },
+  {
+    "word": "analytics",
+    "pos": "n.",
+    "root": "analy—分析",
+    "zh": "分析",
+    "ex": "Data analytics is crucial for making informed business decisions.",
+    "cat": "📰 每日新詞：technology and innovation"
+  },
+  {
+    "word": "simulation",
+    "pos": "n.",
+    "root": "simul—模擬",
+    "zh": "模擬",
+    "ex": "Simulation technologies are used to train professionals in various fields safely.",
+    "cat": "📰 每日新詞：technology and innovation"
+  },
+  {
+    "word": "disruption",
+    "pos": "n.",
+    "root": "rupt—顛覆",
+    "zh": "顛覆",
+    "ex": "Technological disruption can lead to the decline of established industries.",
+    "cat": "📰 每日新詞：technology and innovation"
+  },
+  {
+    "word": "algorithmic",
+    "pos": "adj.",
+    "root": "algor—算法的",
+    "zh": "算法的",
+    "ex": "Algorithmic trading has transformed the finance sector, increasing transaction speeds.",
+    "cat": "📰 每日新詞：technology and innovation"
+  },
+  {
+    "word": "mobile",
+    "pos": "adj.",
+    "root": "mobi—移動的",
+    "zh": "移動的",
+    "ex": "Mobile technology has changed how we interact and access information on the go.",
+    "cat": "📰 每日新詞：technology and innovation"
+  },
+  {
+    "word": "database",
+    "pos": "n.",
+    "root": "data—數據庫",
+    "zh": "數據庫",
+    "ex": "A well-organized database is essential for effective data management.",
+    "cat": "📰 每日新詞：technology and innovation"
+  },
+  {
+    "word": "telecommunication",
+    "pos": "n.",
+    "root": "tele—遠程通信",
+    "zh": "電信",
+    "ex": "Telecommunication advancements have greatly improved global connectivity.",
+    "cat": "📰 每日新詞：technology and innovation"
+  },
+  {
+    "word": "analytics",
+    "pos": "n.",
+    "root": "analy—分析",
+    "zh": "分析",
+    "ex": "The use of analytics in business strategies can drive growth and profitability.",
+    "cat": "📰 每日新詞：technology and innovation"
+  },
+  {
+    "word": "streamlining",
+    "pos": "v.",
+    "root": "stream—精簡",
+    "zh": "精簡",
+    "ex": "Streamlining processes can lead to significant cost savings for organizations.",
+    "cat": "📰 每日新詞：technology and innovation"
+  },
+  {
+    "word": "enhancement",
+    "pos": "n.",
+    "root": "enhance—增強",
+    "zh": "增強",
+    "ex": "Technology enhancement has led to improvements in product quality and performance.",
+    "cat": "📰 每日新詞：technology and innovation"
+  },
+  {
+    "word": "quantum",
+    "pos": "adj.",
+    "root": "quant—量子",
+    "zh": "量子",
+    "ex": "Quantum computing represents a significant leap forward in processing power.",
+    "cat": "📰 每日新詞：technology and innovation"
+  },
+  {
+    "word": "feedback",
+    "pos": "n.",
+    "root": "feed—反饋",
+    "zh": "反饋",
+    "ex": "User feedback is essential for improving the functionality of software applications.",
+    "cat": "📰 每日新詞：technology and innovation"
+  },
+  {
+    "word": "remote",
+    "pos": "adj.",
+    "root": "remot—遠程",
+    "zh": "遠程的",
+    "ex": "Remote work has become increasingly common due to advances in communication technology.",
+    "cat": "📰 每日新詞：technology and innovation"
+  },
+  {
+    "word": "innovation",
+    "pos": "n.",
+    "root": "nova—創新",
+    "zh": "創新",
+    "ex": "Innovation in renewable energy sources is critical for addressing climate change.",
+    "cat": "📰 每日新詞：technology and innovation"
+  },
+  {
+    "word": "user-friendly",
+    "pos": "adj.",
+    "root": "user—用戶友好的",
+    "zh": "用戶友好的",
+    "ex": "A user-friendly design can significantly enhance the adoption of new technologies.",
+    "cat": "📰 每日新詞：technology and innovation"
+  },
+  {
+    "word": "deployment",
+    "pos": "n.",
+    "root": "deploy—部署",
+    "zh": "部署",
+    "ex": "The deployment of new software systems requires careful planning and training.",
+    "cat": "📰 每日新詞：technology and innovation"
+  },
+  {
+    "word": "optimization",
+    "pos": "n.",
+    "root": "opt—優化",
+    "zh": "優化",
+    "ex": "Optimization of algorithms can enhance the performance of software applications.",
+    "cat": "📰 每日新詞：technology and innovation"
+  },
+  {
+    "word": "hardware",
+    "pos": "n.",
+    "root": "hard—硬件",
+    "zh": "硬體",
+    "ex": "The hardware components of a computer must be compatible for optimal performance.",
+    "cat": "📰 每日新詞：technology and innovation"
   }
 ]

@@ -3,131 +3,127 @@
     {
       "words": [
         "the",
-        "quick",
-        "brown",
-        "fox",
-        "jumps",
-        "over",
-        "the",
-        "lazy",
-        "dog"
-      ],
-      "display": "The quick brown fox jumps over the lazy dog."
-    },
-    {
-      "words": [
+        "researchers",
+        "discovered",
+        "new",
+        "methods",
         "to",
-        "study",
-        "effectively",
-        "you",
-        "must",
-        "establish",
-        "a",
-        "schedule"
+        "improve",
+        "efficiency"
       ],
-      "display": "To study effectively, you must establish a schedule."
+      "display": "The researchers discovered new methods to improve efficiency."
     },
     {
       "words": [
-        "the",
-        "research",
-        "team",
-        "published",
+        "students",
+        "should",
+        "review",
         "their",
-        "findings",
-        "in",
-        "a",
-        "prestigious",
-        "journal"
+        "notes",
+        "before",
+        "the",
+        "exam"
       ],
-      "display": "The research team published their findings in a prestigious journal."
+      "display": "Students should review their notes before the exam."
     },
     {
       "words": [
-        "climate",
-        "change",
-        "affects",
         "the",
         "environment",
-        "and",
-        "human",
-        "societies"
-      ],
-      "display": "Climate change affects the environment and human societies."
-    },
-    {
-      "words": [
-        "the",
-        "library",
-        "offers",
-        "many",
-        "resources",
-        "for",
-        "students",
-        "to",
-        "access"
-      ],
-      "display": "The library offers many resources for students to access."
-    },
-    {
-      "words": [
-        "to",
-        "succeed",
+        "is",
         "in",
-        "college",
-        "dedication",
-        "and",
-        "time",
-        "management",
-        "are",
-        "essential"
+        "danger",
+        "due",
+        "to",
+        "pollution"
       ],
-      "display": "To succeed in college, dedication and time management are essential."
+      "display": "The environment is in danger due to pollution."
     },
     {
       "words": [
         "the",
-        "conference",
-        "will",
-        "feature",
-        "experts",
-        "from",
+        "university",
+        "offers",
         "various",
-        "fields",
-        "of",
-        "study"
+        "programs",
+        "to",
+        "support",
+        "students"
       ],
-      "display": "The conference will feature experts from various fields of study."
+      "display": "The university offers various programs to support students."
     },
     {
       "words": [
-        "participating",
+        "learning",
+        "a",
+        "new",
+        "language",
+        "can",
+        "be",
+        "challenging",
+        "yet",
+        "rewarding"
+      ],
+      "display": "Learning a new language can be challenging yet rewarding."
+    },
+    {
+      "words": [
+        "many",
+        "students",
+        "participate",
         "in",
         "extracurricular",
         "activities",
-        "can",
-        "enhance",
-        "your",
-        "college",
-        "experience"
+        "to",
+        "develop",
+        "skills"
       ],
-      "display": "Participating in extracurricular activities can enhance your college experience."
+      "display": "Many students participate in extracurricular activities to develop skills."
+    },
+    {
+      "words": [
+        "effective",
+        "communication",
+        "is",
+        "essential",
+        "in",
+        "both",
+        "personal",
+        "and",
+        "professional",
+        "settings"
+      ],
+      "display": "Effective communication is essential in both personal and professional settings."
+    },
+    {
+      "words": [
+        "the",
+        "professor",
+        "encouraged",
+        "students",
+        "to",
+        "engage",
+        "in",
+        "critical",
+        "thinking"
+      ],
+      "display": "The professor encouraged students to engage in critical thinking."
     }
   ],
   "emailPrompts": [
-    "寄信給教授，詢問有關上課討論的問題。",
-    "寄信給宿舍辦公室，要求更換房間因為噪音問題。",
-    "寄信給圖書館，詢問延長借書期限的程序。",
-    "寄信給學生會，表達對近期活動的建議和意見。",
-    "寄信給客服，反映最近購買的產品出現的問題。",
-    "寄信給實習負責人，確認面試的具體時間和地點。"
+    "寄信給教授，請假因為生病無法參加課程，詢問課程內容。",
+    "寄信給宿舍辦公室，反映宿舍設備故障，請求修理。",
+    "寄信給圖書館，查詢某本書籍的借閱情況。",
+    "寄信給學生會，表達對舉辦活動的建議與意見。",
+    "寄信給客服，詢問產品的退貨政策及流程。",
+    "寄信給俱樂部幹部，報名參加即將舉辦的活動。"
   ],
   "discussionPrompts": [
-    "教授問：「在現代社會中，科技對教育的影響是正面還是負面？」",
-    "教授問：「社會媒體在塑造公共意見方面的角色是什麼？」",
-    "教授問：「環境保護和經濟發展之間應該如何取得平衡？」",
-    "教授問：「全球化是否有助於文化交流還是導致文化同質化？」",
-    "教授問：「應該如何看待基因編輯技術的倫理問題？」",
-    "教授問：「大學應該如何應對學生心理健康的挑戰？」"
+    "教授問：「你認為科技對教育的影響是正面還是負面？」",
+    "教授問：「社交媒體在現代社會中扮演什麼角色？」",
+    "教授問：「氣候變遷的影響是否足以改變我們的生活方式？」",
+    "教授問：「在全球化的背景下，文化多樣性的保護應該如何進行？」",
+    "教授問：「人工智慧是否會取代人類的工作？」",
+    "教授問：「大學教育應該如何調整以適應未來的職場需求？」"
   ]
 }

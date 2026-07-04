@@ -4,113 +4,113 @@
       "q": "What time is the meeting tomorrow?",
       "options": [
         "At 10 AM",
-        "I forgot",
-        "Can I join?",
-        "Where is it?"
+        "In the cafeteria",
+        "Not sure yet",
+        "After class"
       ],
       "correctIndex": 0
     }
   ],
   "conversation": {
-    "transcript": "Student: Hey, did you finish the project?\nProfessor: Not yet, I still have some data to analyze.\nStudent: Are you planning to submit it on time?\nProfessor: Yes, I’ll stay late if I have to.",
+    "transcript": "Student: Hey, have you heard about the new art exhibit opening on campus?\nAdvisor: Yes, I read about it in the newsletter. Are you planning to attend?\nStudent: Definitely! I love contemporary art.\nAdvisor: That sounds great. I hear there will be some workshops too.",
     "questions": [
       {
-        "q": "What is the student asking about?",
+        "q": "What does the student enjoy about the exhibit?",
         "options": [
-          "A meeting",
-          "A project",
-          "An exam",
-          "A class"
+          "The workshops",
+          "The contemporary art",
+          "The opening event",
+          "The location"
         ],
         "correctIndex": 1,
-        "explain": "學生在詢問一個項目。"
+        "explain": "學生喜歡當代藝術。"
       },
       {
-        "q": "What does the professor plan to do?",
+        "q": "What did the advisor read about?",
         "options": [
-          "Work late",
-          "Take a break",
-          "Ask for help",
-          "Change the topic"
+          "The art exhibit",
+          "The workshops",
+          "The newsletter",
+          "The campus events"
         ],
         "correctIndex": 0,
-        "explain": "教授計劃加班。"
+        "explain": "顧問讀到的是藝術展覽的資訊。"
       }
     ]
   },
   "announcement": {
-    "transcript": "Attention, students! The library will be closing early today at 5 PM for maintenance. Please make sure to gather your materials before then. Thank you for your understanding.",
+    "transcript": "Attention all students! The library will be hosting a special event this Friday at 3 PM featuring local authors. Come join us for readings, discussions, and a chance to meet the authors. Refreshments will be provided. We hope to see you there!",
     "questions": [
       {
-        "q": "Why is the library closing early?",
+        "q": "What is the event about?",
         "options": [
-          "Staff meeting",
-          "Maintenance work",
-          "Inventory check",
-          "Holiday"
+          "Local authors",
+          "Book sales",
+          "Library renovations",
+          "Art exhibits"
         ],
-        "correctIndex": 1,
-        "explain": "圖書館因為維護工作提前關閉。"
+        "correctIndex": 0,
+        "explain": "這個活動是關於當地作家的。"
       },
       {
-        "q": "What time will the library close?",
+        "q": "What will be provided at the event?",
         "options": [
-          "6 PM",
-          "4 PM",
-          "5 PM",
-          "7 PM"
+          "Books for sale",
+          "Refreshments",
+          "Workshops",
+          "Contests"
         ],
-        "correctIndex": 2,
-        "explain": "圖書館將在下午5點關閉。"
+        "correctIndex": 1,
+        "explain": "活動中會提供小吃和飲料。"
       }
     ]
   },
   "talk": {
-    "transcript": "Today, we will discuss the concept of renewable energy. Renewable energy comes from natural sources that can be replenished, such as sunlight, wind, and water. Unlike fossil fuels, which are limited and harmful to the environment, renewable energy sources are sustainable. For instance, solar panels convert sunlight into electricity, while wind turbines harness wind power. This shift towards renewables is essential for combating climate change and reducing our carbon footprint. By investing in renewable energy, we can create a cleaner, healthier planet for future generations.",
+    "transcript": "Today, I'll be discussing the importance of biodiversity. Biodiversity refers to the variety of life found on Earth, including the different species of plants, animals, and microorganisms. It is crucial for ecosystem stability and resilience. A diverse ecosystem can better withstand environmental changes and provides essential services, like pollination and clean air. Unfortunately, human activities are threatening biodiversity through habitat destruction, pollution, and climate change. Protecting biodiversity is vital for maintaining the health of our planet and ensuring a sustainable future for all living beings.",
     "questions": [
       {
-        "q": "What is renewable energy?",
+        "q": "What is biodiversity?",
         "options": [
-          "Energy from fossil fuels",
-          "Sustainable energy sources",
-          "Nuclear energy",
-          "Coal energy"
+          "Variety of ecosystems",
+          "Variety of species",
+          "Variety of climates",
+          "Variety of habitats"
         ],
         "correctIndex": 1,
-        "explain": "可再生能源是可持續的能源來源。"
+        "explain": "生物多樣性是地球上生命的多樣性，包括不同物種。"
       },
       {
-        "q": "Why is renewable energy important?",
+        "q": "Why is biodiversity important?",
         "options": [
-          "It is cheaper",
-          "It combats climate change",
-          "It is easier to use",
-          "It is more popular"
+          "For tourism",
+          "For ecosystem stability",
+          "For scientific research",
+          "For agriculture"
         ],
         "correctIndex": 1,
-        "explain": "可再生能源對抗氣候變化很重要。"
+        "explain": "生物多樣性對生態系統的穩定性至關重要。"
       },
       {
-        "q": "What does solar energy use?",
+        "q": "What threatens biodiversity?",
         "options": [
-          "Wind",
-          "Sunlight",
-          "Water",
-          "Geothermal heat"
+          "Increased tourism",
+          "Human activities",
+          "Natural disasters",
+          "Technological advancements"
         ],
         "correctIndex": 1,
-        "explain": "太陽能利用陽光。"
+        "explain": "人類活動威脅到生物多樣性。"
       },
       {
-        "q": "What is one benefit of renewable energy?",
+        "q": "What can be a consequence of lower biodiversity?",
         "options": [
-          "Limited availability",
-          "Environmental harm",
-          "Sustainability",
-          "High cost"
+          "Increased stability",
+          "More resources",
+          "Less resilience",
+          "More habitats"
         ],
         "correctIndex": 2,
-        "explain": "可再生能源的一個優點是可持續性。"
+        "explain": "生物多樣性降低可能導致生態系統的韌性減少。"
       }
     ]
   }
