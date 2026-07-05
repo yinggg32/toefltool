@@ -1,116 +1,116 @@
 {
   "chooseResponse": [
     {
-      "q": "What time is the meeting tomorrow?",
+      "q": "What did you think of the movie?",
       "options": [
-        "At 10 AM",
-        "In the cafeteria",
-        "Not sure yet",
-        "After class"
+        "It was amazing!",
+        "I didn't like it.",
+        "It was too long.",
+        "I want to see it again."
       ],
       "correctIndex": 0
     }
   ],
   "conversation": {
-    "transcript": "Student: Hey, have you heard about the new art exhibit opening on campus?\nAdvisor: Yes, I read about it in the newsletter. Are you planning to attend?\nStudent: Definitely! I love contemporary art.\nAdvisor: That sounds great. I hear there will be some workshops too.",
+    "transcript": "Student: Hey, did you catch that new film last night?\nAdvisor: Yes, I did! What did you think of it?\nStudent: I thought it was amazing! The visuals were stunning.\nAdvisor: I agree. The cinematography was truly impressive.",
     "questions": [
       {
-        "q": "What does the student enjoy about the exhibit?",
+        "q": "What did the student think of the film?",
         "options": [
-          "The workshops",
-          "The contemporary art",
-          "The opening event",
-          "The location"
-        ],
-        "correctIndex": 1,
-        "explain": "學生喜歡當代藝術。"
-      },
-      {
-        "q": "What did the advisor read about?",
-        "options": [
-          "The art exhibit",
-          "The workshops",
-          "The newsletter",
-          "The campus events"
+          "They thought it was amazing.",
+          "They didn't like it.",
+          "They thought it was boring.",
+          "They couldn't watch it."
         ],
         "correctIndex": 0,
-        "explain": "顧問讀到的是藝術展覽的資訊。"
+        "explain": "學生認為這部電影很棒。"
+      },
+      {
+        "q": "What impressed the advisor about the film?",
+        "options": [
+          "The music.",
+          "The acting.",
+          "The cinematography.",
+          "The plot."
+        ],
+        "correctIndex": 2,
+        "explain": "顧問對電影的攝影技術印象深刻。"
       }
     ]
   },
   "announcement": {
-    "transcript": "Attention all students! The library will be hosting a special event this Friday at 3 PM featuring local authors. Come join us for readings, discussions, and a chance to meet the authors. Refreshments will be provided. We hope to see you there!",
+    "transcript": "Attention students! The university is hosting a career fair this Friday in the Student Center from 10 AM to 3 PM. This is a great opportunity to meet potential employers and learn about various job openings. Don't forget to bring your resumes and dress professionally!",
     "questions": [
       {
-        "q": "What is the event about?",
+        "q": "When is the career fair being held?",
         "options": [
-          "Local authors",
-          "Book sales",
-          "Library renovations",
-          "Art exhibits"
-        ],
-        "correctIndex": 0,
-        "explain": "這個活動是關於當地作家的。"
-      },
-      {
-        "q": "What will be provided at the event?",
-        "options": [
-          "Books for sale",
-          "Refreshments",
-          "Workshops",
-          "Contests"
+          "This Thursday.",
+          "This Friday.",
+          "Next Monday.",
+          "Tomorrow."
         ],
         "correctIndex": 1,
-        "explain": "活動中會提供小吃和飲料。"
+        "explain": "職業博覽會將於本週五舉行。"
+      },
+      {
+        "q": "Where will the career fair take place?",
+        "options": [
+          "In the library.",
+          "In the gym.",
+          "In the Student Center.",
+          "In the cafeteria."
+        ],
+        "correctIndex": 2,
+        "explain": "職業博覽會將在學生中心舉行。"
       }
     ]
   },
   "talk": {
-    "transcript": "Today, I'll be discussing the importance of biodiversity. Biodiversity refers to the variety of life found on Earth, including the different species of plants, animals, and microorganisms. It is crucial for ecosystem stability and resilience. A diverse ecosystem can better withstand environmental changes and provides essential services, like pollination and clean air. Unfortunately, human activities are threatening biodiversity through habitat destruction, pollution, and climate change. Protecting biodiversity is vital for maintaining the health of our planet and ensuring a sustainable future for all living beings.",
+    "transcript": "Today, I want to discuss the concept of sustainability. Sustainability refers to the ability to meet our present needs without compromising the ability of future generations to meet their own needs. This encompasses various aspects, including environmental, social, and economic dimensions. For example, using renewable resources, reducing waste, and promoting social equity are all vital components of sustainability. By adopting sustainable practices, we can help ensure a healthy planet for years to come, benefiting both current and future communities.",
     "questions": [
       {
-        "q": "What is biodiversity?",
+        "q": "What does sustainability mean?",
         "options": [
-          "Variety of ecosystems",
-          "Variety of species",
-          "Variety of climates",
-          "Variety of habitats"
-        ],
-        "correctIndex": 1,
-        "explain": "生物多樣性是地球上生命的多樣性，包括不同物種。"
-      },
-      {
-        "q": "Why is biodiversity important?",
-        "options": [
-          "For tourism",
-          "For ecosystem stability",
-          "For scientific research",
-          "For agriculture"
-        ],
-        "correctIndex": 1,
-        "explain": "生物多樣性對生態系統的穩定性至關重要。"
-      },
-      {
-        "q": "What threatens biodiversity?",
-        "options": [
-          "Increased tourism",
-          "Human activities",
-          "Natural disasters",
-          "Technological advancements"
-        ],
-        "correctIndex": 1,
-        "explain": "人類活動威脅到生物多樣性。"
-      },
-      {
-        "q": "What can be a consequence of lower biodiversity?",
-        "options": [
-          "Increased stability",
-          "More resources",
-          "Less resilience",
-          "More habitats"
+          "Meeting future needs now.",
+          "Using renewable resources.",
+          "Maintaining a healthy planet.",
+          "Compromising future needs."
         ],
         "correctIndex": 2,
-        "explain": "生物多樣性降低可能導致生態系統的韌性減少。"
+        "explain": "可持續性是指為未來保持健康的地球。"
+      },
+      {
+        "q": "What is one example of a sustainable practice?",
+        "options": [
+          "Increasing waste.",
+          "Using fossil fuels.",
+          "Planting trees.",
+          "Ignoring social issues."
+        ],
+        "correctIndex": 2,
+        "explain": "種樹是可持續做法的一個例子。"
+      },
+      {
+        "q": "Why is sustainability important?",
+        "options": [
+          "To promote business profit.",
+          "To ensure a healthy planet.",
+          "To compete globally.",
+          "To reduce workforce."
+        ],
+        "correctIndex": 1,
+        "explain": "可持續性對確保健康的地球至關重要。"
+      },
+      {
+        "q": "Which aspect is NOT part of sustainability?",
+        "options": [
+          "Environmental.",
+          "Social.",
+          "Economic.",
+          "Limited resources."
+        ],
+        "correctIndex": 3,
+        "explain": "有限資源並不是可持續性的組成部分。"
       }
     ]
   }

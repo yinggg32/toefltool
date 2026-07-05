@@ -1,45 +1,45 @@
 {
   "shadowSentences": [
-    "I enjoy reading books every night.",
-    "My favorite season is autumn because of the colors.",
-    "I like to cook new recipes on weekends.",
-    "Traveling to new places makes me feel alive.",
-    "Listening to music helps me relax after a long day.",
-    "I often go hiking with friends during the summer.",
-    "Learning new languages opens many doors for me.",
-    "I find gardening to be a rewarding hobby that relaxes me.",
-    "Exploring different cultures through food is a fun experience.",
-    "Participating in community service enriches my life and helps others."
+    "I enjoy reading books every day.",
+    "My favorite meal is breakfast with pancakes.",
+    "I like to walk in the park after work.",
+    "Traveling to new places is always exciting to me.",
+    "I often listen to music while studying at home.",
+    "Cooking dinner with my family is a fun activity.",
+    "Watching movies on weekends helps me relax and unwind.",
+    "Exploring new hobbies can lead to interesting experiences.",
+    "I believe that volunteering can have a positive impact on the community.",
+    "Maintaining a balanced lifestyle is important for overall well-being."
   ],
   "interviewScenarios": [
     {
-      "topic": "旅行體驗",
-      "intro": "You have agreed to take part in a research study about travel experiences.",
+      "topic": "旅行計劃",
+      "intro": "You have agreed to take part in a research study about travel planning.",
       "questions": [
-        "Q1: Can you share a memorable travel experience you had?",
-        "Q2: What challenges did you face while traveling?",
-        "Q3: How do you feel about the impact of travel on personal growth?",
-        "Q4: What advice would you give someone planning their first big trip?"
+        "Q1: Can you describe a memorable trip you have taken?",
+        "Q2: What challenges do you face when planning a trip?",
+        "Q3: How do you feel about solo travel compared to group travel?",
+        "Q4: What advice would you give someone planning their first trip?"
       ]
     },
     {
-      "topic": "健康習慣",
-      "intro": "You have agreed to take part in a research study about healthy habits.",
+      "topic": "學習方式",
+      "intro": "You have agreed to take part in a research study about learning methods.",
       "questions": [
-        "Q1: What healthy habits do you try to maintain in your daily life?",
-        "Q2: Have you encountered any obstacles in keeping these habits?",
-        "Q3: What is your opinion on the importance of mental health in overall well-being?",
-        "Q4: What tips would you offer someone looking to improve their health?"
+        "Q1: What is your favorite way to learn something new?",
+        "Q2: Have you ever struggled with a particular subject? What happened?",
+        "Q3: In your opinion, which learning method is the most effective?",
+        "Q4: What tips would you recommend to someone looking to improve their study habits?"
       ]
     },
     {
-      "topic": "科技對生活的影響",
-      "intro": "You have agreed to take part in a research study about the impact of technology on daily life.",
+      "topic": "運動習慣",
+      "intro": "You have agreed to take part in a research study about exercise habits.",
       "questions": [
-        "Q1: How has technology changed the way you communicate with others?",
-        "Q2: What challenges do you face with technology in your daily routine?",
-        "Q3: In your opinion, is technology more beneficial or harmful to society?",
-        "Q4: What advice would you give to someone struggling with technology dependence?"
+        "Q1: What types of exercise do you enjoy the most?",
+        "Q2: What obstacles do you encounter when trying to stay active?",
+        "Q3: How important do you think exercise is for mental health?",
+        "Q4: What suggestions would you give to someone who wants to start exercising regularly?"
       ]
     }
   ]

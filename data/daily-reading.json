@@ -2,116 +2,107 @@
   "cloze": {
     "segments": [
       {
-        "text": "The process of photosynthesis is a fundamental biological"
+        "text": "The formation of a "
       },
       {
-        "blank": "reac"
+        "blank": "tains"
       },
       {
-        "text": "that enables green plants to convert sunlight into"
+        "text": " is a crucial process in the geological landscape. Mountains are formed through tectonic forces that "
       },
       {
-        "blank": "ener"
+        "blank": "press"
       },
       {
-        "text": ". During this process, plants take in carbon dioxide and"
+        "text": " and fold the Earth's crust. This can occur over millions of years, resulting in significant elevation changes. The "
       },
       {
-        "blank": "water"
+        "blank": "terri"
       },
       {
-        "text": ", using chlorophyll to capture light energy. This"
+        "text": " of mountains can vary greatly, affecting local climates and ecosystems. For example, moisture-laden winds may "
       },
       {
-        "blank": "energy"
+        "blank": "cool"
       },
       {
-        "text": "is then transformed into glucose, a sugar that serves as"
-      },
-      {
-        "blank": "fuel"
-      },
-      {
-        "text": "for growth and metabolism. The byproduct of photosynthesis is"
-      },
-      {
-        "blank": "oxygen"
+        "text": " as they ascend mountain slopes, leading to increased precipitation on one side and arid conditions on the other."
       }
     ]
   },
   "academic": {
-    "passage": "Photosynthesis is the process through which green plants and some other organisms convert light energy into chemical energy, specifically glucose. This occurs primarily in the chloroplasts of plant cells. The overall reaction involves taking in carbon dioxide from the air and water from the soil, producing glucose and releasing oxygen as a byproduct. This process is vital for life on Earth, as it provides the primary energy source for nearly all ecosystems and contributes to the atmospheric oxygen essential for respiration in animals.",
+    "passage": "Mountain formation is a fascinating geological process primarily driven by tectonic forces. These forces, which involve the movement of the Earth's crust, can create significant elevations over extensive periods. The varying terrain of mountains influences local climates and ecosystems, as wind patterns and precipitation are affected by the topography. Understanding mountain formation helps us appreciate the dynamic nature of our planet and the intricate relationships within different environments.",
     "questions": [
       {
         "q": "What is the main idea of the passage?",
         "options": [
-          "Photosynthesis is essential for life on Earth.",
-          "Chloroplasts are found in animal cells.",
-          "Carbon dioxide is harmful to plants.",
-          "Oxygen is not important for living organisms."
+          "Mountain formation is influenced by tectonic forces.",
+          "Mountains affect local climates and ecosystems.",
+          "The geological process of mountain formation takes millions of years.",
+          "Mountain terrain varies greatly in elevation."
         ],
         "correctIndex": 0,
-        "explain": "這段文字的主要思想是光合作用對地球生命至關重要。"
+        "explain": "這個選項正確因為文章的主題是關於山脈形成的地質過程，並強調了這些過程如何受構造力量的影響。"
       },
       {
-        "q": "What do plants absorb during photosynthesis?",
+        "q": "What primarily drives mountain formation?",
         "options": [
-          "Glucose and oxygen",
-          "Sunlight and nutrients",
-          "Carbon dioxide and water",
-          "Oxygen and nitrogen"
-        ],
-        "correctIndex": 2,
-        "explain": "植物在光合作用過程中吸收二氧化碳和水。"
-      },
-      {
-        "q": "What can be inferred about the role of chlorophyll?",
-        "options": [
-          "It is harmful to plants.",
-          "It is not involved in photosynthesis.",
-          "It captures light energy.",
-          "It produces oxygen."
-        ],
-        "correctIndex": 2,
-        "explain": "這段文字暗示葉綠素的角色是捕獲光能。"
-      },
-      {
-        "q": "What does the term 'byproduct' refer to in the context of photosynthesis?",
-        "options": [
-          "A necessary input",
-          "A secondary product",
-          "A harmful substance",
-          "A type of glucose"
+          "Erosion of rocks.",
+          "Tectonic forces.",
+          "Weather patterns.",
+          "Human activity."
         ],
         "correctIndex": 1,
-        "explain": "在光合作用中，'副產品'指的是二次產生的產品，即氧氣。"
+        "explain": "這個選項正確因為文中提到山脈的形成主要是由於地殼的運動，也就是構造力量。"
+      },
+      {
+        "q": "What can be inferred about mountain ecosystems?",
+        "options": [
+          "They are uniform across different regions.",
+          "They are highly influenced by local weather patterns.",
+          "They require no interaction with the climate.",
+          "They are only found in tropical areas."
+        ],
+        "correctIndex": 1,
+        "explain": "這個選項正確因為文中提到山脈的地形會影響當地氣候，因此可以推斷生態系統也會受影響。"
+      },
+      {
+        "q": "What does the word 'topography' most likely mean in this context?",
+        "options": [
+          "The scientific study of rocks.",
+          "The arrangement of natural and artificial physical features.",
+          "The process of erosion and sedimentation.",
+          "The impact of weather on landscapes."
+        ],
+        "correctIndex": 1,
+        "explain": "這個選項正確因為在這個上下文中，'topography' 指的是自然和人工地形特徵的安排。"
       }
     ]
   },
   "daily": {
-    "passage": "Attention students! The library will be closed this Saturday for maintenance. Please plan your study sessions accordingly. Normal hours will resume on Monday. Thank you for your understanding!",
+    "passage": "Attention students! The university library will be closed for maintenance this Saturday from 9 AM to 5 PM. Please plan your study time accordingly and make sure to return any borrowed books before the closure.",
     "questions": [
       {
-        "q": "When will the library be closed?",
+        "q": "When will the university library be closed?",
         "options": [
-          "This Saturday",
-          "This Sunday",
-          "Next Monday",
-          "Next Saturday"
+          "This Saturday.",
+          "Next Monday.",
+          "Tomorrow.",
+          "Next Saturday."
         ],
         "correctIndex": 0,
-        "explain": "圖書館將在本週六關閉。"
+        "explain": "這個選項正確因為公告中明確提到圖書館將於本週六關閉。"
       },
       {
-        "q": "When will normal library hours resume?",
+        "q": "What should students do before the library closes?",
         "options": [
-          "This Saturday",
-          "This Sunday",
-          "Next Monday",
-          "Next Tuesday"
+          "Take a break.",
+          "Return any borrowed books.",
+          "Start a new project.",
+          "Attend a seminar."
         ],
-        "correctIndex": 2,
-        "explain": "正常的圖書館開放時間將在下星期一恢復。"
+        "correctIndex": 1,
+        "explain": "這個選項正確因為公告提醒學生在圖書館關閉前歸還所借的書籍。"
       }
     ]
   }

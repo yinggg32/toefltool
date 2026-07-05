@@ -3542,5 +3542,221 @@
     "zh": "硬體",
     "ex": "The hardware components of a computer must be compatible for optimal performance.",
     "cat": "📰 每日新詞：technology and innovation"
+  },
+  {
+    "word": "chronology",
+    "pos": "n.",
+    "root": "chron-时间, logy-学科",
+    "zh": "年表",
+    "ex": "The chronology of ancient civilizations provides insights into their development and decline.",
+    "cat": "📰 每日新詞：history"
+  },
+  {
+    "word": "dynasty",
+    "pos": "n.",
+    "root": "dyn-力量, -asty-统治",
+    "zh": "王朝",
+    "ex": "The Ming dynasty is known for its significant contributions to art and culture.",
+    "cat": "📰 每日新詞：history"
+  },
+  {
+    "word": "colonial",
+    "pos": "adj.",
+    "root": "colon-殖民, -ial-相关的",
+    "zh": "殖民的",
+    "ex": "The colonial period significantly impacted the social structures of many countries.",
+    "cat": "📰 每日新詞：history"
+  },
+  {
+    "word": "revolution",
+    "pos": "n.",
+    "root": "re-再次, vol-转动, -ution-过程",
+    "zh": "革命",
+    "ex": "The American Revolution marked a turning point in the history of democracy.",
+    "cat": "📰 每日新詞：history"
+  },
+  {
+    "word": "empire",
+    "pos": "n.",
+    "root": "em-进入, pire-统治",
+    "zh": "帝国",
+    "ex": "The Roman Empire was one of the most powerful empires in ancient history.",
+    "cat": "📰 每日新詞：history"
+  },
+  {
+    "word": "excavation",
+    "pos": "n.",
+    "root": "ex-外, cav-挖掘, -ation-过程",
+    "zh": "挖掘",
+    "ex": "Excavation sites often reveal valuable information about ancient civilizations.",
+    "cat": "📰 每日新詞：history"
+  },
+  {
+    "word": "chronicle",
+    "pos": "n./v.",
+    "root": "chron-时间, -icle-小事物",
+    "zh": "编年史/编年记录",
+    "ex": "The chronicle of the war provides detailed accounts of significant battles.",
+    "cat": "📰 每日新詞：history"
+  },
+  {
+    "word": "legacy",
+    "pos": "n.",
+    "root": "leg-选择, -acy-状态",
+    "zh": "遗产",
+    "ex": "The legacy of the Enlightenment continues to influence modern political thought.",
+    "cat": "📰 每日新詞：history"
+  },
+  {
+    "word": "relic",
+    "pos": "n.",
+    "root": "re-再次, lic-遗留",
+    "zh": "遗物",
+    "ex": "The museum's collection includes relics from the ancient Egyptian civilization.",
+    "cat": "📰 每日新詞：history"
+  },
+  {
+    "word": "inscription",
+    "pos": "n.",
+    "root": "in-内, script-写, -ion-名词后缀",
+    "zh": "铭文",
+    "ex": "The inscription on the stone tablet dates back to the 5th century.",
+    "cat": "📰 每日新詞：history"
+  },
+  {
+    "word": "heritage",
+    "pos": "n.",
+    "root": "herit-继承, -age-名词后缀",
+    "zh": "遗产",
+    "ex": "Cultural heritage plays a vital role in shaping national identity.",
+    "cat": "📰 每日新詞：history"
+  },
+  {
+    "word": "conquest",
+    "pos": "n.",
+    "root": "con-共同, quest-寻求",
+    "zh": "征服",
+    "ex": "The conquest of the Aztec Empire was a significant event in world history.",
+    "cat": "📰 每日新詞：history"
+  },
+  {
+    "word": "reformation",
+    "pos": "n.",
+    "root": "re-再次, form-形成, -ation-过程",
+    "zh": "改革",
+    "ex": "The Reformation led to major changes in religious practices across Europe.",
+    "cat": "📰 每日新詞：history"
+  },
+  {
+    "word": "autocracy",
+    "pos": "n.",
+    "root": "auto-自我, cracy-统治",
+    "zh": "专制",
+    "ex": "The rise of autocracy can often lead to the suppression of individual freedoms.",
+    "cat": "📰 每日新詞：history"
+  },
+  {
+    "word": "democracy",
+    "pos": "n.",
+    "root": "demo-人民, cracy-统治",
+    "zh": "民主",
+    "ex": "Democracy is founded on the principles of equality and representation.",
+    "cat": "📰 每日新詞：history"
+  },
+  {
+    "word": "expansion",
+    "pos": "n.",
+    "root": "ex-外, pand-伸展, -ion-名词后缀",
+    "zh": "扩展",
+    "ex": "The expansion of the empire was driven by both economic and strategic interests.",
+    "cat": "📰 每日新詞：history"
+  },
+  {
+    "word": "scholarship",
+    "pos": "n.",
+    "root": "scholar-学者, -ship-状态",
+    "zh": "奖学金/学术研究",
+    "ex": "Scholarship in history requires rigorous analysis of primary sources.",
+    "cat": "📰 每日新詞：history"
+  },
+  {
+    "word": "faction",
+    "pos": "n.",
+    "root": "fac-做, -tion-状态",
+    "zh": "派系",
+    "ex": "Political factions often arise in response to differing ideologies.",
+    "cat": "📰 每日新詞：history"
+  },
+  {
+    "word": "synthesis",
+    "pos": "n.",
+    "root": "syn-共同, thes-放置, -is-名词后缀",
+    "zh": "综合",
+    "ex": "The synthesis of various historical perspectives can enrich our understanding of the past.",
+    "cat": "📰 每日新詞：history"
+  },
+  {
+    "word": "precedent",
+    "pos": "n.",
+    "root": "pre-前, cede-走, -ent-形容词后缀",
+    "zh": "先例",
+    "ex": "The legal precedent established in this case will influence future rulings.",
+    "cat": "📰 每日新詞：history"
+  },
+  {
+    "word": "revolutionary",
+    "pos": "adj./n.",
+    "root": "re-再次, vol-转动, -ution-过程",
+    "zh": "革命的/革命者",
+    "ex": "The revolutionary ideas of the Enlightenment challenged existing social norms.",
+    "cat": "📰 每日新詞：history"
+  },
+  {
+    "word": "apprenticeship",
+    "pos": "n.",
+    "root": "apprentice-学徒, -ship-状态",
+    "zh": "学徒制",
+    "ex": "The apprenticeship system was essential for the training of skilled craftsmen in the past.",
+    "cat": "📰 每日新詞：history"
+  },
+  {
+    "word": "totalitarian",
+    "pos": "adj.",
+    "root": "total-完全的, itarian-相关的",
+    "zh": "极权主义的",
+    "ex": "Totalitarian regimes often restrict personal freedoms and control public discourse.",
+    "cat": "📰 每日新詞：history"
+  },
+  {
+    "word": "inquisition",
+    "pos": "n.",
+    "root": "in-内, quis-询问, -ition-状态",
+    "zh": "宗教审判",
+    "ex": "The Inquisition sought to root out heresy during the Middle Ages.",
+    "cat": "📰 每日新詞：history"
+  },
+  {
+    "word": "sojourn",
+    "pos": "n./v.",
+    "root": "sojourn-逗留, -n-名词后缀",
+    "zh": "逗留",
+    "ex": "His sojourn in ancient Rome greatly influenced his later works.",
+    "cat": "📰 每日新詞：history"
+  },
+  {
+    "word": "enlightenment",
+    "pos": "n.",
+    "root": "en-使成为, light-光, -enment-状态",
+    "zh": "启蒙",
+    "ex": "The Enlightenment fostered a new approach to science and philosophy.",
+    "cat": "📰 每日新詞：history"
+  },
+  {
+    "word": "subjugation",
+    "pos": "n.",
+    "root": "sub-在下, jug-结合, -ation-过程",
+    "zh": "征服",
+    "ex": "The subjugation of indigenous peoples often resulted in significant cultural loss.",
+    "cat": "📰 每日新詞：history"
   }
 ]
