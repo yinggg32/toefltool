@@ -1,45 +1,45 @@
 {
   "shadowSentences": [
-    "I enjoy reading books every day.",
-    "My favorite meal is breakfast with pancakes.",
-    "I like to walk in the park after work.",
-    "Traveling to new places is always exciting to me.",
-    "I often listen to music while studying at home.",
-    "Cooking dinner with my family is a fun activity.",
-    "Watching movies on weekends helps me relax and unwind.",
-    "Exploring new hobbies can lead to interesting experiences.",
-    "I believe that volunteering can have a positive impact on the community.",
-    "Maintaining a balanced lifestyle is important for overall well-being."
+    "I love to read books.",
+    "The weather is nice today.",
+    "Can you help me with this?",
+    "I enjoy cooking new recipes.",
+    "Traveling opens up new experiences.",
+    "My favorite season is autumn.",
+    "Learning a new language is fun.",
+    "I like spending time with my family.",
+    "Exercising regularly improves my health.",
+    "Volunteering can make a big difference in the community."
   ],
   "interviewScenarios": [
     {
-      "topic": "旅行計劃",
-      "intro": "You have agreed to take part in a research study about travel planning.",
+      "topic": "音乐喜好",
+      "intro": "You have agreed to take part in a research study about your music preferences.",
       "questions": [
-        "Q1: Can you describe a memorable trip you have taken?",
-        "Q2: What challenges do you face when planning a trip?",
-        "Q3: How do you feel about solo travel compared to group travel?",
-        "Q4: What advice would you give someone planning their first trip?"
+        "Q1: What type of music do you enjoy listening to?",
+        "Q2: Have you ever faced any challenges in finding new music?",
+        "Q3: How do you think music affects our emotions?",
+        "Q4: What advice would you give someone looking to explore new genres?"
       ]
     },
     {
-      "topic": "學習方式",
-      "intro": "You have agreed to take part in a research study about learning methods.",
+      "topic": "旅行经历",
+      "intro": "You have agreed to take part in a research study about your travel experiences.",
       "questions": [
-        "Q1: What is your favorite way to learn something new?",
-        "Q2: Have you ever struggled with a particular subject? What happened?",
-        "Q3: In your opinion, which learning method is the most effective?",
-        "Q4: What tips would you recommend to someone looking to improve their study habits?"
+        "Q1: Can you share a memorable trip you have taken?",
+        "Q2: What challenges did you face while traveling?",
+        "Q3: Why do you think travel is important for personal growth?",
+        "Q4: What tips do you have for someone planning their first trip?"
       ]
     },
     {
-      "topic": "運動習慣",
-      "intro": "You have agreed to take part in a research study about exercise habits.",
+      "topic": "爱好和兴趣",
+      "intro": "You have agreed to take part in a research study about your hobbies and interests.",
       "questions": [
-        "Q1: What types of exercise do you enjoy the most?",
-        "Q2: What obstacles do you encounter when trying to stay active?",
-        "Q3: How important do you think exercise is for mental health?",
-        "Q4: What suggestions would you give to someone who wants to start exercising regularly?"
+        "Q1: What hobbies do you enjoy in your free time?",
+        "Q2: Have there been any challenges in pursuing your hobbies?",
+        "Q3: How do you believe hobbies contribute to a balanced life?",
+        "Q4: What would you suggest to someone who wants to find a new hobby?"
       ]
     }
   ]

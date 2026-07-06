@@ -2,56 +2,88 @@
   "buildSentences": [
     {
       "words": [
+        "the",
         "students",
-        "learn",
-        "better",
-        "when",
-        "they",
-        "have",
-        "clear",
-        "goals"
+        "at",
+        "the",
+        "library",
+        "studied",
+        "for",
+        "their",
+        "exams"
       ],
-      "display": "Students learn better when they have clear goals."
+      "display": "The students at the library studied for their exams."
+    },
+    {
+      "words": [
+        "she",
+        "decided",
+        "to",
+        "join",
+        "the",
+        "debate",
+        "team",
+        "this",
+        "year"
+      ],
+      "display": "She decided to join the debate team this year."
     },
     {
       "words": [
         "the",
-        "research",
-        "indicates",
-        "that",
-        "exercise",
-        "improves",
-        "mental",
-        "health"
+        "new",
+        "policy",
+        "will",
+        "help",
+        "reduce",
+        "waste",
+        "in",
+        "the",
+        "campus"
       ],
-      "display": "The research indicates that exercise improves mental health."
+      "display": "The new policy will help reduce waste in the campus."
+    },
+    {
+      "words": [
+        "he",
+        "forgot",
+        "to",
+        "submit",
+        "the",
+        "assignment",
+        "before",
+        "the",
+        "deadline"
+      ],
+      "display": "He forgot to submit the assignment before the deadline."
+    },
+    {
+      "words": [
+        "please",
+        "make",
+        "sure",
+        "to",
+        "attend",
+        "the",
+        "meeting",
+        "on",
+        "monday"
+      ],
+      "display": "Please make sure to attend the meeting on Monday."
     },
     {
       "words": [
         "the",
-        "effects",
-        "of",
-        "climate",
-        "change",
-        "are",
-        "becoming",
-        "more",
-        "evident"
+        "researchers",
+        "found",
+        "significant",
+        "results",
+        "in",
+        "their",
+        "latest",
+        "study"
       ],
-      "display": "The effects of climate change are becoming more evident."
-    },
-    {
-      "words": [
-        "reading",
-        "regularly",
-        "can",
-        "enhance",
-        "vocabulary",
-        "and",
-        "writing",
-        "skills"
-      ],
-      "display": "Reading regularly can enhance vocabulary and writing skills."
+      "display": "The researchers found significant results in their latest study."
     },
     {
       "words": [
@@ -59,73 +91,44 @@
         "should",
         "participate",
         "in",
-        "group",
-        "discussions",
-        "to",
-        "develop",
-        "communication",
-        "skills"
-      ],
-      "display": "Students should participate in group discussions to develop communication skills."
-    },
-    {
-      "words": [
-        "a",
-        "strong",
-        "thesis",
-        "statement",
-        "is",
-        "essential",
+        "extracurricular",
+        "activities",
         "for",
-        "a",
-        "successful",
-        "essay"
+        "personal",
+        "growth"
       ],
-      "display": "A strong thesis statement is essential for a successful essay."
+      "display": "Students should participate in extracurricular activities for personal growth."
     },
     {
       "words": [
-        "technology",
-        "advancements",
-        "have",
-        "changed",
         "the",
-        "way",
-        "we",
-        "communicate"
+        "professor",
+        "encouraged",
+        "his",
+        "students",
+        "to",
+        "ask",
+        "questions",
+        "during",
+        "class"
       ],
-      "display": "Technology advancements have changed the way we communicate."
-    },
-    {
-      "words": [
-        "a",
-        "balanced",
-        "diet",
-        "is",
-        "important",
-        "for",
-        "overall",
-        "health",
-        "and",
-        "well-being"
-      ],
-      "display": "A balanced diet is important for overall health and well-being."
+      "display": "The professor encouraged his students to ask questions during class."
     }
   ],
   "emailPrompts": [
-    "寄信給教授，要求延長作業截止日期，因為最近生病了。",
-    "寄信給宿舍管理處，詢問有關房間分配的問題。",
-    "寄信給圖書館，反映最近借書系統故障的情況。",
-    "寄信給學生活動中心，詢問如何加入學生會和相關活動。",
-    "寄信給客服，請求退貨的程序和相關資訊。",
-    "寄信給實驗室主任，請求參加即將舉行的研究會議。"
+    "寄信給教授，詢問期末報告的主題和格式要求。",
+    "寄信給宿舍辦公室，請求更換房間的申請表。",
+    "寄信給圖書館，詢問如何延長借書期限。",
+    "寄信給學校社團，請求加入新成立的環保社團。",
+    "寄信給客服，詢問關於訂單的配送問題。",
+    "寄信給導師，請教學習計畫的調整建議。"
   ],
   "discussionPrompts": [
-    "教授問：「在當今社會中，科技對人際關係的影響是什麼？」",
-    "教授問：「全球化對文化多樣性的影響有哪些？」",
-    "教授問：「學校應該如何平衡學術和情感教育的重視？」",
-    "教授問：「你認為社交媒體對青少年的心理健康有何影響？」",
-    "教授問：「環境保護與經濟發展之間的衝突如何解決？」",
-    "教授問：「教育改革的優先事項應該是什麼？」"
+    "教授問：「你認為科技對教育的影響是正面還是負面？」",
+    "教授問：「社交媒體對年輕一代的心理健康有何影響？」",
+    "教授問：「文化多樣性在全球化中的重要性是什麼？」",
+    "教授問：「環境保護和經濟發展之間的平衡該如何實現？」",
+    "教授問：「政府應該如何應對氣候變化的挑戰？」",
+    "教授問：「社會運動如何影響政治決策？」"
   ]
 }

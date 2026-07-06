@@ -3758,5 +3758,69 @@
     "zh": "征服",
     "ex": "The subjugation of indigenous peoples often resulted in significant cultural loss.",
     "cat": "📰 每日新詞：history"
+  },
+  {
+    "word": "morphosyntax",
+    "pos": "n.",
+    "root": "形態句法—morphosyntax",
+    "zh": "形態句法",
+    "ex": "Morphosyntax is the study of how morphological and syntactic rules interact.",
+    "cat": "📰 每日新詞：linguistics"
+  },
+  {
+    "word": "register variation",
+    "pos": "n.",
+    "root": "語域變化—register variation",
+    "zh": "語域變化",
+    "ex": "Register variation reflects the differences in language use across various social contexts.",
+    "cat": "📰 每日新詞：linguistics"
+  },
+  {
+    "word": "sibilance",
+    "pos": "n.",
+    "root": "發音—sibilance",
+    "zh": "發音",
+    "ex": "Sibilance is the hissing sound produced by certain consonants, especially 's' and 'sh'.",
+    "cat": "📰 每日新詞：linguistics"
+  },
+  {
+    "word": "linguistic relativity",
+    "pos": "n.",
+    "root": "語言相對論—linguistic relativity",
+    "zh": "語言相對論",
+    "ex": "Linguistic relativity is the hypothesis that the structure of a language affects its speakers' worldview.",
+    "cat": "📰 每日新詞：linguistics"
+  },
+  {
+    "word": "grammaticalization",
+    "pos": "n.",
+    "root": "語法化—grammaticalization",
+    "zh": "語法化",
+    "ex": "Grammaticalization is the process by which words develop into grammatical elements over time.",
+    "cat": "📰 每日新詞：linguistics"
+  },
+  {
+    "word": "topic-comment structure",
+    "pos": "n.",
+    "root": "主題-評論結構—topic-comment structure",
+    "zh": "主題-評論結構",
+    "ex": "In some languages, the topic-comment structure is preferred over the subject-verb-object order.",
+    "cat": "📰 每日新詞：linguistics"
+  },
+  {
+    "word": "phonological rule",
+    "pos": "n.",
+    "root": "音系規則—phonological rule",
+    "zh": "音系規則",
+    "ex": "A phonological rule describes how phonemes are realized as allophones in specific contexts.",
+    "cat": "📰 每日新詞：linguistics"
+  },
+  {
+    "word": "language ideology",
+    "pos": "n.",
+    "root": "語言意識形態—language ideology",
+    "zh": "語言意識形態",
+    "ex": "Language ideology refers to the beliefs and conceptions about language and its use within a society.",
+    "cat": "📰 每日新詞：linguistics"
   }
 ]

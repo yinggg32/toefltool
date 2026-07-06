@@ -1,116 +1,116 @@
 {
   "chooseResponse": [
     {
-      "q": "What did you think of the movie?",
+      "q": "What time is the meeting?",
       "options": [
-        "It was amazing!",
-        "I didn't like it.",
-        "It was too long.",
-        "I want to see it again."
+        "In the afternoon.",
+        "At midnight.",
+        "After lunch.",
+        "Tomorrow morning."
       ],
       "correctIndex": 0
     }
   ],
   "conversation": {
-    "transcript": "Student: Hey, did you catch that new film last night?\nAdvisor: Yes, I did! What did you think of it?\nStudent: I thought it was amazing! The visuals were stunning.\nAdvisor: I agree. The cinematography was truly impressive.",
+    "transcript": "Student: Hi, do you have a minute to talk about my project?\nProfessor: Sure! What’s on your mind?\nStudent: I’m struggling with the data analysis section.\nProfessor: Let’s go over it together. What specifically is confusing you?",
     "questions": [
       {
-        "q": "What did the student think of the film?",
+        "q": "What is the student struggling with?",
         "options": [
-          "They thought it was amazing.",
-          "They didn't like it.",
-          "They thought it was boring.",
-          "They couldn't watch it."
+          "Time management.",
+          "Data analysis.",
+          "Research methods.",
+          "Presentation skills."
         ],
-        "correctIndex": 0,
-        "explain": "學生認為這部電影很棒。"
+        "correctIndex": 1,
+        "explain": "學生在數據分析部分遇到困難。"
       },
       {
-        "q": "What impressed the advisor about the film?",
+        "q": "What does the professor offer to do?",
         "options": [
-          "The music.",
-          "The acting.",
-          "The cinematography.",
-          "The plot."
+          "Help with the project.",
+          "Suggest a new topic.",
+          "Review the entire project.",
+          "Provide extra resources."
         ],
-        "correctIndex": 2,
-        "explain": "顧問對電影的攝影技術印象深刻。"
+        "correctIndex": 0,
+        "explain": "教授願意一起討論，幫助學生。"
       }
     ]
   },
   "announcement": {
-    "transcript": "Attention students! The university is hosting a career fair this Friday in the Student Center from 10 AM to 3 PM. This is a great opportunity to meet potential employers and learn about various job openings. Don't forget to bring your resumes and dress professionally!",
+    "transcript": "Attention students, there will be a guest speaker event this Friday at 5 PM in the main auditorium. The speaker is an expert in environmental science and will discuss current climate challenges. Don't miss this opportunity to learn and ask questions!",
     "questions": [
       {
-        "q": "When is the career fair being held?",
+        "q": "Who is the guest speaker?",
+        "options": [
+          "A musician.",
+          "An environmental expert.",
+          "A famous author.",
+          "A politician."
+        ],
+        "correctIndex": 1,
+        "explain": "來賓演講者是一位環境科學專家。"
+      },
+      {
+        "q": "When is the event happening?",
         "options": [
           "This Thursday.",
           "This Friday.",
           "Next Monday.",
-          "Tomorrow."
+          "Next weekend."
         ],
         "correctIndex": 1,
-        "explain": "職業博覽會將於本週五舉行。"
-      },
-      {
-        "q": "Where will the career fair take place?",
-        "options": [
-          "In the library.",
-          "In the gym.",
-          "In the Student Center.",
-          "In the cafeteria."
-        ],
-        "correctIndex": 2,
-        "explain": "職業博覽會將在學生中心舉行。"
+        "explain": "活動將在本週五舉行。"
       }
     ]
   },
   "talk": {
-    "transcript": "Today, I want to discuss the concept of sustainability. Sustainability refers to the ability to meet our present needs without compromising the ability of future generations to meet their own needs. This encompasses various aspects, including environmental, social, and economic dimensions. For example, using renewable resources, reducing waste, and promoting social equity are all vital components of sustainability. By adopting sustainable practices, we can help ensure a healthy planet for years to come, benefiting both current and future communities.",
+    "transcript": "Today, I’d like to discuss the concept of sustainable agriculture. Sustainable agriculture is a method of farming that focuses on producing food in a way that is environmentally friendly and socially responsible. This approach emphasizes crop rotation, organic farming, and reduced use of chemical fertilizers. By maintaining soil health and minimizing pollution, sustainable agriculture aims to meet the needs of the present without compromising future generations’ ability to meet theirs. It also promotes biodiversity and helps combat climate change through better resource management.",
     "questions": [
       {
-        "q": "What does sustainability mean?",
+        "q": "What is sustainable agriculture?",
         "options": [
-          "Meeting future needs now.",
-          "Using renewable resources.",
-          "Maintaining a healthy planet.",
-          "Compromising future needs."
-        ],
-        "correctIndex": 2,
-        "explain": "可持續性是指為未來保持健康的地球。"
-      },
-      {
-        "q": "What is one example of a sustainable practice?",
-        "options": [
-          "Increasing waste.",
-          "Using fossil fuels.",
-          "Planting trees.",
-          "Ignoring social issues."
-        ],
-        "correctIndex": 2,
-        "explain": "種樹是可持續做法的一個例子。"
-      },
-      {
-        "q": "Why is sustainability important?",
-        "options": [
-          "To promote business profit.",
-          "To ensure a healthy planet.",
-          "To compete globally.",
-          "To reduce workforce."
+          "A method to increase chemical use.",
+          "A way to grow food sustainably.",
+          "A technique to avoid crop rotation.",
+          "A traditional farming practice."
         ],
         "correctIndex": 1,
-        "explain": "可持續性對確保健康的地球至關重要。"
+        "explain": "可持續農業是一種環保的種植方法。"
       },
       {
-        "q": "Which aspect is NOT part of sustainability?",
+        "q": "What does sustainable agriculture emphasize?",
         "options": [
-          "Environmental.",
-          "Social.",
-          "Economic.",
-          "Limited resources."
+          "Chemical fertilizers.",
+          "Crop rotation.",
+          "Monoculture.",
+          "Industrial farming."
         ],
-        "correctIndex": 3,
-        "explain": "有限資源並不是可持續性的組成部分。"
+        "correctIndex": 1,
+        "explain": "可持續農業強調輪作的重要性。"
+      },
+      {
+        "q": "What is one goal of sustainable agriculture?",
+        "options": [
+          "Maximize profits.",
+          "Reduce biodiversity.",
+          "Maintain soil health.",
+          "Increase pollution."
+        ],
+        "correctIndex": 2,
+        "explain": "可持續農業的一個目標是保持土壤健康。"
+      },
+      {
+        "q": "How does sustainable agriculture help the environment?",
+        "options": [
+          "By using more chemicals.",
+          "By promoting biodiversity.",
+          "By focusing only on profit.",
+          "By avoiding crop rotation."
+        ],
+        "correctIndex": 1,
+        "explain": "可持續農業透過促進生物多樣性來幫助環境。"
       }
     ]
   }
