@@ -2,107 +2,101 @@
   "cloze": {
     "segments": [
       {
-        "text": "The formation of a "
+        "text": "The process of photosynthesis is essential for life on Earth. It occurs mainly in plants, where chlorophyll absorbs light energy. This energy is used to convert carbon dioxide and water into glucose and oxygen. Without this proce"
       },
       {
-        "blank": "tains"
+        "blank": "ss"
       },
       {
-        "text": " is a crucial process in the geological landscape. Mountains are formed through tectonic forces that "
+        "text": ", most living organisms would not have the energy required for growth and reproduction. During photosynthesis, light energy is captured and converted into chemical energy, which is stored in the form of glucose. The byproduct of this reaction is oxygen, which is released into the atm"
       },
       {
-        "blank": "press"
+        "blank": "osphere"
       },
       {
-        "text": " and fold the Earth's crust. This can occur over millions of years, resulting in significant elevation changes. The "
+        "text": ". This oxygen is crucial for most living organisms that rely on aerobic respiration. Additionally, photosynthesis plays a significant role in the carbon cycle, helping to regulate levels of carbon dioxide in the atmosphere. It is also an important factor in maintaining ecological balance as it supports food webs and provides energy for herbivores and carnivores alike. Overall, the significance of photosynthesis cannot be overstated, as it is a fundamental biochemical proce"
       },
       {
-        "blank": "terri"
+        "blank": "ss"
       },
       {
-        "text": " of mountains can vary greatly, affecting local climates and ecosystems. For example, moisture-laden winds may "
-      },
-      {
-        "blank": "cool"
-      },
-      {
-        "text": " as they ascend mountain slopes, leading to increased precipitation on one side and arid conditions on the other."
+        "text": " that sustains life."
       }
     ]
   },
   "academic": {
-    "passage": "Mountain formation is a fascinating geological process primarily driven by tectonic forces. These forces, which involve the movement of the Earth's crust, can create significant elevations over extensive periods. The varying terrain of mountains influences local climates and ecosystems, as wind patterns and precipitation are affected by the topography. Understanding mountain formation helps us appreciate the dynamic nature of our planet and the intricate relationships within different environments.",
+    "passage": "Photosynthesis is a critical biological process that allows plants to convert light energy into chemical energy. This process not only produces essential oxygen but also serves as the foundation for the food chain. The glucose generated during photosynthesis provides energy for plants, which are then consumed by herbivores, and subsequently by carnivores. The importance of photosynthesis extends beyond energy production; it also plays a vital role in regulating atmospheric carbon dioxide levels.",
     "questions": [
       {
         "q": "What is the main idea of the passage?",
         "options": [
-          "Mountain formation is influenced by tectonic forces.",
-          "Mountains affect local climates and ecosystems.",
-          "The geological process of mountain formation takes millions of years.",
-          "Mountain terrain varies greatly in elevation."
+          "Photosynthesis is essential for life.",
+          "Only plants can perform photosynthesis.",
+          "Photosynthesis only produces oxygen.",
+          "Herbivores rely on carnivores."
         ],
         "correctIndex": 0,
-        "explain": "這個選項正確因為文章的主題是關於山脈形成的地質過程，並強調了這些過程如何受構造力量的影響。"
+        "explain": "這段文字的主旨是強調光合作用對生命的重要性。"
       },
       {
-        "q": "What primarily drives mountain formation?",
+        "q": "What do plants produce during photosynthesis?",
         "options": [
-          "Erosion of rocks.",
-          "Tectonic forces.",
-          "Weather patterns.",
-          "Human activity."
+          "Carbon dioxide",
+          "Oxygen",
+          "Water",
+          "Nitrogen"
         ],
         "correctIndex": 1,
-        "explain": "這個選項正確因為文中提到山脈的形成主要是由於地殼的運動，也就是構造力量。"
+        "explain": "植物在光合作用中產生氧氣。"
       },
       {
-        "q": "What can be inferred about mountain ecosystems?",
+        "q": "What can be inferred about the role of photosynthesis in the food chain?",
         "options": [
-          "They are uniform across different regions.",
-          "They are highly influenced by local weather patterns.",
-          "They require no interaction with the climate.",
-          "They are only found in tropical areas."
+          "It only affects herbivores.",
+          "It provides energy to all levels of the food chain.",
+          "It eliminates the need for carnivores.",
+          "It is only important for plants."
         ],
         "correctIndex": 1,
-        "explain": "這個選項正確因為文中提到山脈的地形會影響當地氣候，因此可以推斷生態系統也會受影響。"
+        "explain": "可以推斷，光合作用為食物鏈的所有層級提供能量。"
       },
       {
-        "q": "What does the word 'topography' most likely mean in this context?",
+        "q": "What does the term 'biochemical process' refer to in the context of the passage?",
         "options": [
-          "The scientific study of rocks.",
-          "The arrangement of natural and artificial physical features.",
-          "The process of erosion and sedimentation.",
-          "The impact of weather on landscapes."
+          "A process that only occurs in animals.",
+          "A chemical reaction that supports life.",
+          "Any process that requires heat.",
+          "A process limited to terrestrial environments."
         ],
         "correctIndex": 1,
-        "explain": "這個選項正確因為在這個上下文中，'topography' 指的是自然和人工地形特徵的安排。"
+        "explain": "在這段文字中，生化過程指的是支持生命的化學反應。"
       }
     ]
   },
   "daily": {
-    "passage": "Attention students! The university library will be closed for maintenance this Saturday from 9 AM to 5 PM. Please plan your study time accordingly and make sure to return any borrowed books before the closure.",
+    "passage": "Attention students: The library will be closed for renovations from April 10 to May 5. Please plan your study schedules accordingly. We apologize for any inconvenience this may cause.",
     "questions": [
       {
-        "q": "When will the university library be closed?",
+        "q": "When will the library be closed?",
         "options": [
-          "This Saturday.",
-          "Next Monday.",
-          "Tomorrow.",
-          "Next Saturday."
-        ],
-        "correctIndex": 0,
-        "explain": "這個選項正確因為公告中明確提到圖書館將於本週六關閉。"
-      },
-      {
-        "q": "What should students do before the library closes?",
-        "options": [
-          "Take a break.",
-          "Return any borrowed books.",
-          "Start a new project.",
-          "Attend a seminar."
+          "April 1 to April 10",
+          "April 10 to May 5",
+          "May 5 to May 10",
+          "April 5 to April 20"
         ],
         "correctIndex": 1,
-        "explain": "這個選項正確因為公告提醒學生在圖書館關閉前歸還所借的書籍。"
+        "explain": "圖書館將於4月10日至5月5日關閉。"
+      },
+      {
+        "q": "Why might this notice be important for students?",
+        "options": [
+          "They need to return books.",
+          "They need to prepare for exams.",
+          "They should find alternative study locations.",
+          "They must attend a meeting."
+        ],
+        "correctIndex": 2,
+        "explain": "這則通知對學生很重要，因為他們應該尋找其他的學習場所。"
       }
     ]
   }

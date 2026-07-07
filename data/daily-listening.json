@@ -1,116 +1,116 @@
 {
   "chooseResponse": [
     {
-      "q": "What time is the meeting?",
+      "q": "What time is the seminar tomorrow?",
       "options": [
-        "In the afternoon.",
-        "At midnight.",
-        "After lunch.",
-        "Tomorrow morning."
+        "At 10 AM",
+        "In the library",
+        "On campus",
+        "With the professor"
       ],
       "correctIndex": 0
     }
   ],
   "conversation": {
-    "transcript": "Student: Hi, do you have a minute to talk about my project?\nProfessor: Sure! What’s on your mind?\nStudent: I’m struggling with the data analysis section.\nProfessor: Let’s go over it together. What specifically is confusing you?",
+    "transcript": "Student: Hey, did you sign up for the seminar on climate change?\nAdvisor: Yes, I did! It should be really interesting. Are you going?\nStudent: I’m thinking about it. Do you know who the speaker is?\nAdvisor: It's a renowned environmental scientist. I think you'll enjoy it!",
     "questions": [
       {
-        "q": "What is the student struggling with?",
+        "q": "What is the main topic of the seminar?",
         "options": [
-          "Time management.",
-          "Data analysis.",
-          "Research methods.",
-          "Presentation skills."
+          "Renewable energy",
+          "Climate change",
+          "Water conservation",
+          "Sustainable agriculture"
         ],
         "correctIndex": 1,
-        "explain": "學生在數據分析部分遇到困難。"
+        "explain": "這個研討會的主要主題是氣候變遷。"
       },
       {
-        "q": "What does the professor offer to do?",
+        "q": "What does the advisor think about the seminar?",
         "options": [
-          "Help with the project.",
-          "Suggest a new topic.",
-          "Review the entire project.",
-          "Provide extra resources."
+          "It will be boring.",
+          "It should be interesting.",
+          "It is too technical.",
+          "It's not worth attending."
         ],
-        "correctIndex": 0,
-        "explain": "教授願意一起討論，幫助學生。"
+        "correctIndex": 1,
+        "explain": "顧問認為這個研討會應該很有趣。"
       }
     ]
   },
   "announcement": {
-    "transcript": "Attention students, there will be a guest speaker event this Friday at 5 PM in the main auditorium. The speaker is an expert in environmental science and will discuss current climate challenges. Don't miss this opportunity to learn and ask questions!",
+    "transcript": "Attention students: The campus library will be closed for maintenance this weekend. Please plan accordingly and check out any materials you need before Friday afternoon. Thank you for your understanding.",
     "questions": [
       {
-        "q": "Who is the guest speaker?",
+        "q": "When will the library be closed?",
         "options": [
-          "A musician.",
-          "An environmental expert.",
-          "A famous author.",
-          "A politician."
+          "Next Monday",
+          "This weekend",
+          "Next month",
+          "All week"
         ],
         "correctIndex": 1,
-        "explain": "來賓演講者是一位環境科學專家。"
+        "explain": "圖書館將在這個週末關閉。"
       },
       {
-        "q": "When is the event happening?",
+        "q": "What should students do before Friday?",
         "options": [
-          "This Thursday.",
-          "This Friday.",
-          "Next Monday.",
-          "Next weekend."
+          "Return books",
+          "Check out materials",
+          "Attend a workshop",
+          "Study in groups"
         ],
         "correctIndex": 1,
-        "explain": "活動將在本週五舉行。"
+        "explain": "學生應該在週五下午之前借出所需的資料。"
       }
     ]
   },
   "talk": {
-    "transcript": "Today, I’d like to discuss the concept of sustainable agriculture. Sustainable agriculture is a method of farming that focuses on producing food in a way that is environmentally friendly and socially responsible. This approach emphasizes crop rotation, organic farming, and reduced use of chemical fertilizers. By maintaining soil health and minimizing pollution, sustainable agriculture aims to meet the needs of the present without compromising future generations’ ability to meet theirs. It also promotes biodiversity and helps combat climate change through better resource management.",
+    "transcript": "Today, we will discuss the concept of biomimicry, which is the design and production of materials, structures, and systems that are modeled on biological entities and processes. By studying nature's time-tested patterns and strategies, we can develop sustainable solutions to human challenges. For example, Velcro was inspired by the way burrs cling to animal fur. Biomimicry not only encourages innovation but also promotes conservation by using nature as a guide for sustainable growth.",
     "questions": [
       {
-        "q": "What is sustainable agriculture?",
+        "q": "What is biomimicry?",
         "options": [
-          "A method to increase chemical use.",
-          "A way to grow food sustainably.",
-          "A technique to avoid crop rotation.",
-          "A traditional farming practice."
+          "A new technology",
+          "Design inspired by nature",
+          "A type of engineering",
+          "A form of art"
         ],
         "correctIndex": 1,
-        "explain": "可持續農業是一種環保的種植方法。"
+        "explain": "生物模仿是指以自然為靈感的設計。"
       },
       {
-        "q": "What does sustainable agriculture emphasize?",
+        "q": "What is one example given in the talk?",
         "options": [
-          "Chemical fertilizers.",
-          "Crop rotation.",
-          "Monoculture.",
-          "Industrial farming."
-        ],
-        "correctIndex": 1,
-        "explain": "可持續農業強調輪作的重要性。"
-      },
-      {
-        "q": "What is one goal of sustainable agriculture?",
-        "options": [
-          "Maximize profits.",
-          "Reduce biodiversity.",
-          "Maintain soil health.",
-          "Increase pollution."
+          "Solar panels",
+          "Wind turbines",
+          "Velcro",
+          "Plastic products"
         ],
         "correctIndex": 2,
-        "explain": "可持續農業的一個目標是保持土壤健康。"
+        "explain": "講座中提到的例子是魔鬼氈（Velcro）。"
       },
       {
-        "q": "How does sustainable agriculture help the environment?",
+        "q": "What is a benefit of biomimicry mentioned?",
         "options": [
-          "By using more chemicals.",
-          "By promoting biodiversity.",
-          "By focusing only on profit.",
-          "By avoiding crop rotation."
+          "Increased costs",
+          "Encourages innovation",
+          "Requires more resources",
+          "Is not practical"
         ],
         "correctIndex": 1,
-        "explain": "可持續農業透過促進生物多樣性來幫助環境。"
+        "explain": "講到的好處是它鼓勵創新。"
+      },
+      {
+        "q": "What does biomimicry promote according to the talk?",
+        "options": [
+          "Economic growth",
+          "Sustainable solutions",
+          "Fossil fuel use",
+          "Urban expansion"
+        ],
+        "correctIndex": 1,
+        "explain": "根據講座，生物模仿促進可持續解決方案。"
       }
     ]
   }
