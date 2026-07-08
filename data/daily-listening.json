@@ -1,116 +1,116 @@
 {
   "chooseResponse": [
     {
-      "q": "What time is the seminar tomorrow?",
+      "q": "What did you think of the lecture?",
       "options": [
-        "At 10 AM",
-        "In the library",
-        "On campus",
-        "With the professor"
+        "It was really interesting.",
+        "I didn't understand it.",
+        "It was too short.",
+        "I want to learn more."
       ],
       "correctIndex": 0
     }
   ],
   "conversation": {
-    "transcript": "Student: Hey, did you sign up for the seminar on climate change?\nAdvisor: Yes, I did! It should be really interesting. Are you going?\nStudent: I’m thinking about it. Do you know who the speaker is?\nAdvisor: It's a renowned environmental scientist. I think you'll enjoy it!",
+    "transcript": "Student: Hey, did you go to the career fair yesterday?\nAdvisor: Yes, I did. How about you?\nStudent: I went, but I felt overwhelmed by all the options.\nAdvisor: That's understandable. It can be a lot to take in at once.",
     "questions": [
       {
-        "q": "What is the main topic of the seminar?",
+        "q": "What was the student's feeling about the career fair?",
         "options": [
-          "Renewable energy",
-          "Climate change",
-          "Water conservation",
-          "Sustainable agriculture"
+          "Excited to see employers.",
+          "Overwhelmed by options.",
+          "Happy to network.",
+          "Disappointed with the turnout."
         ],
         "correctIndex": 1,
-        "explain": "這個研討會的主要主題是氣候變遷。"
+        "explain": "學生對職業博覽會感到不知所措。"
       },
       {
-        "q": "What does the advisor think about the seminar?",
+        "q": "What did the advisor do at the career fair?",
         "options": [
-          "It will be boring.",
-          "It should be interesting.",
-          "It is too technical.",
-          "It's not worth attending."
+          "Attended with students.",
+          "Checked job listings.",
+          "Networked with employers.",
+          "Visited workshops."
         ],
-        "correctIndex": 1,
-        "explain": "顧問認為這個研討會應該很有趣。"
+        "correctIndex": 0,
+        "explain": "顧問和學生一起參加了職業博覽會。"
       }
     ]
   },
   "announcement": {
-    "transcript": "Attention students: The campus library will be closed for maintenance this weekend. Please plan accordingly and check out any materials you need before Friday afternoon. Thank you for your understanding.",
+    "transcript": "Attention students: The library will be closed this weekend for maintenance. Please plan accordingly and ensure all materials are returned by Friday evening. Thank you for your understanding.",
     "questions": [
       {
-        "q": "When will the library be closed?",
+        "q": "Why will the library be closed?",
         "options": [
-          "Next Monday",
-          "This weekend",
-          "Next month",
-          "All week"
+          "For a special event.",
+          "For maintenance work.",
+          "For staff training.",
+          "For inventory check."
         ],
         "correctIndex": 1,
-        "explain": "圖書館將在這個週末關閉。"
+        "explain": "圖書館將因為維護工作而關閉。"
       },
       {
-        "q": "What should students do before Friday?",
+        "q": "When must materials be returned?",
         "options": [
-          "Return books",
-          "Check out materials",
-          "Attend a workshop",
-          "Study in groups"
+          "By Thursday evening.",
+          "By Friday evening.",
+          "By Saturday morning.",
+          "By the end of the month."
         ],
         "correctIndex": 1,
-        "explain": "學生應該在週五下午之前借出所需的資料。"
+        "explain": "教材必須在星期五晚上之前歸還。"
       }
     ]
   },
   "talk": {
-    "transcript": "Today, we will discuss the concept of biomimicry, which is the design and production of materials, structures, and systems that are modeled on biological entities and processes. By studying nature's time-tested patterns and strategies, we can develop sustainable solutions to human challenges. For example, Velcro was inspired by the way burrs cling to animal fur. Biomimicry not only encourages innovation but also promotes conservation by using nature as a guide for sustainable growth.",
+    "transcript": "Today, we are going to discuss the concept of sustainable energy. Sustainable energy is derived from resources that are naturally replenished, such as sunlight, wind, and water. Unlike fossil fuels, which can deplete and are harmful to the environment, sustainable energy sources are cleaner and have a smaller carbon footprint. Their implementation is crucial for reducing global greenhouse gas emissions and combating climate change. By investing in renewable technologies, we can ensure energy security and promote economic development without compromising the planet's health.",
     "questions": [
       {
-        "q": "What is biomimicry?",
+        "q": "What is sustainable energy?",
         "options": [
-          "A new technology",
-          "Design inspired by nature",
-          "A type of engineering",
-          "A form of art"
+          "Energy from fossil fuels.",
+          "Energy from renewable resources.",
+          "Energy used by industries.",
+          "Energy generated by nuclear power."
         ],
         "correctIndex": 1,
-        "explain": "生物模仿是指以自然為靈感的設計。"
+        "explain": "可持續能源是來自可再生資源的能源。"
       },
       {
-        "q": "What is one example given in the talk?",
+        "q": "Why is sustainable energy important?",
         "options": [
-          "Solar panels",
-          "Wind turbines",
-          "Velcro",
-          "Plastic products"
+          "It is cheaper than fossil fuels.",
+          "It helps reduce greenhouse gas emissions.",
+          "It is more reliable than coal.",
+          "It can be stored indefinitely."
+        ],
+        "correctIndex": 1,
+        "explain": "可持續能源對減少溫室氣體排放至關重要。"
+      },
+      {
+        "q": "Which of the following is a sustainable energy source?",
+        "options": [
+          "Natural gas",
+          "Coal",
+          "Wind",
+          "Nuclear"
         ],
         "correctIndex": 2,
-        "explain": "講座中提到的例子是魔鬼氈（Velcro）。"
+        "explain": "風能是一種可持續的能源來源。"
       },
       {
-        "q": "What is a benefit of biomimicry mentioned?",
+        "q": "What is a benefit of investing in renewable technologies?",
         "options": [
-          "Increased costs",
-          "Encourages innovation",
-          "Requires more resources",
-          "Is not practical"
+          "Increased fossil fuel use.",
+          "Energy security for the future.",
+          "Higher emissions rates.",
+          "Less economic growth."
         ],
         "correctIndex": 1,
-        "explain": "講到的好處是它鼓勵創新。"
-      },
-      {
-        "q": "What does biomimicry promote according to the talk?",
-        "options": [
-          "Economic growth",
-          "Sustainable solutions",
-          "Fossil fuel use",
-          "Urban expansion"
-        ],
-        "correctIndex": 1,
-        "explain": "根據講座，生物模仿促進可持續解決方案。"
+        "explain": "投資可再生技術能確保未來的能源安全。"
       }
     ]
   }

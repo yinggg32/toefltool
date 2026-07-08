@@ -4014,5 +4014,109 @@
     "zh": "裝飾",
     "ex": "Ornamentation in architecture often serves both decorative and symbolic purposes.",
     "cat": "📰 每日新詞：art and architecture"
+  },
+  {
+    "word": "microbiology",
+    "pos": "n.",
+    "root": "micro-微小+bio-生命+logy-學科",
+    "zh": "微生物學",
+    "ex": "Microbiology studies microorganisms and their effects on humans and the environment.",
+    "cat": "📰 每日新詞：biology"
+  },
+  {
+    "word": "taxonomy",
+    "pos": "n.",
+    "root": "taxo-分類+nomy-法則",
+    "zh": "分類學",
+    "ex": "Taxonomy is the science of classifying living organisms.",
+    "cat": "📰 每日新詞：biology"
+  },
+  {
+    "word": "anatomy",
+    "pos": "n.",
+    "root": "ana-上+tom-切割+y-性質",
+    "zh": "解剖學",
+    "ex": "Anatomy provides insight into the structure of various organisms.",
+    "cat": "📰 每日新詞：biology"
+  },
+  {
+    "word": "reproduction",
+    "pos": "n.",
+    "root": "re-再次+produc-生產+tion-過程",
+    "zh": "繁殖",
+    "ex": "Reproduction is essential for the survival of a species.",
+    "cat": "📰 每日新詞：biology"
+  },
+  {
+    "word": "fossil",
+    "pos": "n.",
+    "root": "foss-挖掘+il-物質",
+    "zh": "化石",
+    "ex": "Fossils provide important evidence for the history of life on Earth.",
+    "cat": "📰 每日新詞：biology"
+  },
+  {
+    "word": "invertebrate",
+    "pos": "n.",
+    "root": "in-不+vertebr-脊椎+ate-形容詞後綴",
+    "zh": "無脊椎動物",
+    "ex": "Invertebrates make up the majority of animal species on Earth.",
+    "cat": "📰 每日新詞：biology"
+  },
+  {
+    "word": "chlorophyll",
+    "pos": "n.",
+    "root": "chloro-綠色+phyll-葉",
+    "zh": "葉綠素",
+    "ex": "Chlorophyll is essential for photosynthesis in green plants.",
+    "cat": "📰 每日新詞：biology"
+  },
+  {
+    "word": "hybridization",
+    "pos": "n.",
+    "root": "hybrid-混合+ization-過程",
+    "zh": "雜交",
+    "ex": "Hybridization can lead to the creation of new plant varieties.",
+    "cat": "📰 每日新詞：biology"
+  },
+  {
+    "word": "endangered",
+    "pos": "adj.",
+    "root": "en-使成+danger-危險+ed-形容詞後綴",
+    "zh": "瀕危的",
+    "ex": "Many species are endangered due to habitat loss and climate change.",
+    "cat": "📰 每日新詞：biology"
+  },
+  {
+    "word": "cell",
+    "pos": "n.",
+    "root": "cell-細胞",
+    "zh": "細胞",
+    "ex": "The cell is the basic unit of life.",
+    "cat": "📰 每日新詞：biology"
+  },
+  {
+    "word": "plasmid",
+    "pos": "n.",
+    "root": "plasm-細胞質+id-形容詞後綴",
+    "zh": "質粒",
+    "ex": "Plasmids are used in genetic engineering to transfer genes.",
+    "cat": "📰 每日新詞：biology"
+  },
+  {
+    "word": "antibody",
+    "pos": "n.",
+    "root": "anti-對抗+body-體",
+    "zh": "抗體",
+    "ex": "Antibodies are produced by the immune system to fight infections.",
+    "cat": "📰 每日新詞：biology"
+  },
+  {
+    "word": "stability",
+    "pos": "n.",
+    "root": "stabil-穩定+ity-性質",
+    "zh": "穩定性",
+    "ex": "Ecological stability is important for the health of ecosystems.",
+    "cat": "📰 每日新詞：biology"
   }
 ]

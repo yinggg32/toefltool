@@ -3,125 +3,128 @@
     {
       "words": [
         "the",
-        "researchers",
-        "published",
+        "students",
+        "will",
+        "attend",
+        "the",
+        "conference",
+        "next",
+        "week"
+      ],
+      "display": "The students will attend the conference next week."
+    },
+    {
+      "words": [
+        "reading",
+        "the",
+        "book",
+        "is",
+        "essential",
+        "for",
+        "the",
+        "exam"
+      ],
+      "display": "Reading the book is essential for the exam."
+    },
+    {
+      "words": [
+        "the",
+        "research",
+        "team",
+        "presented",
         "their",
         "findings",
-        "in",
-        "a",
-        "renowned",
-        "journal"
+        "at",
+        "the",
+        "seminar"
       ],
-      "display": "The researchers published their findings in a renowned journal."
+      "display": "The research team presented their findings at the seminar."
+    },
+    {
+      "words": [
+        "she",
+        "decided",
+        "to",
+        "join",
+        "the",
+        "debate",
+        "club",
+        "this",
+        "semester"
+      ],
+      "display": "She decided to join the debate club this semester."
+    },
+    {
+      "words": [
+        "the",
+        "library",
+        "will",
+        "be",
+        "closed",
+        "for",
+        "renovation",
+        "next",
+        "month"
+      ],
+      "display": "The library will be closed for renovation next month."
     },
     {
       "words": [
         "students",
-        "the",
-        "library",
-        "study",
-        "for",
+        "should",
+        "submit",
         "their",
-        "exams",
-        "in"
+        "assignments",
+        "by",
+        "friday",
+        "afternoon"
       ],
-      "display": "The students study in the library for their exams."
+      "display": "Students should submit their assignments by Friday afternoon."
     },
     {
       "words": [
+        "he",
         "is",
-        "environmental",
-        "protection",
-        "important",
-        "to",
-        "our",
-        "future",
-        "why"
-      ],
-      "display": "Why is environmental protection important to our future?"
-    },
-    {
-      "words": [
-        "the",
-        "team",
-        "won",
-        "the",
-        "championship",
-        "after",
-        "a",
-        "hard",
-        "season"
-      ],
-      "display": "The team won the championship after a hard season."
-    },
-    {
-      "words": [
-        "many",
-        "people",
-        "are",
-        "concerned",
-        "about",
+        "researching",
         "climate",
         "change",
-        "today"
+        "and",
+        "its",
+        "impacts",
+        "on",
+        "biodiversity"
       ],
-      "display": "Many people are concerned about climate change today."
+      "display": "He is researching climate change and its impacts on biodiversity."
     },
     {
       "words": [
         "the",
         "professor",
         "encouraged",
-        "students",
+        "everyone",
         "to",
         "participate",
         "in",
-        "discussions"
-      ],
-      "display": "The professor encouraged students to participate in discussions."
-    },
-    {
-      "words": [
-        "learning",
-        "new",
-        "languages",
-        "can",
-        "broaden",
-        "your",
-        "horizons",
-        "significantly"
-      ],
-      "display": "Learning new languages can broaden your horizons significantly."
-    },
-    {
-      "words": [
-        "volunteering",
-        "in",
         "the",
-        "community",
-        "can",
-        "help",
-        "build",
-        "valuable",
-        "skills"
+        "workshop"
       ],
-      "display": "Volunteering in the community can help build valuable skills."
+      "display": "The professor encouraged everyone to participate in the workshop."
     }
   ],
   "emailPrompts": [
-    "寄信給教授，請教有關最新課堂主題的問題。",
-    "寄信給宿舍辦公室，詢問搬入新宿舍的事宜。",
-    "寄信給圖書館，反映資料借閱系統的問題。",
-    "寄信給社團，報名參加即將舉行的工作坊。",
-    "寄信給客服，詢問關於訂單延遲的情況。",
-    "寄信給學校職業中心，請求職業諮詢的會議。"
+    "寄信給教授，說明因病無法參加期中考，詢問補考事宜。",
+    "寄信給宿舍管理，請求延長搬入期限。",
+    "寄信給圖書館，詢問如何借閱電子書。",
+    "寄信給學生會，表達希望參加即將舉辦的活動。",
+    "寄信給客服，請求退換不合適的商品。",
+    "寄信給指導教授，請求會面以討論研究進展。"
   ],
   "discussionPrompts": [
-    "教授問：「你認為科技對社會的影響是正面還是負面？」",
-    "教授問：「學習外語的最佳方法是什麼？」",
-    "教授問：「應該如何看待全球暖化這一議題？」",
-    "教授問：「藝術在現代社會中的角色是什麼？」",
-    "教授問：「教育應該如何應對快速變化的職場需求？」",
-    "教授問：「社交媒體對人際關係的影響是什麼？」"
+    "教授問：「你認為科技對教育的影響是正面還是負面？」",
+    "教授問：「在氣候變遷議題上，個人行動的重要性如何？」",
+    "教授問：「文化多樣性對社會發展的貢獻是什麼？」",
+    "教授問：「社交媒體在現代人際關係中的作用是什麼？」",
+    "教授問：「人工智慧會不會取代人類的工作？」",
+    "教授問：「大學應該如何平衡學術自由與社會責任？」"
   ]
 }

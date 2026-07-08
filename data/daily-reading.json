@@ -2,101 +2,107 @@
   "cloze": {
     "segments": [
       {
-        "text": "The process of photosynthesis is essential for life on Earth. It occurs mainly in plants, where chlorophyll absorbs light energy. This energy is used to convert carbon dioxide and water into glucose and oxygen. Without this proce"
+        "text": "The phenomenon of photosynthesis is essential for life on Earth. In this process, plants, algae, and some bacteria convert light energy into chemical energy, which is stored in "
       },
       {
-        "blank": "ss"
+        "blank": "gluco"
       },
       {
-        "text": ", most living organisms would not have the energy required for growth and reproduction. During photosynthesis, light energy is captured and converted into chemical energy, which is stored in the form of glucose. The byproduct of this reaction is oxygen, which is released into the atm"
+        "text": "se. This process primarily occurs in the chloroplasts of plant cells, where chlorophyll absorbs sunlight. The overall chemical reaction can be summarized as follows: carbon dioxide and water are transformed into glucose and oxygen. During this "
       },
       {
-        "blank": "osphere"
+        "blank": "reac"
       },
       {
-        "text": ". This oxygen is crucial for most living organisms that rely on aerobic respiration. Additionally, photosynthesis plays a significant role in the carbon cycle, helping to regulate levels of carbon dioxide in the atmosphere. It is also an important factor in maintaining ecological balance as it supports food webs and provides energy for herbivores and carnivores alike. Overall, the significance of photosynthesis cannot be overstated, as it is a fundamental biochemical proce"
+        "text": "tion, sunlight is a crucial factor that influences the rate at which photosynthesis occurs. Various "
       },
       {
-        "blank": "ss"
+        "blank": "factors"
       },
       {
-        "text": " that sustains life."
+        "text": "such as temperature, light intensity, and carbon dioxide concentration can affect this process. Understanding photosynthesis is vital, not only for biology but also for "
+      },
+      {
+        "blank": "agricu"
+      },
+      {
+        "text": "lture and environmental science, as it plays a significant role in food production and carbon cycling."
       }
     ]
   },
   "academic": {
-    "passage": "Photosynthesis is a critical biological process that allows plants to convert light energy into chemical energy. This process not only produces essential oxygen but also serves as the foundation for the food chain. The glucose generated during photosynthesis provides energy for plants, which are then consumed by herbivores, and subsequently by carnivores. The importance of photosynthesis extends beyond energy production; it also plays a vital role in regulating atmospheric carbon dioxide levels.",
+    "passage": "Photosynthesis is a process used by plants and other organisms to convert light energy into chemical energy. It occurs mainly in chloroplasts, where chlorophyll captures sunlight to transform carbon dioxide and water into glucose and oxygen. This process is influenced by factors such as temperature and light intensity, making it essential for understanding ecological and agricultural dynamics.",
     "questions": [
       {
         "q": "What is the main idea of the passage?",
         "options": [
-          "Photosynthesis is essential for life.",
-          "Only plants can perform photosynthesis.",
-          "Photosynthesis only produces oxygen.",
-          "Herbivores rely on carnivores."
+          "Photosynthesis is crucial for life",
+          "Chlorophyll is found in chloroplasts",
+          "Temperature affects plant growth",
+          "Plants convert oxygen into carbon dioxide"
         ],
         "correctIndex": 0,
-        "explain": "這段文字的主旨是強調光合作用對生命的重要性。"
+        "explain": "這段文字的主要思想是光合作用對生命的重要性。"
       },
       {
-        "q": "What do plants produce during photosynthesis?",
+        "q": "Where does photosynthesis primarily occur?",
         "options": [
-          "Carbon dioxide",
-          "Oxygen",
-          "Water",
-          "Nitrogen"
+          "In the roots",
+          "In the chloroplasts",
+          "In the soil",
+          "In the flowers"
         ],
         "correctIndex": 1,
-        "explain": "植物在光合作用中產生氧氣。"
+        "explain": "光合作用主要在葉綠體中進行，因此正確答案是葉綠體。"
       },
       {
-        "q": "What can be inferred about the role of photosynthesis in the food chain?",
+        "q": "What inference can be made about the impact of temperature on photosynthesis?",
         "options": [
-          "It only affects herbivores.",
-          "It provides energy to all levels of the food chain.",
-          "It eliminates the need for carnivores.",
-          "It is only important for plants."
+          "Higher temperatures always increase photosynthesis",
+          "Temperature has no effect on photosynthesis",
+          "Optimal temperature can enhance photosynthesis",
+          "Photosynthesis is unaffected by environmental factors"
         ],
-        "correctIndex": 1,
-        "explain": "可以推斷，光合作用為食物鏈的所有層級提供能量。"
+        "correctIndex": 2,
+        "explain": "文章提到溫度影響光合作用，因此最佳的溫度會增強光合作用。"
       },
       {
-        "q": "What does the term 'biochemical process' refer to in the context of the passage?",
+        "q": "What does the term 'chlorophyll' refer to in the passage?",
         "options": [
-          "A process that only occurs in animals.",
-          "A chemical reaction that supports life.",
-          "Any process that requires heat.",
-          "A process limited to terrestrial environments."
+          "A type of plant",
+          "A pigment that captures sunlight",
+          "A process of chemical reaction",
+          "A nutrient for plants"
         ],
         "correctIndex": 1,
-        "explain": "在這段文字中，生化過程指的是支持生命的化學反應。"
+        "explain": "在文章中，'葉綠素'指的是一種捕捉陽光的色素。"
       }
     ]
   },
   "daily": {
-    "passage": "Attention students: The library will be closed for renovations from April 10 to May 5. Please plan your study schedules accordingly. We apologize for any inconvenience this may cause.",
+    "passage": "Attention students: The university library will be closed for maintenance this weekend. All services will resume on Monday morning. Please plan your studying accordingly.",
     "questions": [
       {
-        "q": "When will the library be closed?",
+        "q": "When will the library reopen?",
         "options": [
-          "April 1 to April 10",
-          "April 10 to May 5",
-          "May 5 to May 10",
-          "April 5 to April 20"
-        ],
-        "correctIndex": 1,
-        "explain": "圖書館將於4月10日至5月5日關閉。"
-      },
-      {
-        "q": "Why might this notice be important for students?",
-        "options": [
-          "They need to return books.",
-          "They need to prepare for exams.",
-          "They should find alternative study locations.",
-          "They must attend a meeting."
+          "Saturday",
+          "Sunday",
+          "Monday morning",
+          "Friday"
         ],
         "correctIndex": 2,
-        "explain": "這則通知對學生很重要，因為他們應該尋找其他的學習場所。"
+        "explain": "圖書館將在週一早上重新開放。"
+      },
+      {
+        "q": "What is the reason for the library closure?",
+        "options": [
+          "Normal hours",
+          "Staff meeting",
+          "Maintenance",
+          "Holiday"
+        ],
+        "correctIndex": 2,
+        "explain": "圖書館關閉的原因是進行維護。"
       }
     ]
   }
