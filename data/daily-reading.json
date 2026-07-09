@@ -2,107 +2,101 @@
   "cloze": {
     "segments": [
       {
-        "text": "The phenomenon of photosynthesis is essential for life on Earth. In this process, plants, algae, and some bacteria convert light energy into chemical energy, which is stored in "
+        "text": "The process of photosynthesis is crucial for life on Earth, as it allows plants to convert light energy into chemical energy. This process occurs primarily in the "
       },
       {
-        "blank": "gluco"
+        "blank": "chloro"
       },
       {
-        "text": "se. This process primarily occurs in the chloroplasts of plant cells, where chlorophyll absorbs sunlight. The overall chemical reaction can be summarized as follows: carbon dioxide and water are transformed into glucose and oxygen. During this "
+        "text": "plasts of plant cells, where chlorophyll captures sunlight. During photosynthesis, plants take in carbon dioxide from the air and water from the soil. Through a series of chemical reactions, these materials are transformed into glucose and oxygen. The glucose serves as "
       },
       {
-        "blank": "reac"
+        "blank": "energy"
       },
       {
-        "text": "tion, sunlight is a crucial factor that influences the rate at which photosynthesis occurs. Various "
+        "text": " for the plant, while the oxygen is released as a byproduct. This cycle not only provides sustenance for plants, but also plays a vital role in regulating atmospheric "
       },
       {
-        "blank": "factors"
+        "blank": "gases"
       },
       {
-        "text": "such as temperature, light intensity, and carbon dioxide concentration can affect this process. Understanding photosynthesis is vital, not only for biology but also for "
-      },
-      {
-        "blank": "agricu"
-      },
-      {
-        "text": "lture and environmental science, as it plays a significant role in food production and carbon cycling."
+        "text": ", contributing to the overall health of our planet."
       }
     ]
   },
   "academic": {
-    "passage": "Photosynthesis is a process used by plants and other organisms to convert light energy into chemical energy. It occurs mainly in chloroplasts, where chlorophyll captures sunlight to transform carbon dioxide and water into glucose and oxygen. This process is influenced by factors such as temperature and light intensity, making it essential for understanding ecological and agricultural dynamics.",
+    "passage": "Photosynthesis is a fundamental process that enables green plants to synthesize food from carbon dioxide and water using sunlight. This process is essential, as it provides the energy necessary for growth and sustains the food chain. Importantly, during photosynthesis, oxygen is produced as a byproduct, which is vital for the survival of most living organisms. Therefore, understanding photosynthesis is crucial for fields such as agriculture and environmental science.",
     "questions": [
       {
         "q": "What is the main idea of the passage?",
         "options": [
-          "Photosynthesis is crucial for life",
-          "Chlorophyll is found in chloroplasts",
-          "Temperature affects plant growth",
-          "Plants convert oxygen into carbon dioxide"
+          "Photosynthesis is essential for life on Earth.",
+          "Photosynthesis occurs only in green plants.",
+          "Photosynthesis provides energy for all living beings.",
+          "Photosynthesis is a complex chemical process."
         ],
         "correctIndex": 0,
-        "explain": "這段文字的主要思想是光合作用對生命的重要性。"
+        "explain": "這段文字的主旨是強調光合作用對地球生命的重要性。"
       },
       {
-        "q": "Where does photosynthesis primarily occur?",
+        "q": "What do plants produce during photosynthesis?",
         "options": [
-          "In the roots",
-          "In the chloroplasts",
-          "In the soil",
-          "In the flowers"
+          "Carbon dioxide",
+          "Glucose",
+          "Nutrients",
+          "Water"
         ],
         "correctIndex": 1,
-        "explain": "光合作用主要在葉綠體中進行，因此正確答案是葉綠體。"
+        "explain": "植物在光合作用中會生成葡萄糖。"
       },
       {
-        "q": "What inference can be made about the impact of temperature on photosynthesis?",
+        "q": "What can be inferred about the importance of photosynthesis for humans?",
         "options": [
-          "Higher temperatures always increase photosynthesis",
-          "Temperature has no effect on photosynthesis",
-          "Optimal temperature can enhance photosynthesis",
-          "Photosynthesis is unaffected by environmental factors"
-        ],
-        "correctIndex": 2,
-        "explain": "文章提到溫度影響光合作用，因此最佳的溫度會增強光合作用。"
-      },
-      {
-        "q": "What does the term 'chlorophyll' refer to in the passage?",
-        "options": [
-          "A type of plant",
-          "A pigment that captures sunlight",
-          "A process of chemical reaction",
-          "A nutrient for plants"
+          "It is unnecessary for human survival.",
+          "It contributes to the oxygen we breathe.",
+          "It directly affects human food supply.",
+          "It has no impact on the environment."
         ],
         "correctIndex": 1,
-        "explain": "在文章中，'葉綠素'指的是一種捕捉陽光的色素。"
+        "explain": "從文字中可以推測，光合作用對人類的重要性在於它對我們呼吸的氧氣有貢獻。"
+      },
+      {
+        "q": "What does the term 'synthesize' most closely mean in the passage?",
+        "options": [
+          "To analyze",
+          "To create",
+          "To destroy",
+          "To mimic"
+        ],
+        "correctIndex": 1,
+        "explain": "在這段文字中，'合成'的意思是創造或製造食物。"
       }
     ]
   },
   "daily": {
-    "passage": "Attention students: The university library will be closed for maintenance this weekend. All services will resume on Monday morning. Please plan your studying accordingly.",
+    "passage": "Attention students: The annual campus health fair will take place this Friday from 10 AM to 3 PM in the main auditorium. Various health screenings and informational booths will be available. Don't miss the opportunity to learn more about your health and wellness!",
     "questions": [
       {
-        "q": "When will the library reopen?",
+        "q": "What day will the health fair occur?",
         "options": [
+          "Thursday",
+          "Friday",
           "Saturday",
-          "Sunday",
-          "Monday morning",
-          "Friday"
+          "Sunday"
         ],
-        "correctIndex": 2,
-        "explain": "圖書館將在週一早上重新開放。"
+        "correctIndex": 1,
+        "explain": "健康博覽會將在星期五舉行。"
       },
       {
-        "q": "What is the reason for the library closure?",
+        "q": "Where will the health fair be held?",
         "options": [
-          "Normal hours",
-          "Staff meeting",
-          "Maintenance",
-          "Holiday"
+          "In a classroom",
+          "In the library",
+          "In the main auditorium",
+          "Online"
         ],
         "correctIndex": 2,
-        "explain": "圖書館關閉的原因是進行維護。"
+        "explain": "健康博覽會將在主禮堂舉行。"
       }
     ]
   }

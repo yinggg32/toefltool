@@ -1,116 +1,116 @@
 {
   "chooseResponse": [
     {
-      "q": "What did you think of the lecture?",
+      "q": "What time is the meeting today?",
       "options": [
-        "It was really interesting.",
-        "I didn't understand it.",
-        "It was too short.",
-        "I want to learn more."
+        "At 3 PM",
+        "I'm not sure",
+        "In the library",
+        "Let's reschedule"
       ],
       "correctIndex": 0
     }
   ],
   "conversation": {
-    "transcript": "Student: Hey, did you go to the career fair yesterday?\nAdvisor: Yes, I did. How about you?\nStudent: I went, but I felt overwhelmed by all the options.\nAdvisor: That's understandable. It can be a lot to take in at once.",
+    "transcript": "Student: Hi! Have you finished the group project?\nProfessor: Almost, we just need to finalize the presentation slides.\nStudent: Do you think we should include more visuals?\nProfessor: Yes, that would make it more engaging for the audience.",
     "questions": [
       {
-        "q": "What was the student's feeling about the career fair?",
+        "q": "What is the group project about?",
         "options": [
-          "Excited to see employers.",
-          "Overwhelmed by options.",
-          "Happy to network.",
-          "Disappointed with the turnout."
-        ],
-        "correctIndex": 1,
-        "explain": "學生對職業博覽會感到不知所措。"
-      },
-      {
-        "q": "What did the advisor do at the career fair?",
-        "options": [
-          "Attended with students.",
-          "Checked job listings.",
-          "Networked with employers.",
-          "Visited workshops."
+          "A presentation",
+          "A paper",
+          "A video",
+          "An experiment"
         ],
         "correctIndex": 0,
-        "explain": "顧問和學生一起參加了職業博覽會。"
+        "explain": "小組專案是關於一個簡報。"
+      },
+      {
+        "q": "What do they need to finalize?",
+        "options": [
+          "The report",
+          "Presentation slides",
+          "Group members",
+          "Budget"
+        ],
+        "correctIndex": 1,
+        "explain": "他們需要完成簡報的幻燈片。"
       }
     ]
   },
   "announcement": {
-    "transcript": "Attention students: The library will be closed this weekend for maintenance. Please plan accordingly and ensure all materials are returned by Friday evening. Thank you for your understanding.",
+    "transcript": "Attention students! The library will be closing early today at 5 PM due to maintenance work. Please plan your study time accordingly. We apologize for any inconvenience and thank you for your understanding.",
     "questions": [
       {
-        "q": "Why will the library be closed?",
+        "q": "Why is the library closing early?",
         "options": [
-          "For a special event.",
-          "For maintenance work.",
-          "For staff training.",
-          "For inventory check."
+          "For a holiday",
+          "Due to maintenance",
+          "For a special event",
+          "Because of weather"
         ],
         "correctIndex": 1,
-        "explain": "圖書館將因為維護工作而關閉。"
+        "explain": "圖書館因為維護工作而提前關閉。"
       },
       {
-        "q": "When must materials be returned?",
+        "q": "What time will the library close?",
         "options": [
-          "By Thursday evening.",
-          "By Friday evening.",
-          "By Saturday morning.",
-          "By the end of the month."
+          "6 PM",
+          "4 PM",
+          "5 PM",
+          "7 PM"
         ],
-        "correctIndex": 1,
-        "explain": "教材必須在星期五晚上之前歸還。"
+        "correctIndex": 2,
+        "explain": "圖書館將在下午5點關閉。"
       }
     ]
   },
   "talk": {
-    "transcript": "Today, we are going to discuss the concept of sustainable energy. Sustainable energy is derived from resources that are naturally replenished, such as sunlight, wind, and water. Unlike fossil fuels, which can deplete and are harmful to the environment, sustainable energy sources are cleaner and have a smaller carbon footprint. Their implementation is crucial for reducing global greenhouse gas emissions and combating climate change. By investing in renewable technologies, we can ensure energy security and promote economic development without compromising the planet's health.",
+    "transcript": "Today, we're going to explore the concept of renewable energy. Renewable energy comes from natural sources that are constantly replenished, such as sunlight, wind, and water. Unlike fossil fuels, which can take millions of years to form, renewable energy sources can be harnessed much more quickly. This helps reduce greenhouse gas emissions and decrease our reliance on non-renewable resources. By investing in renewable energy, we can create a more sustainable future and mitigate the impacts of climate change. Advances in technology are making renewable energy more efficient and accessible, which is essential for transitioning to a low-carbon economy.",
     "questions": [
       {
-        "q": "What is sustainable energy?",
+        "q": "What is renewable energy?",
         "options": [
-          "Energy from fossil fuels.",
-          "Energy from renewable resources.",
-          "Energy used by industries.",
-          "Energy generated by nuclear power."
+          "Energy from natural sources",
+          "Energy from fossil fuels",
+          "Energy from nuclear power",
+          "Energy from coal"
         ],
-        "correctIndex": 1,
-        "explain": "可持續能源是來自可再生資源的能源。"
+        "correctIndex": 0,
+        "explain": "可再生能源來自自然來源。"
       },
       {
-        "q": "Why is sustainable energy important?",
+        "q": "What is a benefit of renewable energy?",
         "options": [
-          "It is cheaper than fossil fuels.",
-          "It helps reduce greenhouse gas emissions.",
-          "It is more reliable than coal.",
-          "It can be stored indefinitely."
+          "It creates pollution",
+          "It's limited",
+          "It reduces greenhouse gases",
+          "It's expensive"
         ],
-        "correctIndex": 1,
-        "explain": "可持續能源對減少溫室氣體排放至關重要。"
+        "correctIndex": 2,
+        "explain": "可再生能源減少溫室氣體排放。"
       },
       {
-        "q": "Which of the following is a sustainable energy source?",
+        "q": "What is mentioned as a source of renewable energy?",
         "options": [
-          "Natural gas",
           "Coal",
+          "Natural gas",
           "Wind",
           "Nuclear"
         ],
         "correctIndex": 2,
-        "explain": "風能是一種可持續的能源來源。"
+        "explain": "風被提到作為可再生能源的來源。"
       },
       {
-        "q": "What is a benefit of investing in renewable technologies?",
+        "q": "What can advances in technology do for renewable energy?",
         "options": [
-          "Increased fossil fuel use.",
-          "Energy security for the future.",
-          "Higher emissions rates.",
-          "Less economic growth."
+          "Make it less efficient",
+          "Make it more accessible",
+          "Make it more expensive",
+          "Make it less reliable"
         ],
         "correctIndex": 1,
-        "explain": "投資可再生技術能確保未來的能源安全。"
+        "explain": "技術的進步可以使可再生能源變得更易於獲得。"
       }
     ]
   }

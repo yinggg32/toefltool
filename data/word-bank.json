@@ -4118,5 +4118,61 @@
     "zh": "穩定性",
     "ex": "Ecological stability is important for the health of ecosystems.",
     "cat": "📰 每日新詞：biology"
+  },
+  {
+    "word": "stratification",
+    "pos": "n.",
+    "root": "分層 (fēn céng) + stratification",
+    "zh": "分層",
+    "ex": "Social stratification can lead to unequal access to resources.",
+    "cat": "📰 每日新詞：sociology"
+  },
+  {
+    "word": "cohesion",
+    "pos": "n.",
+    "root": "凝聚 (níng jù) + cohere",
+    "zh": "凝聚",
+    "ex": "Social cohesion is critical for maintaining a stable society.",
+    "cat": "📰 每日新詞：sociology"
+  },
+  {
+    "word": "roles",
+    "pos": "n.",
+    "root": "角色 (jué sè) + role",
+    "zh": "角色",
+    "ex": "Social roles dictate the expectations we have of individuals in society.",
+    "cat": "📰 每日新詞：sociology"
+  },
+  {
+    "word": "capital",
+    "pos": "n.",
+    "root": "資本 (zī běn) + capital",
+    "zh": "資本",
+    "ex": "Social capital can enhance community resilience and cooperation.",
+    "cat": "📰 每日新詞：sociology"
+  },
+  {
+    "word": "association",
+    "pos": "n.",
+    "root": "協會 (xié huì) + associate",
+    "zh": "協會",
+    "ex": "Professional associations can influence sociological research agendas.",
+    "cat": "📰 每日新詞：sociology"
+  },
+  {
+    "word": "demographics",
+    "pos": "n.",
+    "root": "人口統計 (rén kǒu tǒng jì) + demographic",
+    "zh": "人口統計",
+    "ex": "Demographics provide crucial data for understanding social trends.",
+    "cat": "📰 每日新詞：sociology"
+  },
+  {
+    "word": "influence",
+    "pos": "n./v.",
+    "root": "影響 (yǐng xiǎng) + influence",
+    "zh": "影響",
+    "ex": "Peer influence can significantly impact individual decision-making.",
+    "cat": "📰 每日新詞：sociology"
   }
 ]

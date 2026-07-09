@@ -4,127 +4,123 @@
       "words": [
         "the",
         "students",
-        "will",
-        "attend",
-        "the",
-        "conference",
-        "next",
-        "week"
-      ],
-      "display": "The students will attend the conference next week."
-    },
-    {
-      "words": [
-        "reading",
-        "the",
-        "book",
-        "is",
-        "essential",
-        "for",
-        "the",
-        "exam"
-      ],
-      "display": "Reading the book is essential for the exam."
-    },
-    {
-      "words": [
-        "the",
-        "research",
-        "team",
-        "presented",
-        "their",
-        "findings",
-        "at",
-        "the",
-        "seminar"
-      ],
-      "display": "The research team presented their findings at the seminar."
-    },
-    {
-      "words": [
-        "she",
         "decided",
         "to",
-        "join",
-        "the",
-        "debate",
-        "club",
-        "this",
-        "semester"
+        "organize",
+        "a",
+        "study",
+        "group"
       ],
-      "display": "She decided to join the debate club this semester."
-    },
-    {
-      "words": [
-        "the",
-        "library",
-        "will",
-        "be",
-        "closed",
-        "for",
-        "renovation",
-        "next",
-        "month"
-      ],
-      "display": "The library will be closed for renovation next month."
-    },
-    {
-      "words": [
-        "students",
-        "should",
-        "submit",
-        "their",
-        "assignments",
-        "by",
-        "friday",
-        "afternoon"
-      ],
-      "display": "Students should submit their assignments by Friday afternoon."
-    },
-    {
-      "words": [
-        "he",
-        "is",
-        "researching",
-        "climate",
-        "change",
-        "and",
-        "its",
-        "impacts",
-        "on",
-        "biodiversity"
-      ],
-      "display": "He is researching climate change and its impacts on biodiversity."
+      "display": "The students decided to organize a study group."
     },
     {
       "words": [
         "the",
         "professor",
-        "encouraged",
-        "everyone",
+        "gave",
+        "a",
+        "lecture",
+        "about",
+        "modern",
+        "literature"
+      ],
+      "display": "The professor gave a lecture about modern literature."
+    },
+    {
+      "words": [
+        "during",
+        "the",
+        "summer",
+        "internship",
+        "they",
+        "gained",
+        "valuable",
+        "experience"
+      ],
+      "display": "During the summer internship they gained valuable experience."
+    },
+    {
+      "words": [
+        "after",
+        "reading",
+        "the",
+        "book",
+        "she",
+        "wrote",
+        "an",
+        "analysis"
+      ],
+      "display": "After reading the book she wrote an analysis."
+    },
+    {
+      "words": [
+        "the",
+        "committee",
+        "will",
+        "review",
+        "all",
+        "applications",
+        "next",
+        "week"
+      ],
+      "display": "The committee will review all applications next week."
+    },
+    {
+      "words": [
+        "he",
+        "plans",
         "to",
-        "participate",
+        "travel",
+        "to",
+        "several",
+        "countries",
+        "this",
+        "year"
+      ],
+      "display": "He plans to travel to several countries this year."
+    },
+    {
+      "words": [
+        "the",
+        "research",
+        "findings",
+        "were",
+        "presented",
+        "at",
+        "the",
+        "conference"
+      ],
+      "display": "The research findings were presented at the conference."
+    },
+    {
+      "words": [
+        "she",
+        "enjoyed",
+        "participating",
         "in",
         "the",
-        "workshop"
+        "debate",
+        "about",
+        "climate",
+        "change"
       ],
-      "display": "The professor encouraged everyone to participate in the workshop."
+      "display": "She enjoyed participating in the debate about climate change."
     }
   ],
   "emailPrompts": [
-    "寄信給教授，說明因病無法參加期中考，詢問補考事宜。",
-    "寄信給宿舍管理，請求延長搬入期限。",
-    "寄信給圖書館，詢問如何借閱電子書。",
-    "寄信給學生會，表達希望參加即將舉辦的活動。",
-    "寄信給客服，請求退換不合適的商品。",
-    "寄信給指導教授，請求會面以討論研究進展。"
+    "寄信給宿舍辦公室，詢問關於更換房間的程序。",
+    "寄信給圖書館管理員，請求延長書籍的借閱期限。",
+    "寄信給社團負責人，表達希望參加即將舉行的活動。",
+    "寄信給教授，請求補交上學期的期末報告。",
+    "寄信給客戶服務部，反映最近購買商品的問題。",
+    "寄信給學校行政部，查詢獎學金申請的截止日期。"
   ],
   "discussionPrompts": [
     "教授問：「你認為科技對教育的影響是正面還是負面？」",
-    "教授問：「在氣候變遷議題上，個人行動的重要性如何？」",
-    "教授問：「文化多樣性對社會發展的貢獻是什麼？」",
-    "教授問：「社交媒體在現代人際關係中的作用是什麼？」",
-    "教授問：「人工智慧會不會取代人類的工作？」",
-    "教授問：「大學應該如何平衡學術自由與社會責任？」"
+    "教授問：「社交媒體在現代社會中扮演什麼樣的角色？」",
+    "教授問：「全球化對地方文化的影響是什麼？」",
+    "教授問：「氣候變遷的主要原因是什麼？」",
+    "教授問：「藝術在社會變革中有何重要性？」",
+    "教授問：「你認為政府應該如何應對貧困問題？」"
   ]
 }
