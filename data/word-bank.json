@@ -4174,5 +4174,101 @@
     "zh": "影響",
     "ex": "Peer influence can significantly impact individual decision-making.",
     "cat": "📰 每日新詞：sociology"
+  },
+  {
+    "word": "cosmos",
+    "pos": "n.",
+    "root": "cosmo-宇宙",
+    "zh": "宇宙",
+    "ex": "The cosmos is vast and filled with countless galaxies and stars.",
+    "cat": "📰 每日新詞：astronomy and space science"
+  },
+  {
+    "word": "orbital",
+    "pos": "adj.",
+    "root": "orbit-軌道+al形容詞後綴",
+    "zh": "軌道的",
+    "ex": "The satellite remains in a stable orbital path around the Earth.",
+    "cat": "📰 每日新詞：astronomy and space science"
+  },
+  {
+    "word": "planetary",
+    "pos": "adj.",
+    "root": "planet-行星+ary形容詞後綴",
+    "zh": "行星的",
+    "ex": "Planetary science explores the formation and evolution of planets.",
+    "cat": "📰 每日新詞：astronomy and space science"
+  },
+  {
+    "word": "observable",
+    "pos": "adj.",
+    "root": "observ-觀察+able形容詞後綴",
+    "zh": "可觀察的",
+    "ex": "Observable phenomena in space can provide clues to the universe's origins.",
+    "cat": "📰 每日新詞：astronomy and space science"
+  },
+  {
+    "word": "comet",
+    "pos": "n.",
+    "root": "comet-彗星",
+    "zh": "彗星",
+    "ex": "A comet's tail always points away from the sun due to solar winds.",
+    "cat": "📰 每日新詞：astronomy and space science"
+  },
+  {
+    "word": "dark matter",
+    "pos": "n.",
+    "root": "dark-暗+matter-物質",
+    "zh": "暗物質",
+    "ex": "Dark matter makes up a significant portion of the universe's mass.",
+    "cat": "📰 每日新詞：astronomy and space science"
+  },
+  {
+    "word": "redshift",
+    "pos": "n.",
+    "root": "red-紅+shift-變化",
+    "zh": "紅移",
+    "ex": "Redshift indicates that an object in space is moving away from us.",
+    "cat": "📰 每日新詞：astronomy and space science"
+  },
+  {
+    "word": "event horizon",
+    "pos": "n.",
+    "root": "event-事件+horizon-邊界",
+    "zh": "事件視界",
+    "ex": "The event horizon marks the boundary around a black hole.",
+    "cat": "📰 每日新詞：astronomy and space science"
+  },
+  {
+    "word": "solar system",
+    "pos": "n.",
+    "root": "solar-太陽+system-系統",
+    "zh": "太陽系",
+    "ex": "The solar system consists of the sun and all celestial bodies that orbit it.",
+    "cat": "📰 每日新詞：astronomy and space science"
+  },
+  {
+    "word": "magnetosphere",
+    "pos": "n.",
+    "root": "magneto-磁+sphere-球體",
+    "zh": "磁層",
+    "ex": "The magnetosphere protects Earth from solar wind.",
+    "cat": "📰 每日新詞：astronomy and space science"
+  },
+  {
+    "word": "gravitation",
+    "pos": "n.",
+    "root": "gravitate-重力+ion名詞後綴",
+    "zh": "引力",
+    "ex": "Gravitation is a fundamental force in the universe.",
+    "cat": "📰 每日新詞：astronomy and space science"
+  },
+  {
+    "word": "astrochemistry",
+    "pos": "n.",
+    "root": "astro-星+chemistry化學",
+    "zh": "天體化學",
+    "ex": "Astrochemistry investigates the chemical composition of celestial bodies.",
+    "cat": "📰 每日新詞：astronomy and space science"
   }
 ]

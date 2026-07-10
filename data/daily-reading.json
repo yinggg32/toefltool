@@ -2,101 +2,131 @@
   "cloze": {
     "segments": [
       {
-        "text": "The process of photosynthesis is crucial for life on Earth, as it allows plants to convert light energy into chemical energy. This process occurs primarily in the "
+        "text": "The human brain is an incredibly"
       },
       {
-        "blank": "chloro"
+        "blank": "com"
       },
       {
-        "text": "plasts of plant cells, where chlorophyll captures sunlight. During photosynthesis, plants take in carbon dioxide from the air and water from the soil. Through a series of chemical reactions, these materials are transformed into glucose and oxygen. The glucose serves as "
+        "text": "plex organ that is central to our"
       },
       {
-        "blank": "energy"
+        "blank": "ner"
       },
       {
-        "text": " for the plant, while the oxygen is released as a byproduct. This cycle not only provides sustenance for plants, but also plays a vital role in regulating atmospheric "
+        "text": "vous system. It is responsible for"
       },
       {
-        "blank": "gases"
+        "blank": "pro"
       },
       {
-        "text": ", contributing to the overall health of our planet."
+        "text": "cessing sensory information, controlling"
+      },
+      {
+        "blank": "mo"
+      },
+      {
+        "text": "vements, and enabling cognitive functions."
+      },
+      {
+        "blank": "fun"
+      },
+      {
+        "text": "ctions such as thinking and memory. Its"
+      },
+      {
+        "blank": "com"
+      },
+      {
+        "text": "position is mainly of neurons, which"
+      },
+      {
+        "blank": "con"
+      },
+      {
+        "text": "nect through synapses. This connectivity"
+      },
+      {
+        "blank": "pla"
+      },
+      {
+        "text": "ys a crucial role in learning and adaptability."
       }
     ]
   },
   "academic": {
-    "passage": "Photosynthesis is a fundamental process that enables green plants to synthesize food from carbon dioxide and water using sunlight. This process is essential, as it provides the energy necessary for growth and sustains the food chain. Importantly, during photosynthesis, oxygen is produced as a byproduct, which is vital for the survival of most living organisms. Therefore, understanding photosynthesis is crucial for fields such as agriculture and environmental science.",
+    "passage": "The study of the human brain reveals its complexity and essential functions. Comprised of billions of neurons, the brain processes information from the environment, coordinates movement, and facilitates cognitive abilities like memory and problem-solving. Understanding its structure and function is crucial for advancements in medicine and psychology, as it holds the key to treating neurological disorders and enhancing learning methods. Research continues to uncover the intricacies of brain connectivity, which is vital for cognitive development and rehabilitation.",
     "questions": [
       {
-        "q": "What is the main idea of the passage?",
+        "q": "What is the main focus of the passage?",
         "options": [
-          "Photosynthesis is essential for life on Earth.",
-          "Photosynthesis occurs only in green plants.",
-          "Photosynthesis provides energy for all living beings.",
-          "Photosynthesis is a complex chemical process."
+          "The complexity of the human brain",
+          "The structure of neurons",
+          "The treatment of neurological disorders",
+          "The role of memory in learning"
         ],
         "correctIndex": 0,
-        "explain": "這段文字的主旨是強調光合作用對地球生命的重要性。"
+        "explain": "這篇文章的主要焦點在於人類大腦的複雜性及其重要功能。"
       },
       {
-        "q": "What do plants produce during photosynthesis?",
+        "q": "What is primarily composed of billions of neurons?",
         "options": [
-          "Carbon dioxide",
-          "Glucose",
-          "Nutrients",
-          "Water"
+          "The human brain",
+          "The nervous system",
+          "Cognitive abilities",
+          "Environmental information"
         ],
-        "correctIndex": 1,
-        "explain": "植物在光合作用中會生成葡萄糖。"
+        "correctIndex": 0,
+        "explain": "人類大腦主要由數十億個神經元組成。"
       },
       {
-        "q": "What can be inferred about the importance of photosynthesis for humans?",
+        "q": "What can be inferred about brain connectivity?",
         "options": [
-          "It is unnecessary for human survival.",
-          "It contributes to the oxygen we breathe.",
-          "It directly affects human food supply.",
-          "It has no impact on the environment."
+          "It is unimportant for cognitive development",
+          "It is crucial for learning",
+          "It hinders rehabilitation",
+          "It only affects movement"
         ],
         "correctIndex": 1,
-        "explain": "從文字中可以推測，光合作用對人類的重要性在於它對我們呼吸的氧氣有貢獻。"
+        "explain": "大腦的連結性對於學習至關重要，這在文章中有提到。"
       },
       {
-        "q": "What does the term 'synthesize' most closely mean in the passage?",
+        "q": "What does the word 'facilitates' most closely mean in this context?",
         "options": [
-          "To analyze",
-          "To create",
-          "To destroy",
-          "To mimic"
+          "Complicates",
+          "Enhances",
+          "Hinders",
+          "Reduces"
         ],
         "correctIndex": 1,
-        "explain": "在這段文字中，'合成'的意思是創造或製造食物。"
+        "explain": "在這個語境中，'facilitates' 的意思是增強或使容易。"
       }
     ]
   },
   "daily": {
-    "passage": "Attention students: The annual campus health fair will take place this Friday from 10 AM to 3 PM in the main auditorium. Various health screenings and informational booths will be available. Don't miss the opportunity to learn more about your health and wellness!",
+    "passage": "Attention students! The library will be closed this Friday for maintenance. Please make sure to borrow any necessary books before then. We apologize for any inconvenience and appreciate your understanding.",
     "questions": [
       {
-        "q": "What day will the health fair occur?",
+        "q": "Why will the library be closed?",
         "options": [
-          "Thursday",
-          "Friday",
-          "Saturday",
-          "Sunday"
+          "For inventory checks",
+          "For maintenance",
+          "For a holiday",
+          "For an event"
         ],
         "correctIndex": 1,
-        "explain": "健康博覽會將在星期五舉行。"
+        "explain": "圖書館將於本週五因維護而關閉。"
       },
       {
-        "q": "Where will the health fair be held?",
+        "q": "What should students do before Friday?",
         "options": [
-          "In a classroom",
-          "In the library",
-          "In the main auditorium",
-          "Online"
+          "Return all books",
+          "Attend a meeting",
+          "Borrow necessary books",
+          "Use the computer lab"
         ],
         "correctIndex": 2,
-        "explain": "健康博覽會將在主禮堂舉行。"
+        "explain": "學生應在週五之前借用必要的書籍。"
       }
     ]
   }

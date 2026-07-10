@@ -1,116 +1,116 @@
 {
   "chooseResponse": [
     {
-      "q": "What time is the meeting today?",
+      "q": "What time is the meeting scheduled for?",
       "options": [
-        "At 3 PM",
-        "I'm not sure",
-        "In the library",
-        "Let's reschedule"
+        "At 3 PM.",
+        "It's canceled.",
+        "I'm not sure.",
+        "Let's reschedule."
       ],
       "correctIndex": 0
     }
   ],
   "conversation": {
-    "transcript": "Student: Hi! Have you finished the group project?\nProfessor: Almost, we just need to finalize the presentation slides.\nStudent: Do you think we should include more visuals?\nProfessor: Yes, that would make it more engaging for the audience.",
+    "transcript": "Student: Hi, I heard there's a new art exhibit opening this weekend.\nAdvisor: Yes, it's at the downtown gallery. Are you planning to go?\nStudent: I think so! What kind of art will be displayed?\nAdvisor: There will be contemporary pieces from local artists.",
     "questions": [
       {
-        "q": "What is the group project about?",
+        "q": "What is the main topic of this conversation?",
         "options": [
-          "A presentation",
-          "A paper",
-          "A video",
-          "An experiment"
+          "A new art exhibit.",
+          "Class registration.",
+          "A study group.",
+          "Campus events."
         ],
         "correctIndex": 0,
-        "explain": "小組專案是關於一個簡報。"
+        "explain": "這段對話的主要主題是關於新的藝術展覽。"
       },
       {
-        "q": "What do they need to finalize?",
+        "q": "Where is the art exhibit located?",
         "options": [
-          "The report",
-          "Presentation slides",
-          "Group members",
-          "Budget"
+          "On campus.",
+          "In the library.",
+          "Downtown gallery.",
+          "At the museum."
         ],
-        "correctIndex": 1,
-        "explain": "他們需要完成簡報的幻燈片。"
+        "correctIndex": 2,
+        "explain": "藝術展覽的地點是在市中心的畫廊。"
       }
     ]
   },
   "announcement": {
-    "transcript": "Attention students! The library will be closing early today at 5 PM due to maintenance work. Please plan your study time accordingly. We apologize for any inconvenience and thank you for your understanding.",
+    "transcript": "Attention students! The university will host a wellness fair this Friday from 10 AM to 4 PM in the student center. Various health services, fitness demos, and nutrition workshops will be available. Don’t miss this opportunity to learn more about maintaining a healthy lifestyle!",
     "questions": [
       {
-        "q": "Why is the library closing early?",
+        "q": "What event is being announced?",
         "options": [
-          "For a holiday",
-          "Due to maintenance",
-          "For a special event",
-          "Because of weather"
+          "A job fair.",
+          "A wellness fair.",
+          "A sports event.",
+          "A lecture series."
         ],
         "correctIndex": 1,
-        "explain": "圖書館因為維護工作而提前關閉。"
+        "explain": "公告的活動是健康博覽會。"
       },
       {
-        "q": "What time will the library close?",
+        "q": "When will the wellness fair take place?",
         "options": [
-          "6 PM",
-          "4 PM",
-          "5 PM",
-          "7 PM"
+          "This Saturday.",
+          "This Friday.",
+          "Next week.",
+          "Tomorrow."
         ],
-        "correctIndex": 2,
-        "explain": "圖書館將在下午5點關閉。"
+        "correctIndex": 1,
+        "explain": "健康博覽會將於本週五舉行。"
       }
     ]
   },
   "talk": {
-    "transcript": "Today, we're going to explore the concept of renewable energy. Renewable energy comes from natural sources that are constantly replenished, such as sunlight, wind, and water. Unlike fossil fuels, which can take millions of years to form, renewable energy sources can be harnessed much more quickly. This helps reduce greenhouse gas emissions and decrease our reliance on non-renewable resources. By investing in renewable energy, we can create a more sustainable future and mitigate the impacts of climate change. Advances in technology are making renewable energy more efficient and accessible, which is essential for transitioning to a low-carbon economy.",
+    "transcript": "Today, I will discuss the importance of biodiversity. Biodiversity refers to the variety of life on Earth, including the number of different species, ecosystems, and genetic variations. It is crucial for ecosystem resilience, providing us with essential services such as clean air, water, and food. High biodiversity helps ecosystems recover from disturbances and adapt to changes. Unfortunately, human activities are threatening biodiversity through habitat destruction, pollution, and climate change. Conserving biodiversity is vital for our survival and the health of our planet.",
     "questions": [
       {
-        "q": "What is renewable energy?",
+        "q": "What does biodiversity refer to?",
         "options": [
-          "Energy from natural sources",
-          "Energy from fossil fuels",
-          "Energy from nuclear power",
-          "Energy from coal"
-        ],
-        "correctIndex": 0,
-        "explain": "可再生能源來自自然來源。"
-      },
-      {
-        "q": "What is a benefit of renewable energy?",
-        "options": [
-          "It creates pollution",
-          "It's limited",
-          "It reduces greenhouse gases",
-          "It's expensive"
-        ],
-        "correctIndex": 2,
-        "explain": "可再生能源減少溫室氣體排放。"
-      },
-      {
-        "q": "What is mentioned as a source of renewable energy?",
-        "options": [
-          "Coal",
-          "Natural gas",
-          "Wind",
-          "Nuclear"
-        ],
-        "correctIndex": 2,
-        "explain": "風被提到作為可再生能源的來源。"
-      },
-      {
-        "q": "What can advances in technology do for renewable energy?",
-        "options": [
-          "Make it less efficient",
-          "Make it more accessible",
-          "Make it more expensive",
-          "Make it less reliable"
+          "Only animal species.",
+          "The variety of life.",
+          "Only plant species.",
+          "Ecosystem services."
         ],
         "correctIndex": 1,
-        "explain": "技術的進步可以使可再生能源變得更易於獲得。"
+        "explain": "生物多樣性是指地球上生命的多樣性。"
+      },
+      {
+        "q": "Why is biodiversity important?",
+        "options": [
+          "For tourism only.",
+          "It supports ecosystem services.",
+          "It reduces pollution.",
+          "It increases urban development."
+        ],
+        "correctIndex": 1,
+        "explain": "生物多樣性對於支持生態系統服務是非常重要的。"
+      },
+      {
+        "q": "What are some threats to biodiversity mentioned?",
+        "options": [
+          "Urban development.",
+          "Increased tourism.",
+          "Human activities.",
+          "Animal migration."
+        ],
+        "correctIndex": 2,
+        "explain": "提到的威脅生物多樣性的有人的活動。"
+      },
+      {
+        "q": "What can help ecosystems recover from disturbances?",
+        "options": [
+          "High biodiversity.",
+          "Low species count.",
+          "Agricultural expansion.",
+          "Pollution control."
+        ],
+        "correctIndex": 0,
+        "explain": "高生物多樣性有助於生態系統從干擾中恢復。"
       }
     ]
   }

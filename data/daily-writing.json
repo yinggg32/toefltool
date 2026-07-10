@@ -4,123 +4,134 @@
       "words": [
         "the",
         "students",
-        "decided",
-        "to",
-        "organize",
-        "a",
-        "study",
-        "group"
-      ],
-      "display": "The students decided to organize a study group."
-    },
-    {
-      "words": [
-        "the",
-        "professor",
-        "gave",
-        "a",
-        "lecture",
-        "about",
-        "modern",
-        "literature"
-      ],
-      "display": "The professor gave a lecture about modern literature."
-    },
-    {
-      "words": [
-        "during",
-        "the",
-        "summer",
-        "internship",
-        "they",
-        "gained",
-        "valuable",
-        "experience"
-      ],
-      "display": "During the summer internship they gained valuable experience."
-    },
-    {
-      "words": [
-        "after",
-        "reading",
-        "the",
-        "book",
-        "she",
-        "wrote",
-        "an",
-        "analysis"
-      ],
-      "display": "After reading the book she wrote an analysis."
-    },
-    {
-      "words": [
-        "the",
-        "committee",
-        "will",
-        "review",
-        "all",
-        "applications",
-        "next",
-        "week"
-      ],
-      "display": "The committee will review all applications next week."
-    },
-    {
-      "words": [
-        "he",
-        "plans",
-        "to",
-        "travel",
-        "to",
-        "several",
-        "countries",
-        "this",
-        "year"
-      ],
-      "display": "He plans to travel to several countries this year."
-    },
-    {
-      "words": [
-        "the",
+        "presented",
+        "their",
         "research",
         "findings",
-        "were",
-        "presented",
-        "at",
+        "in",
         "the",
         "conference"
       ],
-      "display": "The research findings were presented at the conference."
+      "display": "The students presented their research findings in the conference."
+    },
+    {
+      "words": [
+        "the",
+        "new",
+        "policy",
+        "will",
+        "affect",
+        "all",
+        "employees",
+        "starting",
+        "next",
+        "month"
+      ],
+      "display": "The new policy will affect all employees starting next month."
     },
     {
       "words": [
         "she",
-        "enjoyed",
-        "participating",
-        "in",
+        "wants",
+        "to",
+        "apply",
+        "for",
         "the",
-        "debate",
-        "about",
-        "climate",
-        "change"
+        "scholarship",
+        "to",
+        "study",
+        "abroad"
       ],
-      "display": "She enjoyed participating in the debate about climate change."
+      "display": "She wants to apply for the scholarship to study abroad."
+    },
+    {
+      "words": [
+        "the",
+        "book",
+        "was",
+        "released",
+        "by",
+        "the",
+        "publisher",
+        "earlier",
+        "this",
+        "year"
+      ],
+      "display": "The book was released by the publisher earlier this year."
+    },
+    {
+      "words": [
+        "scientists",
+        "are",
+        "conducting",
+        "experiments",
+        "to",
+        "study",
+        "climate",
+        "change",
+        "effects"
+      ],
+      "display": "Scientists are conducting experiments to study climate change effects."
+    },
+    {
+      "words": [
+        "the",
+        "team",
+        "will",
+        "meet",
+        "every",
+        "Wednesday",
+        "to",
+        "discuss",
+        "the",
+        "project"
+      ],
+      "display": "The team will meet every Wednesday to discuss the project."
+    },
+    {
+      "words": [
+        "it",
+        "is",
+        "important",
+        "to",
+        "review",
+        "your",
+        "notes",
+        "before",
+        "the",
+        "exam"
+      ],
+      "display": "It is important to review your notes before the exam."
+    },
+    {
+      "words": [
+        "the",
+        "presentation",
+        "should",
+        "include",
+        "relevant",
+        "data",
+        "and",
+        "visual",
+        "aids"
+      ],
+      "display": "The presentation should include relevant data and visual aids."
     }
   ],
   "emailPrompts": [
-    "寄信給宿舍辦公室，詢問關於更換房間的程序。",
-    "寄信給圖書館管理員，請求延長書籍的借閱期限。",
-    "寄信給社團負責人，表達希望參加即將舉行的活動。",
-    "寄信給教授，請求補交上學期的期末報告。",
-    "寄信給客戶服務部，反映最近購買商品的問題。",
-    "寄信給學校行政部，查詢獎學金申請的截止日期。"
+    "寄信給教授，詢問有關期末報告的格式要求。",
+    "寄信給宿舍辦公室，請求修理漏水的水龍頭。",
+    "寄信給圖書館，詢問延長借書期限的可能性。",
+    "寄信給學生社團，報名參加即將舉行的活動。",
+    "寄信給客服，反映最近購買商品的問題。",
+    "寄信給導師，請求約時間進行學術諮詢。"
   ],
   "discussionPrompts": [
-    "教授問：「你認為科技對教育的影響是正面還是負面？」",
-    "教授問：「社交媒體在現代社會中扮演什麼樣的角色？」",
-    "教授問：「全球化對地方文化的影響是什麼？」",
-    "教授問：「氣候變遷的主要原因是什麼？」",
-    "教授問：「藝術在社會變革中有何重要性？」",
-    "教授問：「你認為政府應該如何應對貧困問題？」"
+    "教授問：「全球變暖對人類社會的影響有哪些？」",
+    "教授問：「科技進步是否會取代人類工作？」",
+    "教授問：「應該如何平衡經濟發展與環境保護？」",
+    "教授問：「教育體制改革的必要性體現在哪些方面？」",
+    "教授問：「藝術在現代社會中扮演了什麼角色？」",
+    "教授問：「社交媒體對青少年的心理健康有什麼影響？」"
   ]
 }
