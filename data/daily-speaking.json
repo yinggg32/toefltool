@@ -1,45 +1,45 @@
 {
   "shadowSentences": [
-    "I enjoy reading books every evening.",
-    "He likes to play soccer on weekends.",
-    "They often visit the local museum together.",
-    "She takes yoga classes to relieve stress.",
-    "We watched a movie last night at home.",
-    "My brother plays the guitar in a band.",
-    "The coffee shop near my house is always busy.",
-    "I often go hiking during the summer months.",
-    "The new restaurant in town serves delicious food.",
-    "Traveling to different countries helps me learn more."
+    "I enjoy reading books at night.",
+    "The weather today is quite nice.",
+    "She loves to travel during summer.",
+    "We should try a new restaurant soon.",
+    "He often goes running in the park.",
+    "They plan to visit their grandparents next week.",
+    "It’s important to stay active and healthy.",
+    "My favorite movie is about friendship and adventures.",
+    "Learning a new language can be challenging but rewarding.",
+    "Volunteering in the community helps build strong connections."
   ],
   "interviewScenarios": [
     {
-      "topic": "旅行經歷",
-      "intro": "You have agreed to take part in a research study about travel experiences.",
+      "topic": "旅行計劃",
+      "intro": "You have agreed to take part in a research study about travel planning.",
       "questions": [
         "Q1: Can you share a memorable trip you have taken?",
-        "Q2: What challenges did you face during that trip?",
-        "Q3: How do you feel about the impact of travel on personal growth?",
+        "Q2: What challenges do you often face when planning a trip?",
+        "Q3: How do you feel about travel planning in general?",
         "Q4: What advice would you give someone planning their first trip?"
       ]
     },
     {
-      "topic": "健身習慣",
-      "intro": "You have agreed to take part in a research study about fitness habits.",
+      "topic": "健康飲食",
+      "intro": "You have agreed to take part in a research study about healthy eating habits.",
       "questions": [
-        "Q1: What is your current fitness routine like?",
-        "Q2: Have you encountered any difficulties maintaining your routine?",
-        "Q3: In your opinion, why is regular exercise important?",
-        "Q4: What tips would you offer to someone starting to exercise?"
+        "Q1: What does a typical meal look like for you?",
+        "Q2: What are some common difficulties you encounter when trying to eat healthy?",
+        "Q3: Why do you think healthy eating is important?",
+        "Q4: What tips can you provide for someone wanting to eat healthier?"
       ]
     },
     {
-      "topic": "音樂偏好",
-      "intro": "You have agreed to take part in a research study about music preferences.",
+      "topic": "閒暇時間活動",
+      "intro": "You have agreed to take part in a research study about leisure activities.",
       "questions": [
-        "Q1: What type of music do you enjoy listening to?",
-        "Q2: How has your music taste changed over the years?",
-        "Q3: Why do you think music is important in people's lives?",
-        "Q4: What recommendations do you have for discovering new music?"
+        "Q1: How do you usually spend your free time?",
+        "Q2: What are some challenges you face when trying to enjoy leisure activities?",
+        "Q3: In your opinion, why is it important to have hobbies?",
+        "Q4: What recommendations would you give to someone looking to find a new hobby?"
       ]
     }
   ]

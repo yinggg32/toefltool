@@ -1,80 +1,80 @@
 {
   "chooseResponse": [
     {
-      "q": "What time is the meeting scheduled for?",
+      "q": "What are your plans for the weekend?",
       "options": [
-        "At 3 PM.",
-        "It's canceled.",
-        "I'm not sure.",
-        "Let's reschedule."
+        "I might go hiking.",
+        "I have a lot of homework.",
+        "I'm not sure yet.",
+        "I plan to visit family."
       ],
       "correctIndex": 0
     }
   ],
   "conversation": {
-    "transcript": "Student: Hi, I heard there's a new art exhibit opening this weekend.\nAdvisor: Yes, it's at the downtown gallery. Are you planning to go?\nStudent: I think so! What kind of art will be displayed?\nAdvisor: There will be contemporary pieces from local artists.",
+    "transcript": "Student: Hey, did you see the schedule for the film festival?\nAdvisor: Yes, I think it's going to be really interesting this year.\nStudent: I can’t wait to see some of the foreign films!\nAdvisor: Me too! I love how they often tell different stories than Hollywood films.",
     "questions": [
       {
-        "q": "What is the main topic of this conversation?",
+        "q": "What does the student look forward to?",
         "options": [
-          "A new art exhibit.",
-          "Class registration.",
-          "A study group.",
-          "Campus events."
+          "Local films",
+          "Foreign films",
+          "Documentaries",
+          "Action movies"
         ],
-        "correctIndex": 0,
-        "explain": "這段對話的主要主題是關於新的藝術展覽。"
+        "correctIndex": 1,
+        "explain": "學生期待看外國電影。"
       },
       {
-        "q": "Where is the art exhibit located?",
+        "q": "What is the advisor's opinion on the festival?",
         "options": [
-          "On campus.",
-          "In the library.",
-          "Downtown gallery.",
-          "At the museum."
+          "It's boring.",
+          "It will be interesting.",
+          "It's too long.",
+          "It has too many movies."
         ],
-        "correctIndex": 2,
-        "explain": "藝術展覽的地點是在市中心的畫廊。"
+        "correctIndex": 1,
+        "explain": "顧問認為這個影展會很有趣。"
       }
     ]
   },
   "announcement": {
-    "transcript": "Attention students! The university will host a wellness fair this Friday from 10 AM to 4 PM in the student center. Various health services, fitness demos, and nutrition workshops will be available. Don’t miss this opportunity to learn more about maintaining a healthy lifestyle!",
+    "transcript": "Attention students! The library will be closing early tomorrow at 5 PM due to maintenance work. Please make sure to return or renew your books before then. Thank you for your understanding.",
     "questions": [
       {
-        "q": "What event is being announced?",
+        "q": "Why is the library closing early?",
         "options": [
-          "A job fair.",
-          "A wellness fair.",
-          "A sports event.",
-          "A lecture series."
+          "For a holiday.",
+          "Due to maintenance work.",
+          "For a special event.",
+          "Because of staff training."
         ],
         "correctIndex": 1,
-        "explain": "公告的活動是健康博覽會。"
+        "explain": "圖書館因為維修工作而提前關閉。"
       },
       {
-        "q": "When will the wellness fair take place?",
+        "q": "What time will the library close tomorrow?",
         "options": [
-          "This Saturday.",
-          "This Friday.",
-          "Next week.",
-          "Tomorrow."
+          "4 PM",
+          "5 PM",
+          "6 PM",
+          "7 PM"
         ],
         "correctIndex": 1,
-        "explain": "健康博覽會將於本週五舉行。"
+        "explain": "圖書館明天將於下午5點關閉。"
       }
     ]
   },
   "talk": {
-    "transcript": "Today, I will discuss the importance of biodiversity. Biodiversity refers to the variety of life on Earth, including the number of different species, ecosystems, and genetic variations. It is crucial for ecosystem resilience, providing us with essential services such as clean air, water, and food. High biodiversity helps ecosystems recover from disturbances and adapt to changes. Unfortunately, human activities are threatening biodiversity through habitat destruction, pollution, and climate change. Conserving biodiversity is vital for our survival and the health of our planet.",
+    "transcript": "Today, we'll explore the concept of biodiversity. Biodiversity refers to the variety of life found on Earth, including the different species of plants, animals, and microorganisms. It is essential for ecosystem health and resilience. High biodiversity contributes to the stability of ecosystems and supports processes like pollination and nutrient cycling. Unfortunately, human activities such as deforestation and pollution are threatening biodiversity globally. Conservation efforts are crucial to protect these natural resources and maintain the balance of our ecosystems.",
     "questions": [
       {
-        "q": "What does biodiversity refer to?",
+        "q": "What is biodiversity?",
         "options": [
-          "Only animal species.",
-          "The variety of life.",
-          "Only plant species.",
-          "Ecosystem services."
+          "The number of ecosystems",
+          "The variety of life",
+          "The number of habitats",
+          "The size of organisms"
         ],
         "correctIndex": 1,
         "explain": "生物多樣性是指地球上生命的多樣性。"
@@ -82,35 +82,35 @@
       {
         "q": "Why is biodiversity important?",
         "options": [
-          "For tourism only.",
-          "It supports ecosystem services.",
-          "It reduces pollution.",
-          "It increases urban development."
+          "It helps to create habitats.",
+          "It supports ecosystem processes.",
+          "It increases pollution.",
+          "It reduces species variety."
         ],
         "correctIndex": 1,
-        "explain": "生物多樣性對於支持生態系統服務是非常重要的。"
+        "explain": "生物多樣性支持生態系統的運作。"
       },
       {
-        "q": "What are some threats to biodiversity mentioned?",
+        "q": "What are some threats to biodiversity?",
         "options": [
+          "Increased rainfall.",
           "Urban development.",
-          "Increased tourism.",
-          "Human activities.",
-          "Animal migration."
+          "Natural disasters.",
+          "Higher temperatures."
         ],
-        "correctIndex": 2,
-        "explain": "提到的威脅生物多樣性的有人的活動。"
+        "correctIndex": 1,
+        "explain": "城市發展威脅生物多樣性。"
       },
       {
-        "q": "What can help ecosystems recover from disturbances?",
+        "q": "What is a key action to protect biodiversity?",
         "options": [
-          "High biodiversity.",
-          "Low species count.",
-          "Agricultural expansion.",
-          "Pollution control."
+          "Increasing pollution.",
+          "Reducing conservation efforts.",
+          "Promoting deforestation.",
+          "Implementing conservation efforts."
         ],
-        "correctIndex": 0,
-        "explain": "高生物多樣性有助於生態系統從干擾中恢復。"
+        "correctIndex": 3,
+        "explain": "實施保護措施是保護生物多樣性的關鍵。"
       }
     ]
   }

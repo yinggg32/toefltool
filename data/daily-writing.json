@@ -3,90 +3,101 @@
     {
       "words": [
         "the",
-        "students",
-        "presented",
-        "their",
-        "research",
-        "findings",
-        "in",
-        "the",
-        "conference"
+        "researcher",
+        "published",
+        "a",
+        "new",
+        "study",
+        "on",
+        "climate",
+        "change"
       ],
-      "display": "The students presented their research findings in the conference."
+      "display": "The researcher published a new study on climate change."
+    },
+    {
+      "words": [
+        "students",
+        "should",
+        "review",
+        "the",
+        "material",
+        "before",
+        "the",
+        "exam"
+      ],
+      "display": "Students should review the material before the exam."
     },
     {
       "words": [
         "the",
-        "new",
-        "policy",
+        "library",
         "will",
-        "affect",
-        "all",
-        "employees",
-        "starting",
+        "be",
+        "closed",
+        "for",
+        "renovations",
         "next",
         "month"
       ],
-      "display": "The new policy will affect all employees starting next month."
+      "display": "The library will be closed for renovations next month."
+    },
+    {
+      "words": [
+        "the",
+        "professor",
+        "encourages",
+        "students",
+        "to",
+        "participate",
+        "in",
+        "group",
+        "discussions"
+      ],
+      "display": "The professor encourages students to participate in group discussions."
     },
     {
       "words": [
         "she",
-        "wants",
-        "to",
-        "apply",
-        "for",
-        "the",
-        "scholarship",
-        "to",
-        "study",
-        "abroad"
+        "enjoys",
+        "reading",
+        "novels",
+        "from",
+        "different",
+        "cultures",
+        "and",
+        "periods"
       ],
-      "display": "She wants to apply for the scholarship to study abroad."
+      "display": "She enjoys reading novels from different cultures and periods."
     },
     {
       "words": [
         "the",
-        "book",
-        "was",
-        "released",
-        "by",
-        "the",
-        "publisher",
-        "earlier",
-        "this",
-        "year"
-      ],
-      "display": "The book was released by the publisher earlier this year."
-    },
-    {
-      "words": [
-        "scientists",
-        "are",
-        "conducting",
-        "experiments",
-        "to",
-        "study",
-        "climate",
-        "change",
-        "effects"
-      ],
-      "display": "Scientists are conducting experiments to study climate change effects."
-    },
-    {
-      "words": [
-        "the",
-        "team",
+        "club",
+        "meeting",
         "will",
-        "meet",
-        "every",
-        "Wednesday",
-        "to",
-        "discuss",
+        "take",
+        "place",
+        "in",
         "the",
-        "project"
+        "main",
+        "auditorium"
       ],
-      "display": "The team will meet every Wednesday to discuss the project."
+      "display": "The club meeting will take place in the main auditorium."
+    },
+    {
+      "words": [
+        "they",
+        "are",
+        "planning",
+        "a",
+        "field",
+        "trip",
+        "to",
+        "the",
+        "science",
+        "museum"
+      ],
+      "display": "They are planning a field trip to the science museum."
     },
     {
       "words": [
@@ -94,44 +105,30 @@
         "is",
         "important",
         "to",
-        "review",
-        "your",
-        "notes",
-        "before",
+        "follow",
         "the",
-        "exam"
-      ],
-      "display": "It is important to review your notes before the exam."
-    },
-    {
-      "words": [
+        "guidelines",
+        "for",
         "the",
-        "presentation",
-        "should",
-        "include",
-        "relevant",
-        "data",
-        "and",
-        "visual",
-        "aids"
+        "project"
       ],
-      "display": "The presentation should include relevant data and visual aids."
+      "display": "It is important to follow the guidelines for the project."
     }
   ],
   "emailPrompts": [
-    "寄信給教授，詢問有關期末報告的格式要求。",
-    "寄信給宿舍辦公室，請求修理漏水的水龍頭。",
-    "寄信給圖書館，詢問延長借書期限的可能性。",
-    "寄信給學生社團，報名參加即將舉行的活動。",
-    "寄信給客服，反映最近購買商品的問題。",
-    "寄信給導師，請求約時間進行學術諮詢。"
+    "寄信給教授，說明因病無法參加期中考，詢問補考事宜。",
+    "寄信給宿舍辦公室，請求更換房間的安排。",
+    "寄信給圖書館，詢問有關延遲還書的罰款。",
+    "寄信給學生會，表達對即將舉辦的活動的興趣。",
+    "寄信給客服，詢問有關訂單的運送狀態。",
+    "寄信給導師，請教學術指導的問題。"
   ],
   "discussionPrompts": [
-    "教授問：「全球變暖對人類社會的影響有哪些？」",
-    "教授問：「科技進步是否會取代人類工作？」",
-    "教授問：「應該如何平衡經濟發展與環境保護？」",
-    "教授問：「教育體制改革的必要性體現在哪些方面？」",
-    "教授問：「藝術在現代社會中扮演了什麼角色？」",
-    "教授問：「社交媒體對青少年的心理健康有什麼影響？」"
+    "教授問：「你認為科技對於人際關係的影響是正面還是負面？」",
+    "教授問：「在全球化的時代，文化多樣性是否會受到威脅？」",
+    "教授問：「社交媒體對當代青少年的心理健康影響如何？」",
+    "教授問：「環境保護與經濟發展之間的平衡應該如何取得？」",
+    "教授問：「教育應該注重知識的傳授還是技能的培養？」",
+    "教授問：「你認為藝術在社會變革中扮演什麼角色？」"
   ]
 }

@@ -2,131 +2,110 @@
   "cloze": {
     "segments": [
       {
-        "text": "The human brain is an incredibly"
+        "text": "The phenomenon of photosynthesis is essential for life on Earth. Plants, algae, and some bacteria convert sunlight into chemical energy."
       },
       {
-        "blank": "com"
+        "blank": "synthesis"
       },
       {
-        "text": "plex organ that is central to our"
+        "text": "This process occurs mainly in the chloroplasts of plant cells, where chlorophyll captures sunlight. During photosynthesis, carbon dioxide and water are used to produce glucose and oxygen."
       },
       {
-        "blank": "ner"
+        "blank": "glucose"
       },
       {
-        "text": "vous system. It is responsible for"
+        "text": "The overall reaction can be summarized in a simplified equation. The significance of photosynthesis extends beyond just energy production; it also contributes to the Earth's oxygen supply."
       },
       {
-        "blank": "pro"
+        "blank": "contribu"
       },
       {
-        "text": "cessing sensory information, controlling"
+        "text": "Understanding photosynthesis is crucial for studying ecological systems and agricultural practices."
       },
       {
-        "blank": "mo"
+        "blank": "ecolog"
       },
       {
-        "text": "vements, and enabling cognitive functions."
+        "text": "Research in this area can lead to improvements in crop yields and strategies for combating climate change."
       },
       {
-        "blank": "fun"
-      },
-      {
-        "text": "ctions such as thinking and memory. Its"
-      },
-      {
-        "blank": "com"
-      },
-      {
-        "text": "position is mainly of neurons, which"
-      },
-      {
-        "blank": "con"
-      },
-      {
-        "text": "nect through synapses. This connectivity"
-      },
-      {
-        "blank": "pla"
-      },
-      {
-        "text": "ys a crucial role in learning and adaptability."
+        "blank": "yield"
       }
     ]
   },
   "academic": {
-    "passage": "The study of the human brain reveals its complexity and essential functions. Comprised of billions of neurons, the brain processes information from the environment, coordinates movement, and facilitates cognitive abilities like memory and problem-solving. Understanding its structure and function is crucial for advancements in medicine and psychology, as it holds the key to treating neurological disorders and enhancing learning methods. Research continues to uncover the intricacies of brain connectivity, which is vital for cognitive development and rehabilitation.",
+    "passage": "Photosynthesis is a vital process carried out by plants and some microorganisms. This process allows these organisms to convert solar energy into chemical energy, which is stored in sugars. The overall reaction involves the intake of carbon dioxide and water, resulting in glucose and oxygen as byproducts. Understanding photosynthesis is crucial for environmental science and agriculture, as it plays a key role in carbon cycling and the energy flow in ecosystems.",
     "questions": [
       {
-        "q": "What is the main focus of the passage?",
+        "q": "What is the main idea of the passage?",
         "options": [
-          "The complexity of the human brain",
-          "The structure of neurons",
-          "The treatment of neurological disorders",
-          "The role of memory in learning"
+          "Photosynthesis is essential for life",
+          "Chlorophyll captures sunlight",
+          "Plants produce glucose",
+          "Oxygen is a byproduct of photosynthesis"
         ],
         "correctIndex": 0,
-        "explain": "這篇文章的主要焦點在於人類大腦的複雜性及其重要功能。"
+        "explain": "這段落的主要概念是光合作用對生命的重要性。"
       },
       {
-        "q": "What is primarily composed of billions of neurons?",
+        "q": "What substances are used in the photosynthesis process?",
         "options": [
-          "The human brain",
-          "The nervous system",
-          "Cognitive abilities",
-          "Environmental information"
+          "Glucose and oxygen",
+          "Carbon dioxide and sunlight",
+          "Water and oxygen",
+          "Carbon dioxide and water"
         ],
-        "correctIndex": 0,
-        "explain": "人類大腦主要由數十億個神經元組成。"
+        "correctIndex": 3,
+        "explain": "光合作用的過程中使用的是二氧化碳和水。"
       },
       {
-        "q": "What can be inferred about brain connectivity?",
+        "q": "What can be inferred about the importance of photosynthesis?",
         "options": [
-          "It is unimportant for cognitive development",
-          "It is crucial for learning",
-          "It hinders rehabilitation",
-          "It only affects movement"
-        ],
-        "correctIndex": 1,
-        "explain": "大腦的連結性對於學習至關重要，這在文章中有提到。"
-      },
-      {
-        "q": "What does the word 'facilitates' most closely mean in this context?",
-        "options": [
-          "Complicates",
-          "Enhances",
-          "Hinders",
-          "Reduces"
+          "It has no ecological significance",
+          "It helps in climate change mitigation",
+          "It's only important for plants",
+          "It reduces oxygen levels"
         ],
         "correctIndex": 1,
-        "explain": "在這個語境中，'facilitates' 的意思是增強或使容易。"
+        "explain": "光合作用對應對氣候變化有幫助，意味著它在生態學上具有重要性。"
+      },
+      {
+        "q": "What does the word 'byproducts' most likely mean in this context?",
+        "options": [
+          "Main products",
+          "Secondary results",
+          "Unrelated outcomes",
+          "Toxic substances"
+        ],
+        "correctIndex": 1,
+        "explain": "在這個上下文中，'副產品'指的是次要的成果，即光合作用產生的產品。"
       }
     ]
   },
   "daily": {
-    "passage": "Attention students! The library will be closed this Friday for maintenance. Please make sure to borrow any necessary books before then. We apologize for any inconvenience and appreciate your understanding.",
+    "passage": "Attention students! The campus library will be hosting a book fair this Saturday from 10 AM to 4 PM. Join us for great deals on textbooks and novels, as well as author signings!",
     "questions": [
       {
-        "q": "Why will the library be closed?",
+        "q": "What event is taking place this Saturday?",
         "options": [
-          "For inventory checks",
-          "For maintenance",
-          "For a holiday",
-          "For an event"
+          "A library closure",
+          "A book fair",
+          "An exam",
+          "A workshop"
         ],
         "correctIndex": 1,
-        "explain": "圖書館將於本週五因維護而關閉。"
+        "explain": "這個星期六將舉行的一個事件是書展。"
       },
       {
-        "q": "What should students do before Friday?",
+        "q": "What time will the book fair start?",
         "options": [
-          "Return all books",
-          "Attend a meeting",
-          "Borrow necessary books",
-          "Use the computer lab"
+          "9 AM",
+          "10 AM",
+          "11 AM",
+          "12 PM"
         ],
-        "correctIndex": 2,
-        "explain": "學生應在週五之前借用必要的書籍。"
+        "correctIndex": 1,
+        "explain": "書展將於上午10點開始。"
       }
     ]
   }
