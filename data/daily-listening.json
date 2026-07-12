@@ -1,116 +1,116 @@
 {
   "chooseResponse": [
     {
-      "q": "What are your plans for the weekend?",
+      "q": "What time is the seminar today?",
       "options": [
-        "I might go hiking.",
-        "I have a lot of homework.",
-        "I'm not sure yet.",
-        "I plan to visit family."
+        "At 3 PM.",
+        "In the library.",
+        "Next week.",
+        "I forgot."
       ],
       "correctIndex": 0
     }
   ],
   "conversation": {
-    "transcript": "Student: Hey, did you see the schedule for the film festival?\nAdvisor: Yes, I think it's going to be really interesting this year.\nStudent: I can’t wait to see some of the foreign films!\nAdvisor: Me too! I love how they often tell different stories than Hollywood films.",
+    "transcript": "Student: Hi, do you know when the seminar starts?\nAdvisor: Yes, it's at 3 PM in the main auditorium.\nStudent: Great! Do I need to register in advance?\nAdvisor: No, just show up and sign in when you arrive.",
     "questions": [
       {
-        "q": "What does the student look forward to?",
+        "q": "Where is the seminar taking place?",
         "options": [
-          "Local films",
-          "Foreign films",
-          "Documentaries",
-          "Action movies"
+          "In the cafeteria.",
+          "In the main auditorium.",
+          "In the science lab.",
+          "In the student center."
         ],
         "correctIndex": 1,
-        "explain": "學生期待看外國電影。"
+        "explain": "研討會在主禮堂舉行。"
       },
       {
-        "q": "What is the advisor's opinion on the festival?",
+        "q": "Do students need to register for the seminar?",
         "options": [
-          "It's boring.",
-          "It will be interesting.",
-          "It's too long.",
-          "It has too many movies."
+          "Yes, a week in advance.",
+          "No, just show up.",
+          "Only if they want to get credit.",
+          "Yes, but only for certain topics."
         ],
         "correctIndex": 1,
-        "explain": "顧問認為這個影展會很有趣。"
+        "explain": "學生不需要提前註冊，只需到達即可。"
       }
     ]
   },
   "announcement": {
-    "transcript": "Attention students! The library will be closing early tomorrow at 5 PM due to maintenance work. Please make sure to return or renew your books before then. Thank you for your understanding.",
+    "transcript": "Attention all students: The university will be hosting a guest speaker this Thursday at 5 PM in the main lecture hall. The speaker will be discussing environmental sustainability. Everyone is encouraged to attend, and refreshments will be provided.",
     "questions": [
       {
-        "q": "Why is the library closing early?",
+        "q": "When will the guest speaker be presenting?",
         "options": [
-          "For a holiday.",
-          "Due to maintenance work.",
-          "For a special event.",
-          "Because of staff training."
+          "This Thursday at noon.",
+          "This Thursday at 5 PM.",
+          "Next Tuesday at 3 PM.",
+          "Next Friday at 4 PM."
         ],
         "correctIndex": 1,
-        "explain": "圖書館因為維修工作而提前關閉。"
+        "explain": "客座講者將在這個星期四下午5點發表演講。"
       },
       {
-        "q": "What time will the library close tomorrow?",
+        "q": "What is the topic of the lecture?",
         "options": [
-          "4 PM",
-          "5 PM",
-          "6 PM",
-          "7 PM"
+          "Technology in education.",
+          "Environmental sustainability.",
+          "Health and wellness.",
+          "Cultural diversity."
         ],
         "correctIndex": 1,
-        "explain": "圖書館明天將於下午5點關閉。"
+        "explain": "講座的主題是環境可持續性。"
       }
     ]
   },
   "talk": {
-    "transcript": "Today, we'll explore the concept of biodiversity. Biodiversity refers to the variety of life found on Earth, including the different species of plants, animals, and microorganisms. It is essential for ecosystem health and resilience. High biodiversity contributes to the stability of ecosystems and supports processes like pollination and nutrient cycling. Unfortunately, human activities such as deforestation and pollution are threatening biodiversity globally. Conservation efforts are crucial to protect these natural resources and maintain the balance of our ecosystems.",
+    "transcript": "Today, we will explore the concept of renewable energy. Renewable energy comes from sources that are naturally replenished, such as sunlight, wind, and water. Unlike fossil fuels, which can take millions of years to form, renewable resources can be harnessed in a short period. By investing in renewable energy, we not only reduce our carbon footprint but also create sustainable energy solutions for the future. Countries around the world are increasingly adopting these technologies to combat climate change and promote energy independence.",
     "questions": [
       {
-        "q": "What is biodiversity?",
+        "q": "What is renewable energy?",
         "options": [
-          "The number of ecosystems",
-          "The variety of life",
-          "The number of habitats",
-          "The size of organisms"
+          "Energy from fossil fuels.",
+          "Energy from natural resources that replenish.",
+          "Energy that cannot be used.",
+          "Energy from nuclear sources."
         ],
         "correctIndex": 1,
-        "explain": "生物多樣性是指地球上生命的多樣性。"
+        "explain": "可再生能源是來自自然資源的能源，這些資源會重新補充。"
       },
       {
-        "q": "Why is biodiversity important?",
+        "q": "Why is investing in renewable energy important?",
         "options": [
-          "It helps to create habitats.",
-          "It supports ecosystem processes.",
-          "It increases pollution.",
-          "It reduces species variety."
+          "It creates jobs only.",
+          "It reduces the carbon footprint.",
+          "It increases fossil fuel usage.",
+          "It has no significant impact."
         ],
         "correctIndex": 1,
-        "explain": "生物多樣性支持生態系統的運作。"
+        "explain": "投資可再生能源可以減少碳足跡。"
       },
       {
-        "q": "What are some threats to biodiversity?",
+        "q": "What are some examples of renewable energy sources?",
         "options": [
-          "Increased rainfall.",
-          "Urban development.",
-          "Natural disasters.",
-          "Higher temperatures."
+          "Coal and natural gas.",
+          "Wind, sunlight, and water.",
+          "Nuclear and geothermal.",
+          "None of the above."
         ],
         "correctIndex": 1,
-        "explain": "城市發展威脅生物多樣性。"
+        "explain": "可再生能源的例子包括風能、陽光和水。"
       },
       {
-        "q": "What is a key action to protect biodiversity?",
+        "q": "What is a global trend regarding renewable energy?",
         "options": [
-          "Increasing pollution.",
-          "Reducing conservation efforts.",
-          "Promoting deforestation.",
-          "Implementing conservation efforts."
+          "Declining interest in fossil fuels.",
+          "Increased adoption of renewable technologies.",
+          "Decreased research funding.",
+          "Less focus on climate change."
         ],
-        "correctIndex": 3,
-        "explain": "實施保護措施是保護生物多樣性的關鍵。"
+        "correctIndex": 1,
+        "explain": "全球對可再生能源技術的採用不斷增加。"
       }
     ]
   }

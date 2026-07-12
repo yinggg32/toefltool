@@ -4382,5 +4382,85 @@
     "zh": "犬儒主義",
     "ex": "Cynicism often leads to a distrust of people's motives and actions.",
     "cat": "📰 每日新詞：philosophy"
+  },
+  {
+    "word": "logic",
+    "pos": "n.",
+    "root": "log-話+ic-學科",
+    "zh": "邏輯學",
+    "ex": "Logic is the study of valid reasoning and argumentation.",
+    "cat": "📰 每日新詞：philosophy"
+  },
+  {
+    "word": "moral relativism",
+    "pos": "n.",
+    "root": "moral-道德+relativism-相對主義",
+    "zh": "道德相對主義",
+    "ex": "Moral relativism argues that ethical standards are culturally based and subjective.",
+    "cat": "📰 每日新詞：philosophy"
+  },
+  {
+    "word": "existential",
+    "pos": "adj.",
+    "root": "exist-存在+ial-形容詞後綴",
+    "zh": "存在的",
+    "ex": "Existential concerns relate to the nature of existence and human freedom.",
+    "cat": "📰 每日新詞：philosophy"
+  },
+  {
+    "word": "subjectivism",
+    "pos": "n.",
+    "root": "subject-主觀+ivism-主義",
+    "zh": "主觀主義",
+    "ex": "Subjectivism asserts that knowledge is dependent on the subjective experience of the observer.",
+    "cat": "📰 每日新詞：philosophy"
+  },
+  {
+    "word": "intersubjectivity",
+    "pos": "n.",
+    "root": "inter-互相+subjectivity-主觀性",
+    "zh": "互主觀性",
+    "ex": "Intersubjectivity explores the shared understanding among individuals.",
+    "cat": "📰 每日新詞：philosophy"
+  },
+  {
+    "word": "sophistry",
+    "pos": "n.",
+    "root": "sophist-智者+ry-名詞後綴",
+    "zh": "詭辯",
+    "ex": "Sophistry involves the use of fallacious arguments with the intention to deceive.",
+    "cat": "📰 每日新詞：philosophy"
+  },
+  {
+    "word": "existentially",
+    "pos": "adv.",
+    "root": "exist-存在+ential-形容詞後綴+ly-副詞後綴",
+    "zh": "存在地",
+    "ex": "The question of meaning is existentially significant for many individuals.",
+    "cat": "📰 每日新詞：philosophy"
+  },
+  {
+    "word": "transcendentalism",
+    "pos": "n.",
+    "root": "transcend-超越+ental-形容詞後綴+ism-主義",
+    "zh": "超驗主義",
+    "ex": "Transcendentalism emphasizes the importance of the individual and nature.",
+    "cat": "📰 每日新詞：philosophy"
+  },
+  {
+    "word": "moral absolutism",
+    "pos": "n.",
+    "root": "moral-道德+absolutism-絕對主義",
+    "zh": "道德絕對主義",
+    "ex": "Moral absolutism holds that certain actions are universally right or wrong.",
+    "cat": "📰 每日新詞：philosophy"
+  },
+  {
+    "word": "philosopher",
+    "pos": "n.",
+    "root": "philosoph-愛智慧+er-人",
+    "zh": "哲學家",
+    "ex": "A philosopher engages in the study of fundamental questions about existence and knowledge.",
+    "cat": "📰 每日新詞：philosophy"
   }
 ]

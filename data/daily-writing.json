@@ -3,132 +3,127 @@
     {
       "words": [
         "the",
-        "researcher",
-        "published",
-        "a",
-        "new",
-        "study",
+        "cat",
+        "sat",
         "on",
-        "climate",
-        "change"
+        "the",
+        "mat",
+        "and",
+        "looked"
       ],
-      "display": "The researcher published a new study on climate change."
+      "display": "The cat sat on the mat and looked."
     },
     {
       "words": [
         "students",
         "should",
-        "review",
-        "the",
-        "material",
-        "before",
-        "the",
-        "exam"
+        "study",
+        "every",
+        "day",
+        "to",
+        "improve",
+        "grades"
       ],
-      "display": "Students should review the material before the exam."
-    },
-    {
-      "words": [
-        "the",
-        "library",
-        "will",
-        "be",
-        "closed",
-        "for",
-        "renovations",
-        "next",
-        "month"
-      ],
-      "display": "The library will be closed for renovations next month."
+      "display": "Students should study every day to improve grades."
     },
     {
       "words": [
         "the",
         "professor",
-        "encourages",
-        "students",
+        "explained",
+        "the",
+        "theory",
+        "clearly",
         "to",
-        "participate",
-        "in",
-        "group",
-        "discussions"
+        "the",
+        "students"
       ],
-      "display": "The professor encourages students to participate in group discussions."
+      "display": "The professor explained the theory clearly to the students."
+    },
+    {
+      "words": [
+        "we",
+        "need",
+        "to",
+        "complete",
+        "the",
+        "project",
+        "by",
+        "next",
+        "week"
+      ],
+      "display": "We need to complete the project by next week."
+    },
+    {
+      "words": [
+        "reading",
+        "books",
+        "can",
+        "enhance",
+        "your",
+        "vocabulary",
+        "and",
+        "writing"
+      ],
+      "display": "Reading books can enhance your vocabulary and writing."
+    },
+    {
+      "words": [
+        "the",
+        "team",
+        "celebrated",
+        "their",
+        "victory",
+        "with",
+        "a",
+        "party"
+      ],
+      "display": "The team celebrated their victory with a party."
     },
     {
       "words": [
         "she",
-        "enjoys",
-        "reading",
-        "novels",
-        "from",
-        "different",
-        "cultures",
-        "and",
-        "periods"
-      ],
-      "display": "She enjoys reading novels from different cultures and periods."
-    },
-    {
-      "words": [
+        "decided",
+        "to",
+        "join",
         "the",
         "club",
-        "meeting",
-        "will",
-        "take",
-        "place",
-        "in",
-        "the",
-        "main",
-        "auditorium"
+        "to",
+        "meet",
+        "new",
+        "people"
       ],
-      "display": "The club meeting will take place in the main auditorium."
+      "display": "She decided to join the club to meet new people."
     },
     {
       "words": [
-        "they",
-        "are",
-        "planning",
-        "a",
-        "field",
-        "trip",
+        "he",
+        "forgot",
+        "to",
+        "bring",
+        "his",
+        "notebook",
         "to",
         "the",
-        "science",
-        "museum"
+        "lecture"
       ],
-      "display": "They are planning a field trip to the science museum."
-    },
-    {
-      "words": [
-        "it",
-        "is",
-        "important",
-        "to",
-        "follow",
-        "the",
-        "guidelines",
-        "for",
-        "the",
-        "project"
-      ],
-      "display": "It is important to follow the guidelines for the project."
+      "display": "He forgot to bring his notebook to the lecture."
     }
   ],
   "emailPrompts": [
-    "寄信給教授，說明因病無法參加期中考，詢問補考事宜。",
-    "寄信給宿舍辦公室，請求更換房間的安排。",
-    "寄信給圖書館，詢問有關延遲還書的罰款。",
-    "寄信給學生會，表達對即將舉辦的活動的興趣。",
-    "寄信給客服，詢問有關訂單的運送狀態。",
-    "寄信給導師，請教學術指導的問題。"
+    "寄信給教授，請假參加下週的研討會，並詢問作業截止日期。",
+    "寄信給宿舍管理員，反映水管漏水的問題，請求修理。",
+    "寄信給圖書館，查詢借書的規定與流程。",
+    "寄信給社團會長，表達對新活動的興趣，請求更多資訊。",
+    "寄信給客服，反映產品的問題，請求退換貨。",
+    "寄信給校友，邀請參加即將舉行的校友聚會。"
   ],
   "discussionPrompts": [
-    "教授問：「你認為科技對於人際關係的影響是正面還是負面？」",
-    "教授問：「在全球化的時代，文化多樣性是否會受到威脅？」",
-    "教授問：「社交媒體對當代青少年的心理健康影響如何？」",
-    "教授問：「環境保護與經濟發展之間的平衡應該如何取得？」",
-    "教授問：「教育應該注重知識的傳授還是技能的培養？」",
-    "教授問：「你認為藝術在社會變革中扮演什麼角色？」"
+    "教授問：「你認為科技對社會的影響是正面還是負面？」",
+    "教授問：「在當今社會，藝術和文化的角色有何重要性？」",
+    "教授問：「你怎麼看待全球化對於本地文化的影響？」",
+    "教授問：「教育制度應該如何改進以更好地適應未來的需求？」",
+    "教授問：「在環境保護方面，個人應該承擔多少責任？」",
+    "教授問：「社交媒體對人際關係的影響如何？」"
   ]
 }

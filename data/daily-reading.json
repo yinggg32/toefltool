@@ -2,110 +2,101 @@
   "cloze": {
     "segments": [
       {
-        "text": "The phenomenon of photosynthesis is essential for life on Earth. Plants, algae, and some bacteria convert sunlight into chemical energy."
+        "text": "The process of photosynthesis is crucial for life on Earth. It begins when plants absorb sunlight through their leaves, enabling them to convert carbon dio"
       },
       {
-        "blank": "synthesis"
+        "blank": "xide"
       },
       {
-        "text": "This process occurs mainly in the chloroplasts of plant cells, where chlorophyll captures sunlight. During photosynthesis, carbon dioxide and water are used to produce glucose and oxygen."
+        "text": " and water into glucose and oxygen. This transformation occurs in chloroplasts, which contain chlorophyll, the pigment responsible for capturing light. The overall equa"
       },
       {
-        "blank": "glucose"
+        "blank": "tion"
       },
       {
-        "text": "The overall reaction can be summarized in a simplified equation. The significance of photosynthesis extends beyond just energy production; it also contributes to the Earth's oxygen supply."
+        "text": " can be summarized as: carbon dioxide plus water, in the presence of sunlight, yields glucose and oxygen. Photosynthesis not only fuels the plant's growth but al"
       },
       {
-        "blank": "contribu"
+        "blank": "so"
       },
       {
-        "text": "Understanding photosynthesis is crucial for studying ecological systems and agricultural practices."
-      },
-      {
-        "blank": "ecolog"
-      },
-      {
-        "text": "Research in this area can lead to improvements in crop yields and strategies for combating climate change."
-      },
-      {
-        "blank": "yield"
+        "text": " contributes to the Earth's atmosphere by increasing oxygen levels. Understanding this process helps scientists address issues related to climate change and food security. Therefore, it is essential to recognize the importance of photosynthesis in our environment."
       }
     ]
   },
   "academic": {
-    "passage": "Photosynthesis is a vital process carried out by plants and some microorganisms. This process allows these organisms to convert solar energy into chemical energy, which is stored in sugars. The overall reaction involves the intake of carbon dioxide and water, resulting in glucose and oxygen as byproducts. Understanding photosynthesis is crucial for environmental science and agriculture, as it plays a key role in carbon cycling and the energy flow in ecosystems.",
+    "passage": "Photosynthesis is a biochemical process that allows green plants to convert light energy into chemical energy. It primarily takes place in the chloroplasts of plant cells. During this process, plants absorb carbon dioxide and water, utilizing sunlight to synthesize glucose, which serves as a vital energy source. The by-product of photosynthesis is oxygen, released into the atmosphere, which is essential for the survival of most living organisms. This process not only sustains plant life but also plays a significant role in the global carbon cycle.",
     "questions": [
       {
         "q": "What is the main idea of the passage?",
         "options": [
-          "Photosynthesis is essential for life",
-          "Chlorophyll captures sunlight",
-          "Plants produce glucose",
-          "Oxygen is a byproduct of photosynthesis"
+          "Photosynthesis is vital for plant life.",
+          "Photosynthesis provides energy for all living organisms.",
+          "Photosynthesis plays a role in the carbon cycle.",
+          "Photosynthesis occurs in chloroplasts."
         ],
         "correctIndex": 0,
-        "explain": "這段落的主要概念是光合作用對生命的重要性。"
+        "explain": "這段文字的主要觀點是光合作用對植物的生命至關重要。"
       },
       {
-        "q": "What substances are used in the photosynthesis process?",
+        "q": "Where does photosynthesis primarily occur?",
         "options": [
-          "Glucose and oxygen",
-          "Carbon dioxide and sunlight",
-          "Water and oxygen",
-          "Carbon dioxide and water"
-        ],
-        "correctIndex": 3,
-        "explain": "光合作用的過程中使用的是二氧化碳和水。"
-      },
-      {
-        "q": "What can be inferred about the importance of photosynthesis?",
-        "options": [
-          "It has no ecological significance",
-          "It helps in climate change mitigation",
-          "It's only important for plants",
-          "It reduces oxygen levels"
+          "In the roots of plants.",
+          "In the chloroplasts of plant cells.",
+          "In the atmosphere.",
+          "In the soil."
         ],
         "correctIndex": 1,
-        "explain": "光合作用對應對氣候變化有幫助，意味著它在生態學上具有重要性。"
+        "explain": "光合作用主要發生在植物細胞的葉綠體中。"
       },
       {
-        "q": "What does the word 'byproducts' most likely mean in this context?",
+        "q": "What can be inferred about the role of oxygen in the process of photosynthesis?",
         "options": [
-          "Main products",
-          "Secondary results",
-          "Unrelated outcomes",
-          "Toxic substances"
+          "It is harmful to plants.",
+          "It is a waste product.",
+          "It is essential for plants.",
+          "It is consumed during the process."
         ],
         "correctIndex": 1,
-        "explain": "在這個上下文中，'副產品'指的是次要的成果，即光合作用產生的產品。"
+        "explain": "在光合作用中，氧氣是作為副產品釋放的，這表明它並不是植物所需的。"
+      },
+      {
+        "q": "What does the term 'biochemical process' refer to in the passage?",
+        "options": [
+          "A process that occurs in animals.",
+          "A process involving chemical reactions in living organisms.",
+          "A process that happens in the atmosphere.",
+          "A process related to plant growth."
+        ],
+        "correctIndex": 1,
+        "explain": "“生化過程”指的是在生物體內發生的化學反應。"
       }
     ]
   },
   "daily": {
-    "passage": "Attention students! The campus library will be hosting a book fair this Saturday from 10 AM to 4 PM. Join us for great deals on textbooks and novels, as well as author signings!",
+    "passage": "Attention students: The university library will be closed for maintenance on Saturday from 8 AM to 4 PM. Please plan your study schedule accordingly. We apologize for any inconvenience this may cause.",
     "questions": [
       {
-        "q": "What event is taking place this Saturday?",
+        "q": "What day will the library be closed?",
         "options": [
-          "A library closure",
-          "A book fair",
-          "An exam",
-          "A workshop"
+          "Friday",
+          "Saturday",
+          "Sunday",
+          "Monday"
         ],
         "correctIndex": 1,
-        "explain": "這個星期六將舉行的一個事件是書展。"
+        "explain": "圖書館將在星期六關閉。"
       },
       {
-        "q": "What time will the book fair start?",
+        "q": "What are the closure hours for the library?",
         "options": [
-          "9 AM",
-          "10 AM",
-          "11 AM",
-          "12 PM"
+          "8 AM to 4 PM",
+          "9 AM to 5 PM",
+          "10 AM to 6 PM",
+          "All day"
         ],
-        "correctIndex": 1,
-        "explain": "書展將於上午10點開始。"
+        "correctIndex": 0,
+        "explain": "圖書館將在早上8點到下午4點關閉。"
       }
     ]
   }
