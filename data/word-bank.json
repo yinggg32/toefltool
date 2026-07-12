@@ -4462,5 +4462,93 @@
     "zh": "哲學家",
     "ex": "A philosopher engages in the study of fundamental questions about existence and knowledge.",
     "cat": "📰 每日新詞：philosophy"
+  },
+  {
+    "word": "pandemic",
+    "pos": "n./adj.",
+    "root": "pan全+demic人群的",
+    "zh": "大流行病",
+    "ex": "The COVID-19 pandemic has highlighted the importance of global cooperation in public health.",
+    "cat": "📰 每日新詞：public health"
+  },
+  {
+    "word": "cholera",
+    "pos": "n.",
+    "root": "—",
+    "zh": "霍亂",
+    "ex": "Cholera outbreaks can occur in areas with poor water sanitation.",
+    "cat": "📰 每日新詞：public health"
+  },
+  {
+    "word": "sanitation",
+    "pos": "n.",
+    "root": "sanit衛生+ation行為或狀態",
+    "zh": "衛生",
+    "ex": "Improving sanitation facilities is essential for promoting public health.",
+    "cat": "📰 每日新詞：public health"
+  },
+  {
+    "word": "health",
+    "pos": "n.",
+    "root": "heal治癒+th狀態",
+    "zh": "健康",
+    "ex": "Public health aims to improve the health of populations through various strategies.",
+    "cat": "📰 每日新詞：public health"
+  },
+  {
+    "word": "risk",
+    "pos": "n./v.",
+    "root": "—",
+    "zh": "風險",
+    "ex": "Identifying risk factors is crucial for designing effective public health interventions.",
+    "cat": "📰 每日新詞：public health"
+  },
+  {
+    "word": "biostatistics",
+    "pos": "n.",
+    "root": "bio生命+statistic統計學",
+    "zh": "生物統計學",
+    "ex": "Biostatistics is essential for analyzing public health data and drawing meaningful conclusions.",
+    "cat": "📰 每日新詞：public health"
+  },
+  {
+    "word": "infectious",
+    "pos": "adj.",
+    "root": "infect感染+ious具有...特徵的",
+    "zh": "傳染性的",
+    "ex": "Infectious diseases can spread rapidly in communities with low vaccination rates.",
+    "cat": "📰 每日新詞：public health"
+  },
+  {
+    "word": "psychological",
+    "pos": "adj.",
+    "root": "psychology心理學+ical形容的",
+    "zh": "心理的",
+    "ex": "Psychological factors can significantly impact an individual's health behaviors.",
+    "cat": "📰 每日新詞：public health"
+  },
+  {
+    "word": "access",
+    "pos": "n./v.",
+    "root": "—",
+    "zh": "接入",
+    "ex": "Access to health services is a critical determinant of public health.",
+    "cat": "📰 每日新詞：public health"
+  },
+  {
+    "word": "malnutrition",
+    "pos": "n.",
+    "root": "mal不良+nutrition營養",
+    "zh": "營養不良",
+    "ex": "Malnutrition remains a significant public health issue in many developing countries.",
+    "cat": "📰 每日新詞：public health"
+  },
+  {
+    "word": "advancement",
+    "pos": "n.",
+    "root": "advance前進+ment行為或狀態",
+    "zh": "進展",
+    "ex": "The advancement of technology has transformed public health surveillance methods.",
+    "cat": "📰 每日新詞：public health"
   }
 ]

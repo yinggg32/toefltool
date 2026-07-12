@@ -1,116 +1,116 @@
 {
   "chooseResponse": [
     {
-      "q": "What time is the seminar today?",
+      "q": "Are you attending the seminar tomorrow?",
       "options": [
-        "At 3 PM.",
-        "In the library.",
-        "Next week.",
-        "I forgot."
+        "Yes, I am excited!",
+        "No, I'm busy tomorrow.",
+        "Maybe, I'll decide later.",
+        "I forgot about it."
       ],
       "correctIndex": 0
     }
   ],
   "conversation": {
-    "transcript": "Student: Hi, do you know when the seminar starts?\nAdvisor: Yes, it's at 3 PM in the main auditorium.\nStudent: Great! Do I need to register in advance?\nAdvisor: No, just show up and sign in when you arrive.",
+    "transcript": "Student: Hey, have you heard about the new art exhibit opening this weekend?\nAdvisor: Yes, I read about it! Are you planning to go?\nStudent: Definitely! I love modern art. What about you?\nAdvisor: I might check it out if I have time. Do you know the entry fee?",
     "questions": [
       {
-        "q": "Where is the seminar taking place?",
+        "q": "What is the main topic of their conversation?",
         "options": [
-          "In the cafeteria.",
-          "In the main auditorium.",
-          "In the science lab.",
-          "In the student center."
+          "A seminar schedule",
+          "An art exhibit",
+          "A music concert",
+          "A club meeting"
         ],
         "correctIndex": 1,
-        "explain": "研討會在主禮堂舉行。"
+        "explain": "他們的對話主要是關於一個藝術展覽。"
       },
       {
-        "q": "Do students need to register for the seminar?",
+        "q": "What does the student think about modern art?",
         "options": [
-          "Yes, a week in advance.",
-          "No, just show up.",
-          "Only if they want to get credit.",
-          "Yes, but only for certain topics."
+          "They dislike it.",
+          "They find it interesting.",
+          "They are indifferent.",
+          "They think it is outdated."
         ],
         "correctIndex": 1,
-        "explain": "學生不需要提前註冊，只需到達即可。"
+        "explain": "學生對現代藝術感到興趣。"
       }
     ]
   },
   "announcement": {
-    "transcript": "Attention all students: The university will be hosting a guest speaker this Thursday at 5 PM in the main lecture hall. The speaker will be discussing environmental sustainability. Everyone is encouraged to attend, and refreshments will be provided.",
+    "transcript": "Attention, students! The campus library will be closing early today at 4 PM for maintenance. Please plan your study time accordingly. Thank you for your understanding.",
     "questions": [
       {
-        "q": "When will the guest speaker be presenting?",
+        "q": "Why is the library closing early today?",
         "options": [
-          "This Thursday at noon.",
-          "This Thursday at 5 PM.",
-          "Next Tuesday at 3 PM.",
-          "Next Friday at 4 PM."
+          "For a special event",
+          "For maintenance work",
+          "For a holiday",
+          "For staff training"
         ],
         "correctIndex": 1,
-        "explain": "客座講者將在這個星期四下午5點發表演講。"
+        "explain": "圖書館今天早些時候關閉是因為維護工作。"
       },
       {
-        "q": "What is the topic of the lecture?",
+        "q": "What time will the library close?",
         "options": [
-          "Technology in education.",
-          "Environmental sustainability.",
-          "Health and wellness.",
-          "Cultural diversity."
+          "3 PM",
+          "4 PM",
+          "5 PM",
+          "6 PM"
         ],
         "correctIndex": 1,
-        "explain": "講座的主題是環境可持續性。"
+        "explain": "圖書館將在下午4點關閉。"
       }
     ]
   },
   "talk": {
-    "transcript": "Today, we will explore the concept of renewable energy. Renewable energy comes from sources that are naturally replenished, such as sunlight, wind, and water. Unlike fossil fuels, which can take millions of years to form, renewable resources can be harnessed in a short period. By investing in renewable energy, we not only reduce our carbon footprint but also create sustainable energy solutions for the future. Countries around the world are increasingly adopting these technologies to combat climate change and promote energy independence.",
+    "transcript": "Today, I will discuss the concept of sustainable agriculture. This approach focuses on farming that meets current food needs without compromising the ability of future generations to meet their own needs. Sustainable agriculture encompasses various practices, including crop rotation, organic farming, and integrated pest management. These methods enhance biodiversity, improve soil health, and reduce chemical use, which ultimately benefits both the environment and human health. By implementing sustainable techniques, farmers can create a resilient food system that supports local communities and promotes ecological balance.",
     "questions": [
       {
-        "q": "What is renewable energy?",
+        "q": "What is the main focus of sustainable agriculture?",
         "options": [
-          "Energy from fossil fuels.",
-          "Energy from natural resources that replenish.",
-          "Energy that cannot be used.",
-          "Energy from nuclear sources."
+          "Maximizing output",
+          "Traditional farming methods",
+          "Meeting current and future food needs",
+          "Reducing costs"
         ],
-        "correctIndex": 1,
-        "explain": "可再生能源是來自自然資源的能源，這些資源會重新補充。"
+        "correctIndex": 2,
+        "explain": "可持續農業的主要重點是滿足當前和未來的食物需求。"
       },
       {
-        "q": "Why is investing in renewable energy important?",
+        "q": "Which practice is NOT mentioned as part of sustainable agriculture?",
         "options": [
-          "It creates jobs only.",
-          "It reduces the carbon footprint.",
-          "It increases fossil fuel usage.",
-          "It has no significant impact."
+          "Crop rotation",
+          "Organic farming",
+          "Use of fertilizers",
+          "Integrated pest management"
         ],
-        "correctIndex": 1,
-        "explain": "投資可再生能源可以減少碳足跡。"
+        "correctIndex": 2,
+        "explain": "使用化肥並未被提及為可持續農業的一部分。"
       },
       {
-        "q": "What are some examples of renewable energy sources?",
+        "q": "How does sustainable agriculture benefit the environment?",
         "options": [
-          "Coal and natural gas.",
-          "Wind, sunlight, and water.",
-          "Nuclear and geothermal.",
-          "None of the above."
+          "Increases chemical use",
+          "Enhances biodiversity",
+          "Depletes soil nutrients",
+          "Promotes monoculture"
         ],
         "correctIndex": 1,
-        "explain": "可再生能源的例子包括風能、陽光和水。"
+        "explain": "可持續農業通過增強生物多樣性來促進環境保護。"
       },
       {
-        "q": "What is a global trend regarding renewable energy?",
+        "q": "What is one method of sustainable agriculture mentioned?",
         "options": [
-          "Declining interest in fossil fuels.",
-          "Increased adoption of renewable technologies.",
-          "Decreased research funding.",
-          "Less focus on climate change."
+          "Monoculture",
+          "Synthetic fertilization",
+          "Organic farming",
+          "Chemical pest control"
         ],
-        "correctIndex": 1,
-        "explain": "全球對可再生能源技術的採用不斷增加。"
+        "correctIndex": 2,
+        "explain": "提到的可持續農業方法之一是有機農業。"
       }
     ]
   }

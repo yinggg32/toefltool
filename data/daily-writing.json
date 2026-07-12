@@ -3,127 +3,135 @@
     {
       "words": [
         "the",
-        "cat",
-        "sat",
-        "on",
+        "researcher",
+        "found",
+        "new",
+        "evidence",
+        "supporting",
         "the",
-        "mat",
-        "and",
-        "looked"
+        "theory"
       ],
-      "display": "The cat sat on the mat and looked."
+      "display": "The researcher found new evidence supporting the theory."
     },
     {
       "words": [
         "students",
         "should",
-        "study",
-        "every",
-        "day",
+        "attend",
+        "the",
+        "workshop",
         "to",
         "improve",
-        "grades"
-      ],
-      "display": "Students should study every day to improve grades."
-    },
-    {
-      "words": [
-        "the",
-        "professor",
-        "explained",
-        "the",
-        "theory",
-        "clearly",
-        "to",
-        "the",
-        "students"
-      ],
-      "display": "The professor explained the theory clearly to the students."
-    },
-    {
-      "words": [
-        "we",
-        "need",
-        "to",
-        "complete",
-        "the",
-        "project",
-        "by",
-        "next",
-        "week"
-      ],
-      "display": "We need to complete the project by next week."
-    },
-    {
-      "words": [
-        "reading",
-        "books",
-        "can",
-        "enhance",
-        "your",
-        "vocabulary",
-        "and",
-        "writing"
-      ],
-      "display": "Reading books can enhance your vocabulary and writing."
-    },
-    {
-      "words": [
-        "the",
-        "team",
-        "celebrated",
         "their",
-        "victory",
-        "with",
-        "a",
-        "party"
+        "skills"
       ],
-      "display": "The team celebrated their victory with a party."
+      "display": "Students should attend the workshop to improve their skills."
+    },
+    {
+      "words": [
+        "the",
+        "novel",
+        "was",
+        "published",
+        "last",
+        "year",
+        "and",
+        "received",
+        "critical",
+        "acclaim"
+      ],
+      "display": "The novel was published last year and received critical acclaim."
     },
     {
       "words": [
         "she",
         "decided",
         "to",
-        "join",
-        "the",
-        "club",
-        "to",
-        "meet",
-        "new",
-        "people"
+        "study",
+        "abroad",
+        "for",
+        "a",
+        "semester",
+        "next",
+        "year"
       ],
-      "display": "She decided to join the club to meet new people."
+      "display": "She decided to study abroad for a semester next year."
+    },
+    {
+      "words": [
+        "the",
+        "presentation",
+        "was",
+        "well",
+        "received",
+        "by",
+        "the",
+        "audience",
+        "and",
+        "peers"
+      ],
+      "display": "The presentation was well received by the audience and peers."
     },
     {
       "words": [
         "he",
-        "forgot",
-        "to",
-        "bring",
+        "submitted",
         "his",
-        "notebook",
-        "to",
+        "thesis",
+        "before",
         "the",
-        "lecture"
+        "deadline",
+        "and",
+        "felt",
+        "relieved"
       ],
-      "display": "He forgot to bring his notebook to the lecture."
+      "display": "He submitted his thesis before the deadline and felt relieved."
+    },
+    {
+      "words": [
+        "the",
+        "students",
+        "organized",
+        "a",
+        "meeting",
+        "to",
+        "discuss",
+        "the",
+        "upcoming",
+        "event"
+      ],
+      "display": "The students organized a meeting to discuss the upcoming event."
+    },
+    {
+      "words": [
+        "the",
+        "team",
+        "worked",
+        "tirelessly",
+        "to",
+        "complete",
+        "the",
+        "project",
+        "on",
+        "time"
+      ],
+      "display": "The team worked tirelessly to complete the project on time."
     }
   ],
   "emailPrompts": [
-    "寄信給教授，請假參加下週的研討會，並詢問作業截止日期。",
-    "寄信給宿舍管理員，反映水管漏水的問題，請求修理。",
-    "寄信給圖書館，查詢借書的規定與流程。",
-    "寄信給社團會長，表達對新活動的興趣，請求更多資訊。",
-    "寄信給客服，反映產品的問題，請求退換貨。",
-    "寄信給校友，邀請參加即將舉行的校友聚會。"
+    "寄信給宿舍辦公室，請求更換房間的事宜。",
+    "寄信給教授，詢問期末報告的格式要求。",
+    "寄信給圖書館，要求延長借書期限。",
+    "寄信給社團，報名參加下個月的活動。",
+    "寄信給客服，反映產品的問題和尋求解決方案。",
+    "寄信給導師，請求安排會議以討論學業進展。"
   ],
   "discussionPrompts": [
     "教授問：「你認為科技對社會的影響是正面還是負面？」",
-    "教授問：「在當今社會，藝術和文化的角色有何重要性？」",
-    "教授問：「你怎麼看待全球化對於本地文化的影響？」",
-    "教授問：「教育制度應該如何改進以更好地適應未來的需求？」",
-    "教授問：「在環境保護方面，個人應該承擔多少責任？」",
-    "教授問：「社交媒體對人際關係的影響如何？」"
+    "教授問：「應該如何平衡環境保護與經濟發展？」",
+    "教授問：「社交媒體對人際關係有何影響？」",
+    "教授問：「大學教育是否應該更注重實踐經驗？」",
+    "教授問：「文學作品在當代社會中仍然重要嗎？」",
+    "教授問：「探討文化多樣性對全球化的影響。」"
   ]
 }
