@@ -1,45 +1,45 @@
 {
   "shadowSentences": [
-    "I enjoy reading books at night.",
-    "My favorite season is autumn every year.",
-    "I usually go for a walk in the morning.",
-    "Cooking dinner is a relaxing activity for me.",
-    "My best friend and I travel together often.",
-    "I find painting to be a calming hobby.",
-    "Watching movies on weekends is a great escape.",
-    "I like to try new recipes and share them.",
-    "Listening to music helps me focus while studying.",
-    "I believe that learning a new language is rewarding."
+    "I love to read books at night.",
+    "The weather is perfect for a picnic.",
+    "My favorite meals are Italian and Mexican.",
+    "I enjoy watching movies with my friends.",
+    "Traveling to new places is exciting and fun.",
+    "I often listen to music while studying.",
+    "Learning a new language can be quite challenging.",
+    "Cooking at home saves money and is healthier.",
+    "Exercising regularly can improve your overall well-being.",
+    "Spending time outdoors helps reduce stress and anxiety."
   ],
   "interviewScenarios": [
     {
-      "topic": "學習方法",
-      "intro": "You have agreed to take part in a research study about study habits.",
-      "questions": [
-        "Q1: Can you describe your study habits?",
-        "Q2: What challenges do you face when studying?",
-        "Q3: In your opinion, what is the most effective way to study?",
-        "Q4: What advice would you give to someone struggling with studying?"
-      ]
-    },
-    {
-      "topic": "旅行計劃",
+      "topic": "旅行計畫",
       "intro": "You have agreed to take part in a research study about travel planning.",
       "questions": [
-        "Q1: What do you enjoy most about planning a trip?",
-        "Q2: What obstacles do you encounter while planning travel?",
-        "Q3: How important is it to you to stick to a travel itinerary?",
-        "Q4: What tips would you offer for successful travel planning?"
+        "Q1: Can you share a recent trip you planned?",
+        "Q2: What challenges did you face while planning that trip?",
+        "Q3: How important do you think travel planning is?",
+        "Q4: What tips would you give someone planning their first trip?"
       ]
     },
     {
-      "topic": "運動習慣",
-      "intro": "You have agreed to take part in a research study about exercise habits.",
+      "topic": "健康飲食",
+      "intro": "You have agreed to take part in a research study about healthy eating.",
       "questions": [
-        "Q1: Can you share your typical exercise routine?",
-        "Q2: What difficulties do you experience with exercising regularly?",
-        "Q3: What role do you think exercise plays in a healthy lifestyle?",
-        "Q4: What suggestions do you have for someone wanting to start exercising?"
+        "Q1: What does a typical healthy meal look like for you?",
+        "Q2: Have you ever struggled to maintain a healthy diet?",
+        "Q3: Why do you think healthy eating is important?",
+        "Q4: What advice would you give to someone trying to eat healthier?"
+      ]
+    },
+    {
+      "topic": "休閒活動",
+      "intro": "You have agreed to take part in a research study about leisure activities.",
+      "questions": [
+        "Q1: What is your favorite way to spend your free time?",
+        "Q2: Have you ever tried a new hobby that was difficult?",
+        "Q3: How do leisure activities benefit your mental health?",
+        "Q4: What would you recommend for someone looking to find a new hobby?"
       ]
     }
   ]

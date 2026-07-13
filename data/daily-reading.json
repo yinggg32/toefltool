@@ -2,95 +2,107 @@
   "cloze": {
     "segments": [
       {
-        "text": "The process of photosynthesis is essential for life on Earth. Plants use sunlight to convert carbon dioxide and water into glucose and oxygen. This process occurs mainly in the lea"
+        "text": "The concept of a "
       },
       {
-        "blank": "ves"
+        "blank": "terrestrial"
       },
       {
-        "text": ", specifically within the chloroplasts. The chlorophyll pigment captures light energy, enabling the transformation of inorganic substances into organic matter. In addition, photosynthesis plays a crucial role in regulating atmospheric carbon dioxide levels, thus influencing climate. Without this process, the energy needs of most living organisms would not be met, leading to a dramatic red"
+        "text": " ecosystem emphasizes the importance of land-based environments. These ecosystems are characterized by their "
       },
       {
-        "blank": "uction"
+        "blank": "biodive"
       },
       {
-        "text": " in biodiversity. Understanding photosynthesis is vital for advancements in agriculture and energy production."
+        "text": "rsity, which includes a wide range of organisms. Understanding these ecosystems allows scientists to study how these "
+      },
+      {
+        "blank": "interact"
+      },
+      {
+        "text": " with their surroundings and adapt to changes. One critical aspect is the role of "
+      },
+      {
+        "blank": "nutrien"
+      },
+      {
+        "text": "t cycling in maintaining ecosystem health. Without the proper balance of nutrients, land ecosystems can become unstable, leading to loss of species and degradation of the environment."
       }
     ]
   },
   "academic": {
-    "passage": "Photosynthesis is the process by which green plants, algae, and some bacteria convert light energy into chemical energy. This transformation occurs when chlorophyll absorbs sunlight, leading to the synthesis of glucose from carbon dioxide and water. Oxygen is released as a byproduct. This process is fundamental to life on Earth, as it provides the primary energy source for nearly all ecosystems, supporting food chains and influencing global climate patterns.",
+    "passage": "Terrestrial ecosystems are complex networks of living organisms interacting with their physical environment. These systems can vary widely, from forests to grasslands, and are influenced by factors such as climate and soil type. Each ecosystem supports a specific community of plants and animals, contributing to overall biodiversity. The health of these ecosystems is vital for ecological balance, as they provide essential services such as carbon sequestration, soil formation, and water purification.",
     "questions": [
       {
-        "q": "What is the main purpose of photosynthesis?",
+        "q": "What is the main idea of the passage?",
         "options": [
-          "To produce energy for plants",
-          "To release carbon dioxide",
-          "To absorb sunlight",
-          "To create glucose"
+          "Terrestrial ecosystems are diverse and complex.",
+          "Climate affects terrestrial ecosystems.",
+          "Soil type is crucial for ecosystem health.",
+          "Animals only inhabit certain ecosystems."
         ],
         "correctIndex": 0,
-        "explain": "這是正確的，因為光合作用的主要目的是為植物產生能量。"
+        "explain": "這段文章的主旨是陸地生態系統的多樣性和複雜性。"
       },
       {
-        "q": "What is produced as a byproduct of photosynthesis?",
+        "q": "Which of the following is NOT mentioned as a type of terrestrial ecosystem?",
         "options": [
-          "Oxygen",
-          "Carbon dioxide",
-          "Glucose",
-          "Nitrogen"
+          "Forests",
+          "Deserts",
+          "Lakes",
+          "Grasslands"
+        ],
+        "correctIndex": 2,
+        "explain": "文章中並未提到湖泊，因此它不是陸地生態系統的類型。"
+      },
+      {
+        "q": "What can be inferred about the importance of terrestrial ecosystems?",
+        "options": [
+          "They only support plants.",
+          "They are not affected by climate.",
+          "They contribute to ecological balance.",
+          "They are the least diverse ecosystems."
+        ],
+        "correctIndex": 2,
+        "explain": "可以推斷，陸地生態系統對生態平衡非常重要。"
+      },
+      {
+        "q": "What does the term 'biodiversity' refer to in this context?",
+        "options": [
+          "The variety of life in a particular habitat.",
+          "The number of plants only.",
+          "The size of an ecosystem.",
+          "The climate of an area."
         ],
         "correctIndex": 0,
-        "explain": "這是正確的，因為光合作用的副產品是氧氣。"
-      },
-      {
-        "q": "How does photosynthesis affect global climate patterns?",
-        "options": [
-          "By increasing temperatures",
-          "By regulating atmospheric gases",
-          "By reducing biodiversity",
-          "By providing food sources"
-        ],
-        "correctIndex": 1,
-        "explain": "這是正確的，因為光合作用調節大氣中的氣體，從而影響全球氣候模式。"
-      },
-      {
-        "q": "What role does chlorophyll play in photosynthesis?",
-        "options": [
-          "It absorbs light energy",
-          "It synthesizes glucose",
-          "It releases oxygen",
-          "It converts carbon dioxide"
-        ],
-        "correctIndex": 0,
-        "explain": "這是正確的，因為葉綠素的作用是吸收光能。"
+        "explain": "在這個上下文中，'生物多樣性'指的是特定棲息地中的生命多樣性。"
       }
     ]
   },
   "daily": {
-    "passage": "Attention students! The university library will be closed for maintenance from 8 AM to 4 PM this Friday. Please plan your study time accordingly. We apologize for any inconvenience this may cause.",
+    "passage": "Attention students! The campus library will be closed for maintenance this Saturday from 9 AM to 5 PM. Please plan your study schedule accordingly. We apologize for any inconvenience this may cause.",
     "questions": [
       {
         "q": "When will the library be closed?",
         "options": [
-          "This Friday",
+          "This Saturday",
           "Next Monday",
-          "At 8 PM",
-          "On the weekend"
+          "Today",
+          "Tomorrow"
         ],
         "correctIndex": 0,
-        "explain": "這是正確的，因為通告中提到圖書館將在這個星期五關閉。"
+        "explain": "圖書館將在本週六關閉。"
       },
       {
-        "q": "What should students do in response to the library's closure?",
+        "q": "Why is the library closing?",
         "options": [
-          "Avoid studying",
-          "Plan their study time",
-          "Complain to the staff",
-          "Come later in the evening"
+          "For an event",
+          "For maintenance",
+          "For inventory check",
+          "For cleaning"
         ],
         "correctIndex": 1,
-        "explain": "這是正確的，因為公告建議學生根據關閉時間計劃他們的學習時間。"
+        "explain": "圖書館因為維護而關閉。"
       }
     ]
   }

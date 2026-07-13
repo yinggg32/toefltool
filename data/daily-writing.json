@@ -3,135 +3,128 @@
     {
       "words": [
         "the",
-        "researcher",
-        "found",
-        "new",
-        "evidence",
-        "supporting",
-        "the",
-        "theory"
-      ],
-      "display": "The researcher found new evidence supporting the theory."
-    },
-    {
-      "words": [
         "students",
         "should",
-        "attend",
-        "the",
-        "workshop",
-        "to",
-        "improve",
+        "submit",
         "their",
-        "skills"
+        "assignments",
+        "by",
+        "friday"
       ],
-      "display": "Students should attend the workshop to improve their skills."
-    },
-    {
-      "words": [
-        "the",
-        "novel",
-        "was",
-        "published",
-        "last",
-        "year",
-        "and",
-        "received",
-        "critical",
-        "acclaim"
-      ],
-      "display": "The novel was published last year and received critical acclaim."
+      "display": "The students should submit their assignments by Friday."
     },
     {
       "words": [
         "she",
-        "decided",
-        "to",
-        "study",
-        "abroad",
-        "for",
-        "a",
-        "semester",
-        "next",
-        "year"
-      ],
-      "display": "She decided to study abroad for a semester next year."
-    },
-    {
-      "words": [
-        "the",
-        "presentation",
-        "was",
-        "well",
-        "received",
-        "by",
-        "the",
-        "audience",
-        "and",
-        "peers"
-      ],
-      "display": "The presentation was well received by the audience and peers."
-    },
-    {
-      "words": [
-        "he",
-        "submitted",
-        "his",
-        "thesis",
-        "before",
-        "the",
-        "deadline",
-        "and",
-        "felt",
-        "relieved"
-      ],
-      "display": "He submitted his thesis before the deadline and felt relieved."
-    },
-    {
-      "words": [
-        "the",
-        "students",
-        "organized",
-        "a",
-        "meeting",
-        "to",
-        "discuss",
-        "the",
-        "upcoming",
-        "event"
-      ],
-      "display": "The students organized a meeting to discuss the upcoming event."
-    },
-    {
-      "words": [
-        "the",
-        "team",
-        "worked",
-        "tirelessly",
-        "to",
-        "complete",
-        "the",
-        "project",
-        "on",
+        "enjoys",
+        "reading",
+        "novels",
+        "in",
+        "her",
+        "free",
         "time"
       ],
-      "display": "The team worked tirelessly to complete the project on time."
+      "display": "She enjoys reading novels in her free time."
+    },
+    {
+      "words": [
+        "the",
+        "researchers",
+        "found",
+        "that",
+        "the",
+        "experiment",
+        "was",
+        "successful"
+      ],
+      "display": "The researchers found that the experiment was successful."
+    },
+    {
+      "words": [
+        "for",
+        "the",
+        "project",
+        "students",
+        "must",
+        "work",
+        "in",
+        "groups"
+      ],
+      "display": "For the project, students must work in groups."
+    },
+    {
+      "words": [
+        "his",
+        "presentation",
+        "was",
+        "both",
+        "informative",
+        "and",
+        "engaging",
+        "to",
+        "the",
+        "audience"
+      ],
+      "display": "His presentation was both informative and engaging to the audience."
+    },
+    {
+      "words": [
+        "the",
+        "library",
+        "will",
+        "be",
+        "closed",
+        "for",
+        "renovation",
+        "next",
+        "month"
+      ],
+      "display": "The library will be closed for renovation next month."
+    },
+    {
+      "words": [
+        "to",
+        "prepare",
+        "for",
+        "the",
+        "exam",
+        "students",
+        "should",
+        "review",
+        "the",
+        "material"
+      ],
+      "display": "To prepare for the exam, students should review the material."
+    },
+    {
+      "words": [
+        "the",
+        "conference",
+        "will",
+        "feature",
+        "guest",
+        "speakers",
+        "from",
+        "various",
+        "fields"
+      ],
+      "display": "The conference will feature guest speakers from various fields."
     }
   ],
   "emailPrompts": [
-    "寄信給宿舍辦公室，請求更換房間的事宜。",
-    "寄信給教授，詢問期末報告的格式要求。",
-    "寄信給圖書館，要求延長借書期限。",
-    "寄信給社團，報名參加下個月的活動。",
-    "寄信給客服，反映產品的問題和尋求解決方案。",
-    "寄信給導師，請求安排會議以討論學業進展。"
+    "寄信給教授，請求延長作業截止日期，因為有緊急情況。",
+    "寄信給宿舍管理辦公室，詢問關於報修的進度。",
+    "寄信給圖書館，請求延長借書期限，因為尚未完成閱讀。",
+    "寄信給社團負責人，申請加入新成立的文化交流社。",
+    "寄信給客服，反映最近購買的產品有瑕疵，請求退換。",
+    "寄信給實習主管，詢問實習期間的工作時間安排。"
   ],
   "discussionPrompts": [
-    "教授問：「你認為科技對社會的影響是正面還是負面？」",
-    "教授問：「應該如何平衡環境保護與經濟發展？」",
-    "教授問：「社交媒體對人際關係有何影響？」",
-    "教授問：「大學教育是否應該更注重實踐經驗？」",
-    "教授問：「文學作品在當代社會中仍然重要嗎？」",
-    "教授問：「探討文化多樣性對全球化的影響。」"
+    "教授問：「你認為科技會如何影響未來的教育？」",
+    "教授問：「社會媒體對於青少年的心理健康有什麼影響？」",
+    "教授問：「全球化對本地文化的影響是正面還是負面？」",
+    "教授問：「氣候變遷的主要原因是什麼？我們應該如何應對？」",
+    "教授問：「人工智慧會取代人類工作嗎？你怎麼看？」",
+    "教授問：「文學作品在塑造社會價值觀方面的角色是什麼？」"
   ]
 }

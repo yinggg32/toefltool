@@ -4550,5 +4550,117 @@
     "zh": "進展",
     "ex": "The advancement of technology has transformed public health surveillance methods.",
     "cat": "📰 每日新詞：public health"
+  },
+  {
+    "word": "pluralism",
+    "pos": "n.",
+    "root": "多元主義—plural",
+    "zh": "多元主義",
+    "ex": "Pluralism encourages the coexistence of diverse political groups.",
+    "cat": "📰 每日新詞：political science"
+  },
+  {
+    "word": "republic",
+    "pos": "n.",
+    "root": "共和國—republic",
+    "zh": "共和國",
+    "ex": "A republic is characterized by the election of representatives by the populace.",
+    "cat": "📰 每日新詞：political science"
+  },
+  {
+    "word": "sanction",
+    "pos": "n./v.",
+    "root": "制裁—sanction",
+    "zh": "制裁",
+    "ex": "Economic sanctions are often used as a tool to influence foreign policy.",
+    "cat": "📰 每日新詞：political science"
+  },
+  {
+    "word": "manifesto",
+    "pos": "n.",
+    "root": "宣言—manifest",
+    "zh": "宣言",
+    "ex": "The party's manifesto outlines its goals and policy proposals.",
+    "cat": "📰 每日新詞：political science"
+  },
+  {
+    "word": "conservative",
+    "pos": "adj./n.",
+    "root": "保守的—conserve",
+    "zh": "保守派",
+    "ex": "Conservative policies often emphasize traditional values and limited government.",
+    "cat": "📰 每日新詞：political science"
+  },
+  {
+    "word": "civic",
+    "pos": "adj.",
+    "root": "公民的—civ",
+    "zh": "公民的",
+    "ex": "Civic engagement is crucial for a healthy democracy.",
+    "cat": "📰 每日新詞：political science"
+  },
+  {
+    "word": "incumbent",
+    "pos": "adj./n.",
+    "root": "現任的—incumb",
+    "zh": "現任者",
+    "ex": "The incumbent president faces challenges from various political opponents.",
+    "cat": "📰 每日新詞：political science"
+  },
+  {
+    "word": "transparency",
+    "pos": "n.",
+    "root": "透明性—trans",
+    "zh": "透明性",
+    "ex": "Transparency in government operations is essential for public trust.",
+    "cat": "📰 每日新詞：political science"
+  },
+  {
+    "word": "subsidy",
+    "pos": "n.",
+    "root": "補貼—subside",
+    "zh": "補貼",
+    "ex": "Government subsidies can significantly impact economic sectors.",
+    "cat": "📰 每日新詞：political science"
+  },
+  {
+    "word": "voter",
+    "pos": "n.",
+    "root": "選民—vote",
+    "zh": "選民",
+    "ex": "Every eligible voter has the right to participate in elections.",
+    "cat": "📰 每日新詞：political science"
+  },
+  {
+    "word": "agenda",
+    "pos": "n.",
+    "root": "議程—agend",
+    "zh": "議程",
+    "ex": "The political agenda often reflects the priorities of the ruling party.",
+    "cat": "📰 每日新詞：political science"
+  },
+  {
+    "word": "campaign",
+    "pos": "n./v.",
+    "root": "運動—camp",
+    "zh": "運動",
+    "ex": "Political campaigns are designed to persuade voters to support a candidate.",
+    "cat": "📰 每日新詞：political science"
+  },
+  {
+    "word": "patriotism",
+    "pos": "n.",
+    "root": "愛國主義—patriot",
+    "zh": "愛國主義",
+    "ex": "Patriotism can inspire citizens to contribute to their country's welfare.",
+    "cat": "📰 每日新詞：political science"
+  },
+  {
+    "word": "disenfranchisement",
+    "pos": "n.",
+    "root": "剝奪選舉權—disenfranchise",
+    "zh": "剝奪選舉權",
+    "ex": "Disenfranchisement of certain groups raises concerns about equality in democracy.",
+    "cat": "📰 每日新詞：political science"
   }
 ]

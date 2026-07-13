@@ -1,116 +1,116 @@
 {
   "chooseResponse": [
     {
-      "q": "Are you attending the seminar tomorrow?",
+      "q": "Did you finish the assignment?",
       "options": [
-        "Yes, I am excited!",
-        "No, I'm busy tomorrow.",
-        "Maybe, I'll decide later.",
-        "I forgot about it."
+        "Yes, I did.",
+        "No, not yet.",
+        "I forgot about it.",
+        "I'm still working on it."
       ],
       "correctIndex": 0
     }
   ],
   "conversation": {
-    "transcript": "Student: Hey, have you heard about the new art exhibit opening this weekend?\nAdvisor: Yes, I read about it! Are you planning to go?\nStudent: Definitely! I love modern art. What about you?\nAdvisor: I might check it out if I have time. Do you know the entry fee?",
+    "transcript": "Student: Hey, have you seen the new library study rooms?\nLibrarian: Yes, they just opened last week. They're meant to help with group projects.\nStudent: That sounds great! Are they easy to reserve?\nLibrarian: Absolutely, you can book them online through the library website.",
     "questions": [
       {
-        "q": "What is the main topic of their conversation?",
+        "q": "What is the purpose of the new study rooms?",
         "options": [
-          "A seminar schedule",
-          "An art exhibit",
-          "A music concert",
-          "A club meeting"
+          "To help with individual study.",
+          "To assist with group projects.",
+          "To offer quiet reading space.",
+          "To provide computer access."
         ],
         "correctIndex": 1,
-        "explain": "他們的對話主要是關於一個藝術展覽。"
+        "explain": "新的自習室是為了幫助小組項目而設計的。"
       },
       {
-        "q": "What does the student think about modern art?",
+        "q": "How can students reserve these study rooms?",
         "options": [
-          "They dislike it.",
-          "They find it interesting.",
-          "They are indifferent.",
-          "They think it is outdated."
+          "By contacting the librarian directly.",
+          "Through the library's website.",
+          "By signing up at the front desk.",
+          "Using a mobile app."
         ],
         "correctIndex": 1,
-        "explain": "學生對現代藝術感到興趣。"
+        "explain": "學生可以通過圖書館網站預約這些自習室。"
       }
     ]
   },
   "announcement": {
-    "transcript": "Attention, students! The campus library will be closing early today at 4 PM for maintenance. Please plan your study time accordingly. Thank you for your understanding.",
+    "transcript": "Attention students! The campus bookstore will be holding a sale this weekend on textbooks and supplies. Everything will be 20% off. Don't miss this opportunity to save on your essential items. We hope to see you there!",
     "questions": [
       {
-        "q": "Why is the library closing early today?",
+        "q": "What will be on sale this weekend?",
         "options": [
-          "For a special event",
-          "For maintenance work",
-          "For a holiday",
-          "For staff training"
+          "Clothes and accessories.",
+          "Textbooks and supplies.",
+          "Food and beverages.",
+          "Dormitory furniture."
         ],
         "correctIndex": 1,
-        "explain": "圖書館今天早些時候關閉是因為維護工作。"
+        "explain": "本週末將有課本和用品的特賣。"
       },
       {
-        "q": "What time will the library close?",
+        "q": "How much discount can students get?",
         "options": [
-          "3 PM",
-          "4 PM",
-          "5 PM",
-          "6 PM"
+          "15% off.",
+          "20% off.",
+          "25% off.",
+          "30% off."
         ],
         "correctIndex": 1,
-        "explain": "圖書館將在下午4點關閉。"
+        "explain": "學生可以獲得20%的折扣。"
       }
     ]
   },
   "talk": {
-    "transcript": "Today, I will discuss the concept of sustainable agriculture. This approach focuses on farming that meets current food needs without compromising the ability of future generations to meet their own needs. Sustainable agriculture encompasses various practices, including crop rotation, organic farming, and integrated pest management. These methods enhance biodiversity, improve soil health, and reduce chemical use, which ultimately benefits both the environment and human health. By implementing sustainable techniques, farmers can create a resilient food system that supports local communities and promotes ecological balance.",
+    "transcript": "Today, we will discuss the concept of cognitive dissonance. Cognitive dissonance occurs when an individual holds two or more contradictory beliefs, values, or ideas simultaneously. This mental conflict can lead to discomfort, motivating the person to change their beliefs or behaviors to restore harmony. For example, a student who values health but smokes may experience dissonance. They could either quit smoking to align with their health values or rationalize their behavior by believing it's not that harmful. Understanding cognitive dissonance is crucial in psychology as it explains how people strive for internal consistency.",
     "questions": [
       {
-        "q": "What is the main focus of sustainable agriculture?",
+        "q": "What is cognitive dissonance?",
         "options": [
-          "Maximizing output",
-          "Traditional farming methods",
-          "Meeting current and future food needs",
-          "Reducing costs"
-        ],
-        "correctIndex": 2,
-        "explain": "可持續農業的主要重點是滿足當前和未來的食物需求。"
-      },
-      {
-        "q": "Which practice is NOT mentioned as part of sustainable agriculture?",
-        "options": [
-          "Crop rotation",
-          "Organic farming",
-          "Use of fertilizers",
-          "Integrated pest management"
-        ],
-        "correctIndex": 2,
-        "explain": "使用化肥並未被提及為可持續農業的一部分。"
-      },
-      {
-        "q": "How does sustainable agriculture benefit the environment?",
-        "options": [
-          "Increases chemical use",
-          "Enhances biodiversity",
-          "Depletes soil nutrients",
-          "Promotes monoculture"
+          "A type of memory error.",
+          "A mental conflict from contradictory beliefs.",
+          "A method of learning new information.",
+          "A form of psychological therapy."
         ],
         "correctIndex": 1,
-        "explain": "可持續農業通過增強生物多樣性來促進環境保護。"
+        "explain": "認知不協調是由矛盾信念引起的心理衝突。"
       },
       {
-        "q": "What is one method of sustainable agriculture mentioned?",
+        "q": "What motivates a person experiencing cognitive dissonance?",
         "options": [
-          "Monoculture",
-          "Synthetic fertilization",
-          "Organic farming",
-          "Chemical pest control"
+          "To seek new information.",
+          "To change their beliefs or behaviors.",
+          "To ignore the conflict.",
+          "To seek social validation."
         ],
-        "correctIndex": 2,
-        "explain": "提到的可持續農業方法之一是有機農業。"
+        "correctIndex": 1,
+        "explain": "經歷認知不協調的人會被動力改變其信念或行為。"
+      },
+      {
+        "q": "What example is given related to cognitive dissonance?",
+        "options": [
+          "A student studying for exams.",
+          "A smoker who values health.",
+          "A person learning a new skill.",
+          "A group working on a project."
+        ],
+        "correctIndex": 1,
+        "explain": "舉例中提到了一位重視健康的吸煙者。"
+      },
+      {
+        "q": "Why is understanding cognitive dissonance important?",
+        "options": [
+          "It helps in physical health.",
+          "It explains how people strive for consistency.",
+          "It enhances memory retention.",
+          "It is useful for learning languages."
+        ],
+        "correctIndex": 1,
+        "explain": "理解認知不協調有助於解釋人們如何努力保持一致性。"
       }
     ]
   }
