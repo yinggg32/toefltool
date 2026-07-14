@@ -1,116 +1,116 @@
 {
   "chooseResponse": [
     {
-      "q": "Did you finish the assignment?",
+      "q": "What are your weekend plans?",
       "options": [
-        "Yes, I did.",
-        "No, not yet.",
-        "I forgot about it.",
-        "I'm still working on it."
+        "I'm going hiking.",
+        "I have a lot of homework.",
+        "I'm visiting family.",
+        "I might go to the movies."
       ],
       "correctIndex": 0
     }
   ],
   "conversation": {
-    "transcript": "Student: Hey, have you seen the new library study rooms?\nLibrarian: Yes, they just opened last week. They're meant to help with group projects.\nStudent: That sounds great! Are they easy to reserve?\nLibrarian: Absolutely, you can book them online through the library website.",
+    "transcript": "Student: Hey, have you thought about joining any clubs this semester?\nAdvisor: I was considering the photography club. How about you?\nStudent: I might join the debate team. It sounds interesting.\nAdvisor: That could be a great way to improve your public speaking skills! Have you debated before?",
     "questions": [
       {
-        "q": "What is the purpose of the new study rooms?",
+        "q": "What club is the student considering?",
         "options": [
-          "To help with individual study.",
-          "To assist with group projects.",
-          "To offer quiet reading space.",
-          "To provide computer access."
+          "Debate team",
+          "Photography club",
+          "Art society",
+          "Literature group"
         ],
         "correctIndex": 1,
-        "explain": "新的自習室是為了幫助小組項目而設計的。"
+        "explain": "學生正在考慮加入攝影俱樂部。"
       },
       {
-        "q": "How can students reserve these study rooms?",
+        "q": "What skill does the advisor mention?",
         "options": [
-          "By contacting the librarian directly.",
-          "Through the library's website.",
-          "By signing up at the front desk.",
-          "Using a mobile app."
+          "Writing skills",
+          "Public speaking",
+          "Time management",
+          "Teamwork"
         ],
         "correctIndex": 1,
-        "explain": "學生可以通過圖書館網站預約這些自習室。"
+        "explain": "顧問提到了公眾演講技能。"
       }
     ]
   },
   "announcement": {
-    "transcript": "Attention students! The campus bookstore will be holding a sale this weekend on textbooks and supplies. Everything will be 20% off. Don't miss this opportunity to save on your essential items. We hope to see you there!",
+    "transcript": "Attention students: The library will be holding a special event this Friday at 3 PM. Join us for a workshop on research skills. This is a great opportunity to learn how to find and evaluate sources effectively.",
     "questions": [
       {
-        "q": "What will be on sale this weekend?",
+        "q": "What is the event about?",
         "options": [
-          "Clothes and accessories.",
-          "Textbooks and supplies.",
-          "Food and beverages.",
-          "Dormitory furniture."
+          "Time management",
+          "Research skills",
+          "Study techniques",
+          "Library resources"
         ],
         "correctIndex": 1,
-        "explain": "本週末將有課本和用品的特賣。"
+        "explain": "該活動將專注於研究技能。"
       },
       {
-        "q": "How much discount can students get?",
+        "q": "When will the event take place?",
         "options": [
-          "15% off.",
-          "20% off.",
-          "25% off.",
-          "30% off."
+          "This weekend",
+          "Next Friday",
+          "This Friday",
+          "Tomorrow"
         ],
-        "correctIndex": 1,
-        "explain": "學生可以獲得20%的折扣。"
+        "correctIndex": 2,
+        "explain": "活動將在本週五舉行。"
       }
     ]
   },
   "talk": {
-    "transcript": "Today, we will discuss the concept of cognitive dissonance. Cognitive dissonance occurs when an individual holds two or more contradictory beliefs, values, or ideas simultaneously. This mental conflict can lead to discomfort, motivating the person to change their beliefs or behaviors to restore harmony. For example, a student who values health but smokes may experience dissonance. They could either quit smoking to align with their health values or rationalize their behavior by believing it's not that harmful. Understanding cognitive dissonance is crucial in psychology as it explains how people strive for internal consistency.",
+    "transcript": "Today, we're going to discuss the concept of sustainable energy. Sustainable energy refers to energy sources that are renewable and have a minimal impact on the environment. For example, solar power and wind energy are considered sustainable because they can be replenished naturally and do not produce harmful emissions. This contrasts with fossil fuels, which are finite and contribute to pollution. As we face climate change and depleting resources, the shift to sustainable energy is essential for a healthier planet and future generations. By investing in these technologies, we can create cleaner energy solutions and reduce our reliance on non-renewable resources.",
     "questions": [
       {
-        "q": "What is cognitive dissonance?",
+        "q": "What is sustainable energy?",
         "options": [
-          "A type of memory error.",
-          "A mental conflict from contradictory beliefs.",
-          "A method of learning new information.",
-          "A form of psychological therapy."
+          "Non-renewable energy",
+          "Energy from fossil fuels",
+          "Renewable energy with minimal impact",
+          "Energy that pollutes the environment"
         ],
-        "correctIndex": 1,
-        "explain": "認知不協調是由矛盾信念引起的心理衝突。"
+        "correctIndex": 2,
+        "explain": "可持續能源是指可再生且對環境影響最小的能源。"
       },
       {
-        "q": "What motivates a person experiencing cognitive dissonance?",
+        "q": "Which energy sources are mentioned as sustainable?",
         "options": [
-          "To seek new information.",
-          "To change their beliefs or behaviors.",
-          "To ignore the conflict.",
-          "To seek social validation."
+          "Coal and oil",
+          "Natural gas",
+          "Solar and wind energy",
+          "Nuclear energy"
         ],
-        "correctIndex": 1,
-        "explain": "經歷認知不協調的人會被動力改變其信念或行為。"
+        "correctIndex": 2,
+        "explain": "提到的可持續能源來源是太陽能和風能。"
       },
       {
-        "q": "What example is given related to cognitive dissonance?",
+        "q": "What issue is prompting the shift to sustainable energy?",
         "options": [
-          "A student studying for exams.",
-          "A smoker who values health.",
-          "A person learning a new skill.",
-          "A group working on a project."
+          "Energy costs",
+          "Climate change",
+          "Technological advancements",
+          "Political factors"
         ],
         "correctIndex": 1,
-        "explain": "舉例中提到了一位重視健康的吸煙者。"
+        "explain": "氣候變化促使我們轉向可持續能源。"
       },
       {
-        "q": "Why is understanding cognitive dissonance important?",
+        "q": "Why is sustainable energy important for future generations?",
         "options": [
-          "It helps in physical health.",
-          "It explains how people strive for consistency.",
-          "It enhances memory retention.",
-          "It is useful for learning languages."
+          "It is cheaper",
+          "It is more popular",
+          "It reduces pollution",
+          "It is easier to produce"
         ],
-        "correctIndex": 1,
-        "explain": "理解認知不協調有助於解釋人們如何努力保持一致性。"
+        "correctIndex": 2,
+        "explain": "可持續能源對未來世代的重要性在於它能減少污染。"
       }
     ]
   }

@@ -4662,5 +4662,125 @@
     "zh": "剝奪選舉權",
     "ex": "Disenfranchisement of certain groups raises concerns about equality in democracy.",
     "cat": "📰 每日新詞：political science"
+  },
+  {
+    "word": "migrant",
+    "pos": "n./adj.",
+    "root": "migra-遷移 + nt-人或物",
+    "zh": "移民",
+    "ex": "Migrant populations often introduce new cultural elements to their host societies.",
+    "cat": "📰 每日新詞：anthropology"
+  },
+  {
+    "word": "cultural anthropology",
+    "pos": "n.",
+    "root": "cultural-文化 + anthropology-人類學",
+    "zh": "文化人類學",
+    "ex": "Cultural anthropology examines the myriad ways in which cultures express their beliefs and practices.",
+    "cat": "📰 每日新詞：anthropology"
+  },
+  {
+    "word": "tribe",
+    "pos": "n.",
+    "root": "trib-部落 + e-名詞後綴",
+    "zh": "部落",
+    "ex": "The tribe maintains traditional practices that have been passed down for generations.",
+    "cat": "📰 每日新詞：anthropology"
+  },
+  {
+    "word": "folklore",
+    "pos": "n.",
+    "root": "folk-民間 + lore-知識",
+    "zh": "民俗",
+    "ex": "Folklore provides insight into the values and beliefs of a culture through its stories and traditions.",
+    "cat": "📰 每日新詞：anthropology"
+  },
+  {
+    "word": "ethnology",
+    "pos": "n.",
+    "root": "ethno-民族 + logy-學科",
+    "zh": "民族學",
+    "ex": "Ethnology compares cultures to understand their similarities and differences.",
+    "cat": "📰 每日新詞：anthropology"
+  },
+  {
+    "word": "social structure",
+    "pos": "n.",
+    "root": "social-社會 + structure-結構",
+    "zh": "社會結構",
+    "ex": "Social structure influences the distribution of resources and power within a community.",
+    "cat": "📰 每日新詞：anthropology"
+  },
+  {
+    "word": "cultural diffusion",
+    "pos": "n.",
+    "root": "cultural-文化 + diffusion-擴散",
+    "zh": "文化擴散",
+    "ex": "Cultural diffusion occurs when cultural elements spread from one society to another.",
+    "cat": "📰 每日新詞：anthropology"
+  },
+  {
+    "word": "archetype",
+    "pos": "n.",
+    "root": "arch-原始 + type-類型",
+    "zh": "原型",
+    "ex": "Archetypes in mythology reveal universal themes present across various cultures.",
+    "cat": "📰 每日新詞：anthropology"
+  },
+  {
+    "word": "language",
+    "pos": "n.",
+    "root": "lang-語言 + uage-使用",
+    "zh": "語言",
+    "ex": "Language is a primary vehicle for cultural expression and identity.",
+    "cat": "📰 每日新詞：anthropology"
+  },
+  {
+    "word": "survivorship",
+    "pos": "n.",
+    "root": "survive-生存 + orship-狀態",
+    "zh": "生存狀態",
+    "ex": "Survivorship can reflect cultural resilience in the face of adversity.",
+    "cat": "📰 每日新詞：anthropology"
+  },
+  {
+    "word": "mythology",
+    "pos": "n.",
+    "root": "myth-神話 + ology-學科",
+    "zh": "神話學",
+    "ex": "Mythology serves as a lens through which cultures interpret their existence and values.",
+    "cat": "📰 每日新詞：anthropology"
+  },
+  {
+    "word": "socioeconomic",
+    "pos": "adj.",
+    "root": "socio-社會 + economic-經濟的",
+    "zh": "社會經濟的",
+    "ex": "Socioeconomic status often influences access to education and health resources.",
+    "cat": "📰 每日新詞：anthropology"
+  },
+  {
+    "word": "cultural heritage",
+    "pos": "n.",
+    "root": "cultural-文化 + heritage-遺產",
+    "zh": "文化遺產",
+    "ex": "Cultural heritage encompasses the traditions, languages, and artifacts passed down through generations.",
+    "cat": "📰 每日新詞：anthropology"
+  },
+  {
+    "word": "cultural identity",
+    "pos": "n.",
+    "root": "cultural-文化 + identity-身份",
+    "zh": "文化身份",
+    "ex": "Cultural identity is shaped by shared experiences and collective memory within a community.",
+    "cat": "📰 每日新詞：anthropology"
+  },
+  {
+    "word": "anthropological",
+    "pos": "adj.",
+    "root": "anthropo-人 + logical-邏輯的",
+    "zh": "人類學的",
+    "ex": "Anthropological studies often involve fieldwork and participant observation.",
+    "cat": "📰 每日新詞：anthropology"
   }
 ]

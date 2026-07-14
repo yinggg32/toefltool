@@ -4,127 +4,129 @@
       "words": [
         "the",
         "students",
-        "should",
-        "submit",
+        "presented",
         "their",
-        "assignments",
-        "by",
-        "friday"
+        "research",
+        "findings",
+        "during",
+        "the",
+        "conference"
       ],
-      "display": "The students should submit their assignments by Friday."
+      "display": "The students presented their research findings during the conference."
     },
     {
       "words": [
-        "she",
-        "enjoys",
-        "reading",
-        "novels",
-        "in",
-        "her",
-        "free",
-        "time"
+        "the",
+        "novel",
+        "explores",
+        "themes",
+        "of",
+        "identity",
+        "and",
+        "belonging"
       ],
-      "display": "She enjoys reading novels in her free time."
+      "display": "The novel explores themes of identity and belonging."
+    },
+    {
+      "words": [
+        "climate",
+        "change",
+        "poses",
+        "a",
+        "significant",
+        "threat",
+        "to",
+        "biodiversity"
+      ],
+      "display": "Climate change poses a significant threat to biodiversity."
+    },
+    {
+      "words": [
+        "the",
+        "professor",
+        "encouraged",
+        "students",
+        "to",
+        "engage",
+        "in",
+        "critical",
+        "thinking"
+      ],
+      "display": "The professor encouraged students to engage in critical thinking."
+    },
+    {
+      "words": [
+        "technology",
+        "has",
+        "transformed",
+        "the",
+        "way",
+        "we",
+        "communicate",
+        "and",
+        "connect"
+      ],
+      "display": "Technology has transformed the way we communicate and connect."
     },
     {
       "words": [
         "the",
         "researchers",
-        "found",
-        "that",
+        "conducted",
+        "a",
+        "study",
+        "on",
         "the",
-        "experiment",
-        "was",
-        "successful"
+        "effects",
+        "of",
+        "sleep",
+        "on",
+        "cognition"
       ],
-      "display": "The researchers found that the experiment was successful."
+      "display": "The researchers conducted a study on the effects of sleep on cognition."
     },
     {
       "words": [
-        "for",
-        "the",
-        "project",
-        "students",
-        "must",
-        "work",
+        "participating",
         "in",
-        "groups"
-      ],
-      "display": "For the project, students must work in groups."
-    },
-    {
-      "words": [
-        "his",
-        "presentation",
-        "was",
-        "both",
-        "informative",
-        "and",
-        "engaging",
-        "to",
-        "the",
-        "audience"
-      ],
-      "display": "His presentation was both informative and engaging to the audience."
-    },
-    {
-      "words": [
-        "the",
-        "library",
-        "will",
-        "be",
-        "closed",
-        "for",
-        "renovation",
-        "next",
-        "month"
-      ],
-      "display": "The library will be closed for renovation next month."
-    },
-    {
-      "words": [
-        "to",
-        "prepare",
-        "for",
-        "the",
-        "exam",
+        "extracurricular",
+        "activities",
+        "improves",
         "students",
-        "should",
-        "review",
-        "the",
-        "material"
+        "social",
+        "skills"
       ],
-      "display": "To prepare for the exam, students should review the material."
+      "display": "Participating in extracurricular activities improves students' social skills."
     },
     {
       "words": [
         "the",
-        "conference",
-        "will",
-        "feature",
-        "guest",
-        "speakers",
-        "from",
-        "various",
-        "fields"
+        "documentary",
+        "highlighted",
+        "the",
+        "importance",
+        "of",
+        "conservation",
+        "efforts",
+        "globally"
       ],
-      "display": "The conference will feature guest speakers from various fields."
+      "display": "The documentary highlighted the importance of conservation efforts globally."
     }
   ],
   "emailPrompts": [
-    "寄信給教授，請求延長作業截止日期，因為有緊急情況。",
-    "寄信給宿舍管理辦公室，詢問關於報修的進度。",
-    "寄信給圖書館，請求延長借書期限，因為尚未完成閱讀。",
-    "寄信給社團負責人，申請加入新成立的文化交流社。",
-    "寄信給客服，反映最近購買的產品有瑕疵，請求退換。",
-    "寄信給實習主管，詢問實習期間的工作時間安排。"
+    "寄信給宿舍辦公室，詢問如何辦理續租手續。",
+    "寄信給圖書館，請求延長借書期限。",
+    "寄信給社團顧問，表達參加下次活動的興趣。",
+    "寄信給客服，反映最近購買的產品出現的問題。",
+    "寄信給教授，詢問下週討論的議題。",
+    "寄信給班級同學，通知有關即將舉行的聚會。"
   ],
   "discussionPrompts": [
-    "教授問：「你認為科技會如何影響未來的教育？」",
-    "教授問：「社會媒體對於青少年的心理健康有什麼影響？」",
-    "教授問：「全球化對本地文化的影響是正面還是負面？」",
-    "教授問：「氣候變遷的主要原因是什麼？我們應該如何應對？」",
-    "教授問：「人工智慧會取代人類工作嗎？你怎麼看？」",
-    "教授問：「文學作品在塑造社會價值觀方面的角色是什麼？」"
+    "教授問：「你認為科技對現代社會的影響是正面還是負面？」",
+    "教授問：「文化多樣性如何影響全球化的進程？」",
+    "教授問：「應該如何平衡經濟發展與環境保護？」",
+    "教授問：「教育公平的重要性及其影響是什麼？」",
+    "教授問：「社會媒體在政治運動中的角色是什麼？」",
+    "教授問：「你認為藝術在教育中的作用如何？」"
   ]
 }
