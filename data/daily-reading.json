@@ -2,107 +2,101 @@
   "cloze": {
     "segments": [
       {
-        "text": "The concept of a "
+        "text": "The process of photosynthe"
       },
       {
-        "blank": "terrestrial"
+        "blank": "sis"
       },
       {
-        "text": " ecosystem emphasizes the importance of land-based environments. These ecosystems are characterized by their "
+        "text": " is crucial for life on Earth, as it converts light energy into chemical energy. Through this process, plants and algae absorb carbon dio"
       },
       {
-        "blank": "biodive"
+        "blank": "xide"
       },
       {
-        "text": "rsity, which includes a wide range of organisms. Understanding these ecosystems allows scientists to study how these "
+        "text": " and release oxygen. The overall equation for photosynthesis can be simplified as: carbon dioxide plus water, in the presence of light, yields glucose and oxygen. Photosynthesis occurs mainly in the leaves, where chlorophyll captures light energy. This energy is then used to convert the absorbed carbon dio"
       },
       {
-        "blank": "interact"
+        "blank": "xide"
       },
       {
-        "text": " with their surroundings and adapt to changes. One critical aspect is the role of "
-      },
-      {
-        "blank": "nutrien"
-      },
-      {
-        "text": "t cycling in maintaining ecosystem health. Without the proper balance of nutrients, land ecosystems can become unstable, leading to loss of species and degradation of the environment."
+        "text": " and water into glucose during the light-dependent and light-independent reactions. These reactions are influenced by various factors, including temperature and light intensity."
       }
     ]
   },
   "academic": {
-    "passage": "Terrestrial ecosystems are complex networks of living organisms interacting with their physical environment. These systems can vary widely, from forests to grasslands, and are influenced by factors such as climate and soil type. Each ecosystem supports a specific community of plants and animals, contributing to overall biodiversity. The health of these ecosystems is vital for ecological balance, as they provide essential services such as carbon sequestration, soil formation, and water purification.",
+    "passage": "Photosynthesis is a fundamental biological process that occurs in plants, algae, and some bacteria. It enables these organisms to produce their own food by converting sunlight into energy. During photosynthesis, carbon dioxide and water are transformed into glucose and oxygen, which are vital for sustaining life on Earth. This process takes place primarily in the chloroplasts of plant cells and involves two main stages: the light-dependent reactions and the Calvin cycle. Effective photosynthesis not only supports the growth of plants but also contributes to the oxygen supply of the atmosphere, highlighting its essential role in the ecosystem.",
     "questions": [
       {
         "q": "What is the main idea of the passage?",
         "options": [
-          "Terrestrial ecosystems are diverse and complex.",
-          "Climate affects terrestrial ecosystems.",
-          "Soil type is crucial for ecosystem health.",
-          "Animals only inhabit certain ecosystems."
+          "Photosynthesis is vital for life on Earth.",
+          "Plants grow mainly in chloroplasts.",
+          "Photosynthesis is a process that consumes glucose.",
+          "The Calvin cycle is the only part of photosynthesis."
         ],
         "correctIndex": 0,
-        "explain": "這段文章的主旨是陸地生態系統的多樣性和複雜性。"
+        "explain": "這段的主要觀點是光合作用對地球生命的重要性。"
       },
       {
-        "q": "Which of the following is NOT mentioned as a type of terrestrial ecosystem?",
+        "q": "What are the two main stages of photosynthesis mentioned?",
         "options": [
-          "Forests",
-          "Deserts",
-          "Lakes",
-          "Grasslands"
+          "Light reactions and Calvin cycle",
+          "Light-dependent and light-independent reactions",
+          "Photosystem I and II",
+          "Glucose production and oxygen release"
+        ],
+        "correctIndex": 1,
+        "explain": "文中提到光依賴反應和光獨立反應是光合作用的兩個主要階段。"
+      },
+      {
+        "q": "What can be inferred about the relationship between photosynthesis and oxygen levels?",
+        "options": [
+          "Photosynthesis decreases oxygen levels.",
+          "Plants produce oxygen only in darkness.",
+          "Increased photosynthesis likely increases oxygen levels.",
+          "Photosynthesis has no effect on oxygen levels."
         ],
         "correctIndex": 2,
-        "explain": "文章中並未提到湖泊，因此它不是陸地生態系統的類型。"
+        "explain": "可以推斷出，光合作用的增強會提高氧氣水平，因為植物在進行光合作用時釋放氧氣。"
       },
       {
-        "q": "What can be inferred about the importance of terrestrial ecosystems?",
+        "q": "What does the term 'chloroplasts' refer to in the passage?",
         "options": [
-          "They only support plants.",
-          "They are not affected by climate.",
-          "They contribute to ecological balance.",
-          "They are the least diverse ecosystems."
+          "The energy source for plants.",
+          "The location where photosynthesis occurs.",
+          "A type of glucose molecule.",
+          "A process of energy transformation."
         ],
-        "correctIndex": 2,
-        "explain": "可以推斷，陸地生態系統對生態平衡非常重要。"
-      },
-      {
-        "q": "What does the term 'biodiversity' refer to in this context?",
-        "options": [
-          "The variety of life in a particular habitat.",
-          "The number of plants only.",
-          "The size of an ecosystem.",
-          "The climate of an area."
-        ],
-        "correctIndex": 0,
-        "explain": "在這個上下文中，'生物多樣性'指的是特定棲息地中的生命多樣性。"
+        "correctIndex": 1,
+        "explain": "'葉綠體'是指植物細胞中進行光合作用的部位。"
       }
     ]
   },
   "daily": {
-    "passage": "Attention students! The campus library will be closed for maintenance this Saturday from 9 AM to 5 PM. Please plan your study schedule accordingly. We apologize for any inconvenience this may cause.",
+    "passage": "Attention students! The university library will be closed for maintenance on Saturday. Regular hours will resume on Sunday. Please plan your study schedule accordingly.",
     "questions": [
       {
         "q": "When will the library be closed?",
         "options": [
-          "This Saturday",
-          "Next Monday",
-          "Today",
-          "Tomorrow"
-        ],
-        "correctIndex": 0,
-        "explain": "圖書館將在本週六關閉。"
-      },
-      {
-        "q": "Why is the library closing?",
-        "options": [
-          "For an event",
-          "For maintenance",
-          "For inventory check",
-          "For cleaning"
+          "Friday",
+          "Saturday",
+          "Sunday",
+          "Monday"
         ],
         "correctIndex": 1,
-        "explain": "圖書館因為維護而關閉。"
+        "explain": "根據公告，圖書館將在星期六關閉。"
+      },
+      {
+        "q": "When will the library reopen?",
+        "options": [
+          "Friday",
+          "Saturday",
+          "Sunday",
+          "Monday"
+        ],
+        "correctIndex": 2,
+        "explain": "公告中提到圖書館在星期天會恢復正常開放時間。"
       }
     ]
   }

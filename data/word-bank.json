@@ -4782,5 +4782,277 @@
     "zh": "人類學的",
     "ex": "Anthropological studies often involve fieldwork and participant observation.",
     "cat": "📰 每日新詞：anthropology"
+  },
+  {
+    "word": "aggregate",
+    "pos": "n./adj./v.",
+    "root": "ag- (to) + greg- (flock) + ate (make)",
+    "zh": "總計",
+    "ex": "The aggregate demand in the economy has significantly increased over the past year.",
+    "cat": "📰 每日新詞：economics"
+  },
+  {
+    "word": "deficit",
+    "pos": "n.",
+    "root": "de- (down) + fic- (make) + it (state)",
+    "zh": "赤字",
+    "ex": "The country is facing a budget deficit that could impact public services.",
+    "cat": "📰 每日新詞：economics"
+  },
+  {
+    "word": "demand",
+    "pos": "n./v.",
+    "root": "de- (down) + mand- (order)",
+    "zh": "需求",
+    "ex": "The demand for renewable energy sources is rising rapidly.",
+    "cat": "📰 每日新詞：economics"
+  },
+  {
+    "word": "elasticity",
+    "pos": "n.",
+    "root": "elast- (to stretch) + ic- (related to) + ity (state)",
+    "zh": "彈性",
+    "ex": "Price elasticity of demand measures how responsive consumers are to price changes.",
+    "cat": "📰 每日新詞：economics"
+  },
+  {
+    "word": "equilibrium",
+    "pos": "n.",
+    "root": "equi- (equal) + libra- (weight) + ium (condition)",
+    "zh": "均衡",
+    "ex": "Market equilibrium occurs when supply equals demand.",
+    "cat": "📰 每日新詞：economics"
+  },
+  {
+    "word": "externality",
+    "pos": "n.",
+    "root": "extern- (outside) + al- (related to) + ity (state)",
+    "zh": "外部性",
+    "ex": "Pollution is a common negative externality associated with industrial production.",
+    "cat": "📰 每日新詞：economics"
+  },
+  {
+    "word": "fiscal",
+    "pos": "adj.",
+    "root": "fisc- (treasury) + al (related to)",
+    "zh": "財政的",
+    "ex": "Fiscal policy is crucial for managing national economic growth.",
+    "cat": "📰 每日新詞：economics"
+  },
+  {
+    "word": "inflation",
+    "pos": "n.",
+    "root": "in- (in) + flat- (blow) + ion (condition)",
+    "zh": "通貨膨脹",
+    "ex": "Hyperinflation can lead to a devaluation of currency.",
+    "cat": "📰 每日新詞：economics"
+  },
+  {
+    "word": "investment",
+    "pos": "n.",
+    "root": "in- (into) + vest- (clothe) + ment (act)",
+    "zh": "投資",
+    "ex": "Foreign direct investment is vital for developing economies.",
+    "cat": "📰 每日新詞：economics"
+  },
+  {
+    "word": "liquidity",
+    "pos": "n.",
+    "root": "liquid- (fluid) + ity (state)",
+    "zh": "流動性",
+    "ex": "Liquidity in the financial markets can affect economic stability.",
+    "cat": "📰 每日新詞：economics"
+  },
+  {
+    "word": "monetary",
+    "pos": "adj.",
+    "root": "monet- (money) + ary (related to)",
+    "zh": "貨幣的",
+    "ex": "Monetary policy is implemented by central banks to control inflation.",
+    "cat": "📰 每日新詞：economics"
+  },
+  {
+    "word": "opportunity cost",
+    "pos": "n.",
+    "root": "opportune- (suitable) + cost (value)",
+    "zh": "機會成本",
+    "ex": "Choosing to invest in education incurs an opportunity cost of lost income.",
+    "cat": "📰 每日新詞：economics"
+  },
+  {
+    "word": "output",
+    "pos": "n./v.",
+    "root": "out- (out) + put- (to place)",
+    "zh": "產出",
+    "ex": "The total output of goods and services in an economy is measured by GDP.",
+    "cat": "📰 每日新詞：economics"
+  },
+  {
+    "word": "price ceiling",
+    "pos": "n.",
+    "root": "price (cost) + ceil- (to limit) + ing (state)",
+    "zh": "價格上限",
+    "ex": "A price ceiling can lead to shortages in the market.",
+    "cat": "📰 每日新詞：economics"
+  },
+  {
+    "word": "profit",
+    "pos": "n./v.",
+    "root": "pro- (for) + fit- (make)",
+    "zh": "利潤",
+    "ex": "Maximizing profit is a primary goal for most businesses.",
+    "cat": "📰 每日新詞：economics"
+  },
+  {
+    "word": "recession",
+    "pos": "n.",
+    "root": "re- (back) + cessi- (go) + on (state)",
+    "zh": "衰退",
+    "ex": "The economy entered a recession following the financial crisis.",
+    "cat": "📰 每日新詞：economics"
+  },
+  {
+    "word": "resource allocation",
+    "pos": "n.",
+    "root": "resource (source of supply) + allocation (distribution)",
+    "zh": "資源配置",
+    "ex": "Efficient resource allocation is essential for economic development.",
+    "cat": "📰 每日新詞：economics"
+  },
+  {
+    "word": "scarcity",
+    "pos": "n.",
+    "root": "scar- (lack) + city (state)",
+    "zh": "稀缺性",
+    "ex": "Scarcity forces societies to make choices about resource use.",
+    "cat": "📰 每日新詞：economics"
+  },
+  {
+    "word": "supply",
+    "pos": "n./v.",
+    "root": "sup- (under) + ply- (to fill)",
+    "zh": "供應",
+    "ex": "The supply of goods can fluctuate based on production costs.",
+    "cat": "📰 每日新詞：economics"
+  },
+  {
+    "word": "tariff",
+    "pos": "n.",
+    "root": "tarif- (schedule) + f (related to)",
+    "zh": "關稅",
+    "ex": "The government imposed a tariff on imported goods to protect local industries.",
+    "cat": "📰 每日新詞：economics"
+  },
+  {
+    "word": "trade-off",
+    "pos": "n.",
+    "root": "trade (exchange) + off (against)",
+    "zh": "取捨",
+    "ex": "There is often a trade-off between economic growth and environmental sustainability.",
+    "cat": "📰 每日新詞：economics"
+  },
+  {
+    "word": "unemployment",
+    "pos": "n.",
+    "root": "un- (not) + employ- (to use) + ment (state)",
+    "zh": "失業",
+    "ex": "High unemployment rates can lead to social unrest.",
+    "cat": "📰 每日新詞：economics"
+  },
+  {
+    "word": "utility",
+    "pos": "n.",
+    "root": "util- (use) + ity (state)",
+    "zh": "效用",
+    "ex": "Utility represents the satisfaction gained from consuming goods.",
+    "cat": "📰 每日新詞：economics"
+  },
+  {
+    "word": "valuation",
+    "pos": "n.",
+    "root": "valu- (worth) + ation (process)",
+    "zh": "估值",
+    "ex": "The valuation of assets is crucial for investment decisions.",
+    "cat": "📰 每日新詞：economics"
+  },
+  {
+    "word": "welfare",
+    "pos": "n.",
+    "root": "well- (well-being) + fare (to do)",
+    "zh": "福利",
+    "ex": "Welfare programs help support low-income families.",
+    "cat": "📰 每日新詞：economics"
+  },
+  {
+    "word": "yield",
+    "pos": "n./v.",
+    "root": "yield- (to produce)",
+    "zh": "產量",
+    "ex": "The yield on government bonds has decreased over the past year.",
+    "cat": "📰 每日新詞：economics"
+  },
+  {
+    "word": "incentive",
+    "pos": "n.",
+    "root": "in- (in) + cent- (to move) + ive (related to)",
+    "zh": "激勵",
+    "ex": "Tax incentives can stimulate business investment.",
+    "cat": "📰 每日新詞：economics"
+  },
+  {
+    "word": "market share",
+    "pos": "n.",
+    "root": "market (place of trade) + share (portion)",
+    "zh": "市場佔有率",
+    "ex": "Increasing market share is essential for competitive advantage.",
+    "cat": "📰 每日新詞：economics"
+  },
+  {
+    "word": "diminishing returns",
+    "pos": "n.",
+    "root": "diminish (to lessen) + return (yield)",
+    "zh": "邊際報酬遞減",
+    "ex": "The law of diminishing returns illustrates that adding more resources yields less output.",
+    "cat": "📰 每日新詞：economics"
+  },
+  {
+    "word": "surplus",
+    "pos": "n./adj.",
+    "root": "sur- (over) + plus (more)",
+    "zh": "盈餘",
+    "ex": "A budget surplus allows for increased government investment in infrastructure.",
+    "cat": "📰 每日新詞：economics"
+  },
+  {
+    "word": "nonprofit",
+    "pos": "adj./n.",
+    "root": "non- (not) + profit (gain)",
+    "zh": "非營利的",
+    "ex": "Nonprofit organizations play a vital role in community development.",
+    "cat": "📰 每日新詞：economics"
+  },
+  {
+    "word": "collateral",
+    "pos": "n./adj.",
+    "root": "collat- (together) + eral (related to)",
+    "zh": "擔保品",
+    "ex": "Collateral is often required to secure a loan.",
+    "cat": "📰 每日新詞：economics"
+  },
+  {
+    "word": "regulation",
+    "pos": "n.",
+    "root": "regul- (to direct) + ation (process)",
+    "zh": "規範",
+    "ex": "Government regulation is necessary to ensure fair competition.",
+    "cat": "📰 每日新詞：economics"
+  },
+  {
+    "word": "endowment",
+    "pos": "n.",
+    "root": "en- (to cause) + dow- (to give) + ment (act)",
+    "zh": "捐贈",
+    "ex": "The university's endowment allows for scholarships and research funding.",
+    "cat": "📰 每日新詞：economics"
   }
 ]

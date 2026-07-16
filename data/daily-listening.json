@@ -1,116 +1,116 @@
 {
   "chooseResponse": [
     {
-      "q": "What are your weekend plans?",
+      "q": "How was your weekend?",
       "options": [
-        "I'm going hiking.",
-        "I have a lot of homework.",
-        "I'm visiting family.",
-        "I might go to the movies."
+        "It was relaxing.",
+        "I didn’t do much.",
+        "I went hiking.",
+        "I attended a concert."
       ],
       "correctIndex": 0
     }
   ],
   "conversation": {
-    "transcript": "Student: Hey, have you thought about joining any clubs this semester?\nAdvisor: I was considering the photography club. How about you?\nStudent: I might join the debate team. It sounds interesting.\nAdvisor: That could be a great way to improve your public speaking skills! Have you debated before?",
+    "transcript": "Student: Hey, have you started working on the group project?\nProfessor: Yes, I have! I think we should meet this week to discuss our ideas.\nStudent: That sounds good. When are you available?\nProfessor: I’m free on Wednesday afternoon. Does that work for you?",
     "questions": [
       {
-        "q": "What club is the student considering?",
+        "q": "What is the main topic of their conversation?",
         "options": [
-          "Debate team",
-          "Photography club",
-          "Art society",
-          "Literature group"
+          "The group project.",
+          "A class schedule.",
+          "A lecture review.",
+          "Exam preparation."
         ],
-        "correctIndex": 1,
-        "explain": "學生正在考慮加入攝影俱樂部。"
+        "correctIndex": 0,
+        "explain": "他們的對話主要是關於小組專案的。"
       },
       {
-        "q": "What skill does the advisor mention?",
+        "q": "When does the professor suggest meeting?",
         "options": [
-          "Writing skills",
-          "Public speaking",
-          "Time management",
-          "Teamwork"
+          "Tuesday morning.",
+          "Wednesday afternoon.",
+          "Thursday evening.",
+          "Friday all day."
         ],
         "correctIndex": 1,
-        "explain": "顧問提到了公眾演講技能。"
+        "explain": "教授建議在星期三下午見面。"
       }
     ]
   },
   "announcement": {
-    "transcript": "Attention students: The library will be holding a special event this Friday at 3 PM. Join us for a workshop on research skills. This is a great opportunity to learn how to find and evaluate sources effectively.",
+    "transcript": "Attention students: The library will be closing early at 5 PM today due to maintenance work. Please make sure to check out any materials you need before then. Thank you for your understanding!",
     "questions": [
       {
-        "q": "What is the event about?",
+        "q": "Why is the library closing early?",
         "options": [
-          "Time management",
-          "Research skills",
-          "Study techniques",
-          "Library resources"
+          "For a holiday.",
+          "For maintenance work.",
+          "For a special event.",
+          "For cleaning."
         ],
         "correctIndex": 1,
-        "explain": "該活動將專注於研究技能。"
+        "explain": "圖書館因為維修工作而提前關閉。"
       },
       {
-        "q": "When will the event take place?",
+        "q": "What time will the library close today?",
         "options": [
-          "This weekend",
-          "Next Friday",
-          "This Friday",
-          "Tomorrow"
+          "4 PM.",
+          "5 PM.",
+          "6 PM.",
+          "7 PM."
         ],
-        "correctIndex": 2,
-        "explain": "活動將在本週五舉行。"
+        "correctIndex": 1,
+        "explain": "圖書館今天將在下午五點關閉。"
       }
     ]
   },
   "talk": {
-    "transcript": "Today, we're going to discuss the concept of sustainable energy. Sustainable energy refers to energy sources that are renewable and have a minimal impact on the environment. For example, solar power and wind energy are considered sustainable because they can be replenished naturally and do not produce harmful emissions. This contrasts with fossil fuels, which are finite and contribute to pollution. As we face climate change and depleting resources, the shift to sustainable energy is essential for a healthier planet and future generations. By investing in these technologies, we can create cleaner energy solutions and reduce our reliance on non-renewable resources.",
+    "transcript": "Today, we will explore the concept of renewable energy. Renewable energy refers to energy generated from natural processes that are continuously replenished. Sources include solar, wind, geothermal, and hydroelectric power. Unlike fossil fuels, which are finite, renewable energy can be replenished naturally. This makes it a more sustainable option for meeting our energy needs while reducing environmental impact. The transition to renewable energy is crucial for addressing climate change and promoting energy security for future generations.",
     "questions": [
       {
-        "q": "What is sustainable energy?",
+        "q": "What is renewable energy?",
         "options": [
-          "Non-renewable energy",
-          "Energy from fossil fuels",
-          "Renewable energy with minimal impact",
-          "Energy that pollutes the environment"
-        ],
-        "correctIndex": 2,
-        "explain": "可持續能源是指可再生且對環境影響最小的能源。"
-      },
-      {
-        "q": "Which energy sources are mentioned as sustainable?",
-        "options": [
-          "Coal and oil",
-          "Natural gas",
-          "Solar and wind energy",
-          "Nuclear energy"
-        ],
-        "correctIndex": 2,
-        "explain": "提到的可持續能源來源是太陽能和風能。"
-      },
-      {
-        "q": "What issue is prompting the shift to sustainable energy?",
-        "options": [
-          "Energy costs",
-          "Climate change",
-          "Technological advancements",
-          "Political factors"
+          "Energy from fossil fuels.",
+          "Energy from natural processes.",
+          "Energy stored in batteries.",
+          "Energy used in transportation."
         ],
         "correctIndex": 1,
-        "explain": "氣候變化促使我們轉向可持續能源。"
+        "explain": "可再生能源是指來自自然過程的能源。"
       },
       {
-        "q": "Why is sustainable energy important for future generations?",
+        "q": "What are examples of renewable energy sources?",
         "options": [
-          "It is cheaper",
-          "It is more popular",
-          "It reduces pollution",
-          "It is easier to produce"
+          "Coal and oil.",
+          "Wind and solar.",
+          "Natural gas and nuclear.",
+          "Wood and charcoal."
+        ],
+        "correctIndex": 1,
+        "explain": "風能和太陽能是可再生能源的例子。"
+      },
+      {
+        "q": "Why is renewable energy important?",
+        "options": [
+          "It is cheaper than fossil fuels.",
+          "It is more efficient.",
+          "It helps reduce environmental impact.",
+          "It is easier to obtain."
         ],
         "correctIndex": 2,
-        "explain": "可持續能源對未來世代的重要性在於它能減少污染。"
+        "explain": "可再生能源有助於減少對環境的影響。"
+      },
+      {
+        "q": "What makes renewable energy sustainable?",
+        "options": [
+          "It can be stored indefinitely.",
+          "It can be replenished naturally.",
+          "It requires no investment.",
+          "It is always available."
+        ],
+        "correctIndex": 1,
+        "explain": "可再生能源可自然補充，這使其可持續。"
       }
     ]
   }
