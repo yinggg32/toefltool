@@ -5150,5 +5150,109 @@
     "zh": "有效性",
     "ex": "The validity of psychological tests is essential for accurate assessment.",
     "cat": "📰 每日新詞：psychology"
+  },
+  {
+    "word": "behaviorism",
+    "pos": "n.",
+    "root": "behave-行為, -ism-主義",
+    "zh": "行為主義",
+    "ex": "Behaviorism focuses on observable behaviors rather than internal mental states.",
+    "cat": "📰 每日新詞：psychology"
+  },
+  {
+    "word": "cognitive dissonance",
+    "pos": "n.",
+    "root": "cogn-認知, dissonance-不一致",
+    "zh": "認知失調",
+    "ex": "Cognitive dissonance occurs when an individual experiences conflicting beliefs or behaviors.",
+    "cat": "📰 每日新詞：psychology"
+  },
+  {
+    "word": "neuroplasticity",
+    "pos": "n.",
+    "root": "neuro-神經, plastic-可塑性",
+    "zh": "神經可塑性",
+    "ex": "Neuroplasticity refers to the brain's ability to reorganize itself by forming new neural connections.",
+    "cat": "📰 每日新詞：psychology"
+  },
+  {
+    "word": "stimulus",
+    "pos": "n.",
+    "root": "stimula-刺激, -us-名詞後綴",
+    "zh": "刺激",
+    "ex": "A stimulus is any event or object that can elicit a response from an organism.",
+    "cat": "📰 每日新詞：psychology"
+  },
+  {
+    "word": "trait",
+    "pos": "n.",
+    "root": "—",
+    "zh": "特徵",
+    "ex": "Trait theory suggests that personality is composed of various stable characteristics.",
+    "cat": "📰 每日新詞：psychology"
+  },
+  {
+    "word": "heuristic",
+    "pos": "adj./n.",
+    "root": "heur-發現, -istic-形容詞後綴",
+    "zh": "啟發式的",
+    "ex": "Heuristic methods can simplify complex decision-making processes.",
+    "cat": "📰 每日新詞：psychology"
+  },
+  {
+    "word": "psychometrics",
+    "pos": "n.",
+    "root": "psycho-心理, metric-測量",
+    "zh": "心理測量學",
+    "ex": "Psychometrics is the field concerned with the theory and technique of psychological measurement.",
+    "cat": "📰 每日新詞：psychology"
+  },
+  {
+    "word": "catharsis",
+    "pos": "n.",
+    "root": "cathar-清除, -sis-名詞後綴",
+    "zh": "宣洩",
+    "ex": "Catharsis can occur through expressing emotions, leading to relief and healing.",
+    "cat": "📰 每日新詞：psychology"
+  },
+  {
+    "word": "subliminal",
+    "pos": "adj.",
+    "root": "sub-在下, limin-閾限",
+    "zh": "潛意識的",
+    "ex": "Subliminal messages can influence behavior without conscious awareness.",
+    "cat": "📰 每日新詞：psychology"
+  },
+  {
+    "word": "assertiveness",
+    "pos": "n.",
+    "root": "assert-主張, -iveness-名詞後綴",
+    "zh": "果斷",
+    "ex": "Assertiveness training helps individuals communicate their needs and rights effectively.",
+    "cat": "📰 每日新詞：psychology"
+  },
+  {
+    "word": "self-efficacy",
+    "pos": "n.",
+    "root": "self-自我, efficacy-效能",
+    "zh": "自我效能感",
+    "ex": "Self-efficacy influences how individuals approach challenges and tasks.",
+    "cat": "📰 每日新詞：psychology"
+  },
+  {
+    "word": "psychodynamic",
+    "pos": "adj.",
+    "root": "psycho-心理, dynamic-動態的",
+    "zh": "心理動力的",
+    "ex": "Psychodynamic theories emphasize the influence of unconscious processes on behavior.",
+    "cat": "📰 每日新詞：psychology"
+  },
+  {
+    "word": "compassion",
+    "pos": "n.",
+    "root": "com-共同, pass-感受",
+    "zh": "同情",
+    "ex": "Compassion plays a vital role in fostering positive social relationships.",
+    "cat": "📰 每日新詞：psychology"
   }
 ]

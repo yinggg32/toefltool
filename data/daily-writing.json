@@ -2,129 +2,146 @@
   "buildSentences": [
     {
       "words": [
+        "the",
         "students",
+        "discussed",
+        "the",
+        "importance",
+        "of",
+        "teamwork",
+        "in",
+        "class"
+      ],
+      "display": "The students discussed the importance of teamwork in class."
+    },
+    {
+      "words": [
+        "research",
+        "findings",
+        "indicate",
+        "a",
+        "strong",
+        "correlation",
+        "between",
+        "exercise",
+        "and",
+        "mental",
+        "health"
+      ],
+      "display": "Research findings indicate a strong correlation between exercise and mental health."
+    },
+    {
+      "words": [
+        "the",
+        "university",
+        "will",
+        "host",
+        "a",
+        "conference",
+        "on",
+        "sustainable",
+        "energy",
+        "next",
+        "month"
+      ],
+      "display": "The university will host a conference on sustainable energy next month."
+    },
+    {
+      "words": [
+        "students",
+        "are",
+        "encouraged",
+        "to",
         "participate",
         "in",
-        "the",
-        "discussion",
-        "to",
-        "improve",
-        "their",
-        "critical",
-        "thinking"
+        "extracurricular",
+        "activities",
+        "for",
+        "personal",
+        "growth"
       ],
-      "display": "Students participate in the discussion to improve their critical thinking."
+      "display": "Students are encouraged to participate in extracurricular activities for personal growth."
+    },
+    {
+      "words": [
+        "the",
+        "professor",
+        "assigned",
+        "a",
+        "project",
+        "to",
+        "explore",
+        "cultural",
+        "diversity",
+        "in",
+        "literature"
+      ],
+      "display": "The professor assigned a project to explore cultural diversity in literature."
     },
     {
       "words": [
         "the",
         "library",
-        "provides",
-        "resources",
-        "that",
-        "support",
-        "student",
-        "research"
-      ],
-      "display": "The library provides resources that support student research."
-    },
-    {
-      "words": [
-        "clubs",
+        "is",
+        "conducting",
+        "a",
+        "workshop",
         "on",
-        "campus",
-        "offer",
-        "students",
-        "opportunities",
-        "to",
-        "network"
-      ],
-      "display": "Clubs on campus offer students opportunities to network."
-    },
-    {
-      "words": [
-        "professors",
-        "encourage",
-        "students",
-        "to",
-        "ask",
-        "questions",
-        "during",
-        "lectures"
-      ],
-      "display": "Professors encourage students to ask questions during lectures."
-    },
-    {
-      "words": [
         "effective",
-        "time",
-        "management",
-        "skills",
-        "are",
-        "essential",
-        "for",
-        "academic",
-        "success"
+        "research",
+        "strategies",
+        "next",
+        "week"
       ],
-      "display": "Effective time management skills are essential for academic success."
+      "display": "The library is conducting a workshop on effective research strategies next week."
     },
     {
       "words": [
-        "collaborative",
-        "projects",
-        "help",
-        "students",
-        "develop",
-        "teamwork",
-        "and",
-        "communication",
-        "skills"
-      ],
-      "display": "Collaborative projects help students develop teamwork and communication skills."
-    },
-    {
-      "words": [
-        "participating",
-        "in",
-        "extracurricular",
-        "activities",
-        "can",
-        "enhance",
-        "the",
-        "college",
-        "experience"
-      ],
-      "display": "Participating in extracurricular activities can enhance the college experience."
-    },
-    {
-      "words": [
-        "students",
+        "we",
         "should",
-        "seek",
-        "internship",
-        "opportunities",
-        "to",
-        "gain",
-        "practical",
-        "experience"
+        "consider",
+        "the",
+        "ethical",
+        "implications",
+        "of",
+        "artificial",
+        "intelligence",
+        "in",
+        "society"
       ],
-      "display": "Students should seek internship opportunities to gain practical experience."
+      "display": "We should consider the ethical implications of artificial intelligence in society."
+    },
+    {
+      "words": [
+        "the",
+        "debate",
+        "on",
+        "climate",
+        "change",
+        "requires",
+        "active",
+        "engagement",
+        "from",
+        "all",
+        "students"
+      ],
+      "display": "The debate on climate change requires active engagement from all students."
     }
   ],
   "emailPrompts": [
-    "寄信給教授，請求延長提交課程報告的截止日期。",
-    "寄信給宿舍管理辦公室，詢問如何申請更換宿舍。",
-    "寄信給圖書館，請求查詢某本書的可用性。",
-    "寄信給學校社團，表達對加入該社團的興趣。",
-    "寄信給客服，反映最近購買的產品有瑕疵，請求退換貨。",
-    "寄信給導師，請求指導如何準備即將到來的考試。"
+    "寄信給教授，詢問期末考的具體時間和地點。",
+    "寫信給宿舍辦公室，請求更換房間因為室友的噪音問題。",
+    "寄信給圖書館，請求延長借書期限。",
+    "寫信給學生會，表達對即將舉辦的活動的建議和意見。",
+    "寄信給客服，反映購買商品後的問題並要求退款。",
+    "寫信給系主任，詢問有關實習機會的資訊和推薦信的要求。"
   ],
   "discussionPrompts": [
-    "教授問：「如何看待科技對教育的影響？」",
-    "教授問：「你認為社會媒體對人際關係的影響是正面還是負面？」",
-    "教授問：「在全球化的背景下，各國文化應如何保護和傳承？」",
-    "教授問：「環境保護與經濟發展之間的平衡應如何取得？」",
-    "教授問：「你認為藝術在現代社會中的角色是什麼？」",
-    "教授問：「應該如何看待現代科技與個人隱私之間的矛盾？」"
+    "教授問：「在數位時代，傳統教育模式是否仍然有效？」",
+    "教授問：「文化多樣性對社會進步的影響何在？」",
+    "教授問：「社交媒體對青少年心理健康的影響是正面還是負面？」",
+    "教授問：「在全球化背景下，本地文化應如何保護？」",
+    "教授問：「科技進步如何改變我們的工作方式？」",
+    "教授問：「氣候變化議題中，個人責任和政府責任該如何分配？」"
   ]
 }

@@ -1,116 +1,116 @@
 {
   "chooseResponse": [
     {
-      "q": "What are you planning for the weekend?",
+      "q": "What time does the library open?",
       "options": [
-        "I'm going hiking.",
-        "I can't find my keys.",
-        "That sounds fun!",
-        "I prefer staying home."
+        "8 AM",
+        "9 AM",
+        "10 AM",
+        "7 AM"
       ],
       "correctIndex": 0
     }
   ],
   "conversation": {
-    "transcript": "Student: Hi, did you finish the project for class?\nProfessor: Yes, I did. How about you?\nStudent: I'm almost done, but I need some help with the data analysis.\nProfessor: Sure, I can assist you with that after class.",
+    "transcript": "Student: Hey, have you heard about the new study group for chemistry?\nAdvisor: Yes, I have! It meets every Wednesday. Are you planning to join?\nStudent: I think I will. I need some help with the lab work.\nAdvisor: That’s a great idea. Collaboration can really help you understand the material better.",
     "questions": [
       {
-        "q": "What does the student need help with?",
+        "q": "What is the main topic of the conversation?",
         "options": [
-          "The project topic.",
-          "Data analysis.",
-          "Class schedule.",
-          "Finding a partner."
+          "A study group for chemistry",
+          "A lab work project",
+          "An exam schedule",
+          "A tutoring service"
         ],
-        "correctIndex": 1,
-        "explain": "學生需要幫助的是數據分析。"
+        "correctIndex": 0,
+        "explain": "對話的主題是關於化學的學習小組。"
       },
       {
-        "q": "When can the professor help the student?",
+        "q": "When does the study group meet?",
         "options": [
-          "Before class.",
-          "During class.",
-          "After class.",
-          "On the weekend."
+          "Every Tuesday",
+          "Every Wednesday",
+          "Every Thursday",
+          "Every Friday"
         ],
-        "correctIndex": 2,
-        "explain": "教授可以在下課後幫助學生。"
+        "correctIndex": 1,
+        "explain": "學習小組每週三聚會。"
       }
     ]
   },
   "announcement": {
-    "transcript": "Attention students, the library will be closed this Saturday for maintenance. Please make sure to check out any materials you need before Friday. Thank you for your understanding.",
+    "transcript": "Attention students! The campus bookstore will be holding a clearance sale this weekend. All textbooks and supplies will be 20% off. Don’t miss this chance to stock up on what you need for the semester!",
     "questions": [
       {
-        "q": "Why will the library be closed?",
+        "q": "What is the announcement about?",
         "options": [
-          "For renovations.",
-          "For maintenance.",
-          "For staff training.",
-          "For inventory."
+          "A bookstore opening",
+          "A clearance sale",
+          "A new textbook policy",
+          "A campus event"
         ],
         "correctIndex": 1,
-        "explain": "圖書館將因維護而關閉。"
+        "explain": "公告是關於書店的清貨促銷。"
       },
       {
-        "q": "When should students check out materials by?",
+        "q": "How much discount is offered during the sale?",
         "options": [
-          "Saturday.",
-          "Friday.",
-          "Thursday.",
-          "Wednesday."
+          "10%",
+          "15%",
+          "20%",
+          "25%"
         ],
-        "correctIndex": 1,
-        "explain": "學生應在星期五之前借出所需材料。"
+        "correctIndex": 2,
+        "explain": "清貨促銷提供20%的折扣。"
       }
     ]
   },
   "talk": {
-    "transcript": "Today, we will discuss photosynthesis, a critical process in plants. Photosynthesis occurs when plants convert light energy, usually from the sun, into chemical energy in the form of glucose. This process takes place mainly in the leaves, where chlorophyll captures sunlight. Carbon dioxide from the air and water from the soil are also essential. The overall equation for photosynthesis can be summarized as carbon dioxide plus water, in the presence of sunlight, produces glucose and oxygen. This not only sustains plant life but also produces oxygen essential for many living organisms.",
+    "transcript": "Today, we are going to discuss renewable energy sources. Renewable energy is derived from natural processes that are replenished constantly. Some common sources include solar, wind, and hydroelectric energy. These sources not only help reduce greenhouse gas emissions but also provide sustainable power for our growing energy needs. Transitioning to renewable energy is crucial for combating climate change and ensuring a cleaner environment for future generations.",
     "questions": [
       {
-        "q": "What is the main purpose of photosynthesis?",
+        "q": "What is the main focus of the talk?",
         "options": [
-          "To produce oxygen.",
-          "To create glucose.",
-          "To absorb carbon dioxide.",
-          "To convert sunlight."
+          "Fossil fuels",
+          "Renewable energy sources",
+          "Energy conservation",
+          "Nuclear energy"
         ],
         "correctIndex": 1,
-        "explain": "光合作用的主要目的是產生葡萄糖。"
+        "explain": "演講的主要焦點是可再生能源來源。"
       },
       {
-        "q": "Where does photosynthesis primarily occur?",
+        "q": "Which one is NOT mentioned as a renewable energy source?",
         "options": [
-          "In the roots.",
-          "In the stems.",
-          "In the leaves.",
-          "In the flowers."
+          "Solar",
+          "Wind",
+          "Nuclear",
+          "Hydroelectric"
         ],
         "correctIndex": 2,
-        "explain": "光合作用主要發生在葉子中。"
+        "explain": "核能沒有被提到作為可再生能源。"
       },
       {
-        "q": "What captures sunlight in plants?",
+        "q": "Why is transitioning to renewable energy important?",
         "options": [
-          "Water.",
-          "Chlorophyll.",
-          "Roots.",
-          "Carbon dioxide."
+          "To increase fossil fuel usage",
+          "To combat climate change",
+          "To decrease electricity costs",
+          "To promote industrial growth"
         ],
         "correctIndex": 1,
-        "explain": "葉綠素捕捉植物中的陽光。"
+        "explain": "轉向可再生能源對抗氣候變化很重要。"
       },
       {
-        "q": "What are the byproducts of photosynthesis?",
+        "q": "What does renewable energy help reduce?",
         "options": [
-          "Nitrogen and glucose.",
-          "Oxygen and glucose.",
-          "Oxygen and carbon dioxide.",
-          "Glucose and water."
+          "Air pollution",
+          "Energy costs",
+          "Fossil fuel dependence",
+          "Greenhouse gas emissions"
         ],
-        "correctIndex": 1,
-        "explain": "光合作用的副產品是氧氣和葡萄糖。"
+        "correctIndex": 3,
+        "explain": "可再生能源有助於減少溫室氣體排放。"
       }
     ]
   }

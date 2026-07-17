@@ -2,113 +2,107 @@
   "cloze": {
     "segments": [
       {
-        "text": "The concept of "
+        "text": "The process of photosynthesis is essential for life on Earth. It involves the conversion of light en"
       },
       {
-        "blank": "eco"
+        "blank": "ergy"
       },
       {
-        "text": "-system services focuses on the benefits provided by natural ecosystems. These services include "
+        "text": " into chemical energy by plants. During this process, plants take in carbon dioxide and water, which are then transformed into glucose and oxygen. The primary"
       },
       {
-        "blank": "pol"
+        "blank": "pigment"
       },
       {
-        "text": "ination, water purification, and climate regulation. For instance, wetlands act as natural "
+        "text": " responsible for capturing light energy is chlorophyll. This green pigment is found in the chloroplasts of plant cells. Through a series of complex bi"
       },
       {
-        "blank": "fil"
+        "blank": "ochemical"
       },
       {
-        "text": "ters, removing pollutants from water. Understanding these services is critical for "
+        "text": " reactions, the energy stored in glucose can later be used by the plant for growth and reproduction. Additionally, photosynthesis plays a crucial role in mai"
       },
       {
-        "blank": "sus"
+        "blank": "ntaining"
       },
       {
-        "text": "tainable development and biodiversity conservation. However, human activities have significantly "
-      },
-      {
-        "blank": "dis"
-      },
-      {
-        "text": "rupted these systems, leading to a decrease in the quality and quantity of ecosystem services."
+        "text": " the balance of oxygen and carbon dioxide in the atmosphere, making it vital for sustaining life on our planet."
       }
     ]
   },
   "academic": {
-    "passage": "Ecosystem services are the various benefits that humans derive from natural ecosystems. These services are essential for human survival and well-being. They include provisioning services, such as food and water; regulating services, like climate control; and cultural services, which encompass the recreational and spiritual benefits gained from nature. Preserving these services is crucial for sustainable development, as they play a significant role in maintaining ecological balance and supporting human life.",
+    "passage": "Photosynthesis is a fundamental process by which green plants, algae, and some bacteria convert light energy into chemical energy. This process occurs primarily in the chloroplasts of plant cells, where chlorophyll captures sunlight. Water and carbon dioxide are the main inputs, and glucose along with oxygen are produced as byproducts. The significance of photosynthesis extends beyond individual plants, as it directly influences global carbon cycles and oxygen production, supporting life on Earth.",
     "questions": [
       {
         "q": "What is the main idea of the passage?",
         "options": [
-          "Ecosystem services are essential for human survival.",
-          "Natural ecosystems provide food and water.",
-          "Humans have disrupted ecosystems significantly.",
-          "Ecosystem services are only cultural in nature."
+          "Photosynthesis is vital for life and involves the conversion of light energy",
+          "Chlorophyll is the only pigment involved in photosynthesis",
+          "Only algae perform photosynthesis",
+          "Photosynthesis happens in the dark"
         ],
         "correctIndex": 0,
-        "explain": "這段文章的主旨在於生態系統服務對人類生存的重要性。"
+        "explain": "這段文字的主題是光合作用的重要性及其過程。"
       },
       {
-        "q": "Which of the following is NOT mentioned as a type of ecosystem service?",
+        "q": "What are the inputs required for photosynthesis?",
         "options": [
-          "Provisioning services.",
-          "Regulating services.",
-          "Cultural services.",
-          "Industrial services."
-        ],
-        "correctIndex": 3,
-        "explain": "文中提到的生態系統服務類型不包括工業服務。"
-      },
-      {
-        "q": "What can be inferred about the impact of human activities on ecosystems?",
-        "options": [
-          "Humans have no effect on ecosystems.",
-          "Human activities enhance ecosystem services.",
-          "Human activities threaten ecosystem services.",
-          "Ecosystem services are unlimited."
-        ],
-        "correctIndex": 2,
-        "explain": "人類的活動對生態系統服務造成威脅，這是可以推斷的。"
-      },
-      {
-        "q": "What does the term 'provisioning services' refer to in the passage?",
-        "options": [
-          "Services related to recreation.",
-          "Services that provide food and water.",
-          "Services that regulate climate.",
-          "Services that offer spiritual benefits."
+          "Glucose and oxygen",
+          "Carbon dioxide and water",
+          "Sunlight and glucose",
+          "Chlorophyll and oxygen"
         ],
         "correctIndex": 1,
-        "explain": "在文中，'供給服務' 指的是提供食物和水的服務。"
+        "explain": "光合作用需要二氧化碳和水作為原料。"
+      },
+      {
+        "q": "What can be inferred about the role of photosynthesis in the environment?",
+        "options": [
+          "It decreases oxygen levels",
+          "It helps maintain atmospheric balance",
+          "It is not important for ecosystems",
+          "It consumes more carbon dioxide than it produces"
+        ],
+        "correctIndex": 1,
+        "explain": "光合作用有助於維持大氣中的氧氣和二氧化碳平衡。"
+      },
+      {
+        "q": "What does the term 'chloroplasts' refer to in the passage?",
+        "options": [
+          "A type of light energy",
+          "The site of photosynthesis in plant cells",
+          "A byproduct of photosynthesis",
+          "An alternative energy source"
+        ],
+        "correctIndex": 1,
+        "explain": "在這段文字中，'葉綠體'指的是植物細胞中進行光合作用的地方。"
       }
     ]
   },
   "daily": {
-    "passage": "Attention students! The university library will be closed for maintenance this Saturday. Please plan your study sessions accordingly. We apologize for any inconvenience this may cause. Regular hours will resume on Monday.",
+    "passage": "Attention students! The library will be closed this Saturday for maintenance. Please plan your study sessions accordingly. We apologize for any inconvenience.",
     "questions": [
       {
-        "q": "When will the library close?",
+        "q": "When will the library be closed?",
         "options": [
-          "This Friday.",
-          "This Saturday.",
-          "This Sunday.",
-          "Next Monday."
+          "This Saturday",
+          "This Sunday",
+          "Next Monday",
+          "Next Saturday"
         ],
-        "correctIndex": 1,
-        "explain": "圖書館將在星期六關閉。"
+        "correctIndex": 0,
+        "explain": "圖書館將於本週六關閉進行維護。"
       },
       {
-        "q": "What will happen after the maintenance?",
+        "q": "Why is the library closing?",
         "options": [
-          "Library hours will change.",
-          "Library will remain closed.",
-          "Regular hours will resume.",
-          "Library will be permanently closed."
+          "For a holiday",
+          "For maintenance",
+          "For a special event",
+          "For inventory"
         ],
-        "correctIndex": 2,
-        "explain": "維修後圖書館將恢復正常開放時間。"
+        "correctIndex": 1,
+        "explain": "圖書館關閉的原因是進行維護。"
       }
     ]
   }
