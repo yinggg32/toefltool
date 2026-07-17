@@ -2,126 +2,129 @@
   "buildSentences": [
     {
       "words": [
-        "the",
-        "researchers",
-        "found",
-        "significant",
-        "results",
-        "from",
-        "the",
-        "experiment"
-      ],
-      "display": "The researchers found significant results from the experiment."
-    },
-    {
-      "words": [
-        "the",
         "students",
-        "decided",
+        "participate",
+        "in",
+        "the",
+        "discussion",
         "to",
-        "form",
-        "a",
-        "study",
-        "group"
+        "improve",
+        "their",
+        "critical",
+        "thinking"
       ],
-      "display": "The students decided to form a study group."
-    },
-    {
-      "words": [
-        "the",
-        "presentation",
-        "will",
-        "provide",
-        "insights",
-        "into",
-        "climate",
-        "change"
-      ],
-      "display": "The presentation will provide insights into climate change."
-    },
-    {
-      "words": [
-        "please",
-        "submit",
-        "your",
-        "assignments",
-        "by",
-        "the",
-        "end",
-        "of",
-        "the",
-        "week"
-      ],
-      "display": "Please submit your assignments by the end of the week."
-    },
-    {
-      "words": [
-        "the",
-        "professor",
-        "encouraged",
-        "the",
-        "students",
-        "to",
-        "ask",
-        "questions"
-      ],
-      "display": "The professor encouraged the students to ask questions."
+      "display": "Students participate in the discussion to improve their critical thinking."
     },
     {
       "words": [
         "the",
         "library",
-        "is",
-        "open",
-        "until",
-        "midnight",
+        "provides",
+        "resources",
+        "that",
+        "support",
+        "student",
+        "research"
+      ],
+      "display": "The library provides resources that support student research."
+    },
+    {
+      "words": [
+        "clubs",
+        "on",
+        "campus",
+        "offer",
+        "students",
+        "opportunities",
+        "to",
+        "network"
+      ],
+      "display": "Clubs on campus offer students opportunities to network."
+    },
+    {
+      "words": [
+        "professors",
+        "encourage",
+        "students",
+        "to",
+        "ask",
+        "questions",
         "during",
-        "exams"
+        "lectures"
       ],
-      "display": "The library is open until midnight during exams."
+      "display": "Professors encourage students to ask questions during lectures."
     },
     {
       "words": [
-        "the",
-        "club",
-        "is",
-        "organizing",
-        "a",
-        "charity",
-        "event",
-        "next",
-        "month"
+        "effective",
+        "time",
+        "management",
+        "skills",
+        "are",
+        "essential",
+        "for",
+        "academic",
+        "success"
       ],
-      "display": "The club is organizing a charity event next month."
+      "display": "Effective time management skills are essential for academic success."
     },
     {
       "words": [
-        "the",
-        "customer",
-        "service",
-        "representative",
-        "assisted",
-        "the",
-        "client",
-        "promptly"
+        "collaborative",
+        "projects",
+        "help",
+        "students",
+        "develop",
+        "teamwork",
+        "and",
+        "communication",
+        "skills"
       ],
-      "display": "The customer service representative assisted the client promptly."
+      "display": "Collaborative projects help students develop teamwork and communication skills."
+    },
+    {
+      "words": [
+        "participating",
+        "in",
+        "extracurricular",
+        "activities",
+        "can",
+        "enhance",
+        "the",
+        "college",
+        "experience"
+      ],
+      "display": "Participating in extracurricular activities can enhance the college experience."
+    },
+    {
+      "words": [
+        "students",
+        "should",
+        "seek",
+        "internship",
+        "opportunities",
+        "to",
+        "gain",
+        "practical",
+        "experience"
+      ],
+      "display": "Students should seek internship opportunities to gain practical experience."
     }
   ],
   "emailPrompts": [
-    "寄信給教授，告訴他你希望參加他的課程並詢問課程內容。",
-    "寄信給宿舍辦公室，請求更換房間因為室友不合。",
-    "寄信給圖書館，詢問如何申請圖書證。",
-    "寄信給社團，表達你對加入該社團的興趣。",
-    "寄信給客服，反映你對產品的問題並尋求解決方案。",
-    "寄信給學校辦公室，詢問獎學金的申請截止日期。"
+    "寄信給教授，請求延長提交課程報告的截止日期。",
+    "寄信給宿舍管理辦公室，詢問如何申請更換宿舍。",
+    "寄信給圖書館，請求查詢某本書的可用性。",
+    "寄信給學校社團，表達對加入該社團的興趣。",
+    "寄信給客服，反映最近購買的產品有瑕疵，請求退換貨。",
+    "寄信給導師，請求指導如何準備即將到來的考試。"
   ],
   "discussionPrompts": [
-    "教授問：「在數位時代，傳統書籍還有必要性嗎？」",
-    "教授問：「科技進步對社會的影響是正面還是負面？」",
-    "教授問：「環保與經濟發展之間的平衡應該如何達成？」",
-    "教授問：「教育應該更加重視實務經驗還是理論學習？」",
-    "教授問：「人類活動對氣候變化的責任有多大？」",
-    "教授問：「文化多樣性對全球化的影響是什麼？」"
+    "教授問：「如何看待科技對教育的影響？」",
+    "教授問：「你認為社會媒體對人際關係的影響是正面還是負面？」",
+    "教授問：「在全球化的背景下，各國文化應如何保護和傳承？」",
+    "教授問：「環境保護與經濟發展之間的平衡應如何取得？」",
+    "教授問：「你認為藝術在現代社會中的角色是什麼？」",
+    "教授問：「應該如何看待現代科技與個人隱私之間的矛盾？」"
   ]
 }

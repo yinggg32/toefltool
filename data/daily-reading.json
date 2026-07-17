@@ -2,101 +2,113 @@
   "cloze": {
     "segments": [
       {
-        "text": "The process of photosynthe"
+        "text": "The concept of "
       },
       {
-        "blank": "sis"
+        "blank": "eco"
       },
       {
-        "text": " is crucial for life on Earth, as it converts light energy into chemical energy. Through this process, plants and algae absorb carbon dio"
+        "text": "-system services focuses on the benefits provided by natural ecosystems. These services include "
       },
       {
-        "blank": "xide"
+        "blank": "pol"
       },
       {
-        "text": " and release oxygen. The overall equation for photosynthesis can be simplified as: carbon dioxide plus water, in the presence of light, yields glucose and oxygen. Photosynthesis occurs mainly in the leaves, where chlorophyll captures light energy. This energy is then used to convert the absorbed carbon dio"
+        "text": "ination, water purification, and climate regulation. For instance, wetlands act as natural "
       },
       {
-        "blank": "xide"
+        "blank": "fil"
       },
       {
-        "text": " and water into glucose during the light-dependent and light-independent reactions. These reactions are influenced by various factors, including temperature and light intensity."
+        "text": "ters, removing pollutants from water. Understanding these services is critical for "
+      },
+      {
+        "blank": "sus"
+      },
+      {
+        "text": "tainable development and biodiversity conservation. However, human activities have significantly "
+      },
+      {
+        "blank": "dis"
+      },
+      {
+        "text": "rupted these systems, leading to a decrease in the quality and quantity of ecosystem services."
       }
     ]
   },
   "academic": {
-    "passage": "Photosynthesis is a fundamental biological process that occurs in plants, algae, and some bacteria. It enables these organisms to produce their own food by converting sunlight into energy. During photosynthesis, carbon dioxide and water are transformed into glucose and oxygen, which are vital for sustaining life on Earth. This process takes place primarily in the chloroplasts of plant cells and involves two main stages: the light-dependent reactions and the Calvin cycle. Effective photosynthesis not only supports the growth of plants but also contributes to the oxygen supply of the atmosphere, highlighting its essential role in the ecosystem.",
+    "passage": "Ecosystem services are the various benefits that humans derive from natural ecosystems. These services are essential for human survival and well-being. They include provisioning services, such as food and water; regulating services, like climate control; and cultural services, which encompass the recreational and spiritual benefits gained from nature. Preserving these services is crucial for sustainable development, as they play a significant role in maintaining ecological balance and supporting human life.",
     "questions": [
       {
         "q": "What is the main idea of the passage?",
         "options": [
-          "Photosynthesis is vital for life on Earth.",
-          "Plants grow mainly in chloroplasts.",
-          "Photosynthesis is a process that consumes glucose.",
-          "The Calvin cycle is the only part of photosynthesis."
+          "Ecosystem services are essential for human survival.",
+          "Natural ecosystems provide food and water.",
+          "Humans have disrupted ecosystems significantly.",
+          "Ecosystem services are only cultural in nature."
         ],
         "correctIndex": 0,
-        "explain": "這段的主要觀點是光合作用對地球生命的重要性。"
+        "explain": "這段文章的主旨在於生態系統服務對人類生存的重要性。"
       },
       {
-        "q": "What are the two main stages of photosynthesis mentioned?",
+        "q": "Which of the following is NOT mentioned as a type of ecosystem service?",
         "options": [
-          "Light reactions and Calvin cycle",
-          "Light-dependent and light-independent reactions",
-          "Photosystem I and II",
-          "Glucose production and oxygen release"
+          "Provisioning services.",
+          "Regulating services.",
+          "Cultural services.",
+          "Industrial services."
         ],
-        "correctIndex": 1,
-        "explain": "文中提到光依賴反應和光獨立反應是光合作用的兩個主要階段。"
+        "correctIndex": 3,
+        "explain": "文中提到的生態系統服務類型不包括工業服務。"
       },
       {
-        "q": "What can be inferred about the relationship between photosynthesis and oxygen levels?",
+        "q": "What can be inferred about the impact of human activities on ecosystems?",
         "options": [
-          "Photosynthesis decreases oxygen levels.",
-          "Plants produce oxygen only in darkness.",
-          "Increased photosynthesis likely increases oxygen levels.",
-          "Photosynthesis has no effect on oxygen levels."
+          "Humans have no effect on ecosystems.",
+          "Human activities enhance ecosystem services.",
+          "Human activities threaten ecosystem services.",
+          "Ecosystem services are unlimited."
         ],
         "correctIndex": 2,
-        "explain": "可以推斷出，光合作用的增強會提高氧氣水平，因為植物在進行光合作用時釋放氧氣。"
+        "explain": "人類的活動對生態系統服務造成威脅，這是可以推斷的。"
       },
       {
-        "q": "What does the term 'chloroplasts' refer to in the passage?",
+        "q": "What does the term 'provisioning services' refer to in the passage?",
         "options": [
-          "The energy source for plants.",
-          "The location where photosynthesis occurs.",
-          "A type of glucose molecule.",
-          "A process of energy transformation."
+          "Services related to recreation.",
+          "Services that provide food and water.",
+          "Services that regulate climate.",
+          "Services that offer spiritual benefits."
         ],
         "correctIndex": 1,
-        "explain": "'葉綠體'是指植物細胞中進行光合作用的部位。"
+        "explain": "在文中，'供給服務' 指的是提供食物和水的服務。"
       }
     ]
   },
   "daily": {
-    "passage": "Attention students! The university library will be closed for maintenance on Saturday. Regular hours will resume on Sunday. Please plan your study schedule accordingly.",
+    "passage": "Attention students! The university library will be closed for maintenance this Saturday. Please plan your study sessions accordingly. We apologize for any inconvenience this may cause. Regular hours will resume on Monday.",
     "questions": [
       {
-        "q": "When will the library be closed?",
+        "q": "When will the library close?",
         "options": [
-          "Friday",
-          "Saturday",
-          "Sunday",
-          "Monday"
+          "This Friday.",
+          "This Saturday.",
+          "This Sunday.",
+          "Next Monday."
         ],
         "correctIndex": 1,
-        "explain": "根據公告，圖書館將在星期六關閉。"
+        "explain": "圖書館將在星期六關閉。"
       },
       {
-        "q": "When will the library reopen?",
+        "q": "What will happen after the maintenance?",
         "options": [
-          "Friday",
-          "Saturday",
-          "Sunday",
-          "Monday"
+          "Library hours will change.",
+          "Library will remain closed.",
+          "Regular hours will resume.",
+          "Library will be permanently closed."
         ],
         "correctIndex": 2,
-        "explain": "公告中提到圖書館在星期天會恢復正常開放時間。"
+        "explain": "維修後圖書館將恢復正常開放時間。"
       }
     ]
   }

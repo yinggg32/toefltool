@@ -1,116 +1,116 @@
 {
   "chooseResponse": [
     {
-      "q": "How was your weekend?",
+      "q": "What are you planning for the weekend?",
       "options": [
-        "It was relaxing.",
-        "I didn’t do much.",
-        "I went hiking.",
-        "I attended a concert."
+        "I'm going hiking.",
+        "I can't find my keys.",
+        "That sounds fun!",
+        "I prefer staying home."
       ],
       "correctIndex": 0
     }
   ],
   "conversation": {
-    "transcript": "Student: Hey, have you started working on the group project?\nProfessor: Yes, I have! I think we should meet this week to discuss our ideas.\nStudent: That sounds good. When are you available?\nProfessor: I’m free on Wednesday afternoon. Does that work for you?",
+    "transcript": "Student: Hi, did you finish the project for class?\nProfessor: Yes, I did. How about you?\nStudent: I'm almost done, but I need some help with the data analysis.\nProfessor: Sure, I can assist you with that after class.",
     "questions": [
       {
-        "q": "What is the main topic of their conversation?",
+        "q": "What does the student need help with?",
         "options": [
-          "The group project.",
-          "A class schedule.",
-          "A lecture review.",
-          "Exam preparation."
-        ],
-        "correctIndex": 0,
-        "explain": "他們的對話主要是關於小組專案的。"
-      },
-      {
-        "q": "When does the professor suggest meeting?",
-        "options": [
-          "Tuesday morning.",
-          "Wednesday afternoon.",
-          "Thursday evening.",
-          "Friday all day."
+          "The project topic.",
+          "Data analysis.",
+          "Class schedule.",
+          "Finding a partner."
         ],
         "correctIndex": 1,
-        "explain": "教授建議在星期三下午見面。"
+        "explain": "學生需要幫助的是數據分析。"
+      },
+      {
+        "q": "When can the professor help the student?",
+        "options": [
+          "Before class.",
+          "During class.",
+          "After class.",
+          "On the weekend."
+        ],
+        "correctIndex": 2,
+        "explain": "教授可以在下課後幫助學生。"
       }
     ]
   },
   "announcement": {
-    "transcript": "Attention students: The library will be closing early at 5 PM today due to maintenance work. Please make sure to check out any materials you need before then. Thank you for your understanding!",
+    "transcript": "Attention students, the library will be closed this Saturday for maintenance. Please make sure to check out any materials you need before Friday. Thank you for your understanding.",
     "questions": [
       {
-        "q": "Why is the library closing early?",
+        "q": "Why will the library be closed?",
         "options": [
-          "For a holiday.",
-          "For maintenance work.",
-          "For a special event.",
-          "For cleaning."
+          "For renovations.",
+          "For maintenance.",
+          "For staff training.",
+          "For inventory."
         ],
         "correctIndex": 1,
-        "explain": "圖書館因為維修工作而提前關閉。"
+        "explain": "圖書館將因維護而關閉。"
       },
       {
-        "q": "What time will the library close today?",
+        "q": "When should students check out materials by?",
         "options": [
-          "4 PM.",
-          "5 PM.",
-          "6 PM.",
-          "7 PM."
+          "Saturday.",
+          "Friday.",
+          "Thursday.",
+          "Wednesday."
         ],
         "correctIndex": 1,
-        "explain": "圖書館今天將在下午五點關閉。"
+        "explain": "學生應在星期五之前借出所需材料。"
       }
     ]
   },
   "talk": {
-    "transcript": "Today, we will explore the concept of renewable energy. Renewable energy refers to energy generated from natural processes that are continuously replenished. Sources include solar, wind, geothermal, and hydroelectric power. Unlike fossil fuels, which are finite, renewable energy can be replenished naturally. This makes it a more sustainable option for meeting our energy needs while reducing environmental impact. The transition to renewable energy is crucial for addressing climate change and promoting energy security for future generations.",
+    "transcript": "Today, we will discuss photosynthesis, a critical process in plants. Photosynthesis occurs when plants convert light energy, usually from the sun, into chemical energy in the form of glucose. This process takes place mainly in the leaves, where chlorophyll captures sunlight. Carbon dioxide from the air and water from the soil are also essential. The overall equation for photosynthesis can be summarized as carbon dioxide plus water, in the presence of sunlight, produces glucose and oxygen. This not only sustains plant life but also produces oxygen essential for many living organisms.",
     "questions": [
       {
-        "q": "What is renewable energy?",
+        "q": "What is the main purpose of photosynthesis?",
         "options": [
-          "Energy from fossil fuels.",
-          "Energy from natural processes.",
-          "Energy stored in batteries.",
-          "Energy used in transportation."
+          "To produce oxygen.",
+          "To create glucose.",
+          "To absorb carbon dioxide.",
+          "To convert sunlight."
         ],
         "correctIndex": 1,
-        "explain": "可再生能源是指來自自然過程的能源。"
+        "explain": "光合作用的主要目的是產生葡萄糖。"
       },
       {
-        "q": "What are examples of renewable energy sources?",
+        "q": "Where does photosynthesis primarily occur?",
         "options": [
-          "Coal and oil.",
-          "Wind and solar.",
-          "Natural gas and nuclear.",
-          "Wood and charcoal."
-        ],
-        "correctIndex": 1,
-        "explain": "風能和太陽能是可再生能源的例子。"
-      },
-      {
-        "q": "Why is renewable energy important?",
-        "options": [
-          "It is cheaper than fossil fuels.",
-          "It is more efficient.",
-          "It helps reduce environmental impact.",
-          "It is easier to obtain."
+          "In the roots.",
+          "In the stems.",
+          "In the leaves.",
+          "In the flowers."
         ],
         "correctIndex": 2,
-        "explain": "可再生能源有助於減少對環境的影響。"
+        "explain": "光合作用主要發生在葉子中。"
       },
       {
-        "q": "What makes renewable energy sustainable?",
+        "q": "What captures sunlight in plants?",
         "options": [
-          "It can be stored indefinitely.",
-          "It can be replenished naturally.",
-          "It requires no investment.",
-          "It is always available."
+          "Water.",
+          "Chlorophyll.",
+          "Roots.",
+          "Carbon dioxide."
         ],
         "correctIndex": 1,
-        "explain": "可再生能源可自然補充，這使其可持續。"
+        "explain": "葉綠素捕捉植物中的陽光。"
+      },
+      {
+        "q": "What are the byproducts of photosynthesis?",
+        "options": [
+          "Nitrogen and glucose.",
+          "Oxygen and glucose.",
+          "Oxygen and carbon dioxide.",
+          "Glucose and water."
+        ],
+        "correctIndex": 1,
+        "explain": "光合作用的副產品是氧氣和葡萄糖。"
       }
     ]
   }

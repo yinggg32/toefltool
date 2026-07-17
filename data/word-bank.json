@@ -5054,5 +5054,101 @@
     "zh": "捐贈",
     "ex": "The university's endowment allows for scholarships and research funding.",
     "cat": "📰 每日新詞：economics"
+  },
+  {
+    "word": "dysfunction",
+    "pos": "n.",
+    "root": "dys-不良, function-功能",
+    "zh": "功能障礙",
+    "ex": "Family dysfunction can have lasting effects on children’s psychological health.",
+    "cat": "📰 每日新詞：psychology"
+  },
+  {
+    "word": "trauma",
+    "pos": "n.",
+    "root": "traum-創傷, wound",
+    "zh": "創傷",
+    "ex": "Trauma can lead to significant psychological distress and require therapeutic intervention.",
+    "cat": "📰 每日新詞：psychology"
+  },
+  {
+    "word": "schizophrenia",
+    "pos": "n.",
+    "root": "schizo-分裂, phren-心智",
+    "zh": "精神分裂症",
+    "ex": "Schizophrenia is characterized by distortions in thinking, perception, emotions, and behavior.",
+    "cat": "📰 每日新詞：psychology"
+  },
+  {
+    "word": "neurotic",
+    "pos": "adj.",
+    "root": "neuro-神經, relating to nerves",
+    "zh": "神經質的",
+    "ex": "Neurotic individuals often experience heightened emotional responses.",
+    "cat": "📰 每日新詞：psychology"
+  },
+  {
+    "word": "therapy",
+    "pos": "n.",
+    "root": "therap-療法, to heal",
+    "zh": "治療",
+    "ex": "Cognitive Behavioral Therapy is an effective treatment for various psychological issues.",
+    "cat": "📰 每日新詞：psychology"
+  },
+  {
+    "word": "diagnosis",
+    "pos": "n.",
+    "root": "diagnos-診斷, to distinguish",
+    "zh": "診斷",
+    "ex": "Accurate diagnosis is essential for effective treatment of mental disorders.",
+    "cat": "📰 每日新詞：psychology"
+  },
+  {
+    "word": "neurodevelopmental",
+    "pos": "adj.",
+    "root": "neuro-神經, develop-發展",
+    "zh": "神經發展的",
+    "ex": "Neurodevelopmental disorders affect brain function and development.",
+    "cat": "📰 每日新詞：psychology"
+  },
+  {
+    "word": "motivate",
+    "pos": "v.",
+    "root": "motiv-動機, to move",
+    "zh": "激勵",
+    "ex": "Teachers can motivate students by creating engaging learning environments.",
+    "cat": "📰 每日新詞：psychology"
+  },
+  {
+    "word": "neurosis",
+    "pos": "n.",
+    "root": "neur-神經, relating to nerves",
+    "zh": "神經症",
+    "ex": "Neurosis encompasses a range of mental health conditions characterized by anxiety.",
+    "cat": "📰 每日新詞：psychology"
+  },
+  {
+    "word": "identity crisis",
+    "pos": "n.",
+    "root": "ident-認同, crisis-危機",
+    "zh": "身份危機",
+    "ex": "An identity crisis can occur during significant life transitions.",
+    "cat": "📰 每日新詞：psychology"
+  },
+  {
+    "word": "psychosomatic",
+    "pos": "adj.",
+    "root": "psycho-心理, somatic-身體的",
+    "zh": "心理生理的",
+    "ex": "Psychosomatic disorders illustrate the connection between mind and body.",
+    "cat": "📰 每日新詞：psychology"
+  },
+  {
+    "word": "validity",
+    "pos": "n.",
+    "root": "valid-有效的, strong",
+    "zh": "有效性",
+    "ex": "The validity of psychological tests is essential for accurate assessment.",
+    "cat": "📰 每日新詞：psychology"
   }
 ]

@@ -1,45 +1,45 @@
 {
   "shadowSentences": [
-    "I love spending time with my family.",
-    "Reading books is one of my hobbies.",
-    "My favorite season of the year is autumn.",
-    "I enjoy cooking different types of cuisine.",
-    "Traveling to new places helps me relax and learn.",
-    "Listening to music cheers me up on tough days.",
-    "I often go for long walks in the park nearby.",
-    "Volunteering in my community brings me a sense of purpose.",
-    "I like to try new recipes on the weekends with friends.",
-    "Exploring different cultures through food is always exciting."
+    "I love reading books in the evening.",
+    "My favorite hobby is painting landscapes.",
+    "Traveling to new countries is exciting for me.",
+    "I enjoy cooking different cuisines on weekends.",
+    "Listening to music helps me relax after work.",
+    "I often visit art galleries to see new exhibits.",
+    "Gardening has become a rewarding part of my life.",
+    "I prefer spending time outdoors rather than indoors.",
+    "Volunteering at local shelters has taught me a lot.",
+    "Maintaining a healthy lifestyle requires daily effort and commitment."
   ],
   "interviewScenarios": [
     {
-      "topic": "旅行經歷",
-      "intro": "You have agreed to take part in a research study about travel experiences.",
+      "topic": "饮食习惯",
+      "intro": "You have agreed to take part in a research study about eating habits.",
       "questions": [
-        "Q1: Can you share a memorable travel experience you had?",
-        "Q2: What challenges did you face during that trip?",
-        "Q3: How do you feel about the impact of travel on personal growth?",
-        "Q4: What advice would you give someone planning their first trip?"
+        "Q1: What is your typical daily diet like?",
+        "Q2: Have you ever faced challenges in maintaining healthy eating?",
+        "Q3: How important do you think a balanced diet is for overall health?",
+        "Q4: What advice would you give to someone trying to eat healthier?"
       ]
     },
     {
-      "topic": "運動習慣",
+      "topic": "旅行经验",
+      "intro": "You have agreed to take part in a research study about travel experiences.",
+      "questions": [
+        "Q1: Can you describe your most memorable travel experience?",
+        "Q2: What difficulties have you encountered while traveling?",
+        "Q3: How do you feel travel impacts a person's perspective?",
+        "Q4: What tips would you offer for someone traveling for the first time?"
+      ]
+    },
+    {
+      "topic": "运动习惯",
       "intro": "You have agreed to take part in a research study about exercise habits.",
       "questions": [
         "Q1: What type of exercise do you enjoy the most?",
-        "Q2: Have you encountered any obstacles in maintaining your fitness?",
-        "Q3: In your opinion, how important is exercise for overall well-being?",
-        "Q4: What tips would you offer to someone new to exercising?"
-      ]
-    },
-    {
-      "topic": "藝術欣賞",
-      "intro": "You have agreed to take part in a research study about art appreciation.",
-      "questions": [
-        "Q1: What kind of art do you find most appealing?",
-        "Q2: Have you ever struggled to understand a piece of art?",
-        "Q3: How do you think art influences society today?",
-        "Q4: What would you recommend to someone wanting to learn more about art?"
+        "Q2: Have you ever struggled to maintain a regular exercise routine?",
+        "Q3: Why do you think physical activity is important?",
+        "Q4: What recommendations would you give for staying motivated to exercise?"
       ]
     }
   ]
