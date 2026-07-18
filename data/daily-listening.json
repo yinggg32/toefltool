@@ -1,116 +1,116 @@
 {
   "chooseResponse": [
     {
-      "q": "What time does the library open?",
+      "q": "What do you think about the new library hours?",
       "options": [
-        "8 AM",
-        "9 AM",
-        "10 AM",
-        "7 AM"
+        "They're great!",
+        "I dislike them.",
+        "Not enough time.",
+        "I'm indifferent."
       ],
       "correctIndex": 0
     }
   ],
   "conversation": {
-    "transcript": "Student: Hey, have you heard about the new study group for chemistry?\nAdvisor: Yes, I have! It meets every Wednesday. Are you planning to join?\nStudent: I think I will. I need some help with the lab work.\nAdvisor: That’s a great idea. Collaboration can really help you understand the material better.",
+    "transcript": "Student: Hey, did you hear about the library's new hours?\nAdvisor: Yeah, I just read the notice. They're open later now.\nStudent: I think that’s really convenient for studying.\nAdvisor: Absolutely! It gives students more flexibility with their schedules.",
     "questions": [
       {
         "q": "What is the main topic of the conversation?",
         "options": [
-          "A study group for chemistry",
-          "A lab work project",
-          "An exam schedule",
-          "A tutoring service"
+          "Library hours",
+          "Exam schedules",
+          "Course registration",
+          "Student clubs"
         ],
         "correctIndex": 0,
-        "explain": "對話的主題是關於化學的學習小組。"
+        "explain": "這段對話的主要主題是圖書館的開放時間。"
       },
       {
-        "q": "When does the study group meet?",
+        "q": "How does the student feel about the new hours?",
         "options": [
-          "Every Tuesday",
-          "Every Wednesday",
-          "Every Thursday",
-          "Every Friday"
+          "Excited",
+          "Angry",
+          "Confused",
+          "Indifferent"
         ],
-        "correctIndex": 1,
-        "explain": "學習小組每週三聚會。"
+        "correctIndex": 0,
+        "explain": "學生對新的開放時間感到興奮。"
       }
     ]
   },
   "announcement": {
-    "transcript": "Attention students! The campus bookstore will be holding a clearance sale this weekend. All textbooks and supplies will be 20% off. Don’t miss this chance to stock up on what you need for the semester!",
+    "transcript": "Attention students! The university will be hosting a career fair this Friday in the student center from 10 AM to 3 PM. Many local companies will be present, so bring your resumes and dress professionally. Don't miss this opportunity to network and find internships.",
     "questions": [
       {
-        "q": "What is the announcement about?",
+        "q": "When is the career fair scheduled?",
         "options": [
-          "A bookstore opening",
-          "A clearance sale",
-          "A new textbook policy",
-          "A campus event"
+          "This Friday",
+          "Next Monday",
+          "Tomorrow",
+          "Next week"
         ],
-        "correctIndex": 1,
-        "explain": "公告是關於書店的清貨促銷。"
+        "correctIndex": 0,
+        "explain": "職業博覽會安排在這個星期五。"
       },
       {
-        "q": "How much discount is offered during the sale?",
+        "q": "What should students bring to the career fair?",
         "options": [
-          "10%",
-          "15%",
-          "20%",
-          "25%"
+          "Textbooks",
+          "Resumes",
+          "Laptops",
+          "Snacks"
         ],
-        "correctIndex": 2,
-        "explain": "清貨促銷提供20%的折扣。"
+        "correctIndex": 1,
+        "explain": "學生應帶上簡歷參加職業博覽會。"
       }
     ]
   },
   "talk": {
-    "transcript": "Today, we are going to discuss renewable energy sources. Renewable energy is derived from natural processes that are replenished constantly. Some common sources include solar, wind, and hydroelectric energy. These sources not only help reduce greenhouse gas emissions but also provide sustainable power for our growing energy needs. Transitioning to renewable energy is crucial for combating climate change and ensuring a cleaner environment for future generations.",
+    "transcript": "Today, I want to talk about renewable energy sources. Renewable energy comes from natural processes that are constantly replenished, such as solar, wind, and hydroelectric power. These energy sources are crucial for reducing greenhouse gas emissions and combating climate change. Unlike fossil fuels, which are finite and contribute to pollution, renewable energy is sustainable and has a much lower environmental impact. As technology advances, the efficiency of these energy sources continues to improve, making them more accessible and affordable for everyone.",
     "questions": [
       {
-        "q": "What is the main focus of the talk?",
+        "q": "What are some examples of renewable energy sources mentioned?",
         "options": [
-          "Fossil fuels",
-          "Renewable energy sources",
-          "Energy conservation",
-          "Nuclear energy"
+          "Coal and gas",
+          "Solar and wind",
+          "Nuclear and coal",
+          "Natural gas and oil"
         ],
         "correctIndex": 1,
-        "explain": "演講的主要焦點是可再生能源來源。"
+        "explain": "提到的可再生能源包括太陽能和風能。"
       },
       {
-        "q": "Which one is NOT mentioned as a renewable energy source?",
+        "q": "Why are renewable energy sources important?",
         "options": [
-          "Solar",
-          "Wind",
-          "Nuclear",
-          "Hydroelectric"
+          "They are cheaper than coal.",
+          "They reduce greenhouse gas emissions.",
+          "They increase fossil fuel use.",
+          "They are more popular."
+        ],
+        "correctIndex": 1,
+        "explain": "可再生能源的重要性在於它們能減少溫室氣體排放。"
+      },
+      {
+        "q": "What is a disadvantage of fossil fuels?",
+        "options": [
+          "They are abundant.",
+          "They are non-polluting.",
+          "They contribute to pollution.",
+          "They are easy to find."
         ],
         "correctIndex": 2,
-        "explain": "核能沒有被提到作為可再生能源。"
+        "explain": "化石燃料的一個缺點是它們會造成污染。"
       },
       {
-        "q": "Why is transitioning to renewable energy important?",
+        "q": "How is renewable energy becoming more accessible?",
         "options": [
-          "To increase fossil fuel usage",
-          "To combat climate change",
-          "To decrease electricity costs",
-          "To promote industrial growth"
+          "Through more research funding.",
+          "By increasing fossil fuel production.",
+          "Due to declining technology costs.",
+          "By reducing regulations."
         ],
-        "correctIndex": 1,
-        "explain": "轉向可再生能源對抗氣候變化很重要。"
-      },
-      {
-        "q": "What does renewable energy help reduce?",
-        "options": [
-          "Air pollution",
-          "Energy costs",
-          "Fossil fuel dependence",
-          "Greenhouse gas emissions"
-        ],
-        "correctIndex": 3,
-        "explain": "可再生能源有助於減少溫室氣體排放。"
+        "correctIndex": 2,
+        "explain": "可再生能源變得更可接觸的原因是技術成本的下降。"
       }
     ]
   }

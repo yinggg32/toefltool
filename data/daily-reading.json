@@ -2,107 +2,103 @@
   "cloze": {
     "segments": [
       {
-        "text": "The process of photosynthesis is essential for life on Earth. It involves the conversion of light en"
+        "text": "The theory of relativity, proposed by Albert Einstein in the early 20th century, fundamentally changed our understanding of "
       },
       {
-        "blank": "ergy"
+        "blank": "ph",
+        "text": "ysics. It introduced concepts such as space-time and the "
       },
       {
-        "text": " into chemical energy by plants. During this process, plants take in carbon dioxide and water, which are then transformed into glucose and oxygen. The primary"
+        "blank": "r",
+        "text": "elativity of simultaneity. One key aspect of this theory is that mass and energy are interchangeable, as articulated in the famous equation "
       },
       {
-        "blank": "pigment"
+        "blank": "E",
+        "text": "=mc². This principle has far-reaching implications, influencing both theoretical and applied physics, including areas such as "
       },
       {
-        "text": " responsible for capturing light energy is chlorophyll. This green pigment is found in the chloroplasts of plant cells. Through a series of complex bi"
+        "blank": "n",
+        "text": "uclear energy. Additionally, the theory has been experimentally validated through numerous tests, such as the observation of "
       },
       {
-        "blank": "ochemical"
-      },
-      {
-        "text": " reactions, the energy stored in glucose can later be used by the plant for growth and reproduction. Additionally, photosynthesis plays a crucial role in mai"
-      },
-      {
-        "blank": "ntaining"
-      },
-      {
-        "text": " the balance of oxygen and carbon dioxide in the atmosphere, making it vital for sustaining life on our planet."
+        "blank": "g",
+        "text": "ravity waves, further solidifying its position as a cornerstone of modern physics."
       }
     ]
   },
   "academic": {
-    "passage": "Photosynthesis is a fundamental process by which green plants, algae, and some bacteria convert light energy into chemical energy. This process occurs primarily in the chloroplasts of plant cells, where chlorophyll captures sunlight. Water and carbon dioxide are the main inputs, and glucose along with oxygen are produced as byproducts. The significance of photosynthesis extends beyond individual plants, as it directly influences global carbon cycles and oxygen production, supporting life on Earth.",
+    "passage": "The theory of relativity, developed by Albert Einstein, revolutionized physics by introducing the concepts of space-time and the interchangeability of mass and energy. It showed that time is not absolute and can vary depending on the observer's relative motion. This theory has significant implications in various fields, including astrophysics and cosmology. The famous equation E=mc² encapsulates the relationship between mass and energy, allowing scientists to understand phenomena such as nuclear reactions. Overall, relativity has reshaped our understanding of the universe.",
     "questions": [
       {
         "q": "What is the main idea of the passage?",
         "options": [
-          "Photosynthesis is vital for life and involves the conversion of light energy",
-          "Chlorophyll is the only pigment involved in photosynthesis",
-          "Only algae perform photosynthesis",
-          "Photosynthesis happens in the dark"
+          "The theory of relativity has transformed physics.",
+          "Nuclear reactions are explained by relativity.",
+          "Einstein's biography is significant.",
+          "Space-time is a new concept in physics."
         ],
         "correctIndex": 0,
-        "explain": "這段文字的主題是光合作用的重要性及其過程。"
+        "explain": "這段文字的主要思想是相對論如何改變物理學的理解。"
       },
       {
-        "q": "What are the inputs required for photosynthesis?",
+        "q": "Which equation is famously associated with the theory of relativity?",
         "options": [
-          "Glucose and oxygen",
-          "Carbon dioxide and water",
-          "Sunlight and glucose",
-          "Chlorophyll and oxygen"
+          "F=ma",
+          "E=mc²",
+          "P=IV",
+          "V=IR"
         ],
         "correctIndex": 1,
-        "explain": "光合作用需要二氧化碳和水作為原料。"
+        "explain": "E=mc² 是與相對論關聯的著名方程式。"
       },
       {
-        "q": "What can be inferred about the role of photosynthesis in the environment?",
+        "q": "What inference can be made about the impact of relativity on modern science?",
         "options": [
-          "It decreases oxygen levels",
-          "It helps maintain atmospheric balance",
-          "It is not important for ecosystems",
-          "It consumes more carbon dioxide than it produces"
+          "It is irrelevant to contemporary physics.",
+          "It continues to influence various scientific fields.",
+          "It is only important for theoretical physics.",
+          "It has been completely replaced by new theories."
         ],
         "correctIndex": 1,
-        "explain": "光合作用有助於維持大氣中的氧氣和二氧化碳平衡。"
+        "explain": "相對論的影響仍然存在於許多科學領域，顯示它的持久性。"
       },
       {
-        "q": "What does the term 'chloroplasts' refer to in the passage?",
+        "q": "What does the term 'space-time' refer to in the context of relativity?",
         "options": [
-          "A type of light energy",
-          "The site of photosynthesis in plant cells",
-          "A byproduct of photosynthesis",
-          "An alternative energy source"
+          "A new mathematical model.",
+          "The combination of space and time as a single continuum.",
+          "An outdated scientific concept.",
+          "A type of physical experiment."
         ],
         "correctIndex": 1,
-        "explain": "在這段文字中，'葉綠體'指的是植物細胞中進行光合作用的地方。"
+        "explain": "在相對論中，'空間-時間'是將空間和時間視為一個整體的概念。"
       }
     ]
   },
   "daily": {
-    "passage": "Attention students! The library will be closed this Saturday for maintenance. Please plan your study sessions accordingly. We apologize for any inconvenience.",
+    "passage": "Attention students: The library will be closed for renovations from March 1 to March 15. Please plan accordingly and return all borrowed materials before this date. We appreciate your understanding during this time.",
     "questions": [
       {
         "q": "When will the library be closed?",
         "options": [
-          "This Saturday",
-          "This Sunday",
-          "Next Monday",
-          "Next Saturday"
+          "From March 1 to March 15",
+          "From March 1 to March 10",
+          "From March 15 to March 30",
+          "From February 28 to March 15"
         ],
         "correctIndex": 0,
-        "explain": "圖書館將於本週六關閉進行維護。"
+        "explain": "圖書館將在三月一日至三月十五日關閉。"
       },
       {
-        "q": "Why is the library closing?",
+        "q": "What should students do before the library closes?",
         "options": [
-          "For a holiday",
-          "For maintenance",
-          "For a special event",
-          "For inventory"
+          "Borrow more books",
+          "Return all borrowed materials",
+          "Visit the library for events",
+          "Ignore the notice"
         ],
         "correctIndex": 1,
-        "explain": "圖書館關閉的原因是進行維護。"
+        "explain": "學生應在圖書館關閉之前歸還所有借用的材料。"
       }
     ]
   }

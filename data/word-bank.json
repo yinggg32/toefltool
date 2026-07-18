@@ -5254,5 +5254,101 @@
     "zh": "同情",
     "ex": "Compassion plays a vital role in fostering positive social relationships.",
     "cat": "📰 每日新詞：psychology"
+  },
+  {
+    "word": "disruptive",
+    "pos": "adj.",
+    "root": "disrupt—顛覆, ive形容詞後綴",
+    "zh": "顛覆性的",
+    "ex": "Disruptive technologies can significantly alter market dynamics and consumer expectations.",
+    "cat": "📰 每日新詞：technology and innovation"
+  },
+  {
+    "word": "internet",
+    "pos": "n.",
+    "root": "inter—相互, net網絡",
+    "zh": "網際網路",
+    "ex": "The internet has become an essential tool for research and collaboration.",
+    "cat": "📰 每日新詞：technology and innovation"
+  },
+  {
+    "word": "telecommunications",
+    "pos": "n.",
+    "root": "tele—遠程, communicat—通訊, ions名詞後綴",
+    "zh": "電信",
+    "ex": "Telecommunications technologies facilitate global communication across vast distances.",
+    "cat": "📰 每日新詞：technology and innovation"
+  },
+  {
+    "word": "semiconductor",
+    "pos": "n.",
+    "root": "semi—半, conductor導體",
+    "zh": "半導體",
+    "ex": "Semiconductors are fundamental components in modern electronic devices.",
+    "cat": "📰 每日新詞：technology and innovation"
+  },
+  {
+    "word": "iteration",
+    "pos": "n.",
+    "root": "iterate—重複, ion名詞後綴",
+    "zh": "迭代",
+    "ex": "The iterative design process allows for continuous improvement of products.",
+    "cat": "📰 每日新詞：technology and innovation"
+  },
+  {
+    "word": "encryption",
+    "pos": "n.",
+    "root": "encrypt—加密, ion名詞後綴",
+    "zh": "加密",
+    "ex": "Encryption is essential for securing sensitive data during transmission.",
+    "cat": "📰 每日新詞：technology and innovation"
+  },
+  {
+    "word": "streamline",
+    "pos": "v.",
+    "root": "stream—流, line線",
+    "zh": "簡化",
+    "ex": "To streamline operations, companies often adopt new technologies.",
+    "cat": "📰 每日新詞：technology and innovation"
+  },
+  {
+    "word": "resourceful",
+    "pos": "adj.",
+    "root": "resource—資源, ful形容詞後綴",
+    "zh": "足智多謀的",
+    "ex": "Being resourceful is vital for innovators in overcoming challenges.",
+    "cat": "📰 每日新詞：technology and innovation"
+  },
+  {
+    "word": "emerging",
+    "pos": "adj.",
+    "root": "emerge—出現, ing現在分詞",
+    "zh": "新興的",
+    "ex": "Emerging technologies are reshaping various sectors including healthcare and finance.",
+    "cat": "📰 每日新詞：technology and innovation"
+  },
+  {
+    "word": "repository",
+    "pos": "n.",
+    "root": "re—再, pository存放的",
+    "zh": "存儲庫",
+    "ex": "A digital repository can enhance access to academic resources.",
+    "cat": "📰 每日新詞：technology and innovation"
+  },
+  {
+    "word": "dissemination",
+    "pos": "n.",
+    "root": "disseminate—散播, ion名詞後綴",
+    "zh": "傳播",
+    "ex": "The dissemination of research findings is essential for advancing knowledge.",
+    "cat": "📰 每日新詞：technology and innovation"
+  },
+  {
+    "word": "quantitative",
+    "pos": "adj.",
+    "root": "quant—數量, itative形容詞後綴",
+    "zh": "定量的",
+    "ex": "Quantitative analysis is often used to assess the impact of technological innovations.",
+    "cat": "📰 每日新詞：technology and innovation"
   }
 ]

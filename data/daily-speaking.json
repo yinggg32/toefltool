@@ -1,45 +1,45 @@
 {
   "shadowSentences": [
-    "I love reading books in my free time.",
-    "Cooking is one of my favorite hobbies.",
-    "My friends and I often play board games together.",
-    "Traveling to new places always excites me.",
-    "I enjoy listening to music while I study.",
-    "Spending time in nature helps me relax.",
-    "I like to try different cuisines when I eat out.",
-    "Learning new languages can be challenging yet fun.",
-    "Going to the gym regularly keeps me healthy and active.",
-    "Finding a good work-life balance is essential for happiness."
+    "I like to read books.",
+    "Do you enjoy cooking at home?",
+    "Let's go for a walk in the park.",
+    "She sings beautifully in the choir.",
+    "He often plays soccer with his friends.",
+    "We should try that new Italian restaurant.",
+    "They enjoy traveling to different countries every year.",
+    "I take a yoga class every Saturday morning.",
+    "My favorite hobby is painting landscapes on weekends.",
+    "I've been learning to play the guitar for over a year now."
   ],
   "interviewScenarios": [
     {
-      "topic": "環保意識",
-      "intro": "You have agreed to take part in a research study about environmental awareness.",
+      "topic": "家庭旅行",
+      "intro": "You have agreed to take part in a research study about family vacations.",
       "questions": [
-        "Q1: Can you share a personal experience that made you more aware of environmental issues?",
-        "Q2: What do you think are some common challenges people face when trying to be more eco-friendly?",
-        "Q3: In your opinion, why is it important for individuals to care about the environment?",
-        "Q4: What advice would you give to someone wanting to live a more sustainable lifestyle?"
+        "Q1: Can you share a memorable family vacation you had?",
+        "Q2: What challenges did your family face during that trip?",
+        "Q3: In your opinion, why are family vacations important?",
+        "Q4: What advice would you give to families planning a vacation together?"
       ]
     },
     {
-      "topic": "遠程工作",
-      "intro": "You have agreed to take part in a research study about remote work.",
+      "topic": "飲食習慣",
+      "intro": "You have agreed to take part in a research study about eating habits.",
       "questions": [
-        "Q1: What has been your experience with working remotely?",
-        "Q2: What challenges do you think people face when working from home?",
-        "Q3: What are your thoughts on the future of remote work?",
-        "Q4: Can you suggest some tips for staying productive while working remotely?"
+        "Q1: What is your typical daily diet like?",
+        "Q2: Have you ever faced any difficulties maintaining healthy eating habits?",
+        "Q3: How important do you think it is to have a balanced diet?",
+        "Q4: What tips would you give to someone trying to eat healthier?"
       ]
     },
     {
       "topic": "志願服務",
       "intro": "You have agreed to take part in a research study about volunteering.",
       "questions": [
-        "Q1: Can you describe a time when you volunteered and what you did?",
-        "Q2: What do you think are some obstacles that prevent people from volunteering?",
-        "Q3: Why do you believe volunteering is beneficial for individuals and communities?",
-        "Q4: What recommendations do you have for someone considering volunteering for the first time?"
+        "Q1: Can you describe a volunteering experience you have had?",
+        "Q2: What challenges did you encounter while volunteering?",
+        "Q3: What is your opinion on the impact of volunteering in communities?",
+        "Q4: How would you encourage someone to start volunteering?"
       ]
     }
   ]
