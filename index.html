@@ -423,6 +423,16 @@ footer.note{
         <p>新制口說沒有準備時間，重點是「即時反應力」與「聽到立刻覆述的記憶力」，不再是套模板。</p>
       </div>
 
+      <div class="card" style="padding:14px 16px;">
+        <h3 style="margin-bottom:6px;">🔈 語音設定</h3>
+        <p style="font-size:12px;color:var(--ink-soft);margin:0 0 10px;">系統預設常常選到最陽春的機器音。這裡列出你裝置上所有英文語音，換一個聽起來自然的（Mac 建議 Samantha 或 Ava，Chrome 建議 Google US English）。選過的會記住。</p>
+        <div style="display:flex;gap:8px;flex-wrap:wrap;align-items:center;">
+          <select id="voiceSelect" style="flex:1;min-width:200px;"></select>
+          <button class="btn ghost" id="voiceTestBtn">試聽</button>
+        </div>
+        <p style="font-size:11px;color:var(--ink-soft);margin-top:8px;">找不到好聽的？Mac 可到「系統設定 → 輔助使用 → 朗讀內容 → 系統聲音 → 管理聲音」下載 Enhanced／Premium 版本的語音，下載後重新整理這頁就會出現。</p>
+      </div>
+
       <div class="card">
         <h3><span class="chip">Listen and Repeat</span> 跟讀記憶訓練</h3>
         <p style="font-size:13px;color:var(--ink-soft);margin:0 0 4px;">點「播放語音」用電腦語音唸出句子（不會顯示文字），聽完立刻大聲覆述，之後再點「顯示逐字稿」核對。句子難度偏簡單，重點是練反應速度而不是內容深度。</p>
@@ -848,15 +858,76 @@ let shadowSentences = [
 ];
 let shadowIdx = 0;
 document.getElementById('shadowTotal').textContent = shadowSentences.length;
+/* ---------------- SHARED TTS ENGINE ----------------
+   Default browser voices are often the lowest-quality fallback. We look for the
+   better neural/premium voices most systems ship with, and let the user override. */
+let availableVoices = [];
+let preferredVoiceName = null;
+try{ preferredVoiceName = localStorage.getItem('toefl-voice') || null; }catch(e){}
+
+// Ordered by how natural they usually sound. First match wins.
+const GOOD_VOICE_HINTS = [
+  'Ava (Premium)','Ava (Enhanced)','Ava','Samantha','Allison','Susan','Zoe (Premium)','Zoe',
+  'Google US English','Microsoft Aria','Microsoft Jenny','Microsoft Guy','Daniel','Karen','Serena'
+];
+function pickBestVoice(){
+  if(!availableVoices.length) return null;
+  if(preferredVoiceName){
+    const chosen = availableVoices.find(v=>v.name===preferredVoiceName);
+    if(chosen) return chosen;
+  }
+  for(const hint of GOOD_VOICE_HINTS){
+    const match = availableVoices.find(v=>v.name===hint && /^en/i.test(v.lang));
+    if(match) return match;
+  }
+  for(const hint of GOOD_VOICE_HINTS){
+    const match = availableVoices.find(v=>v.name.includes(hint) && /^en/i.test(v.lang));
+    if(match) return match;
+  }
+  return availableVoices.find(v=>/^en-US/i.test(v.lang)) || availableVoices.find(v=>/^en/i.test(v.lang)) || null;
+}
+function refreshVoiceList(){
+  try{ availableVoices = window.speechSynthesis.getVoices() || []; }catch(e){ availableVoices = []; }
+  const sel = document.getElementById('voiceSelect');
+  if(!sel) return;
+  const english = availableVoices.filter(v=>/^en/i.test(v.lang));
+  if(!english.length) return;
+  sel.innerHTML = '';
+  const best = pickBestVoice();
+  english.forEach(v=>{
+    const o = document.createElement('option');
+    o.value = v.name;
+    o.textContent = v.name + ' (' + v.lang + ')';
+    if(best && v.name===best.name) o.selected = true;
+    sel.appendChild(o);
+  });
+}
+if(typeof window.speechSynthesis!=='undefined'){
+  refreshVoiceList();
+  window.speechSynthesis.onvoiceschanged = refreshVoiceList;
+}
 function speak(text){
   try{
     window.speechSynthesis.cancel();
     const u = new SpeechSynthesisUtterance(text);
-    u.lang = 'en-US';
-    u.rate = 0.95;
+    const voice = pickBestVoice();
+    if(voice){ u.voice = voice; u.lang = voice.lang; }
+    else { u.lang = 'en-US'; }
+    u.rate = 0.92;   // slightly slower reads as less robotic
+    u.pitch = 1.05;  // a touch of lift away from the flat default
     window.speechSynthesis.speak(u);
     return true;
   }catch(e){ return false; }
+}
+const voiceSelectEl = document.getElementById('voiceSelect');
+if(voiceSelectEl){
+  voiceSelectEl.addEventListener('change', ()=>{
+    preferredVoiceName = voiceSelectEl.value;
+    try{ localStorage.setItem('toefl-voice', preferredVoiceName); }catch(e){}
+  });
+  document.getElementById('voiceTestBtn').addEventListener('click', ()=>{
+    speak('This is how the reading and listening passages will sound.');
+  });
 }
 document.getElementById('shadowPlay').addEventListener('click',()=>{
   const ok = speak(shadowSentences[shadowIdx]);
@@ -1430,8 +1501,7 @@ loadRemoteBank();
 loadRemoteMeta();
 
 function speakListening(text){
-  try{ window.speechSynthesis.cancel(); const u = new SpeechSynthesisUtterance(text); u.lang='en-US'; u.rate=0.95; window.speechSynthesis.speak(u); return true; }
-  catch(e){ return false; }
+  return speak(text);
 }
 function addPlayButton(targetId, getText){
   const target = document.getElementById(targetId);
