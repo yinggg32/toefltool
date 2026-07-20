@@ -1,45 +1,45 @@
 {
   "shadowSentences": [
-    "I like to read books.",
-    "Do you enjoy cooking at home?",
-    "Let's go for a walk in the park.",
-    "She sings beautifully in the choir.",
-    "He often plays soccer with his friends.",
-    "We should try that new Italian restaurant.",
-    "They enjoy traveling to different countries every year.",
-    "I take a yoga class every Saturday morning.",
-    "My favorite hobby is painting landscapes on weekends.",
-    "I've been learning to play the guitar for over a year now."
+    "The sun is shining brightly.",
+    "She loves to read books every day.",
+    "We should try that new restaurant tonight.",
+    "He runs every morning to stay fit.",
+    "Traveling can be a great way to learn.",
+    "I enjoy listening to music while working.",
+    "Cooking at home is healthier and cheaper.",
+    "Weekends are perfect for relaxing and recharging.",
+    "Gardening can be a rewarding and peaceful hobby.",
+    "Volunteering helps build community and makes a difference."
   ],
   "interviewScenarios": [
     {
-      "topic": "家庭旅行",
-      "intro": "You have agreed to take part in a research study about family vacations.",
+      "topic": "環保意識",
+      "intro": "You have agreed to take part in a research study about environmental awareness.",
       "questions": [
-        "Q1: Can you share a memorable family vacation you had?",
-        "Q2: What challenges did your family face during that trip?",
-        "Q3: In your opinion, why are family vacations important?",
-        "Q4: What advice would you give to families planning a vacation together?"
+        "Q1: Can you share a time when you took action to help the environment?",
+        "Q2: What challenges do you face when trying to be more eco-friendly?",
+        "Q3: Why do you think environmental awareness is important today?",
+        "Q4: What advice would you give someone looking to reduce their environmental impact?"
       ]
     },
     {
-      "topic": "飲食習慣",
-      "intro": "You have agreed to take part in a research study about eating habits.",
+      "topic": "閱讀習慣",
+      "intro": "You have agreed to take part in a research study about reading habits.",
       "questions": [
-        "Q1: What is your typical daily diet like?",
-        "Q2: Have you ever faced any difficulties maintaining healthy eating habits?",
-        "Q3: How important do you think it is to have a balanced diet?",
-        "Q4: What tips would you give to someone trying to eat healthier?"
+        "Q1: What type of books do you enjoy reading the most?",
+        "Q2: How do you find time to read amidst your busy schedule?",
+        "Q3: In your opinion, how does reading benefit personal development?",
+        "Q4: What tips would you give to someone who wants to read more?"
       ]
     },
     {
-      "topic": "志願服務",
-      "intro": "You have agreed to take part in a research study about volunteering.",
+      "topic": "運動對健康的影響",
+      "intro": "You have agreed to take part in a research study about the impact of exercise on health.",
       "questions": [
-        "Q1: Can you describe a volunteering experience you have had?",
-        "Q2: What challenges did you encounter while volunteering?",
-        "Q3: What is your opinion on the impact of volunteering in communities?",
-        "Q4: How would you encourage someone to start volunteering?"
+        "Q1: What sports or physical activities do you enjoy the most?",
+        "Q2: Have you ever faced any barriers to exercising regularly?",
+        "Q3: How do you believe exercise influences mental health?",
+        "Q4: What encouragement would you give someone hesitant to start exercising?"
       ]
     }
   ]

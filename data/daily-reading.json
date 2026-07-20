@@ -2,103 +2,89 @@
   "cloze": {
     "segments": [
       {
-        "text": "The theory of relativity, proposed by Albert Einstein in the early 20th century, fundamentally changed our understanding of "
+        "text": "The process of photosynthesis is essential for plants, allowing them to produce their own food. It begins when chlorophyll in the leaves absorbs sunlight, which provides the necessary energy. Water, taken up by the roots, is combined with carbon dio"
       },
       {
-        "blank": "ph",
-        "text": "ysics. It introduced concepts such as space-time and the "
+        "blank": "xide"
       },
       {
-        "blank": "r",
-        "text": "elativity of simultaneity. One key aspect of this theory is that mass and energy are interchangeable, as articulated in the famous equation "
-      },
-      {
-        "blank": "E",
-        "text": "=mc². This principle has far-reaching implications, influencing both theoretical and applied physics, including areas such as "
-      },
-      {
-        "blank": "n",
-        "text": "uclear energy. Additionally, the theory has been experimentally validated through numerous tests, such as the observation of "
-      },
-      {
-        "blank": "g",
-        "text": "ravity waves, further solidifying its position as a cornerstone of modern physics."
+        "text": " from the air to create glucose, a type of sugar. This glucose not only serves as food for the plant but is also converted into other forms of energy. Additionally, the oxygen produced during photosynthesis is released into the air, which is crucial for the survival of most life forms. Overall, photosynthesis is a complex but vital process that sustains life on Earth."
       }
     ]
   },
   "academic": {
-    "passage": "The theory of relativity, developed by Albert Einstein, revolutionized physics by introducing the concepts of space-time and the interchangeability of mass and energy. It showed that time is not absolute and can vary depending on the observer's relative motion. This theory has significant implications in various fields, including astrophysics and cosmology. The famous equation E=mc² encapsulates the relationship between mass and energy, allowing scientists to understand phenomena such as nuclear reactions. Overall, relativity has reshaped our understanding of the universe.",
+    "passage": "Photosynthesis is the process by which green plants and some other organisms use sunlight to synthesize foods with the help of chlorophyll. This process converts light energy into chemical energy, which is stored in the form of glucose. Plants absorb carbon dioxide from the atmosphere and water from the soil, releasing oxygen as a byproduct. It plays a critical role in the carbon cycle and significantly impacts global ecosystems and climate. Understanding photosynthesis helps scientists develop strategies for improving crop yields and addressing climate change.",
     "questions": [
       {
         "q": "What is the main idea of the passage?",
         "options": [
-          "The theory of relativity has transformed physics.",
-          "Nuclear reactions are explained by relativity.",
-          "Einstein's biography is significant.",
-          "Space-time is a new concept in physics."
+          "Photosynthesis allows plants to create their own food.",
+          "Chlorophyll is essential for photosynthesis.",
+          "Oxygen is a byproduct of photosynthesis.",
+          "Photosynthesis impacts climate change."
         ],
         "correctIndex": 0,
-        "explain": "這段文字的主要思想是相對論如何改變物理學的理解。"
+        "explain": "這段文字的主要思想是光合作用使植物能夠自行製造食物。"
       },
       {
-        "q": "Which equation is famously associated with the theory of relativity?",
+        "q": "What do plants absorb during photosynthesis?",
         "options": [
-          "F=ma",
-          "E=mc²",
-          "P=IV",
-          "V=IR"
+          "Sunlight and carbon dioxide",
+          "Nutrients and minerals",
+          "Soil and sunlight",
+          "Chlorophyll and water"
         ],
-        "correctIndex": 1,
-        "explain": "E=mc² 是與相對論關聯的著名方程式。"
+        "correctIndex": 0,
+        "explain": "植物在光合作用中吸收陽光和二氧化碳。"
       },
       {
-        "q": "What inference can be made about the impact of relativity on modern science?",
+        "q": "What can be inferred about the relationship between photosynthesis and the carbon cycle?",
         "options": [
-          "It is irrelevant to contemporary physics.",
-          "It continues to influence various scientific fields.",
-          "It is only important for theoretical physics.",
-          "It has been completely replaced by new theories."
+          "Photosynthesis has no effect on the carbon cycle.",
+          "Photosynthesis contributes to the carbon cycle.",
+          "Photosynthesis depletes carbon dioxide in the atmosphere.",
+          "Photosynthesis is harmful to ecosystems."
         ],
         "correctIndex": 1,
-        "explain": "相對論的影響仍然存在於許多科學領域，顯示它的持久性。"
+        "explain": "可以推斷光合作用對碳循環有貢獻。"
       },
       {
-        "q": "What does the term 'space-time' refer to in the context of relativity?",
+        "q": "What does the term 'chemical energy' refer to in the context of the passage?",
         "options": [
-          "A new mathematical model.",
-          "The combination of space and time as a single continuum.",
-          "An outdated scientific concept.",
-          "A type of physical experiment."
+          "Energy stored in food molecules",
+          "Energy used by plants to grow",
+          "Energy from sunlight",
+          "Energy released during respiration"
         ],
-        "correctIndex": 1,
-        "explain": "在相對論中，'空間-時間'是將空間和時間視為一個整體的概念。"
+        "correctIndex": 0,
+        "explain": "在這段文字中，'化學能'是指儲存在食物分子中的能量。"
       }
     ]
   },
   "daily": {
-    "passage": "Attention students: The library will be closed for renovations from March 1 to March 15. Please plan accordingly and return all borrowed materials before this date. We appreciate your understanding during this time.",
+    "passage": "The library will be closed for maintenance this Saturday from 9 AM to 5 PM. Please ensure that you return all borrowed materials before this time. We apologize for any inconvenience and appreciate your understanding.",
     "questions": [
       {
         "q": "When will the library be closed?",
         "options": [
-          "From March 1 to March 15",
-          "From March 1 to March 10",
-          "From March 15 to March 30",
-          "From February 28 to March 15"
+          "Friday",
+          "Saturday",
+          "Sunday",
+          "Monday"
         ],
-        "correctIndex": 0,
-        "explain": "圖書館將在三月一日至三月十五日關閉。"
+        "correctIndex": 1,
+        "explain": "圖書館將在星期六關閉。"
       },
       {
         "q": "What should students do before the library closes?",
         "options": [
-          "Borrow more books",
-          "Return all borrowed materials",
-          "Visit the library for events",
-          "Ignore the notice"
+          "Borrow new materials",
+          "Return borrowed materials",
+          "Attend a seminar",
+          "Join a study group"
         ],
         "correctIndex": 1,
-        "explain": "學生應在圖書館關閉之前歸還所有借用的材料。"
+        "explain": "學生應在圖書館關閉之前歸還所借材料。"
       }
     ]
   }

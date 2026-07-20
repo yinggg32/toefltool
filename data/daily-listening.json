@@ -1,116 +1,116 @@
 {
   "chooseResponse": [
     {
-      "q": "What do you think about the new library hours?",
+      "q": "How did the exam go?",
       "options": [
-        "They're great!",
-        "I dislike them.",
-        "Not enough time.",
-        "I'm indifferent."
+        "It was really hard.",
+        "I didn't study for it.",
+        "I think I did well.",
+        "I forgot about it."
       ],
-      "correctIndex": 0
+      "correctIndex": 2
     }
   ],
   "conversation": {
-    "transcript": "Student: Hey, did you hear about the library's new hours?\nAdvisor: Yeah, I just read the notice. They're open later now.\nStudent: I think that’s really convenient for studying.\nAdvisor: Absolutely! It gives students more flexibility with their schedules.",
+    "transcript": "Student: Hey, did you hear about the new art exhibit at the gallery?\nAdvisor: Yes, I heard it's quite impressive. Have you been yet?\nStudent: Not yet, but I’m planning to go this weekend.\nAdvisor: That sounds great! Are you going with anyone?",
     "questions": [
       {
         "q": "What is the main topic of the conversation?",
         "options": [
-          "Library hours",
-          "Exam schedules",
-          "Course registration",
-          "Student clubs"
+          "A new art exhibit",
+          "An upcoming exam",
+          "A project deadline",
+          "A student club meeting"
         ],
         "correctIndex": 0,
-        "explain": "這段對話的主要主題是圖書館的開放時間。"
+        "explain": "這段對話的主題是關於新藝術展覽。"
       },
       {
-        "q": "How does the student feel about the new hours?",
+        "q": "When does the student plan to visit the exhibit?",
         "options": [
-          "Excited",
-          "Angry",
-          "Confused",
-          "Indifferent"
+          "This weekend",
+          "Next week",
+          "Today",
+          "Tomorrow"
         ],
         "correctIndex": 0,
-        "explain": "學生對新的開放時間感到興奮。"
+        "explain": "學生計劃在這個週末參觀展覽。"
       }
     ]
   },
   "announcement": {
-    "transcript": "Attention students! The university will be hosting a career fair this Friday in the student center from 10 AM to 3 PM. Many local companies will be present, so bring your resumes and dress professionally. Don't miss this opportunity to network and find internships.",
+    "transcript": "Attention students: The library will be closed for maintenance this Saturday from 9 AM to 5 PM. Please plan to return your books before then and make use of online resources. Thank you for your understanding.",
     "questions": [
       {
-        "q": "When is the career fair scheduled?",
+        "q": "Why will the library be closed?",
         "options": [
-          "This Friday",
-          "Next Monday",
-          "Tomorrow",
-          "Next week"
-        ],
-        "correctIndex": 0,
-        "explain": "職業博覽會安排在這個星期五。"
-      },
-      {
-        "q": "What should students bring to the career fair?",
-        "options": [
-          "Textbooks",
-          "Resumes",
-          "Laptops",
-          "Snacks"
+          "For a holiday",
+          "For maintenance",
+          "For a special event",
+          "For inventory checks"
         ],
         "correctIndex": 1,
-        "explain": "學生應帶上簡歷參加職業博覽會。"
+        "explain": "圖書館將於本周六關閉，因為需要維修。"
+      },
+      {
+        "q": "What should students do before Saturday?",
+        "options": [
+          "Pick up new books",
+          "Return their books",
+          "Join a study group",
+          "Attend a workshop"
+        ],
+        "correctIndex": 1,
+        "explain": "學生應該在星期六之前歸還他們的書籍。"
       }
     ]
   },
   "talk": {
-    "transcript": "Today, I want to talk about renewable energy sources. Renewable energy comes from natural processes that are constantly replenished, such as solar, wind, and hydroelectric power. These energy sources are crucial for reducing greenhouse gas emissions and combating climate change. Unlike fossil fuels, which are finite and contribute to pollution, renewable energy is sustainable and has a much lower environmental impact. As technology advances, the efficiency of these energy sources continues to improve, making them more accessible and affordable for everyone.",
+    "transcript": "Today, I want to discuss the concept of sustainable development. Sustainable development refers to meeting the needs of the present without compromising the ability of future generations to meet their own needs. It encompasses various aspects such as economic growth, environmental protection, and social equity. The idea is to create a balance where development satisfies current demands while ensuring that the resources will be available for future use. This approach can lead to innovative practices in energy use, transportation, and urban planning, ultimately fostering a healthier planet.",
     "questions": [
       {
-        "q": "What are some examples of renewable energy sources mentioned?",
+        "q": "What is sustainable development?",
         "options": [
-          "Coal and gas",
-          "Solar and wind",
-          "Nuclear and coal",
-          "Natural gas and oil"
+          "Short-term growth",
+          "Meeting current and future needs",
+          "Economic decline",
+          "Environmental degradation"
         ],
         "correctIndex": 1,
-        "explain": "提到的可再生能源包括太陽能和風能。"
+        "explain": "可持續發展是指滿足當前需求而不損害未來世代需求的能力。"
       },
       {
-        "q": "Why are renewable energy sources important?",
+        "q": "What are the three aspects of sustainable development mentioned?",
         "options": [
-          "They are cheaper than coal.",
-          "They reduce greenhouse gas emissions.",
-          "They increase fossil fuel use.",
-          "They are more popular."
+          "Economic growth, social equity, and health",
+          "Environmental protection, economic growth, social equity",
+          "Technology, economy, and environment",
+          "Education, health, and community"
         ],
         "correctIndex": 1,
-        "explain": "可再生能源的重要性在於它們能減少溫室氣體排放。"
+        "explain": "提到的三個方面是環境保護、經濟增長和社會公平。"
       },
       {
-        "q": "What is a disadvantage of fossil fuels?",
+        "q": "How does sustainable development benefit future generations?",
         "options": [
-          "They are abundant.",
-          "They are non-polluting.",
-          "They contribute to pollution.",
-          "They are easy to find."
+          "By exploiting resources now",
+          "By ensuring resources remain available",
+          "By encouraging waste",
+          "By limiting education"
         ],
-        "correctIndex": 2,
-        "explain": "化石燃料的一個缺點是它們會造成污染。"
+        "correctIndex": 1,
+        "explain": "可持續發展通過確保資源仍然可用來使未來世代受益。"
       },
       {
-        "q": "How is renewable energy becoming more accessible?",
+        "q": "Which field can benefit from sustainable development practices?",
         "options": [
-          "Through more research funding.",
-          "By increasing fossil fuel production.",
-          "Due to declining technology costs.",
-          "By reducing regulations."
+          "Transportation",
+          "Manufacturing",
+          "Retail",
+          "All of the above"
         ],
-        "correctIndex": 2,
-        "explain": "可再生能源變得更可接觸的原因是技術成本的下降。"
+        "correctIndex": 3,
+        "explain": "所有這些領域都可以受益於可持續發展實踐。"
       }
     ]
   }

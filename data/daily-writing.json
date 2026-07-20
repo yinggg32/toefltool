@@ -2,127 +2,132 @@
   "buildSentences": [
     {
       "words": [
+        "the",
         "students",
-        "enjoy",
-        "learning",
-        "about",
-        "different",
-        "cultures",
-        "in",
-        "school"
+        "are",
+        "required",
+        "to",
+        "submit",
+        "their",
+        "assignments"
       ],
-      "display": "Students enjoy learning about different cultures in school."
+      "display": "The students are required to submit their assignments."
     },
     {
       "words": [
         "the",
         "library",
         "is",
-        "quiet",
-        "place",
-        "to",
-        "study",
-        "effectively"
+        "hosting",
+        "a",
+        "workshop",
+        "on",
+        "research",
+        "methods"
       ],
-      "display": "The library is a quiet place to study effectively."
+      "display": "The library is hosting a workshop on research methods."
+    },
+    {
+      "words": [
+        "many",
+        "people",
+        "believe",
+        "that",
+        "success",
+        "is",
+        "based",
+        "on",
+        "hard",
+        "work"
+      ],
+      "display": "Many people believe that success is based on hard work."
+    },
+    {
+      "words": [
+        "we",
+        "should",
+        "discuss",
+        "the",
+        "effects",
+        "of",
+        "climate",
+        "change",
+        "on",
+        "biodiversity"
+      ],
+      "display": "We should discuss the effects of climate change on biodiversity."
+    },
+    {
+      "words": [
+        "attending",
+        "seminars",
+        "can",
+        "help",
+        "students",
+        "enhance",
+        "their",
+        "knowledge"
+      ],
+      "display": "Attending seminars can help students enhance their knowledge."
     },
     {
       "words": [
         "the",
         "professor",
-        "gave",
+        "encouraged",
         "us",
-        "an",
-        "interesting",
-        "assignment",
-        "today"
-      ],
-      "display": "The professor gave us an interesting assignment today."
-    },
-    {
-      "words": [
-        "they",
-        "decided",
         "to",
-        "form",
-        "a",
-        "new",
-        "student",
-        "organization"
+        "participate",
+        "in",
+        "the",
+        "research",
+        "project"
       ],
-      "display": "They decided to form a new student organization."
+      "display": "The professor encouraged us to participate in the research project."
     },
     {
       "words": [
-        "participating",
+        "the",
+        "new",
+        "policy",
+        "aims",
+        "to",
+        "improve",
+        "student",
+        "academic",
+        "performance"
+      ],
+      "display": "The new policy aims to improve student academic performance."
+    },
+    {
+      "words": [
+        "participation",
         "in",
         "extracurricular",
         "activities",
-        "helps",
-        "students",
-        "develop",
-        "skills"
-      ],
-      "display": "Participating in extracurricular activities helps students develop skills."
-    },
-    {
-      "words": [
-        "the",
-        "debate",
-        "team",
-        "practices",
-        "every",
-        "week",
-        "to",
-        "prepare",
+        "is",
+        "important",
         "for",
-        "competitions"
+        "personal",
+        "growth"
       ],
-      "display": "The debate team practices every week to prepare for competitions."
-    },
-    {
-      "words": [
-        "volunteering",
-        "in",
-        "the",
-        "community",
-        "can",
-        "be",
-        "a",
-        "rewarding",
-        "experience"
-      ],
-      "display": "Volunteering in the community can be a rewarding experience."
-    },
-    {
-      "words": [
-        "students",
-        "should",
-        "manage",
-        "their",
-        "time",
-        "effectively",
-        "to",
-        "avoid",
-        "stress"
-      ],
-      "display": "Students should manage their time effectively to avoid stress."
+      "display": "Participation in extracurricular activities is important for personal growth."
     }
   ],
   "emailPrompts": [
-    "寄信給教授，詢問課程內容的詳細說明。",
-    "寄信給宿舍辦公室，請求維修燈具。",
-    "寄信給圖書館，反映借書系統的問題。",
-    "寄信給學生會，報名參加即將舉行的活動。",
-    "寄信給客服，詢問訂單的送貨狀態。",
-    "寄信給校友會，請求參加即將舉行的聚會。"
+    "寄信給教授，請教自己在課堂上不懂的問題。",
+    "寄信給宿舍辦公室，詢問關於宿舍分配的問題。",
+    "寄信給圖書館，提出對於延長開放時間的建議。",
+    "寄信給社團，表達自己希望參加該社團的興趣。",
+    "寄信給客服，要求退換一件有缺陷的商品。",
+    "寄信給學校活動組，詢問即將舉行的講座的詳細信息。"
   ],
   "discussionPrompts": [
-    "教授問：「你認為科技對教育的影響是正面還是負面？」",
-    "教授問：「氣候變化對社會的未來有何影響？」",
-    "教授問：「文化多樣性如何影響創意思維？」",
-    "教授問：「社會媒體對青年的心理健康有何影響？」",
-    "教授問：「政府在促進經濟發展中的角色應該是什麼？」",
-    "教授問：「全球化對地方文化的影響是什麼？」"
+    "教授問：「科技對於教育的影響是正面還是負面？」",
+    "教授問：「社交媒體在當今社會中的角色是什麼？」",
+    "教授問：「應該如何解決全球暖化問題？」",
+    "教授問：「藝術教育對學生的發展有多重要？」",
+    "教授問：「在多元文化的社會中，如何促進包容性？」",
+    "教授問：「網絡隱私問題是否應該受到更多關注？」"
   ]
 }

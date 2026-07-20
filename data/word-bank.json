@@ -5350,5 +5350,85 @@
     "zh": "定量的",
     "ex": "Quantitative analysis is often used to assess the impact of technological innovations.",
     "cat": "📰 每日新詞：technology and innovation"
+  },
+  {
+    "word": "accent",
+    "pos": "n.",
+    "root": "重 + stress",
+    "zh": "口音",
+    "ex": "An accent can reveal a speaker's regional or social background.",
+    "cat": "📰 每日新詞：linguistics"
+  },
+  {
+    "word": "aphasia",
+    "pos": "n.",
+    "root": "無 + without + 語言 + language",
+    "zh": "失語症",
+    "ex": "Aphasia is a disorder that affects a person's ability to communicate.",
+    "cat": "📰 每日新詞：linguistics"
+  },
+  {
+    "word": "ellipsis",
+    "pos": "n.",
+    "root": "省略 + omit",
+    "zh": "省略",
+    "ex": "Ellipsis involves omitting parts of a sentence for brevity.",
+    "cat": "📰 每日新詞：linguistics"
+  },
+  {
+    "word": "mimetic",
+    "pos": "adj.",
+    "root": "模仿 + imitate",
+    "zh": "模擬的",
+    "ex": "Mimetic language imitates natural sounds for expressive effects.",
+    "cat": "📰 每日新詞：linguistics"
+  },
+  {
+    "word": "euphemism",
+    "pos": "n.",
+    "root": "婉 + pleasant + 辭 + word",
+    "zh": "委婉語",
+    "ex": "Euphemisms are often used to soften the impact of difficult topics.",
+    "cat": "📰 每日新詞：linguistics"
+  },
+  {
+    "word": "antonym",
+    "pos": "n.",
+    "root": "反 + against + 詞 + word",
+    "zh": "反義詞",
+    "ex": "An antonym is a word that has the opposite meaning of another.",
+    "cat": "📰 每日新詞：linguistics"
+  },
+  {
+    "word": "hyponym",
+    "pos": "n.",
+    "root": "下 + under + 詞 + word",
+    "zh": "下義詞",
+    "ex": "A hyponym refers to a more specific term within a broader category.",
+    "cat": "📰 每日新詞：linguistics"
+  },
+  {
+    "word": "onomatopoeia",
+    "pos": "n.",
+    "root": "擬聲 + sound + 名詞 + noun",
+    "zh": "擬聲詞",
+    "ex": "Onomatopoeia refers to words that phonetically imitate sounds.",
+    "cat": "📰 每日新詞：linguistics"
+  },
+  {
+    "word": "mismatch",
+    "pos": "n./v.",
+    "root": "不 + not + 匹配 + match",
+    "zh": "不匹配",
+    "ex": "A mismatch in linguistic expectations can lead to communication errors.",
+    "cat": "📰 每日新詞：linguistics"
+  },
+  {
+    "word": "transliteration",
+    "pos": "n.",
+    "root": "轉 + transfer + 寫法 + writing",
+    "zh": "音譯",
+    "ex": "Transliteration converts words from one writing system to another.",
+    "cat": "📰 每日新詞：linguistics"
   }
 ]
