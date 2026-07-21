@@ -1,116 +1,116 @@
 {
   "chooseResponse": [
     {
-      "q": "How did the exam go?",
+      "q": "What did you think of the movie?",
       "options": [
-        "It was really hard.",
-        "I didn't study for it.",
-        "I think I did well.",
-        "I forgot about it."
+        "It was fantastic!",
+        "I didn't like it.",
+        "It was okay.",
+        "I haven't seen it."
       ],
-      "correctIndex": 2
+      "correctIndex": 0
     }
   ],
   "conversation": {
-    "transcript": "Student: Hey, did you hear about the new art exhibit at the gallery?\nAdvisor: Yes, I heard it's quite impressive. Have you been yet?\nStudent: Not yet, but I’m planning to go this weekend.\nAdvisor: That sounds great! Are you going with anyone?",
+    "transcript": "Student: Hey, did you finish the assignment for Professor Smith?\nAdvisor: Yeah, I just submitted it this morning. How about you?\nStudent: I'm almost done, but I'm stuck on the last question.\nAdvisor: I can help you with that if you want!",
     "questions": [
       {
-        "q": "What is the main topic of the conversation?",
+        "q": "What is the main topic of their conversation?",
         "options": [
-          "A new art exhibit",
-          "An upcoming exam",
-          "A project deadline",
-          "A student club meeting"
+          "A movie assignment",
+          "A professor's exam",
+          "An assignment for a course",
+          "A tutoring session"
         ],
-        "correctIndex": 0,
-        "explain": "這段對話的主題是關於新藝術展覽。"
+        "correctIndex": 2,
+        "explain": "他們在討論一個課程的作業。"
       },
       {
-        "q": "When does the student plan to visit the exhibit?",
+        "q": "What does the advisor offer to do?",
         "options": [
-          "This weekend",
-          "Next week",
-          "Today",
-          "Tomorrow"
+          "To review the assignment",
+          "To help with the last question",
+          "To explain the lecture",
+          "To meet later"
         ],
-        "correctIndex": 0,
-        "explain": "學生計劃在這個週末參觀展覽。"
+        "correctIndex": 1,
+        "explain": "顧問提出幫助解決最後一個問題。"
       }
     ]
   },
   "announcement": {
-    "transcript": "Attention students: The library will be closed for maintenance this Saturday from 9 AM to 5 PM. Please plan to return your books before then and make use of online resources. Thank you for your understanding.",
+    "transcript": "Attention students! There will be a guest lecture on climate change this Thursday at 3 PM in the main auditorium. Make sure to attend if you're interested in environmental science. Snacks will be provided!",
     "questions": [
       {
-        "q": "Why will the library be closed?",
+        "q": "When will the guest lecture take place?",
         "options": [
-          "For a holiday",
-          "For maintenance",
-          "For a special event",
-          "For inventory checks"
+          "Wednesday at 3 PM",
+          "Thursday at 3 PM",
+          "Friday at 3 PM",
+          "Saturday at 3 PM"
         ],
         "correctIndex": 1,
-        "explain": "圖書館將於本周六關閉，因為需要維修。"
+        "explain": "客座講座將在星期四下午三點舉行。"
       },
       {
-        "q": "What should students do before Saturday?",
+        "q": "What is provided at the lecture?",
         "options": [
-          "Pick up new books",
-          "Return their books",
-          "Join a study group",
-          "Attend a workshop"
+          "Free books",
+          "Snacks",
+          "Transportation",
+          "Extra credit"
         ],
         "correctIndex": 1,
-        "explain": "學生應該在星期六之前歸還他們的書籍。"
+        "explain": "講座上將提供小吃。"
       }
     ]
   },
   "talk": {
-    "transcript": "Today, I want to discuss the concept of sustainable development. Sustainable development refers to meeting the needs of the present without compromising the ability of future generations to meet their own needs. It encompasses various aspects such as economic growth, environmental protection, and social equity. The idea is to create a balance where development satisfies current demands while ensuring that the resources will be available for future use. This approach can lead to innovative practices in energy use, transportation, and urban planning, ultimately fostering a healthier planet.",
+    "transcript": "Today, we will discuss photosynthesis, a vital process for life on Earth. Photosynthesis occurs primarily in plants, algae, and certain bacteria. During this process, these organisms convert sunlight, carbon dioxide, and water into glucose and oxygen. The sunlight is captured by chlorophyll, the green pigment in plants, which allows them to harness solar energy. This energy is then used to synthesize glucose, which serves as food for the plant. The oxygen produced is released into the atmosphere, which is essential for the survival of most living organisms. Understanding photosynthesis is crucial for fields such as agriculture and environmental science, as it directly impacts food production and the health of our planet.",
     "questions": [
       {
-        "q": "What is sustainable development?",
+        "q": "What do plants convert during photosynthesis?",
         "options": [
-          "Short-term growth",
-          "Meeting current and future needs",
-          "Economic decline",
-          "Environmental degradation"
+          "Water into oxygen",
+          "Sunlight into water",
+          "Carbon dioxide into glucose",
+          "Glucose into sunlight"
         ],
-        "correctIndex": 1,
-        "explain": "可持續發展是指滿足當前需求而不損害未來世代需求的能力。"
+        "correctIndex": 2,
+        "explain": "植物在光合作用中將二氧化碳轉化為葡萄糖。"
       },
       {
-        "q": "What are the three aspects of sustainable development mentioned?",
+        "q": "What role does chlorophyll play?",
         "options": [
-          "Economic growth, social equity, and health",
-          "Environmental protection, economic growth, social equity",
-          "Technology, economy, and environment",
-          "Education, health, and community"
+          "It absorbs carbon dioxide",
+          "It captures sunlight",
+          "It produces glucose",
+          "It releases oxygen"
         ],
         "correctIndex": 1,
-        "explain": "提到的三個方面是環境保護、經濟增長和社會公平。"
+        "explain": "葉綠素的作用是捕獲陽光。"
       },
       {
-        "q": "How does sustainable development benefit future generations?",
+        "q": "Why is photosynthesis important?",
         "options": [
-          "By exploiting resources now",
-          "By ensuring resources remain available",
-          "By encouraging waste",
-          "By limiting education"
-        ],
-        "correctIndex": 1,
-        "explain": "可持續發展通過確保資源仍然可用來使未來世代受益。"
-      },
-      {
-        "q": "Which field can benefit from sustainable development practices?",
-        "options": [
-          "Transportation",
-          "Manufacturing",
-          "Retail",
+          "It helps plants grow",
+          "It produces energy",
+          "It provides oxygen",
           "All of the above"
         ],
         "correctIndex": 3,
-        "explain": "所有這些領域都可以受益於可持續發展實踐。"
+        "explain": "光合作用對植物的生長、能量生產和氧氣供應都很重要。"
+      },
+      {
+        "q": "Which fields benefit from understanding photosynthesis?",
+        "options": [
+          "Medicine and law",
+          "Agriculture and environmental science",
+          "Physics and chemistry",
+          "Art and music"
+        ],
+        "correctIndex": 1,
+        "explain": "農業和環境科學等領域可以從了解光合作用中受益。"
       }
     ]
   }

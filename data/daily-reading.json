@@ -2,89 +2,113 @@
   "cloze": {
     "segments": [
       {
-        "text": "The process of photosynthesis is essential for plants, allowing them to produce their own food. It begins when chlorophyll in the leaves absorbs sunlight, which provides the necessary energy. Water, taken up by the roots, is combined with carbon dio"
+        "text": "The process of photosynthesis is essential for most life forms on Earth. It occurs primarily in plants, algae, and certain bacteria, where light energy is converted into chemical energy. During photosynthesis, carbon dioxide from the atmosphere is absorbed and used to produce glucose. This process also releases oxygen as a byproduct. In general, photosynthesis can be divided into two stages: the light-dependent reactions and the light-independent reactions. The former occur in the thylakoid membranes, while the latter takes place in the stroma of chloroplasts. Understanding photosynthesis is critical for comprehending the broader context of ecological balance and energy flow in ecosystems. The study of this process is ongoing, revealing new insights into its efficiency and potential applications in renewable energy sources."
       },
       {
-        "blank": "xide"
+        "blank": "sis"
       },
       {
-        "text": " from the air to create glucose, a type of sugar. This glucose not only serves as food for the plant but is also converted into other forms of energy. Additionally, the oxygen produced during photosynthesis is released into the air, which is crucial for the survival of most life forms. Overall, photosynthesis is a complex but vital process that sustains life on Earth."
+        "text": " is a complex biochemical reaction that plants use to convert sunlight into energy."
+      },
+      {
+        "blank": "aber"
+      },
+      {
+        "text": "age and diverse types of organisms depend on this process."
+      },
+      {
+        "blank": "gl"
+      },
+      {
+        "text": "ucose is one of the main products."
+      },
+      {
+        "blank": "d-"
+      },
+      {
+        "text": "ependent reactions that harness light energy to drive the synthesis of glucose."
+      },
+      {
+        "blank": "ore"
+      },
+      {
+        "text": "al balance is affected by changes in photosynthesis rates."
       }
     ]
   },
   "academic": {
-    "passage": "Photosynthesis is the process by which green plants and some other organisms use sunlight to synthesize foods with the help of chlorophyll. This process converts light energy into chemical energy, which is stored in the form of glucose. Plants absorb carbon dioxide from the atmosphere and water from the soil, releasing oxygen as a byproduct. It plays a critical role in the carbon cycle and significantly impacts global ecosystems and climate. Understanding photosynthesis helps scientists develop strategies for improving crop yields and addressing climate change.",
+    "passage": "Photosynthesis is the process by which green plants, algae, and some bacteria convert light energy into chemical energy. This transformation is critical for life on Earth, as it provides the primary energy source for nearly all ecosystems. The process involves two main stages: the light-dependent reactions and the Calvin cycle. In the light-dependent reactions, light energy splits water molecules, releasing oxygen and creating energy-rich compounds. The Calvin cycle then utilizes carbon dioxide to synthesize glucose, which serves as food for the plant. Additionally, the study of photosynthesis has important implications for renewable energy development, as understanding these processes can lead to innovative solutions for energy production.",
     "questions": [
       {
         "q": "What is the main idea of the passage?",
         "options": [
-          "Photosynthesis allows plants to create their own food.",
-          "Chlorophyll is essential for photosynthesis.",
-          "Oxygen is a byproduct of photosynthesis.",
-          "Photosynthesis impacts climate change."
+          "Photosynthesis is critical for life and energy production.",
+          "Plants use sunlight to grow and thrive.",
+          "The process of photosynthesis has two stages.",
+          "Photosynthesis has no impact on ecosystems."
         ],
         "correctIndex": 0,
-        "explain": "這段文字的主要思想是光合作用使植物能夠自行製造食物。"
+        "explain": "這篇文章的主旨在於強調光合作用對生命及能源產生的重要性。"
       },
       {
-        "q": "What do plants absorb during photosynthesis?",
+        "q": "What are the two main stages of photosynthesis mentioned in the passage?",
         "options": [
-          "Sunlight and carbon dioxide",
-          "Nutrients and minerals",
-          "Soil and sunlight",
-          "Chlorophyll and water"
+          "The light-dependent reactions and the Calvin cycle",
+          "The light-independent reactions and the energy cycle",
+          "The water-splitting stage and the oxygen release stage",
+          "The energy absorption stage and the glucose synthesis stage"
         ],
         "correctIndex": 0,
-        "explain": "植物在光合作用中吸收陽光和二氧化碳。"
+        "explain": "文章提到光合作用的兩個主要階段是光依賴反應和卡爾文循環。"
       },
       {
-        "q": "What can be inferred about the relationship between photosynthesis and the carbon cycle?",
+        "q": "Why is understanding photosynthesis important for renewable energy development?",
         "options": [
-          "Photosynthesis has no effect on the carbon cycle.",
-          "Photosynthesis contributes to the carbon cycle.",
-          "Photosynthesis depletes carbon dioxide in the atmosphere.",
-          "Photosynthesis is harmful to ecosystems."
+          "It provides insights into energy conservation techniques.",
+          "It reveals ways to improve plant growth.",
+          "It identifies alternative energy sources from plants.",
+          "It could lead to innovative energy production solutions."
+        ],
+        "correctIndex": 3,
+        "explain": "理解光合作用能幫助我們找到創新的能源生產解決方案。"
+      },
+      {
+        "q": "What is the role of glucose in the process of photosynthesis?",
+        "options": [
+          "It is a byproduct of the light-dependent reactions.",
+          "It is used to store energy for the plant.",
+          "It helps absorb light energy from the sun.",
+          "It is the primary energy source for animals."
         ],
         "correctIndex": 1,
-        "explain": "可以推斷光合作用對碳循環有貢獻。"
-      },
-      {
-        "q": "What does the term 'chemical energy' refer to in the context of the passage?",
-        "options": [
-          "Energy stored in food molecules",
-          "Energy used by plants to grow",
-          "Energy from sunlight",
-          "Energy released during respiration"
-        ],
-        "correctIndex": 0,
-        "explain": "在這段文字中，'化學能'是指儲存在食物分子中的能量。"
+        "explain": "葡萄糖在光合作用中用作植物儲存能量的主要方式。"
       }
     ]
   },
   "daily": {
-    "passage": "The library will be closed for maintenance this Saturday from 9 AM to 5 PM. Please ensure that you return all borrowed materials before this time. We apologize for any inconvenience and appreciate your understanding.",
+    "passage": "Attention students: The annual campus clean-up day will be held this Saturday from 9 AM to 3 PM. All volunteers are welcome! Please meet at the student center to receive supplies and instructions. Let's work together to keep our campus beautiful.",
     "questions": [
       {
-        "q": "When will the library be closed?",
+        "q": "When will the campus clean-up day take place?",
         "options": [
-          "Friday",
-          "Saturday",
-          "Sunday",
-          "Monday"
+          "This Saturday",
+          "Next Saturday",
+          "Tomorrow",
+          "Next month"
         ],
-        "correctIndex": 1,
-        "explain": "圖書館將在星期六關閉。"
+        "correctIndex": 0,
+        "explain": "公告中明確指出清理活動將在本週六舉行。"
       },
       {
-        "q": "What should students do before the library closes?",
+        "q": "Where should volunteers meet before the clean-up?",
         "options": [
-          "Borrow new materials",
-          "Return borrowed materials",
-          "Attend a seminar",
-          "Join a study group"
+          "At the library",
+          "At the cafeteria",
+          "At the student center",
+          "At the gym"
         ],
-        "correctIndex": 1,
-        "explain": "學生應在圖書館關閉之前歸還所借材料。"
+        "correctIndex": 2,
+        "explain": "志願者應在學生中心集合以領取物資和指示。"
       }
     ]
   }

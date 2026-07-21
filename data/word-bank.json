@@ -5430,5 +5430,37 @@
     "zh": "音譯",
     "ex": "Transliteration converts words from one writing system to another.",
     "cat": "📰 每日新詞：linguistics"
+  },
+  {
+    "word": "idiosyncratic",
+    "pos": "adj.",
+    "root": "特異的—idiosyncratic",
+    "zh": "特異的",
+    "ex": "Idiosyncratic expressions can often confuse non-native speakers.",
+    "cat": "📰 每日新詞：linguistics"
+  },
+  {
+    "word": "syntax error",
+    "pos": "n.",
+    "root": "句法錯誤—syntax error",
+    "zh": "句法錯誤",
+    "ex": "A syntax error occurs when the structure of a sentence does not conform to grammatical rules.",
+    "cat": "📰 每日新詞：linguistics"
+  },
+  {
+    "word": "cognate",
+    "pos": "n.",
+    "root": "同源詞—cognate",
+    "zh": "同源詞",
+    "ex": "Cognates are words in different languages that have a common etymological origin.",
+    "cat": "📰 每日新詞：linguistics"
+  },
+  {
+    "word": "language policy",
+    "pos": "n.",
+    "root": "語言政策—language policy",
+    "zh": "語言政策",
+    "ex": "Language policy encompasses the laws and regulations governing the use of languages in a particular area.",
+    "cat": "📰 每日新詞：linguistics"
   }
 ]

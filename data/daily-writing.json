@@ -3,131 +3,128 @@
     {
       "words": [
         "the",
-        "students",
-        "are",
-        "required",
-        "to",
-        "submit",
-        "their",
-        "assignments"
-      ],
-      "display": "The students are required to submit their assignments."
-    },
-    {
-      "words": [
-        "the",
-        "library",
-        "is",
-        "hosting",
-        "a",
-        "workshop",
-        "on",
-        "research",
-        "methods"
-      ],
-      "display": "The library is hosting a workshop on research methods."
-    },
-    {
-      "words": [
-        "many",
-        "people",
-        "believe",
+        "researchers",
+        "found",
         "that",
-        "success",
-        "is",
-        "based",
-        "on",
-        "hard",
-        "work"
+        "exercise",
+        "improves",
+        "mental",
+        "health"
       ],
-      "display": "Many people believe that success is based on hard work."
+      "display": "The researchers found that exercise improves mental health."
     },
     {
       "words": [
-        "we",
-        "should",
-        "discuss",
-        "the",
-        "effects",
-        "of",
-        "climate",
-        "change",
-        "on",
-        "biodiversity"
-      ],
-      "display": "We should discuss the effects of climate change on biodiversity."
-    },
-    {
-      "words": [
-        "attending",
-        "seminars",
-        "can",
-        "help",
         "students",
-        "enhance",
+        "should",
+        "not",
+        "procrastinate",
         "their",
-        "knowledge"
-      ],
-      "display": "Attending seminars can help students enhance their knowledge."
-    },
-    {
-      "words": [
-        "the",
-        "professor",
-        "encouraged",
-        "us",
+        "assignments",
         "to",
-        "participate",
-        "in",
-        "the",
-        "research",
-        "project"
+        "achieve"
       ],
-      "display": "The professor encouraged us to participate in the research project."
+      "display": "Students should not procrastinate their assignments to achieve."
     },
     {
       "words": [
         "the",
-        "new",
-        "policy",
-        "aims",
-        "to",
-        "improve",
-        "student",
-        "academic",
-        "performance"
+        "experiment",
+        "results",
+        "suggested",
+        "that",
+        "more",
+        "study",
+        "is",
+        "required"
       ],
-      "display": "The new policy aims to improve student academic performance."
+      "display": "The experiment results suggested that more study is required."
     },
     {
       "words": [
-        "participation",
-        "in",
-        "extracurricular",
-        "activities",
+        "she",
+        "enjoys",
+        "reading",
+        "books",
+        "that",
+        "challenge",
+        "her",
+        "thinking"
+      ],
+      "display": "She enjoys reading books that challenge her thinking."
+    },
+    {
+      "words": [
+        "environmental",
+        "protection",
         "is",
         "important",
         "for",
-        "personal",
-        "growth"
+        "future",
+        "generations",
+        "to"
       ],
-      "display": "Participation in extracurricular activities is important for personal growth."
+      "display": "Environmental protection is important for future generations to."
+    },
+    {
+      "words": [
+        "the",
+        "team",
+        "worked",
+        "hard",
+        "to",
+        "complete",
+        "the",
+        "project",
+        "before",
+        "the",
+        "deadline"
+      ],
+      "display": "The team worked hard to complete the project before the deadline."
+    },
+    {
+      "words": [
+        "this",
+        "study",
+        "will",
+        "provide",
+        "insights",
+        "into",
+        "consumer",
+        "behavior",
+        "and",
+        "trends"
+      ],
+      "display": "This study will provide insights into consumer behavior and trends."
+    },
+    {
+      "words": [
+        "the",
+        "classroom",
+        "environment",
+        "can",
+        "greatly",
+        "affect",
+        "students",
+        "learning"
+      ],
+      "display": "The classroom environment can greatly affect students learning."
     }
   ],
   "emailPrompts": [
-    "寄信給教授，請教自己在課堂上不懂的問題。",
-    "寄信給宿舍辦公室，詢問關於宿舍分配的問題。",
-    "寄信給圖書館，提出對於延長開放時間的建議。",
-    "寄信給社團，表達自己希望參加該社團的興趣。",
-    "寄信給客服，要求退換一件有缺陷的商品。",
-    "寄信給學校活動組，詢問即將舉行的講座的詳細信息。"
+    "寄信給教授，詢問有關期末專題報告的要求和截止日期。",
+    "寄信給宿舍辦公室，請求延長住宿合約的時間。",
+    "寄信給圖書館，詢問借書的政策和罰款事宜。",
+    "寄信給社團，表達對即將舉行的活動的興趣並詢問參加方式。",
+    "寄信給客服部門，反映最近一次購物的問題並要求解決方案。",
+    "寄信給導師，感謝他們對學習的幫助並詢問進一步的建議。"
   ],
   "discussionPrompts": [
-    "教授問：「科技對於教育的影響是正面還是負面？」",
-    "教授問：「社交媒體在當今社會中的角色是什麼？」",
-    "教授問：「應該如何解決全球暖化問題？」",
-    "教授問：「藝術教育對學生的發展有多重要？」",
-    "教授問：「在多元文化的社會中，如何促進包容性？」",
-    "教授問：「網絡隱私問題是否應該受到更多關注？」"
+    "教授問：「環保與經濟發展之間的關係應該如何平衡？」",
+    "教授問：「科技進步對社會互動的影響是正面還是負面？」",
+    "教授問：「大學教育應該重視實用技能還是理論知識？」",
+    "教授問：「社會媒體對青少年的心理健康有什麼影響？」",
+    "教授問：「應該如何應對全球暖化的挑戰？」",
+    "教授問：「文化多樣性對社會的貢獻與挑戰是什麼？」"
   ]
 }

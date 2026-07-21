@@ -1,45 +1,45 @@
 {
   "shadowSentences": [
-    "The sun is shining brightly.",
-    "She loves to read books every day.",
-    "We should try that new restaurant tonight.",
-    "He runs every morning to stay fit.",
-    "Traveling can be a great way to learn.",
-    "I enjoy listening to music while working.",
-    "Cooking at home is healthier and cheaper.",
-    "Weekends are perfect for relaxing and recharging.",
-    "Gardening can be a rewarding and peaceful hobby.",
-    "Volunteering helps build community and makes a difference."
+    "I enjoy listening to music.",
+    "She loves to read every day.",
+    "We often go hiking on weekends.",
+    "They play soccer in the park.",
+    "He likes to cook new recipes.",
+    "I watch movies every Friday night.",
+    "She practices yoga to stay fit.",
+    "We travel to new countries each summer.",
+    "They volunteer at the local shelter together.",
+    "I think learning a new language is exciting."
   ],
   "interviewScenarios": [
     {
-      "topic": "環保意識",
-      "intro": "You have agreed to take part in a research study about environmental awareness.",
+      "topic": "旅行計劃",
+      "intro": "You have agreed to take part in a research study about travel planning.",
       "questions": [
-        "Q1: Can you share a time when you took action to help the environment?",
-        "Q2: What challenges do you face when trying to be more eco-friendly?",
-        "Q3: Why do you think environmental awareness is important today?",
-        "Q4: What advice would you give someone looking to reduce their environmental impact?"
+        "Q1: Can you tell me about a memorable trip you took?",
+        "Q2: What challenges did you face while planning that trip?",
+        "Q3: How do you feel about the importance of travel in life?",
+        "Q4: What advice would you give someone planning their first trip?"
+      ]
+    },
+    {
+      "topic": "運動習慣",
+      "intro": "You have agreed to take part in a research study about exercise habits.",
+      "questions": [
+        "Q1: What kind of physical activities do you enjoy?",
+        "Q2: Have you ever struggled to maintain a workout routine?",
+        "Q3: Why do you think staying active is important?",
+        "Q4: What suggestions do you have for someone starting to exercise?"
       ]
     },
     {
       "topic": "閱讀習慣",
       "intro": "You have agreed to take part in a research study about reading habits.",
       "questions": [
-        "Q1: What type of books do you enjoy reading the most?",
-        "Q2: How do you find time to read amidst your busy schedule?",
-        "Q3: In your opinion, how does reading benefit personal development?",
-        "Q4: What tips would you give to someone who wants to read more?"
-      ]
-    },
-    {
-      "topic": "運動對健康的影響",
-      "intro": "You have agreed to take part in a research study about the impact of exercise on health.",
-      "questions": [
-        "Q1: What sports or physical activities do you enjoy the most?",
-        "Q2: Have you ever faced any barriers to exercising regularly?",
-        "Q3: How do you believe exercise influences mental health?",
-        "Q4: What encouragement would you give someone hesitant to start exercising?"
+        "Q1: What types of books do you like to read?",
+        "Q2: Have you encountered any difficulties in finding time to read?",
+        "Q3: In your opinion, how does reading benefit people?",
+        "Q4: What tips would you offer to someone looking to read more?"
       ]
     }
   ]
