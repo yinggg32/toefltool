@@ -3,42 +3,41 @@
     {
       "words": [
         "the",
-        "researchers",
-        "found",
-        "that",
-        "exercise",
-        "improves",
-        "mental",
-        "health"
+        "notebook",
+        "on",
+        "desk",
+        "the",
+        "is",
+        "the",
+        "table"
       ],
-      "display": "The researchers found that exercise improves mental health."
+      "display": "The notebook is on the desk."
     },
     {
       "words": [
-        "students",
-        "should",
-        "not",
-        "procrastinate",
-        "their",
-        "assignments",
-        "to",
-        "achieve"
+        "he",
+        "studied",
+        "for",
+        "the",
+        "exam",
+        "all",
+        "night",
+        "long"
       ],
-      "display": "Students should not procrastinate their assignments to achieve."
+      "display": "He studied for the exam all night long."
     },
     {
       "words": [
         "the",
-        "experiment",
-        "results",
-        "suggested",
-        "that",
-        "more",
-        "study",
+        "weather",
         "is",
-        "required"
+        "quite",
+        "pleasant",
+        "this",
+        "afternoon",
+        "today"
       ],
-      "display": "The experiment results suggested that more study is required."
+      "display": "The weather is quite pleasant this afternoon."
     },
     {
       "words": [
@@ -46,85 +45,85 @@
         "enjoys",
         "reading",
         "books",
-        "that",
-        "challenge",
-        "her",
-        "thinking"
+        "in",
+        "the",
+        "library",
+        "quietly"
       ],
-      "display": "She enjoys reading books that challenge her thinking."
-    },
-    {
-      "words": [
-        "environmental",
-        "protection",
-        "is",
-        "important",
-        "for",
-        "future",
-        "generations",
-        "to"
-      ],
-      "display": "Environmental protection is important for future generations to."
+      "display": "She enjoys reading books in the library quietly."
     },
     {
       "words": [
         "the",
         "team",
-        "worked",
+        "won",
+        "the",
+        "championship",
+        "after",
+        "a",
         "hard",
-        "to",
-        "complete",
+        "season"
+      ],
+      "display": "The team won the championship after a hard season."
+    },
+    {
+      "words": [
+        "we",
+        "should",
+        "discuss",
         "the",
         "project",
-        "before",
+        "tomorrow",
+        "in",
         "the",
-        "deadline"
+        "meeting"
       ],
-      "display": "The team worked hard to complete the project before the deadline."
+      "display": "We should discuss the project tomorrow in the meeting."
     },
     {
       "words": [
-        "this",
-        "study",
-        "will",
-        "provide",
-        "insights",
-        "into",
-        "consumer",
-        "behavior",
-        "and",
-        "trends"
-      ],
-      "display": "This study will provide insights into consumer behavior and trends."
-    },
-    {
-      "words": [
-        "the",
-        "classroom",
-        "environment",
         "can",
-        "greatly",
-        "affect",
-        "students",
-        "learning"
+        "you",
+        "explain",
+        "the",
+        "importance",
+        "of",
+        "this",
+        "research",
+        "study"
       ],
-      "display": "The classroom environment can greatly affect students learning."
+      "display": "Can you explain the importance of this research study?"
+    },
+    {
+      "words": [
+        "the",
+        "presentation",
+        "was",
+        "very",
+        "informative",
+        "and",
+        "well",
+        "received",
+        "by",
+        "everyone"
+      ],
+      "display": "The presentation was very informative and well received by everyone."
     }
   ],
   "emailPrompts": [
-    "寄信給教授，詢問有關期末專題報告的要求和截止日期。",
-    "寄信給宿舍辦公室，請求延長住宿合約的時間。",
-    "寄信給圖書館，詢問借書的政策和罰款事宜。",
-    "寄信給社團，表達對即將舉行的活動的興趣並詢問參加方式。",
-    "寄信給客服部門，反映最近一次購物的問題並要求解決方案。",
-    "寄信給導師，感謝他們對學習的幫助並詢問進一步的建議。"
+    "寄信給教授，詢問期末報告的提交日期及格式。",
+    "寄信給宿舍管理辦公室，請求更換房間的原因。",
+    "寄信給圖書館，詢問延遲歸還書籍的罰款。",
+    "寄信給社團，確認參加下週會議的時間和地點。",
+    "寄信給客服，反映最近購買的商品有缺陷的情況。",
+    "寄信給導師，請教有關研究方向的建議。"
   ],
   "discussionPrompts": [
-    "教授問：「環保與經濟發展之間的關係應該如何平衡？」",
-    "教授問：「科技進步對社會互動的影響是正面還是負面？」",
-    "教授問：「大學教育應該重視實用技能還是理論知識？」",
-    "教授問：「社會媒體對青少年的心理健康有什麼影響？」",
-    "教授問：「應該如何應對全球暖化的挑戰？」",
-    "教授問：「文化多樣性對社會的貢獻與挑戰是什麼？」"
+    "教授問：「你認為網路對於現代社會的影響是正面還是負面？」",
+    "教授問：「如何看待社交媒體對青少年的心理健康影響？」",
+    "教授問：「在當前環境下，應該如何看待全球化的發展？」",
+    "教授問：「藝術在社會變革中扮演什麼樣的角色？」",
+    "教授問：「科技進步對於教育的未來有何影響？」",
+    "教授問：「你認為人類應該如何應對氣候變遷？」"
   ]
 }

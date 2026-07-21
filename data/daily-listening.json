@@ -1,116 +1,116 @@
 {
   "chooseResponse": [
     {
-      "q": "What did you think of the movie?",
+      "q": "What time is the study group meeting?",
       "options": [
-        "It was fantastic!",
-        "I didn't like it.",
-        "It was okay.",
-        "I haven't seen it."
+        "At 5 PM.",
+        "In the library.",
+        "On Friday.",
+        "With the professor."
       ],
       "correctIndex": 0
     }
   ],
   "conversation": {
-    "transcript": "Student: Hey, did you finish the assignment for Professor Smith?\nAdvisor: Yeah, I just submitted it this morning. How about you?\nStudent: I'm almost done, but I'm stuck on the last question.\nAdvisor: I can help you with that if you want!",
+    "transcript": "Student: Hey, did you hear about the study group for our biology class?\nAdvisor: Yes, I did! It's scheduled for tomorrow at 5 PM in the library.\nStudent: Great! I was worried it might be canceled.\nAdvisor: Not at all. The professor wants everyone to attend and discuss the upcoming exam.",
     "questions": [
       {
-        "q": "What is the main topic of their conversation?",
+        "q": "What is the purpose of the study group?",
         "options": [
-          "A movie assignment",
-          "A professor's exam",
-          "An assignment for a course",
-          "A tutoring session"
+          "To prepare for the exam.",
+          "To meet with the professor.",
+          "To work on a project.",
+          "To change majors."
         ],
-        "correctIndex": 2,
-        "explain": "他們在討論一個課程的作業。"
+        "correctIndex": 0,
+        "explain": "這個學習小組的目的是為了準備考試。"
       },
       {
-        "q": "What does the advisor offer to do?",
+        "q": "Where will the meeting take place?",
         "options": [
-          "To review the assignment",
-          "To help with the last question",
-          "To explain the lecture",
-          "To meet later"
+          "In the cafeteria.",
+          "In the library.",
+          "At the professor's office.",
+          "In the classroom."
         ],
         "correctIndex": 1,
-        "explain": "顧問提出幫助解決最後一個問題。"
+        "explain": "會議將在圖書館舉行。"
       }
     ]
   },
   "announcement": {
-    "transcript": "Attention students! There will be a guest lecture on climate change this Thursday at 3 PM in the main auditorium. Make sure to attend if you're interested in environmental science. Snacks will be provided!",
+    "transcript": "Attention students! The campus bookstore will be holding a sale on textbooks this weekend. Everything will be 20% off, so be sure to stop by and stock up on your reading materials. Sale starts Friday and ends Sunday. Don't miss out!",
     "questions": [
       {
-        "q": "When will the guest lecture take place?",
+        "q": "What is being sold at a discount?",
         "options": [
-          "Wednesday at 3 PM",
-          "Thursday at 3 PM",
-          "Friday at 3 PM",
-          "Saturday at 3 PM"
+          "Clothing.",
+          "Textbooks.",
+          "Stationery.",
+          "Supplies."
         ],
         "correctIndex": 1,
-        "explain": "客座講座將在星期四下午三點舉行。"
+        "explain": "這次打折的商品是教科書。"
       },
       {
-        "q": "What is provided at the lecture?",
+        "q": "When does the sale start?",
         "options": [
-          "Free books",
-          "Snacks",
-          "Transportation",
-          "Extra credit"
+          "Saturday.",
+          "Monday.",
+          "Friday.",
+          "Thursday."
         ],
-        "correctIndex": 1,
-        "explain": "講座上將提供小吃。"
+        "correctIndex": 2,
+        "explain": "這次打折活動從星期五開始。"
       }
     ]
   },
   "talk": {
-    "transcript": "Today, we will discuss photosynthesis, a vital process for life on Earth. Photosynthesis occurs primarily in plants, algae, and certain bacteria. During this process, these organisms convert sunlight, carbon dioxide, and water into glucose and oxygen. The sunlight is captured by chlorophyll, the green pigment in plants, which allows them to harness solar energy. This energy is then used to synthesize glucose, which serves as food for the plant. The oxygen produced is released into the atmosphere, which is essential for the survival of most living organisms. Understanding photosynthesis is crucial for fields such as agriculture and environmental science, as it directly impacts food production and the health of our planet.",
+    "transcript": "Today, I want to discuss the concept of renewable energy. Renewable energy refers to power generated from natural resources that are constantly replenished, such as sunlight, wind, rain, tides, and geothermal heat. Unlike fossil fuels, which are finite and contribute to environmental pollution, renewable energy sources offer a sustainable alternative. For instance, solar panels harness sunlight to produce electricity, while wind turbines use wind to generate power. This shift to renewable energy is crucial for reducing carbon emissions and combating climate change. By investing in renewable technologies, we can create a cleaner, healthier planet for future generations.",
     "questions": [
       {
-        "q": "What do plants convert during photosynthesis?",
+        "q": "What is renewable energy?",
         "options": [
-          "Water into oxygen",
-          "Sunlight into water",
-          "Carbon dioxide into glucose",
-          "Glucose into sunlight"
+          "Power from fossil fuels.",
+          "Power from natural resources.",
+          "Power from nuclear plants.",
+          "Power from coal."
+        ],
+        "correctIndex": 1,
+        "explain": "可再生能源是來自自然資源的能源。"
+      },
+      {
+        "q": "What is one source of renewable energy mentioned?",
+        "options": [
+          "Natural gas.",
+          "Wind.",
+          "Coal.",
+          "Nuclear energy."
+        ],
+        "correctIndex": 1,
+        "explain": "提到的一種可再生能源是風能。"
+      },
+      {
+        "q": "Why is renewable energy important?",
+        "options": [
+          "It is cheaper than fossil fuels.",
+          "It creates more pollution.",
+          "It helps reduce carbon emissions.",
+          "It requires less technology."
         ],
         "correctIndex": 2,
-        "explain": "植物在光合作用中將二氧化碳轉化為葡萄糖。"
+        "explain": "可再生能源的重要性在於它有助於減少碳排放。"
       },
       {
-        "q": "What role does chlorophyll play?",
+        "q": "What does the speaker suggest about future generations?",
         "options": [
-          "It absorbs carbon dioxide",
-          "It captures sunlight",
-          "It produces glucose",
-          "It releases oxygen"
+          "They will not have energy issues.",
+          "They will benefit from clean energy.",
+          "They will rely on fossil fuels.",
+          "They will use less technology."
         ],
         "correctIndex": 1,
-        "explain": "葉綠素的作用是捕獲陽光。"
-      },
-      {
-        "q": "Why is photosynthesis important?",
-        "options": [
-          "It helps plants grow",
-          "It produces energy",
-          "It provides oxygen",
-          "All of the above"
-        ],
-        "correctIndex": 3,
-        "explain": "光合作用對植物的生長、能量生產和氧氣供應都很重要。"
-      },
-      {
-        "q": "Which fields benefit from understanding photosynthesis?",
-        "options": [
-          "Medicine and law",
-          "Agriculture and environmental science",
-          "Physics and chemistry",
-          "Art and music"
-        ],
-        "correctIndex": 1,
-        "explain": "農業和環境科學等領域可以從了解光合作用中受益。"
+        "explain": "發言者建議未來的世代將受益於清潔能源。"
       }
     ]
   }

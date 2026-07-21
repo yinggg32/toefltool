@@ -5462,5 +5462,93 @@
     "zh": "語言政策",
     "ex": "Language policy encompasses the laws and regulations governing the use of languages in a particular area.",
     "cat": "📰 每日新詞：linguistics"
+  },
+  {
+    "word": "critical",
+    "pos": "adj.",
+    "root": "批—criticize",
+    "zh": "批判的",
+    "ex": "The critical analysis of modern architecture reveals its influence on urban development.",
+    "cat": "📰 每日新詞：art and architecture"
+  },
+  {
+    "word": "curate",
+    "pos": "v.",
+    "root": "策—plan",
+    "zh": "策劃",
+    "ex": "To curate an art exhibition requires both organizational skills and a deep understanding of the artworks.",
+    "cat": "📰 每日新詞：art and architecture"
+  },
+  {
+    "word": "dedication",
+    "pos": "n.",
+    "root": "獻—dedicate",
+    "zh": "奉獻",
+    "ex": "The dedication of the artist to her craft is evident in every piece she creates.",
+    "cat": "📰 每日新詞：art and architecture"
+  },
+  {
+    "word": "fragmentation",
+    "pos": "n.",
+    "root": "碎—fragment",
+    "zh": "分裂",
+    "ex": "Fragmentation in modern art reflects the complexities of contemporary society.",
+    "cat": "📰 每日新詞：art and architecture"
+  },
+  {
+    "word": "iconography",
+    "pos": "n.",
+    "root": "像—icon, 圖—graphy",
+    "zh": "圖像學",
+    "ex": "The iconography in Renaissance paintings often conveys deeper religious meanings.",
+    "cat": "📰 每日新詞：art and architecture"
+  },
+  {
+    "word": "reconstruction",
+    "pos": "n.",
+    "root": "重—re-, 建—build",
+    "zh": "重建",
+    "ex": "The reconstruction of historical buildings helps preserve cultural heritage.",
+    "cat": "📰 每日新詞：art and architecture"
+  },
+  {
+    "word": "representation",
+    "pos": "n.",
+    "root": "表—represent",
+    "zh": "表現",
+    "ex": "The representation of women in art has evolved significantly over the decades.",
+    "cat": "📰 每日新詞：art and architecture"
+  },
+  {
+    "word": "variation",
+    "pos": "n.",
+    "root": "變—change",
+    "zh": "變化",
+    "ex": "The artist's work often explores variation in form and color.",
+    "cat": "📰 每日新詞：art and architecture"
+  },
+  {
+    "word": "visionary",
+    "pos": "adj.",
+    "root": "視—vision",
+    "zh": "有遠見的",
+    "ex": "Visionary architects often push the boundaries of conventional design.",
+    "cat": "📰 每日新詞：art and architecture"
+  },
+  {
+    "word": "zeal",
+    "pos": "n.",
+    "root": "熱—heat",
+    "zh": "熱情",
+    "ex": "The zeal of the art community has led to numerous successful collaborations.",
+    "cat": "📰 每日新詞：art and architecture"
+  },
+  {
+    "word": "surrealism",
+    "pos": "n.",
+    "root": "超—beyond, 現實—reality",
+    "zh": "超現實主義",
+    "ex": "Surrealism seeks to challenge perceptions of reality through dreamlike imagery.",
+    "cat": "📰 每日新詞：art and architecture"
   }
 ]
