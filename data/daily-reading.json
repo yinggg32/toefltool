@@ -2,107 +2,107 @@
   "cloze": {
     "segments": [
       {
-        "text": "The human brain is a complex organ responsible for a variety of functions, including "
+        "text": "The human brain is an incredibly complex organ. It is primarily composed of glial cells and n"
       },
       {
-        "blank": "cognitive"
+        "blank": "eurons"
       },
       {
-        "text": "processing, decision making, and emotional regulation. It consists of "
+        "text": ", which transmit information through electrical and chemical signals. The brain's structure can be divided into several regions, each responsible for different functions. For instance, the c"
       },
       {
-        "blank": "numerous"
+        "blank": "erebral"
       },
       {
-        "text": "neurons that communicate with each other through electrical and chemical signals. "
+        "text": " cortex is involved in higher-order functions such as reasoning and decision-making, while the c"
       },
       {
-        "blank": "Neuro"
+        "blank": "erebellum"
       },
       {
-        "text": "plasticity, the brain's ability to reorganize itself by forming new connections, is crucial for "
+        "text": " coordinates voluntary movements. Understanding the brain's anatomy is crucial for advancing our knowledge in fields like psychology and medicine, especially in treating n"
       },
       {
-        "blank": "learning"
+        "blank": "eurological"
       },
       {
-        "text": ". Understanding how the brain functions can help in developing treatments for neurological disorders."
+        "text": " disorders. Research continues to uncover the intricate relationships between various brain regions and their impact on behavior and cognition."
       }
     ]
   },
   "academic": {
-    "passage": "The study of brain function has advanced significantly over the past few decades. Researchers have discovered that the brain is not static; rather, it is capable of change in response to experiences. This phenomenon, known as neuroplasticity, plays a crucial role in recovery from injuries and learning new skills. By using advanced imaging techniques, scientists can observe how different areas of the brain become active during various tasks. This research has important implications for education and therapy, as it highlights the potential for rehabilitation and cognitive enhancement throughout life.",
+    "passage": "The study of brain structure and function is vital for understanding human behavior. The brain consists of various parts, each with specific roles. The cerebral cortex, for example, is crucial for decision-making, while the cerebellum helps with movement coordination. Advances in brain research can lead to better treatments for neurological disorders, providing insights into the complex workings of the mind.",
     "questions": [
       {
-        "q": "What is the main idea of the passage?",
+        "q": "What is the main focus of the passage?",
         "options": [
-          "The brain is static and unchanging.",
-          "Neuroplasticity is crucial for learning and recovery.",
-          "Different areas of the brain are inactive during tasks.",
-          "Imaging techniques are outdated."
-        ],
-        "correctIndex": 1,
-        "explain": "這段文字的主要思想是神經可塑性對學習和康復至關重要。"
-      },
-      {
-        "q": "What technique do researchers use to observe brain activity?",
-        "options": [
-          "Electrocardiography",
-          "Magnetic resonance imaging",
-          "X-rays",
-          "Pet scans"
-        ],
-        "correctIndex": 1,
-        "explain": "研究人員使用磁共振成像技術來觀察大腦活動。"
-      },
-      {
-        "q": "What can be inferred about neuroplasticity based on the passage?",
-        "options": [
-          "It is not important for brain function.",
-          "It only occurs in children.",
-          "It can assist in recovery and learning.",
-          "It is a newly discovered concept."
-        ],
-        "correctIndex": 2,
-        "explain": "根據文章，可推斷神經可塑性可以幫助康復和學習。"
-      },
-      {
-        "q": "What does the term 'neuroplasticity' mean in the context of the passage?",
-        "options": [
-          "The brain's ability to change and adapt.",
-          "A method of brain imaging.",
-          "A type of neurological disorder.",
-          "The static nature of brain functions."
+          "The complexity of the brain",
+          "The functions of the cerebellum",
+          "Treatment of neurological disorders",
+          "The structure of glial cells"
         ],
         "correctIndex": 0,
-        "explain": "在這段文字中，'神經可塑性'的意思是大腦改變和適應的能力。"
+        "explain": "這段文字的主要焦點是人腦的複雜性。"
+      },
+      {
+        "q": "Which part of the brain is associated with decision-making?",
+        "options": [
+          "Cerebellum",
+          "Cerebral cortex",
+          "Glial cells",
+          "Neurons"
+        ],
+        "correctIndex": 1,
+        "explain": "大腦皮層與決策制定有關。"
+      },
+      {
+        "q": "Why is understanding brain structure important?",
+        "options": [
+          "It helps in movement coordination",
+          "It aids in psychological research",
+          "It improves treatment for disorders",
+          "It reveals the anatomy of glial cells"
+        ],
+        "correctIndex": 2,
+        "explain": "理解大腦結構對於改善疾病的治療非常重要。"
+      },
+      {
+        "q": "What does the word 'vital' in the passage most likely mean?",
+        "options": [
+          "Unimportant",
+          "Essential",
+          "Complex",
+          "Difficult"
+        ],
+        "correctIndex": 1,
+        "explain": "在這段文字中，'vital'的意思是'必不可少的'。"
       }
     ]
   },
   "daily": {
-    "passage": "Attention students: The library will be closed for maintenance on Saturday from 9 AM to 5 PM. Please plan your study time accordingly. We apologize for any inconvenience this may cause.",
+    "passage": "Attention students: The library will have extended hours during finals week. Please check the schedule posted on the library door for specific times. We hope these changes will help you prepare effectively!",
     "questions": [
       {
-        "q": "When will the library be closed?",
+        "q": "What is the purpose of the announcement?",
         "options": [
-          "On Friday from 9 AM to 5 PM",
-          "On Saturday from 9 AM to 5 PM",
-          "On Sunday all day",
-          "Next week for renovations"
+          "To inform about library hours",
+          "To change exam dates",
+          "To promote library events",
+          "To encourage group study"
         ],
-        "correctIndex": 1,
-        "explain": "圖書館將在星期六的早上9點到下午5點關閉。"
+        "correctIndex": 0,
+        "explain": "這則公告的目的是通知學生有關圖書館的開放時間。"
       },
       {
-        "q": "Why is the library closing?",
+        "q": "Where can students find the specific schedule?",
         "options": [
-          "For an event",
-          "For maintenance",
-          "For cleaning",
-          "For inventory"
+          "On the library website",
+          "On the library door",
+          "In the student center",
+          "In the cafeteria"
         ],
         "correctIndex": 1,
-        "explain": "圖書館關閉是因為維護。"
+        "explain": "學生可以在圖書館的門上找到具體的時間表。"
       }
     ]
   }

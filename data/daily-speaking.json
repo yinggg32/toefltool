@@ -2,44 +2,44 @@
   "shadowSentences": [
     "I enjoy reading books in my free time.",
     "My favorite season is autumn because of the colors.",
-    "I often go hiking during the weekends with friends.",
-    "Cooking new recipes is a fun challenge for me.",
-    "I believe learning a new language opens many doors.",
-    "Traveling to different countries broadens our perspectives.",
-    "I like to listen to music while studying for exams.",
-    "Finding a balance between work and life can be difficult.",
-    "Participating in community service helps strengthen local ties.",
-    "I think trying new activities can improve our confidence."
+    "I often cook dinner for my family on weekends.",
+    "Traveling to new places helps me learn about cultures.",
+    "I like to listen to music while I study or work.",
+    "Outdoor activities like hiking keep me feeling healthy.",
+    "Taking care of pets can be a rewarding experience.",
+    "Volunteering at local shelters has taught me compassion.",
+    "Learning a new language can be challenging but fun.",
+    "Finding a balance between work and home life is important."
   ],
   "interviewScenarios": [
     {
-      "topic": "家庭聚會",
-      "intro": "You have agreed to take part in a research study about family gatherings.",
+      "topic": "旅行經歷",
+      "intro": "You have agreed to take part in a research study about travel experiences.",
       "questions": [
-        "Q1: Can you describe a memorable family gathering you attended?",
-        "Q2: What challenges do families face when organizing these events?",
-        "Q3: In your opinion, how important are family gatherings for maintaining relationships?",
-        "Q4: What advice would you give families to make their gatherings more enjoyable?"
+        "Q1: Can you share a memorable travel experience you had?",
+        "Q2: What challenges did you face while traveling?",
+        "Q3: How do you feel about traveling to new places?",
+        "Q4: What advice would you give to someone planning their first trip?"
       ]
     },
     {
-      "topic": "職場健康",
-      "intro": "You have agreed to take part in a research study about workplace health.",
+      "topic": "運動習慣",
+      "intro": "You have agreed to take part in a research study about exercise habits.",
       "questions": [
-        "Q1: What are some healthy habits you practice at work?",
-        "Q2: What challenges do employees face in maintaining their health at work?",
-        "Q3: How do you feel about the importance of health programs in the workplace?",
-        "Q4: What recommendations would you give to improve health awareness at work?"
+        "Q1: What types of exercise do you enjoy and why?",
+        "Q2: Have you ever faced difficulties in maintaining a workout routine?",
+        "Q3: What is your opinion on the importance of regular exercise?",
+        "Q4: What tips would you give someone who wants to start exercising?"
       ]
     },
     {
-      "topic": "環保生活",
-      "intro": "You have agreed to take part in a research study about eco-friendly living.",
+      "topic": "音樂影響",
+      "intro": "You have agreed to take part in a research study about the influence of music.",
       "questions": [
-        "Q1: Can you share your experience with adopting eco-friendly habits?",
-        "Q2: What are some challenges people face when trying to live sustainably?",
-        "Q3: What is your opinion on the effectiveness of individual actions for the environment?",
-        "Q4: What tips would you give someone wanting to start an eco-friendly lifestyle?"
+        "Q1: How has music influenced your life or emotions?",
+        "Q2: Are there specific genres of music that resonate with you?",
+        "Q3: What do you think about the impact of music on society?",
+        "Q4: How would you recommend someone discover new music?"
       ]
     }
   ]

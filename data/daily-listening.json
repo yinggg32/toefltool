@@ -1,116 +1,116 @@
 {
   "chooseResponse": [
     {
-      "q": "What time is the study group meeting?",
+      "q": "What do you think about the new dining hall?",
       "options": [
-        "At 5 PM.",
-        "In the library.",
-        "On Friday.",
-        "With the professor."
+        "It's amazing!",
+        "I don't care.",
+        "I haven't tried it yet.",
+        "It's too crowded."
       ],
       "correctIndex": 0
     }
   ],
   "conversation": {
-    "transcript": "Student: Hey, did you hear about the study group for our biology class?\nAdvisor: Yes, I did! It's scheduled for tomorrow at 5 PM in the library.\nStudent: Great! I was worried it might be canceled.\nAdvisor: Not at all. The professor wants everyone to attend and discuss the upcoming exam.",
+    "transcript": "Student: Have you checked out the new dining hall yet?\nAdvisor: Yes, I went there yesterday. It's really nice!\nStudent: I heard they have a salad bar and a smoothie station.\nAdvisor: Exactly! They also have a variety of vegetarian options.",
     "questions": [
       {
-        "q": "What is the purpose of the study group?",
+        "q": "What did the student ask about?",
         "options": [
-          "To prepare for the exam.",
-          "To meet with the professor.",
-          "To work on a project.",
-          "To change majors."
-        ],
-        "correctIndex": 0,
-        "explain": "這個學習小組的目的是為了準備考試。"
-      },
-      {
-        "q": "Where will the meeting take place?",
-        "options": [
-          "In the cafeteria.",
-          "In the library.",
-          "At the professor's office.",
-          "In the classroom."
+          "The library hours",
+          "The new dining hall",
+          "Class schedules",
+          "Sports events"
         ],
         "correctIndex": 1,
-        "explain": "會議將在圖書館舉行。"
+        "explain": "學生在詢問新餐廳的情況。"
+      },
+      {
+        "q": "What did the advisor think about the dining hall?",
+        "options": [
+          "It's too crowded.",
+          "It needs improvement.",
+          "It's really nice.",
+          "It's expensive."
+        ],
+        "correctIndex": 2,
+        "explain": "顧問認為新餐廳非常好。"
       }
     ]
   },
   "announcement": {
-    "transcript": "Attention students! The campus bookstore will be holding a sale on textbooks this weekend. Everything will be 20% off, so be sure to stop by and stock up on your reading materials. Sale starts Friday and ends Sunday. Don't miss out!",
+    "transcript": "Attention students! The campus bookstore is having a sale this weekend. All textbooks are 20% off and there will be additional discounts on supplies. Don’t miss out on this chance to save money on your essential items!",
     "questions": [
       {
-        "q": "What is being sold at a discount?",
+        "q": "What type of items are on sale?",
         "options": [
-          "Clothing.",
-          "Textbooks.",
-          "Stationery.",
-          "Supplies."
-        ],
-        "correctIndex": 1,
-        "explain": "這次打折的商品是教科書。"
-      },
-      {
-        "q": "When does the sale start?",
-        "options": [
-          "Saturday.",
-          "Monday.",
-          "Friday.",
-          "Thursday."
+          "Only clothes",
+          "Only electronics",
+          "Textbooks and supplies",
+          "Only stationery"
         ],
         "correctIndex": 2,
-        "explain": "這次打折活動從星期五開始。"
+        "explain": "書店正在促銷教科書和文具。"
+      },
+      {
+        "q": "When is the sale happening?",
+        "options": [
+          "This week",
+          "Next month",
+          "This weekend",
+          "Tomorrow"
+        ],
+        "correctIndex": 2,
+        "explain": "促銷活動是在本週末舉行。"
       }
     ]
   },
   "talk": {
-    "transcript": "Today, I want to discuss the concept of renewable energy. Renewable energy refers to power generated from natural resources that are constantly replenished, such as sunlight, wind, rain, tides, and geothermal heat. Unlike fossil fuels, which are finite and contribute to environmental pollution, renewable energy sources offer a sustainable alternative. For instance, solar panels harness sunlight to produce electricity, while wind turbines use wind to generate power. This shift to renewable energy is crucial for reducing carbon emissions and combating climate change. By investing in renewable technologies, we can create a cleaner, healthier planet for future generations.",
+    "transcript": "Today, we will discuss the concept of sustainable development. Sustainable development refers to meeting the needs of the present without compromising the ability of future generations to meet their own needs. It encompasses economic growth, environmental protection, and social equity. By balancing these three pillars, we can ensure a healthier planet for future inhabitants. For example, using renewable energy sources reduces our reliance on fossil fuels, which helps protect the environment while fostering economic growth. Overall, sustainable development is essential for achieving long-term prosperity and preserving our planet.",
     "questions": [
       {
-        "q": "What is renewable energy?",
+        "q": "What does sustainable development aim to achieve?",
         "options": [
-          "Power from fossil fuels.",
-          "Power from natural resources.",
-          "Power from nuclear plants.",
-          "Power from coal."
+          "Immediate profits",
+          "Future generations' needs",
+          "Environmental destruction",
+          "Short-term growth"
         ],
         "correctIndex": 1,
-        "explain": "可再生能源是來自自然資源的能源。"
+        "explain": "可持續發展的目標是滿足未來世代的需求。"
       },
       {
-        "q": "What is one source of renewable energy mentioned?",
+        "q": "Which pillar is NOT mentioned in the talk?",
         "options": [
-          "Natural gas.",
-          "Wind.",
-          "Coal.",
-          "Nuclear energy."
-        ],
-        "correctIndex": 1,
-        "explain": "提到的一種可再生能源是風能。"
-      },
-      {
-        "q": "Why is renewable energy important?",
-        "options": [
-          "It is cheaper than fossil fuels.",
-          "It creates more pollution.",
-          "It helps reduce carbon emissions.",
-          "It requires less technology."
+          "Economic growth",
+          "Social equity",
+          "Technological advancement",
+          "Environmental protection"
         ],
         "correctIndex": 2,
-        "explain": "可再生能源的重要性在於它有助於減少碳排放。"
+        "explain": "演講中沒有提到技術進步這一支柱。"
       },
       {
-        "q": "What does the speaker suggest about future generations?",
+        "q": "What is one example of sustainable development mentioned?",
         "options": [
-          "They will not have energy issues.",
-          "They will benefit from clean energy.",
-          "They will rely on fossil fuels.",
-          "They will use less technology."
+          "Using fossil fuels",
+          "Promoting waste",
+          "Renewable energy sources",
+          "Deforestation"
         ],
-        "correctIndex": 1,
-        "explain": "發言者建議未來的世代將受益於清潔能源。"
+        "correctIndex": 2,
+        "explain": "提到的可持續發展的一個例子是使用可再生能源。"
+      },
+      {
+        "q": "Why is sustainable development important?",
+        "options": [
+          "For short-term profits",
+          "To harm the environment",
+          "To ensure long-term prosperity",
+          "To reduce population"
+        ],
+        "correctIndex": 2,
+        "explain": "可持續發展對於確保長期繁榮非常重要。"
       }
     ]
   }

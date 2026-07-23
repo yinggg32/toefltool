@@ -5550,5 +5550,93 @@
     "zh": "超現實主義",
     "ex": "Surrealism seeks to challenge perceptions of reality through dreamlike imagery.",
     "cat": "📰 每日新詞：art and architecture"
+  },
+  {
+    "word": "anomie",
+    "pos": "n.",
+    "root": "無規範—normlessness",
+    "zh": "無規範狀態",
+    "ex": "Anomie occurs when social norms are confused, unclear, or simply absent.",
+    "cat": "📰 每日新詞：sociology"
+  },
+  {
+    "word": "segregation",
+    "pos": "n.",
+    "root": "隔離—separation",
+    "zh": "隔離",
+    "ex": "Segregation in society can lead to significant disparities in access to resources.",
+    "cat": "📰 每日新詞：sociology"
+  },
+  {
+    "word": "agency",
+    "pos": "n.",
+    "root": "能動性—individual capacity",
+    "zh": "能動性",
+    "ex": "The concept of agency refers to the capacity of individuals to act independently.",
+    "cat": "📰 每日新詞：sociology"
+  },
+  {
+    "word": "solidarity",
+    "pos": "n.",
+    "root": "團結—unity",
+    "zh": "團結",
+    "ex": "Social solidarity is essential for maintaining cohesion in a community.",
+    "cat": "📰 每日新詞：sociology"
+  },
+  {
+    "word": "culture shock",
+    "pos": "n.",
+    "root": "文化衝擊—disorientation",
+    "zh": "文化衝擊",
+    "ex": "Culture shock often occurs when individuals are exposed to a radically different cultural environment.",
+    "cat": "📰 每日新詞：sociology"
+  },
+  {
+    "word": "social capital",
+    "pos": "n.",
+    "root": "社會資本—network benefits",
+    "zh": "社會資本",
+    "ex": "Social capital refers to the networks of relationships among people that enable society to function.",
+    "cat": "📰 每日新詞：sociology"
+  },
+  {
+    "word": "diversity",
+    "pos": "n.",
+    "root": "多樣性—variety",
+    "zh": "多樣性",
+    "ex": "Diversity within a population enriches cultural experiences and perspectives.",
+    "cat": "📰 每日新詞：sociology"
+  },
+  {
+    "word": "interactionism",
+    "pos": "n.",
+    "root": "互動主義—social interaction theory",
+    "zh": "互動主義",
+    "ex": "Interactionism focuses on how individuals create and interpret social meanings through interactions.",
+    "cat": "📰 每日新詞：sociology"
+  },
+  {
+    "word": "conformity",
+    "pos": "n.",
+    "root": "順從—alignment with norms",
+    "zh": "順從",
+    "ex": "Conformity often influences individual behavior within social groups.",
+    "cat": "📰 每日新詞：sociology"
+  },
+  {
+    "word": "social change",
+    "pos": "n.",
+    "root": "社會變遷—evolution of society",
+    "zh": "社會變遷",
+    "ex": "Social change can result from technological advancements, cultural shifts, or policy reforms.",
+    "cat": "📰 每日新詞：sociology"
+  },
+  {
+    "word": "institutionalization",
+    "pos": "n.",
+    "root": "制度化—establishment of norms",
+    "zh": "制度化",
+    "ex": "Institutionalization involves embedding practices into social systems to ensure stability.",
+    "cat": "📰 每日新詞：sociology"
   }
 ]
