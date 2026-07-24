@@ -5638,5 +5638,61 @@
     "zh": "制度化",
     "ex": "Institutionalization involves embedding practices into social systems to ensure stability.",
     "cat": "📰 每日新詞：sociology"
+  },
+  {
+    "word": "astrophysics",
+    "pos": "n.",
+    "root": "astro-星+physics-物理學",
+    "zh": "天體物理學",
+    "ex": "Astrophysics combines principles of physics and astronomy to study celestial phenomena.",
+    "cat": "📰 每日新詞：astronomy and space science"
+  },
+  {
+    "word": "light-year",
+    "pos": "n.",
+    "root": "light-光+year-年",
+    "zh": "光年",
+    "ex": "A light-year is the distance that light travels in one year, approximately 5.88 trillion miles.",
+    "cat": "📰 每日新詞：astronomy and space science"
+  },
+  {
+    "word": "habitable",
+    "pos": "adj.",
+    "root": "habitat-棲息地+able-能夠",
+    "zh": "適宜居住的",
+    "ex": "Scientists are searching for habitable planets that could support life as we know it.",
+    "cat": "📰 每日新詞：astronomy and space science"
+  },
+  {
+    "word": "trajectory",
+    "pos": "n.",
+    "root": "traject-投射+ory-名詞後綴",
+    "zh": "軌跡",
+    "ex": "The trajectory of the spacecraft must be precisely calculated to ensure a successful landing.",
+    "cat": "📰 每日新詞：astronomy and space science"
+  },
+  {
+    "word": "stellarator",
+    "pos": "n.",
+    "root": "stellar-星+ator-裝置",
+    "zh": "恆星器",
+    "ex": "The stellarator is a device designed to confine plasma for nuclear fusion research.",
+    "cat": "📰 每日新詞：astronomy and space science"
+  },
+  {
+    "word": "luminosity",
+    "pos": "n.",
+    "root": "lumin-光+osity-名詞後綴",
+    "zh": "亮度",
+    "ex": "The luminosity of a star can indicate its size and distance from Earth.",
+    "cat": "📰 每日新詞：astronomy and space science"
+  },
+  {
+    "word": "gravity well",
+    "pos": "n.",
+    "root": "gravity-重力+well-井",
+    "zh": "重力井",
+    "ex": "A gravity well describes the gravitational field around a massive body in space.",
+    "cat": "📰 每日新詞：astronomy and space science"
   }
 ]

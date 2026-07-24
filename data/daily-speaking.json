@@ -1,45 +1,45 @@
 {
   "shadowSentences": [
-    "I enjoy reading books in my free time.",
-    "My favorite season is autumn because of the colors.",
-    "I often cook dinner for my family on weekends.",
-    "Traveling to new places helps me learn about cultures.",
-    "I like to listen to music while I study or work.",
-    "Outdoor activities like hiking keep me feeling healthy.",
-    "Taking care of pets can be a rewarding experience.",
-    "Volunteering at local shelters has taught me compassion.",
-    "Learning a new language can be challenging but fun.",
-    "Finding a balance between work and home life is important."
+    "I enjoy reading books every day.",
+    "My favorite food is Italian cuisine.",
+    "I often go for walks in the park.",
+    "Traveling to new places excites me a lot.",
+    "Listening to music helps me relax after work.",
+    "I prefer to spend time with family on weekends.",
+    "Cooking new recipes has become a fun hobby.",
+    "I usually watch movies to unwind during the evenings.",
+    "Learning a new language can be both challenging and rewarding.",
+    "Joining a club can enhance your social life and skills."
   ],
   "interviewScenarios": [
     {
-      "topic": "旅行經歷",
-      "intro": "You have agreed to take part in a research study about travel experiences.",
+      "topic": "健康飲食",
+      "intro": "You have agreed to take part in a research study about healthy eating.",
       "questions": [
-        "Q1: Can you share a memorable travel experience you had?",
-        "Q2: What challenges did you face while traveling?",
-        "Q3: How do you feel about traveling to new places?",
-        "Q4: What advice would you give to someone planning their first trip?"
+        "Q1: Can you share your personal experience with healthy eating?",
+        "Q2: What challenges do you face when trying to eat healthily?",
+        "Q3: In your opinion, how important is a balanced diet?",
+        "Q4: What advice would you give someone wanting to improve their eating habits?"
       ]
     },
     {
-      "topic": "運動習慣",
-      "intro": "You have agreed to take part in a research study about exercise habits.",
+      "topic": "創業經驗",
+      "intro": "You have agreed to take part in a research study about entrepreneurship.",
       "questions": [
-        "Q1: What types of exercise do you enjoy and why?",
-        "Q2: Have you ever faced difficulties in maintaining a workout routine?",
-        "Q3: What is your opinion on the importance of regular exercise?",
-        "Q4: What tips would you give someone who wants to start exercising?"
+        "Q1: Can you tell me about your experience starting a business?",
+        "Q2: What challenges did you encounter during the process?",
+        "Q3: What is your opinion on the risks of entrepreneurship?",
+        "Q4: What advice would you give to aspiring entrepreneurs?"
       ]
     },
     {
-      "topic": "音樂影響",
-      "intro": "You have agreed to take part in a research study about the influence of music.",
+      "topic": "環保意識",
+      "intro": "You have agreed to take part in a research study about environmental awareness.",
       "questions": [
-        "Q1: How has music influenced your life or emotions?",
-        "Q2: Are there specific genres of music that resonate with you?",
-        "Q3: What do you think about the impact of music on society?",
-        "Q4: How would you recommend someone discover new music?"
+        "Q1: How did you become interested in environmental issues?",
+        "Q2: What challenges do you see in promoting environmental awareness?",
+        "Q3: How important do you think it is to protect the environment?",
+        "Q4: What actions can individuals take to be more environmentally friendly?"
       ]
     }
   ]

@@ -3,127 +3,136 @@
     {
       "words": [
         "the",
-        "notebook",
+        "research",
+        "study",
         "on",
-        "desk",
-        "the",
-        "is",
-        "the",
-        "table"
+        "climate",
+        "change",
+        "has",
+        "significant",
+        "implications"
       ],
-      "display": "The notebook is on the desk."
+      "display": "The research study on climate change has significant implications."
     },
     {
       "words": [
-        "he",
-        "studied",
-        "for",
-        "the",
-        "exam",
-        "all",
-        "night",
-        "long"
-      ],
-      "display": "He studied for the exam all night long."
-    },
-    {
-      "words": [
-        "the",
-        "weather",
-        "is",
-        "quite",
-        "pleasant",
-        "this",
-        "afternoon",
-        "today"
-      ],
-      "display": "The weather is quite pleasant this afternoon."
-    },
-    {
-      "words": [
-        "she",
-        "enjoys",
-        "reading",
-        "books",
+        "students",
+        "should",
+        "be",
+        "encouraged",
+        "to",
+        "participate",
         "in",
-        "the",
-        "library",
-        "quietly"
+        "community",
+        "service"
       ],
-      "display": "She enjoys reading books in the library quietly."
+      "display": "Students should be encouraged to participate in community service."
+    },
+    {
+      "words": [
+        "the",
+        "book",
+        "you",
+        "recommended",
+        "was",
+        "both",
+        "informative",
+        "and",
+        "entertaining"
+      ],
+      "display": "The book you recommended was both informative and entertaining."
+    },
+    {
+      "words": [
+        "attending",
+        "lectures",
+        "regularly",
+        "helps",
+        "students",
+        "understand",
+        "the",
+        "material",
+        "better"
+      ],
+      "display": "Attending lectures regularly helps students understand the material better."
     },
     {
       "words": [
         "the",
         "team",
-        "won",
-        "the",
-        "championship",
-        "after",
+        "is",
+        "working",
+        "on",
+        "developing",
         "a",
-        "hard",
-        "season"
+        "new",
+        "software",
+        "application"
       ],
-      "display": "The team won the championship after a hard season."
+      "display": "The team is working on developing a new software application."
     },
     {
       "words": [
-        "we",
-        "should",
-        "discuss",
+        "it",
+        "is",
+        "important",
+        "to",
+        "analyze",
+        "data",
+        "before",
+        "drawing",
+        "conclusions"
+      ],
+      "display": "It is important to analyze data before drawing conclusions."
+    },
+    {
+      "words": [
+        "after",
+        "finishing",
         "the",
         "project",
-        "tomorrow",
-        "in",
+        "we",
+        "will",
+        "present",
+        "our",
+        "findings",
+        "to",
         "the",
-        "meeting"
+        "class"
       ],
-      "display": "We should discuss the project tomorrow in the meeting."
+      "display": "After finishing the project we will present our findings to the class."
     },
     {
       "words": [
-        "can",
-        "you",
-        "explain",
         "the",
-        "importance",
+        "effects",
         "of",
-        "this",
-        "research",
-        "study"
+        "social",
+        "media",
+        "on",
+        "youth",
+        "are",
+        "still",
+        "being",
+        "studied"
       ],
-      "display": "Can you explain the importance of this research study?"
-    },
-    {
-      "words": [
-        "the",
-        "presentation",
-        "was",
-        "very",
-        "informative",
-        "and",
-        "well",
-        "received",
-        "by",
-        "everyone"
-      ],
-      "display": "The presentation was very informative and well received by everyone."
+      "display": "The effects of social media on youth are still being studied."
     }
   ],
   "emailPrompts": [
-    "寄信給教授，詢問期末報告的提交日期及格式。",
-    "寄信給宿舍管理辦公室，請求更換房間的原因。",
-    "寄信給圖書館，詢問延遲歸還書籍的罰款。",
-    "寄信給社團，確認參加下週會議的時間和地點。",
-    "寄信給客服，反映最近購買的商品有缺陷的情況。",
-    "寄信給導師，請教有關研究方向的建議。"
+    "寄信給教授，要求延長提交論文的截止日期，因為遇到個人問題。",
+    "寄信給宿舍管理辦公室，查詢房租的支付方式和截止日期。",
+    "寄信給圖書館，詢問關於圖書館的開放時間和借書規則。",
+    "寄信給學校社團，表達加入某個社團的興趣，並詢問相關活動。",
+    "寄信給客服，反映最近購買的商品存在問題，要求退換貨。",
+    "寄信給學術顧問，請教選課的建議和畢業要求。"
   ],
   "discussionPrompts": [
-    "教授問：「你認為網路對於現代社會的影響是正面還是負面？」",
-    "教授問：「如何看待社交媒體對青少年的心理健康影響？」",
-    "教授問：「在當前環境下，應該如何看待全球化的發展？」",
-    "教授問：「藝術在社會變革中扮演什麼樣的角色？」",
-    "教授問：「科技進步對於教育的未來有何影響？」",
-    "教授問：「你認為人類應該如何應對氣候變遷？」"
+    "教授問：「在學習中，背景知識的重要性是什麼？」",
+    "教授問：「社會媒體影響現代溝通的方式嗎？」",
+    "教授問：「環境保護與經濟發展應該如何平衡？」",
+    "教授問：「技術進步對於職場的影響有哪些？」",
+    "教授問：「藝術在社會變遷中的角色是什麼？」",
+    "教授問：「多元文化社會的優缺點有哪些？」"
   ]
 }
