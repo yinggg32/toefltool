@@ -2,137 +2,130 @@
   "buildSentences": [
     {
       "words": [
+        "students",
+        "need",
+        "to",
+        "submit",
+        "their",
+        "assignments",
+        "by",
+        "friday"
+      ],
+      "display": "Students need to submit their assignments by Friday."
+    },
+    {
+      "words": [
         "the",
         "research",
-        "study",
-        "on",
-        "climate",
-        "change",
-        "has",
-        "significant",
-        "implications"
+        "paper",
+        "was",
+        "published",
+        "in",
+        "an",
+        "international",
+        "journal"
       ],
-      "display": "The research study on climate change has significant implications."
+      "display": "The research paper was published in an international journal."
+    },
+    {
+      "words": [
+        "many",
+        "people",
+        "believe",
+        "that",
+        "exercise",
+        "is",
+        "important",
+        "for",
+        "health"
+      ],
+      "display": "Many people believe that exercise is important for health."
+    },
+    {
+      "words": [
+        "the",
+        "professor",
+        "gave",
+        "a",
+        "lecture",
+        "on",
+        "environmental",
+        "sustainability"
+      ],
+      "display": "The professor gave a lecture on environmental sustainability."
     },
     {
       "words": [
         "students",
         "should",
-        "be",
-        "encouraged",
+        "attend",
+        "the",
+        "workshop",
         "to",
-        "participate",
-        "in",
-        "community",
-        "service"
+        "improve",
+        "their",
+        "skills"
       ],
-      "display": "Students should be encouraged to participate in community service."
+      "display": "Students should attend the workshop to improve their skills."
     },
     {
       "words": [
         "the",
-        "book",
-        "you",
-        "recommended",
-        "was",
-        "both",
-        "informative",
-        "and",
-        "entertaining"
+        "library",
+        "will",
+        "close",
+        "early",
+        "on",
+        "fridays",
+        "for",
+        "maintenance"
       ],
-      "display": "The book you recommended was both informative and entertaining."
+      "display": "The library will close early on Fridays for maintenance."
     },
     {
       "words": [
-        "attending",
-        "lectures",
-        "regularly",
-        "helps",
-        "students",
-        "understand",
+        "please",
+        "make",
+        "sure",
+        "to",
+        "read",
         "the",
-        "material",
-        "better"
+        "instructions",
+        "carefully",
+        "before",
+        "starting"
       ],
-      "display": "Attending lectures regularly helps students understand the material better."
+      "display": "Please make sure to read the instructions carefully before starting."
     },
     {
       "words": [
         "the",
         "team",
-        "is",
-        "working",
-        "on",
-        "developing",
-        "a",
-        "new",
-        "software",
-        "application"
-      ],
-      "display": "The team is working on developing a new software application."
-    },
-    {
-      "words": [
-        "it",
-        "is",
-        "important",
-        "to",
-        "analyze",
-        "data",
-        "before",
-        "drawing",
-        "conclusions"
-      ],
-      "display": "It is important to analyze data before drawing conclusions."
-    },
-    {
-      "words": [
+        "won",
+        "the",
+        "championship",
         "after",
-        "finishing",
-        "the",
-        "project",
-        "we",
-        "will",
-        "present",
-        "our",
-        "findings",
-        "to",
-        "the",
-        "class"
+        "a",
+        "hard-fought",
+        "season"
       ],
-      "display": "After finishing the project we will present our findings to the class."
-    },
-    {
-      "words": [
-        "the",
-        "effects",
-        "of",
-        "social",
-        "media",
-        "on",
-        "youth",
-        "are",
-        "still",
-        "being",
-        "studied"
-      ],
-      "display": "The effects of social media on youth are still being studied."
+      "display": "The team won the championship after a hard-fought season."
     }
   ],
   "emailPrompts": [
-    "寄信給教授，要求延長提交論文的截止日期，因為遇到個人問題。",
-    "寄信給宿舍管理辦公室，查詢房租的支付方式和截止日期。",
-    "寄信給圖書館，詢問關於圖書館的開放時間和借書規則。",
-    "寄信給學校社團，表達加入某個社團的興趣，並詢問相關活動。",
-    "寄信給客服，反映最近購買的商品存在問題，要求退換貨。",
-    "寄信給學術顧問，請教選課的建議和畢業要求。"
+    "寄信給教授，詢問期末報告的截止日期及要求。",
+    "寄信給宿舍辦公室，請求更換房間的安排。",
+    "寄信給圖書館，詢問如何續借書籍的流程。",
+    "寄信給學生會，表達對即將舉辦的活動的意見和建議。",
+    "寄信給客服，反映最近購買商品的問題並請求退款。",
+    "寄信給同學，確認下週小組報告的會議時間和地點。"
   ],
   "discussionPrompts": [
-    "教授問：「在學習中，背景知識的重要性是什麼？」",
-    "教授問：「社會媒體影響現代溝通的方式嗎？」",
-    "教授問：「環境保護與經濟發展應該如何平衡？」",
-    "教授問：「技術進步對於職場的影響有哪些？」",
-    "教授問：「藝術在社會變遷中的角色是什麼？」",
-    "教授問：「多元文化社會的優缺點有哪些？」"
+    "教授問：「你認為社交媒體對年輕人的影響是正面還是負面？」",
+    "教授問：「在當今社會，科技進步是否值得我們感到擔憂？」",
+    "教授問：「應該如何平衡環境保護與經濟發展？」",
+    "教授問：「文化差異如何影響跨國企業的運作？」",
+    "教授問：「教育系統是否應該更注重實踐技能的培養？」",
+    "教授問：「全球化對於本土文化的影響是什麼？」"
   ]
 }

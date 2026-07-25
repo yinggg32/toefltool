@@ -5694,5 +5694,61 @@
     "zh": "重力井",
     "ex": "A gravity well describes the gravitational field around a massive body in space.",
     "cat": "📰 每日新詞：astronomy and space science"
+  },
+  {
+    "word": "anti-realism",
+    "pos": "n.",
+    "root": "anti-反+real-真實+ism-主義",
+    "zh": "反實在論",
+    "ex": "Anti-realism challenges the existence of an objective reality independent of human perception.",
+    "cat": "📰 每日新詞：philosophy"
+  },
+  {
+    "word": "consequentialism",
+    "pos": "n.",
+    "root": "consequent-結果+ial-的+ism-主義",
+    "zh": "結果主義",
+    "ex": "Consequentialism evaluates the moral worth of actions based on their outcomes.",
+    "cat": "📰 每日新詞：philosophy"
+  },
+  {
+    "word": "individualism",
+    "pos": "n.",
+    "root": "individual-個人+ism-主義",
+    "zh": "個人主義",
+    "ex": "Individualism advocates for the moral worth of the individual over the collective.",
+    "cat": "📰 每日新詞：philosophy"
+  },
+  {
+    "word": "postmodernism",
+    "pos": "n.",
+    "root": "post-後+modern-現代+ism-主義",
+    "zh": "後現代主義",
+    "ex": "Postmodernism questions the notions of objective truth and universal narratives.",
+    "cat": "📰 每日新詞：philosophy"
+  },
+  {
+    "word": "dialectical",
+    "pos": "adj.",
+    "root": "dialect-對話+ical-的",
+    "zh": "辯證的",
+    "ex": "Dialectical reasoning involves the contradiction and synthesis of opposing ideas.",
+    "cat": "📰 每日新詞：philosophy"
+  },
+  {
+    "word": "humanism",
+    "pos": "n.",
+    "root": "human-人類+ism-主義",
+    "zh": "人文主義",
+    "ex": "Humanism emphasizes the value and agency of human beings.",
+    "cat": "📰 每日新詞：philosophy"
+  },
+  {
+    "word": "phenomenalism",
+    "pos": "n.",
+    "root": "phenomenon-現象+al-的+ism-主義",
+    "zh": "現象主義",
+    "ex": "Phenomenalism argues that physical objects do not exist independently of our perceptions.",
+    "cat": "📰 每日新詞：philosophy"
   }
 ]

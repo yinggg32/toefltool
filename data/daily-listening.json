@@ -1,116 +1,116 @@
 {
   "chooseResponse": [
     {
-      "q": "What time is the meeting tomorrow?",
+      "q": "Did you finish the group project?",
       "options": [
-        "At 10 AM",
-        "I forgot",
-        "In the auditorium",
-        "I can't make it"
+        "Yes, we completed it yesterday.",
+        "No, we ran out of time.",
+        "I haven't started it yet.",
+        "I'm working on it now."
       ],
       "correctIndex": 0
     }
   ],
   "conversation": {
-    "transcript": "Student: Hey, have you finished the report for Professor Smith?\nAdvisor: Not yet, I'm still gathering my research materials.\nStudent: I heard it’s due next week. Do you need any help?\nAdvisor: That would be great! I could use another set of eyes on it.",
+    "transcript": "Student: Have you seen the new library study rooms?\nAdvisor: Yes, they are fantastic! Have you booked one yet?\nStudent: Not yet, but I plan to this week.\nAdvisor: That's a good idea. They fill up quickly, especially during finals.",
     "questions": [
       {
-        "q": "What is the main topic of their conversation?",
+        "q": "What is the main topic of the conversation?",
         "options": [
-          "A project deadline",
-          "A research paper",
-          "A class schedule",
-          "An exam date"
-        ],
-        "correctIndex": 1,
-        "explain": "他們的對話主要是關於一份研究報告的截止日期。"
-      },
-      {
-        "q": "What does the student offer to do?",
-        "options": [
-          "Help with the report",
-          "Get more research materials",
-          "Talk to the professor",
-          "Edit a different paper"
+          "Library study rooms",
+          "Group projects",
+          "Final exams",
+          "Student housing"
         ],
         "correctIndex": 0,
-        "explain": "學生提議幫助對方完成報告。"
+        "explain": "這段對話主要談論的是圖書館的學習室。"
+      },
+      {
+        "q": "Why should the student book a room soon?",
+        "options": [
+          "Rooms are spacious",
+          "They fill up quickly",
+          "It's a requirement",
+          "They are free to use"
+        ],
+        "correctIndex": 1,
+        "explain": "因為這些學習室很快就會被預訂。"
       }
     ]
   },
   "announcement": {
-    "transcript": "Attention students, there will be a guest lecture on climate change this Friday at 1 PM in the main auditorium. The speaker is a renowned climate scientist, and all are encouraged to attend. Please arrive early to secure your seats.",
+    "transcript": "Attention students: The campus gym will be closed for maintenance from Monday to Wednesday next week. We apologize for any inconvenience this may cause. Please plan your workouts accordingly.",
     "questions": [
       {
-        "q": "Who is the speaker at the guest lecture?",
+        "q": "When will the gym be closed?",
         "options": [
-          "A student",
-          "A climate scientist",
-          "A professor",
-          "An environmental activist"
+          "Monday to Wednesday",
+          "Tuesday to Thursday",
+          "All week",
+          "Only on weekends"
         ],
-        "correctIndex": 1,
-        "explain": "演講者是一位著名的氣候科學家。"
+        "correctIndex": 0,
+        "explain": "健身房將在下星期一到星期三關閉。"
       },
       {
-        "q": "When will the guest lecture take place?",
+        "q": "Why is the gym closing?",
         "options": [
-          "This Thursday",
-          "Next Friday",
-          "This Friday",
-          "Next Monday"
+          "For staff training",
+          "For maintenance",
+          "For a special event",
+          "For cleaning"
         ],
-        "correctIndex": 2,
-        "explain": "這場客座演講定於本週五舉行。"
+        "correctIndex": 1,
+        "explain": "健身房關閉是因為需要進行維修。"
       }
     ]
   },
   "talk": {
-    "transcript": "Today, we're going to discuss renewable energy sources, which are vital for sustainable development. These sources include solar, wind, hydro, and geothermal energy. Renewable energy is beneficial because it reduces greenhouse gas emissions and diminishes our reliance on fossil fuels. As technology advances, the efficiency and affordability of these energy sources improve, making them more accessible to everyone. Transitioning to renewable energy not only helps combat climate change but also fosters economic growth by creating new jobs in these emerging industries. Encouraging the use of renewable energy is essential for a healthier planet.",
+    "transcript": "Today, we will explore the concept of sustainable development. Sustainable development is a way of meeting our own needs without compromising the ability of future generations to meet their own needs. It encompasses three main pillars: economic growth, environmental protection, and social equity. By balancing these three aspects, we can create a more sustainable and equitable world. For example, investing in renewable energy not only helps the environment but also creates jobs and boosts the economy. As future leaders, it is crucial for you to understand and promote sustainability in your respective fields.",
     "questions": [
       {
-        "q": "What is the main focus of the talk?",
+        "q": "What is sustainable development?",
         "options": [
-          "Fossil fuels",
-          "Climate change",
-          "Renewable energy sources",
-          "Energy efficiency"
+          "Meeting future needs",
+          "Balancing economic factors",
+          "Meeting present needs",
+          "All of the above"
         ],
-        "correctIndex": 2,
-        "explain": "談話的主要重點是可再生能源。"
+        "correctIndex": 3,
+        "explain": "可持續發展是指在不損害未來需求的情況下滿足當前需求。"
       },
       {
-        "q": "Why is renewable energy important?",
+        "q": "What are the three pillars of sustainable development?",
         "options": [
-          "It increases fossil fuel use",
-          "It helps combat climate change",
-          "It is less efficient",
-          "It is more expensive"
+          "Economic, social, cultural",
+          "Environmental, economic, social",
+          "Technological, environmental, economic",
+          "Cultural, financial, social"
         ],
         "correctIndex": 1,
-        "explain": "可再生能源對於對抗氣候變化非常重要。"
+        "explain": "可持續發展的三大支柱是經濟、環境和社會。"
       },
       {
-        "q": "What are some examples of renewable energy?",
+        "q": "Why is renewable energy important for sustainability?",
         "options": [
-          "Coal and oil",
-          "Solar and wind",
-          "Nuclear and natural gas",
-          "Biomass and uranium"
+          "It is cheaper",
+          "It helps the environment",
+          "It provides entertainment",
+          "It reduces technology"
         ],
         "correctIndex": 1,
-        "explain": "可再生能源的例子包括太陽能和風能。"
+        "explain": "可再生能源對可持續性很重要，因為它有助於保護環境。"
       },
       {
-        "q": "What does the speaker suggest about the future of renewable energy?",
+        "q": "Who are future leaders encouraged to promote sustainability?",
         "options": [
-          "It will become less available",
-          "It will create new jobs",
-          "It will harm the economy",
-          "It will not be effective"
+          "Scientists",
+          "Students",
+          "Politicians",
+          "Business owners"
         ],
         "correctIndex": 1,
-        "explain": "演講者建議可再生能源將創造新的就業機會。"
+        "explain": "未來的領導者被鼓勵在各自的領域中推動可持續性。"
       }
     ]
   }
