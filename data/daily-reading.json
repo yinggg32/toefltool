@@ -2,107 +2,119 @@
   "cloze": {
     "segments": [
       {
-        "text": "The human brain is an incredibly complex organ. It is primarily composed of glial cells and n"
+        "text": "The concept of a "
       },
       {
-        "blank": "eurons"
+        "blank": "univer"
       },
       {
-        "text": ", which transmit information through electrical and chemical signals. The brain's structure can be divided into several regions, each responsible for different functions. For instance, the c"
+        "text": " is fundamental to many fields of study. It refers to a system where multiple "
       },
       {
-        "blank": "erebral"
+        "blank": "netwo"
       },
       {
-        "text": " cortex is involved in higher-order functions such as reasoning and decision-making, while the c"
+        "text": " exist and interact with each other. For example, in biology, "
       },
       {
-        "blank": "erebellum"
+        "blank": "eco"
       },
       {
-        "text": " coordinates voluntary movements. Understanding the brain's anatomy is crucial for advancing our knowledge in fields like psychology and medicine, especially in treating n"
+        "text": "systems comprise various organisms and their physical environments. Understanding these systems is essential for addressing complex issues like "
       },
       {
-        "blank": "eurological"
+        "blank": "biodi"
       },
       {
-        "text": " disorders. Research continues to uncover the intricate relationships between various brain regions and their impact on behavior and cognition."
+        "text": "ersity loss. In social sciences, the study of "
+      },
+      {
+        "blank": "societ"
+      },
+      {
+        "text": " helps us analyze how individuals and groups behave within larger contexts. Thus, a "
+      },
+      {
+        "blank": "cohe"
+      },
+      {
+        "text": "sive understanding of these networks can lead to better solutions for real-world problems."
       }
     ]
   },
   "academic": {
-    "passage": "The study of brain structure and function is vital for understanding human behavior. The brain consists of various parts, each with specific roles. The cerebral cortex, for example, is crucial for decision-making, while the cerebellum helps with movement coordination. Advances in brain research can lead to better treatments for neurological disorders, providing insights into the complex workings of the mind.",
+    "passage": "The study of networks is an essential area in both science and social sciences. In natural sciences, ecosystems demonstrate how various interactions among organisms contribute to their survival and evolution. In social sciences, networks reveal the relationships and influences between individuals, communities, and institutions. Understanding these connections is crucial for tackling modern challenges such as climate change and social inequality. By analyzing networks, researchers can identify significant patterns and develop strategies that promote sustainability and social welfare.",
     "questions": [
       {
-        "q": "What is the main focus of the passage?",
+        "q": "What is the main idea of the passage?",
         "options": [
-          "The complexity of the brain",
-          "The functions of the cerebellum",
-          "Treatment of neurological disorders",
-          "The structure of glial cells"
+          "The importance of networks in various fields",
+          "The definition of ecosystems",
+          "The influence of climate change",
+          "The study of social behaviors"
         ],
         "correctIndex": 0,
-        "explain": "這段文字的主要焦點是人腦的複雜性。"
+        "explain": "這篇文章的主要思想是網絡在各個領域中的重要性。"
       },
       {
-        "q": "Which part of the brain is associated with decision-making?",
+        "q": "What role do ecosystems play in the study of networks?",
         "options": [
-          "Cerebellum",
-          "Cerebral cortex",
-          "Glial cells",
-          "Neurons"
+          "They show individual behaviors",
+          "They illustrate interactions among organisms",
+          "They represent social connections",
+          "They define climate change"
         ],
         "correctIndex": 1,
-        "explain": "大腦皮層與決策制定有關。"
+        "explain": "生態系統展示了生物之間的互動，這是研究網絡的一部分。"
       },
       {
-        "q": "Why is understanding brain structure important?",
+        "q": "Why is understanding networks considered crucial?",
         "options": [
-          "It helps in movement coordination",
-          "It aids in psychological research",
-          "It improves treatment for disorders",
-          "It reveals the anatomy of glial cells"
+          "It helps in defining climate change",
+          "It aids in analyzing individual behaviors",
+          "It leads to solutions for complex challenges",
+          "It simplifies scientific research"
         ],
         "correctIndex": 2,
-        "explain": "理解大腦結構對於改善疾病的治療非常重要。"
+        "explain": "理解網絡對於解決複雜挑戰至關重要，因為它們可以幫助識別重要的模式。"
       },
       {
-        "q": "What does the word 'vital' in the passage most likely mean?",
+        "q": "What does the term 'ecosystem' most closely refer to in the passage?",
         "options": [
-          "Unimportant",
-          "Essential",
-          "Complex",
-          "Difficult"
+          "A network of social connections",
+          "A community of interacting organisms",
+          "A pattern of scientific analysis",
+          "A framework for climate solutions"
         ],
         "correctIndex": 1,
-        "explain": "在這段文字中，'vital'的意思是'必不可少的'。"
+        "explain": "在文章中，'生態系統'最接近於指一個相互作用的生物社區。"
       }
     ]
   },
   "daily": {
-    "passage": "Attention students: The library will have extended hours during finals week. Please check the schedule posted on the library door for specific times. We hope these changes will help you prepare effectively!",
+    "passage": "Attention students: The library will be holding an extended hours program during finals week. From December 1st to December 7th, the library will remain open from 8 AM to 2 AM. We encourage all students to take advantage of this opportunity for study and research.",
     "questions": [
       {
-        "q": "What is the purpose of the announcement?",
+        "q": "What is the special program mentioned in the notice?",
         "options": [
-          "To inform about library hours",
-          "To change exam dates",
-          "To promote library events",
-          "To encourage group study"
-        ],
-        "correctIndex": 0,
-        "explain": "這則公告的目的是通知學生有關圖書館的開放時間。"
-      },
-      {
-        "q": "Where can students find the specific schedule?",
-        "options": [
-          "On the library website",
-          "On the library door",
-          "In the student center",
-          "In the cafeteria"
+          "Library closing hours",
+          "Extended library hours during finals",
+          "New library open hours",
+          "Library events for students"
         ],
         "correctIndex": 1,
-        "explain": "學生可以在圖書館的門上找到具體的時間表。"
+        "explain": "這個通知提到的特別計劃是期末考試期間的延長圖書館開放時間。"
+      },
+      {
+        "q": "When will the library have extended hours?",
+        "options": [
+          "From December 1st to December 7th",
+          "From December 1st to December 15th",
+          "During regular school hours",
+          "Only on weekends"
+        ],
+        "correctIndex": 0,
+        "explain": "圖書館的延長開放時間是從12月1日到12月7日。"
       }
     ]
   }

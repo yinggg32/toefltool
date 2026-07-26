@@ -5750,5 +5750,101 @@
     "zh": "現象主義",
     "ex": "Phenomenalism argues that physical objects do not exist independently of our perceptions.",
     "cat": "📰 每日新詞：philosophy"
+  },
+  {
+    "word": "symptom",
+    "pos": "n.",
+    "root": "症狀 (sym + tom)",
+    "zh": "症狀",
+    "ex": "Recognizing symptoms early can lead to better health outcomes.",
+    "cat": "📰 每日新詞：public health"
+  },
+  {
+    "word": "wellness",
+    "pos": "n.",
+    "root": "健康 (well + ness)",
+    "zh": "健康",
+    "ex": "Promoting wellness can reduce the burden of chronic diseases.",
+    "cat": "📰 每日新詞：public health"
+  },
+  {
+    "word": "epidemic",
+    "pos": "n./adj.",
+    "root": "流行病 (epi + demic)",
+    "zh": "流行病",
+    "ex": "The epidemic of influenza typically peaks during the winter months.",
+    "cat": "📰 每日新詞：public health"
+  },
+  {
+    "word": "indicator",
+    "pos": "n.",
+    "root": "指標 (in + dic + ator)",
+    "zh": "指標",
+    "ex": "Health indicators provide valuable data for assessing community health.",
+    "cat": "📰 每日新詞：public health"
+  },
+  {
+    "word": "rehabilitation",
+    "pos": "n.",
+    "root": "康復 (rehabilitate + ion)",
+    "zh": "康復",
+    "ex": "Rehabilitation services are crucial for individuals recovering from serious illnesses.",
+    "cat": "📰 每日新詞：public health"
+  },
+  {
+    "word": "contagious",
+    "pos": "adj.",
+    "root": "傳染的 (con + tag + ious)",
+    "zh": "傳染性的",
+    "ex": "Contagious diseases require careful management to prevent outbreaks.",
+    "cat": "📰 每日新詞：public health"
+  },
+  {
+    "word": "demographic",
+    "pos": "adj./n.",
+    "root": "人口統計 (demo + graphic)",
+    "zh": "人口統計的",
+    "ex": "Demographic data helps inform public health strategies and resource allocation.",
+    "cat": "📰 每日新詞：public health"
+  },
+  {
+    "word": "resource",
+    "pos": "n.",
+    "root": "資源 (re + source)",
+    "zh": "資源",
+    "ex": "Public health resources should be allocated based on community needs.",
+    "cat": "📰 每日新詞：public health"
+  },
+  {
+    "word": "lifestyle",
+    "pos": "n.",
+    "root": "生活方式 (life + style)",
+    "zh": "生活方式",
+    "ex": "A healthy lifestyle can significantly reduce the risk of chronic diseases.",
+    "cat": "📰 每日新詞：public health"
+  },
+  {
+    "word": "initiative",
+    "pos": "n.",
+    "root": "倡議 (init + iative)",
+    "zh": "倡議",
+    "ex": "Public health initiatives often involve collaboration between various stakeholders.",
+    "cat": "📰 每日新詞：public health"
+  },
+  {
+    "word": "effectiveness",
+    "pos": "n.",
+    "root": "有效性 (effect + iveness)",
+    "zh": "有效性",
+    "ex": "The effectiveness of vaccination programs is supported by extensive research.",
+    "cat": "📰 每日新詞：public health"
+  },
+  {
+    "word": "strategy",
+    "pos": "n.",
+    "root": "策略 (strateg + y)",
+    "zh": "策略",
+    "ex": "Developing a comprehensive health strategy can address multiple health issues.",
+    "cat": "📰 每日新詞：public health"
   }
 ]

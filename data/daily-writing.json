@@ -3,129 +3,123 @@
     {
       "words": [
         "students",
-        "need",
-        "to",
-        "submit",
-        "their",
-        "assignments",
-        "by",
-        "friday"
+        "help",
+        "the",
+        "can",
+        "the",
+        "tutors",
+        "with",
+        "homework"
       ],
-      "display": "Students need to submit their assignments by Friday."
+      "display": "The tutors can help the students with homework."
     },
     {
       "words": [
         "the",
-        "research",
-        "paper",
-        "was",
-        "published",
-        "in",
-        "an",
-        "international",
-        "journal"
-      ],
-      "display": "The research paper was published in an international journal."
-    },
-    {
-      "words": [
-        "many",
-        "people",
-        "believe",
-        "that",
+        "benefits",
+        "of",
         "exercise",
-        "is",
-        "important",
-        "for",
+        "including",
+        "improved",
+        "mental",
         "health"
       ],
-      "display": "Many people believe that exercise is important for health."
+      "display": "The benefits of exercise include improved mental health."
+    },
+    {
+      "words": [
+        "to",
+        "effective",
+        "analyze",
+        "data",
+        "researchers",
+        "must",
+        "learn",
+        "how"
+      ],
+      "display": "Researchers must learn how to analyze data effectively."
     },
     {
       "words": [
         "the",
-        "professor",
-        "gave",
-        "a",
-        "lecture",
-        "on",
-        "environmental",
-        "sustainability"
+        "program",
+        "provides",
+        "opportunities",
+        "for",
+        "internships",
+        "and",
+        "networking"
       ],
-      "display": "The professor gave a lecture on environmental sustainability."
+      "display": "The program provides opportunities for internships and networking."
     },
     {
       "words": [
         "students",
         "should",
-        "attend",
+        "review",
         "the",
-        "workshop",
-        "to",
-        "improve",
-        "their",
-        "skills"
-      ],
-      "display": "Students should attend the workshop to improve their skills."
-    },
-    {
-      "words": [
-        "the",
-        "library",
-        "will",
-        "close",
-        "early",
-        "on",
-        "fridays",
-        "for",
-        "maintenance"
-      ],
-      "display": "The library will close early on Fridays for maintenance."
-    },
-    {
-      "words": [
-        "please",
-        "make",
-        "sure",
-        "to",
-        "read",
-        "the",
-        "instructions",
-        "carefully",
+        "material",
         "before",
-        "starting"
+        "the",
+        "exam"
       ],
-      "display": "Please make sure to read the instructions carefully before starting."
+      "display": "Students should review the material before the exam."
+    },
+    {
+      "words": [
+        "a",
+        "strong",
+        "thesis",
+        "statement",
+        "is",
+        "essential",
+        "for",
+        "academic",
+        "writing"
+      ],
+      "display": "A strong thesis statement is essential for academic writing."
+    },
+    {
+      "words": [
+        "reading",
+        "for",
+        "pleasure",
+        "can",
+        "improve",
+        "language",
+        "skills",
+        "significantly"
+      ],
+      "display": "Reading for pleasure can improve language skills significantly."
     },
     {
       "words": [
         "the",
-        "team",
-        "won",
-        "the",
-        "championship",
-        "after",
-        "a",
-        "hard-fought",
-        "season"
+        "professor",
+        "encouraged",
+        "students",
+        "to",
+        "participate",
+        "in",
+        "class"
       ],
-      "display": "The team won the championship after a hard-fought season."
+      "display": "The professor encouraged students to participate in class."
     }
   ],
   "emailPrompts": [
-    "寄信給教授，詢問期末報告的截止日期及要求。",
-    "寄信給宿舍辦公室，請求更換房間的安排。",
-    "寄信給圖書館，詢問如何續借書籍的流程。",
-    "寄信給學生會，表達對即將舉辦的活動的意見和建議。",
-    "寄信給客服，反映最近購買商品的問題並請求退款。",
-    "寄信給同學，確認下週小組報告的會議時間和地點。"
+    "寄信給宿舍辦公室，請求更換宿舍房間的安排。",
+    "寄信給圖書館，詢問如何借書的程序。",
+    "寄信給社團會長，表達想參加社團活動的意願。",
+    "寄信給教授，請求延長提交論文的截止日期。",
+    "寄信給客戶服務中心，反映最近的一次購物經驗。",
+    "寄信給學校的職業輔導中心，詢問實習機會的資訊。"
   ],
   "discussionPrompts": [
-    "教授問：「你認為社交媒體對年輕人的影響是正面還是負面？」",
-    "教授問：「在當今社會，科技進步是否值得我們感到擔憂？」",
-    "教授問：「應該如何平衡環境保護與經濟發展？」",
-    "教授問：「文化差異如何影響跨國企業的運作？」",
-    "教授問：「教育系統是否應該更注重實踐技能的培養？」",
-    "教授問：「全球化對於本土文化的影響是什麼？」"
+    "教授問：「社交媒體對青少年的心理健康有何影響？」",
+    "教授問：「科技進步是否會取代人類的工作？」",
+    "教授問：「全球暖化的主要原因是什麼？」",
+    "教授問：「在教育中，科技的角色應該是什麼？」",
+    "教授問：「文化差異如何影響國際關係？」",
+    "教授問：「藝術在社會中扮演什麼樣的角色？」"
   ]
 }

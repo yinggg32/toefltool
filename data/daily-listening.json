@@ -1,116 +1,116 @@
 {
   "chooseResponse": [
     {
-      "q": "Did you finish the group project?",
+      "q": "What do you think about the new café?",
       "options": [
-        "Yes, we completed it yesterday.",
-        "No, we ran out of time.",
-        "I haven't started it yet.",
-        "I'm working on it now."
+        "It's great!",
+        "I don't like it.",
+        "It's too expensive.",
+        "I haven't been there."
       ],
       "correctIndex": 0
     }
   ],
   "conversation": {
-    "transcript": "Student: Have you seen the new library study rooms?\nAdvisor: Yes, they are fantastic! Have you booked one yet?\nStudent: Not yet, but I plan to this week.\nAdvisor: That's a good idea. They fill up quickly, especially during finals.",
+    "transcript": "Student: Have you tried the new café on campus?\nAdvisor: Yes, I went there last week. The coffee is amazing!\nStudent: Really? What else do they serve?\nAdvisor: They have a variety of pastries and sandwiches too.",
     "questions": [
       {
-        "q": "What is the main topic of the conversation?",
+        "q": "What did the advisor think of the café?",
         "options": [
-          "Library study rooms",
-          "Group projects",
-          "Final exams",
-          "Student housing"
+          "The coffee is amazing.",
+          "It's too expensive.",
+          "I didn't like it.",
+          "It's always crowded."
         ],
         "correctIndex": 0,
-        "explain": "這段對話主要談論的是圖書館的學習室。"
+        "explain": "顧問認為咖啡很好喝。"
       },
       {
-        "q": "Why should the student book a room soon?",
+        "q": "What does the student want to know?",
         "options": [
-          "Rooms are spacious",
-          "They fill up quickly",
-          "It's a requirement",
-          "They are free to use"
+          "About the coffee quality.",
+          "About the café's hours.",
+          "What food they serve.",
+          "The café's location."
         ],
-        "correctIndex": 1,
-        "explain": "因為這些學習室很快就會被預訂。"
+        "correctIndex": 2,
+        "explain": "學生想知道他們提供什麼食物。"
       }
     ]
   },
   "announcement": {
-    "transcript": "Attention students: The campus gym will be closed for maintenance from Monday to Wednesday next week. We apologize for any inconvenience this may cause. Please plan your workouts accordingly.",
+    "transcript": "Attention students! There will be an outdoor movie night this Friday at 8 PM on the main lawn. Bring your blankets and snacks, and enjoy a film under the stars! Don't miss out on this fun evening!",
     "questions": [
       {
-        "q": "When will the gym be closed?",
+        "q": "When is the outdoor movie night?",
         "options": [
-          "Monday to Wednesday",
-          "Tuesday to Thursday",
-          "All week",
-          "Only on weekends"
+          "This Friday.",
+          "Next Monday.",
+          "Tomorrow night.",
+          "This weekend."
         ],
         "correctIndex": 0,
-        "explain": "健身房將在下星期一到星期三關閉。"
+        "explain": "戶外電影之夜是在這個星期五。"
       },
       {
-        "q": "Why is the gym closing?",
+        "q": "What should students bring?",
         "options": [
-          "For staff training",
-          "For maintenance",
-          "For a special event",
-          "For cleaning"
+          "Their textbooks.",
+          "Blankets and snacks.",
+          "Chairs and drinks.",
+          "Friends only."
         ],
         "correctIndex": 1,
-        "explain": "健身房關閉是因為需要進行維修。"
+        "explain": "學生應該帶來毛毯和小吃。"
       }
     ]
   },
   "talk": {
-    "transcript": "Today, we will explore the concept of sustainable development. Sustainable development is a way of meeting our own needs without compromising the ability of future generations to meet their own needs. It encompasses three main pillars: economic growth, environmental protection, and social equity. By balancing these three aspects, we can create a more sustainable and equitable world. For example, investing in renewable energy not only helps the environment but also creates jobs and boosts the economy. As future leaders, it is crucial for you to understand and promote sustainability in your respective fields.",
+    "transcript": "Today, we're going to discuss the importance of biodiversity. Biodiversity refers to the variety of life on Earth, including the different species of plants, animals, and microorganisms. It's crucial for ecosystem stability and resilience. A diverse ecosystem can better withstand environmental changes, such as climate change or natural disasters. Furthermore, biodiversity provides us with essential services, like pollination of crops, clean water, and disease regulation. Protecting biodiversity is not just an environmental issue; it's vital for human survival and well-being.",
     "questions": [
       {
-        "q": "What is sustainable development?",
+        "q": "What does biodiversity refer to?",
         "options": [
-          "Meeting future needs",
-          "Balancing economic factors",
-          "Meeting present needs",
-          "All of the above"
-        ],
-        "correctIndex": 3,
-        "explain": "可持續發展是指在不損害未來需求的情況下滿足當前需求。"
-      },
-      {
-        "q": "What are the three pillars of sustainable development?",
-        "options": [
-          "Economic, social, cultural",
-          "Environmental, economic, social",
-          "Technological, environmental, economic",
-          "Cultural, financial, social"
+          "Different climates on Earth.",
+          "Variety of life on Earth.",
+          "Different ecosystems only.",
+          "Species extinction rates."
         ],
         "correctIndex": 1,
-        "explain": "可持續發展的三大支柱是經濟、環境和社會。"
+        "explain": "生物多樣性是指地球上生命的多樣性。"
       },
       {
-        "q": "Why is renewable energy important for sustainability?",
+        "q": "Why is biodiversity important for ecosystems?",
         "options": [
-          "It is cheaper",
-          "It helps the environment",
-          "It provides entertainment",
-          "It reduces technology"
+          "It reduces pollution.",
+          "It prevents deforestation.",
+          "It stabilizes ecosystems.",
+          "It increases temperatures."
         ],
-        "correctIndex": 1,
-        "explain": "可再生能源對可持續性很重要，因為它有助於保護環境。"
+        "correctIndex": 2,
+        "explain": "生物多樣性有助於穩定生態系統。"
       },
       {
-        "q": "Who are future leaders encouraged to promote sustainability?",
+        "q": "What service does biodiversity provide?",
         "options": [
-          "Scientists",
-          "Students",
-          "Politicians",
-          "Business owners"
+          "Only food production.",
+          "Cultural heritage.",
+          "Pollination of crops.",
+          "Only tourism opportunities."
         ],
-        "correctIndex": 1,
-        "explain": "未來的領導者被鼓勵在各自的領域中推動可持續性。"
+        "correctIndex": 2,
+        "explain": "生物多樣性提供了作物授粉的服務。"
+      },
+      {
+        "q": "What is a consequence of losing biodiversity?",
+        "options": [
+          "Increased crop yields.",
+          "Better disease regulation.",
+          "Less resilience to changes.",
+          "More habitats for wildlife."
+        ],
+        "correctIndex": 2,
+        "explain": "失去生物多樣性會導致對變化的抵抗力降低。"
       }
     ]
   }
