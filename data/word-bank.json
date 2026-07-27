@@ -5846,5 +5846,93 @@
     "zh": "策略",
     "ex": "Developing a comprehensive health strategy can address multiple health issues.",
     "cat": "📰 每日新詞：public health"
+  },
+  {
+    "word": "opposition",
+    "pos": "n.",
+    "root": "反對 (fǎnduì) - opposition",
+    "zh": "反對",
+    "ex": "The opposition party plays a vital role in holding the government accountable.",
+    "cat": "📰 每日新詞：political science"
+  },
+  {
+    "word": "regime",
+    "pos": "n.",
+    "root": "政權 (zhèngquán) - regime",
+    "zh": "政權",
+    "ex": "The regime change led to significant political and social upheaval.",
+    "cat": "📰 每日新詞：political science"
+  },
+  {
+    "word": "coercion",
+    "pos": "n.",
+    "root": "脅迫 (xiépò) - coercion",
+    "zh": "脅迫",
+    "ex": "Coercion is often employed by authoritarian regimes to maintain control.",
+    "cat": "📰 每日新詞：political science"
+  },
+  {
+    "word": "political",
+    "pos": "adj.",
+    "root": "政治的 (zhèngzhìde) - political",
+    "zh": "政治的",
+    "ex": "Political discourse shapes public opinion and policy decisions.",
+    "cat": "📰 每日新詞：political science"
+  },
+  {
+    "word": "internationalism",
+    "pos": "n.",
+    "root": "國際主義 (guójìzhǔyì) - internationalism",
+    "zh": "國際主義",
+    "ex": "Internationalism promotes cooperation among nations to address global challenges.",
+    "cat": "📰 每日新詞：political science"
+  },
+  {
+    "word": "consensus",
+    "pos": "n.",
+    "root": "共識 (gòngshì) - consensus",
+    "zh": "共識",
+    "ex": "Achieving consensus is critical for effective governance.",
+    "cat": "📰 每日新詞：political science"
+  },
+  {
+    "word": "amendment",
+    "pos": "n.",
+    "root": "修正 (xiūzhèng) - amendment",
+    "zh": "修正",
+    "ex": "The amendment process allows for changes to the constitution.",
+    "cat": "📰 每日新詞：political science"
+  },
+  {
+    "word": "mobilization",
+    "pos": "n.",
+    "root": "動員 (dòngyuán) - mobilization",
+    "zh": "動員",
+    "ex": "Mobilization of resources is necessary during times of political crisis.",
+    "cat": "📰 每日新詞：political science"
+  },
+  {
+    "word": "partisanship",
+    "pos": "n.",
+    "root": "黨派性 (dǎngpàixìng) - partisanship",
+    "zh": "黨派性",
+    "ex": "Partisanship can impede bipartisan cooperation on important issues.",
+    "cat": "📰 每日新詞：political science"
+  },
+  {
+    "word": "insurgency",
+    "pos": "n.",
+    "root": "叛亂 (pànluàn) - insurgency",
+    "zh": "叛亂",
+    "ex": "The insurgency posed significant challenges to the stability of the region.",
+    "cat": "📰 每日新詞：political science"
+  },
+  {
+    "word": "civil",
+    "pos": "adj.",
+    "root": "公民的 (gōngmín de) - civil",
+    "zh": "公民的",
+    "ex": "Civil rights are essential for ensuring equality under the law.",
+    "cat": "📰 每日新詞：political science"
   }
 ]

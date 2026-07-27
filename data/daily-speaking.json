@@ -1,45 +1,45 @@
 {
   "shadowSentences": [
     "I enjoy reading books in my free time.",
-    "My favorite season is autumn with its colors.",
-    "I like to listen to music while I work.",
-    "Cooking new recipes can be a fun challenge.",
-    "Spending time outdoors helps me relax and unwind.",
-    "Traveling to new places broadens my perspective on life.",
-    "Meeting new people at events can be quite exciting.",
-    "I find that journaling helps me organize my thoughts clearly.",
-    "Learning a new language can open many opportunities for growth.",
-    "Volunteering in my community gives me a sense of purpose and connection."
+    "My favorite season is autumn because of the colors.",
+    "I often go hiking on weekends with my friends.",
+    "Cooking new recipes is one of my favorite hobbies.",
+    "Traveling to new places helps me learn about different cultures.",
+    "I like to listen to music while I study or work.",
+    "Spending time with family is important to me and makes me happy.",
+    "Learning new languages opens many doors for communication and understanding.",
+    "Participating in community service can be a fulfilling experience for everyone involved.",
+    "Maintaining a healthy work-life balance is essential for overall well-being and happiness."
   ],
   "interviewScenarios": [
     {
-      "topic": "旅行經歷",
-      "intro": "You have agreed to take part in a research study about travel experiences.",
+      "topic": "學習風格",
+      "intro": "You have agreed to take part in a research study about learning styles.",
       "questions": [
-        "Q1: Can you describe a memorable trip you have taken?",
-        "Q2: What challenges did you face during that trip?",
-        "Q3: How do you feel about the impact of travel on personal growth?",
-        "Q4: What advice would you give to someone planning their first trip?"
+        "Q1: What is your preferred learning style and why?",
+        "Q2: Have you faced any challenges in adapting to different learning environments?",
+        "Q3: In your opinion, how important is it to understand different learning styles?",
+        "Q4: What advice would you give to someone struggling to find their learning style?"
       ]
     },
     {
-      "topic": "興趣愛好",
-      "intro": "You have agreed to take part in a research study about hobbies.",
+      "topic": "自我管理",
+      "intro": "You have agreed to take part in a research study about self-management.",
       "questions": [
-        "Q1: What is a hobby that you are passionate about?",
-        "Q2: What obstacles do you encounter while pursuing this hobby?",
-        "Q3: In your opinion, how do hobbies enrich our lives?",
-        "Q4: What recommendations would you give to someone looking to find a new hobby?"
+        "Q1: Can you describe a time when you successfully managed your time?",
+        "Q2: What obstacles do you think people face in managing their time effectively?",
+        "Q3: How do you feel about the importance of self-management in achieving goals?",
+        "Q4: What strategies would you recommend for improving self-management skills?"
       ]
     },
     {
-      "topic": "環境意識",
+      "topic": "環保意識",
       "intro": "You have agreed to take part in a research study about environmental awareness.",
       "questions": [
-        "Q1: Can you share an experience that made you more environmentally conscious?",
-        "Q2: What difficulties do people face when trying to be eco-friendly?",
-        "Q3: How important do you think it is to protect the environment?",
-        "Q4: What steps can individuals take to contribute to environmental sustainability?"
+        "Q1: What actions do you take to be environmentally conscious in your daily life?",
+        "Q2: What challenges have you encountered while trying to live sustainably?",
+        "Q3: How significant do you think environmental awareness is for future generations?",
+        "Q4: What suggestions would you give to someone wanting to become more environmentally aware?"
       ]
     }
   ]

@@ -2,119 +2,113 @@
   "cloze": {
     "segments": [
       {
-        "text": "The concept of a "
+        "text": "The topic of climate change has garnered significant attention due to its impacts on global "
       },
       {
-        "blank": "univer"
+        "blank": "temper"
       },
       {
-        "text": " is fundamental to many fields of study. It refers to a system where multiple "
+        "text": "... and weather patterns. Researchers are particularly focused on understanding how "
       },
       {
-        "blank": "netwo"
+        "blank": "glo"
       },
       {
-        "text": " exist and interact with each other. For example, in biology, "
+        "text": "... warming affects sea levels. As temperatures rise, polar ice caps and glaciers are "
       },
       {
-        "blank": "eco"
+        "blank": "melt"
       },
       {
-        "text": "systems comprise various organisms and their physical environments. Understanding these systems is essential for addressing complex issues like "
+        "text": "... at an alarming rate, contributing to higher ocean levels. Additionally, warmer oceans lead to "
       },
       {
-        "blank": "biodi"
+        "blank": "more"
       },
       {
-        "text": "ersity loss. In social sciences, the study of "
+        "text": "... intense storms and flooding. Addressing climate change requires international cooperation and "
       },
       {
-        "blank": "societ"
+        "blank": "sus"
       },
       {
-        "text": " helps us analyze how individuals and groups behave within larger contexts. Thus, a "
-      },
-      {
-        "blank": "cohe"
-      },
-      {
-        "text": "sive understanding of these networks can lead to better solutions for real-world problems."
+        "text": "... policies that promote renewable energy sources."
       }
     ]
   },
   "academic": {
-    "passage": "The study of networks is an essential area in both science and social sciences. In natural sciences, ecosystems demonstrate how various interactions among organisms contribute to their survival and evolution. In social sciences, networks reveal the relationships and influences between individuals, communities, and institutions. Understanding these connections is crucial for tackling modern challenges such as climate change and social inequality. By analyzing networks, researchers can identify significant patterns and develop strategies that promote sustainability and social welfare.",
+    "passage": "Climate change refers to long-term alterations in temperature, precipitation, and other atmospheric conditions on Earth. These changes are significantly influenced by human activities, primarily the burning of fossil fuels and deforestation. The effects of climate change are often seen in severe weather patterns, rising sea levels, and biodiversity loss. Scientists stress the importance of mitigating climate change by reducing greenhouse gas emissions and adopting sustainable practices to preserve the environment for future generations.",
     "questions": [
       {
-        "q": "What is the main idea of the passage?",
+        "q": "What is the main focus of the passage?",
         "options": [
-          "The importance of networks in various fields",
-          "The definition of ecosystems",
-          "The influence of climate change",
-          "The study of social behaviors"
+          "The causes and effects of climate change",
+          "The benefits of fossil fuels",
+          "The history of environmentalism",
+          "The role of renewable energy"
         ],
         "correctIndex": 0,
-        "explain": "這篇文章的主要思想是網絡在各個領域中的重要性。"
+        "explain": "這段文字主要探討氣候變遷的原因和影響。"
       },
       {
-        "q": "What role do ecosystems play in the study of networks?",
+        "q": "What human activities contribute to climate change?",
         "options": [
-          "They show individual behaviors",
-          "They illustrate interactions among organisms",
-          "They represent social connections",
-          "They define climate change"
+          "Planting trees and conserving water",
+          "Burning fossil fuels and deforestation",
+          "Using public transport",
+          "Recycling and waste management"
         ],
         "correctIndex": 1,
-        "explain": "生態系統展示了生物之間的互動，這是研究網絡的一部分。"
+        "explain": "文中提到燃燒化石燃料和砍伐森林是主要的人為活動。"
       },
       {
-        "q": "Why is understanding networks considered crucial?",
+        "q": "What can be inferred about the scientists' views on climate change?",
         "options": [
-          "It helps in defining climate change",
-          "It aids in analyzing individual behaviors",
-          "It leads to solutions for complex challenges",
-          "It simplifies scientific research"
-        ],
-        "correctIndex": 2,
-        "explain": "理解網絡對於解決複雜挑戰至關重要，因為它們可以幫助識別重要的模式。"
-      },
-      {
-        "q": "What does the term 'ecosystem' most closely refer to in the passage?",
-        "options": [
-          "A network of social connections",
-          "A community of interacting organisms",
-          "A pattern of scientific analysis",
-          "A framework for climate solutions"
+          "They believe it is a natural phenomenon.",
+          "They emphasize the need for action.",
+          "They oppose renewable energy.",
+          "They think it will resolve on its own."
         ],
         "correctIndex": 1,
-        "explain": "在文章中，'生態系統'最接近於指一個相互作用的生物社區。"
+        "explain": "科學家強調需要採取行動來減緩氣候變遷。"
+      },
+      {
+        "q": "What does the term 'greenhouse gas' refer to in the context of the passage?",
+        "options": [
+          "Gases that are harmful to humans",
+          "Gases that trap heat in the atmosphere",
+          "Gases produced by plants",
+          "Gases that cause acid rain"
+        ],
+        "correctIndex": 1,
+        "explain": "在這段文字中，'溫室氣體'是指會在大氣中捕獲熱量的氣體。"
       }
     ]
   },
   "daily": {
-    "passage": "Attention students: The library will be holding an extended hours program during finals week. From December 1st to December 7th, the library will remain open from 8 AM to 2 AM. We encourage all students to take advantage of this opportunity for study and research.",
+    "passage": "Attention students! The campus library will be closed for maintenance all day on Friday. Please plan your study time accordingly and ensure you check out any needed materials by Thursday evening. Thank you for your understanding.",
     "questions": [
       {
-        "q": "What is the special program mentioned in the notice?",
+        "q": "When will the library be closed?",
         "options": [
-          "Library closing hours",
-          "Extended library hours during finals",
-          "New library open hours",
-          "Library events for students"
+          "Thursday",
+          "Friday",
+          "Saturday",
+          "Sunday"
         ],
         "correctIndex": 1,
-        "explain": "這個通知提到的特別計劃是期末考試期間的延長圖書館開放時間。"
+        "explain": "公告中明確指出圖書館將在星期五全天關閉。"
       },
       {
-        "q": "When will the library have extended hours?",
+        "q": "What should students do before Friday?",
         "options": [
-          "From December 1st to December 7th",
-          "From December 1st to December 15th",
-          "During regular school hours",
-          "Only on weekends"
+          "Return all books",
+          "Check out materials",
+          "Visit the library",
+          "Attend a workshop"
         ],
-        "correctIndex": 0,
-        "explain": "圖書館的延長開放時間是從12月1日到12月7日。"
+        "correctIndex": 1,
+        "explain": "學生應在星期五之前借出所需的材料。"
       }
     ]
   }

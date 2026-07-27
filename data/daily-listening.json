@@ -1,116 +1,116 @@
 {
   "chooseResponse": [
     {
-      "q": "What do you think about the new café?",
+      "q": "What did you think of the lecture?",
       "options": [
-        "It's great!",
-        "I don't like it.",
-        "It's too expensive.",
-        "I haven't been there."
+        "It was really informative.",
+        "I didn't like it.",
+        "I need to review my notes.",
+        "I'm not sure."
       ],
       "correctIndex": 0
     }
   ],
   "conversation": {
-    "transcript": "Student: Have you tried the new café on campus?\nAdvisor: Yes, I went there last week. The coffee is amazing!\nStudent: Really? What else do they serve?\nAdvisor: They have a variety of pastries and sandwiches too.",
+    "transcript": "Student: Hey, did you check out the new art exhibit at the gallery?\nAdvisor: Yes, I went last weekend! It was fantastic. Did you see the contemporary section?\nStudent: Not yet, but I heard it's really interesting. What was your favorite piece?\nAdvisor: There was a sculpture made of recycled materials that really stood out to me.",
     "questions": [
       {
-        "q": "What did the advisor think of the café?",
+        "q": "What did the advisor think of the exhibit?",
         "options": [
-          "The coffee is amazing.",
-          "It's too expensive.",
-          "I didn't like it.",
-          "It's always crowded."
+          "It was fantastic.",
+          "It was boring.",
+          "It was too crowded.",
+          "It was free entry."
         ],
         "correctIndex": 0,
-        "explain": "顧問認為咖啡很好喝。"
+        "explain": "顧問覺得展覽很棒。"
       },
       {
-        "q": "What does the student want to know?",
+        "q": "What type of art did the advisor mention?",
         "options": [
-          "About the coffee quality.",
-          "About the café's hours.",
-          "What food they serve.",
-          "The café's location."
+          "Sculpture",
+          "Painting",
+          "Photography",
+          "Installation"
         ],
-        "correctIndex": 2,
-        "explain": "學生想知道他們提供什麼食物。"
+        "correctIndex": 0,
+        "explain": "顧問提到的是雕塑。"
       }
     ]
   },
   "announcement": {
-    "transcript": "Attention students! There will be an outdoor movie night this Friday at 8 PM on the main lawn. Bring your blankets and snacks, and enjoy a film under the stars! Don't miss out on this fun evening!",
+    "transcript": "Attention students! The annual spring festival will take place this Saturday in the main quad from 10 AM to 4 PM. There will be food, games, and live performances. Don’t miss out on the fun and bring your friends!",
     "questions": [
       {
-        "q": "When is the outdoor movie night?",
+        "q": "What event is happening this Saturday?",
         "options": [
-          "This Friday.",
-          "Next Monday.",
-          "Tomorrow night.",
-          "This weekend."
+          "A spring festival.",
+          "A final exam.",
+          "A guest lecture.",
+          "A career fair."
         ],
         "correctIndex": 0,
-        "explain": "戶外電影之夜是在這個星期五。"
+        "explain": "這個星期六將舉辦春季節日。"
       },
       {
-        "q": "What should students bring?",
+        "q": "What activities will be available at the festival?",
         "options": [
-          "Their textbooks.",
-          "Blankets and snacks.",
-          "Chairs and drinks.",
-          "Friends only."
+          "Food and games.",
+          "Science experiments.",
+          "Art workshops.",
+          "Book sales."
         ],
-        "correctIndex": 1,
-        "explain": "學生應該帶來毛毯和小吃。"
+        "correctIndex": 0,
+        "explain": "節日將有食物和遊戲。"
       }
     ]
   },
   "talk": {
-    "transcript": "Today, we're going to discuss the importance of biodiversity. Biodiversity refers to the variety of life on Earth, including the different species of plants, animals, and microorganisms. It's crucial for ecosystem stability and resilience. A diverse ecosystem can better withstand environmental changes, such as climate change or natural disasters. Furthermore, biodiversity provides us with essential services, like pollination of crops, clean water, and disease regulation. Protecting biodiversity is not just an environmental issue; it's vital for human survival and well-being.",
+    "transcript": "Today, I want to discuss the concept of sustainability in urban planning. Sustainability refers to designing urban environments that meet the needs of the present without compromising the ability of future generations to meet their own needs. This involves integrating green spaces, utilizing renewable resources, and promoting public transport to reduce carbon footprints. Cities can implement policies that encourage sustainable practices, such as energy-efficient buildings and waste reduction programs. By focusing on sustainability, urban planners can create healthier and more livable communities that thrive economically and environmentally.",
     "questions": [
       {
-        "q": "What does biodiversity refer to?",
+        "q": "What does sustainability in urban planning aim to do?",
         "options": [
-          "Different climates on Earth.",
-          "Variety of life on Earth.",
-          "Different ecosystems only.",
-          "Species extinction rates."
+          "Meet current and future needs.",
+          "Only focus on current needs.",
+          "Increase traffic congestion.",
+          "Reduce green spaces."
         ],
-        "correctIndex": 1,
-        "explain": "生物多樣性是指地球上生命的多樣性。"
+        "correctIndex": 0,
+        "explain": "城市規劃中的可持續性旨在滿足當前和未來的需求。"
       },
       {
-        "q": "Why is biodiversity important for ecosystems?",
+        "q": "Which is NOT a method mentioned for achieving sustainability?",
         "options": [
-          "It reduces pollution.",
-          "It prevents deforestation.",
-          "It stabilizes ecosystems.",
-          "It increases temperatures."
+          "Using renewable resources.",
+          "Promoting public transport.",
+          "Building more highways.",
+          "Integrating green spaces."
         ],
         "correctIndex": 2,
-        "explain": "生物多樣性有助於穩定生態系統。"
+        "explain": "提到的可持續性方法不包括建造更多高速公路。"
       },
       {
-        "q": "What service does biodiversity provide?",
+        "q": "What type of buildings do planners aim to create?",
         "options": [
-          "Only food production.",
-          "Cultural heritage.",
-          "Pollination of crops.",
-          "Only tourism opportunities."
+          "Energy-efficient buildings.",
+          "High-rise luxury apartments.",
+          "Old historical buildings.",
+          "Only commercial buildings."
         ],
-        "correctIndex": 2,
-        "explain": "生物多樣性提供了作物授粉的服務。"
+        "correctIndex": 0,
+        "explain": "規劃者旨在創造節能建築。"
       },
       {
-        "q": "What is a consequence of losing biodiversity?",
+        "q": "What is one outcome of focusing on sustainability?",
         "options": [
-          "Increased crop yields.",
-          "Better disease regulation.",
-          "Less resilience to changes.",
-          "More habitats for wildlife."
+          "Healthier communities.",
+          "More pollution.",
+          "Higher costs.",
+          "Less public transport."
         ],
-        "correctIndex": 2,
-        "explain": "失去生物多樣性會導致對變化的抵抗力降低。"
+        "correctIndex": 0,
+        "explain": "專注於可持續性的一個結果是更健康的社區。"
       }
     ]
   }
