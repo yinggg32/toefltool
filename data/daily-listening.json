@@ -1,116 +1,116 @@
 {
   "chooseResponse": [
     {
-      "q": "What did you think of the lecture?",
+      "q": "What did you think of the movie?",
       "options": [
-        "It was really informative.",
+        "It was fantastic!",
         "I didn't like it.",
-        "I need to review my notes.",
-        "I'm not sure."
+        "It had some good parts.",
+        "I can't say much."
       ],
       "correctIndex": 0
     }
   ],
   "conversation": {
-    "transcript": "Student: Hey, did you check out the new art exhibit at the gallery?\nAdvisor: Yes, I went last weekend! It was fantastic. Did you see the contemporary section?\nStudent: Not yet, but I heard it's really interesting. What was your favorite piece?\nAdvisor: There was a sculpture made of recycled materials that really stood out to me.",
+    "transcript": "Student: Did you finish the project for art class?\nProfessor: Yes, I just submitted it this morning.\nStudent: That's great! What did you choose as your subject?\nProfessor: I went with abstract landscapes. How about you?",
     "questions": [
       {
-        "q": "What did the advisor think of the exhibit?",
+        "q": "What subject did the professor choose?",
         "options": [
-          "It was fantastic.",
-          "It was boring.",
-          "It was too crowded.",
-          "It was free entry."
+          "Abstract landscapes",
+          "Portraits",
+          "Still life",
+          "Urban scenes"
         ],
         "correctIndex": 0,
-        "explain": "顧問覺得展覽很棒。"
+        "explain": "教授選擇了抽象風景作為主題。"
       },
       {
-        "q": "What type of art did the advisor mention?",
+        "q": "When did the professor submit the project?",
         "options": [
-          "Sculpture",
-          "Painting",
-          "Photography",
-          "Installation"
+          "Yesterday",
+          "This morning",
+          "Last week",
+          "Later today"
         ],
-        "correctIndex": 0,
-        "explain": "顧問提到的是雕塑。"
+        "correctIndex": 1,
+        "explain": "教授今天早上提交了項目。"
       }
     ]
   },
   "announcement": {
-    "transcript": "Attention students! The annual spring festival will take place this Saturday in the main quad from 10 AM to 4 PM. There will be food, games, and live performances. Don’t miss out on the fun and bring your friends!",
+    "transcript": "Attention, students! The library will be closing early today at 4 PM for maintenance. Please plan your study time accordingly, and thank you for your understanding.",
     "questions": [
       {
-        "q": "What event is happening this Saturday?",
+        "q": "Why is the library closing early?",
         "options": [
-          "A spring festival.",
-          "A final exam.",
-          "A guest lecture.",
-          "A career fair."
+          "For a holiday",
+          "For maintenance",
+          "For a special event",
+          "For a meeting"
         ],
-        "correctIndex": 0,
-        "explain": "這個星期六將舉辦春季節日。"
+        "correctIndex": 1,
+        "explain": "因為維護工作，圖書館會提前關閉。"
       },
       {
-        "q": "What activities will be available at the festival?",
+        "q": "What time will the library close?",
         "options": [
-          "Food and games.",
-          "Science experiments.",
-          "Art workshops.",
-          "Book sales."
+          "5 PM",
+          "4 PM",
+          "6 PM",
+          "3 PM"
         ],
-        "correctIndex": 0,
-        "explain": "節日將有食物和遊戲。"
+        "correctIndex": 1,
+        "explain": "圖書館將在下午4點關閉。"
       }
     ]
   },
   "talk": {
-    "transcript": "Today, I want to discuss the concept of sustainability in urban planning. Sustainability refers to designing urban environments that meet the needs of the present without compromising the ability of future generations to meet their own needs. This involves integrating green spaces, utilizing renewable resources, and promoting public transport to reduce carbon footprints. Cities can implement policies that encourage sustainable practices, such as energy-efficient buildings and waste reduction programs. By focusing on sustainability, urban planners can create healthier and more livable communities that thrive economically and environmentally.",
+    "transcript": "Today, we are going to discuss the concept of biodiversity. Biodiversity refers to the variety of life found on Earth, encompassing different species of plants, animals, fungi, and microorganisms. It is crucial for maintaining ecosystem balance and resilience. A high level of biodiversity ensures that ecosystems can recover from environmental stress and adapt to changes. Threats to biodiversity include habitat loss, climate change, and pollution, which can lead to species extinction. Protecting biodiversity is essential not only for conservation but also for human welfare, as it contributes to food security, medicine, and more.",
     "questions": [
       {
-        "q": "What does sustainability in urban planning aim to do?",
+        "q": "What does biodiversity refer to?",
         "options": [
-          "Meet current and future needs.",
-          "Only focus on current needs.",
-          "Increase traffic congestion.",
-          "Reduce green spaces."
+          "Variety of life",
+          "Ecosystem services",
+          "Habitat types",
+          "Species extinction"
         ],
         "correctIndex": 0,
-        "explain": "城市規劃中的可持續性旨在滿足當前和未來的需求。"
+        "explain": "生物多樣性指的是地球上生命的多樣性。"
       },
       {
-        "q": "Which is NOT a method mentioned for achieving sustainability?",
+        "q": "Why is biodiversity important?",
         "options": [
-          "Using renewable resources.",
-          "Promoting public transport.",
-          "Building more highways.",
-          "Integrating green spaces."
+          "For aesthetic value",
+          "For ecosystem balance",
+          "For economic gain",
+          "For scientific research"
         ],
-        "correctIndex": 2,
-        "explain": "提到的可持續性方法不包括建造更多高速公路。"
+        "correctIndex": 1,
+        "explain": "生物多樣性對於維持生態系統的平衡至關重要。"
       },
       {
-        "q": "What type of buildings do planners aim to create?",
+        "q": "What is a major threat to biodiversity mentioned?",
         "options": [
-          "Energy-efficient buildings.",
-          "High-rise luxury apartments.",
-          "Old historical buildings.",
-          "Only commercial buildings."
+          "Overpopulation",
+          "Habitat loss",
+          "Natural disasters",
+          "Forest growth"
         ],
-        "correctIndex": 0,
-        "explain": "規劃者旨在創造節能建築。"
+        "correctIndex": 1,
+        "explain": "提到的主要威脅是棲息地喪失。"
       },
       {
-        "q": "What is one outcome of focusing on sustainability?",
+        "q": "How does biodiversity contribute to human welfare?",
         "options": [
-          "Healthier communities.",
-          "More pollution.",
-          "Higher costs.",
-          "Less public transport."
+          "Provides shelter",
+          "Contributes to food security",
+          "Increases pollution",
+          "Reduces climate change"
         ],
-        "correctIndex": 0,
-        "explain": "專注於可持續性的一個結果是更健康的社區。"
+        "correctIndex": 1,
+        "explain": "生物多樣性有助於確保食物安全。"
       }
     ]
   }

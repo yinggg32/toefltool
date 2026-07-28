@@ -4,14 +4,95 @@
       "words": [
         "the",
         "students",
-        "gathered",
-        "at",
+        "participated",
+        "enthusiastically",
+        "in",
         "the",
-        "library",
-        "to",
-        "study"
+        "science",
+        "fair"
       ],
-      "display": "The students gathered at the library to study."
+      "display": "The students participated enthusiastically in the science fair."
+    },
+    {
+      "words": [
+        "she",
+        "enjoys",
+        "reading",
+        "books",
+        "about",
+        "history",
+        "and",
+        "culture"
+      ],
+      "display": "She enjoys reading books about history and culture."
+    },
+    {
+      "words": [
+        "the",
+        "team",
+        "worked",
+        "hard",
+        "to",
+        "complete",
+        "the",
+        "project"
+      ],
+      "display": "The team worked hard to complete the project."
+    },
+    {
+      "words": [
+        "every",
+        "morning",
+        "he",
+        "goes",
+        "for",
+        "a",
+        "run",
+        "in",
+        "the",
+        "park"
+      ],
+      "display": "Every morning he goes for a run in the park."
+    },
+    {
+      "words": [
+        "the",
+        "professor",
+        "explained",
+        "the",
+        "theory",
+        "to",
+        "the",
+        "students"
+      ],
+      "display": "The professor explained the theory to the students."
+    },
+    {
+      "words": [
+        "they",
+        "decided",
+        "to",
+        "host",
+        "a",
+        "charity",
+        "event",
+        "next",
+        "month"
+      ],
+      "display": "They decided to host a charity event next month."
+    },
+    {
+      "words": [
+        "after",
+        "dinner",
+        "we",
+        "watched",
+        "a",
+        "movie",
+        "at",
+        "home"
+      ],
+      "display": "After dinner we watched a movie at home."
     },
     {
       "words": [
@@ -22,110 +103,25 @@
         "affect",
         "all",
         "employees",
-        "next",
-        "month"
+        "positively"
       ],
-      "display": "The new policy will affect all employees next month."
-    },
-    {
-      "words": [
-        "researchers",
-        "discovered",
-        "new",
-        "methods",
-        "to",
-        "improve",
-        "efficiency",
-        "in",
-        "industry"
-      ],
-      "display": "Researchers discovered new methods to improve efficiency in industry."
-    },
-    {
-      "words": [
-        "the",
-        "presentation",
-        "was",
-        "not",
-        "only",
-        "informative",
-        "but",
-        "also",
-        "entertaining"
-      ],
-      "display": "The presentation was not only informative but also entertaining."
-    },
-    {
-      "words": [
-        "students",
-        "should",
-        "participate",
-        "in",
-        "extracurricular",
-        "activities",
-        "to",
-        "enhance",
-        "learning"
-      ],
-      "display": "Students should participate in extracurricular activities to enhance learning."
-    },
-    {
-      "words": [
-        "the",
-        "professor",
-        "emphasized",
-        "the",
-        "importance",
-        "of",
-        "critical",
-        "thinking",
-        "skills"
-      ],
-      "display": "The professor emphasized the importance of critical thinking skills."
-    },
-    {
-      "words": [
-        "after",
-        "completing",
-        "the",
-        "assignment",
-        "students",
-        "felt",
-        "relieved",
-        "and",
-        "satisfied"
-      ],
-      "display": "After completing the assignment students felt relieved and satisfied."
-    },
-    {
-      "words": [
-        "the",
-        "community",
-        "gathered",
-        "for",
-        "the",
-        "annual",
-        "festival",
-        "to",
-        "celebrate"
-      ],
-      "display": "The community gathered for the annual festival to celebrate."
+      "display": "The new policy will affect all employees positively."
     }
   ],
   "emailPrompts": [
-    "寄信給宿舍辦公室，請求更換房間因為無法忍受鄰居的噪音。",
-    "寄信給圖書館管理員，反映某些書籍的借閱問題並請求協助。",
-    "寄信給社團負責人，詢問加入社團的流程以及活動安排。",
-    "寄信給教授，請求延長作業提交期限因為家庭緊急情況。",
-    "寄信給客戶服務部，反映產品質量問題並要求退款。",
-    "寄信給學校的心理輔導中心，請求預約諮詢以獲得學業壓力的幫助。"
+    "寄信給教授，請假因病無法參加期末報告，詢問是否可以延交。",
+    "寫信給宿舍辦公室，詢問有關換宿舍的流程。",
+    "寄信給圖書館，申請延長貸書期限，說明理由。",
+    "寫信給社團，表達想參加下週的活動，詢問詳情。",
+    "寄信給客戶服務，反映商品的問題，請求退換貨。",
+    "寫信給導師，詢問學業建議，並請教未來的職業選擇。"
   ],
   "discussionPrompts": [
-    "教授問：「你認為科技對於人際關係的影響是正面還是負面？」",
-    "教授問：「文化差異如何影響國際商務的成功？」",
-    "教授問：「教育應該強調知識還是技能的培養？」",
-    "教授問：「你如何看待政府在環保方面的角色？」",
-    "教授問：「社交媒體對於青少年的心理健康有何影響？」",
-    "教授問：「全球化對於本地文化的衝擊是好是壞？」"
+    "教授問：「如何看待科技在現代教育中的角色？」",
+    "教授問：「社交媒體對年輕人心理健康的影響是什麼？」",
+    "教授問：「應該如何平衡經濟發展與環境保護？」",
+    "教授問：「藝術在社會變革中有何重要性？」",
+    "教授問：「全球化對文化多樣性的影響如何？」",
+    "教授問：「學習第二語言對大腦有何益處？」"
   ]
 }

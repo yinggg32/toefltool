@@ -1,45 +1,45 @@
 {
   "shadowSentences": [
-    "I enjoy reading books in my free time.",
-    "My favorite season is autumn because of the colors.",
-    "I often go hiking on weekends with my friends.",
-    "Cooking new recipes is one of my favorite hobbies.",
-    "Traveling to new places helps me learn about different cultures.",
-    "I like to listen to music while I study or work.",
-    "Spending time with family is important to me and makes me happy.",
-    "Learning new languages opens many doors for communication and understanding.",
-    "Participating in community service can be a fulfilling experience for everyone involved.",
-    "Maintaining a healthy work-life balance is essential for overall well-being and happiness."
+    "I enjoy reading in my free time.",
+    "Traveling helps me learn about new cultures.",
+    "Cooking meals at home can be very rewarding.",
+    "Listening to music makes my day better.",
+    "Taking walks improves my mood and health.",
+    "I often volunteer at local community events.",
+    "Gardening is a peaceful way to spend time outdoors.",
+    "Learning new languages opens up many opportunities.",
+    "Spending time with family is important to me.",
+    "I believe that exercise is essential for a balanced life."
   ],
   "interviewScenarios": [
     {
-      "topic": "學習風格",
-      "intro": "You have agreed to take part in a research study about learning styles.",
+      "topic": "旅行經歷",
+      "intro": "You have agreed to take part in a research study about travel experiences.",
       "questions": [
-        "Q1: What is your preferred learning style and why?",
-        "Q2: Have you faced any challenges in adapting to different learning environments?",
-        "Q3: In your opinion, how important is it to understand different learning styles?",
-        "Q4: What advice would you give to someone struggling to find their learning style?"
+        "Q1: Can you describe your most memorable travel experience?",
+        "Q2: What challenges did you face while traveling?",
+        "Q3: How do you feel about the impact of travel on personal growth?",
+        "Q4: What advice would you give to someone planning their first trip?"
       ]
     },
     {
-      "topic": "自我管理",
-      "intro": "You have agreed to take part in a research study about self-management.",
+      "topic": "音樂的影響",
+      "intro": "You have agreed to take part in a research study about the influence of music.",
       "questions": [
-        "Q1: Can you describe a time when you successfully managed your time?",
-        "Q2: What obstacles do you think people face in managing their time effectively?",
-        "Q3: How do you feel about the importance of self-management in achieving goals?",
-        "Q4: What strategies would you recommend for improving self-management skills?"
+        "Q1: What role has music played in your life?",
+        "Q2: Have you ever faced any difficulties in learning an instrument?",
+        "Q3: In your opinion, how does music affect our emotions?",
+        "Q4: What tips would you suggest for someone starting to learn an instrument?"
       ]
     },
     {
-      "topic": "環保意識",
-      "intro": "You have agreed to take part in a research study about environmental awareness.",
+      "topic": "運動的重要性",
+      "intro": "You have agreed to take part in a research study about the importance of sports.",
       "questions": [
-        "Q1: What actions do you take to be environmentally conscious in your daily life?",
-        "Q2: What challenges have you encountered while trying to live sustainably?",
-        "Q3: How significant do you think environmental awareness is for future generations?",
-        "Q4: What suggestions would you give to someone wanting to become more environmentally aware?"
+        "Q1: What sports do you enjoy playing or watching?",
+        "Q2: What obstacles have you encountered in staying active?",
+        "Q3: How do you think sports influence teamwork skills?",
+        "Q4: What advice would you give to someone looking to get more involved in sports?"
       ]
     }
   ]

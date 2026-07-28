@@ -5934,5 +5934,101 @@
     "zh": "公民的",
     "ex": "Civil rights are essential for ensuring equality under the law.",
     "cat": "📰 每日新詞：political science"
+  },
+  {
+    "word": "tribalism",
+    "pos": "n.",
+    "root": "tribe-部落 + -al-性質 + -ism-主義",
+    "zh": "部落主義",
+    "ex": "Tribalism can both unify communities and create divisions between them.",
+    "cat": "📰 每日新詞：anthropology"
+  },
+  {
+    "word": "material culture",
+    "pos": "n.",
+    "root": "material-物質 + cultur-文化",
+    "zh": "物質文化",
+    "ex": "Material culture encompasses the physical objects and artifacts of a society.",
+    "cat": "📰 每日新詞：anthropology"
+  },
+  {
+    "word": "ethnic group",
+    "pos": "n.",
+    "root": "ethn-民族 + -ic-性質 + group-群體",
+    "zh": "民族群體",
+    "ex": "An ethnic group shares common cultural traits and a sense of identity.",
+    "cat": "📰 每日新詞：anthropology"
+  },
+  {
+    "word": "subsistence",
+    "pos": "n.",
+    "root": "sub-在下面 + sist-站立 + -ence-狀態",
+    "zh": "生存",
+    "ex": "Subsistence strategies vary widely among different cultural groups.",
+    "cat": "📰 每日新詞：anthropology"
+  },
+  {
+    "word": "symbolic interactionism",
+    "pos": "n.",
+    "root": "symbolic-象徵的 + interact-互動 + -ism-主義",
+    "zh": "象徵互動論",
+    "ex": "Symbolic interactionism emphasizes the role of symbols in social life.",
+    "cat": "📰 每日新詞：anthropology"
+  },
+  {
+    "word": "cultural evolution",
+    "pos": "n.",
+    "root": "cultur-文化 + evolut-演變 + -ion-過程",
+    "zh": "文化演變",
+    "ex": "Cultural evolution examines how societies change over time.",
+    "cat": "📰 每日新詞：anthropology"
+  },
+  {
+    "word": "postcolonialism",
+    "pos": "n.",
+    "root": "post-後 + colon-殖民 + -ial-性質 + -ism-主義",
+    "zh": "後殖民主義",
+    "ex": "Postcolonialism explores the impacts of colonialism on cultures.",
+    "cat": "📰 每日新詞：anthropology"
+  },
+  {
+    "word": "identity politics",
+    "pos": "n.",
+    "root": "ident-身份 + ity-性質 + politic-政治",
+    "zh": "身份政治",
+    "ex": "Identity politics often shapes group dynamics in contemporary societies.",
+    "cat": "📰 每日新詞：anthropology"
+  },
+  {
+    "word": "cultural practices",
+    "pos": "n.",
+    "root": "cultur-文化 + pract-實踐 + -ices-名詞複數",
+    "zh": "文化實踐",
+    "ex": "Cultural practices reflect the values and beliefs of a society.",
+    "cat": "📰 每日新詞：anthropology"
+  },
+  {
+    "word": "social norms",
+    "pos": "n.",
+    "root": "social-社會 + norm-規範",
+    "zh": "社會規範",
+    "ex": "Social norms govern behavior in both formal and informal settings.",
+    "cat": "📰 每日新詞：anthropology"
+  },
+  {
+    "word": "cultural adaptation",
+    "pos": "n.",
+    "root": "cultur-文化 + adapt-適應 + -ation-行為",
+    "zh": "文化適應",
+    "ex": "Cultural adaptation is vital for survival in changing environments.",
+    "cat": "📰 每日新詞：anthropology"
+  },
+  {
+    "word": "social cohesion",
+    "pos": "n.",
+    "root": "social-社會 + cohere-黏合 + -ion-狀態",
+    "zh": "社會凝聚力",
+    "ex": "Social cohesion is important for the stability of communities.",
+    "cat": "📰 每日新詞：anthropology"
   }
 ]

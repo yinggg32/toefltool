@@ -2,113 +2,94 @@
   "cloze": {
     "segments": [
       {
-        "text": "The topic of climate change has garnered significant attention due to its impacts on global "
+        "text": "The process of photosynthesis is essential for life on Earth. During this process, plants absorb sunlight and convert it into chemical energy, which is stored in the form of glucose. This not only provides energy for the plants themselves but also produces oxygen as a byproduct. The primary pigment involved in this process is chlorophyll, which gives plants their green color. Without photosynthesis, life as we know it would be impossible, as it is the foundation of the food chain. In addition, photosynthesis plays a critical role in regulating atmospheric levels of carbon dioxide and oxygen, thereby supporting a balanced global climate. The importance of this process cannot be overstated, as it sustains both plant and animal life."
       },
       {
-        "blank": "temper"
+        "blank": "sis",
+        "text": "...pho"
       },
       {
-        "text": "... and weather patterns. Researchers are particularly focused on understanding how "
+        "text": "Residing mainly in the chloroplasts, chlorophyll absorbs light most efficiently in the blue and red wavelengths. However, it reflects green light, which is why plants appear green. Furthermore, photosynthesis occurs in two stages: light-dependent reactions and the Calvin cycle. The former captures energy from sunlight, while the latter utilizes that energy to convert carbon dioxide into glucose. This intricate process highlights how interconnected various ecological systems are, demonstrating the delicate balance required for sustaining life."
       },
       {
-        "blank": "glo"
-      },
-      {
-        "text": "... warming affects sea levels. As temperatures rise, polar ice caps and glaciers are "
-      },
-      {
-        "blank": "melt"
-      },
-      {
-        "text": "... at an alarming rate, contributing to higher ocean levels. Additionally, warmer oceans lead to "
-      },
-      {
-        "blank": "more"
-      },
-      {
-        "text": "... intense storms and flooding. Addressing climate change requires international cooperation and "
-      },
-      {
-        "blank": "sus"
-      },
-      {
-        "text": "... policies that promote renewable energy sources."
+        "blank": "ciet",
+        "text": "...ec"
       }
     ]
   },
   "academic": {
-    "passage": "Climate change refers to long-term alterations in temperature, precipitation, and other atmospheric conditions on Earth. These changes are significantly influenced by human activities, primarily the burning of fossil fuels and deforestation. The effects of climate change are often seen in severe weather patterns, rising sea levels, and biodiversity loss. Scientists stress the importance of mitigating climate change by reducing greenhouse gas emissions and adopting sustainable practices to preserve the environment for future generations.",
+    "passage": "Photosynthesis is a biochemical process through which green plants, algae, and some bacteria convert light energy into chemical energy stored in glucose. This process is vital for life on Earth, as it provides the primary energy source for nearly all organisms. During photosynthesis, carbon dioxide and water are transformed into glucose and oxygen, facilitating not only energy production but also the release of oxygen necessary for aerobic organisms. The efficiency of photosynthesis is influenced by environmental factors such as light intensity, temperature, and carbon dioxide concentration, making it a critical area of study in understanding ecosystems and addressing climate change.",
     "questions": [
       {
-        "q": "What is the main focus of the passage?",
+        "q": "What is the main idea of the passage?",
         "options": [
-          "The causes and effects of climate change",
-          "The benefits of fossil fuels",
-          "The history of environmentalism",
-          "The role of renewable energy"
+          "Photosynthesis is essential for life on Earth.",
+          "Only plants perform photosynthesis.",
+          "Photosynthesis is unrelated to climate change.",
+          "Photosynthesis occurs only during the day."
         ],
         "correctIndex": 0,
-        "explain": "這段文字主要探討氣候變遷的原因和影響。"
+        "explain": "這段文字的主旨在於照片合成對生命的重要性。"
       },
       {
-        "q": "What human activities contribute to climate change?",
+        "q": "What substances are produced during photosynthesis?",
         "options": [
-          "Planting trees and conserving water",
-          "Burning fossil fuels and deforestation",
-          "Using public transport",
-          "Recycling and waste management"
+          "Carbon dioxide and water",
+          "Glucose and oxygen",
+          "Oxygen and nitrogen",
+          "Water and nitrogen"
         ],
         "correctIndex": 1,
-        "explain": "文中提到燃燒化石燃料和砍伐森林是主要的人為活動。"
+        "explain": "在光合作用過程中，產生了葡萄糖和氧氣。"
       },
       {
-        "q": "What can be inferred about the scientists' views on climate change?",
+        "q": "Why is photosynthesis considered critical for ecosystems?",
         "options": [
-          "They believe it is a natural phenomenon.",
-          "They emphasize the need for action.",
-          "They oppose renewable energy.",
-          "They think it will resolve on its own."
+          "It creates habitats for animals.",
+          "It provides energy for nearly all organisms.",
+          "It eliminates carbon dioxide from the atmosphere.",
+          "It increases the temperature of the Earth."
         ],
         "correctIndex": 1,
-        "explain": "科學家強調需要採取行動來減緩氣候變遷。"
+        "explain": "光合作用為幾乎所有生物提供了能量，因此對生態系統至關重要。"
       },
       {
-        "q": "What does the term 'greenhouse gas' refer to in the context of the passage?",
+        "q": "What does the term 'chloroplasts' refer to in the passage?",
         "options": [
-          "Gases that are harmful to humans",
-          "Gases that trap heat in the atmosphere",
-          "Gases produced by plants",
-          "Gases that cause acid rain"
+          "Types of plants",
+          "Energy sources",
+          "Cellular structures where photosynthesis occurs",
+          "Environmental factors affecting photosynthesis"
         ],
-        "correctIndex": 1,
-        "explain": "在這段文字中，'溫室氣體'是指會在大氣中捕獲熱量的氣體。"
+        "correctIndex": 2,
+        "explain": "在這段文字中，'chloroplasts'是指進行光合作用的細胞結構。"
       }
     ]
   },
   "daily": {
-    "passage": "Attention students! The campus library will be closed for maintenance all day on Friday. Please plan your study time accordingly and ensure you check out any needed materials by Thursday evening. Thank you for your understanding.",
+    "passage": "Attention all students: The library will be closed for maintenance this Saturday. Please plan accordingly and ensure you return any borrowed materials by Friday. Thank you for your understanding!",
     "questions": [
       {
         "q": "When will the library be closed?",
         "options": [
-          "Thursday",
-          "Friday",
-          "Saturday",
-          "Sunday"
+          "This Sunday",
+          "This Saturday",
+          "Next Saturday",
+          "This Friday"
         ],
         "correctIndex": 1,
-        "explain": "公告中明確指出圖書館將在星期五全天關閉。"
+        "explain": "圖書館將於本週六關閉。"
       },
       {
-        "q": "What should students do before Friday?",
+        "q": "What should students do before the library closes?",
         "options": [
-          "Return all books",
-          "Check out materials",
-          "Visit the library",
+          "Return borrowed materials by Friday",
+          "Borrow more materials on Saturday",
+          "Use the library next week",
           "Attend a workshop"
         ],
-        "correctIndex": 1,
-        "explain": "學生應在星期五之前借出所需的材料。"
+        "correctIndex": 0,
+        "explain": "學生應在圖書館關閉前於星期五之前歸還借出的資料。"
       }
     ]
   }
