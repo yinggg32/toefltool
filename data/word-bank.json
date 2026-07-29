@@ -6030,5 +6030,61 @@
     "zh": "社會凝聚力",
     "ex": "Social cohesion is important for the stability of communities.",
     "cat": "📰 每日新詞：anthropology"
+  },
+  {
+    "word": "carbon",
+    "pos": "n.",
+    "root": "—",
+    "zh": "碳",
+    "ex": "Carbon is a key element in all known life forms.",
+    "cat": "📰 每日新詞：environmental science"
+  },
+  {
+    "word": "impact",
+    "pos": "n./v.",
+    "root": "—",
+    "zh": "影響",
+    "ex": "The impact of human activity on the environment is profound.",
+    "cat": "📰 每日新詞：environmental science"
+  },
+  {
+    "word": "degradation",
+    "pos": "n.",
+    "root": "de-去 + gradation級別",
+    "zh": "退化",
+    "ex": "Soil degradation affects agricultural productivity and food security.",
+    "cat": "📰 每日新詞：environmental science"
+  },
+  {
+    "word": "waste",
+    "pos": "n./v.",
+    "root": "—",
+    "zh": "廢物",
+    "ex": "Proper waste management is crucial for environmental protection.",
+    "cat": "📰 每日新詞：environmental science"
+  },
+  {
+    "word": "agriculture",
+    "pos": "n.",
+    "root": "agri-農業 + culture文化",
+    "zh": "農業",
+    "ex": "Sustainable agriculture practices can enhance food security.",
+    "cat": "📰 每日新詞：environmental science"
+  },
+  {
+    "word": "renewal",
+    "pos": "n.",
+    "root": "re-再 + new新的 + al名詞後綴",
+    "zh": "更新",
+    "ex": "The renewal of natural resources is vital for sustainable development.",
+    "cat": "📰 每日新詞：environmental science"
+  },
+  {
+    "word": "toxicity",
+    "pos": "n.",
+    "root": "toxi-毒性 + city狀態",
+    "zh": "毒性",
+    "ex": "The toxicity of certain chemicals can have devastating effects on wildlife.",
+    "cat": "📰 每日新詞：environmental science"
   }
 ]

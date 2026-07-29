@@ -1,116 +1,116 @@
 {
   "chooseResponse": [
     {
-      "q": "What did you think of the movie?",
+      "q": "What time is the meeting?",
       "options": [
-        "It was fantastic!",
-        "I didn't like it.",
-        "It had some good parts.",
-        "I can't say much."
+        "At 3 PM.",
+        "Yes, we should go.",
+        "I don't know.",
+        "That sounds great."
       ],
       "correctIndex": 0
     }
   ],
   "conversation": {
-    "transcript": "Student: Did you finish the project for art class?\nProfessor: Yes, I just submitted it this morning.\nStudent: That's great! What did you choose as your subject?\nProfessor: I went with abstract landscapes. How about you?",
+    "transcript": "Student: Hi, have you heard about the student government meeting?\nAdvisor: Yes, I have! It's happening tomorrow. Are you planning to attend?\nStudent: I think so. I want to know more about our campus initiatives.\nAdvisor: That's a great reason to go. They'll discuss some important updates.",
     "questions": [
       {
-        "q": "What subject did the professor choose?",
+        "q": "What is the purpose of the meeting?",
         "options": [
-          "Abstract landscapes",
-          "Portraits",
-          "Still life",
-          "Urban scenes"
+          "To discuss campus initiatives.",
+          "To plan a trip.",
+          "To organize a concert.",
+          "To hold a workshop."
         ],
         "correctIndex": 0,
-        "explain": "教授選擇了抽象風景作為主題。"
+        "explain": "會議的目的是討論校園的倡議。"
       },
       {
-        "q": "When did the professor submit the project?",
+        "q": "When is the meeting scheduled?",
         "options": [
-          "Yesterday",
-          "This morning",
-          "Last week",
-          "Later today"
+          "Today.",
+          "Tomorrow.",
+          "Next week.",
+          "Last week."
         ],
         "correctIndex": 1,
-        "explain": "教授今天早上提交了項目。"
+        "explain": "會議定於明天舉行。"
       }
     ]
   },
   "announcement": {
-    "transcript": "Attention, students! The library will be closing early today at 4 PM for maintenance. Please plan your study time accordingly, and thank you for your understanding.",
+    "transcript": "Attention students! The library will be closed this weekend for maintenance. Please ensure that you return your books by Friday evening. Thank you for your understanding and cooperation.",
     "questions": [
       {
-        "q": "Why is the library closing early?",
+        "q": "Why is the library closing?",
         "options": [
-          "For a holiday",
-          "For maintenance",
-          "For a special event",
-          "For a meeting"
+          "For maintenance.",
+          "For an event.",
+          "For inventory.",
+          "For renovations."
         ],
-        "correctIndex": 1,
-        "explain": "因為維護工作，圖書館會提前關閉。"
+        "correctIndex": 0,
+        "explain": "圖書館因維護而關閉。"
       },
       {
-        "q": "What time will the library close?",
+        "q": "When should books be returned?",
         "options": [
-          "5 PM",
-          "4 PM",
-          "6 PM",
-          "3 PM"
+          "By Saturday.",
+          "By Sunday.",
+          "By Friday evening.",
+          "By Monday morning."
         ],
-        "correctIndex": 1,
-        "explain": "圖書館將在下午4點關閉。"
+        "correctIndex": 2,
+        "explain": "書籍應在星期五晚上之前歸還。"
       }
     ]
   },
   "talk": {
-    "transcript": "Today, we are going to discuss the concept of biodiversity. Biodiversity refers to the variety of life found on Earth, encompassing different species of plants, animals, fungi, and microorganisms. It is crucial for maintaining ecosystem balance and resilience. A high level of biodiversity ensures that ecosystems can recover from environmental stress and adapt to changes. Threats to biodiversity include habitat loss, climate change, and pollution, which can lead to species extinction. Protecting biodiversity is essential not only for conservation but also for human welfare, as it contributes to food security, medicine, and more.",
+    "transcript": "Today, we'll discuss the importance of biodiversity in ecosystems. Biodiversity refers to the variety of life in a particular habitat or ecosystem. It plays a critical role in maintaining the balance of the environment. Healthy ecosystems with high biodiversity are more resilient to changes and disturbances, such as climate change or natural disasters. Furthermore, diverse ecosystems provide numerous resources, including food, clean water, and medicine. Protecting biodiversity is essential for sustaining the earth’s ecosystems and ensuring the survival of countless species.",
     "questions": [
       {
         "q": "What does biodiversity refer to?",
         "options": [
-          "Variety of life",
-          "Ecosystem services",
-          "Habitat types",
-          "Species extinction"
+          "Variety of life in ecosystems.",
+          "Types of climate changes.",
+          "Species extinction rates.",
+          "Ecosystem restoration methods."
         ],
         "correctIndex": 0,
-        "explain": "生物多樣性指的是地球上生命的多樣性。"
+        "explain": "生物多樣性是指生態系統中的生命多樣性。"
       },
       {
         "q": "Why is biodiversity important?",
         "options": [
-          "For aesthetic value",
-          "For ecosystem balance",
-          "For economic gain",
-          "For scientific research"
+          "It increases pollution.",
+          "It strengthens ecosystem resilience.",
+          "It reduces food resources.",
+          "It limits species interaction."
         ],
         "correctIndex": 1,
-        "explain": "生物多樣性對於維持生態系統的平衡至關重要。"
+        "explain": "生物多樣性有助於增強生態系統的韌性。"
       },
       {
-        "q": "What is a major threat to biodiversity mentioned?",
+        "q": "What can diverse ecosystems provide?",
         "options": [
-          "Overpopulation",
-          "Habitat loss",
-          "Natural disasters",
-          "Forest growth"
+          "Only food resources.",
+          "No benefits at all.",
+          "Limited resources.",
+          "Food, clean water, and medicine."
         ],
-        "correctIndex": 1,
-        "explain": "提到的主要威脅是棲息地喪失。"
+        "correctIndex": 3,
+        "explain": "多樣化的生態系統提供食物、乾淨的水和藥物。"
       },
       {
-        "q": "How does biodiversity contribute to human welfare?",
+        "q": "What is essential for sustaining ecosystems?",
         "options": [
-          "Provides shelter",
-          "Contributes to food security",
-          "Increases pollution",
-          "Reduces climate change"
+          "Reducing human activity.",
+          "Protecting biodiversity.",
+          "Increasing pollution.",
+          "Limiting species diversity."
         ],
         "correctIndex": 1,
-        "explain": "生物多樣性有助於確保食物安全。"
+        "explain": "保護生物多樣性對於維持生態系統是至關重要的。"
       }
     ]
   }

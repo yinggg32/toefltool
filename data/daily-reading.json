@@ -2,94 +2,119 @@
   "cloze": {
     "segments": [
       {
-        "text": "The process of photosynthesis is essential for life on Earth. During this process, plants absorb sunlight and convert it into chemical energy, which is stored in the form of glucose. This not only provides energy for the plants themselves but also produces oxygen as a byproduct. The primary pigment involved in this process is chlorophyll, which gives plants their green color. Without photosynthesis, life as we know it would be impossible, as it is the foundation of the food chain. In addition, photosynthesis plays a critical role in regulating atmospheric levels of carbon dioxide and oxygen, thereby supporting a balanced global climate. The importance of this process cannot be overstated, as it sustains both plant and animal life."
+        "text": "The concept of a "
       },
       {
-        "blank": "sis",
-        "text": "...pho"
+        "blank": "theo"
       },
       {
-        "text": "Residing mainly in the chloroplasts, chlorophyll absorbs light most efficiently in the blue and red wavelengths. However, it reflects green light, which is why plants appear green. Furthermore, photosynthesis occurs in two stages: light-dependent reactions and the Calvin cycle. The former captures energy from sunlight, while the latter utilizes that energy to convert carbon dioxide into glucose. This intricate process highlights how interconnected various ecological systems are, demonstrating the delicate balance required for sustaining life."
+        "text": "retical framework is vital in academic research. It provides a structured "
       },
       {
-        "blank": "ciet",
-        "text": "...ec"
+        "blank": "pila"
+      },
+      {
+        "text": "r for interpreting data and forming hypotheses. Researchers often rely on existing "
+      },
+      {
+        "blank": "parad"
+      },
+      {
+        "text": "igms to shape their studies. For instance, the social learning theory offers a lens through which one can "
+      },
+      {
+        "blank": "exam"
+      },
+      {
+        "text": "ine behaviors. However, it's crucial to evaluate the "
+      },
+      {
+        "blank": "limi"
+      },
+      {
+        "text": "tations of any framework, as they can influence the results obtained. Ultimately, a comprehensive understanding of different "
+      },
+      {
+        "blank": "theor"
+      },
+      {
+        "text": "ies enriches the research process."
       }
     ]
   },
   "academic": {
-    "passage": "Photosynthesis is a biochemical process through which green plants, algae, and some bacteria convert light energy into chemical energy stored in glucose. This process is vital for life on Earth, as it provides the primary energy source for nearly all organisms. During photosynthesis, carbon dioxide and water are transformed into glucose and oxygen, facilitating not only energy production but also the release of oxygen necessary for aerobic organisms. The efficiency of photosynthesis is influenced by environmental factors such as light intensity, temperature, and carbon dioxide concentration, making it a critical area of study in understanding ecosystems and addressing climate change.",
+    "passage": "The use of theoretical frameworks in research plays a crucial role in guiding investigations. By providing a lens through which data can be interpreted, these frameworks help researchers formulate relevant questions and hypothesize about outcomes. For example, theories such as social cognitive theory and behavioralism can inform studies on learning processes. Additionally, understanding the limitations of each framework is essential, as they can significantly affect research conclusions. A diverse range of theories enables a richer exploration of topics, allowing for more nuanced insights into complex phenomena.",
     "questions": [
       {
-        "q": "What is the main idea of the passage?",
+        "q": "What is the main purpose of theoretical frameworks in research?",
         "options": [
-          "Photosynthesis is essential for life on Earth.",
-          "Only plants perform photosynthesis.",
-          "Photosynthesis is unrelated to climate change.",
-          "Photosynthesis occurs only during the day."
+          "To guide investigations",
+          "To eliminate errors",
+          "To increase funding",
+          "To simplify data"
         ],
         "correctIndex": 0,
-        "explain": "這段文字的主旨在於照片合成對生命的重要性。"
+        "explain": "理論框架的主要目的是指導調查，幫助研究者理解數據。"
       },
       {
-        "q": "What substances are produced during photosynthesis?",
+        "q": "Which example of a theoretical framework is mentioned?",
         "options": [
-          "Carbon dioxide and water",
-          "Glucose and oxygen",
-          "Oxygen and nitrogen",
-          "Water and nitrogen"
+          "Cognitive dissonance",
+          "Social cognitive theory",
+          "Rational choice theory",
+          "Functionalism"
         ],
         "correctIndex": 1,
-        "explain": "在光合作用過程中，產生了葡萄糖和氧氣。"
+        "explain": "文中提到的理論框架例子是社會認知理論。"
       },
       {
-        "q": "Why is photosynthesis considered critical for ecosystems?",
+        "q": "Why is it important to understand the limitations of frameworks?",
         "options": [
-          "It creates habitats for animals.",
-          "It provides energy for nearly all organisms.",
-          "It eliminates carbon dioxide from the atmosphere.",
-          "It increases the temperature of the Earth."
+          "To improve funding",
+          "To avoid biases",
+          "To refine research techniques",
+          "To affect conclusions"
+        ],
+        "correctIndex": 3,
+        "explain": "理解框架的局限性很重要，因為這可能會影響研究結論。"
+      },
+      {
+        "q": "What does 'nuanced insights' imply about research findings?",
+        "options": [
+          "Simplistic conclusions",
+          "Detailed understanding",
+          "Generalized results",
+          "Limited analysis"
         ],
         "correctIndex": 1,
-        "explain": "光合作用為幾乎所有生物提供了能量，因此對生態系統至關重要。"
-      },
-      {
-        "q": "What does the term 'chloroplasts' refer to in the passage?",
-        "options": [
-          "Types of plants",
-          "Energy sources",
-          "Cellular structures where photosynthesis occurs",
-          "Environmental factors affecting photosynthesis"
-        ],
-        "correctIndex": 2,
-        "explain": "在這段文字中，'chloroplasts'是指進行光合作用的細胞結構。"
+        "explain": "'細緻的洞見'暗示對研究發現的更深入理解。"
       }
     ]
   },
   "daily": {
-    "passage": "Attention all students: The library will be closed for maintenance this Saturday. Please plan accordingly and ensure you return any borrowed materials by Friday. Thank you for your understanding!",
+    "passage": "Attention students: The library will be closed for maintenance on Saturday, November 5th. We apologize for any inconvenience this may cause. Please plan your study sessions accordingly. Regular hours will resume on Monday.",
     "questions": [
       {
         "q": "When will the library be closed?",
         "options": [
-          "This Sunday",
-          "This Saturday",
-          "Next Saturday",
-          "This Friday"
+          "November 1st",
+          "November 5th",
+          "November 10th",
+          "November 15th"
         ],
         "correctIndex": 1,
-        "explain": "圖書館將於本週六關閉。"
+        "explain": "圖書館會在11月5日關閉。"
       },
       {
-        "q": "What should students do before the library closes?",
+        "q": "What will happen on Monday?",
         "options": [
-          "Return borrowed materials by Friday",
-          "Borrow more materials on Saturday",
-          "Use the library next week",
-          "Attend a workshop"
+          "Library open late",
+          "Library closed",
+          "Regular hours resume",
+          "Library has new books"
         ],
-        "correctIndex": 0,
-        "explain": "學生應在圖書館關閉前於星期五之前歸還借出的資料。"
+        "correctIndex": 2,
+        "explain": "周一圖書館將恢復正常開放時間。"
       }
     ]
   }

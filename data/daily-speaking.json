@@ -1,45 +1,45 @@
 {
   "shadowSentences": [
-    "I enjoy reading in my free time.",
-    "Traveling helps me learn about new cultures.",
-    "Cooking meals at home can be very rewarding.",
-    "Listening to music makes my day better.",
-    "Taking walks improves my mood and health.",
-    "I often volunteer at local community events.",
-    "Gardening is a peaceful way to spend time outdoors.",
-    "Learning new languages opens up many opportunities.",
-    "Spending time with family is important to me.",
-    "I believe that exercise is essential for a balanced life."
+    "I love reading books in my free time.",
+    "My favorite food is sushi and ramen.",
+    "I usually walk my dog in the evening.",
+    "Traveling to new places makes me happy.",
+    "I enjoy playing basketball with my friends.",
+    "Cooking dinner on weekends is a fun activity.",
+    "Listening to music helps me focus while studying.",
+    "I prefer to ride a bike instead of driving a car.",
+    "Winter is my favorite season for its beauty and snow.",
+    "Volunteering at the local shelter brings me joy and satisfaction."
   ],
   "interviewScenarios": [
     {
-      "topic": "旅行經歷",
+      "topic": "運動習慣",
+      "intro": "You have agreed to take part in a research study about exercise habits.",
+      "questions": [
+        "Q1: What kind of exercises do you enjoy doing?",
+        "Q2: Have you faced any challenges in maintaining a regular exercise routine?",
+        "Q3: How important do you think exercise is for overall health?",
+        "Q4: What advice would you give someone starting an exercise program?"
+      ]
+    },
+    {
+      "topic": "閱讀習慣",
+      "intro": "You have agreed to take part in a research study about reading habits.",
+      "questions": [
+        "Q1: How often do you read books or articles?",
+        "Q2: What difficulties do you encounter when trying to find time to read?",
+        "Q3: In your opinion, why is reading important in today's world?",
+        "Q4: What recommendations would you give to someone who wants to read more?"
+      ]
+    },
+    {
+      "topic": "旅遊經驗",
       "intro": "You have agreed to take part in a research study about travel experiences.",
       "questions": [
-        "Q1: Can you describe your most memorable travel experience?",
-        "Q2: What challenges did you face while traveling?",
-        "Q3: How do you feel about the impact of travel on personal growth?",
-        "Q4: What advice would you give to someone planning their first trip?"
-      ]
-    },
-    {
-      "topic": "音樂的影響",
-      "intro": "You have agreed to take part in a research study about the influence of music.",
-      "questions": [
-        "Q1: What role has music played in your life?",
-        "Q2: Have you ever faced any difficulties in learning an instrument?",
-        "Q3: In your opinion, how does music affect our emotions?",
-        "Q4: What tips would you suggest for someone starting to learn an instrument?"
-      ]
-    },
-    {
-      "topic": "運動的重要性",
-      "intro": "You have agreed to take part in a research study about the importance of sports.",
-      "questions": [
-        "Q1: What sports do you enjoy playing or watching?",
-        "Q2: What obstacles have you encountered in staying active?",
-        "Q3: How do you think sports influence teamwork skills?",
-        "Q4: What advice would you give to someone looking to get more involved in sports?"
+        "Q1: What is your most memorable travel experience?",
+        "Q2: What challenges have you faced while traveling abroad?",
+        "Q3: How do you think travel impacts a person's perspective?",
+        "Q4: What tips would you offer to someone planning their first trip?"
       ]
     }
   ]
