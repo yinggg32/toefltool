@@ -6086,5 +6086,125 @@
     "zh": "毒性",
     "ex": "The toxicity of certain chemicals can have devastating effects on wildlife.",
     "cat": "📰 每日新詞：environmental science"
+  },
+  {
+    "word": "market",
+    "pos": "n./v.",
+    "root": "市場+market",
+    "zh": "市場",
+    "ex": "The market equilibrium is reached when the quantity supplied equals the quantity demanded.",
+    "cat": "📰 每日新詞：economics"
+  },
+  {
+    "word": "interest",
+    "pos": "n./v.",
+    "root": "利息+interest",
+    "zh": "利息",
+    "ex": "Interest rates are a critical component of a country's monetary policy.",
+    "cat": "📰 每日新詞：economics"
+  },
+  {
+    "word": "competition",
+    "pos": "n.",
+    "root": "競爭+competition",
+    "zh": "競爭",
+    "ex": "Healthy competition in the market encourages innovation and improves consumer choice.",
+    "cat": "📰 每日新詞：economics"
+  },
+  {
+    "word": "trade",
+    "pos": "n./v.",
+    "root": "貿易+trade",
+    "zh": "貿易",
+    "ex": "International trade allows countries to specialize in the production of goods they can produce most efficiently.",
+    "cat": "📰 每日新詞：economics"
+  },
+  {
+    "word": "consumer",
+    "pos": "n.",
+    "root": "消費者+consumer",
+    "zh": "消費者",
+    "ex": "Consumer behavior plays a significant role in determining market trends.",
+    "cat": "📰 每日新詞：economics"
+  },
+  {
+    "word": "gross",
+    "pos": "adj.",
+    "root": "總的+gross",
+    "zh": "總的",
+    "ex": "Gross domestic product (GDP) is a key indicator of a nation's economic performance.",
+    "cat": "📰 每日新詞：economics"
+  },
+  {
+    "word": "monopoly",
+    "pos": "n.",
+    "root": "壟斷+monopoly",
+    "zh": "壟斷",
+    "ex": "A monopoly occurs when a single company dominates the entire market for a product.",
+    "cat": "📰 每日新詞：economics"
+  },
+  {
+    "word": "diversification",
+    "pos": "n.",
+    "root": "多樣化+diversification",
+    "zh": "多樣化",
+    "ex": "Diversification of investments can reduce risk and increase potential returns.",
+    "cat": "📰 每日新詞：economics"
+  },
+  {
+    "word": "productivity",
+    "pos": "n.",
+    "root": "生產力+productivity",
+    "zh": "生產力",
+    "ex": "Increased productivity can lead to higher economic growth.",
+    "cat": "📰 每日新詞：economics"
+  },
+  {
+    "word": "barrier",
+    "pos": "n.",
+    "root": "障礙+barrier",
+    "zh": "障礙",
+    "ex": "Trade barriers can limit the flow of goods and services between countries.",
+    "cat": "📰 每日新詞：economics"
+  },
+  {
+    "word": "marketable",
+    "pos": "adj.",
+    "root": "可銷售+marketable",
+    "zh": "可銷售的",
+    "ex": "Marketable skills are essential for individuals entering the workforce.",
+    "cat": "📰 每日新詞：economics"
+  },
+  {
+    "word": "autarky",
+    "pos": "n.",
+    "root": "自給自足+autarky",
+    "zh": "自給自足",
+    "ex": "Autarky refers to an economic system where a country is self-sufficient.",
+    "cat": "📰 每日新詞：economics"
+  },
+  {
+    "word": "deregulation",
+    "pos": "n.",
+    "root": "放鬆管制+deregulation",
+    "zh": "放鬆管制",
+    "ex": "Deregulation of the telecommunications industry has led to increased competition and lower prices.",
+    "cat": "📰 每日新詞：economics"
+  },
+  {
+    "word": "depreciation",
+    "pos": "n.",
+    "root": "貶值+depreciation",
+    "zh": "貶值",
+    "ex": "Depreciation affects the value of assets and can impact financial statements.",
+    "cat": "📰 每日新詞：economics"
+  },
+  {
+    "word": "arbitrage",
+    "pos": "n./v.",
+    "root": "套利+arbitrage",
+    "zh": "套利",
+    "ex": "Arbitrage allows investors to profit from price discrepancies in different markets.",
+    "cat": "📰 每日新詞：economics"
   }
 ]

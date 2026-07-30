@@ -2,119 +2,95 @@
   "cloze": {
     "segments": [
       {
-        "text": "The concept of a "
+        "text": "The process of photosynthesis is vital for life on Earth. It occurs in plants and certain bacteria, converting sunlight into chemical energy. During this process, plants absorb carbon di, "
       },
       {
-        "blank": "theo"
+        "blank": "oxide"
       },
       {
-        "text": "retical framework is vital in academic research. It provides a structured "
+        "text": " from the atmosphere and water from the soil. Through a series of reactions, these inputs are transformed into glucose, which serves as an energy source for the plant. The by-product of photosynthesis is oxygen, which is released into the air. This remarkable "
       },
       {
-        "blank": "pila"
+        "blank": "process"
       },
       {
-        "text": "r for interpreting data and forming hypotheses. Researchers often rely on existing "
-      },
-      {
-        "blank": "parad"
-      },
-      {
-        "text": "igms to shape their studies. For instance, the social learning theory offers a lens through which one can "
-      },
-      {
-        "blank": "exam"
-      },
-      {
-        "text": "ine behaviors. However, it's crucial to evaluate the "
-      },
-      {
-        "blank": "limi"
-      },
-      {
-        "text": "tations of any framework, as they can influence the results obtained. Ultimately, a comprehensive understanding of different "
-      },
-      {
-        "blank": "theor"
-      },
-      {
-        "text": "ies enriches the research process."
+        "text": " not only fuels plant growth but also supports life for numerous organisms, including humans. Understanding photosynthesis is crucial for advancements in agriculture and climate change mitigation strategies."
       }
     ]
   },
   "academic": {
-    "passage": "The use of theoretical frameworks in research plays a crucial role in guiding investigations. By providing a lens through which data can be interpreted, these frameworks help researchers formulate relevant questions and hypothesize about outcomes. For example, theories such as social cognitive theory and behavioralism can inform studies on learning processes. Additionally, understanding the limitations of each framework is essential, as they can significantly affect research conclusions. A diverse range of theories enables a richer exploration of topics, allowing for more nuanced insights into complex phenomena.",
+    "passage": "Photosynthesis is a biochemical process that enables plants to convert light energy into chemical energy stored in glucose. This process occurs mainly in the chloroplasts of plant cells, where chlorophyll absorbs light. The overall equation for photosynthesis can be simplified as carbon dioxide plus water, in the presence of sunlight, resulting in glucose and oxygen. This process is fundamental not only for plants but also for the ecological balance, as it provides oxygen necessary for the survival of most living organisms.",
     "questions": [
       {
-        "q": "What is the main purpose of theoretical frameworks in research?",
+        "q": "What is the primary function of photosynthesis according to the passage?",
         "options": [
-          "To guide investigations",
-          "To eliminate errors",
-          "To increase funding",
-          "To simplify data"
+          "To convert light energy into chemical energy",
+          "To absorb carbon dioxide",
+          "To produce oxygen",
+          "To promote plant growth"
         ],
         "correctIndex": 0,
-        "explain": "理論框架的主要目的是指導調查，幫助研究者理解數據。"
+        "explain": "這段文字說明光合作用的主要功能是將光能轉化為化學能。"
       },
       {
-        "q": "Which example of a theoretical framework is mentioned?",
+        "q": "Where does photosynthesis mainly occur in plants?",
         "options": [
-          "Cognitive dissonance",
-          "Social cognitive theory",
-          "Rational choice theory",
-          "Functionalism"
+          "In the roots",
+          "In the leaves",
+          "In the flowers",
+          "In the stems"
         ],
         "correctIndex": 1,
-        "explain": "文中提到的理論框架例子是社會認知理論。"
+        "explain": "根據文章，光合作用主要發生在植物的葉子中。"
       },
       {
-        "q": "Why is it important to understand the limitations of frameworks?",
+        "q": "What can be inferred about the importance of photosynthesis?",
         "options": [
-          "To improve funding",
-          "To avoid biases",
-          "To refine research techniques",
-          "To affect conclusions"
+          "It is the only process that provides energy to plants",
+          "It plays a critical role in the ecological balance",
+          "It is irrelevant to human survival",
+          "It only benefits plants"
+        ],
+        "correctIndex": 1,
+        "explain": "可以推斷出光合作用對於生態平衡至關重要，因為它提供了氧氣。"
+      },
+      {
+        "q": "What does the term 'chloroplasts' refer to in the passage?",
+        "options": [
+          "Parts of a plant that absorb sunlight",
+          "Types of chemical reactions",
+          "Cells that produce glucose",
+          "Organelles where photosynthesis occurs"
         ],
         "correctIndex": 3,
-        "explain": "理解框架的局限性很重要，因為這可能會影響研究結論。"
-      },
-      {
-        "q": "What does 'nuanced insights' imply about research findings?",
-        "options": [
-          "Simplistic conclusions",
-          "Detailed understanding",
-          "Generalized results",
-          "Limited analysis"
-        ],
-        "correctIndex": 1,
-        "explain": "'細緻的洞見'暗示對研究發現的更深入理解。"
+        "explain": "文中提到的'葉綠體'是指進行光合作用的細胞器。"
       }
     ]
   },
   "daily": {
-    "passage": "Attention students: The library will be closed for maintenance on Saturday, November 5th. We apologize for any inconvenience this may cause. Please plan your study sessions accordingly. Regular hours will resume on Monday.",
+    "passage": "Attention students! The campus library will be closed for maintenance from April 5th to April 10th. Please plan accordingly and return any borrowed materials before this period. Thank you for your understanding!",
     "questions": [
       {
-        "q": "When will the library be closed?",
+        "q": "When will the campus library be closed?",
         "options": [
-          "November 1st",
-          "November 5th",
-          "November 10th",
-          "November 15th"
+          "April 1st to April 5th",
+          "April 5th to April 10th",
+          "April 10th to April 15th",
+          "April 15th to April 20th"
         ],
         "correctIndex": 1,
-        "explain": "圖書館會在11月5日關閉。"
+        "explain": "根據公告，圖書館將在4月5日至4月10日關閉。"
       },
       {
-        "q": "What will happen on Monday?",
+        "q": "What should students do before the library closes?",
         "options": [
-          "Library open late",
-          "Library closed",
-          "Regular hours resume",
-          "Library has new books"
+          "Borrow more materials",
+          "Return any borrowed materials",
+          "Go to the library",
+          "Attend a workshop"
         ],
-        "correctIndex": 2,
-        "explain": "周一圖書館將恢復正常開放時間。"
+        "correctIndex": 1,
+        "explain": "公告提醒學生在圖書館關閉前歸還借用的材料。"
       }
     ]
   }
