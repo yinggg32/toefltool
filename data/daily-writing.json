@@ -2,125 +2,127 @@
   "buildSentences": [
     {
       "words": [
+        "the",
         "students",
-        "should",
-        "submit",
+        "completed",
         "their",
         "assignments",
         "before",
         "the",
         "deadline"
       ],
-      "display": "Students should submit their assignments before the deadline."
+      "display": "The students completed their assignments before the deadline."
     },
     {
       "words": [
         "the",
-        "new",
-        "library",
-        "opening",
-        "hours",
-        "are",
-        "available",
-        "online"
+        "researcher",
+        "presented",
+        "his",
+        "findings",
+        "at",
+        "the",
+        "conference"
       ],
-      "display": "The new library opening hours are available online."
+      "display": "The researcher presented his findings at the conference."
     },
     {
       "words": [
-        "to",
-        "understand",
-        "the",
-        "theory",
-        "you",
-        "need",
-        "to",
-        "read"
+        "many",
+        "people",
+        "believe",
+        "that",
+        "exercise",
+        "improves",
+        "mental",
+        "health"
       ],
-      "display": "To understand the theory you need to read."
-    },
-    {
-      "words": [
-        "we",
-        "discussed",
-        "the",
-        "importance",
-        "of",
-        "teamwork",
-        "in",
-        "class"
-      ],
-      "display": "We discussed the importance of teamwork in class."
+      "display": "Many people believe that exercise improves mental health."
     },
     {
       "words": [
         "the",
         "professor",
-        "gave",
-        "a",
-        "lecture",
-        "about",
-        "climate",
-        "change"
+        "encouraged",
+        "students",
+        "to",
+        "participate",
+        "in",
+        "discussions"
       ],
-      "display": "The professor gave a lecture about climate change."
-    },
-    {
-      "words": [
-        "our",
-        "club",
-        "will",
-        "meet",
-        "every",
-        "friday",
-        "at",
-        "five"
-      ],
-      "display": "Our club will meet every Friday at five."
-    },
-    {
-      "words": [
-        "please",
-        "let",
-        "me",
-        "know",
-        "if",
-        "you",
-        "have",
-        "any",
-        "questions"
-      ],
-      "display": "Please let me know if you have any questions."
+      "display": "The professor encouraged students to participate in discussions."
     },
     {
       "words": [
         "the",
-        "research",
-        "paper",
-        "needs",
-        "to",
-        "be",
-        "revised",
-        "before",
-        "submission"
+        "movie",
+        "was",
+        "one",
+        "of",
+        "the",
+        "highest",
+        "grossing",
+        "films",
+        "of",
+        "the",
+        "year"
       ],
-      "display": "The research paper needs to be revised before submission."
+      "display": "The movie was one of the highest grossing films of the year."
+    },
+    {
+      "words": [
+        "the",
+        "team",
+        "worked",
+        "hard",
+        "to",
+        "achieve",
+        "their",
+        "goals"
+      ],
+      "display": "The team worked hard to achieve their goals."
+    },
+    {
+      "words": [
+        "new",
+        "technologies",
+        "are",
+        "changing",
+        "the",
+        "way",
+        "we",
+        "communicate"
+      ],
+      "display": "New technologies are changing the way we communicate."
+    },
+    {
+      "words": [
+        "environmental",
+        "issues",
+        "require",
+        "immediate",
+        "attention",
+        "from",
+        "the",
+        "government"
+      ],
+      "display": "Environmental issues require immediate attention from the government."
     }
   ],
   "emailPrompts": [
-    "寄信給教授，說明因病無法參加期中考，詢問補考事宜。",
-    "寄信給宿舍管理處，詢問更換房間的流程和要求。",
-    "寄信給圖書館，請求延長借書期限。",
-    "寄信給社團，報名參加下個月的活動。",
-    "寄信給客服，反映近期購買商品的問題。",
-    "寄信給導師，詢問有關課程的詳細信息。"
+    "寄信給圖書館，詢問是否可以延長書籍的歸還期限。",
+    "寄信給宿舍管理，反映宿舍的水壓問題，請求修理。",
+    "寄信給社團顧問，詢問下次會議的時間和地點。",
+    "寄信給客戶服務，請求退換一件 defective的商品。",
+    "寄信給教授，請教一個課堂上不明白的問題。",
+    "寄信給學校醫務室，預約健康檢查的時間。"
   ],
   "discussionPrompts": [
-    "教授問：「你認為科技對人際關係的影響是正面還是負面？」",
-    "教授問：「文化差異如何影響國際商務？」",
-    "教授問：「人們應該如何面對氣候變化的挑戰？」",
-    "教授問：「在當今社會，藝術的角色是什麼？」",
-    "教授問：「教育應該更注重知識還是技能的培養？」",
-    "教授問：「全球化對本地文化的影響是什麼？」"
+    "教授問：「你認為科技對教育的影響是正面還是負面？」",
+    "教授問：「應該如何平衡經濟發展與環境保護之間的關係？」",
+    "教授問：「社交媒體對人際關係的影響如何？」",
+    "教授問：「全球化對當地文化有何影響？」",
+    "教授問：「什麼是有效的學習策略？」",
+    "教授問：「你認為藝術在社會中的角色是什麼？」"
   ]
 }

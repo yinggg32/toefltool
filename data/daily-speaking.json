@@ -1,45 +1,45 @@
 {
   "shadowSentences": [
-    "I love going for walks in the park.",
-    "My favorite season is autumn with colorful leaves.",
-    "Cooking dinner is a relaxing way to end the day.",
-    "Traveling to new places helps me learn about cultures.",
-    "Reading fiction allows me to escape into different worlds.",
-    "Listening to music while studying improves my focus.",
-    "Gardening teaches me patience and the value of hard work.",
-    "Volunteering at shelters gives me a sense of purpose.",
-    "Learning a new language opens up many opportunities for me.",
-    "Attending local events helps me connect with my community."
+    "I enjoy reading books in my free time.",
+    "My favorite season is autumn for the cool weather.",
+    "Traveling allows me to learn about different cultures.",
+    "Cooking new recipes is a fun way to spend my weekends.",
+    "Listening to music helps me relax after a busy day.",
+    "I prefer to exercise outdoors rather than in a gym.",
+    "Volunteering at the local shelter has been a rewarding experience.",
+    "Attending workshops can improve your skills and knowledge.",
+    "Finding a balance between work and life can be challenging.",
+    "Building strong relationships with friends is essential for happiness."
   ],
   "interviewScenarios": [
     {
       "topic": "旅行計劃",
       "intro": "You have agreed to take part in a research study about travel planning.",
       "questions": [
-        "Q1: Can you share a memorable trip you have taken?",
+        "Q1: Can you share a memorable travel experience you had?",
         "Q2: What challenges do you face when planning a trip?",
-        "Q3: How important is it for you to plan every detail of your travels?",
-        "Q4: What advice would you give someone planning their first trip?"
+        "Q3: How do you think travel influences personal growth?",
+        "Q4: What tips would you give someone planning their first trip?"
       ]
     },
     {
-      "topic": "運動習慣",
-      "intro": "You have agreed to take part in a research study about exercise habits.",
+      "topic": "環保生活",
+      "intro": "You have agreed to take part in a research study about sustainable living.",
       "questions": [
-        "Q1: What type of exercise do you enjoy the most?",
-        "Q2: Have you ever struggled to maintain a consistent workout routine?",
-        "Q3: In your opinion, how does regular exercise impact mental health?",
-        "Q4: What tips would you suggest for someone looking to start exercising?"
+        "Q1: What eco-friendly habits do you practice in your daily life?",
+        "Q2: What difficulties do you encounter while trying to live sustainably?",
+        "Q3: Why do you believe sustainable living is important today?",
+        "Q4: What advice would you offer to someone wanting to adopt a greener lifestyle?"
       ]
     },
     {
-      "topic": "飲食習慣",
-      "intro": "You have agreed to take part in a research study about eating habits.",
+      "topic": "創意寫作",
+      "intro": "You have agreed to take part in a research study about creative writing.",
       "questions": [
-        "Q1: What is your favorite dish to cook at home?",
-        "Q2: Do you find it difficult to eat healthy when dining out?",
-        "Q3: How do you think cultural background influences eating habits?",
-        "Q4: What recommendations would you offer for maintaining a balanced diet?"
+        "Q1: Can you describe your experience with writing stories or poetry?",
+        "Q2: What do you find most challenging about the writing process?",
+        "Q3: In your opinion, how does writing benefit a person's imagination?",
+        "Q4: What suggestions would you give to someone starting to write creatively?"
       ]
     }
   ]

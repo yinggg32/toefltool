@@ -6206,5 +6206,85 @@
     "zh": "套利",
     "ex": "Arbitrage allows investors to profit from price discrepancies in different markets.",
     "cat": "📰 每日新詞：economics"
+  },
+  {
+    "word": "development",
+    "pos": "n.",
+    "root": "velop-發展—",
+    "zh": "發展",
+    "ex": "Human development is studied across several stages, from infancy to adulthood.",
+    "cat": "📰 每日新詞：psychology"
+  },
+  {
+    "word": "therapist",
+    "pos": "n.",
+    "root": "therap-治療，-ist-職業者—",
+    "zh": "治療師",
+    "ex": "A therapist can provide support and guidance for individuals facing psychological challenges.",
+    "cat": "📰 每日新詞：psychology"
+  },
+  {
+    "word": "paranoia",
+    "pos": "n.",
+    "root": "para-偏離，noia-思考—",
+    "zh": "偏執",
+    "ex": "Paranoia can distort an individual's perception of reality.",
+    "cat": "📰 每日新詞：psychology"
+  },
+  {
+    "word": "psychology",
+    "pos": "n.",
+    "root": "psycho-心理，logy-學科—",
+    "zh": "心理學",
+    "ex": "Psychology encompasses a wide range of topics related to human thought and behavior.",
+    "cat": "📰 每日新詞：psychology"
+  },
+  {
+    "word": "observation",
+    "pos": "n.",
+    "root": "observ-觀察，-ation-過程—",
+    "zh": "觀察",
+    "ex": "Observation is a fundamental method used in psychological research.",
+    "cat": "📰 每日新詞：psychology"
+  },
+  {
+    "word": "stressor",
+    "pos": "n.",
+    "root": "stress-壓力，-or-引起者—",
+    "zh": "壓力源",
+    "ex": "Identifying the source of stressors is essential for effective coping strategies.",
+    "cat": "📰 每日新詞：psychology"
+  },
+  {
+    "word": "insight",
+    "pos": "n.",
+    "root": "in-進入，sight-視野—",
+    "zh": "洞察",
+    "ex": "Gaining insight into one's behavior can facilitate personal growth.",
+    "cat": "📰 每日新詞：psychology"
+  },
+  {
+    "word": "schema",
+    "pos": "n.",
+    "root": "schem-模式—",
+    "zh": "圖式",
+    "ex": "Schemas help individuals organize and interpret new information.",
+    "cat": "📰 每日新詞：psychology"
+  },
+  {
+    "word": "bipolar",
+    "pos": "adj./n.",
+    "root": "bi-兩，polar-極端—",
+    "zh": "雙極的",
+    "ex": "Bipolar disorder is characterized by alternating episodes of mania and depression.",
+    "cat": "📰 每日新詞：psychology"
+  },
+  {
+    "word": "hypnosis",
+    "pos": "n.",
+    "root": "hypno-催眠—",
+    "zh": "催眠",
+    "ex": "Hypnosis can be utilized as a therapeutic tool in certain psychological treatments.",
+    "cat": "📰 每日新詞：psychology"
   }
 ]

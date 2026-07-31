@@ -2,95 +2,95 @@
   "cloze": {
     "segments": [
       {
-        "text": "The process of photosynthesis is vital for life on Earth. It occurs in plants and certain bacteria, converting sunlight into chemical energy. During this process, plants absorb carbon di, "
+        "text": "The concept of biodiversity refers to the variety of life forms on Earth, including the genetic, species, and ecosystem diversity. Biodiversity is crucial for maintaining the balance of ecosystems, as it contributes to resilience against disturbances. For instance, a high level of bio"
       },
       {
-        "blank": "oxide"
+        "blank": "diversity"
       },
       {
-        "text": " from the atmosphere and water from the soil. Through a series of reactions, these inputs are transformed into glucose, which serves as an energy source for the plant. The by-product of photosynthesis is oxygen, which is released into the air. This remarkable "
+        "text": " can enhance services such as pollination and nutrient cycling. Unfortunately, human activities such as habitat destruction and climate change are posing significant threats to biodiversity. Conservation efforts aim to protect species and their habitats, but effective management requires comprehensive understanding of bio"
       },
       {
-        "blank": "process"
+        "blank": "logical"
       },
       {
-        "text": " not only fuels plant growth but also supports life for numerous organisms, including humans. Understanding photosynthesis is crucial for advancements in agriculture and climate change mitigation strategies."
+        "text": " interconnections. Protecting biodiversity not only preserves natural beauty but also supports human wellbeing by ensuring that ecosystems function optimally."
       }
     ]
   },
   "academic": {
-    "passage": "Photosynthesis is a biochemical process that enables plants to convert light energy into chemical energy stored in glucose. This process occurs mainly in the chloroplasts of plant cells, where chlorophyll absorbs light. The overall equation for photosynthesis can be simplified as carbon dioxide plus water, in the presence of sunlight, resulting in glucose and oxygen. This process is fundamental not only for plants but also for the ecological balance, as it provides oxygen necessary for the survival of most living organisms.",
+    "passage": "Biodiversity encompasses the variety of living organisms in a given area, reflecting the complexity of ecosystems. It is vital for ecological stability and provides numerous benefits, including food, medicine, and recreation. The loss of biodiversity leads to ecosystem degradation, reducing resilience against environmental changes. Conservation strategies focus on protecting endangered species and restoring habitats to maintain healthy ecosystems.",
     "questions": [
       {
-        "q": "What is the primary function of photosynthesis according to the passage?",
+        "q": "What is the main idea of the passage?",
         "options": [
-          "To convert light energy into chemical energy",
-          "To absorb carbon dioxide",
-          "To produce oxygen",
-          "To promote plant growth"
+          "Biodiversity is essential for ecological stability.",
+          "Ecosystem degradation is caused by climate change.",
+          "Human activities have no effect on biodiversity.",
+          "The role of biodiversity is often overlooked."
         ],
         "correctIndex": 0,
-        "explain": "這段文字說明光合作用的主要功能是將光能轉化為化學能。"
+        "explain": "這段文字主要是說明生物多樣性對生態穩定的重要性。"
       },
       {
-        "q": "Where does photosynthesis mainly occur in plants?",
+        "q": "What are the benefits of biodiversity mentioned in the passage?",
         "options": [
-          "In the roots",
-          "In the leaves",
-          "In the flowers",
-          "In the stems"
+          "Only food and medicine are benefits.",
+          "Biodiversity provides food, medicine, and recreation.",
+          "Biodiversity only supports human activities.",
+          "Biodiversity is not beneficial to humans."
         ],
         "correctIndex": 1,
-        "explain": "根據文章，光合作用主要發生在植物的葉子中。"
+        "explain": "生物多樣性提供食物、藥物和休閒等多種好處。"
       },
       {
-        "q": "What can be inferred about the importance of photosynthesis?",
+        "q": "What can be inferred about the impact of human activities on biodiversity?",
         "options": [
-          "It is the only process that provides energy to plants",
-          "It plays a critical role in the ecological balance",
-          "It is irrelevant to human survival",
-          "It only benefits plants"
+          "Human activities have improved biodiversity.",
+          "Human activities are neutral towards biodiversity.",
+          "Human activities are damaging to biodiversity.",
+          "Human activities have no connection to biodiversity."
+        ],
+        "correctIndex": 2,
+        "explain": "人類活動對生物多樣性造成損害，因此可以推測它們是有害的。"
+      },
+      {
+        "q": "What does the term 'ecosystem degradation' mean?",
+        "options": [
+          "Improvement of ecosystem functions.",
+          "Deterioration of ecosystem health.",
+          "Stability of ecosystem processes.",
+          "Increase in biodiversity."
         ],
         "correctIndex": 1,
-        "explain": "可以推斷出光合作用對於生態平衡至關重要，因為它提供了氧氣。"
-      },
-      {
-        "q": "What does the term 'chloroplasts' refer to in the passage?",
-        "options": [
-          "Parts of a plant that absorb sunlight",
-          "Types of chemical reactions",
-          "Cells that produce glucose",
-          "Organelles where photosynthesis occurs"
-        ],
-        "correctIndex": 3,
-        "explain": "文中提到的'葉綠體'是指進行光合作用的細胞器。"
+        "explain": "這個術語指的是生態系統健康的惡化。"
       }
     ]
   },
   "daily": {
-    "passage": "Attention students! The campus library will be closed for maintenance from April 5th to April 10th. Please plan accordingly and return any borrowed materials before this period. Thank you for your understanding!",
+    "passage": "Attention students! The university library will be hosting a special event on Tuesday at 3 PM, featuring a guest speaker discussing innovative research in renewable energy. All students are welcome to attend and refreshments will be provided.",
     "questions": [
       {
-        "q": "When will the campus library be closed?",
+        "q": "When will the special event be held?",
         "options": [
-          "April 1st to April 5th",
-          "April 5th to April 10th",
-          "April 10th to April 15th",
-          "April 15th to April 20th"
+          "Monday at 3 PM",
+          "Tuesday at 3 PM",
+          "Wednesday at 3 PM",
+          "Thursday at 3 PM"
         ],
         "correctIndex": 1,
-        "explain": "根據公告，圖書館將在4月5日至4月10日關閉。"
+        "explain": "這個活動將在星期二下午三點舉行。"
       },
       {
-        "q": "What should students do before the library closes?",
+        "q": "What will be provided at the event?",
         "options": [
-          "Borrow more materials",
-          "Return any borrowed materials",
-          "Go to the library",
-          "Attend a workshop"
+          "Only drinks",
+          "Only snacks",
+          "Refreshments",
+          "No refreshments"
         ],
-        "correctIndex": 1,
-        "explain": "公告提醒學生在圖書館關閉前歸還借用的材料。"
+        "correctIndex": 2,
+        "explain": "活動中將提供茶點。"
       }
     ]
   }

@@ -1,116 +1,116 @@
 {
   "chooseResponse": [
     {
-      "q": "What time is the meeting?",
+      "q": "What did you think of the event?",
       "options": [
-        "At 3 PM",
-        "In the cafeteria",
-        "On the third floor",
-        "Next week"
+        "It was amazing!",
+        "I didn't like it.",
+        "I didn't go.",
+        "It was too long."
       ],
       "correctIndex": 0
     }
   ],
   "conversation": {
-    "transcript": "Student: Hi, I heard there’s a new study group starting this week.\nAdvisor: Yes, we’re organizing one for biology students. Are you interested?\nStudent: Absolutely! When does it meet?\nAdvisor: It’ll be every Wednesday at 5 PM in the library study room.",
+    "transcript": "Student: Did you attend the cultural festival last weekend?\nAdvisor: Yes, I did! It was really vibrant.\nStudent: I heard there were some great performances.\nAdvisor: Absolutely, the dance groups were impressive!",
     "questions": [
       {
-        "q": "What is the purpose of the meeting?",
+        "q": "What was the main topic of the conversation?",
         "options": [
-          "To discuss biology",
-          "To plan a trip",
-          "To review math",
-          "To have a social gathering"
+          "The cultural festival",
+          "A class schedule",
+          "A study group",
+          "A club meeting"
         ],
         "correctIndex": 0,
-        "explain": "此會議的目的是討論生物學。"
+        "explain": "這段對話主要談論文化節的活動。"
       },
       {
-        "q": "Where will the study group meet?",
+        "q": "How did the advisor feel about the festival?",
         "options": [
-          "In the cafeteria",
-          "In the library study room",
-          "In the science lab",
-          "In the student center"
+          "It was boring.",
+          "It was vibrant.",
+          "It was too crowded.",
+          "It was expensive."
         ],
         "correctIndex": 1,
-        "explain": "學習小組將在圖書館學習室舉行。"
+        "explain": "顧問認為文化節非常熱鬧。"
       }
     ]
   },
   "announcement": {
-    "transcript": "Attention students! There will be a campus-wide clean-up day this Saturday. Join us at 9 AM at the main quad. Supplies will be provided, and refreshments will be available for all volunteers. Let’s work together to keep our campus beautiful!",
+    "transcript": "Attention students: The library will be closing early this Friday at 5 PM for maintenance. Please plan your study time accordingly and ensure you have all necessary materials before that time. Thank you for your understanding.",
     "questions": [
       {
-        "q": "What is the announcement about?",
+        "q": "Why will the library close early?",
         "options": [
-          "A clean-up day",
-          "A concert",
-          "A lecture",
-          "A sports event"
-        ],
-        "correctIndex": 0,
-        "explain": "這個公告是關於清理活動的。"
-      },
-      {
-        "q": "When will the clean-up day take place?",
-        "options": [
-          "This Friday",
-          "This Saturday",
-          "Next Monday",
-          "Next weekend"
+          "For an event",
+          "For maintenance",
+          "For inventory",
+          "For a holiday"
         ],
         "correctIndex": 1,
-        "explain": "清理活動將在這個星期六舉行。"
+        "explain": "圖書館因維護工作將提前關閉。"
+      },
+      {
+        "q": "What time will the library close on Friday?",
+        "options": [
+          "6 PM",
+          "7 PM",
+          "5 PM",
+          "4 PM"
+        ],
+        "correctIndex": 2,
+        "explain": "圖書館將於星期五下午5點關閉。"
       }
     ]
   },
   "talk": {
-    "transcript": "Today, we are going to discuss the concept of photosynthesis. This process occurs in plants, algae, and some bacteria, where sunlight is converted into chemical energy. Specifically, chlorophyll in the chloroplasts captures sunlight, which is then used to transform carbon dioxide and water into glucose and oxygen. This process is vital not only for the plants themselves but also for life on Earth, as it produces the oxygen we breathe and serves as the foundation of the food chain.",
+    "transcript": "Today, we're discussing the concept of biodiversity. Biodiversity refers to the variety of life in the world or in a particular habitat. It includes the diversity of species, genetic variations, and ecosystem diversity. High biodiversity is crucial for ecosystem stability, as it enables ecosystems to function more effectively. For example, diverse ecosystems can better withstand environmental stressors, such as climate change and diseases. Conservation efforts are essential to protect biodiversity, as many species are threatened by habitat loss and pollution. By preserving biodiversity, we also ensure the health of our planet and the resources we rely on.",
     "questions": [
       {
-        "q": "What is photosynthesis?",
+        "q": "What is biodiversity?",
         "options": [
-          "A process in plants",
-          "A type of respiration",
-          "A method of reproduction",
-          "A way to absorb water"
+          "Variety of life",
+          "Ecosystem stability",
+          "Species extinction",
+          "Genetic engineering"
         ],
         "correctIndex": 0,
-        "explain": "光合作用是植物中的一個過程。"
+        "explain": "生物多樣性是指地球上生命的多樣性。"
       },
       {
-        "q": "What do plants convert during photosynthesis?",
+        "q": "Why is high biodiversity important?",
         "options": [
-          "Carbon dioxide and water",
-          "Oxygen and glucose",
-          "Light and heat",
-          "Soil and minerals"
+          "It prevents species from going extinct.",
+          "It makes ecosystems beautiful.",
+          "It improves human health.",
+          "It enhances ecosystem stability."
         ],
-        "correctIndex": 0,
-        "explain": "植物在光合作用過程中轉換二氧化碳和水。"
+        "correctIndex": 3,
+        "explain": "高生物多樣性對生態系統的穩定性至關重要。"
       },
       {
-        "q": "What role does chlorophyll play?",
+        "q": "What threatens biodiversity according to the talk?",
         "options": [
-          "Absorbs sunlight",
-          "Releases oxygen",
-          "Stores water",
-          "Transports nutrients"
-        ],
-        "correctIndex": 0,
-        "explain": "葉綠素的作用是吸收陽光。"
-      },
-      {
-        "q": "Why is photosynthesis important?",
-        "options": [
-          "It produces oxygen",
-          "It creates energy",
-          "It helps plants grow",
+          "Climate change",
+          "Invasive species",
+          "Pollution",
           "All of the above"
         ],
         "correctIndex": 3,
-        "explain": "光合作用的重要性在於它產生氧氣、創造能量並幫助植物生長。"
+        "explain": "講話中提到棲息地喪失和污染威脅生物多樣性。"
+      },
+      {
+        "q": "What can be done to protect biodiversity?",
+        "options": [
+          "Increase pollution",
+          "Stop conservation efforts",
+          "Promote habitat destruction",
+          "Support conservation efforts"
+        ],
+        "correctIndex": 3,
+        "explain": "支持保護措施可以保護生物多樣性。"
       }
     ]
   }
