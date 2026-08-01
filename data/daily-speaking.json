@@ -1,45 +1,45 @@
 {
   "shadowSentences": [
-    "I enjoy reading books in my free time.",
-    "My favorite season is autumn for the cool weather.",
-    "Traveling allows me to learn about different cultures.",
-    "Cooking new recipes is a fun way to spend my weekends.",
-    "Listening to music helps me relax after a busy day.",
-    "I prefer to exercise outdoors rather than in a gym.",
-    "Volunteering at the local shelter has been a rewarding experience.",
-    "Attending workshops can improve your skills and knowledge.",
-    "Finding a balance between work and life can be challenging.",
-    "Building strong relationships with friends is essential for happiness."
+    "I love to read books every night.",
+    "My favorite season is autumn in the park.",
+    "Cooking new recipes helps me relax after work.",
+    "Traveling to different countries broadens my perspective.",
+    "Listening to music is essential for my daily routine.",
+    "Running in the morning boosts my energy for the day.",
+    "Volunteering in my community gives me a sense of purpose.",
+    "Gardening is a great way to connect with nature outdoors.",
+    "Spending time with my family is the highlight of my week.",
+    "Learning a new language opens doors to many opportunities."
   ],
   "interviewScenarios": [
     {
-      "topic": "旅行計劃",
-      "intro": "You have agreed to take part in a research study about travel planning.",
+      "topic": "學習習慣",
+      "intro": "You have agreed to take part in a research study about study habits.",
       "questions": [
-        "Q1: Can you share a memorable travel experience you had?",
-        "Q2: What challenges do you face when planning a trip?",
-        "Q3: How do you think travel influences personal growth?",
-        "Q4: What tips would you give someone planning their first trip?"
+        "Q1: Can you describe your study habits when preparing for exams?",
+        "Q2: What challenges do you face while trying to stay focused while studying?",
+        "Q3: In your opinion, what makes an effective study environment?",
+        "Q4: What advice would you give to someone struggling with their study habits?"
       ]
     },
     {
-      "topic": "環保生活",
-      "intro": "You have agreed to take part in a research study about sustainable living.",
+      "topic": "運動愛好",
+      "intro": "You have agreed to take part in a research study about hobbies related to sports.",
       "questions": [
-        "Q1: What eco-friendly habits do you practice in your daily life?",
-        "Q2: What difficulties do you encounter while trying to live sustainably?",
-        "Q3: Why do you believe sustainable living is important today?",
-        "Q4: What advice would you offer to someone wanting to adopt a greener lifestyle?"
+        "Q1: What sports do you enjoy playing in your free time?",
+        "Q2: Have you ever faced any obstacles when trying to stay active?",
+        "Q3: How important do you think sports are for maintaining good health?",
+        "Q4: What suggestions would you offer to someone looking to start a new sport?"
       ]
     },
     {
-      "topic": "創意寫作",
-      "intro": "You have agreed to take part in a research study about creative writing.",
+      "topic": "藝術欣賞",
+      "intro": "You have agreed to take part in a research study about appreciation of art.",
       "questions": [
-        "Q1: Can you describe your experience with writing stories or poetry?",
-        "Q2: What do you find most challenging about the writing process?",
-        "Q3: In your opinion, how does writing benefit a person's imagination?",
-        "Q4: What suggestions would you give to someone starting to write creatively?"
+        "Q1: What type of art do you enjoy the most and why?",
+        "Q2: Have you ever had difficulty understanding a particular piece of art?",
+        "Q3: What role do you believe art plays in society today?",
+        "Q4: How would you recommend someone who feels disconnected from art to engage with it?"
       ]
     }
   ]

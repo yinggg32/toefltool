@@ -1,116 +1,116 @@
 {
   "chooseResponse": [
     {
-      "q": "What did you think of the event?",
+      "q": "What do you think of the new library hours?",
       "options": [
-        "It was amazing!",
-        "I didn't like it.",
-        "I didn't go.",
-        "It was too long."
+        "They're great!",
+        "I hate them.",
+        "They're confusing.",
+        "I didn't notice."
       ],
       "correctIndex": 0
     }
   ],
   "conversation": {
-    "transcript": "Student: Did you attend the cultural festival last weekend?\nAdvisor: Yes, I did! It was really vibrant.\nStudent: I heard there were some great performances.\nAdvisor: Absolutely, the dance groups were impressive!",
+    "transcript": "Student: Have you seen the new library hours?\nAdvisor: Yes, they changed them last week. Why do you ask?\nStudent: I think they’re really helpful for night owls.\nAdvisor: I agree. It’s nice that they’re open later now.",
     "questions": [
       {
-        "q": "What was the main topic of the conversation?",
+        "q": "What does the student think about the new hours?",
         "options": [
-          "The cultural festival",
-          "A class schedule",
-          "A study group",
-          "A club meeting"
+          "They're helpful.",
+          "They're unnecessary.",
+          "They should change again.",
+          "They're too short."
         ],
         "correctIndex": 0,
-        "explain": "這段對話主要談論文化節的活動。"
+        "explain": "學生認為新開放時間很有幫助。"
       },
       {
-        "q": "How did the advisor feel about the festival?",
+        "q": "Why did the advisor agree with the student?",
         "options": [
-          "It was boring.",
-          "It was vibrant.",
-          "It was too crowded.",
-          "It was expensive."
+          "They like studying at night.",
+          "They suggested the change.",
+          "They also find it convenient.",
+          "They don't go to the library."
         ],
-        "correctIndex": 1,
-        "explain": "顧問認為文化節非常熱鬧。"
+        "correctIndex": 2,
+        "explain": "顧問同意是因為他們也覺得這樣很方便。"
       }
     ]
   },
   "announcement": {
-    "transcript": "Attention students: The library will be closing early this Friday at 5 PM for maintenance. Please plan your study time accordingly and ensure you have all necessary materials before that time. Thank you for your understanding.",
+    "transcript": "Attention students! The campus will host its annual art fair this Saturday from 10 AM to 4 PM in the main hall. Join us for a day of creativity, workshops, and local artists showcasing their work. Don't miss out on this opportunity to engage with the art community!",
     "questions": [
       {
-        "q": "Why will the library close early?",
+        "q": "What is happening this Saturday?",
         "options": [
-          "For an event",
-          "For maintenance",
-          "For inventory",
-          "For a holiday"
+          "A music concert.",
+          "An art fair.",
+          "A sports event.",
+          "A film screening."
         ],
         "correctIndex": 1,
-        "explain": "圖書館因維護工作將提前關閉。"
+        "explain": "這個星期六會舉辦藝術展。"
       },
       {
-        "q": "What time will the library close on Friday?",
+        "q": "Where will the event take place?",
         "options": [
-          "6 PM",
-          "7 PM",
-          "5 PM",
-          "4 PM"
+          "In the library.",
+          "In the main hall.",
+          "At the gym.",
+          "On the football field."
         ],
-        "correctIndex": 2,
-        "explain": "圖書館將於星期五下午5點關閉。"
+        "correctIndex": 1,
+        "explain": "活動將在主要大廳舉行。"
       }
     ]
   },
   "talk": {
-    "transcript": "Today, we're discussing the concept of biodiversity. Biodiversity refers to the variety of life in the world or in a particular habitat. It includes the diversity of species, genetic variations, and ecosystem diversity. High biodiversity is crucial for ecosystem stability, as it enables ecosystems to function more effectively. For example, diverse ecosystems can better withstand environmental stressors, such as climate change and diseases. Conservation efforts are essential to protect biodiversity, as many species are threatened by habitat loss and pollution. By preserving biodiversity, we also ensure the health of our planet and the resources we rely on.",
+    "transcript": "Today, we will discuss the concept of biodiversity. Biodiversity refers to the variety of life on Earth, encompassing the different species of plants, animals, and microorganisms. High biodiversity is crucial for ecosystem stability and resilience, as it allows ecosystems to adapt to changes, such as climate fluctuations. Conserving biodiversity is essential not only for the environment but also for human health, agriculture, and the economy. By protecting diverse habitats, we ensure the survival of various species and the services they provide.",
     "questions": [
       {
         "q": "What is biodiversity?",
         "options": [
-          "Variety of life",
-          "Ecosystem stability",
-          "Species extinction",
-          "Genetic engineering"
+          "The variety of ecosystems.",
+          "The number of people.",
+          "The variety of life forms.",
+          "The amount of water."
         ],
-        "correctIndex": 0,
-        "explain": "生物多樣性是指地球上生命的多樣性。"
+        "correctIndex": 2,
+        "explain": "生物多樣性是地球上生命的多樣性。"
       },
       {
         "q": "Why is high biodiversity important?",
         "options": [
-          "It prevents species from going extinct.",
-          "It makes ecosystems beautiful.",
-          "It improves human health.",
-          "It enhances ecosystem stability."
+          "For entertainment.",
+          "For ecosystem stability.",
+          "For urban development.",
+          "For social networks."
         ],
-        "correctIndex": 3,
-        "explain": "高生物多樣性對生態系統的穩定性至關重要。"
+        "correctIndex": 1,
+        "explain": "高生物多樣性對生態系統的穩定性很重要。"
       },
       {
-        "q": "What threatens biodiversity according to the talk?",
+        "q": "What does conserving biodiversity help?",
         "options": [
-          "Climate change",
-          "Invasive species",
-          "Pollution",
-          "All of the above"
+          "Decrease pollution.",
+          "Support human health.",
+          "Increase traffic.",
+          "Enhance technology."
         ],
-        "correctIndex": 3,
-        "explain": "講話中提到棲息地喪失和污染威脅生物多樣性。"
+        "correctIndex": 1,
+        "explain": "保護生物多樣性有助於人類健康。"
       },
       {
-        "q": "What can be done to protect biodiversity?",
+        "q": "What does protecting habitats ensure?",
         "options": [
-          "Increase pollution",
-          "Stop conservation efforts",
-          "Promote habitat destruction",
-          "Support conservation efforts"
+          "More tourists.",
+          "Fewer species.",
+          "Survival of species.",
+          "Higher costs."
         ],
-        "correctIndex": 3,
-        "explain": "支持保護措施可以保護生物多樣性。"
+        "correctIndex": 2,
+        "explain": "保護棲息地可以確保物種的生存。"
       }
     ]
   }

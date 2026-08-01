@@ -6286,5 +6286,93 @@
     "zh": "催眠",
     "ex": "Hypnosis can be utilized as a therapeutic tool in certain psychological treatments.",
     "cat": "📰 每日新詞：psychology"
+  },
+  {
+    "word": "circuit",
+    "pos": "n.",
+    "root": "電路, circle—",
+    "zh": "電路",
+    "ex": "The circuit design is crucial for ensuring optimal performance in electronic devices.",
+    "cat": "📰 每日新詞：technology and innovation"
+  },
+  {
+    "word": "data",
+    "pos": "n.",
+    "root": "數據, datum—",
+    "zh": "數據",
+    "ex": "Data analysis is essential for making informed decisions in technology development.",
+    "cat": "📰 每日新詞：technology and innovation"
+  },
+  {
+    "word": "software",
+    "pos": "n.",
+    "root": "軟體, soft—ware—",
+    "zh": "軟體",
+    "ex": "The software developed for the project was highly effective in streamlining operations.",
+    "cat": "📰 每日新詞：technology and innovation"
+  },
+  {
+    "word": "engineering",
+    "pos": "n.",
+    "root": "工程, engin—eering—",
+    "zh": "工程",
+    "ex": "Engineering plays a critical role in the development of new technologies.",
+    "cat": "📰 每日新詞：technology and innovation"
+  },
+  {
+    "word": "technological",
+    "pos": "adj.",
+    "root": "技術的, techn—ological—",
+    "zh": "技術的",
+    "ex": "Technological advancements have led to significant changes in the workplace.",
+    "cat": "📰 每日新詞：technology and innovation"
+  },
+  {
+    "word": "broadband",
+    "pos": "n./adj.",
+    "root": "寬頻, broad—band—",
+    "zh": "寬頻的",
+    "ex": "Broadband internet access is crucial for supporting remote work and learning.",
+    "cat": "📰 每日新詞：technology and innovation"
+  },
+  {
+    "word": "artificial intelligence",
+    "pos": "n.",
+    "root": "人工智慧, artificial—intelligence—",
+    "zh": "人工智慧",
+    "ex": "Artificial intelligence is transforming industries by automating complex tasks.",
+    "cat": "📰 每日新詞：technology and innovation"
+  },
+  {
+    "word": "digitalization",
+    "pos": "n.",
+    "root": "數字化, digital—ization—",
+    "zh": "數字化",
+    "ex": "Digitalization is transforming traditional industries into more efficient operations.",
+    "cat": "📰 每日新詞：technology and innovation"
+  },
+  {
+    "word": "engineering",
+    "pos": "n.",
+    "root": "工程, engin—eering—",
+    "zh": "工程",
+    "ex": "Engineering principles are applied in the design and manufacturing of new products.",
+    "cat": "📰 每日新詞：technology and innovation"
+  },
+  {
+    "word": "robotics",
+    "pos": "n.",
+    "root": "機器人技術, robot—ics—",
+    "zh": "機器人技術",
+    "ex": "Robotics is increasingly used in manufacturing to enhance productivity.",
+    "cat": "📰 每日新詞：technology and innovation"
+  },
+  {
+    "word": "wireless",
+    "pos": "adj.",
+    "root": "無線的, wire—less—",
+    "zh": "無線的",
+    "ex": "Wireless technology enables seamless communication without physical connections.",
+    "cat": "📰 每日新詞：technology and innovation"
   }
 ]
