@@ -1,45 +1,45 @@
 {
   "shadowSentences": [
-    "I love to read books every night.",
-    "My favorite season is autumn in the park.",
-    "Cooking new recipes helps me relax after work.",
-    "Traveling to different countries broadens my perspective.",
-    "Listening to music is essential for my daily routine.",
-    "Running in the morning boosts my energy for the day.",
-    "Volunteering in my community gives me a sense of purpose.",
-    "Gardening is a great way to connect with nature outdoors.",
-    "Spending time with my family is the highlight of my week.",
-    "Learning a new language opens doors to many opportunities."
+    "I love to read in my free time.",
+    "The weather is perfect for a picnic today.",
+    "I usually drink coffee in the morning.",
+    "My favorite movie is a classic romantic comedy.",
+    "I enjoy hiking in the mountains on weekends.",
+    "Cooking new recipes is one of my favorite hobbies.",
+    "Traveling to new countries is always an adventure.",
+    "Listening to music helps me focus while studying.",
+    "Learning a new language can be challenging but rewarding.",
+    "Exercising regularly improves both physical and mental health."
   ],
   "interviewScenarios": [
     {
-      "topic": "學習習慣",
-      "intro": "You have agreed to take part in a research study about study habits.",
+      "topic": "旅行體驗",
+      "intro": "You have agreed to take part in a research study about travel experiences.",
       "questions": [
-        "Q1: Can you describe your study habits when preparing for exams?",
-        "Q2: What challenges do you face while trying to stay focused while studying?",
-        "Q3: In your opinion, what makes an effective study environment?",
-        "Q4: What advice would you give to someone struggling with their study habits?"
+        "Q1: Can you describe your most memorable travel experience?",
+        "Q2: What challenges did you face during that trip?",
+        "Q3: How do you feel travel impacts people's lives?",
+        "Q4: What advice would you give to someone planning their first trip?"
       ]
     },
     {
-      "topic": "運動愛好",
-      "intro": "You have agreed to take part in a research study about hobbies related to sports.",
+      "topic": "烹飪技巧",
+      "intro": "You have agreed to take part in a research study about cooking skills.",
       "questions": [
-        "Q1: What sports do you enjoy playing in your free time?",
-        "Q2: Have you ever faced any obstacles when trying to stay active?",
-        "Q3: How important do you think sports are for maintaining good health?",
-        "Q4: What suggestions would you offer to someone looking to start a new sport?"
+        "Q1: What is your favorite dish to cook and why?",
+        "Q2: Have you ever struggled with a cooking technique?",
+        "Q3: In your opinion, how important is cooking at home?",
+        "Q4: What tips would you share for someone who wants to improve their cooking?"
       ]
     },
     {
-      "topic": "藝術欣賞",
-      "intro": "You have agreed to take part in a research study about appreciation of art.",
+      "topic": "志願服務",
+      "intro": "You have agreed to take part in a research study about volunteering.",
       "questions": [
-        "Q1: What type of art do you enjoy the most and why?",
-        "Q2: Have you ever had difficulty understanding a particular piece of art?",
-        "Q3: What role do you believe art plays in society today?",
-        "Q4: How would you recommend someone who feels disconnected from art to engage with it?"
+        "Q1: Can you share your experience with volunteering?",
+        "Q2: What difficulties did you encounter while volunteering?",
+        "Q3: Why do you think volunteering is important?",
+        "Q4: How would you encourage others to get involved in volunteer work?"
       ]
     }
   ]

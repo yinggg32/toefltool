@@ -6374,5 +6374,29 @@
     "zh": "無線的",
     "ex": "Wireless technology enables seamless communication without physical connections.",
     "cat": "📰 每日新詞：technology and innovation"
+  },
+  {
+    "word": "innovative",
+    "pos": "adj.",
+    "root": "innovate—創新",
+    "zh": "創新的",
+    "ex": "The innovative design of the smartphone has changed consumer behavior.",
+    "cat": "📰 每日新詞：technology and innovation"
+  },
+  {
+    "word": "efficiency",
+    "pos": "n.",
+    "root": "efficient—效率",
+    "zh": "效率",
+    "ex": "Increased efficiency in processes can lead to significant cost savings.",
+    "cat": "📰 每日新詞：technology and innovation"
+  },
+  {
+    "word": "scalability",
+    "pos": "n.",
+    "root": "scale—可擴展性",
+    "zh": "可擴展性",
+    "ex": "Scalability is a critical factor in cloud computing solutions.",
+    "cat": "📰 每日新詞：technology and innovation"
   }
 ]

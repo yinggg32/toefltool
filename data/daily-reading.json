@@ -2,101 +2,107 @@
   "cloze": {
     "segments": [
       {
-        "text": "The process of photosynthesis is vital for life on Earth. Plants convert sunlight into energy through a series of chemical reactions. This process occurs primarily in the chloropla"
+        "text": "The process of photosynthesis is crucial for "
       },
       {
-        "blank": "sts"
+        "blank": "fie"
       },
       {
-        "text": ", which contain the pigment chlorophyll. During photosynthesis, carbon dioxide and water are transformed into glucose and oxygen. This transformation is essential not only for the plants themselves but also for "
+        "text": "d plant life. During this process, plants convert light energy into chemical energy, primarily in the form of "
       },
       {
-        "blank": "aerobic"
+        "blank": "gluco"
       },
       {
-        "text": " organisms that depend on oxygen. The overall process can be simplified into a few key steps: light absorption, water splitting, and carbon fixation. Understanding photosynthesis is crucial for fields such as agriculture and ecology, as it impacts food production and carbon "
+        "text": ". This is achieved through chlorophyll, a green pigment that absorbs sunlight. Additionally, photosynthesis takes place in two main stages: the light-dependent reactions and the light-independent reactions, commonly known as the Calvin "
       },
       {
-        "blank": "cycling"
+        "blank": "cyc"
       },
       {
-        "text": ". Research continues to explore ways to enhance this process, especially in the context of climate change, where increased carbon dioxide levels may influence the efficiency of photosynthesis."
+        "text": ". In the light-dependent reactions, solar energy is used to generate ATP and NADPH, which are essential for the next phase. Ultimately, the end products of photosynthesis not only power plants but also serve as the foundational energy source for most "
+      },
+      {
+        "blank": "ecco"
+      },
+      {
+        "text": "systems on Earth."
       }
     ]
   },
   "academic": {
-    "passage": "Photosynthesis is a fundamental biological process where plants, algae, and some bacteria convert light energy into chemical energy. It occurs mainly in the chloroplasts, using chlorophyll to capture sunlight. The process produces glucose, which serves as food for the plant, and oxygen as a byproduct. Photosynthesis not only sustains plants but also supports life on Earth by providing oxygen and organic matter for other organisms.",
+    "passage": "Photosynthesis is a critical biological process that allows plants to convert light energy into chemical energy. This transformation occurs mainly in the leaves through chlorophyll, facilitating the production of glucose from carbon dioxide and water. Photosynthesis is essential not only for plant growth but also for life on Earth, as it produces oxygen as a byproduct, which is vital for the survival of aerobic organisms. This intricate process consists of several stages, including light-dependent reactions and the Calvin cycle, each playing a significant role in the overall efficiency of energy conversion in plants.",
     "questions": [
       {
         "q": "What is the main idea of the passage?",
         "options": [
-          "Photosynthesis is vital for life on Earth.",
-          "Plants do not utilize sunlight.",
-          "Oxygen is harmful to plants.",
-          "Chloroplasts are primarily found in animals."
+          "Photosynthesis is essential for plant life.",
+          "Chlorophyll is the only pigment involved in photosynthesis.",
+          "Photosynthesis occurs only in leaves.",
+          "Oxygen is not produced during photosynthesis."
         ],
         "correctIndex": 0,
-        "explain": "這段文字的主要思想是光合作用對地球生命的重要性。"
+        "explain": "文章的主要焦點是光合作用對植物生命的重要性。"
       },
       {
-        "q": "Where does photosynthesis primarily take place?",
+        "q": "What does chlorophyll do during photosynthesis?",
         "options": [
-          "In the mitochondria.",
-          "In the chloroplasts.",
-          "In the cell nucleus.",
-          "In the soil."
+          "It absorbs light energy.",
+          "It produces carbon dioxide.",
+          "It transforms glucose into energy.",
+          "It releases oxygen."
         ],
-        "correctIndex": 1,
-        "explain": "光合作用主要在葉綠體內進行。"
+        "correctIndex": 0,
+        "explain": "葉綠素在光合作用中主要吸收光能。"
       },
       {
-        "q": "What can be inferred about the role of photosynthesis in ecosystems?",
+        "q": "Which of the following can be inferred from the passage?",
         "options": [
-          "It is unnecessary for plant growth.",
-          "It contributes to the oxygen supply.",
-          "It harms aerobic organisms.",
-          "It only benefits algae."
+          "Photosynthesis is not necessary for survival.",
+          "All plants use the same method of photosynthesis.",
+          "Aerobic organisms depend on oxygen produced by plants.",
+          "Photosynthesis occurs at night."
         ],
-        "correctIndex": 1,
-        "explain": "可以推測光合作用對於生態系統的氧氣供應有貢獻。"
+        "correctIndex": 2,
+        "explain": "根據文章，需氧生物依賴植物產生的氧氣。"
       },
       {
-        "q": "What does the term 'chlorophyll' refer to in the context of the passage?",
+        "q": "What does the term 'Calvin cycle' refer to?",
         "options": [
-          "A type of oxygen.",
-          "A pigment essential for photosynthesis.",
-          "A nutrient for plants.",
-          "A byproduct of photosynthesis."
+          "A step in photosynthesis.",
+          "A type of plant.",
+          "A pigment involved in photosynthesis.",
+          "A process to generate ATP."
         ],
-        "correctIndex": 1,
-        "explain": "文中提到的'葉綠素'是光合作用中必需的色素。"
+        "correctIndex": 0,
+        "explain": "'卡爾文循環'指的是光合作用中的一個階段。"
       }
     ]
   },
   "daily": {
-    "passage": "Attention students: The library will be closed for renovations from May 1 to May 15. Please plan your studies accordingly and return any borrowed materials before the closure. Thank you for your understanding.",
+    "passage": "Attention students: The library will be closed this Friday for maintenance. Please plan your study time accordingly and ensure all borrowed materials are returned by Thursday. Thank you for your understanding.",
     "questions": [
       {
-        "q": "When will the library be closed?",
+        "q": "Why will the library be closed?",
         "options": [
-          "April 15 to April 30.",
-          "May 1 to May 15.",
-          "May 16 to May 31.",
-          "June 1 to June 15."
+          "For a holiday.",
+          "For maintenance.",
+          "For inventory.",
+          "For a special event."
         ],
         "correctIndex": 1,
-        "explain": "圖書館將於5月1日至5月15日關閉。"
+        "explain": "圖書館將於本星期五關閉是因為維護。"
       },
       {
-        "q": "What should students do before the library closes?",
+        "q": "When should all borrowed materials be returned?",
         "options": [
-          "Borrow more books.",
-          "Return any borrowed materials.",
-          "Start new renovations.",
-          "Attend a seminar."
+          "By Friday.",
+          "By Thursday.",
+          "By the weekend.",
+          "By the end of the month."
         ],
         "correctIndex": 1,
-        "explain": "學生應在圖書館關閉前歸還任何借用的資料。"
+        "explain": "所有借用的材料應於星期四之前歸還。"
       }
     ]
   }
