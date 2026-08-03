@@ -2,107 +2,115 @@
   "cloze": {
     "segments": [
       {
-        "text": "The process of photosynthesis is crucial for "
+        "text": "The process of photosynthesis is crucial for life on Earth. It occurs primarily in "
       },
       {
-        "blank": "fie"
+        "blank": "chlor",
+        "text": "oplasts, where sunlight is converted into chemical energy."
       },
       {
-        "text": "d plant life. During this process, plants convert light energy into chemical energy, primarily in the form of "
+        "text": " This energy is used by plants to synthesize "
       },
       {
-        "blank": "gluco"
+        "blank": "gluco",
+        "text": "se from carbon dioxide and water."
       },
       {
-        "text": ". This is achieved through chlorophyll, a green pigment that absorbs sunlight. Additionally, photosynthesis takes place in two main stages: the light-dependent reactions and the light-independent reactions, commonly known as the Calvin "
+        "text": " Additionally, photosynthesis releases oxygen as a "
       },
       {
-        "blank": "cyc"
+        "blank": "bypro",
+        "text": "duct, which is essential for the survival of most living organisms."
       },
       {
-        "text": ". In the light-dependent reactions, solar energy is used to generate ATP and NADPH, which are essential for the next phase. Ultimately, the end products of photosynthesis not only power plants but also serve as the foundational energy source for most "
+        "text": " The overall reaction can be summarized as: carbon dioxide plus water, "
       },
       {
-        "blank": "ecco"
+        "blank": "light",
+        "text": " energy yields glucose and oxygen."
       },
       {
-        "text": "systems on Earth."
+        "text": " Understanding photosynthesis is vital for advancements in agriculture and "
+      },
+      {
+        "blank": "bioen",
+        "text": "ergy sustainability."
       }
     ]
   },
   "academic": {
-    "passage": "Photosynthesis is a critical biological process that allows plants to convert light energy into chemical energy. This transformation occurs mainly in the leaves through chlorophyll, facilitating the production of glucose from carbon dioxide and water. Photosynthesis is essential not only for plant growth but also for life on Earth, as it produces oxygen as a byproduct, which is vital for the survival of aerobic organisms. This intricate process consists of several stages, including light-dependent reactions and the Calvin cycle, each playing a significant role in the overall efficiency of energy conversion in plants.",
+    "passage": "Photosynthesis is the process by which green plants, algae, and some bacteria convert light energy into chemical energy stored in glucose. This conversion takes place in chloroplasts and involves two main stages: the light-dependent reactions and the Calvin cycle. In the first stage, light energy is captured and used to produce ATP and NADPH. The second stage uses these energy carriers to convert carbon dioxide from the atmosphere into glucose. This not only fuels plant growth but also produces oxygen, which is essential for the respiration of most organisms on Earth. Understanding this process is fundamental for enhancing crop yields and developing biofuels.",
     "questions": [
       {
         "q": "What is the main idea of the passage?",
         "options": [
-          "Photosynthesis is essential for plant life.",
-          "Chlorophyll is the only pigment involved in photosynthesis.",
-          "Photosynthesis occurs only in leaves.",
-          "Oxygen is not produced during photosynthesis."
+          "Photosynthesis is essential for life on Earth.",
+          "Chloroplasts are responsible for plant growth.",
+          "ATP and NADPH are produced during photosynthesis.",
+          "Oxygen is released as a byproduct of photosynthesis."
         ],
         "correctIndex": 0,
-        "explain": "文章的主要焦點是光合作用對植物生命的重要性。"
+        "explain": "本文主要探討光合作用對地球生命的重要性。"
       },
       {
-        "q": "What does chlorophyll do during photosynthesis?",
+        "q": "What are the two main stages of photosynthesis mentioned?",
         "options": [
-          "It absorbs light energy.",
-          "It produces carbon dioxide.",
-          "It transforms glucose into energy.",
-          "It releases oxygen."
+          "The light-dependent reactions and Calvin cycle.",
+          "The absorption of sunlight and release of oxygen.",
+          "The production of glucose and ATP.",
+          "The conversion of carbon dioxide and water."
         ],
         "correctIndex": 0,
-        "explain": "葉綠素在光合作用中主要吸收光能。"
+        "explain": "文中提到光合作用的兩個主要階段是光反應和卡爾文循環。"
       },
       {
-        "q": "Which of the following can be inferred from the passage?",
+        "q": "What can be inferred about the importance of understanding photosynthesis?",
         "options": [
-          "Photosynthesis is not necessary for survival.",
-          "All plants use the same method of photosynthesis.",
-          "Aerobic organisms depend on oxygen produced by plants.",
-          "Photosynthesis occurs at night."
+          "It can help in creating new plant species.",
+          "It can aid in improving agricultural practices.",
+          "It is only relevant to scientists and researchers.",
+          "It has no impact on energy sustainability."
         ],
-        "correctIndex": 2,
-        "explain": "根據文章，需氧生物依賴植物產生的氧氣。"
+        "correctIndex": 1,
+        "explain": "理解光合作用對於改善農業實踐非常重要。"
       },
       {
-        "q": "What does the term 'Calvin cycle' refer to?",
+        "q": "What does the term 'chloroplast' refer to in the context of the passage?",
         "options": [
-          "A step in photosynthesis.",
-          "A type of plant.",
-          "A pigment involved in photosynthesis.",
-          "A process to generate ATP."
+          "A type of bacteria involved in photosynthesis.",
+          "The site where photosynthesis occurs in plant cells.",
+          "A chemical compound produced during photosynthesis.",
+          "A measure of light energy used in plants."
         ],
-        "correctIndex": 0,
-        "explain": "'卡爾文循環'指的是光合作用中的一個階段。"
+        "correctIndex": 1,
+        "explain": "文中提到的'葉綠體'是植物細胞中進行光合作用的地方。"
       }
     ]
   },
   "daily": {
-    "passage": "Attention students: The library will be closed this Friday for maintenance. Please plan your study time accordingly and ensure all borrowed materials are returned by Thursday. Thank you for your understanding.",
+    "passage": "Attention students! The campus library will host a workshop on effective research techniques this Wednesday at 3 PM. All students are welcome to attend. Please register online in advance.",
     "questions": [
       {
-        "q": "Why will the library be closed?",
+        "q": "When will the workshop on effective research techniques take place?",
         "options": [
-          "For a holiday.",
-          "For maintenance.",
-          "For inventory.",
-          "For a special event."
+          "This Friday at 3 PM.",
+          "This Wednesday at 3 PM.",
+          "Next Wednesday at 3 PM.",
+          "This Tuesday at 3 PM."
         ],
         "correctIndex": 1,
-        "explain": "圖書館將於本星期五關閉是因為維護。"
+        "explain": "工作坊將於本週三下午三點舉行。"
       },
       {
-        "q": "When should all borrowed materials be returned?",
+        "q": "What should students do before attending the workshop?",
         "options": [
-          "By Friday.",
-          "By Thursday.",
-          "By the weekend.",
-          "By the end of the month."
+          "Bring their textbooks.",
+          "Register online in advance.",
+          "Prepare a research paper.",
+          "Visit the library beforehand."
         ],
         "correctIndex": 1,
-        "explain": "所有借用的材料應於星期四之前歸還。"
+        "explain": "學生需提前在線註冊才能參加工作坊。"
       }
     ]
   }

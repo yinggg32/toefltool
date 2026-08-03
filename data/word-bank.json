@@ -6398,5 +6398,69 @@
     "zh": "可擴展性",
     "ex": "Scalability is a critical factor in cloud computing solutions.",
     "cat": "📰 每日新詞：technology and innovation"
+  },
+  {
+    "word": "standardize",
+    "pos": "v.",
+    "root": "標準—standard + 化—make",
+    "zh": "標準化",
+    "ex": "Efforts to standardize a language can help improve communication.",
+    "cat": "📰 每日新詞：linguistics"
+  },
+  {
+    "word": "glottal",
+    "pos": "adj.",
+    "root": "聲—voice + 布—fabric",
+    "zh": "聲門的",
+    "ex": "Glottal sounds are produced in the vocal tract.",
+    "cat": "📰 每日新詞：linguistics"
+  },
+  {
+    "word": "utterance",
+    "pos": "n.",
+    "root": "發—send out + 言—speech",
+    "zh": "發言",
+    "ex": "An utterance can vary in length and complexity.",
+    "cat": "📰 每日新詞：linguistics"
+  },
+  {
+    "word": "contextualize",
+    "pos": "v.",
+    "root": "文—text + 脈—context",
+    "zh": "情境化",
+    "ex": "To contextualize language is to relate it to its surrounding circumstances.",
+    "cat": "📰 每日新詞：linguistics"
+  },
+  {
+    "word": "linguist",
+    "pos": "n.",
+    "root": "語—language + 師—master",
+    "zh": "語言學家",
+    "ex": "A linguist studies the structure and use of language.",
+    "cat": "📰 每日新詞：linguistics"
+  },
+  {
+    "word": "script",
+    "pos": "n.",
+    "root": "寫—write + 本—book",
+    "zh": "文字",
+    "ex": "The script of a language can vary greatly across cultures.",
+    "cat": "📰 每日新詞：linguistics"
+  },
+  {
+    "word": "codify",
+    "pos": "v.",
+    "root": "編—compile + 纂—edit",
+    "zh": "編纂",
+    "ex": "To codify a language means to establish a formal system for it.",
+    "cat": "📰 每日新詞：linguistics"
+  },
+  {
+    "word": "phrasal",
+    "pos": "adj.",
+    "root": "短語—phrase + 的—of",
+    "zh": "短語的",
+    "ex": "Phrasal verbs are common in everyday English.",
+    "cat": "📰 每日新詞：linguistics"
   }
 ]

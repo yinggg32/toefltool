@@ -3,126 +3,127 @@
     {
       "words": [
         "the",
-        "research",
-        "findings",
-        "indicate",
-        "that",
-        "exercise",
-        "improves",
-        "mental",
-        "health"
-      ],
-      "display": "The research findings indicate that exercise improves mental health."
-    },
-    {
-      "words": [
         "students",
-        "should",
-        "always",
-        "seek",
-        "help",
-        "when",
-        "facing",
-        "academic",
-        "challenges"
+        "completed",
+        "their",
+        "assignments",
+        "before",
+        "the",
+        "deadline"
       ],
-      "display": "Students should always seek help when facing academic challenges."
+      "display": "The students completed their assignments before the deadline."
     },
     {
       "words": [
         "the",
-        "environment",
-        "is",
-        "greatly",
-        "affected",
-        "by",
-        "human",
-        "activities"
+        "new",
+        "policy",
+        "will",
+        "be",
+        "implemented",
+        "next",
+        "month"
       ],
-      "display": "The environment is greatly affected by human activities."
+      "display": "The new policy will be implemented next month."
+    },
+    {
+      "words": [
+        "the",
+        "researcher",
+        "presented",
+        "her",
+        "findings",
+        "at",
+        "the",
+        "conference"
+      ],
+      "display": "The researcher presented her findings at the conference."
     },
     {
       "words": [
         "many",
         "people",
-        "believe",
-        "that",
-        "traveling",
-        "broadens",
-        "one's",
-        "perspective"
+        "prefer",
+        "to",
+        "work",
+        "remotely",
+        "due",
+        "to",
+        "flexibility"
       ],
-      "display": "Many people believe that traveling broadens one's perspective."
+      "display": "Many people prefer to work remotely due to flexibility."
     },
     {
       "words": [
-        "online",
-        "learning",
-        "offers",
-        "flexibility",
-        "but",
-        "requires",
-        "self-discipline"
-      ],
-      "display": "Online learning offers flexibility but requires self-discipline."
-    },
-    {
-      "words": [
-        "improving",
-        "communication",
-        "skills",
-        "is",
-        "essential",
-        "for",
-        "success",
-        "in",
         "the",
-        "workplace"
+        "team",
+        "will",
+        "review",
+        "the",
+        "proposals",
+        "during",
+        "the",
+        "meeting"
       ],
-      "display": "Improving communication skills is essential for success in the workplace."
+      "display": "The team will review the proposals during the meeting."
     },
     {
       "words": [
-        "cultural",
-        "exchange",
-        "programs",
-        "help",
         "students",
-        "understand",
-        "diverse",
-        "cultures"
+        "should",
+        "attend",
+        "the",
+        "workshop",
+        "to",
+        "improve",
+        "their",
+        "skills"
       ],
-      "display": "Cultural exchange programs help students understand diverse cultures."
+      "display": "Students should attend the workshop to improve their skills."
     },
     {
       "words": [
         "the",
-        "importance",
-        "of",
-        "mental",
-        "health",
-        "awareness",
-        "cannot",
-        "be",
-        "overstated"
+        "library",
+        "offers",
+        "various",
+        "resources",
+        "for",
+        "students",
+        "to",
+        "use"
       ],
-      "display": "The importance of mental health awareness cannot be overstated."
+      "display": "The library offers various resources for students to use."
+    },
+    {
+      "words": [
+        "the",
+        "project",
+        "requires",
+        "collaboration",
+        "between",
+        "different",
+        "departments",
+        "to",
+        "succeed"
+      ],
+      "display": "The project requires collaboration between different departments to succeed."
     }
   ],
   "emailPrompts": [
-    "寄信給教授，請求延遲提交報告的期限，因為有其他事情需要處理。",
-    "寄信給宿舍辦公室，詢問有關房租支付的詳細信息。",
-    "寄信給圖書館，請求確認是否可以延長書籍的借閱期限。",
-    "寄信給學生社團，詢問如何加入以及近期的活動。",
-    "寄信給客戶服務，反映購買產品後的問題，請求解決方案。",
-    "寄信給導師，請求有關選課的建議，因為不確定下一學期的計劃。"
+    "寄信給教授，詢問有關期末報告的詳細要求。",
+    "寄信給宿舍辦公室，請求延長住宿期限。",
+    "寄信給圖書館，反映借書系統的問題。",
+    "寄信給學生社團，表達對即將舉行活動的興趣。",
+    "寄信給客服，詢問產品的退換貨政策。",
+    "寄信給校友，邀請參加校友會的聚會。"
   ],
   "discussionPrompts": [
-    "教授問：「在當前的社會中，技術的迅速發展對人際關係有何影響？」",
-    "教授問：「環保政策應該如何在經濟發展與生態保護之間取得平衡？」",
-    "教授問：「教育是否應該強調創造力而非僅僅是知識的積累？」",
-    "教授問：「社交媒體對青年人的心理健康有何利弊？」",
-    "教授問：「全球化是否會導致文化同質化的問題？」",
-    "教授問：「科學研究的倫理界限應該如何界定？」"
+    "教授問：「你如何看待在線學習的未來？」",
+    "教授問：「社交媒體對人際關係的影響是正面還是負面？」",
+    "教授問：「科技進步是否會造成失業問題？」",
+    "教授問：「環保政策應該優先考慮經濟還是生態？」",
+    "教授問：「全球化對文化多樣性的影響如何？」",
+    "教授問：「教育公平在現代社會中是否可能實現？」"
   ]
 }

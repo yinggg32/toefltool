@@ -1,45 +1,45 @@
 {
   "shadowSentences": [
-    "I love to read in my free time.",
-    "The weather is perfect for a picnic today.",
-    "I usually drink coffee in the morning.",
-    "My favorite movie is a classic romantic comedy.",
-    "I enjoy hiking in the mountains on weekends.",
-    "Cooking new recipes is one of my favorite hobbies.",
-    "Traveling to new countries is always an adventure.",
-    "Listening to music helps me focus while studying.",
-    "Learning a new language can be challenging but rewarding.",
-    "Exercising regularly improves both physical and mental health."
+    "I enjoy reading books in my free time.",
+    "She often goes for a walk in the park.",
+    "They like to try new foods at restaurants.",
+    "He usually wakes up early to exercise.",
+    "We sometimes watch movies together on weekends.",
+    "I love to travel to different countries every year.",
+    "She often volunteers at the local animal shelter.",
+    "They enjoy playing board games with friends on Fridays.",
+    "He frequently listens to podcasts while commuting to work.",
+    "We like to plan weekend getaways to explore new places."
   ],
   "interviewScenarios": [
     {
-      "topic": "旅行體驗",
-      "intro": "You have agreed to take part in a research study about travel experiences.",
+      "topic": "旅行計劃",
+      "intro": "You have agreed to take part in a research study about travel planning.",
       "questions": [
-        "Q1: Can you describe your most memorable travel experience?",
-        "Q2: What challenges did you face during that trip?",
-        "Q3: How do you feel travel impacts people's lives?",
-        "Q4: What advice would you give to someone planning their first trip?"
+        "Q1: Can you tell me about a recent trip you took?",
+        "Q2: What challenges did you face when planning that trip?",
+        "Q3: How do you feel about the importance of planning for travel?",
+        "Q4: What advice would you give someone planning their first trip?"
       ]
     },
     {
-      "topic": "烹飪技巧",
-      "intro": "You have agreed to take part in a research study about cooking skills.",
+      "topic": "健康飲食",
+      "intro": "You have agreed to take part in a research study about healthy eating habits.",
       "questions": [
-        "Q1: What is your favorite dish to cook and why?",
-        "Q2: Have you ever struggled with a cooking technique?",
-        "Q3: In your opinion, how important is cooking at home?",
-        "Q4: What tips would you share for someone who wants to improve their cooking?"
+        "Q1: What does a typical meal look like for you?",
+        "Q2: Have you encountered any difficulties in maintaining a healthy diet?",
+        "Q3: What is your opinion on the impact of healthy eating on overall well-being?",
+        "Q4: What tips would you offer someone trying to eat healthier?"
       ]
     },
     {
-      "topic": "志願服務",
-      "intro": "You have agreed to take part in a research study about volunteering.",
+      "topic": "興趣愛好",
+      "intro": "You have agreed to take part in a research study about hobbies.",
       "questions": [
-        "Q1: Can you share your experience with volunteering?",
-        "Q2: What difficulties did you encounter while volunteering?",
-        "Q3: Why do you think volunteering is important?",
-        "Q4: How would you encourage others to get involved in volunteer work?"
+        "Q1: What hobbies do you enjoy in your free time?",
+        "Q2: How do you find time for your hobbies amidst other responsibilities?",
+        "Q3: Why do you think having hobbies is important for people?",
+        "Q4: What advice would you give to someone looking for a new hobby?"
       ]
     }
   ]

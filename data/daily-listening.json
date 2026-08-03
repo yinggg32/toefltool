@@ -1,116 +1,116 @@
 {
   "chooseResponse": [
     {
-      "q": "What time does the event start?",
+      "q": "What did you think of the movie?",
       "options": [
-        "At 5 PM.",
-        "On Tuesday.",
-        "In the library.",
-        "It's free."
+        "It was fantastic!",
+        "I don't like it.",
+        "I haven't seen it yet.",
+        "It was just okay."
       ],
       "correctIndex": 0
     }
   ],
   "conversation": {
-    "transcript": "Student: Hi, do you know when the cultural festival is happening?\nAdvisor: Yes, it's scheduled for this weekend, starting Saturday. \nStudent: Oh great! What time does it start?\nAdvisor: It begins at 10 AM. You should come early to get a good spot!",
+    "transcript": "Student: Hey, did you go to the art exhibition last night?\nAdvisor: Yes, I did! It was really impressive. Did you manage to see it?\nStudent: No, I couldn't make it. What was the highlight?\nAdvisor: The contemporary sculptures were the best part, I think. They really challenged traditional forms.",
     "questions": [
       {
-        "q": "What day of the week is the festival?",
+        "q": "What did the advisor think was impressive?",
         "options": [
-          "Saturday",
-          "Friday",
-          "Sunday",
-          "Monday"
+          "The paintings",
+          "The sculptures",
+          "The live music",
+          "The food"
         ],
-        "correctIndex": 0,
-        "explain": "這個節日是星期六。"
+        "correctIndex": 1,
+        "explain": "顧問認為雕塑非常印象深刻。"
       },
       {
-        "q": "What is the recommendation for attending?",
+        "q": "Why didn't the student attend the exhibition?",
         "options": [
-          "Come early.",
-          "Bring snacks.",
-          "Invite friends.",
-          "Dress formally."
+          "They had a class",
+          "They were busy",
+          "They didn't know about it",
+          "They were sick"
         ],
-        "correctIndex": 0,
-        "explain": "建議提前到達。"
+        "correctIndex": 1,
+        "explain": "學生因為忙碌而無法參加展覽。"
       }
     ]
   },
   "announcement": {
-    "transcript": "Attention students, the annual cultural festival will be held this Saturday from 10 AM to 6 PM in the main courtyard. There will be various performances, food stalls, and activities for everyone. Don't miss out on this exciting event!",
+    "transcript": "Attention students: The library will be closed this Saturday for maintenance. We apologize for any inconvenience this may cause. Please plan your study sessions accordingly. Thank you for your understanding.",
     "questions": [
       {
-        "q": "Where will the festival take place?",
+        "q": "Why will the library be closed?",
         "options": [
-          "In the gym.",
-          "In the main courtyard.",
-          "In the student center.",
-          "On the roof."
+          "For a holiday",
+          "For maintenance",
+          "For a special event",
+          "For cleaning"
         ],
         "correctIndex": 1,
-        "explain": "節日將在主要庭院舉行。"
+        "explain": "圖書館因為維護而關閉。"
       },
       {
-        "q": "What time does the festival end?",
+        "q": "When will the library close?",
         "options": [
-          "4 PM",
-          "5 PM",
-          "6 PM",
-          "7 PM"
+          "Tonight",
+          "This Saturday",
+          "Next week",
+          "This Sunday"
         ],
-        "correctIndex": 2,
-        "explain": "範圍是到晚上六點。"
+        "correctIndex": 1,
+        "explain": "圖書館將在本周六關閉。"
       }
     ]
   },
   "talk": {
-    "transcript": "Today, I'm going to talk about the importance of cultural festivals. These events not only celebrate diversity but also foster community engagement. They provide a platform for artists to showcase their work and for attendees to experience different cultures through music, food, and art. Additionally, cultural festivals often involve educational workshops that offer insights into various traditions. By participating, individuals can gain a deeper appreciation for cultures different from their own, promoting understanding and respect among different communities.",
+    "transcript": "Today, I want to discuss the concept of biodiversity. Biodiversity refers to the variety of life found on Earth, including different species of plants, animals, fungi, and microorganisms. It is essential for maintaining ecosystem balance and resilience. High biodiversity allows ecosystems to thrive, recover from disturbances, and provide essential services such as pollination, water purification, and climate regulation. Unfortunately, human activities like deforestation, pollution, and climate change threaten biodiversity. Protecting it is crucial for our survival and the health of our planet.",
     "questions": [
       {
-        "q": "What is one main purpose of cultural festivals?",
+        "q": "What does biodiversity refer to?",
         "options": [
-          "To sell food.",
-          "To celebrate diversity.",
-          "To attract tourists.",
-          "To raise funds."
+          "Types of climate",
+          "Variety of life",
+          "Human activities",
+          "Ecosystem services"
         ],
         "correctIndex": 1,
-        "explain": "文化節的主要目的是慶祝多元文化。"
+        "explain": "生物多樣性指的是地球上生命的多樣性。"
       },
       {
-        "q": "What type of activities are included in cultural festivals?",
+        "q": "Why is biodiversity important?",
         "options": [
-          "Only music performances.",
-          "Food stalls only.",
-          "Music, food, and art.",
-          "Sports events."
-        ],
-        "correctIndex": 2,
-        "explain": "文化節包括音樂、美食和藝術活動。"
-      },
-      {
-        "q": "What benefit do educational workshops provide?",
-        "options": [
-          "They entertain attendees.",
-          "They offer cultural insights.",
-          "They raise money for charities.",
-          "They attract more visitors."
+          "For tourism",
+          "For ecosystem balance",
+          "For urban development",
+          "For technology"
         ],
         "correctIndex": 1,
-        "explain": "教育工作坊能提供文化的見解。"
+        "explain": "生物多樣性對於維持生態系統的平衡至關重要。"
       },
       {
-        "q": "How do cultural festivals promote community understanding?",
+        "q": "What threatens biodiversity?",
         "options": [
-          "By selling tickets.",
-          "By showcasing local talent.",
-          "By providing cultural experiences.",
-          "By inviting famous guests."
+          "Planting trees",
+          "Human activities",
+          "Wildlife conservation",
+          "Ecosystem restoration"
+        ],
+        "correctIndex": 1,
+        "explain": "人類活動如森林砍伐和污染威脅著生物多樣性。"
+      },
+      {
+        "q": "What service does biodiversity provide?",
+        "options": [
+          "Food production",
+          "Cultural heritage",
+          "Water purification",
+          "Tourism"
         ],
         "correctIndex": 2,
-        "explain": "文化節通過提供文化體驗來促進社區理解。"
+        "explain": "生物多樣性提供如水質淨化等基本服務。"
       }
     ]
   }
