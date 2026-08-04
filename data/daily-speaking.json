@@ -1,45 +1,45 @@
 {
   "shadowSentences": [
-    "I enjoy reading books in my free time.",
-    "She often goes for a walk in the park.",
-    "They like to try new foods at restaurants.",
-    "He usually wakes up early to exercise.",
-    "We sometimes watch movies together on weekends.",
-    "I love to travel to different countries every year.",
-    "She often volunteers at the local animal shelter.",
-    "They enjoy playing board games with friends on Fridays.",
-    "He frequently listens to podcasts while commuting to work.",
-    "We like to plan weekend getaways to explore new places."
+    "I love to read books.",
+    "My favorite season is autumn.",
+    "He enjoys playing soccer on weekends.",
+    "She travels to a new country every year.",
+    "We often have movie nights with friends.",
+    "I like to cook new recipes for dinner.",
+    "They are planning a road trip across the country.",
+    "He spends his free time volunteering at the shelter.",
+    "My family usually goes hiking during the holidays.",
+    "She studies hard to achieve her academic goals."
   ],
   "interviewScenarios": [
     {
-      "topic": "旅行計劃",
-      "intro": "You have agreed to take part in a research study about travel planning.",
+      "topic": "飲食習慣",
+      "intro": "You have agreed to take part in a research study about eating habits.",
       "questions": [
-        "Q1: Can you tell me about a recent trip you took?",
-        "Q2: What challenges did you face when planning that trip?",
-        "Q3: How do you feel about the importance of planning for travel?",
-        "Q4: What advice would you give someone planning their first trip?"
+        "Q1: Can you describe your typical eating habits?",
+        "Q2: What challenges do you face in maintaining healthy eating?",
+        "Q3: In your opinion, how important is nutrition in daily life?",
+        "Q4: What advice would you give someone trying to eat healthier?"
       ]
     },
     {
-      "topic": "健康飲食",
-      "intro": "You have agreed to take part in a research study about healthy eating habits.",
+      "topic": "旅行經歷",
+      "intro": "You have agreed to take part in a research study about travel experiences.",
       "questions": [
-        "Q1: What does a typical meal look like for you?",
-        "Q2: Have you encountered any difficulties in maintaining a healthy diet?",
-        "Q3: What is your opinion on the impact of healthy eating on overall well-being?",
-        "Q4: What tips would you offer someone trying to eat healthier?"
+        "Q1: What is your most memorable travel experience?",
+        "Q2: What difficulties have you encountered while traveling?",
+        "Q3: How do you feel travel impacts personal growth?",
+        "Q4: What tips would you share for first-time travelers?"
       ]
     },
     {
-      "topic": "興趣愛好",
-      "intro": "You have agreed to take part in a research study about hobbies.",
+      "topic": "運動習慣",
+      "intro": "You have agreed to take part in a research study about exercise habits.",
       "questions": [
-        "Q1: What hobbies do you enjoy in your free time?",
-        "Q2: How do you find time for your hobbies amidst other responsibilities?",
-        "Q3: Why do you think having hobbies is important for people?",
-        "Q4: What advice would you give to someone looking for a new hobby?"
+        "Q1: How often do you engage in physical exercise?",
+        "Q2: What obstacles do you face in staying active?",
+        "Q3: Why do you think exercise is essential for health?",
+        "Q4: What suggestions do you have for someone starting a workout routine?"
       ]
     }
   ]

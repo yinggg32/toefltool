@@ -1,116 +1,116 @@
 {
   "chooseResponse": [
     {
-      "q": "What did you think of the movie?",
+      "q": "What time is our meeting tomorrow?",
       "options": [
-        "It was fantastic!",
-        "I don't like it.",
-        "I haven't seen it yet.",
-        "It was just okay."
+        "At 10 AM.",
+        "I forgot the time.",
+        "Can we reschedule?",
+        "Let's meet next week."
       ],
       "correctIndex": 0
     }
   ],
   "conversation": {
-    "transcript": "Student: Hey, did you go to the art exhibition last night?\nAdvisor: Yes, I did! It was really impressive. Did you manage to see it?\nStudent: No, I couldn't make it. What was the highlight?\nAdvisor: The contemporary sculptures were the best part, I think. They really challenged traditional forms.",
+    "transcript": "Student: Hi, do you have a moment to discuss the group project?\nAdvisor: Sure! What do you need help with?\nStudent: I’m not sure how to divide the tasks among us.\nAdvisor: That’s a common issue. Have you considered everyone's strengths?",
     "questions": [
       {
-        "q": "What did the advisor think was impressive?",
+        "q": "What is the student asking the advisor?",
         "options": [
-          "The paintings",
-          "The sculptures",
-          "The live music",
-          "The food"
+          "About the project deadline.",
+          "For help with task division.",
+          "About meeting times.",
+          "For resources on research."
         ],
         "correctIndex": 1,
-        "explain": "顧問認為雕塑非常印象深刻。"
+        "explain": "學生在詢問顧問如何分配任務。"
       },
       {
-        "q": "Why didn't the student attend the exhibition?",
+        "q": "What is the advisor's suggestion?",
         "options": [
-          "They had a class",
-          "They were busy",
-          "They didn't know about it",
-          "They were sick"
+          "To focus more on research.",
+          "To consider individual strengths.",
+          "To meet more often.",
+          "To change the project topic."
         ],
         "correctIndex": 1,
-        "explain": "學生因為忙碌而無法參加展覽。"
+        "explain": "顧問建議考慮每個人的特長。"
       }
     ]
   },
   "announcement": {
-    "transcript": "Attention students: The library will be closed this Saturday for maintenance. We apologize for any inconvenience this may cause. Please plan your study sessions accordingly. Thank you for your understanding.",
+    "transcript": "Attention students! The library will be closed this Friday for maintenance. Please make sure to borrow any books you need by Thursday. We apologize for any inconvenience and appreciate your understanding.",
     "questions": [
       {
         "q": "Why will the library be closed?",
         "options": [
-          "For a holiday",
-          "For maintenance",
-          "For a special event",
-          "For cleaning"
+          "For inventory checks.",
+          "For a special event.",
+          "For maintenance work.",
+          "For a holiday."
         ],
-        "correctIndex": 1,
-        "explain": "圖書館因為維護而關閉。"
+        "correctIndex": 2,
+        "explain": "圖書館將因為維修工作而關閉。"
       },
       {
-        "q": "When will the library close?",
+        "q": "When should students borrow books?",
         "options": [
-          "Tonight",
-          "This Saturday",
-          "Next week",
-          "This Sunday"
+          "By Friday.",
+          "By Thursday.",
+          "By next week.",
+          "By the end of the month."
         ],
         "correctIndex": 1,
-        "explain": "圖書館將在本周六關閉。"
+        "explain": "學生應在星期四之前借書。"
       }
     ]
   },
   "talk": {
-    "transcript": "Today, I want to discuss the concept of biodiversity. Biodiversity refers to the variety of life found on Earth, including different species of plants, animals, fungi, and microorganisms. It is essential for maintaining ecosystem balance and resilience. High biodiversity allows ecosystems to thrive, recover from disturbances, and provide essential services such as pollination, water purification, and climate regulation. Unfortunately, human activities like deforestation, pollution, and climate change threaten biodiversity. Protecting it is crucial for our survival and the health of our planet.",
+    "transcript": "Today, we will discuss the concept of biodiversity. Biodiversity refers to the variety of life in a given ecosystem, including the diversity of species, genetic variations, and ecological processes. High biodiversity is crucial for ecosystem resilience, allowing environments to adapt to changes and disturbances. It's also essential for human survival as it provides resources for food, medicine, and ecosystem services. Protecting biodiversity ensures that these systems remain healthy and functional, supporting life on Earth.",
     "questions": [
       {
         "q": "What does biodiversity refer to?",
         "options": [
-          "Types of climate",
-          "Variety of life",
-          "Human activities",
-          "Ecosystem services"
+          "The number of ecosystems.",
+          "The variety of life forms.",
+          "The size of populations.",
+          "The climate of an area."
         ],
         "correctIndex": 1,
-        "explain": "生物多樣性指的是地球上生命的多樣性。"
+        "explain": "生物多樣性是指生命形式的多樣性。"
       },
       {
-        "q": "Why is biodiversity important?",
+        "q": "Why is high biodiversity important?",
         "options": [
-          "For tourism",
-          "For ecosystem balance",
-          "For urban development",
-          "For technology"
-        ],
-        "correctIndex": 1,
-        "explain": "生物多樣性對於維持生態系統的平衡至關重要。"
-      },
-      {
-        "q": "What threatens biodiversity?",
-        "options": [
-          "Planting trees",
-          "Human activities",
-          "Wildlife conservation",
-          "Ecosystem restoration"
-        ],
-        "correctIndex": 1,
-        "explain": "人類活動如森林砍伐和污染威脅著生物多樣性。"
-      },
-      {
-        "q": "What service does biodiversity provide?",
-        "options": [
-          "Food production",
-          "Cultural heritage",
-          "Water purification",
-          "Tourism"
+          "It makes ecosystems more complex.",
+          "It enhances food production.",
+          "It allows adaptation to changes.",
+          "It promotes climate change."
         ],
         "correctIndex": 2,
-        "explain": "生物多樣性提供如水質淨化等基本服務。"
+        "explain": "高生物多樣性可以讓生態系統適應變化。"
+      },
+      {
+        "q": "What are some benefits of biodiversity for humans?",
+        "options": [
+          "It improves technology.",
+          "It provides psychological comfort.",
+          "It gives resources for food and medicine.",
+          "It decreases competition."
+        ],
+        "correctIndex": 2,
+        "explain": "生物多樣性為人類提供食物和藥物資源。"
+      },
+      {
+        "q": "What should we do to protect biodiversity?",
+        "options": [
+          "Increase pollution.",
+          "Reduce natural habitats.",
+          "Implement conservation efforts.",
+          "Ignore environmental changes."
+        ],
+        "correctIndex": 2,
+        "explain": "我們應該實施保護措施來保護生物多樣性。"
       }
     ]
   }

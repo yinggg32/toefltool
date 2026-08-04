@@ -6462,5 +6462,85 @@
     "zh": "短語的",
     "ex": "Phrasal verbs are common in everyday English.",
     "cat": "📰 每日新詞：linguistics"
+  },
+  {
+    "word": "renaissance",
+    "pos": "n.",
+    "root": "文艺复兴—renaiss-",
+    "zh": "文艺复兴",
+    "ex": "The Renaissance marked a significant shift in art and architectural styles.",
+    "cat": "📰 每日新詞：art and architecture"
+  },
+  {
+    "word": "patronage",
+    "pos": "n.",
+    "root": "赞助—patron-",
+    "zh": "赞助；资助",
+    "ex": "Artistic patronage was essential during the Renaissance period.",
+    "cat": "📰 每日新詞：art and architecture"
+  },
+  {
+    "word": "abstract",
+    "pos": "adj./n./v.",
+    "root": "抽象—abstract-",
+    "zh": "抽象的",
+    "ex": "Abstract art often prioritizes color and form over representational accuracy.",
+    "cat": "📰 每日新詞：art and architecture"
+  },
+  {
+    "word": "structure",
+    "pos": "n./v.",
+    "root": "结构—struct-",
+    "zh": "结构；构造",
+    "ex": "The structure of the building was designed to withstand earthquakes.",
+    "cat": "📰 每日新詞：art and architecture"
+  },
+  {
+    "word": "landmark",
+    "pos": "n.",
+    "root": "地标—landmark-",
+    "zh": "地标",
+    "ex": "The statue has become a landmark representing the city's history.",
+    "cat": "📰 每日新詞：art and architecture"
+  },
+  {
+    "word": "craftsmanship",
+    "pos": "n.",
+    "root": "工艺—craft-",
+    "zh": "工艺；手艺",
+    "ex": "The craftsmanship of the furniture reflects the artisan's attention to detail.",
+    "cat": "📰 每日新詞：art and architecture"
+  },
+  {
+    "word": "interior",
+    "pos": "adj./n.",
+    "root": "内部—interi-",
+    "zh": "内部的；室内",
+    "ex": "The interior design of the house emphasizes comfort and functionality.",
+    "cat": "📰 每日新詞：art and architecture"
+  },
+  {
+    "word": "motif",
+    "pos": "n.",
+    "root": "主题—motif-",
+    "zh": "主题；图案",
+    "ex": "The floral motif is a recurring element in the artist's work.",
+    "cat": "📰 每日新詞：art and architecture"
+  },
+  {
+    "word": "scale",
+    "pos": "n./v.",
+    "root": "规模—scal-",
+    "zh": "规模；比例",
+    "ex": "The scale of the monument is impressive and draws visitors from afar.",
+    "cat": "📰 每日新詞：art and architecture"
+  },
+  {
+    "word": "embellishment",
+    "pos": "n.",
+    "root": "修饰—embellish-",
+    "zh": "修饰；装饰",
+    "ex": "The embellishment of the building's facade enhances its visual appeal.",
+    "cat": "📰 每日新詞：art and architecture"
   }
 ]
