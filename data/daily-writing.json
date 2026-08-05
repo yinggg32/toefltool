@@ -2,128 +2,131 @@
   "buildSentences": [
     {
       "words": [
-        "students",
-        "benefit",
-        "from",
-        "participating",
-        "in",
-        "group",
-        "discussions",
-        "regularly"
+        "the",
+        "research",
+        "study",
+        "on",
+        "climate",
+        "change",
+        "was",
+        "published"
       ],
-      "display": "Students benefit from participating in group discussions regularly."
+      "display": "The research study on climate change was published."
+    },
+    {
+      "words": [
+        "students",
+        "participated",
+        "in",
+        "the",
+        "debate",
+        "competition",
+        "last",
+        "week"
+      ],
+      "display": "Students participated in the debate competition last week."
     },
     {
       "words": [
         "the",
-        "research",
-        "study",
-        "indicates",
-        "that",
-        "sleep",
-        "affects",
-        "memory"
+        "new",
+        "library",
+        "opened",
+        "with",
+        "more",
+        "resources",
+        "for",
+        "students"
       ],
-      "display": "The research study indicates that sleep affects memory."
-    },
-    {
-      "words": [
-        "climate",
-        "change",
-        "is",
-        "a",
-        "global",
-        "issue",
-        "affecting",
-        "everyone"
-      ],
-      "display": "Climate change is a global issue affecting everyone."
-    },
-    {
-      "words": [
-        "reading",
-        "literature",
-        "can",
-        "improve",
-        "language",
-        "skills",
-        "and",
-        "critical",
-        "thinking"
-      ],
-      "display": "Reading literature can improve language skills and critical thinking."
+      "display": "The new library opened with more resources for students."
     },
     {
       "words": [
         "the",
         "conference",
         "will",
-        "host",
-        "several",
-        "renowned",
-        "speakers",
-        "next",
+        "be",
+        "held",
+        "in",
+        "the",
+        "main",
+        "auditorium"
+      ],
+      "display": "The conference will be held in the main auditorium."
+    },
+    {
+      "words": [
+        "all",
+        "applications",
+        "must",
+        "be",
+        "submitted",
+        "by",
+        "the",
+        "end",
+        "of",
+        "the",
         "month"
       ],
-      "display": "The conference will host several renowned speakers next month."
+      "display": "All applications must be submitted by the end of the month."
     },
     {
       "words": [
-        "effective",
-        "time",
-        "management",
-        "is",
-        "essential",
-        "for",
-        "academic",
-        "success"
-      ],
-      "display": "Effective time management is essential for academic success."
-    },
-    {
-      "words": [
+        "the",
+        "professor",
+        "encouraged",
         "students",
-        "should",
+        "to",
         "explore",
         "diverse",
-        "perspectives",
-        "to",
-        "broaden",
-        "their",
-        "horizons"
+        "perspectives"
       ],
-      "display": "Students should explore diverse perspectives to broaden their horizons."
+      "display": "The professor encouraged students to explore diverse perspectives."
     },
     {
       "words": [
-        "modern",
-        "technology",
-        "has",
-        "changed",
-        "the",
-        "way",
-        "we",
-        "communicate",
-        "and",
-        "learn"
+        "our",
+        "club",
+        "will",
+        "host",
+        "a",
+        "charity",
+        "event",
+        "next",
+        "saturday"
       ],
-      "display": "Modern technology has changed the way we communicate and learn."
+      "display": "Our club will host a charity event next Saturday."
+    },
+    {
+      "words": [
+        "the",
+        "course",
+        "syllabus",
+        "was",
+        "distributed",
+        "to",
+        "all",
+        "students",
+        "on",
+        "monday"
+      ],
+      "display": "The course syllabus was distributed to all students on Monday."
     }
   ],
   "emailPrompts": [
-    "寄信給教授，說明因病無法參加期中考，詢問補考事宜。",
-    "寄信給宿舍辦公室，請求更換房間的事宜。",
-    "寄信給圖書館，詢問書籍的借閱規則。",
-    "寄信給俱樂部負責人，表達想參加活動的興趣。",
-    "寄信給客服，詢問產品的退換貨政策。",
-    "寄信給導師，請求指導學術論文的寫作。"
+    "寄信給教授，請教關於期末報告的主題選擇。",
+    "寄信給宿舍管理辦公室，詢問關於維修問題的進度。",
+    "寄信給圖書館，反映有關借書系統的問題。",
+    "寄信給社團主席，建議增加一個新的活動。",
+    "寄信給客服中心，詢問有關退貨的政策。",
+    "寄信給學校行政辦公室，請求更改班級時間。"
   ],
   "discussionPrompts": [
-    "教授問：「在科技進步的時代，閱讀紙本書籍還有必要嗎？」",
-    "教授問：「是否應該在學校設立心理健康教育課程？」",
-    "教授問：「全球化對文化的影響是正面還是負面？」",
-    "教授問：「社交媒體對青少年的社交能力有何影響？」",
-    "教授問：「環保與經濟發展之間的平衡應如何維持？」",
-    "教授問：「藝術教育在學校教育中應佔據什麼樣的地位？」"
+    "教授問：「你認為科技對教育的影響是正面還是負面？」",
+    "教授問：「如何看待社交媒體在現代社會中的作用？」",
+    "教授問：「氣候變遷問題應該如何在課程中被強調？」",
+    "教授問：「文化多樣性對社會發展的重要性是什麼？」",
+    "教授問：「在現今世界中，藝術和科學的關係該如何定義？」",
+    "教授問：「面對全球化，民族認同的本質應該如何理解？」"
   ]
 }

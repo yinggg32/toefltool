@@ -1,35 +1,35 @@
 {
   "shadowSentences": [
-    "I love to read books.",
+    "I enjoy reading every evening.",
     "My favorite season is autumn.",
-    "He enjoys playing soccer on weekends.",
-    "She travels to a new country every year.",
-    "We often have movie nights with friends.",
-    "I like to cook new recipes for dinner.",
-    "They are planning a road trip across the country.",
-    "He spends his free time volunteering at the shelter.",
-    "My family usually goes hiking during the holidays.",
-    "She studies hard to achieve her academic goals."
+    "She plays the piano beautifully.",
+    "We went hiking last weekend.",
+    "He loves to cook new recipes.",
+    "They are planning a summer trip.",
+    "I often watch documentaries at night.",
+    "We should try that new restaurant soon.",
+    "Learning a new language can be challenging yet rewarding.",
+    "Traveling helps broaden your perspective on life."
   ],
   "interviewScenarios": [
     {
-      "topic": "飲食習慣",
-      "intro": "You have agreed to take part in a research study about eating habits.",
+      "topic": "旅行體驗",
+      "intro": "You have agreed to take part in a research study about travel experiences.",
       "questions": [
-        "Q1: Can you describe your typical eating habits?",
-        "Q2: What challenges do you face in maintaining healthy eating?",
-        "Q3: In your opinion, how important is nutrition in daily life?",
-        "Q4: What advice would you give someone trying to eat healthier?"
+        "Q1: Can you share a memorable travel experience you had?",
+        "Q2: What were some challenges you faced during that trip?",
+        "Q3: How do you think travel impacts personal growth?",
+        "Q4: What advice would you give to someone planning their first trip?"
       ]
     },
     {
-      "topic": "旅行經歷",
-      "intro": "You have agreed to take part in a research study about travel experiences.",
+      "topic": "學習方法",
+      "intro": "You have agreed to take part in a research study about study methods.",
       "questions": [
-        "Q1: What is your most memorable travel experience?",
-        "Q2: What difficulties have you encountered while traveling?",
-        "Q3: How do you feel travel impacts personal growth?",
-        "Q4: What tips would you share for first-time travelers?"
+        "Q1: What study methods have you found most effective?",
+        "Q2: Have you faced any difficulties with your study techniques?",
+        "Q3: In your opinion, what makes a study method successful?",
+        "Q4: What tips would you recommend to improve study habits?"
       ]
     },
     {
@@ -37,9 +37,9 @@
       "intro": "You have agreed to take part in a research study about exercise habits.",
       "questions": [
         "Q1: How often do you engage in physical exercise?",
-        "Q2: What obstacles do you face in staying active?",
-        "Q3: Why do you think exercise is essential for health?",
-        "Q4: What suggestions do you have for someone starting a workout routine?"
+        "Q2: What challenges do you encounter when trying to stay active?",
+        "Q3: Why do you believe regular exercise is important?",
+        "Q4: What advice would you give someone starting a new exercise routine?"
       ]
     }
   ]

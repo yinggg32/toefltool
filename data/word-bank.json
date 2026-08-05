@@ -6542,5 +6542,93 @@
     "zh": "修饰；装饰",
     "ex": "The embellishment of the building's facade enhances its visual appeal.",
     "cat": "📰 每日新詞：art and architecture"
+  },
+  {
+    "word": "thermoregulation",
+    "pos": "n.",
+    "root": "thermo-熱+regul-調節+ation-過程",
+    "zh": "體溫調節",
+    "ex": "Thermoregulation is crucial for maintaining optimal conditions for metabolic processes.",
+    "cat": "📰 每日新詞：biology"
+  },
+  {
+    "word": "metabolism",
+    "pos": "n.",
+    "root": "meta-變化+bol-投擲+ism-狀態",
+    "zh": "新陳代謝",
+    "ex": "Metabolism encompasses all biochemical reactions that occur within an organism.",
+    "cat": "📰 每日新詞：biology"
+  },
+  {
+    "word": "decomposer",
+    "pos": "n.",
+    "root": "de-去除+compos-組成+er-執行者",
+    "zh": "分解者",
+    "ex": "Decomposers break down organic matter, recycling nutrients in the ecosystem.",
+    "cat": "📰 每日新詞：biology"
+  },
+  {
+    "word": "fermentation",
+    "pos": "n.",
+    "root": "ferment-發酵+ation-過程",
+    "zh": "發酵",
+    "ex": "Fermentation is a metabolic process that converts sugar to acids, gases, or alcohol.",
+    "cat": "📰 每日新詞：biology"
+  },
+  {
+    "word": "vascular",
+    "pos": "adj.",
+    "root": "vascul-血管+ar-形容詞後綴",
+    "zh": "血管的",
+    "ex": "Vascular plants have specialized tissues for transporting water and nutrients.",
+    "cat": "📰 每日新詞：biology"
+  },
+  {
+    "word": "bacteria",
+    "pos": "n.",
+    "root": "bacter-細菌+ia-名詞後綴",
+    "zh": "細菌",
+    "ex": "Bacteria play crucial roles in nutrient cycling and decomposition.",
+    "cat": "📰 每日新詞：biology"
+  },
+  {
+    "word": "fertilization",
+    "pos": "n.",
+    "root": "fertil-使肥沃+ization-過程",
+    "zh": "受精",
+    "ex": "Fertilization is the process of combining male and female gametes to form a zygote.",
+    "cat": "📰 每日新詞：biology"
+  },
+  {
+    "word": "organelle",
+    "pos": "n.",
+    "root": "organ-器官+elle-小",
+    "zh": "細胞器",
+    "ex": "Organelles perform specific functions within a cell, contributing to its overall operation.",
+    "cat": "📰 每日新詞：biology"
+  },
+  {
+    "word": "cloning",
+    "pos": "n./v.",
+    "root": "clone-克隆+ing-行為",
+    "zh": "克隆",
+    "ex": "Cloning allows for the production of genetically identical organisms.",
+    "cat": "📰 每日新詞：biology"
+  },
+  {
+    "word": "immunity",
+    "pos": "n.",
+    "root": "immun-免疫+ity-狀態",
+    "zh": "免疫力",
+    "ex": "Immunity can be acquired through vaccination or exposure to pathogens.",
+    "cat": "📰 每日新詞：biology"
+  },
+  {
+    "word": "predator",
+    "pos": "n.",
+    "root": "predat-捕食+or-實行者",
+    "zh": "捕食者",
+    "ex": "Predators play an important role in maintaining the balance of ecosystems.",
+    "cat": "📰 每日新詞：biology"
   }
 ]

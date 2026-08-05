@@ -1,116 +1,116 @@
 {
   "chooseResponse": [
     {
-      "q": "What time is our meeting tomorrow?",
+      "q": "What time is the meeting tomorrow?",
       "options": [
-        "At 10 AM.",
-        "I forgot the time.",
-        "Can we reschedule?",
-        "Let's meet next week."
+        "At 10 AM",
+        "In the morning",
+        "Next week",
+        "After lunch"
       ],
       "correctIndex": 0
     }
   ],
   "conversation": {
-    "transcript": "Student: Hi, do you have a moment to discuss the group project?\nAdvisor: Sure! What do you need help with?\nStudent: I’m not sure how to divide the tasks among us.\nAdvisor: That’s a common issue. Have you considered everyone's strengths?",
+    "transcript": "Student: Hi, do you know where the art gallery is?\nAdvisor: Yes, it's on the main campus near the library.\nStudent: Great! Is it open today?\nAdvisor: Yes, it is open from 11 AM to 5 PM.",
     "questions": [
       {
-        "q": "What is the student asking the advisor?",
+        "q": "Where is the art gallery located?",
         "options": [
-          "About the project deadline.",
-          "For help with task division.",
-          "About meeting times.",
-          "For resources on research."
+          "Near the library",
+          "In the science building",
+          "At the student center",
+          "On the second floor"
         ],
-        "correctIndex": 1,
-        "explain": "學生在詢問顧問如何分配任務。"
+        "correctIndex": 0,
+        "explain": "藝術畫廊位於圖書館附近。"
       },
       {
-        "q": "What is the advisor's suggestion?",
+        "q": "What are the gallery's opening hours?",
         "options": [
-          "To focus more on research.",
-          "To consider individual strengths.",
-          "To meet more often.",
-          "To change the project topic."
+          "9 AM to 3 PM",
+          "10 AM to 4 PM",
+          "11 AM to 5 PM",
+          "All day"
         ],
-        "correctIndex": 1,
-        "explain": "顧問建議考慮每個人的特長。"
+        "correctIndex": 2,
+        "explain": "畫廊今天的開放時間是從上午11點到下午5點。"
       }
     ]
   },
   "announcement": {
-    "transcript": "Attention students! The library will be closed this Friday for maintenance. Please make sure to borrow any books you need by Thursday. We apologize for any inconvenience and appreciate your understanding.",
+    "transcript": "Attention students! The campus bookstore will hold a sale this Friday, offering 20% off all textbooks. Don't miss this opportunity to save on your course materials!",
     "questions": [
       {
-        "q": "Why will the library be closed?",
+        "q": "When will the sale take place?",
         "options": [
-          "For inventory checks.",
-          "For a special event.",
-          "For maintenance work.",
-          "For a holiday."
+          "This Wednesday",
+          "Next Monday",
+          "This Friday",
+          "Tomorrow"
         ],
         "correctIndex": 2,
-        "explain": "圖書館將因為維修工作而關閉。"
+        "explain": "這次特賣會將在本週五舉行。"
       },
       {
-        "q": "When should students borrow books?",
+        "q": "What is the discount on textbooks?",
         "options": [
-          "By Friday.",
-          "By Thursday.",
-          "By next week.",
-          "By the end of the month."
+          "10%",
+          "15%",
+          "20%",
+          "25%"
         ],
-        "correctIndex": 1,
-        "explain": "學生應在星期四之前借書。"
+        "correctIndex": 2,
+        "explain": "教科書的折扣是20%。"
       }
     ]
   },
   "talk": {
-    "transcript": "Today, we will discuss the concept of biodiversity. Biodiversity refers to the variety of life in a given ecosystem, including the diversity of species, genetic variations, and ecological processes. High biodiversity is crucial for ecosystem resilience, allowing environments to adapt to changes and disturbances. It's also essential for human survival as it provides resources for food, medicine, and ecosystem services. Protecting biodiversity ensures that these systems remain healthy and functional, supporting life on Earth.",
+    "transcript": "Today, we will explore the concept of ecosystem services. Ecosystem services are the benefits that humans receive from natural environments. These services include pollination of crops by bees, clean water from wetlands, and the beauty of scenic landscapes. Understanding these services allows us to appreciate nature's role in our lives and the importance of conserving our ecosystems. By protecting these natural services, we ensure a healthier environment for future generations.",
     "questions": [
       {
-        "q": "What does biodiversity refer to?",
+        "q": "What are ecosystem services?",
         "options": [
-          "The number of ecosystems.",
-          "The variety of life forms.",
-          "The size of populations.",
-          "The climate of an area."
+          "Natural disasters",
+          "Benefits from environments",
+          "Plant growth",
+          "Animal habitats"
         ],
         "correctIndex": 1,
-        "explain": "生物多樣性是指生命形式的多樣性。"
+        "explain": "生態系統服務是人類從自然環境中獲得的好處。"
       },
       {
-        "q": "Why is high biodiversity important?",
+        "q": "Which is an example of ecosystem service?",
         "options": [
-          "It makes ecosystems more complex.",
-          "It enhances food production.",
-          "It allows adaptation to changes.",
-          "It promotes climate change."
+          "Soil erosion",
+          "Pollination by bees",
+          "Waste disposal",
+          "Urban development"
         ],
-        "correctIndex": 2,
-        "explain": "高生物多樣性可以讓生態系統適應變化。"
+        "correctIndex": 1,
+        "explain": "蜜蜂的授粉是生態系統服務的一個例子。"
       },
       {
-        "q": "What are some benefits of biodiversity for humans?",
+        "q": "Why is it important to understand ecosystem services?",
         "options": [
-          "It improves technology.",
-          "It provides psychological comfort.",
-          "It gives resources for food and medicine.",
-          "It decreases competition."
+          "To improve technology",
+          "To appreciate nature",
+          "To build more roads",
+          "To increase traffic"
         ],
-        "correctIndex": 2,
-        "explain": "生物多樣性為人類提供食物和藥物資源。"
+        "correctIndex": 1,
+        "explain": "理解生態系統服務可以讓我們欣賞自然的角色。"
       },
       {
-        "q": "What should we do to protect biodiversity?",
+        "q": "What does the speaker suggest we do for future generations?",
         "options": [
-          "Increase pollution.",
-          "Reduce natural habitats.",
-          "Implement conservation efforts.",
-          "Ignore environmental changes."
+          "Ignore nature",
+          "Protect natural services",
+          "Increase pollution",
+          "Develop more cities"
         ],
-        "correctIndex": 2,
-        "explain": "我們應該實施保護措施來保護生物多樣性。"
+        "correctIndex": 1,
+        "explain": "演講者建議保護自然服務以確保未來幾代人的健康環境。"
       }
     ]
   }

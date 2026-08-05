@@ -2,113 +2,107 @@
   "cloze": {
     "segments": [
       {
-        "text": "The process of photosynthesis is essential for "
+        "text": "Photosynthesis is the process by which green plants "
       },
       {
-        "blank": "planta"
+        "blank": "conve"
       },
       {
-        "text": " life on Earth. Plants convert sunlight into "
+        "text": " sunlight into chemical energy. This process mainly occurs in the "
       },
       {
-        "blank": "ene"
+        "blank": "chloro"
       },
       {
-        "text": "rgy through chlorophyll, a pigment that absorbs light. During this "
+        "text": " of plant cells, specifically in the leaves. During photosynthesis, carbon dioxide and "
       },
       {
-        "blank": "chem"
+        "blank": "water"
       },
       {
-        "text": "ical reaction, carbon dioxide from the atmosphere and water from the soil are transformed into glucose and oxygen. This "
+        "text": " are utilized to produce glucose and oxygen. The overall reaction can be summarized as:"
       },
       {
-        "blank": "pro"
+        "blank": "C6H12O6"
       },
       {
-        "text": "duction of oxygen is crucial for the survival of most living organisms. Additionally, photosynthesis plays a key role in "
-      },
-      {
-        "blank": "ecolo"
-      },
-      {
-        "text": "gical balance, maintaining the levels of carbon dioxide and oxygen in the atmosphere."
+        "text": " + 6O2. This not only provides energy for the plants but also supports life on Earth."
       }
     ]
   },
   "academic": {
-    "passage": "Photosynthesis is a vital process carried out by plants, algae, and some bacteria. It converts light energy into chemical energy stored in glucose, which serves as food. The process involves two main stages: the light-dependent reactions, which capture energy from sunlight, and the Calvin cycle, which uses this energy to synthesize glucose. Photosynthesis not only provides energy for plant growth but also releases oxygen, a byproduct essential for the respiration of most living organisms. Understanding photosynthesis is crucial for addressing issues such as food security and climate change.",
+    "passage": "Photosynthesis is a vital process for life on Earth, where green plants convert sunlight into chemical energy. This occurs primarily in chloroplasts within the leaves. In this process, carbon dioxide and water are transformed into glucose and oxygen. The significance of photosynthesis extends beyond energy production; it is crucial for the oxygen we breathe and forms the basis of the food chain. Understanding photosynthesis helps in addressing environmental issues and enhancing agricultural productivity.",
     "questions": [
       {
         "q": "What is the main idea of the passage?",
         "options": [
-          "Photosynthesis is critical for food production.",
-          "Photosynthesis involves two stages.",
-          "Understanding photosynthesis is important for climate change.",
-          "Photosynthesis occurs in plants and some bacteria."
+          "Photosynthesis is essential for life",
+          "Chloroplasts contain water",
+          "Glucose is harmful to plants",
+          "Oxygen is produced during photosynthesis"
         ],
         "correctIndex": 0,
-        "explain": "這段文字的主要思想是光合作用對於食物生產的關鍵性。"
+        "explain": "這段文字的主旨是光合作用對於生命的重要性。"
       },
       {
-        "q": "What are the two main stages of photosynthesis mentioned?",
+        "q": "Where does photosynthesis primarily occur?",
         "options": [
-          "Light-dependent reactions and Calvin cycle.",
-          "Carbon fixation and oxygen release.",
-          "Chlorophyll absorption and glucose formation.",
-          "Energy capture and nutrient uptake."
+          "In the roots",
+          "In the flowers",
+          "In the leaves",
+          "In the soil"
+        ],
+        "correctIndex": 2,
+        "explain": "光合作用主要發生在植物的葉子中。"
+      },
+      {
+        "q": "What can be inferred about the significance of photosynthesis?",
+        "options": [
+          "It only benefits plants",
+          "It affects both animals and plants",
+          "It is a modern discovery",
+          "It only produces glucose"
+        ],
+        "correctIndex": 1,
+        "explain": "光合作用的意義不僅限於植物，還影響著動物和整個生態系統。"
+      },
+      {
+        "q": "What does the term 'chloroplasts' refer to in the passage?",
+        "options": [
+          "Parts of the plant",
+          "Food sources",
+          "Chemical reactions",
+          "Types of plants"
         ],
         "correctIndex": 0,
-        "explain": "文中提到光合作用的兩個主要階段是光依賴反應和卡爾文循環。"
-      },
-      {
-        "q": "What can be inferred about the importance of photosynthesis?",
-        "options": [
-          "It is the only source of energy for plants.",
-          "It helps in reducing carbon dioxide levels in the atmosphere.",
-          "It is not relevant to climate change.",
-          "It only affects plants, not animals."
-        ],
-        "correctIndex": 1,
-        "explain": "由於光合作用釋放氧氣並消耗二氧化碳，因此可以推斷它對減少大氣中的二氧化碳水平很重要。"
-      },
-      {
-        "q": "What does the term 'Calvin cycle' refer to in the context of photosynthesis?",
-        "options": [
-          "A stage of energy capture.",
-          "The process of glucose synthesis.",
-          "A type of chlorophyll.",
-          "The release of oxygen."
-        ],
-        "correctIndex": 1,
-        "explain": "卡爾文循環是光合作用中合成葡萄糖的過程。"
+        "explain": "在這段文字中，'chloroplasts'指的是植物細胞中的一部分。"
       }
     ]
   },
   "daily": {
-    "passage": "Attention students: The library will be closed for maintenance on Saturday. Please plan accordingly and check out any materials you need before Friday. We apologize for any inconvenience and appreciate your understanding.",
+    "passage": "Attention students! The library will be closed for maintenance this Saturday. Please plan accordingly and return any borrowed materials by Friday. We apologize for any inconvenience this may cause. Thank you for your understanding.",
     "questions": [
       {
         "q": "When will the library be closed?",
         "options": [
-          "On Friday.",
-          "On Saturday.",
-          "On Sunday.",
-          "On Monday."
+          "This Saturday",
+          "Next Monday",
+          "Tomorrow",
+          "This Friday"
         ],
-        "correctIndex": 1,
-        "explain": "公告中提到圖書館將在星期六關閉。"
+        "correctIndex": 0,
+        "explain": "圖書館將在這個星期六關閉。"
       },
       {
-        "q": "What should students do before Friday?",
+        "q": "What should students do before the library closes?",
         "options": [
-          "Return borrowed books.",
-          "Check out materials.",
-          "Attend a meeting.",
-          "Submit assignments."
+          "Borrow more books",
+          "Return borrowed materials",
+          "Visit the library on Saturday",
+          "Attend a meeting"
         ],
         "correctIndex": 1,
-        "explain": "學生應在星期五之前借出需要的資料。"
+        "explain": "學生們應該在圖書館關閉之前歸還借用的資料。"
       }
     ]
   }
