@@ -1,116 +1,116 @@
 {
   "chooseResponse": [
     {
-      "q": "What time is the meeting tomorrow?",
+      "q": "What time is the meeting?",
       "options": [
-        "At 10 AM",
-        "In the morning",
+        "At 3 PM",
+        "In the library",
         "Next week",
-        "After lunch"
+        "I forgot"
       ],
       "correctIndex": 0
     }
   ],
   "conversation": {
-    "transcript": "Student: Hi, do you know where the art gallery is?\nAdvisor: Yes, it's on the main campus near the library.\nStudent: Great! Is it open today?\nAdvisor: Yes, it is open from 11 AM to 5 PM.",
+    "transcript": "Student: Have you heard about the guest lecture on climate change?\nAdvisor: Yes, it's happening this Thursday. Are you planning to attend?\nStudent: Definitely! I think it's really important to learn about it.\nAdvisor: I agree. It’s a great opportunity to hear from experts.",
     "questions": [
       {
-        "q": "Where is the art gallery located?",
+        "q": "What is the topic of the guest lecture?",
         "options": [
-          "Near the library",
-          "In the science building",
-          "At the student center",
-          "On the second floor"
+          "Climate change",
+          "Technology",
+          "History",
+          "Art"
         ],
         "correctIndex": 0,
-        "explain": "藝術畫廊位於圖書館附近。"
+        "explain": "這個客座講座的主題是氣候變化。"
       },
       {
-        "q": "What are the gallery's opening hours?",
+        "q": "When is the guest lecture scheduled?",
         "options": [
-          "9 AM to 3 PM",
-          "10 AM to 4 PM",
-          "11 AM to 5 PM",
-          "All day"
+          "This Thursday",
+          "Next Monday",
+          "Tomorrow",
+          "Next month"
         ],
-        "correctIndex": 2,
-        "explain": "畫廊今天的開放時間是從上午11點到下午5點。"
+        "correctIndex": 0,
+        "explain": "客座講座定於本週四舉行。"
       }
     ]
   },
   "announcement": {
-    "transcript": "Attention students! The campus bookstore will hold a sale this Friday, offering 20% off all textbooks. Don't miss this opportunity to save on your course materials!",
+    "transcript": "Attention students: The library will be closed for renovations starting next Monday. We expect to reopen in two weeks. Please plan accordingly and check our website for updates.",
     "questions": [
       {
-        "q": "When will the sale take place?",
+        "q": "Why is the library closing?",
         "options": [
-          "This Wednesday",
-          "Next Monday",
-          "This Friday",
-          "Tomorrow"
+          "For renovations",
+          "For a meeting",
+          "For inventory",
+          "For cleaning"
         ],
-        "correctIndex": 2,
-        "explain": "這次特賣會將在本週五舉行。"
+        "correctIndex": 0,
+        "explain": "圖書館關閉的原因是進行翻修。"
       },
       {
-        "q": "What is the discount on textbooks?",
+        "q": "When will the library reopen?",
         "options": [
-          "10%",
-          "15%",
-          "20%",
-          "25%"
+          "In two weeks",
+          "Next month",
+          "Tomorrow",
+          "Next week"
         ],
-        "correctIndex": 2,
-        "explain": "教科書的折扣是20%。"
+        "correctIndex": 0,
+        "explain": "圖書館預計在兩週後重新開放。"
       }
     ]
   },
   "talk": {
-    "transcript": "Today, we will explore the concept of ecosystem services. Ecosystem services are the benefits that humans receive from natural environments. These services include pollination of crops by bees, clean water from wetlands, and the beauty of scenic landscapes. Understanding these services allows us to appreciate nature's role in our lives and the importance of conserving our ecosystems. By protecting these natural services, we ensure a healthier environment for future generations.",
+    "transcript": "Today, we'll explore the concept of renewable energy. Renewable energy sources, such as solar, wind, and hydroelectric power, are vital for reducing our dependence on fossil fuels. These energies are sustainable because they are replenished naturally. For instance, solar panels convert sunlight into electricity, while wind turbines harness wind power. Importantly, using renewable energy helps to decrease greenhouse gas emissions, combat climate change, and promote a healthier environment. As technology advances, the efficiency and affordability of these resources continue to improve, making them more accessible to communities worldwide.",
     "questions": [
       {
-        "q": "What are ecosystem services?",
+        "q": "What is renewable energy?",
         "options": [
-          "Natural disasters",
-          "Benefits from environments",
-          "Plant growth",
-          "Animal habitats"
+          "Energy from fossil fuels",
+          "Energy from the sun and wind",
+          "Energy from nuclear power",
+          "Energy from coal"
         ],
         "correctIndex": 1,
-        "explain": "生態系統服務是人類從自然環境中獲得的好處。"
+        "explain": "可再生能源是來自太陽和風的能源。"
       },
       {
-        "q": "Which is an example of ecosystem service?",
+        "q": "What is one benefit of renewable energy?",
         "options": [
-          "Soil erosion",
-          "Pollination by bees",
-          "Waste disposal",
-          "Urban development"
+          "Increases fossil fuel use",
+          "Decreases greenhouse gas emissions",
+          "Creates more pollution",
+          "Is less efficient"
         ],
         "correctIndex": 1,
-        "explain": "蜜蜂的授粉是生態系統服務的一個例子。"
+        "explain": "可再生能源的好處之一是減少溫室氣體排放。"
       },
       {
-        "q": "Why is it important to understand ecosystem services?",
+        "q": "Which of the following is a renewable energy source?",
         "options": [
-          "To improve technology",
-          "To appreciate nature",
-          "To build more roads",
-          "To increase traffic"
+          "Natural gas",
+          "Solar power",
+          "Coal",
+          "Nuclear energy"
         ],
         "correctIndex": 1,
-        "explain": "理解生態系統服務可以讓我們欣賞自然的角色。"
+        "explain": "太陽能是一種可再生能源。"
       },
       {
-        "q": "What does the speaker suggest we do for future generations?",
+        "q": "How is solar energy converted?",
         "options": [
-          "Ignore nature",
-          "Protect natural services",
-          "Increase pollution",
-          "Develop more cities"
+          "Through wind turbines",
+          "Through solar panels",
+          "Through water wheels",
+          "Through coal furnaces"
         ],
         "correctIndex": 1,
-        "explain": "演講者建議保護自然服務以確保未來幾代人的健康環境。"
+        "explain": "太陽能是通過太陽能板轉換的。"
       }
     ]
   }

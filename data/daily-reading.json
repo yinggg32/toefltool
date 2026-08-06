@@ -2,107 +2,101 @@
   "cloze": {
     "segments": [
       {
-        "text": "Photosynthesis is the process by which green plants "
+        "text": "The process of photosynthesis is essential for plant survival, as it allows them to convert sunlight into energy. This complex chemical reaction begins when chlorophyll, the green pigment in leaves, absorbs light. The initial step involves the splitting of water molecules, which releases oxygen as a byproduct. Subsequently, carbon dioxide from the air combines with the remaining components to form glucose. This sugar not only serves as an energy source for the plant but also provides building blocks for growth. Understanding this fundamental process is critical for comprehending broader ecological dynamics, particularly how energy flows through ecosystems. In addition, photosynthesis is pivotal in maintaining the Earth's oxygen levels."
       },
       {
-        "blank": "conve"
+        "blank": "the",
+        "text": "...rgy from sunlight..."
       },
       {
-        "text": " sunlight into chemical energy. This process mainly occurs in the "
+        "text": "...is captured by plants, which convert it into glucose through a series of reactions. This process is vital for both the plants and the organisms that depend on them for food. Furthermore, photosynthesis contributes to the global carbon cycle by absorbing carbon dioxide, a greenhouse gas. Through this mechanism, plants play a crucial role in regulating atmospheric composition."
       },
       {
-        "blank": "chloro"
+        "blank": "eact",
+        "text": "...on the environment."
       },
       {
-        "text": " of plant cells, specifically in the leaves. During photosynthesis, carbon dioxide and "
+        "text": "...Understanding the factors that influence photosynthesis, including light intensity, water availability, and carbon dioxide concentration, is essential for agriculture and conservation efforts. By optimizing these conditions, farmers can enhance crop yields and contribute to food security."
       },
       {
-        "blank": "water"
-      },
-      {
-        "text": " are utilized to produce glucose and oxygen. The overall reaction can be summarized as:"
-      },
-      {
-        "blank": "C6H12O6"
-      },
-      {
-        "text": " + 6O2. This not only provides energy for the plants but also supports life on Earth."
+        "blank": "opti",
+        "text": "...tential of sustainable practices."
       }
     ]
   },
   "academic": {
-    "passage": "Photosynthesis is a vital process for life on Earth, where green plants convert sunlight into chemical energy. This occurs primarily in chloroplasts within the leaves. In this process, carbon dioxide and water are transformed into glucose and oxygen. The significance of photosynthesis extends beyond energy production; it is crucial for the oxygen we breathe and forms the basis of the food chain. Understanding photosynthesis helps in addressing environmental issues and enhancing agricultural productivity.",
+    "passage": "Photosynthesis is a process used by plants to convert light energy into chemical energy. It occurs primarily in the leaves, where chlorophyll captures sunlight. The process forms glucose, which plants use for energy and growth. Additionally, photosynthesis releases oxygen, which is vital for most life forms. Factors affecting photosynthesis include light intensity, temperature, and carbon dioxide levels, all of which play crucial roles in plant health and agricultural productivity.",
     "questions": [
       {
-        "q": "What is the main idea of the passage?",
+        "q": "What is the main purpose of photosynthesis?",
         "options": [
-          "Photosynthesis is essential for life",
-          "Chloroplasts contain water",
-          "Glucose is harmful to plants",
-          "Oxygen is produced during photosynthesis"
+          "To produce energy for plants",
+          "To release carbon dioxide",
+          "To absorb nutrients from the soil",
+          "To increase soil fertility"
         ],
         "correctIndex": 0,
-        "explain": "這段文字的主旨是光合作用對於生命的重要性。"
+        "explain": "這道題目要考察光合作用的主要目的，即為植物提供能量。"
       },
       {
-        "q": "Where does photosynthesis primarily occur?",
+        "q": "Where does photosynthesis primarily take place?",
         "options": [
           "In the roots",
           "In the flowers",
           "In the leaves",
-          "In the soil"
+          "In the stems"
         ],
         "correctIndex": 2,
-        "explain": "光合作用主要發生在植物的葉子中。"
+        "explain": "光合作用主要在植物的葉子中進行，因此正確答案是葉子。"
       },
       {
-        "q": "What can be inferred about the significance of photosynthesis?",
+        "q": "What inference can be made about oxygen's role in the biosphere based on the passage?",
         "options": [
-          "It only benefits plants",
-          "It affects both animals and plants",
-          "It is a modern discovery",
-          "It only produces glucose"
+          "It is not necessary for life",
+          "It is produced only by animals",
+          "It supports aerobic organisms",
+          "It is harmful to plant growth"
+        ],
+        "correctIndex": 2,
+        "explain": "氧氣對生物圈至關重要，因為它支持需氧生物的生存。"
+      },
+      {
+        "q": "What does the term 'chlorophyll' refer to in the context of the passage?",
+        "options": [
+          "A type of soil",
+          "A pigment in plants",
+          "A type of energy",
+          "A process of plant growth"
         ],
         "correctIndex": 1,
-        "explain": "光合作用的意義不僅限於植物，還影響著動物和整個生態系統。"
-      },
-      {
-        "q": "What does the term 'chloroplasts' refer to in the passage?",
-        "options": [
-          "Parts of the plant",
-          "Food sources",
-          "Chemical reactions",
-          "Types of plants"
-        ],
-        "correctIndex": 0,
-        "explain": "在這段文字中，'chloroplasts'指的是植物細胞中的一部分。"
+        "explain": "在這篇文章中，'葉綠素'是指植物中的一種色素，負責吸收光能。"
       }
     ]
   },
   "daily": {
-    "passage": "Attention students! The library will be closed for maintenance this Saturday. Please plan accordingly and return any borrowed materials by Friday. We apologize for any inconvenience this may cause. Thank you for your understanding.",
+    "passage": "Attention students: The library will be closed tomorrow for maintenance. Please ensure to return any borrowed materials today. We apologize for any inconvenience this may cause and appreciate your understanding.",
     "questions": [
       {
-        "q": "When will the library be closed?",
+        "q": "Why will the library be closed tomorrow?",
         "options": [
-          "This Saturday",
-          "Next Monday",
-          "Tomorrow",
-          "This Friday"
-        ],
-        "correctIndex": 0,
-        "explain": "圖書館將在這個星期六關閉。"
-      },
-      {
-        "q": "What should students do before the library closes?",
-        "options": [
-          "Borrow more books",
-          "Return borrowed materials",
-          "Visit the library on Saturday",
-          "Attend a meeting"
+          "For a holiday",
+          "For maintenance",
+          "For a special event",
+          "For inventory"
         ],
         "correctIndex": 1,
-        "explain": "學生們應該在圖書館關閉之前歸還借用的資料。"
+        "explain": "圖書館明天關閉是因為要進行維護。"
+      },
+      {
+        "q": "What should students do today regarding borrowed materials?",
+        "options": [
+          "Return them",
+          "Renew them",
+          "Purchase new ones",
+          "Donate them"
+        ],
+        "correctIndex": 0,
+        "explain": "學生們今天應該把借的資料歸還。"
       }
     ]
   }
