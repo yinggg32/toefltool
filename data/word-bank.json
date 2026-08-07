@@ -6678,5 +6678,37 @@
     "zh": "權威",
     "ex": "Authority figures often shape social order through the enforcement of laws and norms.",
     "cat": "📰 每日新詞：sociology"
+  },
+  {
+    "word": "universe",
+    "pos": "n.",
+    "root": "uni-一 + verse-轉動",
+    "zh": "宇宙",
+    "ex": "The universe is estimated to be around 13.8 billion years old.",
+    "cat": "📰 每日新詞：astronomy and space science"
+  },
+  {
+    "word": "astrographics",
+    "pos": "n.",
+    "root": "astro-星星 + graph-圖形 + -ics-學科",
+    "zh": "天文圖形學",
+    "ex": "Astrographics involves the mapping and charting of celestial bodies and their positions.",
+    "cat": "📰 每日新詞：astronomy and space science"
+  },
+  {
+    "word": "cosmological",
+    "pos": "adj.",
+    "root": "cosm-宇宙 + -ological-形容詞後綴",
+    "zh": "宇宙學的",
+    "ex": "Cosmological models help scientists understand the large-scale structure of the universe.",
+    "cat": "📰 每日新詞：astronomy and space science"
+  },
+  {
+    "word": "thermodynamics",
+    "pos": "n.",
+    "root": "thermo-熱 + dynam-力量 + -ics-學科",
+    "zh": "熱力學",
+    "ex": "Thermodynamics plays a crucial role in understanding the physical processes in stars.",
+    "cat": "📰 每日新詞：astronomy and space science"
   }
 ]

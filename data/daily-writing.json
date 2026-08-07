@@ -2,30 +2,68 @@
   "buildSentences": [
     {
       "words": [
+        "the",
         "students",
-        "should",
-        "attend",
-        "classes",
-        "to",
-        "improve",
-        "their",
-        "knowledge"
+        "are",
+        "preparing",
+        "for",
+        "the",
+        "final",
+        "exam"
       ],
-      "display": "Students should attend classes to improve their knowledge."
+      "display": "The students are preparing for the final exam."
     },
     {
       "words": [
         "the",
-        "research",
-        "team",
-        "is",
-        "working",
-        "on",
-        "a",
+        "researcher",
+        "discovered",
         "new",
+        "evidence",
+        "for",
+        "the",
+        "theory"
+      ],
+      "display": "The researcher discovered new evidence for the theory."
+    },
+    {
+      "words": [
+        "many",
+        "people",
+        "believe",
+        "that",
+        "climate",
+        "change",
+        "is",
+        "urgent"
+      ],
+      "display": "Many people believe that climate change is urgent."
+    },
+    {
+      "words": [
+        "the",
+        "team",
+        "worked",
+        "hard",
+        "to",
+        "complete",
+        "the",
         "project"
       ],
-      "display": "The research team is working on a new project."
+      "display": "The team worked hard to complete the project."
+    },
+    {
+      "words": [
+        "it",
+        "is",
+        "important",
+        "to",
+        "exercise",
+        "regularly",
+        "for",
+        "health"
+      ],
+      "display": "It is important to exercise regularly for health."
     },
     {
       "words": [
@@ -33,97 +71,55 @@
         "books",
         "can",
         "help",
-        "develop",
-        "critical",
-        "thinking",
-        "skills"
+        "improve",
+        "language",
+        "skills",
+        "significantly"
       ],
-      "display": "Reading books can help develop critical thinking skills."
+      "display": "Reading books can help improve language skills significantly."
     },
     {
       "words": [
         "the",
-        "library",
-        "provides",
-        "various",
-        "resources",
-        "for",
-        "students",
-        "research"
-      ],
-      "display": "The library provides various resources for students' research."
-    },
-    {
-      "words": [
-        "participating",
-        "in",
-        "extracurricular",
-        "activities",
-        "can",
-        "enhance",
-        "social",
-        "skills"
-      ],
-      "display": "Participating in extracurricular activities can enhance social skills."
-    },
-    {
-      "words": [
+        "university",
+        "offers",
         "a",
-        "good",
-        "study",
-        "environment",
-        "is",
-        "essential",
-        "for",
-        "academic",
-        "success"
-      ],
-      "display": "A good study environment is essential for academic success."
-    },
-    {
-      "words": [
-        "technology",
-        "has",
-        "changed",
-        "the",
-        "way",
-        "we",
-        "communicate",
-        "with",
+        "variety",
+        "of",
+        "courses",
         "each",
-        "other"
+        "semester"
       ],
-      "display": "Technology has changed the way we communicate with each other."
+      "display": "The university offers a variety of courses each semester."
     },
     {
       "words": [
-        "volunteering",
-        "in",
-        "the",
-        "community",
-        "can",
-        "help",
         "students",
-        "gain",
-        "experience"
+        "should",
+        "take",
+        "advantage",
+        "of",
+        "internship",
+        "opportunities",
+        "available"
       ],
-      "display": "Volunteering in the community can help students gain experience."
+      "display": "Students should take advantage of internship opportunities available."
     }
   ],
   "emailPrompts": [
-    "寄信給宿舍管理辦公室，詢問搬入的相關程序和注意事項。",
-    "寄信給圖書館，反映最近借書的系統問題，請求協助。",
-    "寄信給學生會，表達希望加入某個社團的興趣，並詢問相關信息。",
-    "寄信給教授，請求延長作業的截止日期，因為最近健康狀況不佳。",
-    "寄信給客服，反映購買產品的問題，要求退款或更換。",
-    "寄信給導師，詢問是否可以安排一次面談以討論學習進度。"
+    "寄信給教授，詢問關於期末報告的具體要求。",
+    "寄信給宿舍管理辦公室，請求更換宿舍房間。",
+    "寄信給圖書館，詢問如何延長借書期限。",
+    "寄信給社團主席，報名參加即將舉行的活動。",
+    "寄信給客戶服務，反映產品的問題並要求退換。",
+    "寄信給導師，請求安排輔導時間以討論課程內容。"
   ],
   "discussionPrompts": [
-    "教授問：「你認為科技對教育的影響是正面還是負面？」",
-    "教授問：「應該如何平衡學術與社交活動的時間？」",
-    "教授問：「環保問題對經濟發展有何影響？」",
-    "教授問：「文化多樣性在當代社會中有多重要？」",
-    "教授問：「全球化對本地文化的衝擊是什麼？」",
-    "教授問：「社交媒體對人際關係的影響是什麼？」"
+    "教授問：「如何看待科技對教育的影響？」",
+    "教授問：「社交媒體對人際關係的影響是積極還是消極？」",
+    "教授問：「應該如何處理環境保護與經濟發展的矛盾？」",
+    "教授問：「藝術在社會變革中扮演什麼角色？」",
+    "教授問：「政府應該如何應對人口老化問題？」",
+    "教授問：「學校應該如何促進學生的心理健康？」"
   ]
 }

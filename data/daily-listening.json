@@ -1,116 +1,116 @@
 {
   "chooseResponse": [
     {
-      "q": "What time is the meeting?",
+      "q": "What's the best way to study for exams?",
       "options": [
-        "At 3 PM",
-        "In the library",
-        "Next week",
-        "I forgot"
+        "Try group study.",
+        "Just read the textbook.",
+        "Watch videos online.",
+        "Skip studying altogether."
       ],
       "correctIndex": 0
     }
   ],
   "conversation": {
-    "transcript": "Student: Have you heard about the guest lecture on climate change?\nAdvisor: Yes, it's happening this Thursday. Are you planning to attend?\nStudent: Definitely! I think it's really important to learn about it.\nAdvisor: I agree. It’s a great opportunity to hear from experts.",
+    "transcript": "Student: Hi, I’m feeling a bit overwhelmed with exam prep.\nAdvisor: That’s understandable. Have you considered forming a study group?\nStudent: I haven’t, but that could help!\nAdvisor: It really can. You can share notes and quiz each other.",
     "questions": [
       {
-        "q": "What is the topic of the guest lecture?",
+        "q": "What does the student feel overwhelmed about?",
         "options": [
-          "Climate change",
-          "Technology",
-          "History",
-          "Art"
+          "Social events",
+          "Exam preparation",
+          "Financial issues",
+          "Housing problems"
         ],
-        "correctIndex": 0,
-        "explain": "這個客座講座的主題是氣候變化。"
+        "correctIndex": 1,
+        "explain": "學生感到壓力是因為考試準備。"
       },
       {
-        "q": "When is the guest lecture scheduled?",
+        "q": "What does the advisor suggest?",
         "options": [
-          "This Thursday",
-          "Next Monday",
-          "Tomorrow",
-          "Next month"
+          "Taking a break",
+          "Joining a study group",
+          "Hiring a tutor",
+          "Reading alone"
         ],
-        "correctIndex": 0,
-        "explain": "客座講座定於本週四舉行。"
+        "correctIndex": 1,
+        "explain": "顧問建議學生加入學習小組。"
       }
     ]
   },
   "announcement": {
-    "transcript": "Attention students: The library will be closed for renovations starting next Monday. We expect to reopen in two weeks. Please plan accordingly and check our website for updates.",
+    "transcript": "Attention students: The library will extend its hours during finals week. It will be open from 8 AM to midnight. Please take advantage of this opportunity to study in a quiet environment.",
     "questions": [
       {
-        "q": "Why is the library closing?",
+        "q": "What will the library's new hours be during finals?",
         "options": [
-          "For renovations",
-          "For a meeting",
-          "For inventory",
-          "For cleaning"
+          "8 AM to 10 PM",
+          "8 AM to midnight",
+          "9 AM to midnight",
+          "8 AM to 11 PM"
         ],
-        "correctIndex": 0,
-        "explain": "圖書館關閉的原因是進行翻修。"
+        "correctIndex": 1,
+        "explain": "圖書館在期末考周的開放時間是早上八點到午夜。"
       },
       {
-        "q": "When will the library reopen?",
+        "q": "Why is the library extending its hours?",
         "options": [
-          "In two weeks",
-          "Next month",
-          "Tomorrow",
-          "Next week"
+          "For maintenance",
+          "For students to study",
+          "For events",
+          "For staff training"
         ],
-        "correctIndex": 0,
-        "explain": "圖書館預計在兩週後重新開放。"
+        "correctIndex": 1,
+        "explain": "圖書館延長開放時間是為了讓學生有地方學習。"
       }
     ]
   },
   "talk": {
-    "transcript": "Today, we'll explore the concept of renewable energy. Renewable energy sources, such as solar, wind, and hydroelectric power, are vital for reducing our dependence on fossil fuels. These energies are sustainable because they are replenished naturally. For instance, solar panels convert sunlight into electricity, while wind turbines harness wind power. Importantly, using renewable energy helps to decrease greenhouse gas emissions, combat climate change, and promote a healthier environment. As technology advances, the efficiency and affordability of these resources continue to improve, making them more accessible to communities worldwide.",
+    "transcript": "Today, we’ll discuss the concept of photosynthesis. This process is crucial for life on Earth. Plants convert light energy, usually from the sun, into chemical energy in the form of glucose. During photosynthesis, carbon dioxide from the air and water from the soil are transformed into glucose and oxygen. This not only nourishes the plant but also releases oxygen, which is essential for most living organisms. Understanding photosynthesis helps us appreciate ecological balance and the importance of plants in our environment.",
     "questions": [
       {
-        "q": "What is renewable energy?",
+        "q": "What is the primary function of photosynthesis?",
         "options": [
-          "Energy from fossil fuels",
-          "Energy from the sun and wind",
-          "Energy from nuclear power",
-          "Energy from coal"
+          "To produce oxygen",
+          "To create glucose",
+          "To absorb sunlight",
+          "To release carbon dioxide"
         ],
         "correctIndex": 1,
-        "explain": "可再生能源是來自太陽和風的能源。"
+        "explain": "光合作用的主要功能是生成葡萄糖。"
       },
       {
-        "q": "What is one benefit of renewable energy?",
+        "q": "What two elements are used in photosynthesis?",
         "options": [
-          "Increases fossil fuel use",
-          "Decreases greenhouse gas emissions",
-          "Creates more pollution",
-          "Is less efficient"
+          "Oxygen and nitrogen",
+          "Carbon dioxide and water",
+          "Light and heat",
+          "Glucose and oxygen"
         ],
         "correctIndex": 1,
-        "explain": "可再生能源的好處之一是減少溫室氣體排放。"
+        "explain": "光合作用中使用的兩種元素是二氧化碳和水。"
       },
       {
-        "q": "Which of the following is a renewable energy source?",
+        "q": "What do plants release during photosynthesis?",
         "options": [
-          "Natural gas",
-          "Solar power",
-          "Coal",
-          "Nuclear energy"
+          "Carbon dioxide",
+          "Glucose",
+          "Oxygen",
+          "Nitrogen"
         ],
-        "correctIndex": 1,
-        "explain": "太陽能是一種可再生能源。"
+        "correctIndex": 2,
+        "explain": "植物在光合作用中釋放氧氣。"
       },
       {
-        "q": "How is solar energy converted?",
+        "q": "Why is photosynthesis important for living organisms?",
         "options": [
-          "Through wind turbines",
-          "Through solar panels",
-          "Through water wheels",
-          "Through coal furnaces"
+          "It creates energy",
+          "It produces food",
+          "It helps in respiration",
+          "It regulates temperature"
         ],
         "correctIndex": 1,
-        "explain": "太陽能是通過太陽能板轉換的。"
+        "explain": "光合作用對生物的重要性在於它生產食物。"
       }
     ]
   }
