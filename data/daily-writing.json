@@ -2,124 +2,126 @@
   "buildSentences": [
     {
       "words": [
-        "the",
         "students",
-        "are",
-        "preparing",
-        "for",
-        "the",
-        "final",
-        "exam"
+        "enjoy",
+        "participating",
+        "in",
+        "extracurricular",
+        "activities",
+        "after",
+        "school"
       ],
-      "display": "The students are preparing for the final exam."
-    },
-    {
-      "words": [
-        "the",
-        "researcher",
-        "discovered",
-        "new",
-        "evidence",
-        "for",
-        "the",
-        "theory"
-      ],
-      "display": "The researcher discovered new evidence for the theory."
-    },
-    {
-      "words": [
-        "many",
-        "people",
-        "believe",
-        "that",
-        "climate",
-        "change",
-        "is",
-        "urgent"
-      ],
-      "display": "Many people believe that climate change is urgent."
-    },
-    {
-      "words": [
-        "the",
-        "team",
-        "worked",
-        "hard",
-        "to",
-        "complete",
-        "the",
-        "project"
-      ],
-      "display": "The team worked hard to complete the project."
-    },
-    {
-      "words": [
-        "it",
-        "is",
-        "important",
-        "to",
-        "exercise",
-        "regularly",
-        "for",
-        "health"
-      ],
-      "display": "It is important to exercise regularly for health."
+      "display": "Students enjoy participating in extracurricular activities after school."
     },
     {
       "words": [
         "reading",
-        "books",
-        "can",
-        "help",
-        "improve",
+        "novels",
+        "improves",
         "language",
         "skills",
-        "significantly"
+        "and",
+        "enhances",
+        "imagination"
       ],
-      "display": "Reading books can help improve language skills significantly."
+      "display": "Reading novels improves language skills and enhances imagination."
     },
     {
       "words": [
         "the",
-        "university",
-        "offers",
-        "a",
-        "variety",
+        "results",
         "of",
-        "courses",
-        "each",
-        "semester"
+        "the",
+        "experiment",
+        "demonstrate",
+        "the",
+        "theory"
       ],
-      "display": "The university offers a variety of courses each semester."
+      "display": "The results of the experiment demonstrate the theory."
+    },
+    {
+      "words": [
+        "volunteering",
+        "in",
+        "the",
+        "community",
+        "provides",
+        "valuable",
+        "experience",
+        "to"
+      ],
+      "display": "Volunteering in the community provides valuable experience to."
+    },
+    {
+      "words": [
+        "the",
+        "conference",
+        "will",
+        "focus",
+        "on",
+        "the",
+        "latest",
+        "research"
+      ],
+      "display": "The conference will focus on the latest research."
     },
     {
       "words": [
         "students",
         "should",
-        "take",
-        "advantage",
-        "of",
-        "internship",
-        "opportunities",
-        "available"
+        "always",
+        "seek",
+        "help",
+        "when",
+        "they",
+        "struggle"
       ],
-      "display": "Students should take advantage of internship opportunities available."
+      "display": "Students should always seek help when they struggle."
+    },
+    {
+      "words": [
+        "the",
+        "professor",
+        "assigned",
+        "a",
+        "project",
+        "that",
+        "requires",
+        "group",
+        "collaboration"
+      ],
+      "display": "The professor assigned a project that requires group collaboration."
+    },
+    {
+      "words": [
+        "traveling",
+        "broadens",
+        "one",
+        "perspective",
+        "and",
+        "exposes",
+        "them",
+        "to",
+        "new",
+        "cultures"
+      ],
+      "display": "Traveling broadens one’s perspective and exposes them to new cultures."
     }
   ],
   "emailPrompts": [
-    "寄信給教授，詢問關於期末報告的具體要求。",
-    "寄信給宿舍管理辦公室，請求更換宿舍房間。",
-    "寄信給圖書館，詢問如何延長借書期限。",
-    "寄信給社團主席，報名參加即將舉行的活動。",
-    "寄信給客戶服務，反映產品的問題並要求退換。",
-    "寄信給導師，請求安排輔導時間以討論課程內容。"
+    "寄信給宿舍辦公室，請求延長報到日期的期限。",
+    "寄信給圖書館，詢問如何借閱電子書的流程。",
+    "寄信給社團，表達希望參加下個月的活動。",
+    "寄信給教授，請教上課內容的疑問。",
+    "寄信給客服，反映最近購買產品的問題。",
+    "寄信給學校行政部門，詢問獎學金的申請程序。"
   ],
   "discussionPrompts": [
-    "教授問：「如何看待科技對教育的影響？」",
-    "教授問：「社交媒體對人際關係的影響是積極還是消極？」",
-    "教授問：「應該如何處理環境保護與經濟發展的矛盾？」",
-    "教授問：「藝術在社會變革中扮演什麼角色？」",
-    "教授問：「政府應該如何應對人口老化問題？」",
-    "教授問：「學校應該如何促進學生的心理健康？」"
+    "教授問：「你認為科技對教育的影響是正面還是負面？」",
+    "教授問：「社交媒體是否促進了人際關係的發展？」",
+    "教授問：「全球暖化是一個迫在眉睫的問題嗎？」",
+    "教授問：「移民對經濟發展的影響如何？」",
+    "教授問：「在學術界中，藝術和科學應該如何平衡？」",
+    "教授問：「是否應該將心理健康納入學校的必修課程？」"
   ]
 }

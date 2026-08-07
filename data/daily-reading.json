@@ -2,104 +2,89 @@
   "cloze": {
     "segments": [
       {
-        "text": "The process of photosynthesis is vital for plants, as it allows them to convert sunlight into energy. This occurs primarily in the leaves, where chlorophyll, the green pigment, absorbs light. During this process, carbon dioxide from the air and water from the soil are used to create glucose. The overall reaction can be simplified as follows: light energy is transformed into chemical energy, which is then used for growth and reproduction. Moreover, photosynthesis also releases oxygen as a byproduct, which is essential for most life forms on Earth. Without this process, the balance of our ecosystem would be severely disrupted."
+        "text": "The concept of the greenhouse effect is crucial in understanding climate change. It occurs when certain gases in Earth's atmosphere trap heat, preventing it from escaping back into space. This process begins with solar radiation, which reaches the planet's surface and warms it. As the surface emits this heat in the form of infrared radiation, it is partially absorbed by greenhouse gases like carbon dio"
       },
       {
-        "blank": "sis"
+        "blank": "xide"
       },
       {
-        "text": "The essential reaction of photosynthesis involves the conversion of carbon dioxide and water into sugars. This transformation requires sunlight, which is captured by chlorophyll molecules. The process can be summarized with a chemical equation."
-      },
-      {
-        "blank": "o"
-      },
-      {
-        "text": "The significance of this process extends beyond just plant life, as it supports the entire food chain. Herbivores depend on plants for energy, and in turn, carnivores rely on herbivores. Therefore, any disruption in photosynthesis could lead to a collapse of food webs."
-      },
-      {
-        "blank": "c"
-      },
-      {
-        "text": "In conclusion, understanding the mechanisms and importance of photosynthesis is crucial for fields such as agriculture, environmental science, and biology."
-      },
-      {
-        "blank": "al"
+        "text": ", methane, and nitrous oxide. Without these gases, the average temperature on Earth would be significantly lower, making it uninhabitable for many forms of life. However, excessive concentrations of these gases result in an enhanced greenhouse effect, leading to global warming. Therefore, managing greenhouse gas emissions is essential to mitigate climate change and its adverse effects on ecosystems and human societies."
       }
     ]
   },
   "academic": {
-    "passage": "Photosynthesis is a crucial biological process that enables green plants to convert light energy into chemical energy. This transformation occurs in the chloroplasts, where chlorophyll captures sunlight. The fundamental reaction of photosynthesis can be simplified into a series of steps that use carbon dioxide and water to produce glucose and oxygen. This process is not only vital for plant growth but also essential for maintaining ecological balance, as it produces the oxygen necessary for most living organisms and serves as the foundation for food chains. Thus, understanding photosynthesis is important for both science and agriculture.",
+    "passage": "The greenhouse effect is a natural process that warms the Earth’s surface. When the Sun’s energy reaches the Earth, some of it is reflected back to space and the rest is absorbed, warming the planet. Greenhouse gases in the atmosphere trap some of this heat, preventing it from escaping. This process is vital for maintaining temperatures that allow life to thrive. However, human activities have increased the concentration of these gases, leading to climate change.",
     "questions": [
       {
         "q": "What is the main idea of the passage?",
         "options": [
-          "Photosynthesis is essential for life on Earth.",
-          "Chlorophyll captures sunlight for plants.",
-          "Plants produce glucose and oxygen.",
-          "Photosynthesis occurs in chloroplasts."
+          "The greenhouse effect is essential for life on Earth.",
+          "Human activities have no impact on climate change.",
+          "The Sun's energy is harmful to the Earth.",
+          "The atmosphere is composed only of oxygen."
         ],
         "correctIndex": 0,
-        "explain": "這段文字的主要思想是光合作用對地球生命的重要性。"
+        "explain": "這段文字主要說明溫室效應對地球生命的重要性。"
       },
       {
-        "q": "What two substances are used in photosynthesis?",
+        "q": "Which gas is mentioned as a greenhouse gas in the passage?",
         "options": [
-          "Glucose and oxygen",
-          "Carbon dioxide and water",
-          "Sunlight and chlorophyll",
-          "Chloroplasts and sugars"
-        ],
-        "correctIndex": 1,
-        "explain": "光合作用使用二氧化碳和水來製造葡萄糖。"
-      },
-      {
-        "q": "What can be inferred about the role of photosynthesis in food chains?",
-        "options": [
-          "It supports only herbivores.",
-          "It is less important than respiration.",
-          "It is fundamental for energy transfer.",
-          "It does not affect carnivores."
+          "Oxygen",
+          "Nitrogen",
+          "Carbon dioxide",
+          "Hydrogen"
         ],
         "correctIndex": 2,
-        "explain": "光合作用是能量轉移的基礎，因為草食性動物依賴植物。"
+        "explain": "段落中提到二氧化碳是溫室氣體之一。"
       },
       {
-        "q": "What does the term 'chloroplasts' refer to in this context?",
+        "q": "What can be inferred about the impact of human activities on greenhouse gases?",
         "options": [
-          "Substances produced during photosynthesis",
-          "Cell structures that conduct photosynthesis",
-          "The pigment that absorbs light",
-          "The energy form used by plants"
+          "They have reduced greenhouse gases.",
+          "They have increased greenhouse gases.",
+          "They have no effect on greenhouse gases.",
+          "They have decreased the Earth's temperature."
         ],
         "correctIndex": 1,
-        "explain": "在這個上下文中，'葉綠體'指的是進行光合作用的細胞結構。"
+        "explain": "從段落中可以推斷出，人類活動已經增加了溫室氣體的濃度。"
+      },
+      {
+        "q": "What does the term 'infrared radiation' refer to in the context of the passage?",
+        "options": [
+          "The energy from the Sun.",
+          "The heat emitted from Earth.",
+          "The light visible to humans.",
+          "The gases in the atmosphere."
+        ],
+        "correctIndex": 1,
+        "explain": "‘紅外輻射’指的是地球發出的熱量。"
       }
     ]
   },
   "daily": {
-    "passage": "Attention students: The library will be closed for maintenance this Friday from 9 AM to 5 PM. Please plan your study sessions accordingly. We apologize for any inconvenience caused. Thank you for your understanding.",
+    "passage": "Attention students: The library will be closed for maintenance this Saturday. Please plan accordingly and return any borrowed materials by Friday. Thank you for your understanding.",
     "questions": [
       {
         "q": "When will the library be closed?",
         "options": [
           "This Friday",
-          "Next Monday",
           "This Saturday",
-          "Next Friday"
-        ],
-        "correctIndex": 0,
-        "explain": "圖書館將在本週五關閉。"
-      },
-      {
-        "q": "How long will the library be closed?",
-        "options": [
-          "8 hours",
-          "6 hours",
-          "4 hours",
-          "10 hours"
+          "Next Monday",
+          "Next Saturday"
         ],
         "correctIndex": 1,
-        "explain": "圖書館將關閉6個小時。"
+        "explain": "圖書館會在本週六關閉。"
+      },
+      {
+        "q": "What should students do with borrowed materials?",
+        "options": [
+          "Keep them longer",
+          "Return them by Friday",
+          "Donate them",
+          "Take them home"
+        ],
+        "correctIndex": 1,
+        "explain": "學生應在星期五之前歸還借用的資料。"
       }
     ]
   }

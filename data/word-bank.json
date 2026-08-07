@@ -6710,5 +6710,53 @@
     "zh": "熱力學",
     "ex": "Thermodynamics plays a crucial role in understanding the physical processes in stars.",
     "cat": "📰 每日新詞：astronomy and space science"
+  },
+  {
+    "word": "fusion",
+    "pos": "n.",
+    "root": "fus-融合, -ion名詞後綴",
+    "zh": "融合",
+    "ex": "Nuclear fusion is the process that powers stars, including our Sun.",
+    "cat": "📰 每日新詞：astronomy and space science"
+  },
+  {
+    "word": "ionization",
+    "pos": "n.",
+    "root": "ion-離子, -ization名詞後綴",
+    "zh": "離子化",
+    "ex": "Ionization occurs when an atom or molecule gains or loses an electron.",
+    "cat": "📰 每日新詞：astronomy and space science"
+  },
+  {
+    "word": "astrocartography",
+    "pos": "n.",
+    "root": "astro-星, cartography-地圖學",
+    "zh": "天文地圖學",
+    "ex": "Astrocartography is the study of the relationship between celestial bodies and locations on Earth.",
+    "cat": "📰 每日新詞：astronomy and space science"
+  },
+  {
+    "word": "gravity wave",
+    "pos": "n.",
+    "root": "gravity-重力, wave-波",
+    "zh": "重力波",
+    "ex": "Gravity waves are ripples in spacetime caused by the acceleration of massive objects.",
+    "cat": "📰 每日新詞：astronomy and space science"
+  },
+  {
+    "word": "astroengineering",
+    "pos": "n.",
+    "root": "astro-星, engineering-工程",
+    "zh": "天體工程學",
+    "ex": "Astroengineering involves the design and construction of structures or systems for use in space.",
+    "cat": "📰 每日新詞：astronomy and space science"
+  },
+  {
+    "word": "void",
+    "pos": "n.",
+    "root": "void-空虛",
+    "zh": "空洞",
+    "ex": "The cosmic void is a large, empty region of space that contains very few galaxies.",
+    "cat": "📰 每日新詞：astronomy and space science"
   }
 ]

@@ -1,116 +1,116 @@
 {
   "chooseResponse": [
     {
-      "q": "What's the best way to study for exams?",
+      "q": "What do you think about the new library hours?",
       "options": [
-        "Try group study.",
-        "Just read the textbook.",
-        "Watch videos online.",
-        "Skip studying altogether."
+        "They're too late.",
+        "I love them!",
+        "They should be longer.",
+        "I don’t visit often."
       ],
-      "correctIndex": 0
+      "correctIndex": 1
     }
   ],
   "conversation": {
-    "transcript": "Student: Hi, I’m feeling a bit overwhelmed with exam prep.\nAdvisor: That’s understandable. Have you considered forming a study group?\nStudent: I haven’t, but that could help!\nAdvisor: It really can. You can share notes and quiz each other.",
+    "transcript": "Student: Hey! Have you checked out the new study rooms in the library?\nLibrarian: Yes, they're really nice! They have great resources.\nStudent: I heard they have soundproof walls.\nLibrarian: Exactly! Perfect for group projects or quiet study time.",
     "questions": [
       {
-        "q": "What does the student feel overwhelmed about?",
+        "q": "What is the main topic of the conversation?",
         "options": [
-          "Social events",
+          "New study rooms",
+          "Library services",
           "Exam preparation",
-          "Financial issues",
-          "Housing problems"
+          "Student clubs"
         ],
-        "correctIndex": 1,
-        "explain": "學生感到壓力是因為考試準備。"
+        "correctIndex": 0,
+        "explain": "這段對話主要談論新開放的學習室。"
       },
       {
-        "q": "What does the advisor suggest?",
+        "q": "What feature of the study rooms is mentioned?",
         "options": [
-          "Taking a break",
-          "Joining a study group",
-          "Hiring a tutor",
-          "Reading alone"
+          "Free snacks",
+          "Soundproof walls",
+          "Open 24/7",
+          "Computers"
         ],
         "correctIndex": 1,
-        "explain": "顧問建議學生加入學習小組。"
+        "explain": "提到的學習室特點是隔音牆。"
       }
     ]
   },
   "announcement": {
-    "transcript": "Attention students: The library will extend its hours during finals week. It will be open from 8 AM to midnight. Please take advantage of this opportunity to study in a quiet environment.",
+    "transcript": "Attention students! The campus health center will be offering free flu shots next week, from Monday to Friday, 9 AM to 3 PM. Make sure to bring your student ID. Protect yourself and your peers this flu season!",
     "questions": [
       {
-        "q": "What will the library's new hours be during finals?",
+        "q": "What is being offered for free next week?",
         "options": [
-          "8 AM to 10 PM",
-          "8 AM to midnight",
-          "9 AM to midnight",
-          "8 AM to 11 PM"
+          "Health check-ups",
+          "Flu shots",
+          "Vitamins",
+          "Fitness classes"
         ],
         "correctIndex": 1,
-        "explain": "圖書館在期末考周的開放時間是早上八點到午夜。"
+        "explain": "下週會提供免費的流感疫苗。"
       },
       {
-        "q": "Why is the library extending its hours?",
+        "q": "What do students need to bring?",
         "options": [
-          "For maintenance",
-          "For students to study",
-          "For events",
-          "For staff training"
+          "Their textbooks",
+          "Student ID",
+          "Insurance card",
+          "A friend"
         ],
         "correctIndex": 1,
-        "explain": "圖書館延長開放時間是為了讓學生有地方學習。"
+        "explain": "學生需要攜帶學生證。"
       }
     ]
   },
   "talk": {
-    "transcript": "Today, we’ll discuss the concept of photosynthesis. This process is crucial for life on Earth. Plants convert light energy, usually from the sun, into chemical energy in the form of glucose. During photosynthesis, carbon dioxide from the air and water from the soil are transformed into glucose and oxygen. This not only nourishes the plant but also releases oxygen, which is essential for most living organisms. Understanding photosynthesis helps us appreciate ecological balance and the importance of plants in our environment.",
+    "transcript": "Today, we will discuss the concept of 'sustainable agriculture', which focuses on farming practices that meet current food needs without compromising future generations' ability to do the same. Sustainable agriculture includes techniques like crop rotation, which helps maintain soil health, and organic farming, which avoids harmful pesticides. It also emphasizes local food systems to reduce transportation emissions and support community economies. Adopting these practices is essential for environmental conservation and food security.",
     "questions": [
       {
-        "q": "What is the primary function of photosynthesis?",
+        "q": "What is the main focus of sustainable agriculture?",
         "options": [
-          "To produce oxygen",
-          "To create glucose",
-          "To absorb sunlight",
-          "To release carbon dioxide"
-        ],
-        "correctIndex": 1,
-        "explain": "光合作用的主要功能是生成葡萄糖。"
-      },
-      {
-        "q": "What two elements are used in photosynthesis?",
-        "options": [
-          "Oxygen and nitrogen",
-          "Carbon dioxide and water",
-          "Light and heat",
-          "Glucose and oxygen"
-        ],
-        "correctIndex": 1,
-        "explain": "光合作用中使用的兩種元素是二氧化碳和水。"
-      },
-      {
-        "q": "What do plants release during photosynthesis?",
-        "options": [
-          "Carbon dioxide",
-          "Glucose",
-          "Oxygen",
-          "Nitrogen"
+          "Increasing crop yields",
+          "Reducing farming costs",
+          "Food needs and future generations",
+          "Using chemical fertilizers"
         ],
         "correctIndex": 2,
-        "explain": "植物在光合作用中釋放氧氣。"
+        "explain": "可持續農業的主要焦點是滿足當前的食物需求，同時不影響未來的能力。"
       },
       {
-        "q": "Why is photosynthesis important for living organisms?",
+        "q": "Which technique is mentioned as part of sustainable agriculture?",
         "options": [
-          "It creates energy",
-          "It produces food",
-          "It helps in respiration",
-          "It regulates temperature"
+          "Irrigation systems",
+          "Crop rotation",
+          "Genetic modification",
+          "Pest control"
         ],
         "correctIndex": 1,
-        "explain": "光合作用對生物的重要性在於它生產食物。"
+        "explain": "提到的可持續農業技術是輪作。"
+      },
+      {
+        "q": "Why are local food systems emphasized?",
+        "options": [
+          "To lower prices",
+          "To increase exports",
+          "To reduce transportation emissions",
+          "To improve taste"
+        ],
+        "correctIndex": 2,
+        "explain": "當地食物系統被強調是為了減少交通排放。"
+      },
+      {
+        "q": "What is a benefit of organic farming?",
+        "options": [
+          "Higher profits",
+          "Better taste",
+          "Less use of harmful pesticides",
+          "Faster crop growth"
+        ],
+        "correctIndex": 2,
+        "explain": "有機農業的一個好處是減少有害農藥的使用。"
       }
     ]
   }
