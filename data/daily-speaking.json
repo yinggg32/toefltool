@@ -1,45 +1,45 @@
 {
   "shadowSentences": [
-    "I enjoy reading books every evening.",
-    "Walking in the park helps me relax.",
-    "Cooking new recipes is a fun hobby.",
-    "Traveling to new places brings me joy.",
-    "Watching movies with friends is always great.",
-    "Learning a new language can be challenging yet rewarding.",
-    "Listening to music often improves my mood.",
-    "Exercising regularly is important for staying healthy.",
-    "Trying different foods expands my culinary experience.",
-    "Volunteering in my community brings a sense of fulfillment."
+    "I enjoy reading books in my free time.",
+    "The weather is perfect for a picnic today.",
+    "I like to explore new places on weekends.",
+    "Cooking is one of my favorite hobbies.",
+    "I often listen to music while studying for exams.",
+    "Traveling helps me learn about different cultures.",
+    "I prefer to exercise in the mornings before work.",
+    "My favorite season is autumn because of the colors.",
+    "I find that journaling helps me organize my thoughts.",
+    "Meeting new people at events can be both exciting and intimidating."
   ],
   "interviewScenarios": [
     {
-      "topic": "旅行的經歷",
+      "topic": "旅行經驗",
       "intro": "You have agreed to take part in a research study about travel experiences.",
       "questions": [
-        "Q1: Can you describe your most memorable trip?",
-        "Q2: What challenges did you face while traveling?",
-        "Q3: How do you feel travel impacts personal growth?",
+        "Q1: What is your most memorable travel experience?",
+        "Q2: What challenges did you face during that trip?",
+        "Q3: How do you feel travel impacts people's perspectives?",
         "Q4: What advice would you give to someone planning their first trip?"
       ]
     },
     {
-      "topic": "環保意識",
-      "intro": "You have agreed to take part in a research study about environmental awareness.",
+      "topic": "飲食習慣",
+      "intro": "You have agreed to take part in a research study about dietary habits.",
       "questions": [
-        "Q1: How did you first become interested in environmental issues?",
-        "Q2: What are some common challenges people face in being eco-friendly?",
-        "Q3: Why do you think environmental awareness is important today?",
-        "Q4: What steps can individuals take to live more sustainably?"
+        "Q1: Can you describe your typical daily diet?",
+        "Q2: Have you ever faced any challenges with your eating habits?",
+        "Q3: What do you think about the trend of plant-based diets?",
+        "Q4: What tips would you give for maintaining a healthy diet?"
       ]
     },
     {
-      "topic": "創意寫作",
-      "intro": "You have agreed to take part in a research study about creative writing.",
+      "topic": "志願服務",
+      "intro": "You have agreed to take part in a research study about volunteering.",
       "questions": [
-        "Q1: What inspired you to start writing creatively?",
-        "Q2: What obstacles do you encounter while writing?",
-        "Q3: How do you think creative writing benefits individuals?",
-        "Q4: What tips would you give to new writers trying to improve their skills?"
+        "Q1: Have you ever participated in volunteer work? Describe your experience.",
+        "Q2: What were some challenges you encountered while volunteering?",
+        "Q3: Why do you think volunteering is important for communities?",
+        "Q4: How would you encourage others to get involved in volunteer activities?"
       ]
     }
   ]

@@ -1,116 +1,116 @@
 {
   "chooseResponse": [
     {
-      "q": "What do you think about the new library hours?",
+      "q": "What did you think of the lecture?",
       "options": [
-        "They're too late.",
-        "I love them!",
-        "They should be longer.",
-        "I don’t visit often."
+        "It was very informative.",
+        "I didn't understand much.",
+        "It was too long.",
+        "I loved the examples."
       ],
-      "correctIndex": 1
+      "correctIndex": 0
     }
   ],
   "conversation": {
-    "transcript": "Student: Hey! Have you checked out the new study rooms in the library?\nLibrarian: Yes, they're really nice! They have great resources.\nStudent: I heard they have soundproof walls.\nLibrarian: Exactly! Perfect for group projects or quiet study time.",
+    "transcript": "Student: Hey, did you attend the guest lecture on climate change?\nProfessor: Yes, I did. What did you think about it?\nStudent: I found it quite engaging, especially the part about renewable energy.\nProfessor: Absolutely, I think it's a crucial topic for our future.",
     "questions": [
       {
-        "q": "What is the main topic of the conversation?",
+        "q": "What was the main topic of the lecture?",
         "options": [
-          "New study rooms",
-          "Library services",
-          "Exam preparation",
-          "Student clubs"
+          "Climate change",
+          "Technology",
+          "Health",
+          "Economics"
         ],
         "correctIndex": 0,
-        "explain": "這段對話主要談論新開放的學習室。"
+        "explain": "這場講座的主題是氣候變化。"
       },
       {
-        "q": "What feature of the study rooms is mentioned?",
+        "q": "What did the student find engaging?",
         "options": [
-          "Free snacks",
-          "Soundproof walls",
-          "Open 24/7",
-          "Computers"
+          "The presentation style",
+          "The examples provided",
+          "The statistics",
+          "The guest speaker's background"
         ],
         "correctIndex": 1,
-        "explain": "提到的學習室特點是隔音牆。"
+        "explain": "學生覺得提供的例子很吸引人。"
       }
     ]
   },
   "announcement": {
-    "transcript": "Attention students! The campus health center will be offering free flu shots next week, from Monday to Friday, 9 AM to 3 PM. Make sure to bring your student ID. Protect yourself and your peers this flu season!",
+    "transcript": "Attention students: The library will be extending its hours starting next week. It will now be open from 8 a.m. to midnight, seven days a week. We hope this will provide you with more opportunities to study and utilize our resources. Thank you for your continued support!",
     "questions": [
       {
-        "q": "What is being offered for free next week?",
+        "q": "What change is being announced?",
         "options": [
-          "Health check-ups",
-          "Flu shots",
-          "Vitamins",
-          "Fitness classes"
+          "New library hours",
+          "Library renovation",
+          "New book arrivals",
+          "Library staff changes"
         ],
-        "correctIndex": 1,
-        "explain": "下週會提供免費的流感疫苗。"
+        "correctIndex": 0,
+        "explain": "公告提到圖書館的開放時間將會改變。"
       },
       {
-        "q": "What do students need to bring?",
+        "q": "When will the new hours begin?",
         "options": [
-          "Their textbooks",
-          "Student ID",
-          "Insurance card",
-          "A friend"
+          "Next month",
+          "Next week",
+          "This weekend",
+          "Today"
         ],
         "correctIndex": 1,
-        "explain": "學生需要攜帶學生證。"
+        "explain": "新開放時間將於下週開始。"
       }
     ]
   },
   "talk": {
-    "transcript": "Today, we will discuss the concept of 'sustainable agriculture', which focuses on farming practices that meet current food needs without compromising future generations' ability to do the same. Sustainable agriculture includes techniques like crop rotation, which helps maintain soil health, and organic farming, which avoids harmful pesticides. It also emphasizes local food systems to reduce transportation emissions and support community economies. Adopting these practices is essential for environmental conservation and food security.",
+    "transcript": "Today, we'll discuss the concept of cultural relativism in anthropology. Cultural relativism is the idea that a person's beliefs and practices should be understood based on that person's own culture, rather than be judged against the criteria of another culture. This approach helps anthropologists avoid ethnocentrism, which is the belief that one's own culture is superior. For example, when studying a different society, it's essential to appreciate their customs and norms in their context. This perspective fosters understanding and respect for diverse cultures and promotes a more comprehensive view of humanity.",
     "questions": [
       {
-        "q": "What is the main focus of sustainable agriculture?",
+        "q": "What is cultural relativism?",
         "options": [
-          "Increasing crop yields",
-          "Reducing farming costs",
-          "Food needs and future generations",
-          "Using chemical fertilizers"
-        ],
-        "correctIndex": 2,
-        "explain": "可持續農業的主要焦點是滿足當前的食物需求，同時不影響未來的能力。"
-      },
-      {
-        "q": "Which technique is mentioned as part of sustainable agriculture?",
-        "options": [
-          "Irrigation systems",
-          "Crop rotation",
-          "Genetic modification",
-          "Pest control"
+          "Judging other cultures",
+          "Understanding cultures in their own context",
+          "Promoting one culture over others",
+          "Avoiding cultural studies"
         ],
         "correctIndex": 1,
-        "explain": "提到的可持續農業技術是輪作。"
+        "explain": "文化相對主義是指根據一個文化來理解信仰和習俗。"
       },
       {
-        "q": "Why are local food systems emphasized?",
+        "q": "What does cultural relativism help avoid?",
         "options": [
-          "To lower prices",
-          "To increase exports",
-          "To reduce transportation emissions",
-          "To improve taste"
+          "Cultural appreciation",
+          "Cultural misunderstandings",
+          "Ethnocentrism",
+          "Cultural differences"
         ],
         "correctIndex": 2,
-        "explain": "當地食物系統被強調是為了減少交通排放。"
+        "explain": "文化相對主義幫助避免民族中心主義。"
       },
       {
-        "q": "What is a benefit of organic farming?",
+        "q": "Why is it important for anthropologists?",
         "options": [
-          "Higher profits",
-          "Better taste",
-          "Less use of harmful pesticides",
-          "Faster crop growth"
+          "To promote their own culture",
+          "To understand diverse societies",
+          "To avoid studying cultures",
+          "To simplify cultural analysis"
+        ],
+        "correctIndex": 1,
+        "explain": "這對人類學家來說很重要，因為它幫助他們理解不同的社會。"
+      },
+      {
+        "q": "What does the speaker suggest about customs and norms?",
+        "options": [
+          "They should be judged harshly",
+          "They are irrelevant to understanding",
+          "They must be appreciated in their context",
+          "They are always superior to others"
         ],
         "correctIndex": 2,
-        "explain": "有機農業的一個好處是減少有害農藥的使用。"
+        "explain": "演講者建議必須在其背景下欣賞習俗和規範。"
       }
     ]
   }

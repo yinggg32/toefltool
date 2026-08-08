@@ -6758,5 +6758,45 @@
     "zh": "空洞",
     "ex": "The cosmic void is a large, empty region of space that contains very few galaxies.",
     "cat": "📰 每日新詞：astronomy and space science"
+  },
+  {
+    "word": "free will",
+    "pos": "n.",
+    "root": "free (自由的) + will (意志)",
+    "zh": "自由意志",
+    "ex": "The debate between determinism and free will raises questions about human agency and responsibility.",
+    "cat": "📰 每日新詞：philosophy"
+  },
+  {
+    "word": "existence",
+    "pos": "n.",
+    "root": "existere (存在)",
+    "zh": "存在",
+    "ex": "The concept of existence poses profound philosophical questions about what it means to be.",
+    "cat": "📰 每日新詞：philosophy"
+  },
+  {
+    "word": "substance",
+    "pos": "n.",
+    "root": "substantia (物質)",
+    "zh": "實體",
+    "ex": "Philosophical discussions about substance often revolve around what constitutes the essence of an object.",
+    "cat": "📰 每日新詞：philosophy"
+  },
+  {
+    "word": "wisdom",
+    "pos": "n.",
+    "root": "sapientia (智慧)",
+    "zh": "智慧",
+    "ex": "Philosophy often aims to cultivate wisdom through critical thinking and reflection.",
+    "cat": "📰 每日新詞：philosophy"
+  },
+  {
+    "word": "fallacy",
+    "pos": "n.",
+    "root": "fallacia (錯誤)",
+    "zh": "謬誤",
+    "ex": "Identifying logical fallacies is crucial for constructing sound philosophical arguments.",
+    "cat": "📰 每日新詞：philosophy"
   }
 ]

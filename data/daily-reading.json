@@ -2,89 +2,101 @@
   "cloze": {
     "segments": [
       {
-        "text": "The concept of the greenhouse effect is crucial in understanding climate change. It occurs when certain gases in Earth's atmosphere trap heat, preventing it from escaping back into space. This process begins with solar radiation, which reaches the planet's surface and warms it. As the surface emits this heat in the form of infrared radiation, it is partially absorbed by greenhouse gases like carbon dio"
+        "text": "The process of photosynthesis is fundamental for life on Earth. During this process, plants absorb sunlight, which provides the energy necessary for converting carbon dioxide and water into glucose and oxyg"
       },
       {
-        "blank": "xide"
+        "blank": "en"
       },
       {
-        "text": ", methane, and nitrous oxide. Without these gases, the average temperature on Earth would be significantly lower, making it uninhabitable for many forms of life. However, excessive concentrations of these gases result in an enhanced greenhouse effect, leading to global warming. Therefore, managing greenhouse gas emissions is essential to mitigate climate change and its adverse effects on ecosystems and human societies."
+        "text": ". This biochemical reaction occurs primarily in the chloroplasts of plant cells. The importance of photosynthesis extends beyond plants; it also affects the global climate by reducing levels of carbon diox"
+      },
+      {
+        "blank": "ide"
+      },
+      {
+        "text": ". Additionally, photosynthesis is crucial for the food chain as it produces organic matter that supports various forms of life. Without this process, ecosystems would collapse, highlighting the vital role of p"
+      },
+      {
+        "blank": "lant"
+      },
+      {
+        "text": "life in maintaining ecological balance."
       }
     ]
   },
   "academic": {
-    "passage": "The greenhouse effect is a natural process that warms the Earth’s surface. When the Sun’s energy reaches the Earth, some of it is reflected back to space and the rest is absorbed, warming the planet. Greenhouse gases in the atmosphere trap some of this heat, preventing it from escaping. This process is vital for maintaining temperatures that allow life to thrive. However, human activities have increased the concentration of these gases, leading to climate change.",
+    "passage": "Photosynthesis is a vital process that converts light energy into chemical energy stored in glucose. This process involves two main stages: the light-dependent reactions and the Calvin cycle. In the first stage, sunlight is absorbed by chlorophyll, leading to the production of ATP and NADPH. These molecules are then utilized in the Calvin cycle to fix carbon dioxide into organic compounds. This conversion is essential not only for plant growth but also for sustaining life on Earth by releasing oxygen into the atmosphere.",
     "questions": [
       {
         "q": "What is the main idea of the passage?",
         "options": [
-          "The greenhouse effect is essential for life on Earth.",
-          "Human activities have no impact on climate change.",
-          "The Sun's energy is harmful to the Earth.",
-          "The atmosphere is composed only of oxygen."
+          "Photosynthesis is important for plant growth.",
+          "Chlorophyll plays a key role in photosynthesis.",
+          "The stages of photosynthesis are well-defined.",
+          "Photosynthesis is crucial for life on Earth."
         ],
-        "correctIndex": 0,
-        "explain": "這段文字主要說明溫室效應對地球生命的重要性。"
+        "correctIndex": 3,
+        "explain": "這段文字的主要思想是光合作用對於地球生命的重要性。"
       },
       {
-        "q": "Which gas is mentioned as a greenhouse gas in the passage?",
+        "q": "What are the two main stages of photosynthesis mentioned?",
         "options": [
-          "Oxygen",
-          "Nitrogen",
-          "Carbon dioxide",
-          "Hydrogen"
+          "Light-dependent reactions and respiration.",
+          "Calvin cycle and fermentation.",
+          "Light-dependent reactions and the Calvin cycle.",
+          "Photosystem I and II."
         ],
         "correctIndex": 2,
-        "explain": "段落中提到二氧化碳是溫室氣體之一。"
+        "explain": "文中提到的光合作用的兩個主要階段是光依賴反應和卡爾文循環。"
       },
       {
-        "q": "What can be inferred about the impact of human activities on greenhouse gases?",
+        "q": "What can be inferred about the importance of photosynthesis?",
         "options": [
-          "They have reduced greenhouse gases.",
-          "They have increased greenhouse gases.",
-          "They have no effect on greenhouse gases.",
-          "They have decreased the Earth's temperature."
+          "It is only important for plants.",
+          "It helps in maintaining ecological balance.",
+          "It is a seasonal process.",
+          "It does not affect the atmosphere."
         ],
         "correctIndex": 1,
-        "explain": "從段落中可以推斷出，人類活動已經增加了溫室氣體的濃度。"
+        "explain": "光合作用對於維持生態平衡至關重要。"
       },
       {
-        "q": "What does the term 'infrared radiation' refer to in the context of the passage?",
+        "q": "What does the term 'ATP' refer to in the context of photosynthesis?",
         "options": [
-          "The energy from the Sun.",
-          "The heat emitted from Earth.",
-          "The light visible to humans.",
-          "The gases in the atmosphere."
+          "A type of chlorophyll.",
+          "A molecule that stores energy.",
+          "A byproduct of respiration.",
+          "A mineral needed for growth."
         ],
         "correctIndex": 1,
-        "explain": "‘紅外輻射’指的是地球發出的熱量。"
+        "explain": "在光合作用的上下文中，'ATP'指的是一種儲存能量的分子。"
       }
     ]
   },
   "daily": {
-    "passage": "Attention students: The library will be closed for maintenance this Saturday. Please plan accordingly and return any borrowed materials by Friday. Thank you for your understanding.",
+    "passage": "Attention students: The library will be closed for maintenance this Saturday. Please plan your studies accordingly and ensure that you return any borrowed materials before the closure. We apologize for any inconvenience caused.",
     "questions": [
       {
         "q": "When will the library be closed?",
         "options": [
-          "This Friday",
-          "This Saturday",
-          "Next Monday",
-          "Next Saturday"
+          "This Saturday.",
+          "Next Monday.",
+          "This Friday.",
+          "Next weekend."
         ],
-        "correctIndex": 1,
-        "explain": "圖書館會在本週六關閉。"
+        "correctIndex": 0,
+        "explain": "圖書館將於本週六關閉。"
       },
       {
-        "q": "What should students do with borrowed materials?",
+        "q": "What should students do before the library closes?",
         "options": [
-          "Keep them longer",
-          "Return them by Friday",
-          "Donate them",
-          "Take them home"
+          "Return borrowed materials.",
+          "Start new projects.",
+          "Reserve study rooms.",
+          "Attend workshops."
         ],
-        "correctIndex": 1,
-        "explain": "學生應在星期五之前歸還借用的資料。"
+        "correctIndex": 0,
+        "explain": "學生應在圖書館關閉前歸還借用的材料。"
       }
     ]
   }
