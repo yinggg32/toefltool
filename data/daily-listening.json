@@ -1,116 +1,116 @@
 {
   "chooseResponse": [
     {
-      "q": "What did you think of the lecture?",
+      "q": "Did you finish the project report?",
       "options": [
-        "It was very informative.",
-        "I didn't understand much.",
-        "It was too long.",
-        "I loved the examples."
+        "Yes, I submitted it",
+        "No, I need more time",
+        "I forgot about it",
+        "I'm almost done"
       ],
       "correctIndex": 0
     }
   ],
   "conversation": {
-    "transcript": "Student: Hey, did you attend the guest lecture on climate change?\nProfessor: Yes, I did. What did you think about it?\nStudent: I found it quite engaging, especially the part about renewable energy.\nProfessor: Absolutely, I think it's a crucial topic for our future.",
+    "transcript": "Student: Hey, have you talked to the professor about the group project?\nAdvisor: Yes, I met with him yesterday. He had some good suggestions.\nStudent: What did he say?\nAdvisor: He thinks we should focus more on the research aspect.",
     "questions": [
       {
-        "q": "What was the main topic of the lecture?",
+        "q": "What did the professor suggest?",
         "options": [
-          "Climate change",
-          "Technology",
-          "Health",
-          "Economics"
+          "Focus on research",
+          "Use more visuals",
+          "Make it longer",
+          "Change the topic"
         ],
         "correctIndex": 0,
-        "explain": "這場講座的主題是氣候變化。"
+        "explain": "教授建議專注於研究方面。"
       },
       {
-        "q": "What did the student find engaging?",
+        "q": "When did the advisor meet the professor?",
         "options": [
-          "The presentation style",
-          "The examples provided",
-          "The statistics",
-          "The guest speaker's background"
+          "Yesterday",
+          "Last week",
+          "Today",
+          "Tomorrow"
         ],
-        "correctIndex": 1,
-        "explain": "學生覺得提供的例子很吸引人。"
+        "correctIndex": 0,
+        "explain": "顧問昨天見了教授。"
       }
     ]
   },
   "announcement": {
-    "transcript": "Attention students: The library will be extending its hours starting next week. It will now be open from 8 a.m. to midnight, seven days a week. We hope this will provide you with more opportunities to study and utilize our resources. Thank you for your continued support!",
+    "transcript": "Attention students! The library will be closed for maintenance this Saturday. Please plan accordingly and ensure you have all your materials before then. We apologize for any inconvenience this may cause.",
     "questions": [
       {
-        "q": "What change is being announced?",
+        "q": "Why will the library be closed?",
         "options": [
-          "New library hours",
-          "Library renovation",
-          "New book arrivals",
-          "Library staff changes"
+          "For maintenance",
+          "For cleaning",
+          "For an event",
+          "For inventory"
         ],
         "correctIndex": 0,
-        "explain": "公告提到圖書館的開放時間將會改變。"
+        "explain": "圖書館將因維修而關閉。"
       },
       {
-        "q": "When will the new hours begin?",
+        "q": "When is the library closure?",
         "options": [
-          "Next month",
-          "Next week",
-          "This weekend",
-          "Today"
+          "This Saturday",
+          "Next Monday",
+          "This Thursday",
+          "Next weekend"
         ],
-        "correctIndex": 1,
-        "explain": "新開放時間將於下週開始。"
+        "correctIndex": 0,
+        "explain": "圖書館將在本周六關閉。"
       }
     ]
   },
   "talk": {
-    "transcript": "Today, we'll discuss the concept of cultural relativism in anthropology. Cultural relativism is the idea that a person's beliefs and practices should be understood based on that person's own culture, rather than be judged against the criteria of another culture. This approach helps anthropologists avoid ethnocentrism, which is the belief that one's own culture is superior. For example, when studying a different society, it's essential to appreciate their customs and norms in their context. This perspective fosters understanding and respect for diverse cultures and promotes a more comprehensive view of humanity.",
+    "transcript": "Today, I want to discuss the concept of biodiversity. Biodiversity refers to the variety of life found on Earth and the natural patterns it forms. It includes the diversity of species, ecosystems, and genetic variations. High biodiversity is crucial for ecosystem stability and resilience. It provides essential services such as clean air and water, pollination of plants, and regulation of climate. However, human activities like deforestation, pollution, and climate change are threatening biodiversity around the globe. Protecting and preserving biodiversity is vital for sustaining life and maintaining the balance of our ecosystems.",
     "questions": [
       {
-        "q": "What is cultural relativism?",
+        "q": "What is biodiversity?",
         "options": [
-          "Judging other cultures",
-          "Understanding cultures in their own context",
-          "Promoting one culture over others",
-          "Avoiding cultural studies"
+          "Variety of life",
+          "Types of pollution",
+          "Ecosystem services",
+          "Climate change effects"
+        ],
+        "correctIndex": 0,
+        "explain": "生物多樣性是地球上生命的多樣性。"
+      },
+      {
+        "q": "Why is high biodiversity important?",
+        "options": [
+          "For species extinction",
+          "For ecosystem balance",
+          "For urban development",
+          "For technological growth"
         ],
         "correctIndex": 1,
-        "explain": "文化相對主義是指根據一個文化來理解信仰和習俗。"
+        "explain": "高生物多樣性對生態系統的穩定性和韌性至關重要。"
       },
       {
-        "q": "What does cultural relativism help avoid?",
+        "q": "What activities threaten biodiversity?",
         "options": [
-          "Cultural appreciation",
-          "Cultural misunderstandings",
-          "Ethnocentrism",
-          "Cultural differences"
+          "Sustainable farming",
+          "Wildlife preservation",
+          "Deforestation",
+          "Renewable energy"
         ],
         "correctIndex": 2,
-        "explain": "文化相對主義幫助避免民族中心主義。"
+        "explain": "人類活動如砍伐森林威脅著生物多樣性。"
       },
       {
-        "q": "Why is it important for anthropologists?",
+        "q": "What services does biodiversity provide?",
         "options": [
-          "To promote their own culture",
-          "To understand diverse societies",
-          "To avoid studying cultures",
-          "To simplify cultural analysis"
-        ],
-        "correctIndex": 1,
-        "explain": "這對人類學家來說很重要，因為它幫助他們理解不同的社會。"
-      },
-      {
-        "q": "What does the speaker suggest about customs and norms?",
-        "options": [
-          "They should be judged harshly",
-          "They are irrelevant to understanding",
-          "They must be appreciated in their context",
-          "They are always superior to others"
+          "Transportation",
+          "Health care",
+          "Ecosystem services",
+          "Education"
         ],
         "correctIndex": 2,
-        "explain": "演講者建議必須在其背景下欣賞習俗和規範。"
+        "explain": "生物多樣性提供生態系統服務，例如清潔的空氣和水。"
       }
     ]
   }

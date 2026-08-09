@@ -3,129 +3,129 @@
     {
       "words": [
         "the",
-        "team",
-        "worked",
-        "hard",
-        "to",
-        "complete",
-        "the",
-        "project"
-      ],
-      "display": "The team worked hard to complete the project."
-    },
-    {
-      "words": [
-        "she",
-        "enjoys",
-        "reading",
-        "mystery",
-        "novels",
-        "in",
-        "her",
-        "free",
-        "time"
-      ],
-      "display": "She enjoys reading mystery novels in her free time."
-    },
-    {
-      "words": [
-        "the",
-        "scientific",
-        "research",
-        "has",
-        "led",
-        "to",
-        "important",
-        "discoveries"
-      ],
-      "display": "The scientific research has led to important discoveries."
-    },
-    {
-      "words": [
-        "they",
-        "will",
-        "attend",
-        "the",
-        "conference",
-        "to",
-        "present",
-        "their",
-        "findings"
-      ],
-      "display": "They will attend the conference to present their findings."
-    },
-    {
-      "words": [
-        "the",
-        "professor",
-        "encouraged",
         "students",
+        "enjoyed",
+        "the",
+        "lecture",
+        "on",
+        "environmental",
+        "science"
+      ],
+      "display": "The students enjoyed the lecture on environmental science."
+    },
+    {
+      "words": [
         "to",
-        "participate",
+        "understand",
+        "the",
+        "importance",
+        "of",
+        "cultural",
+        "diversity",
+        "we",
+        "must"
+      ],
+      "display": "To understand the importance of cultural diversity, we must."
+    },
+    {
+      "words": [
+        "the",
+        "researchers",
+        "presented",
+        "their",
+        "findings",
+        "at",
+        "the",
+        "conference"
+      ],
+      "display": "The researchers presented their findings at the conference."
+    },
+    {
+      "words": [
+        "a",
+        "balanced",
+        "diet",
+        "is",
+        "essential",
+        "for",
+        "maintaining",
+        "good",
+        "health"
+      ],
+      "display": "A balanced diet is essential for maintaining good health."
+    },
+    {
+      "words": [
+        "the",
+        "novel",
+        "explores",
+        "themes",
+        "of",
+        "love",
+        "loss",
+        "and",
+        "redemption"
+      ],
+      "display": "The novel explores themes of love, loss, and redemption."
+    },
+    {
+      "words": [
         "in",
         "the",
-        "discussion"
+        "future",
+        "technology",
+        "may",
+        "change",
+        "the",
+        "way",
+        "we",
+        "communicate"
       ],
-      "display": "The professor encouraged students to participate in the discussion."
+      "display": "In the future, technology may change the way we communicate."
+    },
+    {
+      "words": [
+        "students",
+        "should",
+        "practice",
+        "time",
+        "management",
+        "to",
+        "balance",
+        "their",
+        "studies"
+      ],
+      "display": "Students should practice time management to balance their studies."
     },
     {
       "words": [
         "the",
-        "museum",
-        "exhibit",
-        "features",
-        "artifacts",
-        "from",
-        "ancient",
-        "civilizations"
-      ],
-      "display": "The museum exhibit features artifacts from ancient civilizations."
-    },
-    {
-      "words": [
-        "the",
+        "government",
+        "implemented",
         "new",
-        "policy",
-        "aims",
+        "policies",
         "to",
-        "improve",
-        "student",
-        "satisfaction",
-        "rates"
+        "address",
+        "climate",
+        "change"
       ],
-      "display": "The new policy aims to improve student satisfaction rates."
-    },
-    {
-      "words": [
-        "he",
-        "is",
-        "planning",
-        "to",
-        "study",
-        "abroad",
-        "next",
-        "year",
-        "for",
-        "his",
-        "degree"
-      ],
-      "display": "He is planning to study abroad next year for his degree."
+      "display": "The government implemented new policies to address climate change."
     }
   ],
   "emailPrompts": [
-    "寄信給教授，詢問是否可以延遲提交研究報告的截止日期。",
-    "寄信給宿舍辦公室，請求更換房間的事宜。",
-    "寄信給圖書館，詢問圖書的借閱期限及續借方式。",
-    "寄信給社團，表達希望參加新學期的活動及加入的意願。",
-    "寄信給客服，反映產品的問題並請求退換貨的流程。",
-    "寄信給學校輔導中心，詢問心理諮詢的可用時間與流程。"
+    "寄信給教授，詢問下學期的課程安排及建議的教材。",
+    "寄信給宿舍辦公室，反映水管漏水的問題並請求修理。",
+    "寄信給圖書館，詢問如何延長書籍的借閱期限。",
+    "寄信給學生會，詢問加入新興俱樂部的流程及活動安排。",
+    "寄信給客服部門，反映最近購買商品的質量問題並請求退款。",
+    "寄信給導師，說明因家庭原因需要暫時離校，尋求建議。"
   ],
   "discussionPrompts": [
-    "教授問：「你認為科技對未來社會的影響是正面還是負面？」",
-    "教授問：「在當今社會，藝術教育的重要性何在？」",
-    "教授問：「環境保護與經濟發展之間應如何取得平衡？」",
-    "教授問：「你如何看待全球化對文化多樣性的影響？」",
-    "教授問：「社交媒體對人際關係的影響是什麼？」",
-    "教授問：「學校教育應該更注重哪些技能的培養？」"
+    "教授問：「在全球化的時代，文化同化是否不可避免？」",
+    "教授問：「科技進步對於教育的影響是正面還是負面？」",
+    "教授問：「社會媒體對年輕人的心理健康有何影響？」",
+    "教授問：「環境保護與經濟發展之間應如何平衡？」",
+    "教授問：「在現代社會中，藝術的功能是什麼？」",
+    "教授問：「該如何看待人工智慧在未來工作市場的角色？」"
   ]
 }

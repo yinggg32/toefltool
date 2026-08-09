@@ -2,101 +2,107 @@
   "cloze": {
     "segments": [
       {
-        "text": "The process of photosynthesis is fundamental for life on Earth. During this process, plants absorb sunlight, which provides the energy necessary for converting carbon dioxide and water into glucose and oxyg"
+        "text": "The concept of photosynthesis is fundamental to understanding how plants "
       },
       {
-        "blank": "en"
+        "blank": "ener"
       },
       {
-        "text": ". This biochemical reaction occurs primarily in the chloroplasts of plant cells. The importance of photosynthesis extends beyond plants; it also affects the global climate by reducing levels of carbon diox"
+        "text": "gy is produced. During this process, plants take in carbon dioxide and water. Using sunlight, they convert these into glucose and "
       },
       {
-        "blank": "ide"
+        "blank": "oxy"
       },
       {
-        "text": ". Additionally, photosynthesis is crucial for the food chain as it produces organic matter that supports various forms of life. Without this process, ecosystems would collapse, highlighting the vital role of p"
+        "text": "gen. The glucose serves as food for the plant, while oxygen is released into the atmosphere. This process not only sustains plant life, but it also "
       },
       {
-        "blank": "lant"
+        "blank": "supp"
       },
       {
-        "text": "life in maintaining ecological balance."
+        "text": "lies energy for various organisms, including humans. Without photosynthesis, life as we know it would not exist. It is essential for the maintenance of "
+      },
+      {
+        "blank": "ecosys"
+      },
+      {
+        "text": "tems and the overall balance of nature. Thus, understanding photosynthesis is crucial for both biology and environmental science."
       }
     ]
   },
   "academic": {
-    "passage": "Photosynthesis is a vital process that converts light energy into chemical energy stored in glucose. This process involves two main stages: the light-dependent reactions and the Calvin cycle. In the first stage, sunlight is absorbed by chlorophyll, leading to the production of ATP and NADPH. These molecules are then utilized in the Calvin cycle to fix carbon dioxide into organic compounds. This conversion is essential not only for plant growth but also for sustaining life on Earth by releasing oxygen into the atmosphere.",
+    "passage": "Photosynthesis is a vital process used by plants and some microorganisms to convert light energy into chemical energy. It is the foundation of the food chain, supporting life on Earth. During photosynthesis, carbon dioxide and water are transformed into glucose and oxygen through the absorption of sunlight. This process occurs primarily in the chloroplasts of plant cells, where chlorophyll captures light energy. Understanding photosynthesis is crucial for addressing environmental challenges, such as climate change and food production.",
     "questions": [
       {
         "q": "What is the main idea of the passage?",
         "options": [
-          "Photosynthesis is important for plant growth.",
-          "Chlorophyll plays a key role in photosynthesis.",
-          "The stages of photosynthesis are well-defined.",
-          "Photosynthesis is crucial for life on Earth."
+          "Photosynthesis is crucial for life on Earth.",
+          "Plants produce glucose and oxygen.",
+          "Chlorophyll captures light energy.",
+          "Environmental challenges affect photosynthesis."
         ],
-        "correctIndex": 3,
-        "explain": "這段文字的主要思想是光合作用對於地球生命的重要性。"
+        "correctIndex": 0,
+        "explain": "本段落的主題是光合作用對地球生命的重要性。"
       },
       {
-        "q": "What are the two main stages of photosynthesis mentioned?",
+        "q": "What substances are converted during photosynthesis?",
         "options": [
-          "Light-dependent reactions and respiration.",
-          "Calvin cycle and fermentation.",
-          "Light-dependent reactions and the Calvin cycle.",
-          "Photosystem I and II."
+          "Glucose and carbon dioxide",
+          "Water and oxygen",
+          "Carbon dioxide and water",
+          "Light and glucose"
         ],
         "correctIndex": 2,
-        "explain": "文中提到的光合作用的兩個主要階段是光依賴反應和卡爾文循環。"
+        "explain": "光合作用涉及二氧化碳和水轉化為葡萄糖和氧氣。"
       },
       {
-        "q": "What can be inferred about the importance of photosynthesis?",
+        "q": "What can be inferred about chlorophyll?",
         "options": [
-          "It is only important for plants.",
-          "It helps in maintaining ecological balance.",
-          "It is a seasonal process.",
-          "It does not affect the atmosphere."
+          "It is not important for photosynthesis.",
+          "It is found in all plant cells.",
+          "It captures light energy for photosynthesis.",
+          "It only exists in microorganisms."
         ],
-        "correctIndex": 1,
-        "explain": "光合作用對於維持生態平衡至關重要。"
+        "correctIndex": 2,
+        "explain": "可以推斷，葉綠素在光合作用中捕獲光能，是至關重要的。"
       },
       {
-        "q": "What does the term 'ATP' refer to in the context of photosynthesis?",
+        "q": "What does the word 'transform' mean in the context of the passage?",
         "options": [
-          "A type of chlorophyll.",
-          "A molecule that stores energy.",
-          "A byproduct of respiration.",
-          "A mineral needed for growth."
+          "Change completely",
+          "Create new life",
+          "Transform into energy",
+          "Break down substances"
         ],
-        "correctIndex": 1,
-        "explain": "在光合作用的上下文中，'ATP'指的是一種儲存能量的分子。"
+        "correctIndex": 0,
+        "explain": "在本段落中，'transform' 的意思是徹底改變物質的形式。"
       }
     ]
   },
   "daily": {
-    "passage": "Attention students: The library will be closed for maintenance this Saturday. Please plan your studies accordingly and ensure that you return any borrowed materials before the closure. We apologize for any inconvenience caused.",
+    "passage": "Attention all students! The campus library will be closed for maintenance this Saturday. We apologize for any inconvenience this may cause. Please plan accordingly and ensure you have all necessary materials before then.",
     "questions": [
       {
-        "q": "When will the library be closed?",
+        "q": "When will the campus library be closed?",
         "options": [
-          "This Saturday.",
-          "Next Monday.",
-          "This Friday.",
-          "Next weekend."
+          "This Saturday",
+          "Next Sunday",
+          "This Friday",
+          "Next Monday"
         ],
         "correctIndex": 0,
-        "explain": "圖書館將於本週六關閉。"
+        "explain": "圖書館將於本週六關閉，根據公告。"
       },
       {
         "q": "What should students do before the library closes?",
         "options": [
-          "Return borrowed materials.",
-          "Start new projects.",
-          "Reserve study rooms.",
-          "Attend workshops."
+          "Return books",
+          "Plan accordingly",
+          "Attend an event",
+          "Meet with professors"
         ],
-        "correctIndex": 0,
-        "explain": "學生應在圖書館關閉前歸還借用的材料。"
+        "correctIndex": 1,
+        "explain": "學生應該在圖書館關閉之前做好計劃，以確保所需材料齊全。"
       }
     ]
   }

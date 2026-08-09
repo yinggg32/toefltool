@@ -6798,5 +6798,69 @@
     "zh": "謬誤",
     "ex": "Identifying logical fallacies is crucial for constructing sound philosophical arguments.",
     "cat": "📰 每日新詞：philosophy"
+  },
+  {
+    "word": "health equity",
+    "pos": "n.",
+    "root": "健康公平—health equity",
+    "zh": "健康公平",
+    "ex": "Promoting health equity is fundamental to improving overall population health.",
+    "cat": "📰 每日新詞：public health"
+  },
+  {
+    "word": "public policy",
+    "pos": "n.",
+    "root": "公共政策—public policy",
+    "zh": "公共政策",
+    "ex": "Public policy decisions significantly influence health outcomes in the community.",
+    "cat": "📰 每日新詞：public health"
+  },
+  {
+    "word": "social determinants",
+    "pos": "n.",
+    "root": "社會決定因素—social determinants",
+    "zh": "社會決定因素",
+    "ex": "Social determinants of health influence individual and community health disparities.",
+    "cat": "📰 每日新詞：public health"
+  },
+  {
+    "word": "mental health",
+    "pos": "n.",
+    "root": "心理健康—mental health",
+    "zh": "心理健康",
+    "ex": "Mental health awareness is essential for reducing stigma and promoting well-being.",
+    "cat": "📰 每日新詞：public health"
+  },
+  {
+    "word": "policy-making",
+    "pos": "n.",
+    "root": "政策制定—policy-making",
+    "zh": "政策制定",
+    "ex": "Effective policy-making is crucial for addressing public health challenges.",
+    "cat": "📰 每日新詞：public health"
+  },
+  {
+    "word": "disease burden",
+    "pos": "n.",
+    "root": "疾病負擔—disease burden",
+    "zh": "疾病負擔",
+    "ex": "The disease burden in low-income countries is often higher than in developed nations.",
+    "cat": "📰 每日新詞：public health"
+  },
+  {
+    "word": "health literacy",
+    "pos": "n.",
+    "root": "健康素養—health literacy",
+    "zh": "健康素養",
+    "ex": "Improving health literacy is key to empowering individuals to make informed health choices.",
+    "cat": "📰 每日新詞：public health"
+  },
+  {
+    "word": "wellbeing",
+    "pos": "n.",
+    "root": "福祉—wellbeing",
+    "zh": "福祉",
+    "ex": "Promoting overall wellbeing is a goal of many public health initiatives.",
+    "cat": "📰 每日新詞：public health"
   }
 ]

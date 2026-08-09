@@ -1,45 +1,45 @@
 {
   "shadowSentences": [
-    "I enjoy reading books in my free time.",
-    "The weather is perfect for a picnic today.",
-    "I like to explore new places on weekends.",
-    "Cooking is one of my favorite hobbies.",
-    "I often listen to music while studying for exams.",
-    "Traveling helps me learn about different cultures.",
-    "I prefer to exercise in the mornings before work.",
-    "My favorite season is autumn because of the colors.",
-    "I find that journaling helps me organize my thoughts.",
-    "Meeting new people at events can be both exciting and intimidating."
+    "I enjoy reading every evening.",
+    "My favorite season is autumn.",
+    "Cooking is a great way to relax.",
+    "Traveling can open your mind to new cultures.",
+    "Listening to music helps me focus while studying.",
+    "Spending time outdoors improves my mood significantly.",
+    "Volunteering at the local shelter is very rewarding.",
+    "Learning a new language can be both fun and challenging.",
+    "Maintaining a balanced diet is key to good health.",
+    "Connecting with friends regularly enhances our relationships."
   ],
   "interviewScenarios": [
     {
-      "topic": "旅行經驗",
+      "topic": "旅行經歷",
       "intro": "You have agreed to take part in a research study about travel experiences.",
       "questions": [
-        "Q1: What is your most memorable travel experience?",
+        "Q1: Can you describe your most memorable travel experience?",
         "Q2: What challenges did you face during that trip?",
-        "Q3: How do you feel travel impacts people's perspectives?",
-        "Q4: What advice would you give to someone planning their first trip?"
+        "Q3: How do you feel traveling impacts personal growth?",
+        "Q4: What advice would you give someone planning their first trip?"
       ]
     },
     {
-      "topic": "飲食習慣",
-      "intro": "You have agreed to take part in a research study about dietary habits.",
+      "topic": "時間管理",
+      "intro": "You have agreed to take part in a research study about time management.",
       "questions": [
-        "Q1: Can you describe your typical daily diet?",
-        "Q2: Have you ever faced any challenges with your eating habits?",
-        "Q3: What do you think about the trend of plant-based diets?",
-        "Q4: What tips would you give for maintaining a healthy diet?"
+        "Q1: How do you typically manage your time during the day?",
+        "Q2: What difficulties do you encounter in managing your schedule?",
+        "Q3: In your opinion, why is effective time management important?",
+        "Q4: What tips would you offer to help others improve their time management skills?"
       ]
     },
     {
-      "topic": "志願服務",
-      "intro": "You have agreed to take part in a research study about volunteering.",
+      "topic": "運動習慣",
+      "intro": "You have agreed to take part in a research study about exercise habits.",
       "questions": [
-        "Q1: Have you ever participated in volunteer work? Describe your experience.",
-        "Q2: What were some challenges you encountered while volunteering?",
-        "Q3: Why do you think volunteering is important for communities?",
-        "Q4: How would you encourage others to get involved in volunteer activities?"
+        "Q1: What kind of exercise do you enjoy the most?",
+        "Q2: Have you ever faced any obstacles to staying active?",
+        "Q3: What benefits do you think regular exercise brings?",
+        "Q4: What suggestions do you have for someone starting a new exercise routine?"
       ]
     }
   ]
