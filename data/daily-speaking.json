@@ -1,45 +1,45 @@
 {
   "shadowSentences": [
-    "I enjoy reading every evening.",
-    "My favorite season is autumn.",
-    "Cooking is a great way to relax.",
-    "Traveling can open your mind to new cultures.",
-    "Listening to music helps me focus while studying.",
-    "Spending time outdoors improves my mood significantly.",
-    "Volunteering at the local shelter is very rewarding.",
-    "Learning a new language can be both fun and challenging.",
-    "Maintaining a balanced diet is key to good health.",
-    "Connecting with friends regularly enhances our relationships."
+    "I love reading books at night.",
+    "She enjoys cooking new recipes every week.",
+    "They often visit the beach during summer vacations.",
+    "He started jogging in the park last month.",
+    "We like to explore new restaurants in the city.",
+    "My brother plays guitar and writes his own songs.",
+    "I often attend workshops to learn new skills.",
+    "She has been volunteering at the animal shelter for years.",
+    "They frequently travel to different countries for adventure.",
+    "He believes that art can inspire change in society."
   ],
   "interviewScenarios": [
     {
-      "topic": "旅行經歷",
-      "intro": "You have agreed to take part in a research study about travel experiences.",
+      "topic": "旅行計劃",
+      "intro": "You have agreed to take part in a research study about travel planning.",
       "questions": [
-        "Q1: Can you describe your most memorable travel experience?",
-        "Q2: What challenges did you face during that trip?",
-        "Q3: How do you feel traveling impacts personal growth?",
+        "Q1: Can you share a memorable travel experience you had?",
+        "Q2: What challenges do you face when planning a trip?",
+        "Q3: What do you think makes for a great travel experience?",
         "Q4: What advice would you give someone planning their first trip?"
       ]
     },
     {
       "topic": "時間管理",
-      "intro": "You have agreed to take part in a research study about time management.",
+      "intro": "You have agreed to participate in a research study about time management.",
       "questions": [
-        "Q1: How do you typically manage your time during the day?",
-        "Q2: What difficulties do you encounter in managing your schedule?",
-        "Q3: In your opinion, why is effective time management important?",
-        "Q4: What tips would you offer to help others improve their time management skills?"
+        "Q1: How do you usually manage your time during busy days?",
+        "Q2: What difficulties do you encounter with time management?",
+        "Q3: In your opinion, why is time management important?",
+        "Q4: What tips would you offer someone struggling with time management?"
       ]
     },
     {
-      "topic": "運動習慣",
-      "intro": "You have agreed to take part in a research study about exercise habits.",
+      "topic": "健身習慣",
+      "intro": "You have agreed to take part in a research study about fitness habits.",
       "questions": [
-        "Q1: What kind of exercise do you enjoy the most?",
-        "Q2: Have you ever faced any obstacles to staying active?",
-        "Q3: What benefits do you think regular exercise brings?",
-        "Q4: What suggestions do you have for someone starting a new exercise routine?"
+        "Q1: What types of exercise do you enjoy the most?",
+        "Q2: Have you ever faced challenges in maintaining a fitness routine?",
+        "Q3: What is your opinion on the importance of physical fitness?",
+        "Q4: What advice would you give to someone starting a fitness journey?"
       ]
     }
   ]

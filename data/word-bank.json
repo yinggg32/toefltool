@@ -6862,5 +6862,101 @@
     "zh": "福祉",
     "ex": "Promoting overall wellbeing is a goal of many public health initiatives.",
     "cat": "📰 每日新詞：public health"
+  },
+  {
+    "word": "governance",
+    "pos": "n.",
+    "root": "govern-統治+ance-狀態",
+    "zh": "治理",
+    "ex": "Effective governance requires transparency and accountability from public officials.",
+    "cat": "📰 每日新詞：political science"
+  },
+  {
+    "word": "citizenship",
+    "pos": "n.",
+    "root": "citizen-公民+ship-狀態",
+    "zh": "公民身份",
+    "ex": "Citizenship grants individuals certain rights and responsibilities under the law.",
+    "cat": "📰 每日新詞：political science"
+  },
+  {
+    "word": "constitution",
+    "pos": "n.",
+    "root": "constitute-構成+tion-狀態",
+    "zh": "憲法",
+    "ex": "The constitution outlines the fundamental principles and framework of a government.",
+    "cat": "📰 每日新詞：political science"
+  },
+  {
+    "word": "election",
+    "pos": "n.",
+    "root": "elect-選擇+ion-行為",
+    "zh": "選舉",
+    "ex": "The upcoming election is expected to draw significant voter turnout.",
+    "cat": "📰 每日新詞：political science"
+  },
+  {
+    "word": "authoritarian",
+    "pos": "adj.",
+    "root": "author-權威+itarian-的",
+    "zh": "專制的",
+    "ex": "Authoritarian regimes often suppress free speech and political dissent.",
+    "cat": "📰 每日新詞：political science"
+  },
+  {
+    "word": "stakeholder",
+    "pos": "n.",
+    "root": "stake-利益+holder-持有者",
+    "zh": "利益相關者",
+    "ex": "Engaging stakeholders is crucial for the success of public policies.",
+    "cat": "📰 每日新詞：political science"
+  },
+  {
+    "word": "constituent",
+    "pos": "n.",
+    "root": "constitute-構成+ent-人",
+    "zh": "選民",
+    "ex": "Constituents have the right to voice their opinions to their elected representatives.",
+    "cat": "📰 每日新詞：political science"
+  },
+  {
+    "word": "politicization",
+    "pos": "n.",
+    "root": "politic-政治化+ization-過程",
+    "zh": "政治化",
+    "ex": "The politicization of social issues can polarize public opinion.",
+    "cat": "📰 每日新詞：political science"
+  },
+  {
+    "word": "multilateral",
+    "pos": "adj.",
+    "root": "multi-多+later-方面+al-的",
+    "zh": "多邊的",
+    "ex": "Multilateral agreements are essential for addressing global challenges.",
+    "cat": "📰 每日新詞：political science"
+  },
+  {
+    "word": "reconciliation",
+    "pos": "n.",
+    "root": "re-再次+cili-調和+ation-行為",
+    "zh": "和解",
+    "ex": "Reconciliation efforts are vital for healing divisions within society.",
+    "cat": "📰 每日新詞：political science"
+  },
+  {
+    "word": "voter turnout",
+    "pos": "n.",
+    "root": "voter-選民+turnout-出席率",
+    "zh": "選民投票率",
+    "ex": "High voter turnout is often seen as a sign of a healthy democracy.",
+    "cat": "📰 每日新詞：political science"
+  },
+  {
+    "word": "military",
+    "pos": "adj./n.",
+    "root": "milit-軍事的+ary-的",
+    "zh": "軍事的",
+    "ex": "Military intervention can escalate tensions in conflict zones.",
+    "cat": "📰 每日新詞：political science"
   }
 ]

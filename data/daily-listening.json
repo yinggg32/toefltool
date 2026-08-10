@@ -1,116 +1,116 @@
 {
   "chooseResponse": [
     {
-      "q": "Did you finish the project report?",
+      "q": "What's your favorite study spot on campus?",
       "options": [
-        "Yes, I submitted it",
-        "No, I need more time",
-        "I forgot about it",
-        "I'm almost done"
+        "The library is great.",
+        "I prefer studying at home.",
+        "The coffee shop is cozy.",
+        "I don't study much."
       ],
       "correctIndex": 0
     }
   ],
   "conversation": {
-    "transcript": "Student: Hey, have you talked to the professor about the group project?\nAdvisor: Yes, I met with him yesterday. He had some good suggestions.\nStudent: What did he say?\nAdvisor: He thinks we should focus more on the research aspect.",
+    "transcript": "Student: Hey, have you started working on the group project?\nProfessor: Yes, we have a meeting scheduled for tomorrow.\nStudent: I heard we need to present next week.\nProfessor: That's right. Make sure to prepare your sections well.",
     "questions": [
       {
-        "q": "What did the professor suggest?",
+        "q": "What is the main topic of discussion?",
         "options": [
-          "Focus on research",
-          "Use more visuals",
-          "Make it longer",
-          "Change the topic"
+          "A group project",
+          "A class schedule",
+          "An exam date",
+          "A campus event"
         ],
         "correctIndex": 0,
-        "explain": "教授建議專注於研究方面。"
+        "explain": "討論的主要主題是小組專案。"
       },
       {
-        "q": "When did the advisor meet the professor?",
+        "q": "When is the presentation due?",
         "options": [
-          "Yesterday",
-          "Last week",
-          "Today",
-          "Tomorrow"
+          "Tomorrow",
+          "Next week",
+          "In two weeks",
+          "Later this month"
         ],
-        "correctIndex": 0,
-        "explain": "顧問昨天見了教授。"
+        "correctIndex": 1,
+        "explain": "報告的截止日期是下星期。"
       }
     ]
   },
   "announcement": {
-    "transcript": "Attention students! The library will be closed for maintenance this Saturday. Please plan accordingly and ensure you have all your materials before then. We apologize for any inconvenience this may cause.",
+    "transcript": "Attention students: The campus will be hosting a health fair this Friday from 10 AM to 4 PM in the Student Center. Various health organizations will be present to provide free screenings and information. Don't miss this opportunity to learn more about your health!",
     "questions": [
       {
-        "q": "Why will the library be closed?",
+        "q": "What event is being announced?",
         "options": [
-          "For maintenance",
-          "For cleaning",
-          "For an event",
-          "For inventory"
+          "A health fair",
+          "A sports event",
+          "A music concert",
+          "An art exhibition"
         ],
         "correctIndex": 0,
-        "explain": "圖書館將因維修而關閉。"
+        "explain": "公告的事件是健康博覽會。"
       },
       {
-        "q": "When is the library closure?",
+        "q": "When will the health fair take place?",
         "options": [
-          "This Saturday",
-          "Next Monday",
-          "This Thursday",
-          "Next weekend"
+          "Tomorrow",
+          "This Friday",
+          "Next month",
+          "Next week"
         ],
-        "correctIndex": 0,
-        "explain": "圖書館將在本周六關閉。"
+        "correctIndex": 1,
+        "explain": "健康博覽會將於本星期五舉行。"
       }
     ]
   },
   "talk": {
-    "transcript": "Today, I want to discuss the concept of biodiversity. Biodiversity refers to the variety of life found on Earth and the natural patterns it forms. It includes the diversity of species, ecosystems, and genetic variations. High biodiversity is crucial for ecosystem stability and resilience. It provides essential services such as clean air and water, pollination of plants, and regulation of climate. However, human activities like deforestation, pollution, and climate change are threatening biodiversity around the globe. Protecting and preserving biodiversity is vital for sustaining life and maintaining the balance of our ecosystems.",
+    "transcript": "Today, we will discuss the concept of ecological niches in ecosystems. An ecological niche refers to the role or function of an organism within its environment, including its habitat, resource use, and interactions with other species. For example, a bee serves as a pollinator, while a lion may be a top predator. Understanding niches helps us comprehend biodiversity and the interconnectedness of life forms, which is crucial for conservation efforts. Each species occupies a unique niche that minimizes competition and promotes ecosystem stability.",
     "questions": [
       {
-        "q": "What is biodiversity?",
+        "q": "What is the main focus of the talk?",
         "options": [
-          "Variety of life",
-          "Types of pollution",
-          "Ecosystem services",
-          "Climate change effects"
+          "Ecological niches",
+          "Plant growth",
+          "Animal behavior",
+          "Climate change"
         ],
         "correctIndex": 0,
-        "explain": "生物多樣性是地球上生命的多樣性。"
+        "explain": "講座的主要焦點是生態位。"
       },
       {
-        "q": "Why is high biodiversity important?",
+        "q": "What example is given for an organism's niche?",
         "options": [
-          "For species extinction",
-          "For ecosystem balance",
-          "For urban development",
-          "For technological growth"
+          "A tree producing oxygen",
+          "A bee as a pollinator",
+          "A fish swimming",
+          "A rock on the ground"
         ],
         "correctIndex": 1,
-        "explain": "高生物多樣性對生態系統的穩定性和韌性至關重要。"
+        "explain": "舉的例子是蜜蜂作為授粉者。"
       },
       {
-        "q": "What activities threaten biodiversity?",
+        "q": "Why is understanding niches important?",
         "options": [
-          "Sustainable farming",
-          "Wildlife preservation",
-          "Deforestation",
-          "Renewable energy"
+          "For studying human behavior",
+          "For conservation efforts",
+          "For improving technology",
+          "For cooking better food"
         ],
-        "correctIndex": 2,
-        "explain": "人類活動如砍伐森林威脅著生物多樣性。"
+        "correctIndex": 1,
+        "explain": "理解生態位對保護工作非常重要。"
       },
       {
-        "q": "What services does biodiversity provide?",
+        "q": "What does a lion represent in the context of niches?",
         "options": [
-          "Transportation",
-          "Health care",
-          "Ecosystem services",
-          "Education"
+          "A pollinator",
+          "A herbivore",
+          "A top predator",
+          "A decomposer"
         ],
         "correctIndex": 2,
-        "explain": "生物多樣性提供生態系統服務，例如清潔的空氣和水。"
+        "explain": "在生態位的背景下，獅子代表的是頂級掠食者。"
       }
     ]
   }

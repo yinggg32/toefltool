@@ -2,107 +2,113 @@
   "cloze": {
     "segments": [
       {
-        "text": "The concept of photosynthesis is fundamental to understanding how plants "
+        "text": "The process of photosynthesis is essential for plant "
       },
       {
-        "blank": "ener"
+        "blank": "sur"
       },
       {
-        "text": "gy is produced. During this process, plants take in carbon dioxide and water. Using sunlight, they convert these into glucose and "
+        "text": "vival. During photosynthesis, plants utilize sunlight to convert carbon "
       },
       {
-        "blank": "oxy"
+        "blank": "dioxid"
       },
       {
-        "text": "gen. The glucose serves as food for the plant, while oxygen is released into the atmosphere. This process not only sustains plant life, but it also "
+        "text": "e and water into glucose and oxygen. This process occurs mainly in the "
       },
       {
-        "blank": "supp"
+        "blank": "chlo"
       },
       {
-        "text": "lies energy for various organisms, including humans. Without photosynthesis, life as we know it would not exist. It is essential for the maintenance of "
+        "text": "rophyll-containing structures known as chloroplasts. In the presence of light, the "
       },
       {
-        "blank": "ecosys"
+        "blank": "pigm"
       },
       {
-        "text": "tems and the overall balance of nature. Thus, understanding photosynthesis is crucial for both biology and environmental science."
+        "text": "ents absorb light energy, which drives the chemical reactions necessary for the transformation of "
+      },
+      {
+        "blank": "nutri"
+      },
+      {
+        "text": "ents. Understanding photosynthesis is crucial for agriculture and environmental science."
       }
     ]
   },
   "academic": {
-    "passage": "Photosynthesis is a vital process used by plants and some microorganisms to convert light energy into chemical energy. It is the foundation of the food chain, supporting life on Earth. During photosynthesis, carbon dioxide and water are transformed into glucose and oxygen through the absorption of sunlight. This process occurs primarily in the chloroplasts of plant cells, where chlorophyll captures light energy. Understanding photosynthesis is crucial for addressing environmental challenges, such as climate change and food production.",
+    "passage": "Photosynthesis is a fundamental biological process in which light energy is converted into chemical energy by plants, algae, and some bacteria. This process primarily occurs in the chloroplasts of plant cells. Through photosynthesis, these organisms produce glucose from carbon dioxide and water, releasing oxygen as a byproduct. The overall reaction can be summarized as 6CO2 + 6H2O → C6H12O6 + 6O2. This remarkable process not only sustains plant life but also supports the entire ecosystem by providing oxygen and serving as the foundation of the food chain.",
     "questions": [
       {
         "q": "What is the main idea of the passage?",
         "options": [
-          "Photosynthesis is crucial for life on Earth.",
-          "Plants produce glucose and oxygen.",
-          "Chlorophyll captures light energy.",
-          "Environmental challenges affect photosynthesis."
+          "Photosynthesis is crucial for ecosystems.",
+          "Plants can survive without photosynthesis.",
+          "Photosynthesis occurs in all organisms.",
+          "Glucose production happens without light."
         ],
         "correctIndex": 0,
-        "explain": "本段落的主題是光合作用對地球生命的重要性。"
+        "explain": "這段文字的主旨是解釋光合作用對生態系統的重要性。"
       },
       {
-        "q": "What substances are converted during photosynthesis?",
+        "q": "Where does photosynthesis primarily occur in plants?",
         "options": [
-          "Glucose and carbon dioxide",
-          "Water and oxygen",
-          "Carbon dioxide and water",
-          "Light and glucose"
+          "In the nucleus.",
+          "In the chloroplasts.",
+          "In the cytoplasm.",
+          "In the roots."
         ],
-        "correctIndex": 2,
-        "explain": "光合作用涉及二氧化碳和水轉化為葡萄糖和氧氣。"
+        "correctIndex": 1,
+        "explain": "光合作用主要發生在植物的葉綠體中。"
       },
       {
-        "q": "What can be inferred about chlorophyll?",
+        "q": "What can be inferred about the role of photosynthesis in the ecosystem?",
         "options": [
-          "It is not important for photosynthesis.",
-          "It is found in all plant cells.",
-          "It captures light energy for photosynthesis.",
-          "It only exists in microorganisms."
+          "It is only important for plants.",
+          "It contributes to the oxygen supply.",
+          "It eliminates the need for sunlight.",
+          "It has no effect on food chains."
         ],
-        "correctIndex": 2,
-        "explain": "可以推斷，葉綠素在光合作用中捕獲光能，是至關重要的。"
+        "correctIndex": 1,
+        "explain": "可以推斷出，光合作用對生態系統的氧氣供應非常重要。"
       },
       {
-        "q": "What does the word 'transform' mean in the context of the passage?",
+        "q": "What does the term 'chloroplasts' refer to?",
         "options": [
-          "Change completely",
-          "Create new life",
-          "Transform into energy",
-          "Break down substances"
+          "Plant pigments.",
+          "Cell structures for photosynthesis.",
+          "Types of bacteria.",
+          "Forms of energy."
         ],
-        "correctIndex": 0,
-        "explain": "在本段落中，'transform' 的意思是徹底改變物質的形式。"
+        "correctIndex": 1,
+        "explain": "'葉綠體'指的是進行光合作用的細胞結構。"
       }
     ]
   },
   "daily": {
-    "passage": "Attention all students! The campus library will be closed for maintenance this Saturday. We apologize for any inconvenience this may cause. Please plan accordingly and ensure you have all necessary materials before then.",
+    "passage": "Attention students! The library will have extended hours during exam week. Starting Monday, the library will be open from 8 AM to midnight. Make sure to take advantage of this extra time to study and prepare for your exams.",
     "questions": [
       {
-        "q": "When will the campus library be closed?",
+        "q": "What are the new hours for the library during exam week?",
         "options": [
-          "This Saturday",
-          "Next Sunday",
-          "This Friday",
-          "Next Monday"
-        ],
-        "correctIndex": 0,
-        "explain": "圖書館將於本週六關閉，根據公告。"
-      },
-      {
-        "q": "What should students do before the library closes?",
-        "options": [
-          "Return books",
-          "Plan accordingly",
-          "Attend an event",
-          "Meet with professors"
+          "8 AM to 6 PM",
+          "8 AM to midnight",
+          "10 AM to 10 PM",
+          "9 AM to 9 PM"
         ],
         "correctIndex": 1,
-        "explain": "學生應該在圖書館關閉之前做好計劃，以確保所需材料齊全。"
+        "explain": "在考試周，圖書館的開放時間是早上8點到午夜。"
+      },
+      {
+        "q": "When do the extended hours begin?",
+        "options": [
+          "Next week",
+          "Tomorrow",
+          "Starting Monday",
+          "This weekend"
+        ],
+        "correctIndex": 2,
+        "explain": "延長的開放時間從下星期一開始。"
       }
     ]
   }
