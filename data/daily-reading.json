@@ -2,113 +2,110 @@
   "cloze": {
     "segments": [
       {
-        "text": "The process of photosynthesis is essential for plant "
+        "text": "The theory of enl"
       },
       {
-        "blank": "sur"
+        "blank": "ightenment"
       },
       {
-        "text": "vival. During photosynthesis, plants utilize sunlight to convert carbon "
+        "text": " emerged during the 18th century, characterized by an emphasis on reason and "
       },
       {
-        "blank": "dioxid"
+        "blank": "rational"
       },
       {
-        "text": "e and water into glucose and oxygen. This process occurs mainly in the "
+        "text": " thought. Enlightenment thinkers challenged traditional authority and "
       },
       {
-        "blank": "chlo"
+        "blank": "advoca"
       },
       {
-        "text": "rophyll-containing structures known as chloroplasts. In the presence of light, the "
+        "text": "ted for individual rights. This movement significantly influenced political "
       },
       {
-        "blank": "pigm"
+        "blank": "philo"
       },
       {
-        "text": "ents absorb light energy, which drives the chemical reactions necessary for the transformation of "
+        "text": "sophy and science, as ideas about democracy and human rights began to "
       },
       {
-        "blank": "nutri"
-      },
-      {
-        "text": "ents. Understanding photosynthesis is crucial for agriculture and environmental science."
+        "blank": "emerge."
       }
     ]
   },
   "academic": {
-    "passage": "Photosynthesis is a fundamental biological process in which light energy is converted into chemical energy by plants, algae, and some bacteria. This process primarily occurs in the chloroplasts of plant cells. Through photosynthesis, these organisms produce glucose from carbon dioxide and water, releasing oxygen as a byproduct. The overall reaction can be summarized as 6CO2 + 6H2O → C6H12O6 + 6O2. This remarkable process not only sustains plant life but also supports the entire ecosystem by providing oxygen and serving as the foundation of the food chain.",
+    "passage": "The Enlightenment was a pivotal movement in Western history that emphasized reason, science, and individual rights. Thinkers like John Locke and Voltaire advocated for the questioning of traditional authority. This period saw the rise of new ideas about governance, which laid the foundations for modern democracies. The impact of the Enlightenment can still be felt today, as its principles continue to influence contemporary political and social thought.",
     "questions": [
       {
-        "q": "What is the main idea of the passage?",
+        "q": "What was the main focus of the Enlightenment?",
         "options": [
-          "Photosynthesis is crucial for ecosystems.",
-          "Plants can survive without photosynthesis.",
-          "Photosynthesis occurs in all organisms.",
-          "Glucose production happens without light."
+          "Reason and individual rights",
+          "Traditional authority",
+          "Religious beliefs",
+          "Economic stability"
         ],
         "correctIndex": 0,
-        "explain": "這段文字的主旨是解釋光合作用對生態系統的重要性。"
+        "explain": "這是因為啟蒙運動強調理性與個人權利。"
       },
       {
-        "q": "Where does photosynthesis primarily occur in plants?",
+        "q": "Which thinker is mentioned as an advocate of Enlightenment ideas?",
         "options": [
-          "In the nucleus.",
-          "In the chloroplasts.",
-          "In the cytoplasm.",
-          "In the roots."
+          "John Locke",
+          "Karl Marx",
+          "Rene Descartes",
+          "Friedrich Nietzsche"
         ],
-        "correctIndex": 1,
-        "explain": "光合作用主要發生在植物的葉綠體中。"
+        "correctIndex": 0,
+        "explain": "約翰·洛克被提及為啟蒙思想的倡導者。"
       },
       {
-        "q": "What can be inferred about the role of photosynthesis in the ecosystem?",
+        "q": "What can be inferred about the influence of the Enlightenment?",
         "options": [
-          "It is only important for plants.",
-          "It contributes to the oxygen supply.",
-          "It eliminates the need for sunlight.",
-          "It has no effect on food chains."
+          "It only affected 18th-century politics.",
+          "Its principles are still relevant today.",
+          "It was universally accepted at the time.",
+          "It had no impact on science."
         ],
         "correctIndex": 1,
-        "explain": "可以推斷出，光合作用對生態系統的氧氣供應非常重要。"
+        "explain": "這個推論是因為啟蒙運動的原則至今仍然有影響力。"
       },
       {
-        "q": "What does the term 'chloroplasts' refer to?",
+        "q": "What does the word 'advocated' in the passage most closely mean?",
         "options": [
-          "Plant pigments.",
-          "Cell structures for photosynthesis.",
-          "Types of bacteria.",
-          "Forms of energy."
+          "Supported",
+          "Ignored",
+          "Criticized",
+          "Opposed"
         ],
-        "correctIndex": 1,
-        "explain": "'葉綠體'指的是進行光合作用的細胞結構。"
+        "correctIndex": 0,
+        "explain": "在這段文字中，'advocated'的意思是支持。"
       }
     ]
   },
   "daily": {
-    "passage": "Attention students! The library will have extended hours during exam week. Starting Monday, the library will be open from 8 AM to midnight. Make sure to take advantage of this extra time to study and prepare for your exams.",
+    "passage": "The university will host a guest lecture on climate change this Friday at 3 PM in the main auditorium. All students are encouraged to attend. Refreshments will be provided.",
     "questions": [
       {
-        "q": "What are the new hours for the library during exam week?",
+        "q": "What event is happening this Friday?",
         "options": [
-          "8 AM to 6 PM",
-          "8 AM to midnight",
-          "10 AM to 10 PM",
-          "9 AM to 9 PM"
+          "A guest lecture on climate change",
+          "A sports event",
+          "Final exams",
+          "A music concert"
         ],
-        "correctIndex": 1,
-        "explain": "在考試周，圖書館的開放時間是早上8點到午夜。"
+        "correctIndex": 0,
+        "explain": "因為公告中提到這個星期五有關於氣候變化的客座講座。"
       },
       {
-        "q": "When do the extended hours begin?",
+        "q": "Where will the lecture take place?",
         "options": [
-          "Next week",
-          "Tomorrow",
-          "Starting Monday",
-          "This weekend"
+          "In the main auditorium",
+          "In a classroom",
+          "Online",
+          "In the library"
         ],
-        "correctIndex": 2,
-        "explain": "延長的開放時間從下星期一開始。"
+        "correctIndex": 0,
+        "explain": "公告中指出講座將在主講堂舉行。"
       }
     ]
   }

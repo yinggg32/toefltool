@@ -6958,5 +6958,53 @@
     "zh": "軍事的",
     "ex": "Military intervention can escalate tensions in conflict zones.",
     "cat": "📰 每日新詞：political science"
+  },
+  {
+    "word": "archeological",
+    "pos": "adj.",
+    "root": "archeo-古老的+logy-學科",
+    "zh": "考古學的",
+    "ex": "Archeological findings can provide invaluable information about ancient civilizations.",
+    "cat": "📰 每日新詞：anthropology"
+  },
+  {
+    "word": "customs",
+    "pos": "n.",
+    "root": "custom-習俗—",
+    "zh": "習俗",
+    "ex": "Customs reflect the values and beliefs of a culture.",
+    "cat": "📰 每日新詞：anthropology"
+  },
+  {
+    "word": "material",
+    "pos": "adj./n.",
+    "root": "mater-物質+ial-屬於",
+    "zh": "物質的",
+    "ex": "Material culture encompasses the physical objects that people create and use.",
+    "cat": "📰 每日新詞：anthropology"
+  },
+  {
+    "word": "initiation",
+    "pos": "n.",
+    "root": "init-開始+ation-行為",
+    "zh": "啟蒙",
+    "ex": "Initiation rites are important in many cultures as they signify the transition to adulthood.",
+    "cat": "📰 每日新詞：anthropology"
+  },
+  {
+    "word": "emics",
+    "pos": "n.",
+    "root": "emic-內部的—",
+    "zh": "內部觀點",
+    "ex": "Emics provide insights from within a culture, offering unique perspectives on social practices.",
+    "cat": "📰 每日新詞：anthropology"
+  },
+  {
+    "word": "etics",
+    "pos": "n.",
+    "root": "etic-外部的—",
+    "zh": "外部觀點",
+    "ex": "Etics allow researchers to analyze cultural phenomena from an outside perspective.",
+    "cat": "📰 每日新詞：anthropology"
   }
 ]

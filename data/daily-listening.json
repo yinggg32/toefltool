@@ -1,116 +1,116 @@
 {
   "chooseResponse": [
     {
-      "q": "What's your favorite study spot on campus?",
+      "q": "Are you ready for the exam?",
       "options": [
-        "The library is great.",
-        "I prefer studying at home.",
-        "The coffee shop is cozy.",
-        "I don't study much."
+        "Yes, I studied hard!",
+        "No, I need more time.",
+        "I haven't started yet.",
+        "I'm feeling anxious."
       ],
       "correctIndex": 0
     }
   ],
   "conversation": {
-    "transcript": "Student: Hey, have you started working on the group project?\nProfessor: Yes, we have a meeting scheduled for tomorrow.\nStudent: I heard we need to present next week.\nProfessor: That's right. Make sure to prepare your sections well.",
+    "transcript": "Student: Hey, did you finish the reading assignment for class?\nProfessor: Yes, I did! It was really interesting, especially the part about communication theories.\nStudent: I found it a bit challenging. Any tips on how to understand it better?\nProfessor: Sure, I recommend discussing it with classmates or coming to my office hours for clarification.",
     "questions": [
       {
-        "q": "What is the main topic of discussion?",
+        "q": "What was the professor's suggestion?",
         "options": [
-          "A group project",
-          "A class schedule",
-          "An exam date",
-          "A campus event"
-        ],
-        "correctIndex": 0,
-        "explain": "討論的主要主題是小組專案。"
-      },
-      {
-        "q": "When is the presentation due?",
-        "options": [
-          "Tomorrow",
-          "Next week",
-          "In two weeks",
-          "Later this month"
+          "To finish the assignment alone.",
+          "To discuss with classmates.",
+          "To ignore the assignment.",
+          "To read a different book."
         ],
         "correctIndex": 1,
-        "explain": "報告的截止日期是下星期。"
+        "explain": "教授建議學生與同學討論以加深理解。"
+      },
+      {
+        "q": "What topic did the reading assignment cover?",
+        "options": [
+          "Communication theories",
+          "Historical events",
+          "Mathematical concepts",
+          "Scientific experiments"
+        ],
+        "correctIndex": 0,
+        "explain": "閱讀作業的主題是交流理論。"
       }
     ]
   },
   "announcement": {
-    "transcript": "Attention students: The campus will be hosting a health fair this Friday from 10 AM to 4 PM in the Student Center. Various health organizations will be present to provide free screenings and information. Don't miss this opportunity to learn more about your health!",
+    "transcript": "Attention students! The library will be closed for maintenance this Saturday and Sunday. Please plan your study sessions accordingly. We apologize for any inconvenience this may cause. Thank you for your understanding.",
     "questions": [
       {
-        "q": "What event is being announced?",
+        "q": "When will the library be closed?",
         "options": [
-          "A health fair",
-          "A sports event",
-          "A music concert",
-          "An art exhibition"
-        ],
-        "correctIndex": 0,
-        "explain": "公告的事件是健康博覽會。"
-      },
-      {
-        "q": "When will the health fair take place?",
-        "options": [
-          "Tomorrow",
-          "This Friday",
-          "Next month",
-          "Next week"
+          "Next weekend",
+          "This Saturday and Sunday",
+          "All week",
+          "Only on Sunday"
         ],
         "correctIndex": 1,
-        "explain": "健康博覽會將於本星期五舉行。"
+        "explain": "圖書館將在本週六和週日關閉。"
+      },
+      {
+        "q": "What is the reason for the library closure?",
+        "options": [
+          "Special event",
+          "Maintenance work",
+          "Holiday",
+          "Inventory check"
+        ],
+        "correctIndex": 1,
+        "explain": "圖書館關閉的原因是維護工作。"
       }
     ]
   },
   "talk": {
-    "transcript": "Today, we will discuss the concept of ecological niches in ecosystems. An ecological niche refers to the role or function of an organism within its environment, including its habitat, resource use, and interactions with other species. For example, a bee serves as a pollinator, while a lion may be a top predator. Understanding niches helps us comprehend biodiversity and the interconnectedness of life forms, which is crucial for conservation efforts. Each species occupies a unique niche that minimizes competition and promotes ecosystem stability.",
+    "transcript": "Today, we will discuss the concept of sustainability. Sustainability refers to meeting our own needs without compromising the ability of future generations to meet theirs. It encompasses environmental health, economic viability, and social equity. For instance, using renewable energy sources reduces dependence on fossil fuels, which helps combat climate change. By practicing sustainability, we can preserve natural resources and ensure a livable planet for future generations. It's an essential principle that impacts everything from individual choices to large-scale policies.",
     "questions": [
       {
-        "q": "What is the main focus of the talk?",
+        "q": "What does sustainability aim to achieve?",
         "options": [
-          "Ecological niches",
-          "Plant growth",
-          "Animal behavior",
-          "Climate change"
-        ],
-        "correctIndex": 0,
-        "explain": "講座的主要焦點是生態位。"
-      },
-      {
-        "q": "What example is given for an organism's niche?",
-        "options": [
-          "A tree producing oxygen",
-          "A bee as a pollinator",
-          "A fish swimming",
-          "A rock on the ground"
+          "Maximize profits",
+          "Preserve future resources",
+          "Ignore environmental issues",
+          "Increase population growth"
         ],
         "correctIndex": 1,
-        "explain": "舉的例子是蜜蜂作為授粉者。"
+        "explain": "可持續性的目標是保護未來的資源。"
       },
       {
-        "q": "Why is understanding niches important?",
+        "q": "Which energy sources are emphasized in sustainability?",
         "options": [
-          "For studying human behavior",
-          "For conservation efforts",
-          "For improving technology",
-          "For cooking better food"
-        ],
-        "correctIndex": 1,
-        "explain": "理解生態位對保護工作非常重要。"
-      },
-      {
-        "q": "What does a lion represent in the context of niches?",
-        "options": [
-          "A pollinator",
-          "A herbivore",
-          "A top predator",
-          "A decomposer"
+          "Nuclear power",
+          "Fossil fuels",
+          "Renewable energy",
+          "Coal"
         ],
         "correctIndex": 2,
-        "explain": "在生態位的背景下，獅子代表的是頂級掠食者。"
+        "explain": "可持續性強調使用可再生能源。"
+      },
+      {
+        "q": "What does sustainability include?",
+        "options": [
+          "Only environmental concerns",
+          "Just economic factors",
+          "Environmental health, economic viability, and social equity",
+          "Only social issues"
+        ],
+        "correctIndex": 2,
+        "explain": "可持續性包括環境健康、經濟可行性和社會公平。"
+      },
+      {
+        "q": "How does sustainability affect future generations?",
+        "options": [
+          "It has no impact",
+          "It can enhance their quality of life",
+          "It may reduce resources",
+          "It increases pollution"
+        ],
+        "correctIndex": 1,
+        "explain": "可持續性可以改善未來世代的生活品質。"
       }
     ]
   }
