@@ -2,128 +2,125 @@
   "buildSentences": [
     {
       "words": [
-        "the",
         "students",
-        "in",
+        "should",
+        "review",
         "the",
-        "classroom",
-        "were",
-        "reading",
-        "books"
+        "material",
+        "before",
+        "the",
+        "exam"
       ],
-      "display": "The students in the classroom were reading books."
+      "display": "Students should review the material before the exam."
     },
     {
       "words": [
         "the",
-        "team",
-        "worked",
-        "hard",
+        "library",
+        "is",
+        "a",
+        "quiet",
+        "place",
         "to",
-        "complete",
-        "the",
-        "project"
+        "study"
       ],
-      "display": "The team worked hard to complete the project."
-    },
-    {
-      "words": [
-        "during",
-        "the",
-        "summer",
-        "we",
-        "traveled",
-        "to",
-        "several",
-        "countries"
-      ],
-      "display": "During the summer we traveled to several countries."
-    },
-    {
-      "words": [
-        "he",
-        "decided",
-        "to",
-        "join",
-        "the",
-        "study",
-        "group",
-        "for",
-        "better",
-        "understanding"
-      ],
-      "display": "He decided to join the study group for better understanding."
+      "display": "The library is a quiet place to study."
     },
     {
       "words": [
         "the",
         "research",
-        "findings",
-        "were",
-        "presented",
-        "at",
-        "the",
-        "conference"
-      ],
-      "display": "The research findings were presented at the conference."
-    },
-    {
-      "words": [
-        "she",
-        "enjoyed",
-        "cooking",
-        "various",
-        "dishes",
-        "from",
-        "different",
-        "cultures"
-      ],
-      "display": "She enjoyed cooking various dishes from different cultures."
-    },
-    {
-      "words": [
-        "the",
+        "team",
+        "discovered",
+        "a",
         "new",
-        "policy",
-        "will",
-        "begin",
+        "species",
+        "of",
+        "plant"
+      ],
+      "display": "The research team discovered a new species of plant."
+    },
+    {
+      "words": [
+        "studying",
+        "effectively",
+        "requires",
+        "good",
+        "time",
+        "management",
+        "and",
+        "focus"
+      ],
+      "display": "Studying effectively requires good time management and focus."
+    },
+    {
+      "words": [
+        "it",
+        "is",
+        "important",
         "to",
         "take",
-        "effect",
-        "next",
-        "month"
+        "breaks",
+        "while",
+        "studying"
       ],
-      "display": "The new policy will begin to take effect next month."
+      "display": "It is important to take breaks while studying."
     },
     {
       "words": [
         "the",
         "professor",
-        "encouraged",
-        "us",
-        "to",
-        "ask",
-        "questions",
-        "during",
-        "lectures"
+        "emphasized",
+        "the",
+        "need",
+        "for",
+        "critical",
+        "thinking"
       ],
-      "display": "The professor encouraged us to ask questions during lectures."
+      "display": "The professor emphasized the need for critical thinking."
+    },
+    {
+      "words": [
+        "group",
+        "projects",
+        "can",
+        "enhance",
+        "teamwork",
+        "and",
+        "collaboration",
+        "skills"
+      ],
+      "display": "Group projects can enhance teamwork and collaboration skills."
+    },
+    {
+      "words": [
+        "students",
+        "should",
+        "participate",
+        "in",
+        "extracurricular",
+        "activities",
+        "for",
+        "personal",
+        "growth"
+      ],
+      "display": "Students should participate in extracurricular activities for personal growth."
     }
   ],
   "emailPrompts": [
-    "寄信給宿舍辦公室，詢問關於房間維修的狀況。",
-    "寄信給圖書館，請求延長書籍的歸還期限。",
-    "寄信給社團，表達對下次活動的興趣並請求更多資訊。",
-    "寄信給客戶服務，反映購買商品的問題並要求退款。",
-    "寄信給教授，請求指導意見以改善論文的結構。",
-    "寄信給校園健康中心，詢問疫苗接種的時間安排。"
+    "寫信給宿舍辦公室，請求更換房間的理由是因為室友的生活習慣影響學業。",
+    "寄信給圖書館管理員，詢問關於續借書籍的規定。",
+    "寫信給俱樂部主席，表達想參加下一次活動的興趣。",
+    "寄信給客服，反映最近購買的產品出現問題，請求更換或退款。",
+    "寫信給教授，請求延後提交作業的截止日期，因為近期遭遇個人困難。",
+    "寄信給實習指導老師，詢問關於實習報告的具體要求。"
   ],
   "discussionPrompts": [
-    "教授問：「你認為人工智慧對未來工作的影響是正面還是負面？」",
-    "教授問：「對於可持續發展，個人行為與政府政策的影響哪個更大？」",
-    "教授問：「在數位時代，傳統媒體是否仍然具有公信力？」",
-    "教授問：「社交媒體對青少年心理健康的影響是什麼？」",
-    "教授問：「全球化是否使文化多樣性受到威脅？」",
-    "教授問：「科技進步是否會取代人類的創造力？」"
+    "教授問：「文化差異如何影響國際溝通？」",
+    "教授問：「科技發展對教育的影響是正面還是負面？」",
+    "教授問：「環境保護與經濟發展之間的平衡應如何達成？」",
+    "教授問：「社交媒體對人際關係的影響是什麼？」",
+    "教授問：「全球化是否會消滅當地文化？」",
+    "教授問：「大學教育應該更加注重實用技能還是理論知識？」"
   ]
 }

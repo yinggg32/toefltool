@@ -1,116 +1,116 @@
 {
   "chooseResponse": [
     {
-      "q": "Are you ready for the exam?",
+      "q": "What did you think of the lecture?",
       "options": [
-        "Yes, I studied hard!",
-        "No, I need more time.",
-        "I haven't started yet.",
-        "I'm feeling anxious."
+        "It was very informative.",
+        "I didn't understand much.",
+        "It was too long.",
+        "I loved the examples."
       ],
       "correctIndex": 0
     }
   ],
   "conversation": {
-    "transcript": "Student: Hey, did you finish the reading assignment for class?\nProfessor: Yes, I did! It was really interesting, especially the part about communication theories.\nStudent: I found it a bit challenging. Any tips on how to understand it better?\nProfessor: Sure, I recommend discussing it with classmates or coming to my office hours for clarification.",
+    "transcript": "Student: Did you see the announcement about the study group?\nAdvisor: Yes, I did. Are you planning to join?\nStudent: I think so, but I’m not sure if I have enough time.\nAdvisor: It’s a great way to prepare for the exams, you should consider it.",
     "questions": [
       {
-        "q": "What was the professor's suggestion?",
+        "q": "What is the main topic of the conversation?",
         "options": [
-          "To finish the assignment alone.",
-          "To discuss with classmates.",
-          "To ignore the assignment.",
-          "To read a different book."
-        ],
-        "correctIndex": 1,
-        "explain": "教授建議學生與同學討論以加深理解。"
-      },
-      {
-        "q": "What topic did the reading assignment cover?",
-        "options": [
-          "Communication theories",
-          "Historical events",
-          "Mathematical concepts",
-          "Scientific experiments"
+          "Study group announcement",
+          "Exam preparation",
+          "Time management",
+          "Lecture attendance"
         ],
         "correctIndex": 0,
-        "explain": "閱讀作業的主題是交流理論。"
+        "explain": "對話的主要主題是關於學習小組的通知。"
+      },
+      {
+        "q": "What does the advisor suggest?",
+        "options": [
+          "Join the study group",
+          "Skip the exams",
+          "Focus on time management",
+          "Attend more lectures"
+        ],
+        "correctIndex": 0,
+        "explain": "顧問建議學生加入學習小組。"
       }
     ]
   },
   "announcement": {
-    "transcript": "Attention students! The library will be closed for maintenance this Saturday and Sunday. Please plan your study sessions accordingly. We apologize for any inconvenience this may cause. Thank you for your understanding.",
+    "transcript": "Attention students! There will be a guest speaker series every Thursday at 5 PM in the main auditorium. This week, we will host Dr. Jenkins, a renowned author and historian, who will discuss the impact of the Renaissance on modern society. Don’t miss this opportunity to gain insights from an expert.",
     "questions": [
       {
-        "q": "When will the library be closed?",
+        "q": "Who is the guest speaker this week?",
         "options": [
-          "Next weekend",
-          "This Saturday and Sunday",
-          "All week",
-          "Only on Sunday"
+          "Dr. Smith",
+          "Dr. Johnson",
+          "Dr. Jenkins",
+          "Dr. Lee"
         ],
-        "correctIndex": 1,
-        "explain": "圖書館將在本週六和週日關閉。"
+        "correctIndex": 2,
+        "explain": "本週的嘉賓講者是珍金斯博士。"
       },
       {
-        "q": "What is the reason for the library closure?",
+        "q": "When will the guest speaker series take place?",
         "options": [
-          "Special event",
-          "Maintenance work",
-          "Holiday",
-          "Inventory check"
+          "Every Wednesday",
+          "Every Friday",
+          "Every Thursday",
+          "Every Saturday"
         ],
-        "correctIndex": 1,
-        "explain": "圖書館關閉的原因是維護工作。"
+        "correctIndex": 2,
+        "explain": "嘉賓講者系列將在每週四舉行。"
       }
     ]
   },
   "talk": {
-    "transcript": "Today, we will discuss the concept of sustainability. Sustainability refers to meeting our own needs without compromising the ability of future generations to meet theirs. It encompasses environmental health, economic viability, and social equity. For instance, using renewable energy sources reduces dependence on fossil fuels, which helps combat climate change. By practicing sustainability, we can preserve natural resources and ensure a livable planet for future generations. It's an essential principle that impacts everything from individual choices to large-scale policies.",
+    "transcript": "Today, we will explore the concept of photosynthesis, a critical process that allows plants to convert sunlight into energy. During photosynthesis, chlorophyll in the leaves captures sunlight, which is then used to convert carbon dioxide from the air and water from the soil into glucose and oxygen. This process not only provides energy for the plant but also produces oxygen that is essential for most life on Earth. Understanding photosynthesis helps us appreciate the role of plants in our ecosystem and their importance in sustaining life.",
     "questions": [
       {
-        "q": "What does sustainability aim to achieve?",
+        "q": "What is photosynthesis?",
         "options": [
-          "Maximize profits",
-          "Preserve future resources",
-          "Ignore environmental issues",
-          "Increase population growth"
+          "Energy production in animals",
+          "Process of converting sunlight into energy",
+          "Water absorption by plants",
+          "Soil nutrient uptake"
         ],
         "correctIndex": 1,
-        "explain": "可持續性的目標是保護未來的資源。"
+        "explain": "光合作用是將陽光轉化為能量的過程。"
       },
       {
-        "q": "Which energy sources are emphasized in sustainability?",
+        "q": "What do plants produce during photosynthesis?",
         "options": [
-          "Nuclear power",
-          "Fossil fuels",
-          "Renewable energy",
-          "Coal"
-        ],
-        "correctIndex": 2,
-        "explain": "可持續性強調使用可再生能源。"
-      },
-      {
-        "q": "What does sustainability include?",
-        "options": [
-          "Only environmental concerns",
-          "Just economic factors",
-          "Environmental health, economic viability, and social equity",
-          "Only social issues"
-        ],
-        "correctIndex": 2,
-        "explain": "可持續性包括環境健康、經濟可行性和社會公平。"
-      },
-      {
-        "q": "How does sustainability affect future generations?",
-        "options": [
-          "It has no impact",
-          "It can enhance their quality of life",
-          "It may reduce resources",
-          "It increases pollution"
+          "Carbon dioxide",
+          "Glucose and oxygen",
+          "Heat",
+          "Nitrogen"
         ],
         "correctIndex": 1,
-        "explain": "可持續性可以改善未來世代的生活品質。"
+        "explain": "植物在光合作用過程中產生葡萄糖和氧氣。"
+      },
+      {
+        "q": "Why is photosynthesis important?",
+        "options": [
+          "It helps animals breathe",
+          "It reduces soil erosion",
+          "It provides food for humans",
+          "It sustains life on Earth"
+        ],
+        "correctIndex": 3,
+        "explain": "光合作用對地球生命的維持至關重要。"
+      },
+      {
+        "q": "What role does chlorophyll play?",
+        "options": [
+          "Absorbs water",
+          "Captures sunlight",
+          "Produces glucose",
+          "Releases oxygen"
+        ],
+        "correctIndex": 1,
+        "explain": "葉綠素的作用是捕捉陽光。"
       }
     ]
   }

@@ -7006,5 +7006,125 @@
     "zh": "外部觀點",
     "ex": "Etics allow researchers to analyze cultural phenomena from an outside perspective.",
     "cat": "📰 每日新詞：anthropology"
+  },
+  {
+    "word": "extinction",
+    "pos": "n.",
+    "root": "extinct—滅絕，-ion—名詞後綴",
+    "zh": "滅絕",
+    "ex": "The extinction of species can disrupt ecological balance and affect human survival.",
+    "cat": "📰 每日新詞：environmental science"
+  },
+  {
+    "word": "greenhouse gases",
+    "pos": "n.",
+    "root": "greenhouse—溫室，gases—氣體",
+    "zh": "溫室氣體",
+    "ex": "Greenhouse gases trap heat in the atmosphere, contributing to global warming.",
+    "cat": "📰 每日新詞：environmental science"
+  },
+  {
+    "word": "biomass",
+    "pos": "n.",
+    "root": "bio—生物，mass—質量",
+    "zh": "生物質",
+    "ex": "Biomass can be used as a renewable energy source to reduce reliance on fossil fuels.",
+    "cat": "📰 每日新詞：environmental science"
+  },
+  {
+    "word": "environmental impact",
+    "pos": "n.",
+    "root": "environmental—環境的，impact—影響",
+    "zh": "環境影響",
+    "ex": "Assessing the environmental impact of projects is crucial for sustainable planning.",
+    "cat": "📰 每日新詞：environmental science"
+  },
+  {
+    "word": "climate adaptation",
+    "pos": "n.",
+    "root": "climate—氣候，adaptation—適應",
+    "zh": "氣候適應",
+    "ex": "Climate adaptation strategies are necessary to address the effects of climate change.",
+    "cat": "📰 每日新詞：environmental science"
+  },
+  {
+    "word": "ocean acidification",
+    "pos": "n.",
+    "root": "ocean—海洋，acidification—酸化",
+    "zh": "海洋酸化",
+    "ex": "Ocean acidification poses a threat to marine life and coral reefs.",
+    "cat": "📰 每日新詞：environmental science"
+  },
+  {
+    "word": "land degradation",
+    "pos": "n.",
+    "root": "land—土地，degradation—退化",
+    "zh": "土地退化",
+    "ex": "Land degradation can result from overuse, pollution, and deforestation.",
+    "cat": "📰 每日新詞：environmental science"
+  },
+  {
+    "word": "carbon sequestration",
+    "pos": "n.",
+    "root": "carbon—碳，sequestration—隔離",
+    "zh": "碳封存",
+    "ex": "Carbon sequestration techniques can help mitigate the effects of climate change.",
+    "cat": "📰 每日新詞：environmental science"
+  },
+  {
+    "word": "endangered species",
+    "pos": "n.",
+    "root": "endangered—瀕危的，species—物種",
+    "zh": "瀕危物種",
+    "ex": "Efforts to protect endangered species are critical for preserving biodiversity.",
+    "cat": "📰 每日新詞：environmental science"
+  },
+  {
+    "word": "natural resources",
+    "pos": "n.",
+    "root": "natural—自然的，resources—資源",
+    "zh": "自然資源",
+    "ex": "Sustainable management of natural resources is vital for future generations.",
+    "cat": "📰 每日新詞：environmental science"
+  },
+  {
+    "word": "contamination",
+    "pos": "n.",
+    "root": "contaminate—污染，-ion—名詞後綴",
+    "zh": "污染",
+    "ex": "Contamination of water sources can have dire consequences for public health.",
+    "cat": "📰 每日新詞：environmental science"
+  },
+  {
+    "word": "green technology",
+    "pos": "n.",
+    "root": "green—綠色，technology—科技",
+    "zh": "綠色科技",
+    "ex": "Green technology innovations aim to reduce environmental impact and promote sustainability.",
+    "cat": "📰 每日新詞：environmental science"
+  },
+  {
+    "word": "fossil fuels",
+    "pos": "n.",
+    "root": "fossil—化石，fuels—燃料",
+    "zh": "化石燃料",
+    "ex": "The reliance on fossil fuels is a major contributor to climate change.",
+    "cat": "📰 每日新詞：environmental science"
+  },
+  {
+    "word": "habitat destruction",
+    "pos": "n.",
+    "root": "habitat—棲息地，destruction—破壞",
+    "zh": "棲息地破壞",
+    "ex": "Habitat destruction is one of the leading causes of species decline.",
+    "cat": "📰 每日新詞：environmental science"
+  },
+  {
+    "word": "environmental policy",
+    "pos": "n.",
+    "root": "environmental—環境的，policy—政策",
+    "zh": "環境政策",
+    "ex": "Environmental policy plays a crucial role in regulating resource use and protecting ecosystems.",
+    "cat": "📰 每日新詞：environmental science"
   }
 ]
