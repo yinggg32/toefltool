@@ -1,116 +1,116 @@
 {
   "chooseResponse": [
     {
-      "q": "What did you think of the lecture?",
+      "q": "How did the exam go?",
       "options": [
-        "It was very informative.",
-        "I didn't understand much.",
-        "It was too long.",
-        "I loved the examples."
+        "It was really tough.",
+        "I think I did well.",
+        "I didn't study enough.",
+        "It was too easy."
       ],
-      "correctIndex": 0
+      "correctIndex": 1
     }
   ],
   "conversation": {
-    "transcript": "Student: Did you see the announcement about the study group?\nAdvisor: Yes, I did. Are you planning to join?\nStudent: I think so, but I’m not sure if I have enough time.\nAdvisor: It’s a great way to prepare for the exams, you should consider it.",
+    "transcript": "Student: Hey, did you finish the project for Art class?\nInstructor: Yes, I did! How about you?\nStudent: I'm almost done, but I'm stuck on the last part.\nInstructor: What are you struggling with specifically?",
     "questions": [
       {
-        "q": "What is the main topic of the conversation?",
+        "q": "What is the student struggling with?",
         "options": [
-          "Study group announcement",
-          "Exam preparation",
-          "Time management",
-          "Lecture attendance"
+          "The entire project.",
+          "The last part.",
+          "Finding references.",
+          "The presentation."
         ],
-        "correctIndex": 0,
-        "explain": "對話的主要主題是關於學習小組的通知。"
+        "correctIndex": 1,
+        "explain": "學生在最後部分遇到了困難。"
       },
       {
-        "q": "What does the advisor suggest?",
+        "q": "What subject is being discussed?",
         "options": [
-          "Join the study group",
-          "Skip the exams",
-          "Focus on time management",
-          "Attend more lectures"
+          "Mathematics.",
+          "Art class.",
+          "Science class.",
+          "History."
         ],
-        "correctIndex": 0,
-        "explain": "顧問建議學生加入學習小組。"
+        "correctIndex": 1,
+        "explain": "討論的科目是藝術課。"
       }
     ]
   },
   "announcement": {
-    "transcript": "Attention students! There will be a guest speaker series every Thursday at 5 PM in the main auditorium. This week, we will host Dr. Jenkins, a renowned author and historian, who will discuss the impact of the Renaissance on modern society. Don’t miss this opportunity to gain insights from an expert.",
+    "transcript": "Attention students, please be reminded that the library will close early tomorrow at 4 PM for inventory. Make sure to check out any materials you need before then. Thank you for your understanding.",
     "questions": [
       {
-        "q": "Who is the guest speaker this week?",
+        "q": "What time will the library close tomorrow?",
         "options": [
-          "Dr. Smith",
-          "Dr. Johnson",
-          "Dr. Jenkins",
-          "Dr. Lee"
+          "6 PM",
+          "5 PM",
+          "4 PM",
+          "3 PM"
         ],
         "correctIndex": 2,
-        "explain": "本週的嘉賓講者是珍金斯博士。"
+        "explain": "圖書館明天將提前在下午四點關閉。"
       },
       {
-        "q": "When will the guest speaker series take place?",
+        "q": "Why is the library closing early?",
         "options": [
-          "Every Wednesday",
-          "Every Friday",
-          "Every Thursday",
-          "Every Saturday"
+          "For a special event.",
+          "For inventory.",
+          "For maintenance.",
+          "For staff training."
         ],
-        "correctIndex": 2,
-        "explain": "嘉賓講者系列將在每週四舉行。"
+        "correctIndex": 1,
+        "explain": "圖書館提前關閉是為了盤點。"
       }
     ]
   },
   "talk": {
-    "transcript": "Today, we will explore the concept of photosynthesis, a critical process that allows plants to convert sunlight into energy. During photosynthesis, chlorophyll in the leaves captures sunlight, which is then used to convert carbon dioxide from the air and water from the soil into glucose and oxygen. This process not only provides energy for the plant but also produces oxygen that is essential for most life on Earth. Understanding photosynthesis helps us appreciate the role of plants in our ecosystem and their importance in sustaining life.",
+    "transcript": "Today, I want to discuss the importance of biodiversity in ecosystems. Biodiversity refers to the variety of life in a particular habitat or ecosystem. It plays a crucial role in maintaining the balance of the environment. High biodiversity allows ecosystems to function effectively, providing us with resources such as food, clean air, and water. Moreover, it enhances ecosystem resilience, enabling them to recover from disturbances like natural disasters. Protecting biodiversity is essential for our survival and the health of our planet, so we must take steps to preserve it.",
     "questions": [
       {
-        "q": "What is photosynthesis?",
+        "q": "What does biodiversity refer to?",
         "options": [
-          "Energy production in animals",
-          "Process of converting sunlight into energy",
-          "Water absorption by plants",
-          "Soil nutrient uptake"
+          "Variety of species.",
+          "Quality of air.",
+          "Amount of water.",
+          "Types of soil."
         ],
-        "correctIndex": 1,
-        "explain": "光合作用是將陽光轉化為能量的過程。"
+        "correctIndex": 0,
+        "explain": "生物多樣性指的是特定棲息地或生態系統中的生命多樣性。"
       },
       {
-        "q": "What do plants produce during photosynthesis?",
+        "q": "Why is biodiversity important?",
         "options": [
-          "Carbon dioxide",
-          "Glucose and oxygen",
-          "Heat",
-          "Nitrogen"
+          "It reduces pollution.",
+          "It helps maintain ecosystem balance.",
+          "It increases population density.",
+          "It eliminates pests."
         ],
         "correctIndex": 1,
-        "explain": "植物在光合作用過程中產生葡萄糖和氧氣。"
+        "explain": "生物多樣性對維持生態系統平衡至關重要。"
       },
       {
-        "q": "Why is photosynthesis important?",
+        "q": "What resources does biodiversity provide?",
         "options": [
-          "It helps animals breathe",
-          "It reduces soil erosion",
-          "It provides food for humans",
-          "It sustains life on Earth"
-        ],
-        "correctIndex": 3,
-        "explain": "光合作用對地球生命的維持至關重要。"
-      },
-      {
-        "q": "What role does chlorophyll play?",
-        "options": [
-          "Absorbs water",
-          "Captures sunlight",
-          "Produces glucose",
-          "Releases oxygen"
+          "Electricity and fuel.",
+          "Food and clean air.",
+          "Technology and medicine.",
+          "Clothing and shelter."
         ],
         "correctIndex": 1,
-        "explain": "葉綠素的作用是捕捉陽光。"
+        "explain": "生物多樣性提供食物和清潔空氣等資源。"
+      },
+      {
+        "q": "What must we do to protect biodiversity?",
+        "options": [
+          "Ignore environmental issues.",
+          "Take steps to preserve it.",
+          "Increase pollution.",
+          "Expand urban areas."
+        ],
+        "correctIndex": 1,
+        "explain": "我們必須採取措施來保護生物多樣性。"
       }
     ]
   }

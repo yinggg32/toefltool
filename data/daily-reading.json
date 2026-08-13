@@ -2,110 +2,84 @@
   "cloze": {
     "segments": [
       {
-        "text": "The theory of enl"
-      },
-      {
-        "blank": "ightenment"
-      },
-      {
-        "text": " emerged during the 18th century, characterized by an emphasis on reason and "
-      },
-      {
-        "blank": "rational"
-      },
-      {
-        "text": " thought. Enlightenment thinkers challenged traditional authority and "
-      },
-      {
-        "blank": "advoca"
-      },
-      {
-        "text": "ted for individual rights. This movement significantly influenced political "
-      },
-      {
-        "blank": "philo"
-      },
-      {
-        "text": "sophy and science, as ideas about democracy and human rights began to "
-      },
-      {
-        "blank": "emerge."
+        "text": " + water → glucose + oxygen. This not only provides nourishment for the plants but also releases oxygen into the atmosphere, which is vital for aerobic organisms. The efficiency of photosynthesis can be influenced by several factors such as temperature, light intensity, and the availability of water. Understanding photosynthesis is crucial for increasing agricultural productivity and addressing climate change, as it plays a significant role in carbon cycling and energy flow within ecosystems.",
+        "blank": "xide"
       }
     ]
   },
   "academic": {
-    "passage": "The Enlightenment was a pivotal movement in Western history that emphasized reason, science, and individual rights. Thinkers like John Locke and Voltaire advocated for the questioning of traditional authority. This period saw the rise of new ideas about governance, which laid the foundations for modern democracies. The impact of the Enlightenment can still be felt today, as its principles continue to influence contemporary political and social thought.",
+    "passage": "Photosynthesis is a biochemical process that allows plants, algae, and some bacteria to convert light energy into chemical energy stored as glucose. This process primarily takes place in the chloroplasts of plant cells, where chlorophyll captures sunlight. During photosynthesis, carbon dioxide and water are transformed into glucose and oxygen, sustaining both plant life and the ecosystems dependent on them. The rate of photosynthesis can be affected by environmental conditions, including light availability and temperature. Understanding these factors is essential for enhancing agricultural practices and combating climate change, as photosynthesis is a key player in the global carbon cycle.",
     "questions": [
       {
-        "q": "What was the main focus of the Enlightenment?",
+        "q": "What is the main idea of the passage?",
         "options": [
-          "Reason and individual rights",
-          "Traditional authority",
-          "Religious beliefs",
-          "Economic stability"
+          "Photosynthesis is vital for life on Earth.",
+          "Photosynthesis occurs in animal cells.",
+          "Photosynthesis does not involve water.",
+          "Photosynthesis is only important in tropical regions."
         ],
         "correctIndex": 0,
-        "explain": "這是因為啟蒙運動強調理性與個人權利。"
+        "explain": "這篇文章的主旨是光合作用對地球生命的重要性。"
       },
       {
-        "q": "Which thinker is mentioned as an advocate of Enlightenment ideas?",
+        "q": "Where does photosynthesis primarily take place?",
         "options": [
-          "John Locke",
-          "Karl Marx",
-          "Rene Descartes",
-          "Friedrich Nietzsche"
-        ],
-        "correctIndex": 0,
-        "explain": "約翰·洛克被提及為啟蒙思想的倡導者。"
-      },
-      {
-        "q": "What can be inferred about the influence of the Enlightenment?",
-        "options": [
-          "It only affected 18th-century politics.",
-          "Its principles are still relevant today.",
-          "It was universally accepted at the time.",
-          "It had no impact on science."
+          "In the roots of plants.",
+          "In the chloroplasts of plant cells.",
+          "In the leaves of plants.",
+          "In the soil."
         ],
         "correctIndex": 1,
-        "explain": "這個推論是因為啟蒙運動的原則至今仍然有影響力。"
+        "explain": "光合作用主要發生在植物細胞的葉綠體中。"
       },
       {
-        "q": "What does the word 'advocated' in the passage most closely mean?",
+        "q": "What inference can be made about photosynthesis and climate change?",
         "options": [
-          "Supported",
-          "Ignored",
-          "Criticized",
-          "Opposed"
+          "Photosynthesis has no impact on climate change.",
+          "Increasing photosynthesis may help mitigate climate change.",
+          "Photosynthesis causes climate change.",
+          "Climate change only affects animals, not plants."
         ],
-        "correctIndex": 0,
-        "explain": "在這段文字中，'advocated'的意思是支持。"
+        "correctIndex": 1,
+        "explain": "增加光合作用可能有助於減輕氣候變化的影響。"
+      },
+      {
+        "q": "What does the term 'chlorophyll' refer to in the passage?",
+        "options": [
+          "A type of glucose.",
+          "A pigment that captures sunlight.",
+          "A byproduct of photosynthesis.",
+          "A method of carbon storage."
+        ],
+        "correctIndex": 1,
+        "explain": "在這篇文章中，'葉綠素'指的是捕捉陽光的色素。"
       }
     ]
   },
   "daily": {
-    "passage": "The university will host a guest lecture on climate change this Friday at 3 PM in the main auditorium. All students are encouraged to attend. Refreshments will be provided.",
+    "passage": "Attention students: The library will be closed for maintenance this Friday. Please make sure to return any borrowed materials by Thursday evening. We apologize for any inconvenience and appreciate your understanding.",
     "questions": [
       {
-        "q": "What event is happening this Friday?",
+        "q": "When will the library be closed?",
         "options": [
-          "A guest lecture on climate change",
-          "A sports event",
-          "Final exams",
-          "A music concert"
+          "This Saturday.",
+          "This Friday.",
+          "Next Monday.",
+          "This Thursday."
         ],
-        "correctIndex": 0,
-        "explain": "因為公告中提到這個星期五有關於氣候變化的客座講座。"
+        "correctIndex": 1,
+        "explain": "圖書館將在本週五關閉。"
       },
       {
-        "q": "Where will the lecture take place?",
+        "q": "What should students do before the library closes?",
         "options": [
-          "In the main auditorium",
-          "In a classroom",
-          "Online",
-          "In the library"
+          "Return borrowed materials by Thursday.",
+          "Visit the library on Friday.",
+          "Borrow more books on Thursday.",
+          "Join a study group."
         ],
         "correctIndex": 0,
-        "explain": "公告中指出講座將在主講堂舉行。"
+        "explain": "學生應在圖書館關閉前於星期四歸還借用的材料。"
       }
     ]
   }

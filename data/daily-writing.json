@@ -2,125 +2,140 @@
   "buildSentences": [
     {
       "words": [
+        "the",
         "students",
+        "participated",
+        "in",
+        "the",
+        "conference",
+        "held",
+        "last",
+        "week"
+      ],
+      "display": "The students participated in the conference held last week."
+    },
+    {
+      "words": [
+        "the",
+        "researchers",
+        "found",
+        "significant",
+        "results",
+        "that",
+        "impact",
+        "the",
+        "community"
+      ],
+      "display": "The researchers found significant results that impact the community."
+    },
+    {
+      "words": [
+        "considering",
+        "the",
+        "environmental",
+        "effects",
+        "we",
         "should",
-        "review",
-        "the",
-        "material",
-        "before",
-        "the",
-        "exam"
+        "implement",
+        "more",
+        "sustainable",
+        "practices"
       ],
-      "display": "Students should review the material before the exam."
-    },
-    {
-      "words": [
-        "the",
-        "library",
-        "is",
-        "a",
-        "quiet",
-        "place",
-        "to",
-        "study"
-      ],
-      "display": "The library is a quiet place to study."
-    },
-    {
-      "words": [
-        "the",
-        "research",
-        "team",
-        "discovered",
-        "a",
-        "new",
-        "species",
-        "of",
-        "plant"
-      ],
-      "display": "The research team discovered a new species of plant."
-    },
-    {
-      "words": [
-        "studying",
-        "effectively",
-        "requires",
-        "good",
-        "time",
-        "management",
-        "and",
-        "focus"
-      ],
-      "display": "Studying effectively requires good time management and focus."
-    },
-    {
-      "words": [
-        "it",
-        "is",
-        "important",
-        "to",
-        "take",
-        "breaks",
-        "while",
-        "studying"
-      ],
-      "display": "It is important to take breaks while studying."
+      "display": "Considering the environmental effects we should implement more sustainable practices."
     },
     {
       "words": [
         "the",
         "professor",
-        "emphasized",
+        "shared",
+        "valuable",
+        "insights",
+        "during",
         "the",
-        "need",
-        "for",
-        "critical",
-        "thinking"
+        "class",
+        "discussion"
       ],
-      "display": "The professor emphasized the need for critical thinking."
+      "display": "The professor shared valuable insights during the class discussion."
     },
     {
       "words": [
-        "group",
-        "projects",
-        "can",
-        "enhance",
-        "teamwork",
-        "and",
-        "collaboration",
-        "skills"
-      ],
-      "display": "Group projects can enhance teamwork and collaboration skills."
-    },
-    {
-      "words": [
+        "many",
         "students",
-        "should",
-        "participate",
-        "in",
-        "extracurricular",
-        "activities",
-        "for",
-        "personal",
-        "growth"
+        "expressed",
+        "concerns",
+        "about",
+        "the",
+        "new",
+        "curriculum",
+        "changes"
       ],
-      "display": "Students should participate in extracurricular activities for personal growth."
+      "display": "Many students expressed concerns about the new curriculum changes."
+    },
+    {
+      "words": [
+        "the",
+        "library",
+        "offers",
+        "numerous",
+        "resources",
+        "for",
+        "students",
+        "to",
+        "study",
+        "effectively"
+      ],
+      "display": "The library offers numerous resources for students to study effectively."
+    },
+    {
+      "words": [
+        "our",
+        "club",
+        "is",
+        "planning",
+        "a",
+        "community",
+        "event",
+        "to",
+        "raise",
+        "awareness",
+        "about",
+        "local",
+        "issues"
+      ],
+      "display": "Our club is planning a community event to raise awareness about local issues."
+    },
+    {
+      "words": [
+        "the",
+        "university",
+        "is",
+        "looking",
+        "for",
+        "ways",
+        "to",
+        "enhance",
+        "student",
+        "engagement",
+        "on",
+        "campus"
+      ],
+      "display": "The university is looking for ways to enhance student engagement on campus."
     }
   ],
   "emailPrompts": [
-    "寫信給宿舍辦公室，請求更換房間的理由是因為室友的生活習慣影響學業。",
-    "寄信給圖書館管理員，詢問關於續借書籍的規定。",
-    "寫信給俱樂部主席，表達想參加下一次活動的興趣。",
-    "寄信給客服，反映最近購買的產品出現問題，請求更換或退款。",
-    "寫信給教授，請求延後提交作業的截止日期，因為近期遭遇個人困難。",
-    "寄信給實習指導老師，詢問關於實習報告的具體要求。"
+    "寄信給圖書館，詢問關於延長借書期限的事宜。",
+    "寄信給宿舍辦公室，請求更換房間的安排。",
+    "寄信給學生會，表達對最近活動的建議和意見。",
+    "寄信給教授，請求補交作業的延遲。",
+    "寄信給客服部門，詢問訂單的最新進度。",
+    "寄信給實習指導老師，確認下週的實習安排。"
   ],
   "discussionPrompts": [
-    "教授問：「文化差異如何影響國際溝通？」",
-    "教授問：「科技發展對教育的影響是正面還是負面？」",
-    "教授問：「環境保護與經濟發展之間的平衡應如何達成？」",
-    "教授問：「社交媒體對人際關係的影響是什麼？」",
-    "教授問：「全球化是否會消滅當地文化？」",
-    "教授問：「大學教育應該更加注重實用技能還是理論知識？」"
+    "教授問：「你認為科技對於教育的影響是正面還是負面？」",
+    "教授問：「社會媒體在當今社會中扮演了什麼角色？」",
+    "教授問：「環保與經濟發展之間應如何取得平衡？」",
+    "教授問：「文化差異如何影響全球化的進程？」",
+    "教授問：「大學教育應該更加強調實用技能還是理論知識？」",
+    "教授問：「科技對人際關係的影響是什麼？」"
   ]
 }

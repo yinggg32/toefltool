@@ -7126,5 +7126,117 @@
     "zh": "環境政策",
     "ex": "Environmental policy plays a crucial role in regulating resource use and protecting ecosystems.",
     "cat": "📰 每日新詞：environmental science"
+  },
+  {
+    "word": "economy",
+    "pos": "n.",
+    "root": "經濟—economy",
+    "zh": "經濟",
+    "ex": "A strong economy typically leads to higher employment rates.",
+    "cat": "📰 每日新詞：economics"
+  },
+  {
+    "word": "GDP",
+    "pos": "n.",
+    "root": "國內生產總值—GDP",
+    "zh": "國內生產總值",
+    "ex": "GDP is a key indicator of a country's economic performance.",
+    "cat": "📰 每日新詞：economics"
+  },
+  {
+    "word": "labor",
+    "pos": "n./v.",
+    "root": "勞動—labor",
+    "zh": "勞動",
+    "ex": "The labor market is influenced by various economic factors.",
+    "cat": "📰 每日新詞：economics"
+  },
+  {
+    "word": "commodity",
+    "pos": "n.",
+    "root": "商品—commodity",
+    "zh": "商品",
+    "ex": "The price of commodities can be affected by global supply chain issues.",
+    "cat": "📰 每日新詞：economics"
+  },
+  {
+    "word": "wealth",
+    "pos": "n.",
+    "root": "財富—wealth",
+    "zh": "財富",
+    "ex": "The distribution of wealth is a critical issue in economic studies.",
+    "cat": "📰 每日新詞：economics"
+  },
+  {
+    "word": "inflationary",
+    "pos": "adj.",
+    "root": "通脹的—inflationary",
+    "zh": "通脹的",
+    "ex": "Inflationary pressures can lead to increased costs for consumers.",
+    "cat": "📰 每日新詞：economics"
+  },
+  {
+    "word": "debt",
+    "pos": "n.",
+    "root": "債務—debt",
+    "zh": "債務",
+    "ex": "National debt can have significant implications for future economic policy.",
+    "cat": "📰 每日新詞：economics"
+  },
+  {
+    "word": "savings",
+    "pos": "n.",
+    "root": "儲蓄—savings",
+    "zh": "儲蓄",
+    "ex": "Household savings rates can impact overall economic growth.",
+    "cat": "📰 每日新詞：economics"
+  },
+  {
+    "word": "interest rate",
+    "pos": "n.",
+    "root": "利率—interest rate",
+    "zh": "利率",
+    "ex": "The interest rate set by the central bank influences borrowing costs.",
+    "cat": "📰 每日新詞：economics"
+  },
+  {
+    "word": "bargaining",
+    "pos": "n.",
+    "root": "談判—bargaining",
+    "zh": "談判",
+    "ex": "Collective bargaining is essential in labor relations.",
+    "cat": "📰 每日新詞：economics"
+  },
+  {
+    "word": "threshold",
+    "pos": "n.",
+    "root": "門檻—threshold",
+    "zh": "門檻",
+    "ex": "The threshold for poverty is defined by various economic indicators.",
+    "cat": "📰 每日新詞：economics"
+  },
+  {
+    "word": "provision",
+    "pos": "n./v.",
+    "root": "提供—provision",
+    "zh": "提供",
+    "ex": "The provision of public goods is a fundamental responsibility of government.",
+    "cat": "📰 每日新詞：economics"
+  },
+  {
+    "word": "speculation",
+    "pos": "n.",
+    "root": "投機—speculation",
+    "zh": "投機",
+    "ex": "Speculation in real estate can lead to market volatility.",
+    "cat": "📰 每日新詞：economics"
+  },
+  {
+    "word": "authorization",
+    "pos": "n.",
+    "root": "授權—authorization",
+    "zh": "授權",
+    "ex": "Authorization of new economic policies requires careful consideration.",
+    "cat": "📰 每日新詞：economics"
   }
 ]
