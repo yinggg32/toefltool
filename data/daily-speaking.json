@@ -1,45 +1,45 @@
 {
   "shadowSentences": [
-    "I enjoy reading books in my free time.",
-    "My favorite movie is a great adventure story.",
-    "Traveling to new places brings me joy.",
-    "I often cook dinner for my family on weekends.",
-    "Listening to music helps me relax after a long day.",
-    "My friend and I enjoy playing soccer together each week.",
-    "I like to explore new restaurants in my city.",
-    "Gardening is a satisfying hobby that brings me peace.",
-    "Volunteering at the shelter gives me a sense of purpose.",
-    "Learning a new language can be challenging but rewarding."
+    "The sun sets in the west.",
+    "I enjoy reading books every evening.",
+    "She makes delicious cookies on weekends.",
+    "We went hiking in the mountains last summer.",
+    "He loves to play soccer with his friends.",
+    "They plan to travel to Europe next year.",
+    "I often listen to music while studying.",
+    "She paints beautiful landscapes in her free time.",
+    "We have a family game night every Friday.",
+    "He regularly volunteers at the local animal shelter."
   ],
   "interviewScenarios": [
     {
-      "topic": "饮食习惯",
-      "intro": "You have agreed to take part in a research study about eating habits.",
+      "topic": "旅行計畫",
+      "intro": "You have agreed to take part in a research study about travel planning.",
       "questions": [
-        "Q1: Can you describe your typical daily meals?",
-        "Q2: Have you ever faced challenges in maintaining a healthy diet?",
-        "Q3: What is your opinion on following a vegetarian or vegan lifestyle?",
-        "Q4: What advice would you give someone trying to improve their eating habits?"
+        "Q1: Can you describe a recent trip you took?",
+        "Q2: What challenges did you face while planning that trip?",
+        "Q3: What do you think makes travel planning important?",
+        "Q4: What tips would you give someone planning their first trip?"
       ]
     },
     {
-      "topic": "运动习惯",
-      "intro": "You have agreed to take part in a research study about exercise routines.",
+      "topic": "運動習慣",
+      "intro": "You have agreed to take part in a research study about exercise habits.",
       "questions": [
-        "Q1: What type of exercise do you enjoy the most?",
-        "Q2: Have you encountered any obstacles that prevent you from exercising regularly?",
-        "Q3: How important do you think physical activity is for mental health?",
-        "Q4: What tips would you share with someone who wants to start exercising?"
+        "Q1: What types of exercise do you enjoy most?",
+        "Q2: Have you ever found it difficult to maintain a workout routine?",
+        "Q3: How important do you think exercise is for overall health?",
+        "Q4: What advice would you give to someone starting to exercise?"
       ]
     },
     {
-      "topic": "阅读习惯",
+      "topic": "閱讀習慣",
       "intro": "You have agreed to take part in a research study about reading habits.",
       "questions": [
-        "Q1: What kind of books do you prefer to read?",
-        "Q2: Have you experienced any difficulties in finding time to read?",
-        "Q3: In your opinion, how does reading benefit a person's life?",
-        "Q4: What recommendations do you have for someone who wants to read more?"
+        "Q1: What kind of books do you like to read?",
+        "Q2: Have you encountered any challenges in finding time to read?",
+        "Q3: Why do you believe reading is valuable?",
+        "Q4: What recommendations would you give for someone who wants to read more?"
       ]
     }
   ]

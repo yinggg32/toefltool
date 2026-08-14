@@ -1,116 +1,116 @@
 {
   "chooseResponse": [
     {
-      "q": "How did the exam go?",
+      "q": "What time is the meeting?",
       "options": [
-        "It was really tough.",
-        "I think I did well.",
-        "I didn't study enough.",
-        "It was too easy."
+        "It's at 3 PM.",
+        "I don't know.",
+        "Let me check.",
+        "It's canceled."
       ],
-      "correctIndex": 1
+      "correctIndex": 0
     }
   ],
   "conversation": {
-    "transcript": "Student: Hey, did you finish the project for Art class?\nInstructor: Yes, I did! How about you?\nStudent: I'm almost done, but I'm stuck on the last part.\nInstructor: What are you struggling with specifically?",
+    "transcript": "Student: Hi, do you know where the art gallery is?\nAdvisor: Yes, it's on the second floor of the student center.\nStudent: Thanks! Is it open today?\nAdvisor: It is, from 10 AM to 5 PM.",
     "questions": [
       {
-        "q": "What is the student struggling with?",
+        "q": "Where is the art gallery located?",
         "options": [
-          "The entire project.",
-          "The last part.",
-          "Finding references.",
-          "The presentation."
+          "In the library",
+          "On the second floor of the student center",
+          "In the cafeteria",
+          "Nearby the gym"
         ],
         "correctIndex": 1,
-        "explain": "學生在最後部分遇到了困難。"
+        "explain": "藝術畫廊在學生中心的二樓。"
       },
       {
-        "q": "What subject is being discussed?",
+        "q": "What are the art gallery's opening hours?",
         "options": [
-          "Mathematics.",
-          "Art class.",
-          "Science class.",
-          "History."
+          "9 AM to 4 PM",
+          "10 AM to 5 PM",
+          "11 AM to 6 PM",
+          "All day"
         ],
         "correctIndex": 1,
-        "explain": "討論的科目是藝術課。"
+        "explain": "畫廊今天的開放時間是早上10點到下午5點。"
       }
     ]
   },
   "announcement": {
-    "transcript": "Attention students, please be reminded that the library will close early tomorrow at 4 PM for inventory. Make sure to check out any materials you need before then. Thank you for your understanding.",
+    "transcript": "Attention students: The annual cultural festival will take place this Saturday in the main quad. There will be food, performances, and art displays. Bring your friends and enjoy a day of fun and culture!",
     "questions": [
       {
-        "q": "What time will the library close tomorrow?",
+        "q": "When is the cultural festival scheduled?",
         "options": [
-          "6 PM",
-          "5 PM",
-          "4 PM",
-          "3 PM"
-        ],
-        "correctIndex": 2,
-        "explain": "圖書館明天將提前在下午四點關閉。"
-      },
-      {
-        "q": "Why is the library closing early?",
-        "options": [
-          "For a special event.",
-          "For inventory.",
-          "For maintenance.",
-          "For staff training."
+          "This Friday",
+          "This Saturday",
+          "Next Saturday",
+          "This Sunday"
         ],
         "correctIndex": 1,
-        "explain": "圖書館提前關閉是為了盤點。"
+        "explain": "文化節在這個星期六舉行。"
+      },
+      {
+        "q": "What activities will be at the festival?",
+        "options": [
+          "Only food",
+          "Performances and art displays",
+          "Workshops",
+          "Sports events"
+        ],
+        "correctIndex": 1,
+        "explain": "節日將有表演和藝術展覽。"
       }
     ]
   },
   "talk": {
-    "transcript": "Today, I want to discuss the importance of biodiversity in ecosystems. Biodiversity refers to the variety of life in a particular habitat or ecosystem. It plays a crucial role in maintaining the balance of the environment. High biodiversity allows ecosystems to function effectively, providing us with resources such as food, clean air, and water. Moreover, it enhances ecosystem resilience, enabling them to recover from disturbances like natural disasters. Protecting biodiversity is essential for our survival and the health of our planet, so we must take steps to preserve it.",
+    "transcript": "Today, we're going to discuss the concept of sustainability. Sustainability refers to meeting our own needs without compromising the ability of future generations to meet their own needs. It involves using resources efficiently and responsibly. This can apply to various sectors, including energy, agriculture, and ecology. For instance, using renewable energy sources like wind or solar power helps reduce our carbon footprint and preserves the environment for future generations. In agriculture, sustainable practices include crop rotation and organic farming, which maintain soil health and reduce chemical use. Ultimately, sustainability is about creating a balance that supports environmental health, economic viability, and social equity.",
     "questions": [
       {
-        "q": "What does biodiversity refer to?",
+        "q": "What is the main focus of sustainability?",
         "options": [
-          "Variety of species.",
-          "Quality of air.",
-          "Amount of water.",
-          "Types of soil."
-        ],
-        "correctIndex": 0,
-        "explain": "生物多樣性指的是特定棲息地或生態系統中的生命多樣性。"
-      },
-      {
-        "q": "Why is biodiversity important?",
-        "options": [
-          "It reduces pollution.",
-          "It helps maintain ecosystem balance.",
-          "It increases population density.",
-          "It eliminates pests."
+          "Polluting resources",
+          "Future generations' needs",
+          "Profit maximization",
+          "Short-term solutions"
         ],
         "correctIndex": 1,
-        "explain": "生物多樣性對維持生態系統平衡至關重要。"
+        "explain": "可持續性主要集中在未來世代的需求上。"
       },
       {
-        "q": "What resources does biodiversity provide?",
+        "q": "What is one example of sustainable energy?",
         "options": [
-          "Electricity and fuel.",
-          "Food and clean air.",
-          "Technology and medicine.",
-          "Clothing and shelter."
+          "Coal",
+          "Wind energy",
+          "Natural gas",
+          "Nuclear energy"
         ],
         "correctIndex": 1,
-        "explain": "生物多樣性提供食物和清潔空氣等資源。"
+        "explain": "風能是可持續能源的一個例子。"
       },
       {
-        "q": "What must we do to protect biodiversity?",
+        "q": "What practice helps maintain soil health?",
         "options": [
-          "Ignore environmental issues.",
-          "Take steps to preserve it.",
-          "Increase pollution.",
-          "Expand urban areas."
+          "Overgrazing",
+          "Crop rotation",
+          "Urban sprawl",
+          "Deforestation"
         ],
         "correctIndex": 1,
-        "explain": "我們必須採取措施來保護生物多樣性。"
+        "explain": "作物輪作有助於維持土壤健康。"
+      },
+      {
+        "q": "What does sustainability aim to balance?",
+        "options": [
+          "Economy and politics",
+          "Environmental health, economy, and social equity",
+          "Technology and culture",
+          "Tradition and innovation"
+        ],
+        "correctIndex": 1,
+        "explain": "可持續性旨在平衡環境健康、經濟和社會公正。"
       }
     ]
   }

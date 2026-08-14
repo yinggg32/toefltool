@@ -7238,5 +7238,37 @@
     "zh": "授權",
     "ex": "Authorization of new economic policies requires careful consideration.",
     "cat": "📰 每日新詞：economics"
+  },
+  {
+    "word": "empirical",
+    "pos": "adj.",
+    "root": "經驗的—empirical",
+    "zh": "經驗的",
+    "ex": "Empirical research provides evidence-based insights into psychological phenomena.",
+    "cat": "📰 每日新詞：psychology"
+  },
+  {
+    "word": "subconscious",
+    "pos": "adj./n.",
+    "root": "潛意識—subconscious",
+    "zh": "潛意識",
+    "ex": "The subconscious mind influences many of our thoughts and behaviors.",
+    "cat": "📰 每日新詞：psychology"
+  },
+  {
+    "word": "reinforcement",
+    "pos": "n.",
+    "root": "強化—reinforcement",
+    "zh": "強化",
+    "ex": "Reinforcement is a key concept in operant conditioning.",
+    "cat": "📰 每日新詞：psychology"
+  },
+  {
+    "word": "assert",
+    "pos": "v.",
+    "root": "聲明—assert",
+    "zh": "聲明",
+    "ex": "To assert one's opinions can be an important step in effective communication.",
+    "cat": "📰 每日新詞：psychology"
   }
 ]

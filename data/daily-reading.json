@@ -2,84 +2,107 @@
   "cloze": {
     "segments": [
       {
-        "text": " + water → glucose + oxygen. This not only provides nourishment for the plants but also releases oxygen into the atmosphere, which is vital for aerobic organisms. The efficiency of photosynthesis can be influenced by several factors such as temperature, light intensity, and the availability of water. Understanding photosynthesis is crucial for increasing agricultural productivity and addressing climate change, as it plays a significant role in carbon cycling and energy flow within ecosystems.",
-        "blank": "xide"
+        "text": "The theory of relativity, proposed by Albert Einstein, fundamentally changed our understanding of space and time. Its two main components, special relativity and general relativity, address the behavior of objects in motion and the influence of gravity on the fabric of spacetime. Special relativity introduced the concept of time dilation, where time appears to pass more slowly for objects moving at high speeds. This led to the realization that simultaneity is relative, depending on the observer's frame of reference. General relativity expanded on this idea, describing gravity not as a force but as a curvature of spacetime caused by mass. This innovative perspective has been confirmed through numerous experiments and is essential for the accurate functioning of technologies like GPS."
+      },
+      {
+        "blank": "theor"
+      },
+      {
+        "text": "y of relativity is widely regarded as one of the most significant scientific advancements of the 20th century."
+      },
+      {
+        "blank": "fundam"
+      },
+      {
+        "text": "lly altered the framework of physics, influencing various fields such as astronomy and cosmology."
+      },
+      {
+        "blank": "time di"
+      },
+      {
+        "text": "lation is a phenomenon that has practical applications in modern technology."
+      },
+      {
+        "blank": "curvat"
+      },
+      {
+        "text": "ure of spacetime allows us to comprehend the gravitational interactions of celestial bodies."
       }
     ]
   },
   "academic": {
-    "passage": "Photosynthesis is a biochemical process that allows plants, algae, and some bacteria to convert light energy into chemical energy stored as glucose. This process primarily takes place in the chloroplasts of plant cells, where chlorophyll captures sunlight. During photosynthesis, carbon dioxide and water are transformed into glucose and oxygen, sustaining both plant life and the ecosystems dependent on them. The rate of photosynthesis can be affected by environmental conditions, including light availability and temperature. Understanding these factors is essential for enhancing agricultural practices and combating climate change, as photosynthesis is a key player in the global carbon cycle.",
+    "passage": "Albert Einstein's theory of relativity revolutionized the field of physics by introducing new concepts about space and time. It includes two major parts: special relativity, which focuses on objects moving at constant speeds, and general relativity, which explains how gravity affects the structure of spacetime. Special relativity reveals that time can vary for moving observers, while general relativity describes gravity as a result of the curvature of spacetime caused by mass. These theories have had profound implications for both theoretical and applied physics, influencing technologies such as satellite navigation.",
     "questions": [
       {
         "q": "What is the main idea of the passage?",
         "options": [
-          "Photosynthesis is vital for life on Earth.",
-          "Photosynthesis occurs in animal cells.",
-          "Photosynthesis does not involve water.",
-          "Photosynthesis is only important in tropical regions."
+          "Einstein's theory of relativity revolutionized physics.",
+          "Gravity is a force that affects time.",
+          "Time travel is possible according to relativity.",
+          "Special relativity is unrelated to general relativity."
         ],
         "correctIndex": 0,
-        "explain": "這篇文章的主旨是光合作用對地球生命的重要性。"
+        "explain": "這段文字的主要思想是愛因斯坦的相對論徹底改變了物理學。"
       },
       {
-        "q": "Where does photosynthesis primarily take place?",
+        "q": "What does special relativity primarily deal with?",
         "options": [
-          "In the roots of plants.",
-          "In the chloroplasts of plant cells.",
-          "In the leaves of plants.",
-          "In the soil."
+          "Gravity's effect on light.",
+          "Objects moving at constant speeds.",
+          "The curvature of spacetime.",
+          "The nature of mass."
         ],
         "correctIndex": 1,
-        "explain": "光合作用主要發生在植物細胞的葉綠體中。"
+        "explain": "特殊相對論主要處理的是以恆定速度運動的物體。"
       },
       {
-        "q": "What inference can be made about photosynthesis and climate change?",
+        "q": "What can be inferred about general relativity?",
         "options": [
-          "Photosynthesis has no impact on climate change.",
-          "Increasing photosynthesis may help mitigate climate change.",
-          "Photosynthesis causes climate change.",
-          "Climate change only affects animals, not plants."
+          "It contradicts special relativity.",
+          "It is based on experimental evidence.",
+          "It has no real-world applications.",
+          "It focuses solely on time."
         ],
         "correctIndex": 1,
-        "explain": "增加光合作用可能有助於減輕氣候變化的影響。"
+        "explain": "一般相對論基於實驗證據，這是在文章中明確提到的。"
       },
       {
-        "q": "What does the term 'chlorophyll' refer to in the passage?",
+        "q": "What does the term 'curvature of spacetime' refer to?",
         "options": [
-          "A type of glucose.",
-          "A pigment that captures sunlight.",
-          "A byproduct of photosynthesis.",
-          "A method of carbon storage."
+          "The bending of light in gravity.",
+          "The way mass influences time.",
+          "The concept of relative distances.",
+          "The deformation caused by mass."
         ],
-        "correctIndex": 1,
-        "explain": "在這篇文章中，'葉綠素'指的是捕捉陽光的色素。"
+        "correctIndex": 3,
+        "explain": "'時空的曲率'指的是質量所造成的變形。"
       }
     ]
   },
   "daily": {
-    "passage": "Attention students: The library will be closed for maintenance this Friday. Please make sure to return any borrowed materials by Thursday evening. We apologize for any inconvenience and appreciate your understanding.",
+    "passage": "Attention all students: The campus library will be closed for maintenance from Monday to Wednesday next week. Please plan accordingly and ensure you have all necessary materials before the closure. Thank you for your understanding.",
     "questions": [
       {
-        "q": "When will the library be closed?",
+        "q": "When will the campus library be closed?",
         "options": [
-          "This Saturday.",
-          "This Friday.",
-          "Next Monday.",
-          "This Thursday."
-        ],
-        "correctIndex": 1,
-        "explain": "圖書館將在本週五關閉。"
-      },
-      {
-        "q": "What should students do before the library closes?",
-        "options": [
-          "Return borrowed materials by Thursday.",
-          "Visit the library on Friday.",
-          "Borrow more books on Thursday.",
-          "Join a study group."
+          "Monday to Wednesday.",
+          "Thursday to Friday.",
+          "Only on Monday.",
+          "All week."
         ],
         "correctIndex": 0,
-        "explain": "學生應在圖書館關閉前於星期四歸還借用的材料。"
+        "explain": "圖書館將在下周的星期一到星期三關閉。"
+      },
+      {
+        "q": "What should students do before the closure?",
+        "options": [
+          "Return all books.",
+          "Prepare all necessary materials.",
+          "Visit other libraries.",
+          "Attend workshops."
+        ],
+        "correctIndex": 1,
+        "explain": "學生們在閉館之前應該準備好所有必要的材料。"
       }
     ]
   }

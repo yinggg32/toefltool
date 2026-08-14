@@ -3,139 +3,159 @@
     {
       "words": [
         "the",
-        "students",
-        "participated",
-        "in",
+        "research",
+        "study",
+        "focused",
+        "on",
         "the",
-        "conference",
-        "held",
-        "last",
-        "week"
-      ],
-      "display": "The students participated in the conference held last week."
-    },
-    {
-      "words": [
-        "the",
-        "researchers",
-        "found",
-        "significant",
-        "results",
-        "that",
         "impact",
-        "the",
-        "community"
+        "of",
+        "climate",
+        "change",
+        "on",
+        "biodiversity"
       ],
-      "display": "The researchers found significant results that impact the community."
+      "display": "The research study focused on the impact of climate change on biodiversity."
     },
     {
       "words": [
-        "considering",
-        "the",
-        "environmental",
-        "effects",
-        "we",
-        "should",
-        "implement",
-        "more",
-        "sustainable",
-        "practices"
+        "students",
+        "are",
+        "encouraged",
+        "to",
+        "participate",
+        "in",
+        "extracurricular",
+        "activities",
+        "to",
+        "enhance",
+        "their",
+        "learning"
       ],
-      "display": "Considering the environmental effects we should implement more sustainable practices."
+      "display": "Students are encouraged to participate in extracurricular activities to enhance their learning."
     },
     {
       "words": [
         "the",
         "professor",
-        "shared",
+        "provided",
         "valuable",
-        "insights",
+        "feedback",
+        "on",
+        "the",
+        "students",
+        "research",
+        "projects",
         "during",
         "the",
-        "class",
-        "discussion"
+        "seminar"
       ],
-      "display": "The professor shared valuable insights during the class discussion."
+      "display": "The professor provided valuable feedback on the students' research projects during the seminar."
     },
     {
       "words": [
-        "many",
-        "students",
-        "expressed",
-        "concerns",
-        "about",
+        "it",
+        "is",
+        "important",
+        "to",
+        "understand",
         "the",
-        "new",
-        "curriculum",
-        "changes"
+        "cultural",
+        "differences",
+        "when",
+        "communicating",
+        "with",
+        "international",
+        "students"
       ],
-      "display": "Many students expressed concerns about the new curriculum changes."
+      "display": "It is important to understand the cultural differences when communicating with international students."
     },
     {
       "words": [
         "the",
         "library",
-        "offers",
-        "numerous",
-        "resources",
+        "is",
+        "hosting",
+        "a",
+        "workshop",
+        "on",
+        "effective",
+        "research",
+        "strategies",
         "for",
-        "students",
-        "to",
-        "study",
-        "effectively"
+        "graduate",
+        "students"
       ],
-      "display": "The library offers numerous resources for students to study effectively."
+      "display": "The library is hosting a workshop on effective research strategies for graduate students."
     },
     {
       "words": [
-        "our",
-        "club",
-        "is",
-        "planning",
-        "a",
-        "community",
-        "event",
-        "to",
-        "raise",
-        "awareness",
-        "about",
-        "local",
-        "issues"
+        "students",
+        "should",
+        "review",
+        "the",
+        "assignment",
+        "guidelines",
+        "before",
+        "submitting",
+        "their",
+        "final",
+        "papers"
       ],
-      "display": "Our club is planning a community event to raise awareness about local issues."
+      "display": "Students should review the assignment guidelines before submitting their final papers."
     },
     {
       "words": [
         "the",
-        "university",
-        "is",
-        "looking",
-        "for",
-        "ways",
+        "team",
+        "worked",
+        "tirelessly",
         "to",
-        "enhance",
-        "student",
-        "engagement",
-        "on",
-        "campus"
+        "complete",
+        "the",
+        "project",
+        "before",
+        "the",
+        "deadline",
+        "set",
+        "by",
+        "the",
+        "instructor"
       ],
-      "display": "The university is looking for ways to enhance student engagement on campus."
+      "display": "The team worked tirelessly to complete the project before the deadline set by the instructor."
+    },
+    {
+      "words": [
+        "attending",
+        "lectures",
+        "regularly",
+        "can",
+        "significantly",
+        "improve",
+        "your",
+        "understanding",
+        "of",
+        "the",
+        "course",
+        "material"
+      ],
+      "display": "Attending lectures regularly can significantly improve your understanding of the course material."
     }
   ],
   "emailPrompts": [
-    "寄信給圖書館，詢問關於延長借書期限的事宜。",
-    "寄信給宿舍辦公室，請求更換房間的安排。",
-    "寄信給學生會，表達對最近活動的建議和意見。",
-    "寄信給教授，請求補交作業的延遲。",
-    "寄信給客服部門，詢問訂單的最新進度。",
-    "寄信給實習指導老師，確認下週的實習安排。"
+    "寄信給教授，請求延長報告的截止日期，因為遇到個人困難。",
+    "寄信給宿舍辦公室，詢問關於續租的步驟和要求。",
+    "寄信給圖書館，請求查詢某本書籍的可用性和借閱信息。",
+    "寄信給學生會，表達對即將舉辦活動的建議和參與意願。",
+    "寄信給客服，反映最近購物時遇到的問題，並請求解決方案。",
+    "寄信給導師，詢問有關實習機會的資訊，並表達自己的興趣。"
   ],
   "discussionPrompts": [
-    "教授問：「你認為科技對於教育的影響是正面還是負面？」",
-    "教授問：「社會媒體在當今社會中扮演了什麼角色？」",
-    "教授問：「環保與經濟發展之間應如何取得平衡？」",
-    "教授問：「文化差異如何影響全球化的進程？」",
-    "教授問：「大學教育應該更加強調實用技能還是理論知識？」",
-    "教授問：「科技對人際關係的影響是什麼？」"
+    "教授問：「在當前的環境中，科技對教育的影響是積極還是消極？」",
+    "教授問：「社交媒體如何改變了我們的溝通方式，這會帶來什麼後果？」",
+    "教授問：「保護環境和經濟增長之間是否存在矛盾？」",
+    "教授問：「文化多樣性在社會中的重要性是什麼？」",
+    "教授問：「全球化是否有助於還是妨礙了本地文化的保存？」",
+    "教授問：「是否應該在學校中實施更多的心理健康教育？」"
   ]
 }
