@@ -2,107 +2,113 @@
   "cloze": {
     "segments": [
       {
-        "text": "The theory of relativity, proposed by Albert Einstein, fundamentally changed our understanding of space and time. Its two main components, special relativity and general relativity, address the behavior of objects in motion and the influence of gravity on the fabric of spacetime. Special relativity introduced the concept of time dilation, where time appears to pass more slowly for objects moving at high speeds. This led to the realization that simultaneity is relative, depending on the observer's frame of reference. General relativity expanded on this idea, describing gravity not as a force but as a curvature of spacetime caused by mass. This innovative perspective has been confirmed through numerous experiments and is essential for the accurate functioning of technologies like GPS."
+        "text": "The human brain is a complex organ that is essential for many functions, including "
       },
       {
-        "blank": "theor"
+        "blank": "cognition"
       },
       {
-        "text": "y of relativity is widely regarded as one of the most significant scientific advancements of the 20th century."
+        "text": ". It is composed of billions of neurons that communicate through electrical and chemical signals. "
       },
       {
-        "blank": "fundam"
+        "blank": "neuro"
       },
       {
-        "text": "lly altered the framework of physics, influencing various fields such as astronomy and cosmology."
+        "text": "transmitters play a significant role in these communications. Additionally, the brain is divided into several "
       },
       {
-        "blank": "time di"
+        "blank": "regio"
       },
       {
-        "text": "lation is a phenomenon that has practical applications in modern technology."
+        "text": ", each responsible for different tasks such as memory, emotion, and motor skills. Understanding how the brain "
       },
       {
-        "blank": "curvat"
+        "blank": "func"
       },
       {
-        "text": "ure of spacetime allows us to comprehend the gravitational interactions of celestial bodies."
+        "text": "tions is crucial for developing treatments for various neurological disorders."
+      },
+      {
+        "blank": "disea"
+      },
+      {
+        "text": "ses can impair cognitive abilities and overall health."
       }
     ]
   },
   "academic": {
-    "passage": "Albert Einstein's theory of relativity revolutionized the field of physics by introducing new concepts about space and time. It includes two major parts: special relativity, which focuses on objects moving at constant speeds, and general relativity, which explains how gravity affects the structure of spacetime. Special relativity reveals that time can vary for moving observers, while general relativity describes gravity as a result of the curvature of spacetime caused by mass. These theories have had profound implications for both theoretical and applied physics, influencing technologies such as satellite navigation.",
+    "passage": "The study of the human brain has advanced significantly in recent decades, revealing much about its structure and function. Research indicates that the brain is not static but rather plastic, meaning it can change and adapt in response to experiences. This neuroplasticity is vital for learning and recovery from injuries. Furthermore, studies suggest that activities such as exercise and mental challenges can enhance cognitive functions and promote overall brain health.",
     "questions": [
       {
         "q": "What is the main idea of the passage?",
         "options": [
-          "Einstein's theory of relativity revolutionized physics.",
-          "Gravity is a force that affects time.",
-          "Time travel is possible according to relativity.",
-          "Special relativity is unrelated to general relativity."
+          "The brain can adapt and change over time.",
+          "Exercise is important for physical health.",
+          "Research only focuses on injuries to the brain.",
+          "The brain is a static organ."
         ],
         "correctIndex": 0,
-        "explain": "這段文字的主要思想是愛因斯坦的相對論徹底改變了物理學。"
+        "explain": "這段文字的主要思想是大腦能夠隨著時間而適應和改變。"
       },
       {
-        "q": "What does special relativity primarily deal with?",
+        "q": "What does neuroplasticity refer to?",
         "options": [
-          "Gravity's effect on light.",
-          "Objects moving at constant speeds.",
-          "The curvature of spacetime.",
-          "The nature of mass."
+          "The brain's ability to recover from injuries.",
+          "The structural changes in the brain during aging.",
+          "The capacity of the brain to adapt based on experiences.",
+          "The process of learning new languages."
+        ],
+        "correctIndex": 2,
+        "explain": "神經可塑性指的是大腦根據經驗進行適應的能力。"
+      },
+      {
+        "q": "What can be inferred about exercise and cognitive function?",
+        "options": [
+          "They are unrelated to brain health.",
+          "They can enhance cognitive abilities.",
+          "They only benefit physical health.",
+          "They have no effect on neuroplasticity."
         ],
         "correctIndex": 1,
-        "explain": "特殊相對論主要處理的是以恆定速度運動的物體。"
+        "explain": "可以推斷運動可以增強認知能力，這與大腦健康有關。"
       },
       {
-        "q": "What can be inferred about general relativity?",
+        "q": "What does the term 'neuroplasticity' mean in the context of brain studies?",
         "options": [
-          "It contradicts special relativity.",
-          "It is based on experimental evidence.",
-          "It has no real-world applications.",
-          "It focuses solely on time."
-        ],
-        "correctIndex": 1,
-        "explain": "一般相對論基於實驗證據，這是在文章中明確提到的。"
-      },
-      {
-        "q": "What does the term 'curvature of spacetime' refer to?",
-        "options": [
-          "The bending of light in gravity.",
-          "The way mass influences time.",
-          "The concept of relative distances.",
-          "The deformation caused by mass."
+          "Changes in the brain's structure over time.",
+          "The fixed nature of brain functions.",
+          "The ability of the brain to create new neurons.",
+          "The brain's capacity to change and adapt."
         ],
         "correctIndex": 3,
-        "explain": "'時空的曲率'指的是質量所造成的變形。"
+        "explain": "在大腦研究中，神經可塑性是指大腦改變和適應的能力。"
       }
     ]
   },
   "daily": {
-    "passage": "Attention all students: The campus library will be closed for maintenance from Monday to Wednesday next week. Please plan accordingly and ensure you have all necessary materials before the closure. Thank you for your understanding.",
+    "passage": "Attention all students! The university will hold a career fair on March 15th from 10 AM to 4 PM in the main hall. Various companies will be present to discuss job opportunities. Bring your resumes and dress professionally.",
     "questions": [
       {
-        "q": "When will the campus library be closed?",
+        "q": "When will the career fair take place?",
         "options": [
-          "Monday to Wednesday.",
-          "Thursday to Friday.",
-          "Only on Monday.",
-          "All week."
+          "March 15th",
+          "April 15th",
+          "March 10th",
+          "February 15th"
         ],
         "correctIndex": 0,
-        "explain": "圖書館將在下周的星期一到星期三關閉。"
+        "explain": "職業博覽會將在3月15日舉行。"
       },
       {
-        "q": "What should students do before the closure?",
+        "q": "What should students bring to the career fair?",
         "options": [
-          "Return all books.",
-          "Prepare all necessary materials.",
-          "Visit other libraries.",
-          "Attend workshops."
+          "Textbooks",
+          "Resumes",
+          "Lunch",
+          "Class schedules"
         ],
         "correctIndex": 1,
-        "explain": "學生們在閉館之前應該準備好所有必要的材料。"
+        "explain": "學生應該帶上簡歷參加職業博覽會。"
       }
     ]
   }

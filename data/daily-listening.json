@@ -1,116 +1,116 @@
 {
   "chooseResponse": [
     {
-      "q": "What time is the meeting?",
+      "q": "What time is the meeting tomorrow?",
       "options": [
-        "It's at 3 PM.",
-        "I don't know.",
-        "Let me check.",
-        "It's canceled."
+        "At 9 AM.",
+        "In the library.",
+        "With the professor.",
+        "On the main campus."
       ],
       "correctIndex": 0
     }
   ],
   "conversation": {
-    "transcript": "Student: Hi, do you know where the art gallery is?\nAdvisor: Yes, it's on the second floor of the student center.\nStudent: Thanks! Is it open today?\nAdvisor: It is, from 10 AM to 5 PM.",
+    "transcript": "Student: Hey, did you hear about the new art exhibit opening this weekend?\nAdvisor: Yes, I did! It's supposed to feature some local artists. Are you planning to go?\nStudent: I think so, it sounds interesting. Do you know what time it starts?\nAdvisor: It opens at noon, and there will be a reception too.",
     "questions": [
       {
-        "q": "Where is the art gallery located?",
+        "q": "What is the main topic of the conversation?",
         "options": [
-          "In the library",
-          "On the second floor of the student center",
-          "In the cafeteria",
-          "Nearby the gym"
+          "A new art exhibit.",
+          "A class schedule change.",
+          "A sports event.",
+          "A study group meeting."
         ],
-        "correctIndex": 1,
-        "explain": "藝術畫廊在學生中心的二樓。"
+        "correctIndex": 0,
+        "explain": "此對話的主要主題是新藝術展。"
       },
       {
-        "q": "What are the art gallery's opening hours?",
+        "q": "What time does the exhibit open?",
         "options": [
-          "9 AM to 4 PM",
-          "10 AM to 5 PM",
-          "11 AM to 6 PM",
-          "All day"
+          "10 AM",
+          "11 AM",
+          "Noon",
+          "1 PM"
         ],
-        "correctIndex": 1,
-        "explain": "畫廊今天的開放時間是早上10點到下午5點。"
+        "correctIndex": 2,
+        "explain": "該展覽在中午12點開放。"
       }
     ]
   },
   "announcement": {
-    "transcript": "Attention students: The annual cultural festival will take place this Saturday in the main quad. There will be food, performances, and art displays. Bring your friends and enjoy a day of fun and culture!",
+    "transcript": "Attention, students! The annual career fair will be held this Friday from 10 AM to 4 PM in the student center. Come and connect with potential employers. Bring your resumes and dress professionally!",
     "questions": [
       {
-        "q": "When is the cultural festival scheduled?",
+        "q": "When will the career fair take place?",
         "options": [
+          "This Thursday",
           "This Friday",
-          "This Saturday",
-          "Next Saturday",
-          "This Sunday"
+          "Next Monday",
+          "Next Wednesday"
         ],
         "correctIndex": 1,
-        "explain": "文化節在這個星期六舉行。"
+        "explain": "職業博覽會將於本週五舉行。"
       },
       {
-        "q": "What activities will be at the festival?",
+        "q": "What should students bring to the fair?",
         "options": [
-          "Only food",
-          "Performances and art displays",
-          "Workshops",
-          "Sports events"
+          "Books",
+          "Resumes",
+          "Lunch",
+          "Friends"
         ],
         "correctIndex": 1,
-        "explain": "節日將有表演和藝術展覽。"
+        "explain": "學生應該攜帶簡歷。"
       }
     ]
   },
   "talk": {
-    "transcript": "Today, we're going to discuss the concept of sustainability. Sustainability refers to meeting our own needs without compromising the ability of future generations to meet their own needs. It involves using resources efficiently and responsibly. This can apply to various sectors, including energy, agriculture, and ecology. For instance, using renewable energy sources like wind or solar power helps reduce our carbon footprint and preserves the environment for future generations. In agriculture, sustainable practices include crop rotation and organic farming, which maintain soil health and reduce chemical use. Ultimately, sustainability is about creating a balance that supports environmental health, economic viability, and social equity.",
+    "transcript": "Today, we will explore the concept of photosynthesis, which is crucial for life on Earth. Photosynthesis occurs primarily in plants, where they convert sunlight, carbon dioxide, and water into glucose and oxygen. This process not only provides food for the plant itself, but also produces oxygen, which is vital for most living organisms. The overall equation for photosynthesis can be summarized as: carbon dioxide plus water, in the presence of sunlight, yields glucose and oxygen. Understanding photosynthesis helps us appreciate the role of plants in our ecosystem.",
     "questions": [
       {
-        "q": "What is the main focus of sustainability?",
+        "q": "What is photosynthesis?",
         "options": [
-          "Polluting resources",
-          "Future generations' needs",
-          "Profit maximization",
-          "Short-term solutions"
+          "A process that creates carbon dioxide.",
+          "A way plants store energy.",
+          "A process by which plants make food.",
+          "An animal digestion process."
         ],
-        "correctIndex": 1,
-        "explain": "可持續性主要集中在未來世代的需求上。"
+        "correctIndex": 2,
+        "explain": "光合作用是植物製造食物的過程。"
       },
       {
-        "q": "What is one example of sustainable energy?",
+        "q": "What do plants convert sunlight into during photosynthesis?",
         "options": [
-          "Coal",
-          "Wind energy",
-          "Natural gas",
-          "Nuclear energy"
+          "Energy",
+          "Water",
+          "Glucose",
+          "Carbon dioxide"
         ],
-        "correctIndex": 1,
-        "explain": "風能是可持續能源的一個例子。"
+        "correctIndex": 2,
+        "explain": "植物在光合作用中將陽光轉化為葡萄糖。"
       },
       {
-        "q": "What practice helps maintain soil health?",
+        "q": "What is produced as a byproduct of photosynthesis?",
         "options": [
-          "Overgrazing",
-          "Crop rotation",
-          "Urban sprawl",
-          "Deforestation"
+          "Carbon dioxide",
+          "Nitrogen",
+          "Oxygen",
+          "Hydrogen"
         ],
-        "correctIndex": 1,
-        "explain": "作物輪作有助於維持土壤健康。"
+        "correctIndex": 2,
+        "explain": "光合作用的副產品是氧氣。"
       },
       {
-        "q": "What does sustainability aim to balance?",
+        "q": "Why is photosynthesis important for the ecosystem?",
         "options": [
-          "Economy and politics",
-          "Environmental health, economy, and social equity",
-          "Technology and culture",
-          "Tradition and innovation"
+          "It creates soil.",
+          "It produces oxygen.",
+          "It reduces pollution.",
+          "It generates heat."
         ],
         "correctIndex": 1,
-        "explain": "可持續性旨在平衡環境健康、經濟和社會公正。"
+        "explain": "光合作用對生態系統的重要性在於它生產氧氣。"
       }
     ]
   }

@@ -3,19 +3,71 @@
     {
       "words": [
         "the",
-        "research",
-        "study",
-        "focused",
-        "on",
-        "the",
-        "impact",
-        "of",
-        "climate",
-        "change",
-        "on",
-        "biodiversity"
+        "students",
+        "will",
+        "submit",
+        "their",
+        "assignments",
+        "by",
+        "friday"
       ],
-      "display": "The research study focused on the impact of climate change on biodiversity."
+      "display": "The students will submit their assignments by Friday."
+    },
+    {
+      "words": [
+        "during",
+        "the",
+        "meeting",
+        "we",
+        "discussed",
+        "the",
+        "upcoming",
+        "project"
+      ],
+      "display": "During the meeting, we discussed the upcoming project."
+    },
+    {
+      "words": [
+        "the",
+        "new",
+        "policy",
+        "will",
+        "affect",
+        "all",
+        "employees",
+        "starting",
+        "next",
+        "month"
+      ],
+      "display": "The new policy will affect all employees starting next month."
+    },
+    {
+      "words": [
+        "after",
+        "class",
+        "i",
+        "usually",
+        "go",
+        "to",
+        "the",
+        "library"
+      ],
+      "display": "After class, I usually go to the library."
+    },
+    {
+      "words": [
+        "the",
+        "research",
+        "team",
+        "is",
+        "conducting",
+        "a",
+        "study",
+        "on",
+        "climate",
+        "change"
+      ],
+      "display": "The research team is conducting a study on climate change."
     },
     {
       "words": [
@@ -25,137 +77,60 @@
         "to",
         "participate",
         "in",
-        "extracurricular",
-        "activities",
-        "to",
-        "enhance",
-        "their",
-        "learning"
+        "the",
+        "volunteer",
+        "program"
       ],
-      "display": "Students are encouraged to participate in extracurricular activities to enhance their learning."
+      "display": "Students are encouraged to participate in the volunteer program."
     },
     {
       "words": [
         "the",
         "professor",
-        "provided",
-        "valuable",
-        "feedback",
-        "on",
-        "the",
-        "students",
-        "research",
-        "projects",
-        "during",
-        "the",
-        "seminar"
-      ],
-      "display": "The professor provided valuable feedback on the students' research projects during the seminar."
-    },
-    {
-      "words": [
-        "it",
-        "is",
-        "important",
-        "to",
-        "understand",
-        "the",
-        "cultural",
-        "differences",
-        "when",
-        "communicating",
-        "with",
-        "international",
-        "students"
-      ],
-      "display": "It is important to understand the cultural differences when communicating with international students."
-    },
-    {
-      "words": [
-        "the",
-        "library",
-        "is",
-        "hosting",
+        "assigned",
         "a",
-        "workshop",
-        "on",
-        "effective",
-        "research",
-        "strategies",
+        "new",
+        "reading",
         "for",
-        "graduate",
-        "students"
+        "the",
+        "next",
+        "class"
       ],
-      "display": "The library is hosting a workshop on effective research strategies for graduate students."
+      "display": "The professor assigned a new reading for the next class."
     },
     {
       "words": [
-        "students",
-        "should",
-        "review",
-        "the",
-        "assignment",
-        "guidelines",
-        "before",
-        "submitting",
-        "their",
-        "final",
-        "papers"
-      ],
-      "display": "Students should review the assignment guidelines before submitting their final papers."
-    },
-    {
-      "words": [
-        "the",
-        "team",
-        "worked",
-        "tirelessly",
-        "to",
-        "complete",
-        "the",
-        "project",
-        "before",
-        "the",
-        "deadline",
-        "set",
+        "please",
+        "submit",
+        "your",
+        "resume",
+        "and",
+        "cover",
+        "letter",
         "by",
         "the",
-        "instructor"
-      ],
-      "display": "The team worked tirelessly to complete the project before the deadline set by the instructor."
-    },
-    {
-      "words": [
-        "attending",
-        "lectures",
-        "regularly",
-        "can",
-        "significantly",
-        "improve",
-        "your",
-        "understanding",
+        "end",
         "of",
         "the",
-        "course",
-        "material"
+        "week"
       ],
-      "display": "Attending lectures regularly can significantly improve your understanding of the course material."
+      "display": "Please submit your resume and cover letter by the end of the week."
     }
   ],
   "emailPrompts": [
-    "寄信給教授，請求延長報告的截止日期，因為遇到個人困難。",
-    "寄信給宿舍辦公室，詢問關於續租的步驟和要求。",
-    "寄信給圖書館，請求查詢某本書籍的可用性和借閱信息。",
-    "寄信給學生會，表達對即將舉辦活動的建議和參與意願。",
-    "寄信給客服，反映最近購物時遇到的問題，並請求解決方案。",
-    "寄信給導師，詢問有關實習機會的資訊，並表達自己的興趣。"
+    "寄信給宿舍辦公室，詢問搬遷的程序及所需文件。",
+    "寄信給圖書館，詢問書籍的借閱期限及續借方式。",
+    "寄信給社團，報名參加即將舉辦的活動。",
+    "寄信給客戶服務，反映最近的購物體驗並尋求解決方案。",
+    "寄信給教授，請假出席會議並請求補發講義。",
+    "寄信給學校職業中心，詢問實習機會的相關資訊。"
   ],
   "discussionPrompts": [
-    "教授問：「在當前的環境中，科技對教育的影響是積極還是消極？」",
-    "教授問：「社交媒體如何改變了我們的溝通方式，這會帶來什麼後果？」",
-    "教授問：「保護環境和經濟增長之間是否存在矛盾？」",
-    "教授問：「文化多樣性在社會中的重要性是什麼？」",
-    "教授問：「全球化是否有助於還是妨礙了本地文化的保存？」",
-    "教授問：「是否應該在學校中實施更多的心理健康教育？」"
+    "教授問：「你認為科技對社會的影響是正面還是負面？」",
+    "教授問：「在環保和經濟發展之間，應如何取得平衡？」",
+    "教授問：「大學教育的目的究竟是什麼？」",
+    "教授問：「藝術在當代社會中扮演什麼角色？」",
+    "教授問：「社交媒體對青少年的心理健康有何影響？」",
+    "教授問：「全球化對文化多樣性造成了什麼樣的挑戰？」"
   ]
 }

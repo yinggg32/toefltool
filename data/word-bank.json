@@ -7270,5 +7270,29 @@
     "zh": "聲明",
     "ex": "To assert one's opinions can be an important step in effective communication.",
     "cat": "📰 每日新詞：psychology"
+  },
+  {
+    "word": "cloud",
+    "pos": "n.",
+    "root": "—",
+    "zh": "雲端",
+    "ex": "Cloud computing allows for scalable storage solutions.",
+    "cat": "📰 每日新詞：technology and innovation"
+  },
+  {
+    "word": "system",
+    "pos": "n.",
+    "root": "sys (together) + tem (to place)",
+    "zh": "系統",
+    "ex": "The system architecture defines how different components interact.",
+    "cat": "📰 每日新詞：technology and innovation"
+  },
+  {
+    "word": "functionality",
+    "pos": "n.",
+    "root": "function (to operate) + ality (quality)",
+    "zh": "功能性",
+    "ex": "The functionality of the app was praised by users for its efficiency.",
+    "cat": "📰 每日新詞：technology and innovation"
   }
 ]
