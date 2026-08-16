@@ -2,113 +2,107 @@
   "cloze": {
     "segments": [
       {
-        "text": "The human brain is a complex organ that is essential for many functions, including "
+        "text": "The theory of e"
       },
       {
-        "blank": "cognition"
+        "blank": "volution"
       },
       {
-        "text": ". It is composed of billions of neurons that communicate through electrical and chemical signals. "
+        "text": " explains how species adapt over time through natural s"
       },
       {
-        "blank": "neuro"
+        "blank": "election"
       },
       {
-        "text": "transmitters play a significant role in these communications. Additionally, the brain is divided into several "
+        "text": " and genetic variation. Charles Darwin is well-known for his contributions to this theory, particularly through his observations of the finch population in the Galapagos I"
       },
       {
-        "blank": "regio"
+        "blank": "slands"
       },
       {
-        "text": ", each responsible for different tasks such as memory, emotion, and motor skills. Understanding how the brain "
+        "text": " where he noted differences in beak shapes. These adaptations allowed the finches to survive in different en"
       },
       {
-        "blank": "func"
+        "blank": "vironments"
       },
       {
-        "text": "tions is crucial for developing treatments for various neurological disorders."
-      },
-      {
-        "blank": "disea"
-      },
-      {
-        "text": "ses can impair cognitive abilities and overall health."
+        "text": " and obtain food effectively. This process of adaptation is fundamental in understanding how species evolve."
       }
     ]
   },
   "academic": {
-    "passage": "The study of the human brain has advanced significantly in recent decades, revealing much about its structure and function. Research indicates that the brain is not static but rather plastic, meaning it can change and adapt in response to experiences. This neuroplasticity is vital for learning and recovery from injuries. Furthermore, studies suggest that activities such as exercise and mental challenges can enhance cognitive functions and promote overall brain health.",
+    "passage": "The concept of renewable energy is increasingly vital as the world seeks sustainable solutions to combat climate change. Renewable energy sources, such as solar, wind, and hydroelectric power, provide cleaner alternatives to fossil fuels. Unlike fossil fuels, these sources are inexhaustible and produce minimal greenhouse gas emissions. The transition to renewable energy not only helps mitigate climate change but also promotes energy security and economic growth. Governments and organizations worldwide are investing heavily in research and infrastructure to enhance the efficiency and accessibility of renewable technologies.",
     "questions": [
       {
         "q": "What is the main idea of the passage?",
         "options": [
-          "The brain can adapt and change over time.",
-          "Exercise is important for physical health.",
-          "Research only focuses on injuries to the brain.",
-          "The brain is a static organ."
+          "The need for renewable energy sources.",
+          "The history of fossil fuels.",
+          "The financial benefits of renewable energy.",
+          "The types of renewable energy technologies."
         ],
         "correctIndex": 0,
-        "explain": "這段文字的主要思想是大腦能夠隨著時間而適應和改變。"
+        "explain": "本文主要講述可再生能源的重要性和對抗氣候變化的影響。"
       },
       {
-        "q": "What does neuroplasticity refer to?",
+        "q": "Which renewable energy sources are mentioned?",
         "options": [
-          "The brain's ability to recover from injuries.",
-          "The structural changes in the brain during aging.",
-          "The capacity of the brain to adapt based on experiences.",
-          "The process of learning new languages."
-        ],
-        "correctIndex": 2,
-        "explain": "神經可塑性指的是大腦根據經驗進行適應的能力。"
-      },
-      {
-        "q": "What can be inferred about exercise and cognitive function?",
-        "options": [
-          "They are unrelated to brain health.",
-          "They can enhance cognitive abilities.",
-          "They only benefit physical health.",
-          "They have no effect on neuroplasticity."
+          "Coal and oil.",
+          "Solar, wind, and hydroelectric.",
+          "Natural gas and biomass.",
+          "Nuclear and geothermal."
         ],
         "correctIndex": 1,
-        "explain": "可以推斷運動可以增強認知能力，這與大腦健康有關。"
+        "explain": "文中提到的可再生能源來源包括太陽能、風能和水電。"
       },
       {
-        "q": "What does the term 'neuroplasticity' mean in the context of brain studies?",
+        "q": "What can be inferred about the future of renewable energy?",
         "options": [
-          "Changes in the brain's structure over time.",
-          "The fixed nature of brain functions.",
-          "The ability of the brain to create new neurons.",
-          "The brain's capacity to change and adapt."
+          "It will decrease in importance.",
+          "It will be further developed and utilized.",
+          "It will replace all fossil fuels immediately.",
+          "It has no effect on climate change."
         ],
-        "correctIndex": 3,
-        "explain": "在大腦研究中，神經可塑性是指大腦改變和適應的能力。"
+        "correctIndex": 1,
+        "explain": "可以推斷可再生能源將繼續發展並被更廣泛地利用。"
+      },
+      {
+        "q": "What does 'inexhaustible' mean in the context of renewable energy?",
+        "options": [
+          "Limited in supply.",
+          "Available in abundance.",
+          "Difficult to create.",
+          "Not commonly used."
+        ],
+        "correctIndex": 1,
+        "explain": "在可再生能源的上下文中，'無窮'是指這些資源是取之不盡的。"
       }
     ]
   },
   "daily": {
-    "passage": "Attention all students! The university will hold a career fair on March 15th from 10 AM to 4 PM in the main hall. Various companies will be present to discuss job opportunities. Bring your resumes and dress professionally.",
+    "passage": "Attention students! The campus library will be undergoing renovations starting next week. During this time, certain areas will be closed off for construction. Please check the library's website for updates on available services and resources. Thank you for your understanding!",
     "questions": [
       {
-        "q": "When will the career fair take place?",
+        "q": "When will the library renovations start?",
         "options": [
-          "March 15th",
-          "April 15th",
-          "March 10th",
-          "February 15th"
+          "Next month.",
+          "This week.",
+          "Next week.",
+          "In two weeks."
         ],
-        "correctIndex": 0,
-        "explain": "職業博覽會將在3月15日舉行。"
+        "correctIndex": 2,
+        "explain": "圖書館的翻修將於下週開始。"
       },
       {
-        "q": "What should students bring to the career fair?",
+        "q": "What should students do for updates about the library?",
         "options": [
-          "Textbooks",
-          "Resumes",
-          "Lunch",
-          "Class schedules"
+          "Visit the library in person.",
+          "Check the library's website.",
+          "Ask the librarians directly.",
+          "Wait for an email."
         ],
         "correctIndex": 1,
-        "explain": "學生應該帶上簡歷參加職業博覽會。"
+        "explain": "學生應查看圖書館的網站以獲取更新。"
       }
     ]
   }

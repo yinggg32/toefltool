@@ -7294,5 +7294,133 @@
     "zh": "功能性",
     "ex": "The functionality of the app was praised by users for its efficiency.",
     "cat": "📰 每日新詞：technology and innovation"
+  },
+  {
+    "word": "historiography",
+    "pos": "n.",
+    "root": "历史书写 (historical writing)",
+    "zh": "历史学",
+    "ex": "Historiography involves the study of how history is recorded and interpreted.",
+    "cat": "📰 每日新詞：history"
+  },
+  {
+    "word": "civilization",
+    "pos": "n.",
+    "root": "文明 (civilization)",
+    "zh": "文明",
+    "ex": "The rise of civilization marked a significant turning point in human history.",
+    "cat": "📰 每日新詞：history"
+  },
+  {
+    "word": "colonization",
+    "pos": "n.",
+    "root": "殖民化 (colonization)",
+    "zh": "殖民化",
+    "ex": "Colonization often led to significant cultural exchanges between the colonizers and the indigenous peoples.",
+    "cat": "📰 每日新詞：history"
+  },
+  {
+    "word": "nomadic",
+    "pos": "adj.",
+    "root": "游牧 (nomadic)",
+    "zh": "游牧的",
+    "ex": "Nomadic tribes played a crucial role in the trade routes of ancient times.",
+    "cat": "📰 每日新詞：history"
+  },
+  {
+    "word": "paleolithic",
+    "pos": "adj.",
+    "root": "旧石器时代 (Old Stone Age)",
+    "zh": "旧石器时代的",
+    "ex": "Paleolithic art provides evidence of early human creativity and expression.",
+    "cat": "📰 每日新詞：history"
+  },
+  {
+    "word": "invasion",
+    "pos": "n.",
+    "root": "入侵 (invasion)",
+    "zh": "入侵",
+    "ex": "The invasion of Normandy was a pivotal moment in World War II.",
+    "cat": "📰 每日新詞：history"
+  },
+  {
+    "word": "ancient",
+    "pos": "adj.",
+    "root": "古代 (ancient)",
+    "zh": "古代的",
+    "ex": "Ancient texts provide valuable information about early human societies.",
+    "cat": "📰 每日新詞：history"
+  },
+  {
+    "word": "chronometric",
+    "pos": "adj.",
+    "root": "时间测量的 (chronometry)",
+    "zh": "计时的",
+    "ex": "Chronometric methods are crucial for dating historical events accurately.",
+    "cat": "📰 每日新詞：history"
+  },
+  {
+    "word": "monarch",
+    "pos": "n.",
+    "root": "君主 (monarch)",
+    "zh": "君主",
+    "ex": "The monarchs of Europe played significant roles in shaping the continent's history.",
+    "cat": "📰 每日新詞：history"
+  },
+  {
+    "word": "anecdote",
+    "pos": "n.",
+    "root": "轶事 (anecdote)",
+    "zh": "轶事",
+    "ex": "An anecdote from a historical figure can illustrate the complexities of their character.",
+    "cat": "📰 每日新詞：history"
+  },
+  {
+    "word": "transition",
+    "pos": "n.",
+    "root": "过渡 (transition)",
+    "zh": "过渡",
+    "ex": "The transition from feudalism to capitalism marked a significant change in European society.",
+    "cat": "📰 每日新詞：history"
+  },
+  {
+    "word": "expansionism",
+    "pos": "n.",
+    "root": "扩张主义 (expansionism)",
+    "zh": "扩张主义",
+    "ex": "Expansionism was a driving force behind many historical empires.",
+    "cat": "📰 每日新詞：history"
+  },
+  {
+    "word": "reliquary",
+    "pos": "n.",
+    "root": "遗物箱 (reliquary)",
+    "zh": "遗物箱",
+    "ex": "The reliquary housed sacred items from a notable historical figure.",
+    "cat": "📰 每日新詞：history"
+  },
+  {
+    "word": "monument",
+    "pos": "n.",
+    "root": "纪念碑 (monument)",
+    "zh": "纪念碑",
+    "ex": "The monument serves as a reminder of the sacrifices made during the war.",
+    "cat": "📰 每日新詞：history"
+  },
+  {
+    "word": "epoch",
+    "pos": "n.",
+    "root": "时代 (epoch)",
+    "zh": "时代",
+    "ex": "The Victorian epoch was characterized by significant social and technological changes.",
+    "cat": "📰 每日新詞：history"
+  },
+  {
+    "word": "disseminate",
+    "pos": "v.",
+    "root": "传播 (disseminate)",
+    "zh": "传播",
+    "ex": "Historians disseminate their findings through publications and lectures.",
+    "cat": "📰 每日新詞：history"
   }
 ]

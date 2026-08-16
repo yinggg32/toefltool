@@ -1,45 +1,45 @@
 {
   "shadowSentences": [
-    "I love reading books in my free time.",
-    "My favorite season is autumn because of the colors.",
-    "I often go hiking with my friends on weekends.",
-    "Cooking new recipes can be really fun and rewarding.",
-    "Traveling to new places helps broaden my perspective.",
-    "I enjoy learning about different cultures through travel.",
-    "Listening to music can improve my mood significantly.",
-    "Doing volunteer work helps me feel connected to my community.",
-    "Taking regular breaks while studying leads to better focus.",
-    "Maintaining a balanced diet is important for my overall health."
+    "I enjoy reading books in my free time.",
+    "Cooking is a great way to spend the weekend.",
+    "Traveling allows me to explore new cultures.",
+    "Listening to music helps me relax after work.",
+    "I often go for hikes in the nearby mountains.",
+    "My favorite movie genre is science fiction and fantasy.",
+    "I like to volunteer at the local animal shelter.",
+    "Baking cookies has become a fun hobby for me.",
+    "Participating in community events is important for connection.",
+    "Gardening teaches me patience and responsibility every day."
   ],
   "interviewScenarios": [
     {
-      "topic": "飲食習慣",
-      "intro": "You have agreed to take part in a research study about eating habits.",
+      "topic": "旅行經驗",
+      "intro": "You have agreed to take part in a research study about travel experiences.",
       "questions": [
-        "Q1: Can you describe your daily eating habits?",
-        "Q2: What challenges do you face when trying to eat healthy?",
-        "Q3: What is your opinion on the importance of nutrition?",
-        "Q4: What advice would you give someone wanting to improve their diet?"
+        "Q1: Can you share a memorable travel experience you had?",
+        "Q2: What challenges did you face during this trip?",
+        "Q3: How do you feel about the importance of traveling?",
+        "Q4: What advice would you give someone planning to travel?"
       ]
     },
     {
-      "topic": "運動愛好",
-      "intro": "You have agreed to take part in a research study about exercise habits.",
+      "topic": "運動習慣",
+      "intro": "You have agreed to take part in a research study about sports habits.",
       "questions": [
-        "Q1: What types of exercise do you enjoy the most?",
-        "Q2: How do you stay motivated to maintain an exercise routine?",
-        "Q3: In your opinion, how important is regular exercise for health?",
-        "Q4: What tips would you offer someone starting to exercise?"
+        "Q1: What types of sports do you enjoy playing?",
+        "Q2: Have you ever faced any obstacles in staying active?",
+        "Q3: In your opinion, how important is physical fitness?",
+        "Q4: What tips can you share for maintaining a regular exercise routine?"
       ]
     },
     {
-      "topic": "環保意識",
-      "intro": "You have agreed to take part in a research study about environmental awareness.",
+      "topic": "飲食文化",
+      "intro": "You have agreed to take part in a research study about food culture.",
       "questions": [
-        "Q1: Can you share how you try to be environmentally friendly?",
-        "Q2: What challenges do people face in adopting eco-friendly practices?",
-        "Q3: What do you think about the current state of environmental protection?",
-        "Q4: What actions would you recommend for someone wanting to help the environment?"
+        "Q1: What is your favorite traditional dish from your culture?",
+        "Q2: Are there any challenges related to food choices in your daily life?",
+        "Q3: How do you view the role of food in cultural identity?",
+        "Q4: What recommendations do you have for trying new cuisines?"
       ]
     }
   ]

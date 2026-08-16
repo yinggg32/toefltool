@@ -1,116 +1,116 @@
 {
   "chooseResponse": [
     {
-      "q": "What time is the meeting tomorrow?",
+      "q": "What time is the meeting?",
       "options": [
-        "At 9 AM.",
+        "At 10 AM.",
         "In the library.",
-        "With the professor.",
-        "On the main campus."
+        "Next week.",
+        "With the professor."
       ],
       "correctIndex": 0
     }
   ],
   "conversation": {
-    "transcript": "Student: Hey, did you hear about the new art exhibit opening this weekend?\nAdvisor: Yes, I did! It's supposed to feature some local artists. Are you planning to go?\nStudent: I think so, it sounds interesting. Do you know what time it starts?\nAdvisor: It opens at noon, and there will be a reception too.",
+    "transcript": "Student: Did you finish the research paper for history class?\nProfessor: Not yet, I'm still gathering sources. How about you?\nStudent: I just started, but I’m feeling a bit overwhelmed.\nProfessor: That’s understandable. Have you visited the writing center for help?",
     "questions": [
       {
-        "q": "What is the main topic of the conversation?",
+        "q": "What is the student feeling about the paper?",
         "options": [
-          "A new art exhibit.",
-          "A class schedule change.",
-          "A sports event.",
-          "A study group meeting."
+          "Excited.",
+          "Overwhelmed.",
+          "Confident.",
+          "Indifferent."
         ],
-        "correctIndex": 0,
-        "explain": "此對話的主要主題是新藝術展。"
+        "correctIndex": 1,
+        "explain": "學生對這篇論文感到不知所措。"
       },
       {
-        "q": "What time does the exhibit open?",
+        "q": "What does the professor suggest?",
         "options": [
-          "10 AM",
-          "11 AM",
-          "Noon",
-          "1 PM"
+          "To work alone.",
+          "To visit the writing center.",
+          "To change the topic.",
+          "To ask friends for help."
         ],
-        "correctIndex": 2,
-        "explain": "該展覽在中午12點開放。"
+        "correctIndex": 1,
+        "explain": "教授建議學生去寫作中心尋求幫助。"
       }
     ]
   },
   "announcement": {
-    "transcript": "Attention, students! The annual career fair will be held this Friday from 10 AM to 4 PM in the student center. Come and connect with potential employers. Bring your resumes and dress professionally!",
+    "transcript": "Attention students: The library will be closed this Saturday for maintenance. Please plan accordingly and ensure that you return any books by Friday. We apologize for the inconvenience.",
     "questions": [
       {
-        "q": "When will the career fair take place?",
+        "q": "Why will the library be closed?",
         "options": [
-          "This Thursday",
-          "This Friday",
-          "Next Monday",
-          "Next Wednesday"
+          "For a holiday.",
+          "For maintenance.",
+          "For inventory.",
+          "For a meeting."
         ],
         "correctIndex": 1,
-        "explain": "職業博覽會將於本週五舉行。"
+        "explain": "圖書館因維護而關閉。"
       },
       {
-        "q": "What should students bring to the fair?",
+        "q": "When should students return their books?",
         "options": [
-          "Books",
-          "Resumes",
-          "Lunch",
-          "Friends"
+          "By Saturday.",
+          "By next week.",
+          "By Friday.",
+          "By tomorrow."
         ],
-        "correctIndex": 1,
-        "explain": "學生應該攜帶簡歷。"
+        "correctIndex": 2,
+        "explain": "學生應在星期五之前歸還書籍。"
       }
     ]
   },
   "talk": {
-    "transcript": "Today, we will explore the concept of photosynthesis, which is crucial for life on Earth. Photosynthesis occurs primarily in plants, where they convert sunlight, carbon dioxide, and water into glucose and oxygen. This process not only provides food for the plant itself, but also produces oxygen, which is vital for most living organisms. The overall equation for photosynthesis can be summarized as: carbon dioxide plus water, in the presence of sunlight, yields glucose and oxygen. Understanding photosynthesis helps us appreciate the role of plants in our ecosystem.",
+    "transcript": "Today, let's discuss the concept of renewable energy. Renewable energy is derived from natural processes that are constantly replenished. Examples include solar, wind, and hydroelectric energy. Unlike fossil fuels, which can deplete over time, renewable energy sources are sustainable and can help reduce our carbon footprint. By investing in renewable energy, we can create a cleaner environment and promote energy independence. It's essential for future generations to transition towards these energy sources to combat climate change and ensure a sustainable future.",
     "questions": [
       {
-        "q": "What is photosynthesis?",
+        "q": "What is renewable energy?",
         "options": [
-          "A process that creates carbon dioxide.",
-          "A way plants store energy.",
-          "A process by which plants make food.",
-          "An animal digestion process."
-        ],
-        "correctIndex": 2,
-        "explain": "光合作用是植物製造食物的過程。"
-      },
-      {
-        "q": "What do plants convert sunlight into during photosynthesis?",
-        "options": [
-          "Energy",
-          "Water",
-          "Glucose",
-          "Carbon dioxide"
-        ],
-        "correctIndex": 2,
-        "explain": "植物在光合作用中將陽光轉化為葡萄糖。"
-      },
-      {
-        "q": "What is produced as a byproduct of photosynthesis?",
-        "options": [
-          "Carbon dioxide",
-          "Nitrogen",
-          "Oxygen",
-          "Hydrogen"
-        ],
-        "correctIndex": 2,
-        "explain": "光合作用的副產品是氧氣。"
-      },
-      {
-        "q": "Why is photosynthesis important for the ecosystem?",
-        "options": [
-          "It creates soil.",
-          "It produces oxygen.",
-          "It reduces pollution.",
-          "It generates heat."
+          "Energy from fossil fuels.",
+          "Energy that is constantly replenished.",
+          "Energy that is harmful to the environment.",
+          "Energy that cannot be used."
         ],
         "correctIndex": 1,
-        "explain": "光合作用對生態系統的重要性在於它生產氧氣。"
+        "explain": "可再生能源是來自不斷補充的自然過程的能源。"
+      },
+      {
+        "q": "Why is renewable energy important?",
+        "options": [
+          "It is cheaper than fossil fuels.",
+          "It can reduce carbon footprint.",
+          "It is easier to use.",
+          "It does not require technology."
+        ],
+        "correctIndex": 1,
+        "explain": "可再生能源可以減少碳足跡。"
+      },
+      {
+        "q": "Which of the following is an example of renewable energy?",
+        "options": [
+          "Coal.",
+          "Natural gas.",
+          "Solar energy.",
+          "Nuclear energy."
+        ],
+        "correctIndex": 2,
+        "explain": "太陽能是可再生能源的一個例子。"
+      },
+      {
+        "q": "What should future generations focus on?",
+        "options": [
+          "Increasing fossil fuel use.",
+          "Transitioning to renewable energy.",
+          "Ignoring climate change.",
+          "Staying with current energy sources."
+        ],
+        "correctIndex": 1,
+        "explain": "未來幾代人應該專注於轉向可再生能源。"
       }
     ]
   }
