@@ -7422,5 +7422,29 @@
     "zh": "传播",
     "ex": "Historians disseminate their findings through publications and lectures.",
     "cat": "📰 每日新詞：history"
+  },
+  {
+    "word": "idiosyncrasy",
+    "pos": "n.",
+    "root": "特異性+peculiarity",
+    "zh": "特異性",
+    "ex": "Each language has its own idiosyncrasies that can perplex learners.",
+    "cat": "📰 每日新詞：linguistics"
+  },
+  {
+    "word": "articulatory",
+    "pos": "adj.",
+    "root": "發音+articulation",
+    "zh": "發音的",
+    "ex": "Articulatory phonetics studies how speech sounds are produced by the human vocal tract.",
+    "cat": "📰 每日新詞：linguistics"
+  },
+  {
+    "word": "hypernym",
+    "pos": "n.",
+    "root": "上位詞+general term",
+    "zh": "上位詞",
+    "ex": "'Animal' is a hypernym for more specific terms like 'dog' and 'cat'.",
+    "cat": "📰 每日新詞：linguistics"
   }
 ]

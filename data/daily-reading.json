@@ -2,107 +2,113 @@
   "cloze": {
     "segments": [
       {
-        "text": "The theory of e"
+        "text": "The concept of cultural "
       },
       {
-        "blank": "volution"
+        "blank": "div"
       },
       {
-        "text": " explains how species adapt over time through natural s"
+        "text": "ersity refers to the variety of cultural expressions and practices that exist within a society. It encompasses the "
       },
       {
-        "blank": "election"
+        "blank": "inter"
       },
       {
-        "text": " and genetic variation. Charles Darwin is well-known for his contributions to this theory, particularly through his observations of the finch population in the Galapagos I"
+        "text": "action between different cultural groups, leading to an exchange of ideas, traditions, and values. Cultural diversity is crucial because it fosters innovation and creativity, allowing for a "
       },
       {
-        "blank": "slands"
+        "blank": "bro"
       },
       {
-        "text": " where he noted differences in beak shapes. These adaptations allowed the finches to survive in different en"
+        "text": "ader understanding of the world. Moreover, protecting cultural diversity helps to sustain historical "
       },
       {
-        "blank": "vironments"
+        "blank": "leg"
       },
       {
-        "text": " and obtain food effectively. This process of adaptation is fundamental in understanding how species evolve."
+        "text": "acies and promotes social cohesion among communities. Governments and organizations often implement policies to celebrate and preserve the unique features of each culture, ensuring that they are not overshadowed by a "
+      },
+      {
+        "blank": "dom"
+      },
+      {
+        "text": "inant culture."
       }
     ]
   },
   "academic": {
-    "passage": "The concept of renewable energy is increasingly vital as the world seeks sustainable solutions to combat climate change. Renewable energy sources, such as solar, wind, and hydroelectric power, provide cleaner alternatives to fossil fuels. Unlike fossil fuels, these sources are inexhaustible and produce minimal greenhouse gas emissions. The transition to renewable energy not only helps mitigate climate change but also promotes energy security and economic growth. Governments and organizations worldwide are investing heavily in research and infrastructure to enhance the efficiency and accessibility of renewable technologies.",
+    "passage": "Cultural diversity is an essential aspect of contemporary society. It enhances creativity and innovation by allowing different perspectives to merge. Moreover, it plays a vital role in maintaining historical legacies, promoting social cohesion among various communities. Recognizing and celebrating diverse cultural expressions can lead to greater understanding and tolerance. Various governments worldwide enact policies to protect and promote cultural diversity, ensuring that no single culture overshadows others.",
     "questions": [
       {
         "q": "What is the main idea of the passage?",
         "options": [
-          "The need for renewable energy sources.",
-          "The history of fossil fuels.",
-          "The financial benefits of renewable energy.",
-          "The types of renewable energy technologies."
+          "Cultural diversity enriches society",
+          "Historical legacies are unimportant",
+          "Only dominant cultures matter",
+          "Cultural exchange is harmful"
         ],
         "correctIndex": 0,
-        "explain": "本文主要講述可再生能源的重要性和對抗氣候變化的影響。"
+        "explain": "這段文字主要說明文化多樣性如何豐富社會。"
       },
       {
-        "q": "Which renewable energy sources are mentioned?",
+        "q": "What role does cultural diversity play according to the passage?",
         "options": [
-          "Coal and oil.",
-          "Solar, wind, and hydroelectric.",
-          "Natural gas and biomass.",
-          "Nuclear and geothermal."
+          "Increases social conflict",
+          "Enhances creativity",
+          "Limits perspectives",
+          "Decreases tolerance"
         ],
         "correctIndex": 1,
-        "explain": "文中提到的可再生能源來源包括太陽能、風能和水電。"
+        "explain": "根據文章，文化多樣性增強了創造力。"
       },
       {
-        "q": "What can be inferred about the future of renewable energy?",
+        "q": "What can be inferred about governments' attitudes towards cultural diversity?",
         "options": [
-          "It will decrease in importance.",
-          "It will be further developed and utilized.",
-          "It will replace all fossil fuels immediately.",
-          "It has no effect on climate change."
+          "They ignore it",
+          "They promote it",
+          "They are indifferent",
+          "They oppose it"
         ],
         "correctIndex": 1,
-        "explain": "可以推斷可再生能源將繼續發展並被更廣泛地利用。"
+        "explain": "文章指出，各國政府會制定政策來促進文化多樣性。"
       },
       {
-        "q": "What does 'inexhaustible' mean in the context of renewable energy?",
+        "q": "What does the term 'social cohesion' mean in this context?",
         "options": [
-          "Limited in supply.",
-          "Available in abundance.",
-          "Difficult to create.",
-          "Not commonly used."
+          "Unity within a society",
+          "Conflict between cultures",
+          "Isolation of cultural groups",
+          "Economic stability"
         ],
-        "correctIndex": 1,
-        "explain": "在可再生能源的上下文中，'無窮'是指這些資源是取之不盡的。"
+        "correctIndex": 0,
+        "explain": "社會凝聚力在這裡指的是社會內部的團結。"
       }
     ]
   },
   "daily": {
-    "passage": "Attention students! The campus library will be undergoing renovations starting next week. During this time, certain areas will be closed off for construction. Please check the library's website for updates on available services and resources. Thank you for your understanding!",
+    "passage": "Attention students! The campus library will be closed for maintenance from October 15 to October 20. Please plan accordingly and return any borrowed books before this period. Thank you for your understanding.",
     "questions": [
       {
-        "q": "When will the library renovations start?",
+        "q": "When will the library be closed?",
         "options": [
-          "Next month.",
-          "This week.",
-          "Next week.",
-          "In two weeks."
-        ],
-        "correctIndex": 2,
-        "explain": "圖書館的翻修將於下週開始。"
-      },
-      {
-        "q": "What should students do for updates about the library?",
-        "options": [
-          "Visit the library in person.",
-          "Check the library's website.",
-          "Ask the librarians directly.",
-          "Wait for an email."
+          "October 10 to October 15",
+          "October 15 to October 20",
+          "October 20 to October 25",
+          "November 1 to November 5"
         ],
         "correctIndex": 1,
-        "explain": "學生應查看圖書館的網站以獲取更新。"
+        "explain": "圖書館將在10月15日至20日關閉。"
+      },
+      {
+        "q": "What should students do with borrowed books?",
+        "options": [
+          "Keep them longer",
+          "Return them before closure",
+          "Donate them",
+          "Sell them"
+        ],
+        "correctIndex": 1,
+        "explain": "學生應在關閉之前歸還借出的書籍。"
       }
     ]
   }

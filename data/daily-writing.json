@@ -3,128 +3,125 @@
     {
       "words": [
         "the",
-        "research",
-        "team",
-        "will",
-        "present",
-        "their",
-        "findings",
-        "tomorrow"
-      ],
-      "display": "The research team will present their findings tomorrow."
-    },
-    {
-      "words": [
         "students",
-        "should",
-        "submit",
-        "their",
-        "assignments",
-        "by",
+        "completed",
+        "the",
+        "assignment",
+        "before",
         "the",
         "deadline"
       ],
-      "display": "Students should submit their assignments by the deadline."
+      "display": "The students completed the assignment before the deadline."
     },
     {
       "words": [
-        "it",
-        "is",
-        "important",
-        "to",
-        "review",
         "the",
-        "material",
-        "before",
-        "the",
-        "exam"
+        "scientific",
+        "research",
+        "has",
+        "shown",
+        "significant",
+        "improvements",
+        "in"
       ],
-      "display": "It is important to review the material before the exam."
+      "display": "The scientific research has shown significant improvements in."
     },
     {
       "words": [
         "the",
         "library",
-        "will",
-        "be",
-        "closed",
-        "for",
-        "renovation",
-        "next",
-        "week"
-      ],
-      "display": "The library will be closed for renovation next week."
-    },
-    {
-      "words": [
+        "is",
+        "open",
+        "from",
+        "eight",
+        "in",
         "the",
-        "club",
-        "meeting",
-        "has",
-        "been",
-        "rescheduled",
-        "to",
-        "next",
-        "friday"
+        "morning"
       ],
-      "display": "The club meeting has been rescheduled to next Friday."
+      "display": "The library is open from eight in the morning."
     },
     {
       "words": [
-        "please",
-        "contact",
-        "customer",
-        "service",
-        "for",
-        "any",
-        "questions",
-        "or",
-        "concerns"
+        "attending",
+        "the",
+        "conference",
+        "will",
+        "benefit",
+        "the",
+        "students",
+        "greatly"
       ],
-      "display": "Please contact customer service for any questions or concerns."
+      "display": "Attending the conference will benefit the students greatly."
     },
     {
       "words": [
         "the",
         "professor",
-        "encouraged",
-        "students",
-        "to",
-        "participate",
-        "in",
-        "the",
-        "discussion"
+        "gave",
+        "a",
+        "lecture",
+        "about",
+        "climate",
+        "change"
       ],
-      "display": "The professor encouraged students to participate in the discussion."
+      "display": "The professor gave a lecture about climate change."
     },
     {
       "words": [
-        "all",
-        "participants",
-        "must",
-        "register",
-        "before",
-        "the",
-        "event",
-        "starts"
+        "many",
+        "students",
+        "prefer",
+        "group",
+        "studies",
+        "over",
+        "individual",
+        "studies"
       ],
-      "display": "All participants must register before the event starts."
+      "display": "Many students prefer group studies over individual studies."
+    },
+    {
+      "words": [
+        "the",
+        "club",
+        "will",
+        "hold",
+        "a",
+        "meeting",
+        "on",
+        "monday",
+        "evening"
+      ],
+      "display": "The club will hold a meeting on Monday evening."
+    },
+    {
+      "words": [
+        "the",
+        "presentation",
+        "needs",
+        "to",
+        "be",
+        "submitted",
+        "by",
+        "friday",
+        "noon"
+      ],
+      "display": "The presentation needs to be submitted by Friday noon."
     }
   ],
   "emailPrompts": [
     "寄信給教授，說明因病無法參加期中考，詢問補考事宜。",
-    "寄信給宿舍管理員，請求維修水管問題。",
-    "寄信給圖書館，詢問關於書籍借閱的規定。",
-    "寄信給社團負責人，表達想加入該社團的興趣。",
-    "寄信給客服，反映購買產品的問題並請求退款。",
-    "寄信給學校的活動策劃人，詢問校慶活動的具體安排。"
+    "寄信給宿舍管理員，請求延後支付下個月的宿舍費用。",
+    "寄信給圖書館，請求延長借書期限，因為需要更多時間閱讀。",
+    "寄信給學生會，詢問如何參加即將舉行的社團活動。",
+    "寄信給顧客服務，反映最近一次購物的問題，並要求退款。",
+    "寄信給導師，請教有關課程的問題，並請求額外的學習資源。"
   ],
   "discussionPrompts": [
-    "教授問：「你認為科技對社會的影響是正面還是負面？」",
-    "教授問：「全球暖化的主要原因是什麼？」",
-    "教授問：「應該如何平衡經濟發展與環境保護？」",
-    "教授問：「教育應該更注重知識還是技能的培養？」",
-    "教授問：「社交媒體對人際關係的影響是什麼？」",
-    "教授問：「在多元文化社會中，如何促進文化交流？」"
+    "教授問：「你如何看待人工智慧在教育中的應用？」",
+    "教授問：「社交媒體對人際關係產生了什麼影響？」",
+    "教授問：「全球變暖的主要原因是什麼？」",
+    "教授問：「你認為政府應該如何解決貧富差距問題？」",
+    "教授問：「在現代社會中，書籍還有多重要？」",
+    "教授問：「窮人與富人對於教育的看法有何不同？」"
   ]
 }

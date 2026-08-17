@@ -1,116 +1,116 @@
 {
   "chooseResponse": [
     {
-      "q": "What time is the meeting?",
+      "q": "What time does the event start?",
       "options": [
-        "At 10 AM.",
-        "In the library.",
-        "Next week.",
-        "With the professor."
+        "At 3 PM.",
+        "I don't know.",
+        "It's canceled.",
+        "Let me check."
       ],
       "correctIndex": 0
     }
   ],
   "conversation": {
-    "transcript": "Student: Did you finish the research paper for history class?\nProfessor: Not yet, I'm still gathering sources. How about you?\nStudent: I just started, but I’m feeling a bit overwhelmed.\nProfessor: That’s understandable. Have you visited the writing center for help?",
+    "transcript": "Student: Hi, do you know when the art exhibition opens?\nAdvisor: Yes, it opens this Saturday at 10 AM.\nStudent: That sounds great! Is there an entrance fee?\nAdvisor: No, it's free for all students.",
     "questions": [
       {
-        "q": "What is the student feeling about the paper?",
+        "q": "When is the art exhibition opening?",
         "options": [
-          "Excited.",
-          "Overwhelmed.",
-          "Confident.",
-          "Indifferent."
+          "This Saturday",
+          "Next Monday",
+          "Tomorrow",
+          "Next Saturday"
         ],
-        "correctIndex": 1,
-        "explain": "學生對這篇論文感到不知所措。"
+        "correctIndex": 0,
+        "explain": "藝術展覽將在本週六開幕。"
       },
       {
-        "q": "What does the professor suggest?",
+        "q": "Is there a fee to enter the exhibition?",
         "options": [
-          "To work alone.",
-          "To visit the writing center.",
-          "To change the topic.",
-          "To ask friends for help."
+          "Yes, $10",
+          "No, it's free",
+          "Only for guests",
+          "$5 for students"
         ],
         "correctIndex": 1,
-        "explain": "教授建議學生去寫作中心尋求幫助。"
+        "explain": "進入展覽是免費的。"
       }
     ]
   },
   "announcement": {
-    "transcript": "Attention students: The library will be closed this Saturday for maintenance. Please plan accordingly and ensure that you return any books by Friday. We apologize for the inconvenience.",
+    "transcript": "Attention students! The library will be closing early today at 5 PM for maintenance. Please make sure to check out any materials you need before then. Thank you for your understanding.",
     "questions": [
       {
-        "q": "Why will the library be closed?",
+        "q": "Why is the library closing early?",
         "options": [
-          "For a holiday.",
-          "For maintenance.",
-          "For inventory.",
-          "For a meeting."
+          "For a meeting",
+          "For maintenance",
+          "For a holiday",
+          "Due to staffing issues"
         ],
         "correctIndex": 1,
-        "explain": "圖書館因維護而關閉。"
+        "explain": "圖書館因為維護工作而提前關閉。"
       },
       {
-        "q": "When should students return their books?",
+        "q": "What time will the library close today?",
         "options": [
-          "By Saturday.",
-          "By next week.",
-          "By Friday.",
-          "By tomorrow."
+          "6 PM",
+          "4 PM",
+          "5 PM",
+          "7 PM"
         ],
         "correctIndex": 2,
-        "explain": "學生應在星期五之前歸還書籍。"
+        "explain": "今天圖書館將在下午五點關閉。"
       }
     ]
   },
   "talk": {
-    "transcript": "Today, let's discuss the concept of renewable energy. Renewable energy is derived from natural processes that are constantly replenished. Examples include solar, wind, and hydroelectric energy. Unlike fossil fuels, which can deplete over time, renewable energy sources are sustainable and can help reduce our carbon footprint. By investing in renewable energy, we can create a cleaner environment and promote energy independence. It's essential for future generations to transition towards these energy sources to combat climate change and ensure a sustainable future.",
+    "transcript": "Today, we will discuss the concept of 'sustainable energy'. Sustainable energy refers to energy sources that are renewable and have minimal environmental impact. This includes solar, wind, and hydroelectric power. Unlike fossil fuels, which can deplete and harm the planet, sustainable energy sources can be replenished naturally. They contribute to reducing greenhouse gas emissions and combatting climate change. As society shifts towards these energy sources, it is crucial to innovate and improve technology for efficiency and accessibility, ensuring a cleaner and more sustainable future for generations to come.",
     "questions": [
       {
-        "q": "What is renewable energy?",
+        "q": "What is sustainable energy?",
         "options": [
-          "Energy from fossil fuels.",
-          "Energy that is constantly replenished.",
-          "Energy that is harmful to the environment.",
-          "Energy that cannot be used."
+          "Renewable energy sources",
+          "Non-renewable energy",
+          "Oil and gas",
+          "Coal energy"
         ],
-        "correctIndex": 1,
-        "explain": "可再生能源是來自不斷補充的自然過程的能源。"
+        "correctIndex": 0,
+        "explain": "可持續能源是指可再生的能源來源。"
       },
       {
-        "q": "Why is renewable energy important?",
+        "q": "Which of the following is a type of sustainable energy?",
         "options": [
-          "It is cheaper than fossil fuels.",
-          "It can reduce carbon footprint.",
-          "It is easier to use.",
-          "It does not require technology."
+          "Natural gas",
+          "Solar power",
+          "Coal",
+          "Nuclear energy"
         ],
         "correctIndex": 1,
-        "explain": "可再生能源可以減少碳足跡。"
+        "explain": "太陽能是可持續能源的一種。"
       },
       {
-        "q": "Which of the following is an example of renewable energy?",
+        "q": "What is one benefit of sustainable energy?",
         "options": [
-          "Coal.",
-          "Natural gas.",
-          "Solar energy.",
-          "Nuclear energy."
+          "Increases fossil fuel reliance",
+          "Depletes natural resources",
+          "Reduces greenhouse gas emissions",
+          "Causes climate change"
         ],
         "correctIndex": 2,
-        "explain": "太陽能是可再生能源的一個例子。"
+        "explain": "可持續能源有助於減少溫室氣體排放。"
       },
       {
-        "q": "What should future generations focus on?",
+        "q": "Why is innovation important in sustainable energy?",
         "options": [
-          "Increasing fossil fuel use.",
-          "Transitioning to renewable energy.",
-          "Ignoring climate change.",
-          "Staying with current energy sources."
+          "To decrease energy costs",
+          "To improve technology",
+          "To increase fossil fuel use",
+          "To limit renewable sources"
         ],
         "correctIndex": 1,
-        "explain": "未來幾代人應該專注於轉向可再生能源。"
+        "explain": "創新對於可持續能源至關重要，以改進技術。"
       }
     ]
   }

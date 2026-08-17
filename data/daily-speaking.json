@@ -1,45 +1,45 @@
 {
   "shadowSentences": [
-    "I enjoy reading books in my free time.",
-    "Cooking is a great way to spend the weekend.",
-    "Traveling allows me to explore new cultures.",
-    "Listening to music helps me relax after work.",
-    "I often go for hikes in the nearby mountains.",
-    "My favorite movie genre is science fiction and fantasy.",
-    "I like to volunteer at the local animal shelter.",
-    "Baking cookies has become a fun hobby for me.",
-    "Participating in community events is important for connection.",
-    "Gardening teaches me patience and responsibility every day."
+    "I enjoy reading books.",
+    "My favorite color is blue.",
+    "I often go for morning walks.",
+    "Cooking is a fun way to relax.",
+    "Traveling helps me learn about new cultures.",
+    "I prefer tea over coffee most days.",
+    "Listening to music improves my mood quickly.",
+    "Spending time with friends brings me joy.",
+    "I enjoy trying new foods from different cuisines.",
+    "Gardening is a rewarding hobby that takes patience."
   ],
   "interviewScenarios": [
     {
-      "topic": "旅行經驗",
-      "intro": "You have agreed to take part in a research study about travel experiences.",
+      "topic": "旅行計劃",
+      "intro": "You have agreed to take part in a research study about travel planning.",
       "questions": [
-        "Q1: Can you share a memorable travel experience you had?",
-        "Q2: What challenges did you face during this trip?",
-        "Q3: How do you feel about the importance of traveling?",
-        "Q4: What advice would you give someone planning to travel?"
+        "Q1: Can you share a recent trip you planned?",
+        "Q2: What challenges did you face while planning that trip?",
+        "Q3: How important do you think planning is for a successful trip?",
+        "Q4: What advice would you give someone who is new to travel planning?"
       ]
     },
     {
       "topic": "運動習慣",
-      "intro": "You have agreed to take part in a research study about sports habits.",
+      "intro": "You have agreed to take part in a research study about exercise habits.",
       "questions": [
-        "Q1: What types of sports do you enjoy playing?",
-        "Q2: Have you ever faced any obstacles in staying active?",
-        "Q3: In your opinion, how important is physical fitness?",
-        "Q4: What tips can you share for maintaining a regular exercise routine?"
+        "Q1: What types of exercise do you enjoy the most?",
+        "Q2: Have you encountered any obstacles in maintaining your exercise routine?",
+        "Q3: In your opinion, how does exercise impact overall health?",
+        "Q4: What tips would you offer to someone starting an exercise program?"
       ]
     },
     {
-      "topic": "飲食文化",
-      "intro": "You have agreed to take part in a research study about food culture.",
+      "topic": "藝術欣賞",
+      "intro": "You have agreed to take part in a research study about appreciating art.",
       "questions": [
-        "Q1: What is your favorite traditional dish from your culture?",
-        "Q2: Are there any challenges related to food choices in your daily life?",
-        "Q3: How do you view the role of food in cultural identity?",
-        "Q4: What recommendations do you have for trying new cuisines?"
+        "Q1: Can you describe a memorable experience you had with art?",
+        "Q2: What difficulties do you think people face in understanding art?",
+        "Q3: How do you feel art influences society today?",
+        "Q4: What would you suggest to someone who wants to learn more about art?"
       ]
     }
   ]
