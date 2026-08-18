@@ -1,116 +1,116 @@
 {
   "chooseResponse": [
     {
-      "q": "What time does the event start?",
+      "q": "What time is the study group?",
       "options": [
-        "At 3 PM.",
-        "I don't know.",
-        "It's canceled.",
-        "Let me check."
+        "In the library at 5 PM.",
+        "At the cafeteria.",
+        "In the dormitory lounge.",
+        "Next week."
       ],
       "correctIndex": 0
     }
   ],
   "conversation": {
-    "transcript": "Student: Hi, do you know when the art exhibition opens?\nAdvisor: Yes, it opens this Saturday at 10 AM.\nStudent: That sounds great! Is there an entrance fee?\nAdvisor: No, it's free for all students.",
+    "transcript": "Student: Hey, have you heard about the new study group for Chemistry?\nAdvisor: Yes, I have! It’s meeting tomorrow in the library at 5 PM.\nStudent: I really need help with the last exam material.\nAdvisor: This group should be really helpful. You should definitely attend.",
     "questions": [
       {
-        "q": "When is the art exhibition opening?",
+        "q": "When is the study group meeting?",
         "options": [
-          "This Saturday",
-          "Next Monday",
-          "Tomorrow",
-          "Next Saturday"
+          "Tomorrow at 5 PM.",
+          "Next week.",
+          "In the morning.",
+          "In the cafeteria."
         ],
         "correctIndex": 0,
-        "explain": "藝術展覽將在本週六開幕。"
+        "explain": "學習小組將在明天五點會議。"
       },
       {
-        "q": "Is there a fee to enter the exhibition?",
+        "q": "Where will the study group take place?",
         "options": [
-          "Yes, $10",
-          "No, it's free",
-          "Only for guests",
-          "$5 for students"
+          "In the library.",
+          "In the dormitory.",
+          "At the cafeteria.",
+          "In the classroom."
         ],
-        "correctIndex": 1,
-        "explain": "進入展覽是免費的。"
+        "correctIndex": 0,
+        "explain": "學習小組將在圖書館舉行。"
       }
     ]
   },
   "announcement": {
-    "transcript": "Attention students! The library will be closing early today at 5 PM for maintenance. Please make sure to check out any materials you need before then. Thank you for your understanding.",
+    "transcript": "Attention students! The annual science fair will take place this Friday in the student center from 3 PM to 6 PM. All students are encouraged to participate and showcase their projects. Prizes will be awarded for the top entries, so don't miss this opportunity!",
     "questions": [
       {
-        "q": "Why is the library closing early?",
+        "q": "When is the science fair?",
         "options": [
-          "For a meeting",
-          "For maintenance",
-          "For a holiday",
-          "Due to staffing issues"
+          "This Friday.",
+          "Next week.",
+          "Tomorrow.",
+          "Last week."
         ],
-        "correctIndex": 1,
-        "explain": "圖書館因為維護工作而提前關閉。"
+        "correctIndex": 0,
+        "explain": "科學展將在本週五舉行。"
       },
       {
-        "q": "What time will the library close today?",
+        "q": "Where will the science fair be held?",
         "options": [
-          "6 PM",
-          "4 PM",
-          "5 PM",
-          "7 PM"
+          "In the student center.",
+          "In the library.",
+          "In the gym.",
+          "In the cafeteria."
         ],
-        "correctIndex": 2,
-        "explain": "今天圖書館將在下午五點關閉。"
+        "correctIndex": 0,
+        "explain": "科學展將在學生中心舉行。"
       }
     ]
   },
   "talk": {
-    "transcript": "Today, we will discuss the concept of 'sustainable energy'. Sustainable energy refers to energy sources that are renewable and have minimal environmental impact. This includes solar, wind, and hydroelectric power. Unlike fossil fuels, which can deplete and harm the planet, sustainable energy sources can be replenished naturally. They contribute to reducing greenhouse gas emissions and combatting climate change. As society shifts towards these energy sources, it is crucial to innovate and improve technology for efficiency and accessibility, ensuring a cleaner and more sustainable future for generations to come.",
+    "transcript": "Today, we will discuss the process of photosynthesis, which is how plants convert light energy into chemical energy. During photosynthesis, plants absorb sunlight using chlorophyll, which is found in their leaves. They take in carbon dioxide from the air and water from the soil. Using the energy from sunlight, plants synthesize glucose and release oxygen as a byproduct. This process is vital not only for plant life but also for all living organisms on Earth, as it provides the oxygen we breathe and the food we consume.",
     "questions": [
       {
-        "q": "What is sustainable energy?",
+        "q": "What is photosynthesis?",
         "options": [
-          "Renewable energy sources",
-          "Non-renewable energy",
-          "Oil and gas",
-          "Coal energy"
+          "The process of converting light energy into chemical energy.",
+          "A method of growing plants in the dark.",
+          "The way plants absorb water.",
+          "A type of plant disease."
         ],
         "correctIndex": 0,
-        "explain": "可持續能源是指可再生的能源來源。"
+        "explain": "光合作用是將光能轉換為化學能的過程。"
       },
       {
-        "q": "Which of the following is a type of sustainable energy?",
+        "q": "What do plants absorb during photosynthesis?",
         "options": [
-          "Natural gas",
-          "Solar power",
-          "Coal",
-          "Nuclear energy"
+          "Sunlight, carbon dioxide, and water.",
+          "Only sunlight.",
+          "Only carbon dioxide and oxygen.",
+          "Nutrients from the soil."
         ],
-        "correctIndex": 1,
-        "explain": "太陽能是可持續能源的一種。"
+        "correctIndex": 0,
+        "explain": "植物在光合作用過程中吸收陽光、二氧化碳和水。"
       },
       {
-        "q": "What is one benefit of sustainable energy?",
+        "q": "What is produced as a byproduct of photosynthesis?",
         "options": [
-          "Increases fossil fuel reliance",
-          "Depletes natural resources",
-          "Reduces greenhouse gas emissions",
-          "Causes climate change"
+          "Oxygen.",
+          "Glucose.",
+          "Carbon dioxide.",
+          "Water."
         ],
-        "correctIndex": 2,
-        "explain": "可持續能源有助於減少溫室氣體排放。"
+        "correctIndex": 0,
+        "explain": "光合作用的副產品是氧氣。"
       },
       {
-        "q": "Why is innovation important in sustainable energy?",
+        "q": "Why is photosynthesis important?",
         "options": [
-          "To decrease energy costs",
-          "To improve technology",
-          "To increase fossil fuel use",
-          "To limit renewable sources"
+          "It provides oxygen and food for living organisms.",
+          "It reduces pollution.",
+          "It helps plants grow faster.",
+          "It generates energy directly for humans."
         ],
-        "correctIndex": 1,
-        "explain": "創新對於可持續能源至關重要，以改進技術。"
+        "correctIndex": 0,
+        "explain": "光合作用對所有生物至關重要，因為它提供我們所需的氧氣和食物。"
       }
     ]
   }

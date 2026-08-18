@@ -7446,5 +7446,93 @@
     "zh": "上位詞",
     "ex": "'Animal' is a hypernym for more specific terms like 'dog' and 'cat'.",
     "cat": "📰 每日新詞：linguistics"
+  },
+  {
+    "word": "exhibit",
+    "pos": "v./n.",
+    "root": "展覽—exhibit",
+    "zh": "展覽；展出",
+    "ex": "The museum will exhibit works from various contemporary artists.",
+    "cat": "📰 每日新詞：art and architecture"
+  },
+  {
+    "word": "landscape",
+    "pos": "n.",
+    "root": "風景—landscape",
+    "zh": "風景，景觀",
+    "ex": "The landscape painting captures the serene beauty of the countryside.",
+    "cat": "📰 每日新詞：art and architecture"
+  },
+  {
+    "word": "interpretation",
+    "pos": "n.",
+    "root": "詮釋—interpret",
+    "zh": "詮釋，解釋",
+    "ex": "The interpretation of the artwork varies among different cultures.",
+    "cat": "📰 每日新詞：art and architecture"
+  },
+  {
+    "word": "ethereal",
+    "pos": "adj.",
+    "root": "輕飄的—ethereal",
+    "zh": "輕飄的；超凡的",
+    "ex": "The ethereal quality of the artwork captivates the audience.",
+    "cat": "📰 每日新詞：art and architecture"
+  },
+  {
+    "word": "prototyping",
+    "pos": "n.",
+    "root": "原型—prototype",
+    "zh": "原型製作",
+    "ex": "Prototyping is essential in the design process of modern architecture.",
+    "cat": "📰 每日新詞：art and architecture"
+  },
+  {
+    "word": "geometric",
+    "pos": "adj.",
+    "root": "幾何—geometry",
+    "zh": "幾何的；幾何圖形的",
+    "ex": "The geometric patterns in the architecture reflect modern design principles.",
+    "cat": "📰 每日新詞：art and architecture"
+  },
+  {
+    "word": "monumental",
+    "pos": "adj.",
+    "root": "紀念碑—monument",
+    "zh": "紀念性的；宏偉的",
+    "ex": "The monumental sculpture stands as a tribute to the city's history.",
+    "cat": "📰 每日新詞：art and architecture"
+  },
+  {
+    "word": "dynamic",
+    "pos": "adj.",
+    "root": "動態—dynamism",
+    "zh": "動態的；動力的",
+    "ex": "The dynamic nature of modern art reflects societal changes.",
+    "cat": "📰 每日新詞：art and architecture"
+  },
+  {
+    "word": "spatial",
+    "pos": "adj.",
+    "root": "空間—space",
+    "zh": "空間的；空間感的",
+    "ex": "Spatial awareness is critical in both art and architectural design.",
+    "cat": "📰 每日新詞：art and architecture"
+  },
+  {
+    "word": "vibrancy",
+    "pos": "n.",
+    "root": "活力—vibrant",
+    "zh": "活力；生機",
+    "ex": "The vibrancy of the colors in the mural draws attention from passersby.",
+    "cat": "📰 每日新詞：art and architecture"
+  },
+  {
+    "word": "catalyst",
+    "pos": "n.",
+    "root": "催化劑—catalyst",
+    "zh": "催化劑；促進因素",
+    "ex": "Art can serve as a catalyst for social change and awareness.",
+    "cat": "📰 每日新詞：art and architecture"
   }
 ]

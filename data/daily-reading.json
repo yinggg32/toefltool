@@ -2,113 +2,110 @@
   "cloze": {
     "segments": [
       {
-        "text": "The concept of cultural "
+        "text": "The process of photosynthesis is essential for plants. During this, plants convert carbon dio"
       },
       {
-        "blank": "div"
+        "blank": "xide"
       },
       {
-        "text": "ersity refers to the variety of cultural expressions and practices that exist within a society. It encompasses the "
+        "text": ", water, and sunlight into glucose and oxy"
       },
       {
-        "blank": "inter"
+        "blank": "gen"
       },
       {
-        "text": "action between different cultural groups, leading to an exchange of ideas, traditions, and values. Cultural diversity is crucial because it fosters innovation and creativity, allowing for a "
+        "text": ". This biochemical reaction occurs primarily in the chloroplasts of lea"
       },
       {
-        "blank": "bro"
+        "blank": "ves"
       },
       {
-        "text": "ader understanding of the world. Moreover, protecting cultural diversity helps to sustain historical "
+        "text": ", where chlorophyll absorbs light energy. The overall equation for photosynthesis can be summarized as follows: carbon dio"
       },
       {
-        "blank": "leg"
+        "blank": "xide"
       },
       {
-        "text": "acies and promotes social cohesion among communities. Governments and organizations often implement policies to celebrate and preserve the unique features of each culture, ensuring that they are not overshadowed by a "
+        "text": " + water + light energy → glucose + oxygen. This process not only sustains the plant but also produces the oxygen that many organisms depend on for sur"
       },
       {
-        "blank": "dom"
-      },
-      {
-        "text": "inant culture."
+        "blank": "vival"
       }
     ]
   },
   "academic": {
-    "passage": "Cultural diversity is an essential aspect of contemporary society. It enhances creativity and innovation by allowing different perspectives to merge. Moreover, it plays a vital role in maintaining historical legacies, promoting social cohesion among various communities. Recognizing and celebrating diverse cultural expressions can lead to greater understanding and tolerance. Various governments worldwide enact policies to protect and promote cultural diversity, ensuring that no single culture overshadows others.",
+    "passage": "Photosynthesis is a vital process carried out by green plants, algae, and some bacteria. It transforms light energy into chemical energy stored in glucose. This occurs in two main stages: the light-dependent reactions and the Calvin cycle. In the first stage, sunlight is captured and used to produce ATP and NADPH. During the Calvin cycle, ATP and NADPH are utilized to convert carbon dioxide into glucose. This process is crucial for life on Earth as it provides the primary energy source for nearly all ecosystems.",
     "questions": [
       {
         "q": "What is the main idea of the passage?",
         "options": [
-          "Cultural diversity enriches society",
-          "Historical legacies are unimportant",
-          "Only dominant cultures matter",
-          "Cultural exchange is harmful"
+          "Photosynthesis is vital for life on Earth.",
+          "The Calvin cycle occurs in photosynthesis.",
+          "Light energy is transformed into chemical energy.",
+          "Chlorophyll absorbs sunlight in plants."
         ],
         "correctIndex": 0,
-        "explain": "這段文字主要說明文化多樣性如何豐富社會。"
+        "explain": "這段落的主要思想是光合作用對於地球上的生命至關重要。"
       },
       {
-        "q": "What role does cultural diversity play according to the passage?",
+        "q": "What are the two main stages of photosynthesis mentioned in the passage?",
         "options": [
-          "Increases social conflict",
-          "Enhances creativity",
-          "Limits perspectives",
-          "Decreases tolerance"
-        ],
-        "correctIndex": 1,
-        "explain": "根據文章，文化多樣性增強了創造力。"
-      },
-      {
-        "q": "What can be inferred about governments' attitudes towards cultural diversity?",
-        "options": [
-          "They ignore it",
-          "They promote it",
-          "They are indifferent",
-          "They oppose it"
-        ],
-        "correctIndex": 1,
-        "explain": "文章指出，各國政府會制定政策來促進文化多樣性。"
-      },
-      {
-        "q": "What does the term 'social cohesion' mean in this context?",
-        "options": [
-          "Unity within a society",
-          "Conflict between cultures",
-          "Isolation of cultural groups",
-          "Economic stability"
+          "Light-dependent reactions and Calvin cycle.",
+          "Photosynthesis and cellular respiration.",
+          "Glucose formation and oxygen release.",
+          "ATP production and light absorption."
         ],
         "correctIndex": 0,
-        "explain": "社會凝聚力在這裡指的是社會內部的團結。"
+        "explain": "文中提到的光合作用的兩個主要階段是光依賴反應和卡爾文循環。"
+      },
+      {
+        "q": "What can be inferred about the role of glucose in ecosystems?",
+        "options": [
+          "It is a waste product of photosynthesis.",
+          "It serves as a primary energy source for many organisms.",
+          "It is not essential for plant survival.",
+          "It is only produced by algae."
+        ],
+        "correctIndex": 1,
+        "explain": "可以推斷，葡萄糖是許多生物的主要能源來源，這對生態系統至關重要。"
+      },
+      {
+        "q": "What does ATP stand for?",
+        "options": [
+          "Adenosine triphosphate",
+          "Amino tri-phosphate",
+          "Alternative triphosphate",
+          "Adenine trioxide"
+        ],
+        "correctIndex": 0,
+        "explain": "ATP代表腺苷三磷酸，是能量的主要儲存形式。"
       }
     ]
   },
   "daily": {
-    "passage": "Attention students! The campus library will be closed for maintenance from October 15 to October 20. Please plan accordingly and return any borrowed books before this period. Thank you for your understanding.",
+    "passage": "Attention students! The campus library will be closing early this Friday at 5 PM for maintenance. Please plan your study time accordingly and return any borrowed materials. Thank you for your understanding.",
     "questions": [
       {
-        "q": "When will the library be closed?",
+        "q": "When will the library close this Friday?",
         "options": [
-          "October 10 to October 15",
-          "October 15 to October 20",
-          "October 20 to October 25",
-          "November 1 to November 5"
+          "At 7 PM",
+          "At 5 PM",
+          "At 6 PM",
+          "It will not close early"
         ],
         "correctIndex": 1,
-        "explain": "圖書館將在10月15日至20日關閉。"
+        "explain": "圖書館將在星期五下午5點提前關閉。"
       },
       {
-        "q": "What should students do with borrowed books?",
+        "q": "What should students do with borrowed materials?",
         "options": [
-          "Keep them longer",
-          "Return them before closure",
-          "Donate them",
-          "Sell them"
+          "Keep them until next week",
+          "Return them before closing",
+          "Renew them online",
+          "No action is needed"
         ],
         "correctIndex": 1,
-        "explain": "學生應在關閉之前歸還借出的書籍。"
+        "explain": "學生應在關閉之前歸還借用的材料。"
       }
     ]
   }

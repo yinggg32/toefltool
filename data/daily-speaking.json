@@ -1,45 +1,45 @@
 {
   "shadowSentences": [
-    "I enjoy reading books.",
-    "My favorite color is blue.",
-    "I often go for morning walks.",
-    "Cooking is a fun way to relax.",
-    "Traveling helps me learn about new cultures.",
-    "I prefer tea over coffee most days.",
-    "Listening to music improves my mood quickly.",
-    "Spending time with friends brings me joy.",
-    "I enjoy trying new foods from different cuisines.",
-    "Gardening is a rewarding hobby that takes patience."
+    "The sun is shining brightly today.",
+    "I enjoy reading books in my free time.",
+    "Could you please pass me the salt?",
+    "He likes to play soccer every weekend.",
+    "Traveling to new places brings me joy.",
+    "My favorite season is autumn with its colors.",
+    "I often listen to music while I study.",
+    "Cooking new recipes is a fun challenge for me.",
+    "I believe that exercise is important for health.",
+    "Finding a good balance between work and life is essential."
   ],
   "interviewScenarios": [
     {
-      "topic": "旅行計劃",
+      "topic": "旅行计划",
       "intro": "You have agreed to take part in a research study about travel planning.",
       "questions": [
-        "Q1: Can you share a recent trip you planned?",
-        "Q2: What challenges did you face while planning that trip?",
-        "Q3: How important do you think planning is for a successful trip?",
-        "Q4: What advice would you give someone who is new to travel planning?"
+        "Q1: Can you share a memorable travel experience you had?",
+        "Q2: What challenges do you face when planning a trip?",
+        "Q3: How do you feel about the importance of travel in life?",
+        "Q4: What advice would you give someone planning their first trip?"
       ]
     },
     {
-      "topic": "運動習慣",
-      "intro": "You have agreed to take part in a research study about exercise habits.",
+      "topic": "学习风格",
+      "intro": "You have agreed to take part in a research study about study habits.",
       "questions": [
-        "Q1: What types of exercise do you enjoy the most?",
-        "Q2: Have you encountered any obstacles in maintaining your exercise routine?",
-        "Q3: In your opinion, how does exercise impact overall health?",
-        "Q4: What tips would you offer to someone starting an exercise program?"
+        "Q1: What study methods have worked best for you?",
+        "Q2: Are there any difficulties you encounter while studying?",
+        "Q3: In your opinion, how does one’s study style affect learning?",
+        "Q4: What tips would you give to someone struggling with studying?"
       ]
     },
     {
-      "topic": "藝術欣賞",
-      "intro": "You have agreed to take part in a research study about appreciating art.",
+      "topic": "运动与健康",
+      "intro": "You have agreed to take part in a research study about fitness and health.",
       "questions": [
-        "Q1: Can you describe a memorable experience you had with art?",
-        "Q2: What difficulties do you think people face in understanding art?",
-        "Q3: How do you feel art influences society today?",
-        "Q4: What would you suggest to someone who wants to learn more about art?"
+        "Q1: How do you incorporate exercise into your daily routine?",
+        "Q2: What obstacles do you face in maintaining a healthy lifestyle?",
+        "Q3: What is your view on the benefits of physical fitness?",
+        "Q4: What recommendations do you have for someone starting a fitness journey?"
       ]
     }
   ]

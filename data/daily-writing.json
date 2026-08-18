@@ -3,55 +3,28 @@
     {
       "words": [
         "the",
-        "students",
-        "completed",
-        "the",
+        "student",
+        "submitted",
+        "his",
         "assignment",
-        "before",
-        "the",
-        "deadline"
+        "on",
+        "time",
+        "yesterday"
       ],
-      "display": "The students completed the assignment before the deadline."
+      "display": "The student submitted his assignment on time yesterday."
     },
     {
       "words": [
         "the",
-        "scientific",
         "research",
-        "has",
-        "shown",
-        "significant",
-        "improvements",
-        "in"
+        "shows",
+        "that",
+        "exercise",
+        "improves",
+        "mental",
+        "health"
       ],
-      "display": "The scientific research has shown significant improvements in."
-    },
-    {
-      "words": [
-        "the",
-        "library",
-        "is",
-        "open",
-        "from",
-        "eight",
-        "in",
-        "the",
-        "morning"
-      ],
-      "display": "The library is open from eight in the morning."
-    },
-    {
-      "words": [
-        "attending",
-        "the",
-        "conference",
-        "will",
-        "benefit",
-        "the",
-        "students",
-        "greatly"
-      ],
-      "display": "Attending the conference will benefit the students greatly."
+      "display": "The research shows that exercise improves mental health."
     },
     {
       "words": [
@@ -70,58 +43,87 @@
       "words": [
         "many",
         "students",
-        "prefer",
-        "group",
-        "studies",
-        "over",
-        "individual",
-        "studies"
+        "attended",
+        "the",
+        "workshop",
+        "to",
+        "learn",
+        "new",
+        "skills"
       ],
-      "display": "Many students prefer group studies over individual studies."
+      "display": "Many students attended the workshop to learn new skills."
+    },
+    {
+      "words": [
+        "the",
+        "library",
+        "will",
+        "be",
+        "closed",
+        "for",
+        "renovation",
+        "next",
+        "month"
+      ],
+      "display": "The library will be closed for renovation next month."
+    },
+    {
+      "words": [
+        "she",
+        "enjoys",
+        "reading",
+        "books",
+        "about",
+        "history",
+        "and",
+        "philosophy"
+      ],
+      "display": "She enjoys reading books about history and philosophy."
+    },
+    {
+      "words": [
+        "it",
+        "is",
+        "important",
+        "to",
+        "balance",
+        "study",
+        "and",
+        "leisure",
+        "time"
+      ],
+      "display": "It is important to balance study and leisure time."
     },
     {
       "words": [
         "the",
         "club",
-        "will",
-        "hold",
-        "a",
-        "meeting",
-        "on",
-        "monday",
-        "evening"
-      ],
-      "display": "The club will hold a meeting on Monday evening."
-    },
-    {
-      "words": [
-        "the",
-        "presentation",
-        "needs",
+        "organized",
+        "an",
+        "event",
         "to",
-        "be",
-        "submitted",
-        "by",
-        "friday",
-        "noon"
+        "raise",
+        "awareness",
+        "about",
+        "pollution"
       ],
-      "display": "The presentation needs to be submitted by Friday noon."
+      "display": "The club organized an event to raise awareness about pollution."
     }
   ],
   "emailPrompts": [
-    "寄信給教授，說明因病無法參加期中考，詢問補考事宜。",
-    "寄信給宿舍管理員，請求延後支付下個月的宿舍費用。",
-    "寄信給圖書館，請求延長借書期限，因為需要更多時間閱讀。",
-    "寄信給學生會，詢問如何參加即將舉行的社團活動。",
-    "寄信給顧客服務，反映最近一次購物的問題，並要求退款。",
-    "寄信給導師，請教有關課程的問題，並請求額外的學習資源。"
+    "寄信給教授，詢問有關期末報告的指導建議。",
+    "寄信給宿舍管理處，請求修理宿舍內的水龍頭。",
+    "寄信給圖書館，查詢關於延長書籍借閱時間的政策。",
+    "寄信給社團，報名參加即將舉行的志願者活動。",
+    "寄信給客服，詢問有關產品保修的問題。",
+    "寄信給導師，要求安排一次辦公時間以討論學業進展。"
   ],
   "discussionPrompts": [
-    "教授問：「你如何看待人工智慧在教育中的應用？」",
-    "教授問：「社交媒體對人際關係產生了什麼影響？」",
-    "教授問：「全球變暖的主要原因是什麼？」",
-    "教授問：「你認為政府應該如何解決貧富差距問題？」",
-    "教授問：「在現代社會中，書籍還有多重要？」",
-    "教授問：「窮人與富人對於教育的看法有何不同？」"
+    "教授問：「學生在校外打工是否影響學業成績？」",
+    "教授問：「科技對人際關係的影響是正面還是負面？」",
+    "教授問：「應該如何平衡環境保護與經濟發展？」",
+    "教授問：「大學生應該參加社會服務活動嗎？」",
+    "教授問：「成績評量是否能準確反映學生的能力？」",
+    "教授問：「全球化對文化多樣性的影響是什麼？」"
   ]
 }
