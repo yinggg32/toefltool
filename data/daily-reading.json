@@ -2,110 +2,107 @@
   "cloze": {
     "segments": [
       {
-        "text": "The process of photosynthesis is essential for plants. During this, plants convert carbon dio"
+        "text": "The process of photosynthesis is essential for plants, as it allows them to convert sunlight into en"
       },
       {
-        "blank": "xide"
+        "blank": "ergy"
       },
       {
-        "text": ", water, and sunlight into glucose and oxy"
+        "text": ". This remarkable mechanism occurs mainly in the chloroplasts of plant cells. During photosynthesis, carbon dioxide is absorbed from the at"
       },
       {
-        "blank": "gen"
+        "blank": "mosphere"
       },
       {
-        "text": ". This biochemical reaction occurs primarily in the chloroplasts of lea"
+        "text": ", and water is taken up through the roots. The absorbed sunlight provides the energy needed to transform these raw materials into glucose, a form of su"
       },
       {
-        "blank": "ves"
+        "blank": "gar"
       },
       {
-        "text": ", where chlorophyll absorbs light energy. The overall equation for photosynthesis can be summarized as follows: carbon dio"
+        "text": ". This glucose not only serves as food for the plant but also releases oxygen as a byproduct, which is crucial for the survival of most li"
       },
       {
-        "blank": "xide"
+        "blank": "fe"
       },
       {
-        "text": " + water + light energy → glucose + oxygen. This process not only sustains the plant but also produces the oxygen that many organisms depend on for sur"
-      },
-      {
-        "blank": "vival"
+        "text": ". The efficiency of this process is vital, as it supports nearly all life on Earth."
       }
     ]
   },
   "academic": {
-    "passage": "Photosynthesis is a vital process carried out by green plants, algae, and some bacteria. It transforms light energy into chemical energy stored in glucose. This occurs in two main stages: the light-dependent reactions and the Calvin cycle. In the first stage, sunlight is captured and used to produce ATP and NADPH. During the Calvin cycle, ATP and NADPH are utilized to convert carbon dioxide into glucose. This process is crucial for life on Earth as it provides the primary energy source for nearly all ecosystems.",
+    "passage": "Photosynthesis is the process by which green plants use sunlight to synthesize foods with the help of chlorophyll. This process not only provides energy for the plants themselves but also produces oxygen, which is essential for most life forms on Earth. It involves the conversion of carbon dioxide and water into glucose and oxygen, making it a fundamental biological process. Understanding photosynthesis is crucial for studying ecosystems and improving agricultural practices.",
     "questions": [
       {
-        "q": "What is the main idea of the passage?",
+        "q": "What is the main purpose of photosynthesis?",
         "options": [
-          "Photosynthesis is vital for life on Earth.",
-          "The Calvin cycle occurs in photosynthesis.",
-          "Light energy is transformed into chemical energy.",
-          "Chlorophyll absorbs sunlight in plants."
+          "To produce food and oxygen",
+          "To absorb carbon dioxide",
+          "To provide energy for animals",
+          "To create plant pigments"
         ],
         "correctIndex": 0,
-        "explain": "這段落的主要思想是光合作用對於地球上的生命至關重要。"
+        "explain": "這題的正確答案是\"生產食物和氧氣\"，因為光合作用的主要目的是將陽光轉換為植物所需的能量。"
       },
       {
-        "q": "What are the two main stages of photosynthesis mentioned in the passage?",
+        "q": "Where does photosynthesis primarily occur in plant cells?",
         "options": [
-          "Light-dependent reactions and Calvin cycle.",
-          "Photosynthesis and cellular respiration.",
-          "Glucose formation and oxygen release.",
-          "ATP production and light absorption."
-        ],
-        "correctIndex": 0,
-        "explain": "文中提到的光合作用的兩個主要階段是光依賴反應和卡爾文循環。"
-      },
-      {
-        "q": "What can be inferred about the role of glucose in ecosystems?",
-        "options": [
-          "It is a waste product of photosynthesis.",
-          "It serves as a primary energy source for many organisms.",
-          "It is not essential for plant survival.",
-          "It is only produced by algae."
+          "In the roots",
+          "In the chloroplasts",
+          "In the leaves",
+          "In the stem"
         ],
         "correctIndex": 1,
-        "explain": "可以推斷，葡萄糖是許多生物的主要能源來源，這對生態系統至關重要。"
+        "explain": "光合作用主要發生在\"葉綠體\"，這是植物細胞中進行光合作用的部位。"
       },
       {
-        "q": "What does ATP stand for?",
+        "q": "What can be inferred about the importance of photosynthesis?",
         "options": [
-          "Adenosine triphosphate",
-          "Amino tri-phosphate",
-          "Alternative triphosphate",
-          "Adenine trioxide"
+          "It is unnecessary for survival",
+          "It is crucial for all life on Earth",
+          "It only benefits plants",
+          "It is a seasonal process"
         ],
-        "correctIndex": 0,
-        "explain": "ATP代表腺苷三磷酸，是能量的主要儲存形式。"
+        "correctIndex": 1,
+        "explain": "這題的正確答案是\"對地球上的所有生命至關重要\"，因為光合作用不僅供應植物能量，還提供氧氣。"
+      },
+      {
+        "q": "What does the term \"chlorophyll\" refer to in the passage?",
+        "options": [
+          "A type of sugar",
+          "A green pigment in plants",
+          "A process of respiration",
+          "A nutrient for soil"
+        ],
+        "correctIndex": 1,
+        "explain": "這題的正確答案是\"植物中的綠色色素\"，因為葉綠素是進行光合作用的關鍵成分。"
       }
     ]
   },
   "daily": {
-    "passage": "Attention students! The campus library will be closing early this Friday at 5 PM for maintenance. Please plan your study time accordingly and return any borrowed materials. Thank you for your understanding.",
+    "passage": "The university will host its annual career fair on March 15th in the Student Center. Students are encouraged to dress professionally and bring multiple copies of their resumes. This is a great opportunity to connect with potential employers and learn about job openings across various fields.",
     "questions": [
       {
-        "q": "When will the library close this Friday?",
+        "q": "When will the career fair take place?",
         "options": [
-          "At 7 PM",
-          "At 5 PM",
-          "At 6 PM",
-          "It will not close early"
+          "March 10th",
+          "March 15th",
+          "April 1st",
+          "February 20th"
         ],
         "correctIndex": 1,
-        "explain": "圖書館將在星期五下午5點提前關閉。"
+        "explain": "這題的正確答案是\"3月15日\"，因為公告中明確提到這一天舉辦職業博覽會。"
       },
       {
-        "q": "What should students do with borrowed materials?",
+        "q": "What should students bring to the career fair?",
         "options": [
-          "Keep them until next week",
-          "Return them before closing",
-          "Renew them online",
-          "No action is needed"
+          "Textbooks",
+          "Professional attire",
+          "Copies of their resumes",
+          "Lunch"
         ],
-        "correctIndex": 1,
-        "explain": "學生應在關閉之前歸還借用的材料。"
+        "correctIndex": 2,
+        "explain": "這題的正確答案是\"簡歷的多份副本\"，因為公告建議學生攜帶多份簡歷以便與潛在雇主交流。"
       }
     ]
   }

@@ -7534,5 +7534,29 @@
     "zh": "催化劑；促進因素",
     "ex": "Art can serve as a catalyst for social change and awareness.",
     "cat": "📰 每日新詞：art and architecture"
+  },
+  {
+    "word": "evolution",
+    "pos": "n.",
+    "root": "evol-發展",
+    "zh": "進化",
+    "ex": "Evolution explains the diversity of life on Earth through mechanisms such as mutation and natural selection.",
+    "cat": "📰 每日新詞：biology"
+  },
+  {
+    "word": "bacterial",
+    "pos": "adj.",
+    "root": "bacteri-細菌",
+    "zh": "細菌的",
+    "ex": "Bacterial infections can have significant impacts on human health and disease.",
+    "cat": "📰 每日新詞：biology"
+  },
+  {
+    "word": "hormone",
+    "pos": "n.",
+    "root": "hormon-激素",
+    "zh": "激素",
+    "ex": "Hormones are chemical messengers that regulate physiological processes in the body.",
+    "cat": "📰 每日新詞：biology"
   }
 ]

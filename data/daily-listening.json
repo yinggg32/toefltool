@@ -1,116 +1,116 @@
 {
   "chooseResponse": [
     {
-      "q": "What time is the study group?",
+      "q": "What do you think of the new library?",
       "options": [
-        "In the library at 5 PM.",
-        "At the cafeteria.",
-        "In the dormitory lounge.",
-        "Next week."
+        "It's fantastic!",
+        "I don't like it.",
+        "It's too big.",
+        "It's always crowded."
       ],
       "correctIndex": 0
     }
   ],
   "conversation": {
-    "transcript": "Student: Hey, have you heard about the new study group for Chemistry?\nAdvisor: Yes, I have! It’s meeting tomorrow in the library at 5 PM.\nStudent: I really need help with the last exam material.\nAdvisor: This group should be really helpful. You should definitely attend.",
+    "transcript": "Student: Hey, have you seen the new library on campus?\nAdvisor: Yes, I just visited it yesterday. What did you think?\nStudent: I love the study spaces! They're so modern.\nAdvisor: I agree! The technology there is impressive too.",
     "questions": [
       {
-        "q": "When is the study group meeting?",
+        "q": "What did the student think of the library?",
         "options": [
-          "Tomorrow at 5 PM.",
-          "Next week.",
-          "In the morning.",
-          "In the cafeteria."
+          "They love it.",
+          "They hate it.",
+          "They find it boring.",
+          "They think it's too dark."
         ],
         "correctIndex": 0,
-        "explain": "學習小組將在明天五點會議。"
+        "explain": "學生覺得圖書館很棒。"
       },
       {
-        "q": "Where will the study group take place?",
+        "q": "What does the advisor think about the technology?",
         "options": [
-          "In the library.",
-          "In the dormitory.",
-          "At the cafeteria.",
-          "In the classroom."
+          "It's outdated.",
+          "It's impressive.",
+          "It's confusing.",
+          "It's unnecessary."
         ],
-        "correctIndex": 0,
-        "explain": "學習小組將在圖書館舉行。"
+        "correctIndex": 1,
+        "explain": "顧問覺得技術很令人印象深刻。"
       }
     ]
   },
   "announcement": {
-    "transcript": "Attention students! The annual science fair will take place this Friday in the student center from 3 PM to 6 PM. All students are encouraged to participate and showcase their projects. Prizes will be awarded for the top entries, so don't miss this opportunity!",
+    "transcript": "Attention students! The campus bookstore will have a special sale on all textbooks this Friday. Discounts will range from 20% to 50%. Make sure to check it out and save money on your required readings.",
     "questions": [
       {
-        "q": "When is the science fair?",
+        "q": "What day is the textbook sale?",
         "options": [
-          "This Friday.",
-          "Next week.",
-          "Tomorrow.",
-          "Last week."
+          "Monday",
+          "Wednesday",
+          "Friday",
+          "Saturday"
         ],
-        "correctIndex": 0,
-        "explain": "科學展將在本週五舉行。"
+        "correctIndex": 2,
+        "explain": "教科書促銷是在星期五。"
       },
       {
-        "q": "Where will the science fair be held?",
+        "q": "What is the discount range for textbooks?",
         "options": [
-          "In the student center.",
-          "In the library.",
-          "In the gym.",
-          "In the cafeteria."
+          "10% to 30%",
+          "20% to 50%",
+          "30% to 70%",
+          "50% to 80%"
         ],
-        "correctIndex": 0,
-        "explain": "科學展將在學生中心舉行。"
+        "correctIndex": 1,
+        "explain": "教科書的折扣範圍是20%到50%。"
       }
     ]
   },
   "talk": {
-    "transcript": "Today, we will discuss the process of photosynthesis, which is how plants convert light energy into chemical energy. During photosynthesis, plants absorb sunlight using chlorophyll, which is found in their leaves. They take in carbon dioxide from the air and water from the soil. Using the energy from sunlight, plants synthesize glucose and release oxygen as a byproduct. This process is vital not only for plant life but also for all living organisms on Earth, as it provides the oxygen we breathe and the food we consume.",
+    "transcript": "Today, we will discuss the benefits of mindfulness meditation. Mindfulness meditation involves focusing your attention on the present moment, which can help reduce stress and improve concentration. Research shows that regular practice can enhance emotional health and increase self-awareness. Additionally, mindfulness can improve your academic performance by helping you stay focused on your studies. Many students find that incorporating just a few minutes of mindfulness into their daily routine makes a significant difference in their productivity and overall well-being.",
     "questions": [
       {
-        "q": "What is photosynthesis?",
+        "q": "What is mindfulness meditation focused on?",
         "options": [
-          "The process of converting light energy into chemical energy.",
-          "A method of growing plants in the dark.",
-          "The way plants absorb water.",
-          "A type of plant disease."
+          "The past",
+          "The future",
+          "The present moment",
+          "Other people's thoughts"
         ],
-        "correctIndex": 0,
-        "explain": "光合作用是將光能轉換為化學能的過程。"
+        "correctIndex": 2,
+        "explain": "正念冥想專注於當下。"
       },
       {
-        "q": "What do plants absorb during photosynthesis?",
+        "q": "What is one benefit of mindfulness meditation mentioned?",
         "options": [
-          "Sunlight, carbon dioxide, and water.",
-          "Only sunlight.",
-          "Only carbon dioxide and oxygen.",
-          "Nutrients from the soil."
+          "It makes you tired.",
+          "It improves emotional health.",
+          "It increases distractions.",
+          "It costs a lot."
         ],
-        "correctIndex": 0,
-        "explain": "植物在光合作用過程中吸收陽光、二氧化碳和水。"
+        "correctIndex": 1,
+        "explain": "正念冥想可以改善情緒健康。"
       },
       {
-        "q": "What is produced as a byproduct of photosynthesis?",
+        "q": "How can mindfulness affect academic performance?",
         "options": [
-          "Oxygen.",
-          "Glucose.",
-          "Carbon dioxide.",
-          "Water."
+          "By causing stress",
+          "By helping with focus",
+          "By making lessons longer",
+          "By reducing homework"
         ],
-        "correctIndex": 0,
-        "explain": "光合作用的副產品是氧氣。"
+        "correctIndex": 1,
+        "explain": "正念可以幫助提高學業表現，改善集中力。"
       },
       {
-        "q": "Why is photosynthesis important?",
+        "q": "How long should you practice mindfulness daily?",
         "options": [
-          "It provides oxygen and food for living organisms.",
-          "It reduces pollution.",
-          "It helps plants grow faster.",
-          "It generates energy directly for humans."
+          "An hour",
+          "A few minutes",
+          "All day",
+          "Not at all"
         ],
-        "correctIndex": 0,
-        "explain": "光合作用對所有生物至關重要，因為它提供我們所需的氧氣和食物。"
+        "correctIndex": 1,
+        "explain": "每天練習幾分鐘的正念就可以了。"
       }
     ]
   }

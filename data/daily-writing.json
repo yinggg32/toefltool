@@ -3,82 +3,15 @@
     {
       "words": [
         "the",
-        "student",
-        "submitted",
-        "his",
-        "assignment",
-        "on",
-        "time",
-        "yesterday"
-      ],
-      "display": "The student submitted his assignment on time yesterday."
-    },
-    {
-      "words": [
-        "the",
         "research",
-        "shows",
-        "that",
-        "exercise",
-        "improves",
-        "mental",
-        "health"
-      ],
-      "display": "The research shows that exercise improves mental health."
-    },
-    {
-      "words": [
-        "the",
+        "conducted",
+        "by",
         "professor",
-        "gave",
-        "a",
-        "lecture",
-        "about",
-        "climate",
-        "change"
+        "smith",
+        "was",
+        "groundbreaking"
       ],
-      "display": "The professor gave a lecture about climate change."
-    },
-    {
-      "words": [
-        "many",
-        "students",
-        "attended",
-        "the",
-        "workshop",
-        "to",
-        "learn",
-        "new",
-        "skills"
-      ],
-      "display": "Many students attended the workshop to learn new skills."
-    },
-    {
-      "words": [
-        "the",
-        "library",
-        "will",
-        "be",
-        "closed",
-        "for",
-        "renovation",
-        "next",
-        "month"
-      ],
-      "display": "The library will be closed for renovation next month."
-    },
-    {
-      "words": [
-        "she",
-        "enjoys",
-        "reading",
-        "books",
-        "about",
-        "history",
-        "and",
-        "philosophy"
-      ],
-      "display": "She enjoys reading books about history and philosophy."
+      "display": "The research conducted by Professor Smith was groundbreaking."
     },
     {
       "words": [
@@ -86,44 +19,120 @@
         "is",
         "important",
         "to",
-        "balance",
         "study",
-        "and",
-        "leisure",
-        "time"
+        "the",
+        "effects",
+        "of",
+        "climate",
+        "change"
       ],
-      "display": "It is important to balance study and leisure time."
+      "display": "It is important to study the effects of climate change."
+    },
+    {
+      "words": [
+        "students",
+        "should",
+        "participate",
+        "in",
+        "extracurricular",
+        "activities",
+        "to",
+        "enhance",
+        "their",
+        "skills"
+      ],
+      "display": "Students should participate in extracurricular activities to enhance their skills."
     },
     {
       "words": [
         "the",
-        "club",
-        "organized",
-        "an",
-        "event",
-        "to",
-        "raise",
-        "awareness",
-        "about",
-        "pollution"
+        "library",
+        "has",
+        "recently",
+        "acquired",
+        "new",
+        "books",
+        "on",
+        "art",
+        "history"
       ],
-      "display": "The club organized an event to raise awareness about pollution."
+      "display": "The library has recently acquired new books on art history."
+    },
+    {
+      "words": [
+        "attending",
+        "lectures",
+        "regularly",
+        "can",
+        "help",
+        "students",
+        "understand",
+        "the",
+        "material",
+        "better"
+      ],
+      "display": "Attending lectures regularly can help students understand the material better."
+    },
+    {
+      "words": [
+        "the",
+        "experiment",
+        "results",
+        "indicated",
+        "a",
+        "significant",
+        "improvement",
+        "in",
+        "performance"
+      ],
+      "display": "The experiment results indicated a significant improvement in performance."
+    },
+    {
+      "words": [
+        "a",
+        "good",
+        "study",
+        "strategy",
+        "is",
+        "to",
+        "review",
+        "the",
+        "material",
+        "periodically"
+      ],
+      "display": "A good study strategy is to review the material periodically."
+    },
+    {
+      "words": [
+        "collaboration",
+        "among",
+        "students",
+        "can",
+        "lead",
+        "to",
+        "more",
+        "innovative",
+        "solutions",
+        "to",
+        "problems"
+      ],
+      "display": "Collaboration among students can lead to more innovative solutions to problems."
     }
   ],
   "emailPrompts": [
-    "寄信給教授，詢問有關期末報告的指導建議。",
-    "寄信給宿舍管理處，請求修理宿舍內的水龍頭。",
-    "寄信給圖書館，查詢關於延長書籍借閱時間的政策。",
-    "寄信給社團，報名參加即將舉行的志願者活動。",
-    "寄信給客服，詢問有關產品保修的問題。",
-    "寄信給導師，要求安排一次辦公時間以討論學業進展。"
+    "寄信給教授，說明因病無法參加期中考，詢問補考事宜。",
+    "寄信給宿舍管理辦公室，請求更換房間的原因。",
+    "寄信給圖書館，詢問書籍的借閱期限及續借流程。",
+    "寄信給學校社團，表達參加新學期活動的興趣與問題。",
+    "寄信給客服部門，反映訂單問題並要求解決方案。",
+    "寄信給導師，詢問進修課程的建議及指導。"
   ],
   "discussionPrompts": [
-    "教授問：「學生在校外打工是否影響學業成績？」",
-    "教授問：「科技對人際關係的影響是正面還是負面？」",
-    "教授問：「應該如何平衡環境保護與經濟發展？」",
-    "教授問：「大學生應該參加社會服務活動嗎？」",
-    "教授問：「成績評量是否能準確反映學生的能力？」",
-    "教授問：「全球化對文化多樣性的影響是什麼？」"
+    "教授問：「科技對教育的影響是正面還是負面？」",
+    "教授問：「全球化是否有助於保護文化多樣性？」",
+    "教授問：「社交媒體對人際關係的影響是什麼？」",
+    "教授問：「在環保與經濟發展之間，應該如何取得平衡？」",
+    "教授問：「人工智慧的發展會取代人類的工作嗎？」",
+    "教授問：「如何看待移民對於社會的貢獻和挑戰？」"
   ]
 }
