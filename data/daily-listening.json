@@ -1,116 +1,116 @@
 {
   "chooseResponse": [
     {
-      "q": "What do you think of the new library?",
+      "q": "What is your favorite study method?",
       "options": [
-        "It's fantastic!",
-        "I don't like it.",
-        "It's too big.",
-        "It's always crowded."
+        "I prefer group study.",
+        "I like to study alone.",
+        "I use flashcards.",
+        "I follow a strict schedule."
       ],
       "correctIndex": 0
     }
   ],
   "conversation": {
-    "transcript": "Student: Hey, have you seen the new library on campus?\nAdvisor: Yes, I just visited it yesterday. What did you think?\nStudent: I love the study spaces! They're so modern.\nAdvisor: I agree! The technology there is impressive too.",
+    "transcript": "Student: Hey, have you started studying for the chemistry exam?\nAdvisor: Yes, I started last week. How about you?\nStudent: I haven't really begun yet. Any tips?\nAdvisor: Try to review the lab reports. They really help with the exam material.",
     "questions": [
       {
-        "q": "What did the student think of the library?",
+        "q": "What did the student ask for?",
         "options": [
-          "They love it.",
-          "They hate it.",
-          "They find it boring.",
-          "They think it's too dark."
-        ],
-        "correctIndex": 0,
-        "explain": "學生覺得圖書館很棒。"
-      },
-      {
-        "q": "What does the advisor think about the technology?",
-        "options": [
-          "It's outdated.",
-          "It's impressive.",
-          "It's confusing.",
-          "It's unnecessary."
+          "Exam schedule",
+          "Study tips",
+          "Lab materials",
+          "Class notes"
         ],
         "correctIndex": 1,
-        "explain": "顧問覺得技術很令人印象深刻。"
+        "explain": "學生詢問學習技巧。"
+      },
+      {
+        "q": "What does the advisor suggest?",
+        "options": [
+          "Join a study group",
+          "Review lab reports",
+          "Attend review sessions",
+          "Read textbooks"
+        ],
+        "correctIndex": 1,
+        "explain": "顧問建議回顧實驗報告。"
       }
     ]
   },
   "announcement": {
-    "transcript": "Attention students! The campus bookstore will have a special sale on all textbooks this Friday. Discounts will range from 20% to 50%. Make sure to check it out and save money on your required readings.",
+    "transcript": "Attention students: The library will be closed this Saturday for maintenance. Please plan accordingly and ensure you have all necessary materials by Friday evening. Thank you for your understanding.",
     "questions": [
       {
-        "q": "What day is the textbook sale?",
+        "q": "Why will the library be closed?",
         "options": [
-          "Monday",
-          "Wednesday",
-          "Friday",
-          "Saturday"
-        ],
-        "correctIndex": 2,
-        "explain": "教科書促銷是在星期五。"
-      },
-      {
-        "q": "What is the discount range for textbooks?",
-        "options": [
-          "10% to 30%",
-          "20% to 50%",
-          "30% to 70%",
-          "50% to 80%"
+          "Holiday",
+          "Maintenance",
+          "Event",
+          "Inventory"
         ],
         "correctIndex": 1,
-        "explain": "教科書的折扣範圍是20%到50%。"
+        "explain": "圖書館因維護而關閉。"
+      },
+      {
+        "q": "When should students collect materials?",
+        "options": [
+          "Saturday",
+          "Friday",
+          "Thursday",
+          "Sunday"
+        ],
+        "correctIndex": 1,
+        "explain": "學生應在星期五之前收集材料。"
       }
     ]
   },
   "talk": {
-    "transcript": "Today, we will discuss the benefits of mindfulness meditation. Mindfulness meditation involves focusing your attention on the present moment, which can help reduce stress and improve concentration. Research shows that regular practice can enhance emotional health and increase self-awareness. Additionally, mindfulness can improve your academic performance by helping you stay focused on your studies. Many students find that incorporating just a few minutes of mindfulness into their daily routine makes a significant difference in their productivity and overall well-being.",
+    "transcript": "Today, we're going to discuss the process of photosynthesis. This is how plants convert light energy into chemical energy. It takes place primarily in the leaves, where chlorophyll absorbs sunlight. The process uses carbon dioxide from the air and water from the soil to create glucose, which serves as food for the plant. Oxygen is released as a byproduct. Understanding photosynthesis is crucial because it plays a vital role in the Earth's ecosystem, providing energy for nearly all living organisms.",
     "questions": [
       {
-        "q": "What is mindfulness meditation focused on?",
+        "q": "What is the main purpose of photosynthesis?",
         "options": [
-          "The past",
-          "The future",
-          "The present moment",
-          "Other people's thoughts"
+          "To absorb sunlight",
+          "To produce glucose",
+          "To release oxygen",
+          "To absorb carbon dioxide"
+        ],
+        "correctIndex": 1,
+        "explain": "光合作用的主要目的是產生葡萄糖。"
+      },
+      {
+        "q": "Where does photosynthesis mainly occur?",
+        "options": [
+          "Stems",
+          "Roots",
+          "Leaves",
+          "Flowers"
         ],
         "correctIndex": 2,
-        "explain": "正念冥想專注於當下。"
+        "explain": "光合作用主要發生在葉子中。"
       },
       {
-        "q": "What is one benefit of mindfulness meditation mentioned?",
+        "q": "What do plants use from the soil?",
         "options": [
-          "It makes you tired.",
-          "It improves emotional health.",
-          "It increases distractions.",
-          "It costs a lot."
+          "Nutrients",
+          "Minerals",
+          "Water",
+          "Sunlight"
         ],
-        "correctIndex": 1,
-        "explain": "正念冥想可以改善情緒健康。"
+        "correctIndex": 2,
+        "explain": "植物從土壤中使用水。"
       },
       {
-        "q": "How can mindfulness affect academic performance?",
+        "q": "What do plants release during photosynthesis?",
         "options": [
-          "By causing stress",
-          "By helping with focus",
-          "By making lessons longer",
-          "By reducing homework"
+          "Carbon dioxide",
+          "Water vapor",
+          "Oxygen",
+          "Glucose"
         ],
-        "correctIndex": 1,
-        "explain": "正念可以幫助提高學業表現，改善集中力。"
-      },
-      {
-        "q": "How long should you practice mindfulness daily?",
-        "options": [
-          "An hour",
-          "A few minutes",
-          "All day",
-          "Not at all"
-        ],
-        "correctIndex": 1,
-        "explain": "每天練習幾分鐘的正念就可以了。"
+        "correctIndex": 2,
+        "explain": "植物在光合作用中釋放氧氣。"
       }
     ]
   }
