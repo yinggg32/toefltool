@@ -2,129 +2,125 @@
   "buildSentences": [
     {
       "words": [
-        "the",
         "students",
-        "should",
-        "review",
-        "the",
-        "material",
-        "before",
-        "the",
-        "exam"
+        "successful",
+        "study",
+        "habits",
+        "develop",
+        "can",
+        "by",
+        "practicing"
       ],
-      "display": "The students should review the material before the exam."
+      "display": "Students can develop successful study habits by practicing."
     },
     {
       "words": [
         "the",
-        "researcher",
-        "presented",
-        "his",
-        "findings",
-        "at",
-        "the",
-        "conference"
-      ],
-      "display": "The researcher presented his findings at the conference."
-    },
-    {
-      "words": [
+        "environmental",
+        "impact",
         "climate",
         "change",
-        "is",
-        "a",
-        "significant",
-        "issue",
-        "affecting",
-        "the",
-        "world"
+        "seriously",
+        "affects",
+        "ecosystems"
       ],
-      "display": "Climate change is a significant issue affecting the world."
+      "display": "The environmental impact of climate change seriously affects ecosystems."
     },
     {
       "words": [
-        "the",
-        "university",
-        "offers",
-        "various",
-        "programs",
-        "for",
-        "international",
-        "students"
+        "we",
+        "need",
+        "to",
+        "consider",
+        "cultural",
+        "differences",
+        "when",
+        "communicating"
       ],
-      "display": "The university offers various programs for international students."
+      "display": "We need to consider cultural differences when communicating."
+    },
+    {
+      "words": [
+        "a",
+        "healthy",
+        "lifestyle",
+        "includes",
+        "regular",
+        "exercise",
+        "balanced",
+        "nutrition"
+      ],
+      "display": "A healthy lifestyle includes regular exercise and balanced nutrition."
     },
     {
       "words": [
         "students",
         "should",
-        "participate",
+        "engage",
         "in",
         "extracurricular",
         "activities",
         "to",
-        "enhance",
-        "their",
-        "skills"
+        "enhance"
       ],
-      "display": "Students should participate in extracurricular activities to enhance their skills."
-    },
-    {
-      "words": [
-        "reading",
-        "books",
-        "can",
-        "improve",
-        "language",
-        "skills",
-        "and",
-        "expand",
-        "vocabulary"
-      ],
-      "display": "Reading books can improve language skills and expand vocabulary."
+      "display": "Students should engage in extracurricular activities to enhance."
     },
     {
       "words": [
         "the",
-        "professor",
-        "advised",
-        "students",
-        "to",
-        "start",
-        "their",
-        "projects",
-        "early"
+        "research",
+        "indicates",
+        "that",
+        "technology",
+        "improves",
+        "learning",
+        "outcomes"
       ],
-      "display": "The professor advised students to start their projects early."
+      "display": "The research indicates that technology improves learning outcomes."
     },
     {
       "words": [
-        "teamwork",
-        "is",
-        "essential",
-        "for",
-        "success",
-        "in",
-        "many",
-        "professions"
+        "every",
+        "individual",
+        "has",
+        "the",
+        "responsibility",
+        "to",
+        "protect",
+        "the",
+        "environment"
       ],
-      "display": "Teamwork is essential for success in many professions."
+      "display": "Every individual has the responsibility to protect the environment."
+    },
+    {
+      "words": [
+        "the",
+        "importance",
+        "of",
+        "mental",
+        "health",
+        "is",
+        "increasingly",
+        "recognized",
+        "globally"
+      ],
+      "display": "The importance of mental health is increasingly recognized globally."
     }
   ],
   "emailPrompts": [
-    "寄信給宿舍辦公室，詢問延遲交租的程序。",
+    "寄信給宿舍辦公室，詢問關於延長租約的程序。",
     "寄信給圖書館，請求延長書籍的借閱期限。",
-    "寄信給學校社團，表達想加入社團的意願。",
-    "寄信給客服，反映對產品的不滿並要求退款。",
-    "寄信給教授，請求安排一對一的諮詢時間。",
-    "寄信給學校行政部門，詢問如何申請獎學金。"
+    "寄信給學校俱樂部，表達希望加入並詢問入會的步驟。",
+    "寄信給教授，請教關於期末報告的題目選擇。",
+    "寄信給客服，提出關於產品問題的投訴並要求解決方案。",
+    "寄信給實習負責人，詢問實習工作的具體要求和期望。"
   ],
   "discussionPrompts": [
-    "教授問：「你認為科技對於人際關係的影響是積極還是消極？」",
-    "教授問：「社交媒體在當今社會的角色是什麼？」",
-    "教授問：「應該如何平衡經濟發展與環境保護？」",
-    "教授問：「教育改革應該優先考慮哪些方面？」",
-    "教授問：「全球化對於本地文化的影響是好是壞？」",
-    "教授問：「大學應該如何適應不斷變化的職場需求？」"
+    "教授問：「在科技發展的時代，傳統教育的角色應該如何調整？」",
+    "教授問：「社會媒體對人際關係的影響是正面還是負面？」",
+    "教授問：「經濟發展與環境保護之間的平衡該如何達成？」",
+    "教授問：「文化多樣性對社會的貢獻是什麼？」",
+    "教授問：「是否應該將性別平等納入各種政策的核心？」",
+    "教授問：「人工智慧的普及將如何改變未來的職場？」"
   ]
 }

@@ -7582,5 +7582,45 @@
     "zh": "農村的",
     "ex": "Rural sociology examines the social structures and issues found in countryside communities.",
     "cat": "📰 每日新詞：sociology"
+  },
+  {
+    "word": "planetarium",
+    "pos": "n.",
+    "root": "planeta- 行星, arium- 场所, planetarium",
+    "zh": "天文馆",
+    "ex": "The planetarium offers educational programs about astronomy and the night sky.",
+    "cat": "📰 每日新詞：astronomy and space science"
+  },
+  {
+    "word": "astrography",
+    "pos": "n.",
+    "root": "astro- 星, graphy- 描绘, astrography",
+    "zh": "天体测绘",
+    "ex": "Astrography involves the mapping of celestial bodies and their positions.",
+    "cat": "📰 每日新詞：astronomy and space science"
+  },
+  {
+    "word": "radiant",
+    "pos": "adj./n.",
+    "root": "radi- 辐射, ant- 形容词后缀, radiant",
+    "zh": "辐射的/光辉",
+    "ex": "The radiant energy emitted by the Sun is essential for life on Earth.",
+    "cat": "📰 每日新詞：astronomy and space science"
+  },
+  {
+    "word": "expanse",
+    "pos": "n.",
+    "root": "ex- 向外, pans- 展开, expanse",
+    "zh": "广阔",
+    "ex": "The vast expanse of the universe is filled with mysteries yet to be explored.",
+    "cat": "📰 每日新詞：astronomy and space science"
+  },
+  {
+    "word": "accretion",
+    "pos": "n.",
+    "root": "accret- 增加, ion- 过程, accretion",
+    "zh": "聚集",
+    "ex": "Accretion is a process through which celestial bodies grow by accumulating matter.",
+    "cat": "📰 每日新詞：astronomy and space science"
   }
 ]

@@ -1,45 +1,45 @@
 {
   "shadowSentences": [
-    "The cat is sleeping on the sofa.",
-    "I enjoy reading books in my free time.",
-    "She loves to paint beautiful landscapes.",
-    "The weather today is warm and sunny.",
-    "He often plays soccer with his friends after school.",
-    "We should visit that new café downtown this weekend.",
-    "My family usually goes hiking during the summer vacation.",
-    "Learning a new language can be a rewarding challenge for many.",
-    "Traveling to different countries helps us understand their cultures better.",
-    "Cooking at home is not just healthier but also more economical than eating out."
+    "I enjoy reading books.",
+    "She walks her dog every morning.",
+    "They play soccer on weekends together.",
+    "He loves cooking new recipes for dinner.",
+    "We often visit the park in spring.",
+    "I like listening to music while studying.",
+    "She takes a yoga class every Tuesday evening.",
+    "They often travel to different countries each year.",
+    "He spends time gardening and growing vegetables at home.",
+    "We plan to start a community clean-up project next month."
   ],
   "interviewScenarios": [
     {
-      "topic": "旅行經歷",
-      "intro": "You have agreed to take part in a research study about travel experiences.",
+      "topic": "旅行計劃",
+      "intro": "You have agreed to take part in a research study about travel planning.",
       "questions": [
-        "Q1: Can you describe your most memorable travel experience?",
-        "Q2: What challenges did you face while traveling to that destination?",
-        "Q3: How do you think travel impacts people's perspectives on life?",
-        "Q4: What advice would you give someone planning their first trip abroad?"
+        "Q1: Can you share a memorable trip you've taken recently?",
+        "Q2: What challenges do you face when planning a trip?",
+        "Q3: How important do you think travel is for personal growth?",
+        "Q4: What advice would you give someone planning their first trip?"
       ]
     },
     {
-      "topic": "運動習慣",
-      "intro": "You have agreed to take part in a research study about sports habits.",
+      "topic": "健康飲食",
+      "intro": "You have agreed to take part in a research study about healthy eating.",
       "questions": [
-        "Q1: What type of sports do you enjoy participating in?",
-        "Q2: Have you encountered any obstacles when trying to stay active?",
-        "Q3: In your opinion, how important is regular exercise for overall health?",
-        "Q4: What tips would you give to someone looking to start a new sport?"
+        "Q1: What does a typical healthy meal look like for you?",
+        "Q2: What difficulties do you encounter in maintaining a healthy diet?",
+        "Q3: In your opinion, why is it essential to eat healthy?",
+        "Q4: What tips would you offer to someone trying to eat healthier?"
       ]
     },
     {
-      "topic": "環保行為",
-      "intro": "You have agreed to take part in a research study about environmental practices.",
+      "topic": "學習新技能",
+      "intro": "You have agreed to take part in a research study about learning new skills.",
       "questions": [
-        "Q1: What eco-friendly habits do you practice in your daily life?",
-        "Q2: What difficulties do you face in trying to live sustainably?",
-        "Q3: How do you feel about the current state of the environment?",
-        "Q4: What changes would you recommend for someone wanting to be more environmentally friendly?"
+        "Q1: What new skill have you learned in the past year?",
+        "Q2: What challenges did you face while learning this skill?",
+        "Q3: How do you think learning new skills benefits individuals?",
+        "Q4: What advice would you give to someone wanting to learn a new skill?"
       ]
     }
   ]
