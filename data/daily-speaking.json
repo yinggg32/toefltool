@@ -1,45 +1,45 @@
 {
   "shadowSentences": [
-    "I enjoy reading books.",
-    "She walks her dog every morning.",
-    "They play soccer on weekends together.",
-    "He loves cooking new recipes for dinner.",
-    "We often visit the park in spring.",
-    "I like listening to music while studying.",
-    "She takes a yoga class every Tuesday evening.",
-    "They often travel to different countries each year.",
-    "He spends time gardening and growing vegetables at home.",
-    "We plan to start a community clean-up project next month."
+    "The sun is shining brightly today.",
+    "I enjoy reading books in my free time.",
+    "My favorite hobby is playing the guitar.",
+    "I often go for walks in the park nearby.",
+    "Traveling to new places opens up my mind.",
+    "Cooking different cuisines is a fun challenge for me.",
+    "I like to watch movies with my friends on weekends.",
+    "Listening to music helps me relax and focus better.",
+    "Keeping a journal has improved my writing skills a lot.",
+    "Participating in community events makes me feel connected to others."
   ],
   "interviewScenarios": [
     {
       "topic": "旅行計劃",
       "intro": "You have agreed to take part in a research study about travel planning.",
       "questions": [
-        "Q1: Can you share a memorable trip you've taken recently?",
-        "Q2: What challenges do you face when planning a trip?",
+        "Q1: Can you share a memorable trip you took recently?",
+        "Q2: What challenges did you face while planning that trip?",
         "Q3: How important do you think travel is for personal growth?",
         "Q4: What advice would you give someone planning their first trip?"
       ]
     },
     {
-      "topic": "健康飲食",
-      "intro": "You have agreed to take part in a research study about healthy eating.",
+      "topic": "烹飪技巧",
+      "intro": "You have agreed to take part in a research study about cooking skills.",
       "questions": [
-        "Q1: What does a typical healthy meal look like for you?",
-        "Q2: What difficulties do you encounter in maintaining a healthy diet?",
-        "Q3: In your opinion, why is it essential to eat healthy?",
-        "Q4: What tips would you offer to someone trying to eat healthier?"
+        "Q1: What is your favorite dish to cook at home?",
+        "Q2: Have you ever struggled with a specific cooking technique?",
+        "Q3: Why do you think cooking is an important skill to have?",
+        "Q4: What tips would you give to someone who wants to improve their cooking?"
       ]
     },
     {
-      "topic": "學習新技能",
-      "intro": "You have agreed to take part in a research study about learning new skills.",
+      "topic": "運動習慣",
+      "intro": "You have agreed to take part in a research study about exercise habits.",
       "questions": [
-        "Q1: What new skill have you learned in the past year?",
-        "Q2: What challenges did you face while learning this skill?",
-        "Q3: How do you think learning new skills benefits individuals?",
-        "Q4: What advice would you give to someone wanting to learn a new skill?"
+        "Q1: What kind of exercise do you enjoy the most?",
+        "Q2: What obstacles do you face when trying to stay active?",
+        "Q3: In your opinion, how does regular exercise benefit mental health?",
+        "Q4: What advice would you offer to someone starting an exercise routine?"
       ]
     }
   ]

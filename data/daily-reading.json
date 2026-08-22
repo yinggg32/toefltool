@@ -2,92 +2,101 @@
   "cloze": {
     "segments": [
       {
-        "text": "The process of photosynthesis is essential for life on Earth. It occurs primarily in the leaves of plants, where light energy is converted into chemical energy. During this process, carbon dioxide and water are taken in and transformed into glucose and oxygen. This transformation begins with the light-absorbing pigment chlo",
-        "blank": "rophyll"
+        "text": "The phenomenon of photosynthesis is vital to life on Earth. It primarily occurs in the leaves of plants, where chlorophyll absorbs sunlight."
       },
       {
-        "text": ", which captures sunlight. The absorbed light energy excites electrons, initiating a series of reactions. These reactions take place in the thylakoid membranes and involve several steps, including the splitting of water molecules to release oxygen. Afterward, the energy is used to convert carbon dioxide into gluc",
-        "blank": "ose."
+        "blank": "n, and the plants"
       },
       {
-        "text": " This entire cycle is crucial not only for plant growth but also for maintaining the atmosphere and supporting all forms of life, making it a fundamental ",
-        "blank": "process."
+        "text": "use that energy to convert carbon dioxide and water into glucose and oxygen. This process is not only essential for plant growth but also for maintaining the balance of "
+      },
+      {
+        "blank": "ecosys"
+      },
+      {
+        "text": "tems. By providing oxygen, photosynthesis supports the respiration of nearly all living organisms, including animals and humans. Furthermore, it plays a crucial role in the "
+      },
+      {
+        "blank": "global"
+      },
+      {
+        "text": "carbon cycle, helping to regulate atmospheric CO2 levels. Thus, understanding photosynthesis is important for a variety of fields, including agriculture and environmental science."
       }
     ]
   },
   "academic": {
-    "passage": "Photosynthesis is a vital process that allows plants to convert light energy into chemical energy. Mainly occurring in leaves, it uses sunlight to transform carbon dioxide and water into glucose and oxygen. This process supports plant growth and is essential for life on Earth by providing oxygen and organic compounds.",
+    "passage": "Photosynthesis is the process by which green plants and some other organisms use sunlight to synthesize foods with the help of chlorophyll. This process converts light energy into chemical energy, producing glucose and oxygen as byproducts. Photosynthesis is fundamental to the survival of life on Earth as it provides the primary energy source for nearly all ecosystems. The glucose produced serves as an energy source for plants and, indirectly, for animals that rely on plants for food. Additionally, photosynthesis plays a significant role in carbon cycling, which helps mitigate climate change.",
     "questions": [
       {
         "q": "What is the main idea of the passage?",
         "options": [
-          "Photosynthesis is crucial for life on Earth.",
-          "Plants require soil to grow.",
-          "Photosynthesis only occurs in specific plants.",
-          "Light energy has no impact on growth."
+          "Photosynthesis provides energy for ecosystems.",
+          "Chlorophyll is essential for photosynthesis.",
+          "The process of photosynthesis is complex.",
+          "Plants produce carbon dioxide."
         ],
         "correctIndex": 0,
-        "explain": "這段文字的主要主題是光合作用對地球生命的重要性。"
+        "explain": "這段文字的主要思想是光合作用為生態系統提供能量。"
       },
       {
-        "q": "Where does photosynthesis primarily occur?",
+        "q": "What do plants produce during photosynthesis?",
         "options": [
-          "In the roots of plants.",
-          "In the flowers of plants.",
-          "In the leaves of plants.",
-          "In the stems of plants."
+          "Nitrogen and hydrogen",
+          "Glucose and oxygen",
+          "Carbon dioxide and water",
+          "Sunlight and minerals"
         ],
-        "correctIndex": 2,
-        "explain": "光合作用主要在植物的葉子中進行。"
+        "correctIndex": 1,
+        "explain": "植物在光合作用期間製造葡萄糖和氧氣。"
       },
       {
-        "q": "What can be inferred about the importance of photosynthesis?",
+        "q": "Which statement can be inferred from the passage?",
         "options": [
-          "It is unimportant for the environment.",
-          "It is only beneficial for plants.",
-          "It plays a significant role in supporting life on Earth.",
-          "It only benefits animals."
+          "Photosynthesis is only important for plants.",
+          "Animals are not affected by photosynthesis.",
+          "Photosynthesis has implications for climate change.",
+          "Only certain organisms can perform photosynthesis."
         ],
         "correctIndex": 2,
-        "explain": "可以推斷光合作用對維持地球生命具有重要意義。"
+        "explain": "可以推斷出光合作用對氣候變化有影響。"
       },
       {
-        "q": "What does the word 'glucose' refer to in the context?",
+        "q": "What does the word 'byproducts' refer to in the context of the passage?",
         "options": [
-          "A type of oxygen.",
-          "A plant pigment.",
-          "A sugar produced by plants.",
-          "A gas released during photosynthesis."
+          "Essential nutrients",
+          "Additional products",
+          "Waste materials",
+          "Primary products"
         ],
-        "correctIndex": 2,
-        "explain": "在這段文字中，'glucose'指的是植物產生的一種糖。"
+        "correctIndex": 1,
+        "explain": "在這段文字中，'副產品'指的是額外產生的產物。"
       }
     ]
   },
   "daily": {
-    "passage": "Attention all students: The campus library will be closed for renovations from March 1 to April 15. Please plan your study schedules accordingly. We apologize for any inconvenience.",
+    "passage": "Attention students! The library will be closed for maintenance this Saturday. Please plan accordingly and return any borrowed materials by Friday. Thank you for your understanding.",
     "questions": [
       {
-        "q": "When will the library be closed for renovations?",
+        "q": "When will the library be closed?",
         "options": [
-          "From February 1 to March 1.",
-          "From March 1 to April 15.",
-          "From April 15 to May 1.",
-          "From March 15 to April 15."
+          "Friday",
+          "Saturday",
+          "Sunday",
+          "Monday"
         ],
         "correctIndex": 1,
-        "explain": "圖書館將於3月1日至4月15日關閉進行翻新。"
+        "explain": "圖書館將在周六關閉。"
       },
       {
-        "q": "What should students do in response to the closure?",
+        "q": "What should students do before Friday?",
         "options": [
-          "Visit the library more often.",
-          "Plan their study schedules accordingly.",
-          "Ignore the announcement.",
-          "Attend classes during the closure."
+          "Borrow more materials",
+          "Return borrowed materials",
+          "Visit the library",
+          "Attend a meeting"
         ],
         "correctIndex": 1,
-        "explain": "學生應根據圖書館關閉的時間合理安排學習計劃。"
+        "explain": "學生應在周五之前歸還借用的材料。"
       }
     ]
   }

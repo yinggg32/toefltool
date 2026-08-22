@@ -1,116 +1,116 @@
 {
   "chooseResponse": [
     {
-      "q": "What time is the meeting tomorrow?",
+      "q": "What did you think of the film?",
       "options": [
-        "At 10 AM",
-        "I forgot the time",
-        "In the afternoon",
-        "Not sure"
+        "It was amazing!",
+        "I didn't like it.",
+        "I haven't seen it yet.",
+        "It was too long."
       ],
       "correctIndex": 0
     }
   ],
   "conversation": {
-    "transcript": "Student: Hey, do you know where the Art Gallery is?\nAdvisor: Yes, it's on the second floor of the student center.\nStudent: Thanks! Is there an admission fee?\nAdvisor: No, it's free for all students this month.",
+    "transcript": "Student: Did you go to the poetry reading last night?\nProfessor: Yes, I did. It was really inspiring.\nStudent: I wish I could have gone. Who performed?\nProfessor: A local poet read some of their original work.",
     "questions": [
       {
-        "q": "Where is the Art Gallery located?",
+        "q": "What event did the student ask about?",
         "options": [
-          "On the first floor",
-          "In the library",
-          "On the second floor",
-          "In the cafeteria"
-        ],
-        "correctIndex": 2,
-        "explain": "藝術畫廊位於學生中心的二樓。"
-      },
-      {
-        "q": "Is there a fee to enter the gallery?",
-        "options": [
-          "Yes, it's $5",
-          "No, it's free",
-          "Only during weekends",
-          "Not for students"
+          "A book signing",
+          "A poetry reading",
+          "A lecture",
+          "A film screening"
         ],
         "correctIndex": 1,
-        "explain": "這個月對所有學生是免費的。"
+        "explain": "學生問的是詩歌朗讀會的事情。"
+      },
+      {
+        "q": "How did the professor feel about the event?",
+        "options": [
+          "It was boring.",
+          "It was inspiring.",
+          "It was too long.",
+          "It was poorly attended."
+        ],
+        "correctIndex": 1,
+        "explain": "教授覺得這次活動啟發人心。"
       }
     ]
   },
   "announcement": {
-    "transcript": "Attention students! The library will have extended hours this weekend, staying open until midnight on Saturday and Sunday. Make sure to take advantage of this opportunity for studying. Thank you!",
+    "transcript": "Attention students! The library will be closing early today at 4 PM due to a staff meeting. Please make sure to gather any materials you need before then. Regular hours will resume tomorrow.",
     "questions": [
       {
-        "q": "What are the new library hours?",
+        "q": "Why will the library close early?",
         "options": [
-          "Until 10 PM",
-          "Until midnight",
-          "Only during the day",
-          "Closed all weekend"
+          "Staff meeting",
+          "Renovation work",
+          "Holiday celebration",
+          "Inventory check"
         ],
-        "correctIndex": 1,
-        "explain": "圖書館這個週末的開放時間延長到午夜。"
+        "correctIndex": 0,
+        "explain": "圖書館今天提前關閉是因為員工會議。"
       },
       {
-        "q": "Why is the library extending its hours?",
+        "q": "When will regular hours resume?",
         "options": [
-          "For a special event",
-          "To accommodate students studying",
-          "To clean the library",
-          "To save on costs"
+          "Today",
+          "Tomorrow",
+          "Next week",
+          "Next month"
         ],
         "correctIndex": 1,
-        "explain": "為了方便學生學習。"
+        "explain": "明天會恢復正常開放時間。"
       }
     ]
   },
   "talk": {
-    "transcript": "Today, we will explore the concept of biodiversity. Biodiversity refers to the variety of life found on Earth, including the different species of plants, animals, and microorganisms. It plays a crucial role in ecosystem stability and resilience. For instance, a diverse ecosystem can better withstand diseases and environmental changes. We can categorize biodiversity into three levels: genetic, species, and ecosystem diversity. Each level contributes to the overall health of the planet and is essential for providing services like pollination, climate regulation, and nutrient cycling.",
+    "transcript": "Today, we'll discuss the concept of metabolic rates. Metabolic rate is the speed at which your body converts food into energy. It varies from person to person based on several factors, including age, sex, muscle mass, and activity level. Higher muscle mass typically increases metabolic rate because muscle tissue burns more calories than fat tissue, even at rest. This means that individuals with more muscle can often eat more without gaining weight, as their bodies are constantly using energy. Understanding your metabolic rate can help you make informed decisions about diet and exercise.",
     "questions": [
       {
-        "q": "What does biodiversity refer to?",
+        "q": "What is metabolic rate?",
         "options": [
-          "Only animal species",
-          "Plant variety",
-          "The variety of life on Earth",
-          "Microorganisms only"
+          "The rate of breathing",
+          "The speed of digestion",
+          "The speed of food conversion to energy",
+          "The rate of heartbeats"
         ],
         "correctIndex": 2,
-        "explain": "生物多樣性是指地球上生命的多樣性。"
+        "explain": "新陳代謝率是身體將食物轉化為能量的速度。"
       },
       {
-        "q": "Why is biodiversity important?",
+        "q": "Which factor increases metabolic rate?",
         "options": [
-          "It creates more diseases",
-          "It reduces ecosystem stability",
-          "It supports ecosystem services",
-          "It has no real impact"
+          "Age",
+          "Fat mass",
+          "Muscle mass",
+          "Sleep"
         ],
         "correctIndex": 2,
-        "explain": "生物多樣性對生態系統的穩定性和韌性至關重要。"
+        "explain": "肌肉量增加通常會提高新陳代謝率。"
       },
       {
-        "q": "How many levels of biodiversity are mentioned?",
+        "q": "What happens to those with higher muscle mass?",
         "options": [
-          "One",
-          "Two",
-          "Three",
-          "Four"
-        ],
-        "correctIndex": 2,
-        "explain": "提到三個層次：基因、生物種和生態系統多樣性。"
-      },
-      {
-        "q": "What is one service provided by biodiversity?",
-        "options": [
-          "Climate change",
-          "Pollination",
-          "Overpopulation",
-          "Pollution"
+          "They gain weight quickly.",
+          "They can eat more without gaining weight.",
+          "They have lower energy levels.",
+          "They need more sleep."
         ],
         "correctIndex": 1,
-        "explain": "生物多樣性提供了授粉等生態系統服務。"
+        "explain": "肌肉量較多的人可以在不增加體重的情況下吃得更多。"
+      },
+      {
+        "q": "Why is understanding metabolic rate important?",
+        "options": [
+          "It helps with stress management.",
+          "It can inform diet and exercise decisions.",
+          "It affects sleep quality.",
+          "It determines food taste preferences."
+        ],
+        "correctIndex": 1,
+        "explain": "了解新陳代謝率可以幫助做出有關飲食和運動的明智決策。"
       }
     ]
   }
