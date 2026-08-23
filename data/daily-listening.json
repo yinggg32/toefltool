@@ -1,116 +1,116 @@
 {
   "chooseResponse": [
     {
-      "q": "What did you think of the film?",
+      "q": "What did you think of the guest lecture?",
       "options": [
-        "It was amazing!",
-        "I didn't like it.",
-        "I haven't seen it yet.",
-        "It was too long."
+        "It was fascinating!",
+        "I didn't understand much.",
+        "It was too long.",
+        "I prefer shorter lectures."
       ],
       "correctIndex": 0
     }
   ],
   "conversation": {
-    "transcript": "Student: Did you go to the poetry reading last night?\nProfessor: Yes, I did. It was really inspiring.\nStudent: I wish I could have gone. Who performed?\nProfessor: A local poet read some of their original work.",
+    "transcript": "Student: Hey, did you attend the guest lecture last night?\nProfessor: Yes, I did! What did you think of it?\nStudent: I thought it was fascinating, especially the part about renewable energy.\nProfessor: I agree! The speaker had some great insights.",
     "questions": [
       {
-        "q": "What event did the student ask about?",
+        "q": "What did the student find fascinating?",
         "options": [
-          "A book signing",
-          "A poetry reading",
-          "A lecture",
-          "A film screening"
+          "The speaker's insights",
+          "The lecture duration",
+          "The topic of climate change",
+          "The professor's opinion"
         ],
-        "correctIndex": 1,
-        "explain": "學生問的是詩歌朗讀會的事情。"
+        "correctIndex": 0,
+        "explain": "學生認為演講者的見解非常吸引人。"
       },
       {
-        "q": "How did the professor feel about the event?",
+        "q": "What is the main topic discussed in the lecture?",
         "options": [
-          "It was boring.",
-          "It was inspiring.",
-          "It was too long.",
-          "It was poorly attended."
+          "Renewable energy",
+          "Historical events",
+          "Mathematics",
+          "Art history"
         ],
-        "correctIndex": 1,
-        "explain": "教授覺得這次活動啟發人心。"
+        "correctIndex": 0,
+        "explain": "演講的主要主題是可再生能源。"
       }
     ]
   },
   "announcement": {
-    "transcript": "Attention students! The library will be closing early today at 4 PM due to a staff meeting. Please make sure to gather any materials you need before then. Regular hours will resume tomorrow.",
+    "transcript": "Attention students! The university will be hosting a Sustainability Fair this Friday from 10 AM to 4 PM on the main lawn. There will be various workshops, speakers, and activities related to environmental awareness. We hope to see you there!",
     "questions": [
       {
-        "q": "Why will the library close early?",
+        "q": "What is the purpose of the Sustainability Fair?",
         "options": [
-          "Staff meeting",
-          "Renovation work",
-          "Holiday celebration",
-          "Inventory check"
-        ],
-        "correctIndex": 0,
-        "explain": "圖書館今天提前關閉是因為員工會議。"
-      },
-      {
-        "q": "When will regular hours resume?",
-        "options": [
-          "Today",
-          "Tomorrow",
-          "Next week",
-          "Next month"
+          "To promote health",
+          "To raise environmental awareness",
+          "To celebrate culture",
+          "To recruit new students"
         ],
         "correctIndex": 1,
-        "explain": "明天會恢復正常開放時間。"
+        "explain": "可持續發展博覽會的目的是提高環保意識。"
+      },
+      {
+        "q": "When will the Sustainability Fair take place?",
+        "options": [
+          "This Saturday",
+          "This Friday",
+          "Next Monday",
+          "Next Saturday"
+        ],
+        "correctIndex": 1,
+        "explain": "可持續發展博覽會將於本週五舉行。"
       }
     ]
   },
   "talk": {
-    "transcript": "Today, we'll discuss the concept of metabolic rates. Metabolic rate is the speed at which your body converts food into energy. It varies from person to person based on several factors, including age, sex, muscle mass, and activity level. Higher muscle mass typically increases metabolic rate because muscle tissue burns more calories than fat tissue, even at rest. This means that individuals with more muscle can often eat more without gaining weight, as their bodies are constantly using energy. Understanding your metabolic rate can help you make informed decisions about diet and exercise.",
+    "transcript": "Today, I want to talk about the concept of ecological footprints. An ecological footprint measures the environmental impact of an individual, community, or organization in terms of the amount of land and water area required to produce the resources consumed and to absorb the waste generated. This concept helps us understand how our lifestyle choices affect the planet. For example, a person who frequently uses public transportation and eats a plant-based diet will have a smaller ecological footprint compared to someone who relies heavily on driving and consumes a lot of meat. By calculating our footprints, we can find ways to reduce them and lead more sustainable lives.",
     "questions": [
       {
-        "q": "What is metabolic rate?",
+        "q": "What does an ecological footprint measure?",
         "options": [
-          "The rate of breathing",
-          "The speed of digestion",
-          "The speed of food conversion to energy",
-          "The rate of heartbeats"
+          "Environmental impact",
+          "Economic growth",
+          "Social development",
+          "Cultural diversity"
         ],
-        "correctIndex": 2,
-        "explain": "新陳代謝率是身體將食物轉化為能量的速度。"
+        "correctIndex": 0,
+        "explain": "生態足跡測量環境影響。"
       },
       {
-        "q": "Which factor increases metabolic rate?",
+        "q": "How can someone reduce their ecological footprint?",
         "options": [
-          "Age",
-          "Fat mass",
-          "Muscle mass",
-          "Sleep"
-        ],
-        "correctIndex": 2,
-        "explain": "肌肉量增加通常會提高新陳代謝率。"
-      },
-      {
-        "q": "What happens to those with higher muscle mass?",
-        "options": [
-          "They gain weight quickly.",
-          "They can eat more without gaining weight.",
-          "They have lower energy levels.",
-          "They need more sleep."
+          "By driving more",
+          "By eating less meat",
+          "By using more plastic",
+          "By increasing energy consumption"
         ],
         "correctIndex": 1,
-        "explain": "肌肉量較多的人可以在不增加體重的情況下吃得更多。"
+        "explain": "通過減少肉類消耗可以減少生態足跡。"
       },
       {
-        "q": "Why is understanding metabolic rate important?",
+        "q": "Why is understanding ecological footprints important?",
         "options": [
-          "It helps with stress management.",
-          "It can inform diet and exercise decisions.",
-          "It affects sleep quality.",
-          "It determines food taste preferences."
+          "To enhance economic growth",
+          "To improve social interactions",
+          "To understand lifestyle impacts on the planet",
+          "To learn about historical events"
         ],
-        "correctIndex": 1,
-        "explain": "了解新陳代謝率可以幫助做出有關飲食和運動的明智決策。"
+        "correctIndex": 2,
+        "explain": "了解生態足跡的重要性在於理解生活方式對地球的影響。"
+      },
+      {
+        "q": "What is a lifestyle characteristic of someone with a smaller ecological footprint?",
+        "options": [
+          "Frequent driving",
+          "High meat consumption",
+          "Using public transportation",
+          "Living in large houses"
+        ],
+        "correctIndex": 2,
+        "explain": "較小生態足跡的人的生活特徵是使用公共交通。"
       }
     ]
   }

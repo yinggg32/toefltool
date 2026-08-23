@@ -3,122 +3,131 @@
     {
       "words": [
         "the",
-        "students",
-        "in",
-        "the",
-        "library",
-        "were",
-        "studying",
-        "quietly"
-      ],
-      "display": "The students in the library were studying quietly."
-    },
-    {
-      "words": [
-        "global",
-        "warming",
-        "is",
-        "a",
-        "major",
-        "issue",
-        "that",
-        "affects"
-      ],
-      "display": "Global warming is a major issue that affects."
-    },
-    {
-      "words": [
-        "many",
-        "animals",
-        "are",
-        "endangered",
-        "due",
-        "to",
-        "habitat",
-        "loss"
-      ],
-      "display": "Many animals are endangered due to habitat loss."
-    },
-    {
-      "words": [
-        "the",
         "research",
-        "study",
-        "was",
-        "conducted",
-        "over",
-        "a",
-        "year"
+        "team",
+        "will",
+        "present",
+        "their",
+        "findings",
+        "tomorrow"
       ],
-      "display": "The research study was conducted over a year."
+      "display": "The research team will present their findings tomorrow."
     },
     {
       "words": [
         "students",
         "should",
-        "participate",
+        "review",
+        "the",
+        "study",
+        "materials",
+        "before",
+        "the",
+        "exam"
+      ],
+      "display": "Students should review the study materials before the exam."
+    },
+    {
+      "words": [
+        "attending",
+        "the",
+        "conference",
+        "provides",
+        "valuable",
+        "networking",
+        "opportunities",
+        "for",
+        "students"
+      ],
+      "display": "Attending the conference provides valuable networking opportunities for students."
+    },
+    {
+      "words": [
+        "the",
+        "library",
+        "is",
+        "open",
+        "until",
+        "midnight",
+        "during",
+        "finals",
+        "week"
+      ],
+      "display": "The library is open until midnight during finals week."
+    },
+    {
+      "words": [
+        "participating",
         "in",
         "extracurricular",
         "activities",
-        "to",
-        "grow"
-      ],
-      "display": "Students should participate in extracurricular activities to grow."
-    },
-    {
-      "words": [
-        "the",
-        "presentation",
-        "was",
-        "well-received",
-        "by",
-        "the",
-        "audience",
-        "members"
-      ],
-      "display": "The presentation was well-received by the audience members."
-    },
-    {
-      "words": [
-        "learning",
-        "a",
-        "new",
-        "language",
         "can",
-        "be",
-        "challenging",
-        "yet"
+        "enhance",
+        "a",
+        "student's",
+        "experience"
       ],
-      "display": "Learning a new language can be challenging yet."
+      "display": "Participating in extracurricular activities can enhance a student's experience."
     },
     {
       "words": [
         "the",
         "professor",
-        "assigned",
-        "a",
-        "paper",
-        "due",
-        "next",
-        "week"
+        "encourages",
+        "students",
+        "to",
+        "ask",
+        "questions",
+        "during",
+        "lectures"
       ],
-      "display": "The professor assigned a paper due next week."
+      "display": "The professor encourages students to ask questions during lectures."
+    },
+    {
+      "words": [
+        "the",
+        "university",
+        "offers",
+        "various",
+        "scholarships",
+        "to",
+        "support",
+        "students",
+        "in",
+        "need"
+      ],
+      "display": "The university offers various scholarships to support students in need."
+    },
+    {
+      "words": [
+        "students",
+        "are",
+        "expected",
+        "to",
+        "submit",
+        "their",
+        "assignments",
+        "by",
+        "the",
+        "deadline"
+      ],
+      "display": "Students are expected to submit their assignments by the deadline."
     }
   ],
   "emailPrompts": [
-    "寄信給教授，請教有關期末報告的要求以及截止日期。",
-    "寄信給宿舍辦公室，詢問關於寄宿生的安全措施。",
-    "寄信給圖書館，請求延長借書期限。",
-    "寄信給社團負責人，表達參加社團活動的興趣並詢問更多資訊。",
-    "寄信給客戶服務部門，反映產品的問題並請求退款。",
-    "寄信給學校輔導員，要求安排面談以討論學業壓力。"
+    "寄信給教授，詢問有關期末報告的具體要求。",
+    "寄信給宿舍辦公室，請求更換房間的申請表。",
+    "寄信給圖書館，詢問如何延長借書期限。",
+    "寄信給社團，表達希望參加下個月的活動。",
+    "寄信給客戶服務，反映產品的質量問題，並要求退款。",
+    "寄信給校園餐廳，建議增加素食選擇以滿足學生需求。"
   ],
   "discussionPrompts": [
-    "教授問：「全球暖化對人類社會的影響是什麼？」",
-    "教授問：「應該如何平衡經濟發展與環境保護？」",
-    "教授問：「科技進步是否真的改善了人類生活品質？」",
-    "教授問：「大學教育的目的究竟是什麼？」",
-    "教授問：「在當今社會中，藝術是否仍然重要？」",
-    "教授問：「心理健康在學習中的角色是什麼？」"
+    "教授問：「在科技快速發展的時代，教育應如何調整以應對未來的挑戰？」",
+    "教授問：「社交媒體對於現代人際關係的影響是好是壞？」",
+    "教授問：「全球暖化的主要原因及其應對策略有哪些？」",
+    "教授問：「大學生是否應該參與政治活動，為什麼？」",
+    "教授問：「文化多樣性在當代社會中扮演什麼角色？」",
+    "教授問：「如何平衡工作與生活，以促進心理健康？」"
   ]
 }

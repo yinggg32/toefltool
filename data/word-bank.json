@@ -7622,5 +7622,53 @@
     "zh": "聚集",
     "ex": "Accretion is a process through which celestial bodies grow by accumulating matter.",
     "cat": "📰 每日新詞：astronomy and space science"
+  },
+  {
+    "word": "vaccine",
+    "pos": "n.",
+    "root": "vaccinus (牛痘的)",
+    "zh": "疫苗",
+    "ex": "Vaccines play a vital role in preventing the spread of infectious diseases.",
+    "cat": "📰 每日新詞：public health"
+  },
+  {
+    "word": "determinant",
+    "pos": "n.",
+    "root": "determine (決定) + ant (的)",
+    "zh": "決定因素",
+    "ex": "Social determinants of health include factors such as income, education, and environment.",
+    "cat": "📰 每日新詞：public health"
+  },
+  {
+    "word": "holistic",
+    "pos": "adj.",
+    "root": "holos (全體的)",
+    "zh": "整體的",
+    "ex": "A holistic approach to public health considers the interconnectedness of various health determinants.",
+    "cat": "📰 每日新詞：public health"
+  },
+  {
+    "word": "health disparity",
+    "pos": "n.",
+    "root": "health (健康) + disparity (差異)",
+    "zh": "健康差異",
+    "ex": "Addressing health disparities is crucial for achieving health equity.",
+    "cat": "📰 每日新詞：public health"
+  },
+  {
+    "word": "telemedicine",
+    "pos": "n.",
+    "root": "tele (遠程) + medicine (醫學)",
+    "zh": "遠程醫療",
+    "ex": "Telemedicine has expanded access to healthcare services in remote areas.",
+    "cat": "📰 每日新詞：public health"
+  },
+  {
+    "word": "emergency",
+    "pos": "n.",
+    "root": "emergere (出現)",
+    "zh": "緊急情況",
+    "ex": "Emergency preparedness is vital for responding to public health crises.",
+    "cat": "📰 每日新詞：public health"
   }
 ]

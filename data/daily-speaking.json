@@ -1,45 +1,45 @@
 {
   "shadowSentences": [
-    "The sun is shining brightly today.",
-    "I enjoy reading books in my free time.",
-    "My favorite hobby is playing the guitar.",
-    "I often go for walks in the park nearby.",
-    "Traveling to new places opens up my mind.",
-    "Cooking different cuisines is a fun challenge for me.",
-    "I like to watch movies with my friends on weekends.",
-    "Listening to music helps me relax and focus better.",
-    "Keeping a journal has improved my writing skills a lot.",
-    "Participating in community events makes me feel connected to others."
+    "I love to read books.",
+    "She enjoys cooking new recipes.",
+    "They often go hiking on weekends.",
+    "He plays the guitar very well.",
+    "We usually watch movies together at night.",
+    "My favorite season is autumn because of the colors.",
+    "I often listen to music while studying for exams.",
+    "Traveling to new places expands your understanding of the world.",
+    "Volunteering in the community can be a rewarding experience for everyone.",
+    "Learning a new language opens up many opportunities for communication."
   ],
   "interviewScenarios": [
     {
       "topic": "旅行計劃",
       "intro": "You have agreed to take part in a research study about travel planning.",
       "questions": [
-        "Q1: Can you share a memorable trip you took recently?",
-        "Q2: What challenges did you face while planning that trip?",
-        "Q3: How important do you think travel is for personal growth?",
-        "Q4: What advice would you give someone planning their first trip?"
+        "Q1: Can you describe your last travel experience?",
+        "Q2: What challenges do you face when planning a trip?",
+        "Q3: In your opinion, how important is it to plan ahead for a trip?",
+        "Q4: What advice would you give someone who is planning their first trip?"
       ]
     },
     {
-      "topic": "烹飪技巧",
-      "intro": "You have agreed to take part in a research study about cooking skills.",
+      "topic": "健身習慣",
+      "intro": "You have agreed to take part in a research study about fitness habits.",
       "questions": [
-        "Q1: What is your favorite dish to cook at home?",
-        "Q2: Have you ever struggled with a specific cooking technique?",
-        "Q3: Why do you think cooking is an important skill to have?",
-        "Q4: What tips would you give to someone who wants to improve their cooking?"
+        "Q1: What type of exercise do you enjoy the most?",
+        "Q2: How do you stay motivated to maintain your fitness routine?",
+        "Q3: What do you think are the benefits of regular exercise?",
+        "Q4: What tips would you give to someone new to exercising?"
       ]
     },
     {
-      "topic": "運動習慣",
-      "intro": "You have agreed to take part in a research study about exercise habits.",
+      "topic": "藝術欣賞",
+      "intro": "You have agreed to take part in a research study about art appreciation.",
       "questions": [
-        "Q1: What kind of exercise do you enjoy the most?",
-        "Q2: What obstacles do you face when trying to stay active?",
-        "Q3: In your opinion, how does regular exercise benefit mental health?",
-        "Q4: What advice would you offer to someone starting an exercise routine?"
+        "Q1: What kind of art do you enjoy and why?",
+        "Q2: Have you ever tried creating your own art? What was it like?",
+        "Q3: How do you think art influences our emotions and thoughts?",
+        "Q4: What advice would you give someone who wants to learn more about art?"
       ]
     }
   ]

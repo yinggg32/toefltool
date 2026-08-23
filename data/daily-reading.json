@@ -2,101 +2,87 @@
   "cloze": {
     "segments": [
       {
-        "text": "The phenomenon of photosynthesis is vital to life on Earth. It primarily occurs in the leaves of plants, where chlorophyll absorbs sunlight."
+        "text": "The process of photosynthesis is essential for life on Earth. Plants, algae, and some bacteria convert sunlight into chemical energy by utilizing carbon dioxide and water. This complex reaction starts when chlorophyll, the green pigment in plants, absorbs light energy. The absorbed light energizes electrons, leading to the production of glucose, which serves as a food source. Oxygen is released as a byproduct, providing vital air for most living organisms. The overall equation for photosynthesis can be summarized as: six carbon di",
+        "blank": "oxide + six water → one glucose + six oxygen."
       },
       {
-        "blank": "n, and the plants"
-      },
-      {
-        "text": "use that energy to convert carbon dioxide and water into glucose and oxygen. This process is not only essential for plant growth but also for maintaining the balance of "
-      },
-      {
-        "blank": "ecosys"
-      },
-      {
-        "text": "tems. By providing oxygen, photosynthesis supports the respiration of nearly all living organisms, including animals and humans. Furthermore, it plays a crucial role in the "
-      },
-      {
-        "blank": "global"
-      },
-      {
-        "text": "carbon cycle, helping to regulate atmospheric CO2 levels. Thus, understanding photosynthesis is important for a variety of fields, including agriculture and environmental science."
+        "text": "Without this process, the global ecosystem would collapse. Furthermore, photosynthesis plays a crucial role in regulating atmospheric levels of carbon dioxide, which is linked to climate change. By understanding photosynthesis, scientists can develop innovative strategies for agriculture and biofuels, making it a focal point for both environmental sustainability and food security. As research progresses, the potential applications of enhancing this process are becoming increasingly obvious, thus highlighting its importance in both ecological and economic contexts."
       }
     ]
   },
   "academic": {
-    "passage": "Photosynthesis is the process by which green plants and some other organisms use sunlight to synthesize foods with the help of chlorophyll. This process converts light energy into chemical energy, producing glucose and oxygen as byproducts. Photosynthesis is fundamental to the survival of life on Earth as it provides the primary energy source for nearly all ecosystems. The glucose produced serves as an energy source for plants and, indirectly, for animals that rely on plants for food. Additionally, photosynthesis plays a significant role in carbon cycling, which helps mitigate climate change.",
+    "passage": "Photosynthesis is the process through which green plants, algae, and some bacteria convert light energy into chemical energy. This process is vital for life on Earth, as it produces glucose and oxygen. During photosynthesis, chlorophyll captures sunlight, initiating the transformation of carbon dioxide and water into glucose, which serves as food for the organism and releases oxygen as a byproduct. The global implications of this process extend to climate regulation and agricultural sustainability, making it a key area of research in environmental science.",
     "questions": [
       {
         "q": "What is the main idea of the passage?",
         "options": [
-          "Photosynthesis provides energy for ecosystems.",
-          "Chlorophyll is essential for photosynthesis.",
-          "The process of photosynthesis is complex.",
-          "Plants produce carbon dioxide."
+          "Photosynthesis is crucial for life on Earth.",
+          "Glucose is the main product of photosynthesis.",
+          "Climate change affects photosynthesis.",
+          "Chlorophyll captures sunlight."
         ],
         "correctIndex": 0,
-        "explain": "這段文字的主要思想是光合作用為生態系統提供能量。"
+        "explain": "這段文章的主旨強調光合作用對地球生命的重要性。"
       },
       {
-        "q": "What do plants produce during photosynthesis?",
+        "q": "What is produced as a byproduct of photosynthesis?",
         "options": [
-          "Nitrogen and hydrogen",
-          "Glucose and oxygen",
-          "Carbon dioxide and water",
-          "Sunlight and minerals"
+          "Carbon dioxide",
+          "Oxygen",
+          "Water",
+          "Glucose"
         ],
         "correctIndex": 1,
-        "explain": "植物在光合作用期間製造葡萄糖和氧氣。"
+        "explain": "文章提到光合作用的副產品是氧氣。"
       },
       {
-        "q": "Which statement can be inferred from the passage?",
+        "q": "What inference can be made about the relationship between photosynthesis and climate change?",
         "options": [
-          "Photosynthesis is only important for plants.",
-          "Animals are not affected by photosynthesis.",
-          "Photosynthesis has implications for climate change.",
-          "Only certain organisms can perform photosynthesis."
-        ],
-        "correctIndex": 2,
-        "explain": "可以推斷出光合作用對氣候變化有影響。"
-      },
-      {
-        "q": "What does the word 'byproducts' refer to in the context of the passage?",
-        "options": [
-          "Essential nutrients",
-          "Additional products",
-          "Waste materials",
-          "Primary products"
+          "Photosynthesis does not affect climate change.",
+          "Photosynthesis can help regulate carbon dioxide levels.",
+          "Climate change improves photosynthesis.",
+          "Only plants can affect climate change."
         ],
         "correctIndex": 1,
-        "explain": "在這段文字中，'副產品'指的是額外產生的產物。"
+        "explain": "文章指出光合作用在調節二氧化碳水平方面的關鍵角色，這與氣候變化有關。"
+      },
+      {
+        "q": "What does the term 'chlorophyll' refer to in the context of the passage?",
+        "options": [
+          "A type of chemical energy",
+          "The pigment that captures sunlight",
+          "A byproduct of photosynthesis",
+          "A type of plant"
+        ],
+        "correctIndex": 1,
+        "explain": "在這段文章中，'chlorophyll'指的是捕獲陽光的色素。"
       }
     ]
   },
   "daily": {
-    "passage": "Attention students! The library will be closed for maintenance this Saturday. Please plan accordingly and return any borrowed materials by Friday. Thank you for your understanding.",
+    "passage": "Attention students: The campus library will be closed for renovations from March 1st to March 15th. During this time, all library services will be unavailable. We apologize for any inconvenience and appreciate your understanding.",
     "questions": [
       {
         "q": "When will the library be closed?",
         "options": [
-          "Friday",
-          "Saturday",
-          "Sunday",
-          "Monday"
+          "From March 1st to March 15th",
+          "From March 1st to March 5th",
+          "From March 15th to March 30th",
+          "On weekends only"
         ],
-        "correctIndex": 1,
-        "explain": "圖書館將在周六關閉。"
+        "correctIndex": 0,
+        "explain": "根據公告，圖書館將在3月1日至3月15日關閉。"
       },
       {
-        "q": "What should students do before Friday?",
+        "q": "What should students expect during the closure?",
         "options": [
-          "Borrow more materials",
-          "Return borrowed materials",
-          "Visit the library",
-          "Attend a meeting"
+          "Library services will be available.",
+          "Library services will be unavailable.",
+          "New books will be added.",
+          "Renovations will not happen."
         ],
         "correctIndex": 1,
-        "explain": "學生應在周五之前歸還借用的材料。"
+        "explain": "公告指出，在關閉期間所有圖書館服務將無法使用。"
       }
     ]
   }
