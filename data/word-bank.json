@@ -7670,5 +7670,69 @@
     "zh": "緊急情況",
     "ex": "Emergency preparedness is vital for responding to public health crises.",
     "cat": "📰 每日新詞：public health"
+  },
+  {
+    "word": "constituency",
+    "pos": "n.",
+    "root": "constitute(構成) + ency(狀態)",
+    "zh": "選區",
+    "ex": "Politicians often focus on the needs of their constituency.",
+    "cat": "📰 每日新詞：political science"
+  },
+  {
+    "word": "oligarchy",
+    "pos": "n.",
+    "root": "oligo(少數) + archy(統治)",
+    "zh": "寡頭政治",
+    "ex": "An oligarchy can limit the representation of the broader population.",
+    "cat": "📰 每日新詞：political science"
+  },
+  {
+    "word": "suffrage",
+    "pos": "n.",
+    "root": "suffragium(選舉權)",
+    "zh": "選舉權",
+    "ex": "Suffrage movements have historically fought for equal voting rights.",
+    "cat": "📰 每日新詞：political science"
+  },
+  {
+    "word": "political efficacy",
+    "pos": "n.",
+    "root": "political(政治的) + efficacy(效能)",
+    "zh": "政治效能",
+    "ex": "Political efficacy refers to citizens' belief in their influence on politics.",
+    "cat": "📰 每日新詞：political science"
+  },
+  {
+    "word": "arbitration",
+    "pos": "n.",
+    "root": "arbitra(仲裁) + tion(行為)",
+    "zh": "仲裁",
+    "ex": "Arbitration is a common method of resolving international disputes.",
+    "cat": "📰 每日新詞：political science"
+  },
+  {
+    "word": "civic engagement",
+    "pos": "n.",
+    "root": "civic(公民的) + engagement(參與)",
+    "zh": "公民參與",
+    "ex": "Civic engagement is essential for a healthy democracy.",
+    "cat": "📰 每日新詞：political science"
+  },
+  {
+    "word": "collective action",
+    "pos": "n.",
+    "root": "collective(集體的) + action(行動)",
+    "zh": "集體行動",
+    "ex": "Collective action can lead to significant political change.",
+    "cat": "📰 每日新詞：political science"
+  },
+  {
+    "word": "political polarization",
+    "pos": "n.",
+    "root": "political(政治的) + polarization(極化)",
+    "zh": "政治極化",
+    "ex": "Political polarization can create divisions within society.",
+    "cat": "📰 每日新詞：political science"
   }
 ]

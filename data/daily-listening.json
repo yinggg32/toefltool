@@ -1,116 +1,116 @@
 {
   "chooseResponse": [
     {
-      "q": "What did you think of the guest lecture?",
+      "q": "What did you think of the lecture?",
       "options": [
-        "It was fascinating!",
-        "I didn't understand much.",
+        "It was really insightful.",
+        "I didn't understand it.",
         "It was too long.",
-        "I prefer shorter lectures."
+        "I liked the visuals."
       ],
       "correctIndex": 0
     }
   ],
   "conversation": {
-    "transcript": "Student: Hey, did you attend the guest lecture last night?\nProfessor: Yes, I did! What did you think of it?\nStudent: I thought it was fascinating, especially the part about renewable energy.\nProfessor: I agree! The speaker had some great insights.",
+    "transcript": "Student: Hey, did you go to the art exhibit last night?\nAdvisor: Yes, I did! It was amazing. What did you think?\nStudent: I loved the interactive installations. They were so engaging.\nAdvisor: Absolutely! I spent a lot of time at the virtual reality section.",
     "questions": [
       {
-        "q": "What did the student find fascinating?",
+        "q": "What did the student like about the art exhibit?",
         "options": [
-          "The speaker's insights",
-          "The lecture duration",
-          "The topic of climate change",
-          "The professor's opinion"
+          "The interactive installations",
+          "The traditional paintings",
+          "The food served",
+          "The location"
         ],
         "correctIndex": 0,
-        "explain": "學生認為演講者的見解非常吸引人。"
+        "explain": "學生喜歡互動裝置，這使得展覽更加吸引人。"
       },
       {
-        "q": "What is the main topic discussed in the lecture?",
+        "q": "Where did the advisor spend a lot of time?",
         "options": [
-          "Renewable energy",
-          "Historical events",
-          "Mathematics",
-          "Art history"
+          "In the main hall",
+          "At the entrance",
+          "In the virtual reality section",
+          "At the gift shop"
         ],
-        "correctIndex": 0,
-        "explain": "演講的主要主題是可再生能源。"
+        "correctIndex": 2,
+        "explain": "顧問在虛擬現實區域花了很多時間，表明他對新技術的興趣。"
       }
     ]
   },
   "announcement": {
-    "transcript": "Attention students! The university will be hosting a Sustainability Fair this Friday from 10 AM to 4 PM on the main lawn. There will be various workshops, speakers, and activities related to environmental awareness. We hope to see you there!",
+    "transcript": "Attention students: The campus health center will be offering free flu shots this Thursday from 10 AM to 2 PM in the Student Union. Please bring your student ID. We encourage everyone to take advantage of this service to stay healthy this season.",
     "questions": [
       {
-        "q": "What is the purpose of the Sustainability Fair?",
+        "q": "When are the free flu shots available?",
         "options": [
-          "To promote health",
-          "To raise environmental awareness",
-          "To celebrate culture",
-          "To recruit new students"
+          "This Wednesday",
+          "This Thursday",
+          "Next Monday",
+          "Next Tuesday"
         ],
         "correctIndex": 1,
-        "explain": "可持續發展博覽會的目的是提高環保意識。"
+        "explain": "免費流感疫苗將在本週四提供。"
       },
       {
-        "q": "When will the Sustainability Fair take place?",
+        "q": "Where should students go for the flu shots?",
         "options": [
-          "This Saturday",
-          "This Friday",
-          "Next Monday",
-          "Next Saturday"
+          "Library",
+          "Gym",
+          "Student Union",
+          "Cafeteria"
         ],
-        "correctIndex": 1,
-        "explain": "可持續發展博覽會將於本週五舉行。"
+        "correctIndex": 2,
+        "explain": "學生應該前往學生聯合會接受疫苗接種。"
       }
     ]
   },
   "talk": {
-    "transcript": "Today, I want to talk about the concept of ecological footprints. An ecological footprint measures the environmental impact of an individual, community, or organization in terms of the amount of land and water area required to produce the resources consumed and to absorb the waste generated. This concept helps us understand how our lifestyle choices affect the planet. For example, a person who frequently uses public transportation and eats a plant-based diet will have a smaller ecological footprint compared to someone who relies heavily on driving and consumes a lot of meat. By calculating our footprints, we can find ways to reduce them and lead more sustainable lives.",
+    "transcript": "Today, we will explore the concept of renewable energy. Renewable energy comes from sources that are naturally replenished, such as solar, wind, and hydropower. Unlike fossil fuels, which can take millions of years to form, renewable energy can be generated continuously. For instance, solar panels convert sunlight into electricity, while wind turbines harness wind power. The shift to renewable energy is essential for reducing greenhouse gas emissions and combating climate change. By investing in these technologies, we can create a sustainable energy future for generations to come.",
     "questions": [
       {
-        "q": "What does an ecological footprint measure?",
+        "q": "What is renewable energy?",
         "options": [
-          "Environmental impact",
-          "Economic growth",
-          "Social development",
-          "Cultural diversity"
-        ],
-        "correctIndex": 0,
-        "explain": "生態足跡測量環境影響。"
-      },
-      {
-        "q": "How can someone reduce their ecological footprint?",
-        "options": [
-          "By driving more",
-          "By eating less meat",
-          "By using more plastic",
-          "By increasing energy consumption"
+          "Energy from fossil fuels",
+          "Energy from natural sources",
+          "Energy from nuclear power",
+          "Energy from coal"
         ],
         "correctIndex": 1,
-        "explain": "通過減少肉類消耗可以減少生態足跡。"
+        "explain": "可再生能源來自自然來源，能不斷補充。"
       },
       {
-        "q": "Why is understanding ecological footprints important?",
+        "q": "Why is the shift to renewable energy important?",
         "options": [
-          "To enhance economic growth",
-          "To improve social interactions",
-          "To understand lifestyle impacts on the planet",
-          "To learn about historical events"
+          "To increase fossil fuel usage",
+          "To conserve water",
+          "To reduce greenhouse gas emissions",
+          "To support nuclear power"
         ],
         "correctIndex": 2,
-        "explain": "了解生態足跡的重要性在於理解生活方式對地球的影響。"
+        "explain": "轉向可再生能源有助於減少溫室氣體排放，對抗氣候變化。"
       },
       {
-        "q": "What is a lifestyle characteristic of someone with a smaller ecological footprint?",
+        "q": "What do solar panels do?",
         "options": [
-          "Frequent driving",
-          "High meat consumption",
-          "Using public transportation",
-          "Living in large houses"
+          "Generate wind",
+          "Convert sunlight into electricity",
+          "Store energy",
+          "Cool buildings"
         ],
-        "correctIndex": 2,
-        "explain": "較小生態足跡的人的生活特徵是使用公共交通。"
+        "correctIndex": 1,
+        "explain": "太陽能電池板將陽光轉換為電力。"
+      },
+      {
+        "q": "What is one benefit of renewable energy mentioned?",
+        "options": [
+          "It's cheaper than fossil fuels",
+          "It can be generated continuously",
+          "It requires no technology",
+          "It has no environmental impact"
+        ],
+        "correctIndex": 1,
+        "explain": "可再生能源的好處之一是可以持續生成，這使其成為可持續的選擇。"
       }
     ]
   }

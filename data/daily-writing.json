@@ -3,131 +3,131 @@
     {
       "words": [
         "the",
-        "research",
-        "team",
-        "will",
-        "present",
+        "researchers",
+        "published",
         "their",
         "findings",
-        "tomorrow"
+        "in",
+        "a",
+        "reputable",
+        "journal"
       ],
-      "display": "The research team will present their findings tomorrow."
+      "display": "The researchers published their findings in a reputable journal."
     },
     {
       "words": [
         "students",
         "should",
-        "review",
+        "attend",
+        "all",
+        "lectures",
+        "to",
+        "understand",
         "the",
-        "study",
-        "materials",
-        "before",
-        "the",
-        "exam"
+        "material"
       ],
-      "display": "Students should review the study materials before the exam."
-    },
-    {
-      "words": [
-        "attending",
-        "the",
-        "conference",
-        "provides",
-        "valuable",
-        "networking",
-        "opportunities",
-        "for",
-        "students"
-      ],
-      "display": "Attending the conference provides valuable networking opportunities for students."
+      "display": "Students should attend all lectures to understand the material."
     },
     {
       "words": [
         "the",
-        "library",
-        "is",
-        "open",
-        "until",
-        "midnight",
-        "during",
-        "finals",
-        "week"
-      ],
-      "display": "The library is open until midnight during finals week."
-    },
-    {
-      "words": [
-        "participating",
+        "presentation",
+        "will",
+        "begin",
+        "at",
+        "ten",
+        "o'clock",
         "in",
-        "extracurricular",
-        "activities",
-        "can",
-        "enhance",
-        "a",
-        "student's",
-        "experience"
+        "the",
+        "auditorium"
       ],
-      "display": "Participating in extracurricular activities can enhance a student's experience."
+      "display": "The presentation will begin at ten o'clock in the auditorium."
+    },
+    {
+      "words": [
+        "learning",
+        "a",
+        "new",
+        "language",
+        "requires",
+        "consistent",
+        "practice",
+        "and",
+        "patience"
+      ],
+      "display": "Learning a new language requires consistent practice and patience."
     },
     {
       "words": [
         "the",
         "professor",
-        "encourages",
+        "encouraged",
         "students",
         "to",
-        "ask",
-        "questions",
-        "during",
-        "lectures"
-      ],
-      "display": "The professor encourages students to ask questions during lectures."
-    },
-    {
-      "words": [
-        "the",
-        "university",
-        "offers",
-        "various",
-        "scholarships",
-        "to",
-        "support",
-        "students",
+        "participate",
         "in",
-        "need"
+        "the",
+        "discussion"
       ],
-      "display": "The university offers various scholarships to support students in need."
+      "display": "The professor encouraged students to participate in the discussion."
     },
     {
       "words": [
-        "students",
-        "are",
-        "expected",
-        "to",
-        "submit",
-        "their",
-        "assignments",
-        "by",
-        "the",
-        "deadline"
+        "reading",
+        "extensively",
+        "can",
+        "improve",
+        "one's",
+        "writing",
+        "skills",
+        "significantly"
       ],
-      "display": "Students are expected to submit their assignments by the deadline."
+      "display": "Reading extensively can improve one's writing skills significantly."
+    },
+    {
+      "words": [
+        "the",
+        "team",
+        "worked",
+        "together",
+        "to",
+        "complete",
+        "the",
+        "project",
+        "on",
+        "time"
+      ],
+      "display": "The team worked together to complete the project on time."
+    },
+    {
+      "words": [
+        "environmental",
+        "issues",
+        "require",
+        "immediate",
+        "attention",
+        "from",
+        "governments",
+        "and",
+        "citizens"
+      ],
+      "display": "Environmental issues require immediate attention from governments and citizens."
     }
   ],
   "emailPrompts": [
-    "寄信給教授，詢問有關期末報告的具體要求。",
-    "寄信給宿舍辦公室，請求更換房間的申請表。",
-    "寄信給圖書館，詢問如何延長借書期限。",
-    "寄信給社團，表達希望參加下個月的活動。",
-    "寄信給客戶服務，反映產品的質量問題，並要求退款。",
-    "寄信給校園餐廳，建議增加素食選擇以滿足學生需求。"
+    "寄信給圖書館，請求延長書籍的借閱期限。",
+    "寄信給宿舍管理辦公室，詢問有關住宿的問題。",
+    "寄信給學生會，表達對即將舉行的活動的興趣。",
+    "寄信給教授，詢問有關課程作業的具體要求。",
+    "寄信給客戶服務，反映產品的質量問題。",
+    "寄信給實習單位，確認面試的具體時間和地點。"
   ],
   "discussionPrompts": [
-    "教授問：「在科技快速發展的時代，教育應如何調整以應對未來的挑戰？」",
-    "教授問：「社交媒體對於現代人際關係的影響是好是壞？」",
-    "教授問：「全球暖化的主要原因及其應對策略有哪些？」",
-    "教授問：「大學生是否應該參與政治活動，為什麼？」",
-    "教授問：「文化多樣性在當代社會中扮演什麼角色？」",
-    "教授問：「如何平衡工作與生活，以促進心理健康？」"
+    "教授問：「科技如何影響人際關係？」",
+    "教授問：「教育體系應如何應對社會變遷？」",
+    "教授問：「藝術在社會運動中扮演什麼角色？」",
+    "教授問：「氣候變化對經濟的影響有哪些？」",
+    "教授問：「全球化對文化身份的影響如何？」",
+    "教授問：「社交媒體如何改變了我們的溝通方式？」"
   ]
 }

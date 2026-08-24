@@ -1,45 +1,45 @@
 {
   "shadowSentences": [
-    "I love to read books.",
-    "She enjoys cooking new recipes.",
-    "They often go hiking on weekends.",
-    "He plays the guitar very well.",
-    "We usually watch movies together at night.",
-    "My favorite season is autumn because of the colors.",
-    "I often listen to music while studying for exams.",
-    "Traveling to new places expands your understanding of the world.",
-    "Volunteering in the community can be a rewarding experience for everyone.",
-    "Learning a new language opens up many opportunities for communication."
+    "I enjoy reading books in my free time.",
+    "My favorite hobby is painting landscapes.",
+    "I often take long walks in the park.",
+    "Cooking new recipes is a fun challenge.",
+    "I like to listen to music while studying.",
+    "Spending time with friends makes me happy.",
+    "Traveling to new places broadens my perspective.",
+    "I often watch documentaries to learn new things.",
+    "Gardening helps me relax and connect with nature.",
+    "Volunteering at local shelters gives me a sense of purpose."
   ],
   "interviewScenarios": [
     {
       "topic": "旅行計劃",
       "intro": "You have agreed to take part in a research study about travel planning.",
       "questions": [
-        "Q1: Can you describe your last travel experience?",
+        "Q1: Can you share a memorable travel experience you had?",
         "Q2: What challenges do you face when planning a trip?",
-        "Q3: In your opinion, how important is it to plan ahead for a trip?",
-        "Q4: What advice would you give someone who is planning their first trip?"
+        "Q3: How do you think travel impacts personal growth?",
+        "Q4: What advice would you give to someone planning their first trip?"
       ]
     },
     {
-      "topic": "健身習慣",
-      "intro": "You have agreed to take part in a research study about fitness habits.",
+      "topic": "飲食習慣",
+      "intro": "You have agreed to take part in a research study about eating habits.",
       "questions": [
-        "Q1: What type of exercise do you enjoy the most?",
-        "Q2: How do you stay motivated to maintain your fitness routine?",
-        "Q3: What do you think are the benefits of regular exercise?",
-        "Q4: What tips would you give to someone new to exercising?"
+        "Q1: What does a typical meal look like for you?",
+        "Q2: Have you ever tried to change your eating habits?",
+        "Q3: In your opinion, how important is a balanced diet?",
+        "Q4: What tips would you give for maintaining healthy eating habits?"
       ]
     },
     {
-      "topic": "藝術欣賞",
-      "intro": "You have agreed to take part in a research study about art appreciation.",
+      "topic": "學習方法",
+      "intro": "You have agreed to take part in a research study about study habits.",
       "questions": [
-        "Q1: What kind of art do you enjoy and why?",
-        "Q2: Have you ever tried creating your own art? What was it like?",
-        "Q3: How do you think art influences our emotions and thoughts?",
-        "Q4: What advice would you give someone who wants to learn more about art?"
+        "Q1: What study methods have worked best for you?",
+        "Q2: What distractions do you encounter while studying?",
+        "Q3: How do you believe study habits affect academic success?",
+        "Q4: What strategies would you recommend to improve study skills?"
       ]
     }
   ]
