@@ -1,116 +1,116 @@
 {
   "chooseResponse": [
     {
-      "q": "What did you think of the lecture?",
+      "q": "How was your weekend?",
       "options": [
-        "It was really insightful.",
-        "I didn't understand it.",
-        "It was too long.",
-        "I liked the visuals."
+        "It was great, thanks!",
+        "I did some homework.",
+        "I watched a movie.",
+        "I went hiking."
       ],
       "correctIndex": 0
     }
   ],
   "conversation": {
-    "transcript": "Student: Hey, did you go to the art exhibit last night?\nAdvisor: Yes, I did! It was amazing. What did you think?\nStudent: I loved the interactive installations. They were so engaging.\nAdvisor: Absolutely! I spent a lot of time at the virtual reality section.",
+    "transcript": "Emma: Hey, did you finish the project for Professor Smith's class?\nLiam: Not yet. I'm still gathering materials. How about you?\nEmma: I completed it yesterday. I found some really good sources online.\nLiam: That's awesome! Could you share them with me later?",
     "questions": [
       {
-        "q": "What did the student like about the art exhibit?",
+        "q": "What did Emma finish?",
         "options": [
-          "The interactive installations",
-          "The traditional paintings",
-          "The food served",
-          "The location"
+          "The project",
+          "A book",
+          "An assignment",
+          "A movie"
         ],
         "correctIndex": 0,
-        "explain": "學生喜歡互動裝置，這使得展覽更加吸引人。"
+        "explain": "艾瑪完成了這個專案。"
       },
       {
-        "q": "Where did the advisor spend a lot of time?",
+        "q": "What does Liam need help with?",
         "options": [
-          "In the main hall",
-          "At the entrance",
-          "In the virtual reality section",
-          "At the gift shop"
+          "Finding sources",
+          "Completing the project",
+          "Studying for exams",
+          "Writing an essay"
         ],
-        "correctIndex": 2,
-        "explain": "顧問在虛擬現實區域花了很多時間，表明他對新技術的興趣。"
+        "correctIndex": 1,
+        "explain": "利亞姆需要完成這個專案。"
       }
     ]
   },
   "announcement": {
-    "transcript": "Attention students: The campus health center will be offering free flu shots this Thursday from 10 AM to 2 PM in the Student Union. Please bring your student ID. We encourage everyone to take advantage of this service to stay healthy this season.",
+    "transcript": "Attention students, the library will be closed for renovations from March 1st to March 15th. Please be sure to check out any materials you need before this closure. Thank you for your understanding.",
     "questions": [
       {
-        "q": "When are the free flu shots available?",
+        "q": "Why will the library be closed?",
         "options": [
-          "This Wednesday",
-          "This Thursday",
-          "Next Monday",
-          "Next Tuesday"
+          "For cleaning",
+          "For renovations",
+          "For a holiday",
+          "For a meeting"
         ],
         "correctIndex": 1,
-        "explain": "免費流感疫苗將在本週四提供。"
+        "explain": "圖書館將關閉進行裝修。"
       },
       {
-        "q": "Where should students go for the flu shots?",
+        "q": "When will the library reopen?",
         "options": [
-          "Library",
-          "Gym",
-          "Student Union",
-          "Cafeteria"
+          "March 16th",
+          "March 1st",
+          "March 15th",
+          "March 10th"
         ],
-        "correctIndex": 2,
-        "explain": "學生應該前往學生聯合會接受疫苗接種。"
+        "correctIndex": 0,
+        "explain": "圖書館將在3月16日重新開放。"
       }
     ]
   },
   "talk": {
-    "transcript": "Today, we will explore the concept of renewable energy. Renewable energy comes from sources that are naturally replenished, such as solar, wind, and hydropower. Unlike fossil fuels, which can take millions of years to form, renewable energy can be generated continuously. For instance, solar panels convert sunlight into electricity, while wind turbines harness wind power. The shift to renewable energy is essential for reducing greenhouse gas emissions and combating climate change. By investing in these technologies, we can create a sustainable energy future for generations to come.",
+    "transcript": "Today, I want to discuss the importance of biodiversity in ecosystems. Biodiversity refers to the variety of life in a particular habitat or ecosystem. It plays a vital role in maintaining the balance of ecosystems. High biodiversity increases resilience to environmental changes, supports a wide range of ecosystem services, and is essential for food security. For instance, diverse plant species contribute to soil health and provide habitats for various animal species. Moreover, humans rely on many species for resources like medicine and food. Protecting biodiversity is crucial for the sustainability of both ecosystems and human societies.",
     "questions": [
       {
-        "q": "What is renewable energy?",
+        "q": "What does biodiversity refer to?",
         "options": [
-          "Energy from fossil fuels",
-          "Energy from natural sources",
-          "Energy from nuclear power",
-          "Energy from coal"
+          "Variety of species",
+          "Weather conditions",
+          "Food production",
+          "Soil quality"
         ],
-        "correctIndex": 1,
-        "explain": "可再生能源來自自然來源，能不斷補充。"
+        "correctIndex": 0,
+        "explain": "生物多樣性指的是物種的多樣性。"
       },
       {
-        "q": "Why is the shift to renewable energy important?",
+        "q": "Why is biodiversity important for ecosystems?",
         "options": [
-          "To increase fossil fuel usage",
-          "To conserve water",
-          "To reduce greenhouse gas emissions",
-          "To support nuclear power"
+          "It decreases resilience",
+          "It increases competition",
+          "It provides stability",
+          "It reduces species variety"
         ],
         "correctIndex": 2,
-        "explain": "轉向可再生能源有助於減少溫室氣體排放，對抗氣候變化。"
+        "explain": "生物多樣性為生態系統提供穩定性。"
       },
       {
-        "q": "What do solar panels do?",
+        "q": "How does biodiversity support human needs?",
         "options": [
-          "Generate wind",
-          "Convert sunlight into electricity",
-          "Store energy",
-          "Cool buildings"
+          "By increasing pollution",
+          "By providing resources",
+          "By reducing food variety",
+          "By limiting species"
         ],
         "correctIndex": 1,
-        "explain": "太陽能電池板將陽光轉換為電力。"
+        "explain": "生物多樣性通過提供資源來支持人類需求。"
       },
       {
-        "q": "What is one benefit of renewable energy mentioned?",
+        "q": "What is one benefit of diverse plant species?",
         "options": [
-          "It's cheaper than fossil fuels",
-          "It can be generated continuously",
-          "It requires no technology",
-          "It has no environmental impact"
+          "They create pollution",
+          "They cause extinction",
+          "They enhance soil health",
+          "They limit food options"
         ],
-        "correctIndex": 1,
-        "explain": "可再生能源的好處之一是可以持續生成，這使其成為可持續的選擇。"
+        "correctIndex": 2,
+        "explain": "多樣化的植物物種有助於改善土壤健康。"
       }
     ]
   }

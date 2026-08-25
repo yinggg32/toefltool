@@ -7734,5 +7734,45 @@
     "zh": "政治極化",
     "ex": "Political polarization can create divisions within society.",
     "cat": "📰 每日新詞：political science"
+  },
+  {
+    "word": "mores",
+    "pos": "n.",
+    "root": "mo-習俗 + res-事物",
+    "zh": "社會習俗",
+    "ex": "Mores often govern the moral conduct of individuals within a society.",
+    "cat": "📰 每日新詞：anthropology"
+  },
+  {
+    "word": "palynology",
+    "pos": "n.",
+    "root": "paly-花粉 + nology-學科",
+    "zh": "花粉學",
+    "ex": "Palynology helps anthropologists understand past human environments through pollen analysis.",
+    "cat": "📰 每日新詞：anthropology"
+  },
+  {
+    "word": "ethology",
+    "pos": "n.",
+    "root": "ethos-性格 + logy-學科",
+    "zh": "行為學",
+    "ex": "Ethology explores the behavior of humans in social contexts.",
+    "cat": "📰 每日新詞：anthropology"
+  },
+  {
+    "word": "caste",
+    "pos": "n.",
+    "root": "cast-分類 + e-名詞",
+    "zh": "種姓",
+    "ex": "The caste system defines social hierarchy in certain cultures.",
+    "cat": "📰 每日新詞：anthropology"
+  },
+  {
+    "word": "value system",
+    "pos": "n.",
+    "root": "value-價值 + system-系統",
+    "zh": "價值體系",
+    "ex": "A value system informs ethical decisions and cultural priorities.",
+    "cat": "📰 每日新詞：anthropology"
   }
 ]

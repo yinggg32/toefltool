@@ -2,101 +2,110 @@
   "cloze": {
     "segments": [
       {
-        "text": "The process of photosynthesis is essential for plants. It involves converting light energy into chemical energy. During this process, plants absorb carbon diox"
+        "text": "The concept of ecolo"
       },
       {
-        "blank": "ide"
+        "blank": "gy"
       },
       {
-        "text": " from the atmosphere and water from the soil. The light energy, primarily from the sun, is then used to transform these raw materials into glucose. This glucose serves as a"
+        "text": " focuses on the interactions between organisms and their envi"
       },
       {
-        "blank": "nourishment"
+        "blank": "ronment"
       },
       {
-        "text": " source for the plant's growth and development. Additionally, oxygen is released as a byproduct, which is vital for most living organisms on the planet."
+        "text": ". One important aspect of ecology is the study of ecosys"
       },
       {
-        "blank": "This"
+        "blank": "tems"
       },
       {
-        "text": " oxygen production is critical for maintaining the balance of gases in the atmosphere. Hence, photosynthesis not only fuels plant life but also supports the entire ecosystem."
+        "text": ", which are communities of living organisms and their physical surroundings. A key component of ecosystems is bio"
+      },
+      {
+        "blank": "diversity"
+      },
+      {
+        "text": ", as it provides resilience against environmental changes. Understanding these interactions helps in conservation efforts and sustai"
+      },
+      {
+        "blank": "nability"
       }
     ]
   },
   "academic": {
-    "passage": "Photosynthesis is a fundamental biological process that occurs in green plants, algae, and certain bacteria. It is the mechanism through which these organisms convert light energy, usually from the sun, into chemical energy stored in glucose. This process involves the absorption of carbon dioxide and water, which, when combined with sunlight, yield glucose and oxygen. The glucose produced is utilized as energy for growth, reproduction, and cellular maintenance, while oxygen is released into the atmosphere, contributing to the air we breathe. Understanding photosynthesis is crucial for comprehending ecosystem dynamics, as it supports nearly all life forms by providing essential energy and nutrients.",
+    "passage": "Ecology is the scientific study of interactions among organisms and their environment. It encompasses various levels of organization, from individual organisms to entire ecosystems. One crucial area within ecology is the study of biodiversity, which refers to the variety of life in a given ecosystem. Biodiversity plays a significant role in maintaining ecosystem stability and resilience. A rich diversity of species can enhance ecosystem functions, such as nutrient cycling and pollination, which are vital for human survival. Ongoing research in ecology aims to understand the impacts of climate change, habitat loss, and pollution on biodiversity and ecosystems.",
     "questions": [
       {
-        "q": "What is the main idea of the passage?",
+        "q": "What is the main focus of ecology?",
         "options": [
-          "Photosynthesis is important for plant life.",
-          "The process of photosynthesis produces glucose and oxygen.",
-          "Photosynthesis is a biological process in green plants.",
-          "Photosynthesis occurs in algae and bacteria."
+          "Interactions among organisms and their environment",
+          "Study of individual species",
+          "Impact of climate change",
+          "Pollination processes"
+        ],
+        "correctIndex": 0,
+        "explain": "生態學的主要焦點是生物與其環境之間的互動。"
+      },
+      {
+        "q": "What does biodiversity contribute to ecosystems?",
+        "options": [
+          "Species extinction",
+          "Ecosystem instability",
+          "Nutrient cycling",
+          "Reduced resilience"
         ],
         "correctIndex": 2,
-        "explain": "這段文字主要討論光合作用作為綠色植物的基本生物過程。"
+        "explain": "生物多樣性有助於生態系統的營養循環。"
       },
       {
-        "q": "Which raw materials are needed for photosynthesis?",
+        "q": "What can be inferred about the relationship between biodiversity and ecosystem functions?",
         "options": [
-          "Oxygen and water",
-          "Carbon dioxide and sunlight",
-          "Carbon dioxide and water",
-          "Glucose and sunlight"
-        ],
-        "correctIndex": 2,
-        "explain": "光合作用需要二氧化碳和水作為原料。"
-      },
-      {
-        "q": "What can be inferred about the importance of photosynthesis?",
-        "options": [
-          "It is only necessary for plants.",
-          "It helps maintain atmospheric gas balance.",
-          "It is a process that occurs only in sunlight.",
-          "It does not affect other organisms."
+          "Biodiversity decreases ecosystem functions",
+          "Biodiversity enhances ecosystem functions",
+          "Ecosystem functions do not depend on biodiversity",
+          "Biodiversity only affects individual species"
         ],
         "correctIndex": 1,
-        "explain": "光合作用釋放氧氣，這對整個生態系統的氣體平衡至關重要。"
+        "explain": "生物多樣性增強生態系統的功能。"
       },
       {
-        "q": "What does the term 'glucose' refer to in the context of the passage?",
+        "q": "What does the term 'ecosystem stability' mean?",
         "options": [
-          "A waste product of photosynthesis",
-          "A chemical energy source for plants",
-          "A type of sunlight",
-          "An atmospheric gas"
+          "The ability of an ecosystem to recover from disturbances",
+          "The number of species in an ecosystem",
+          "The temperature range of an ecosystem",
+          "The size of an ecosystem"
         ],
-        "correctIndex": 1,
-        "explain": "在這段文字中，'葡萄糖'是指植物的化學能量來源。"
+        "correctIndex": 0,
+        "explain": "生態系統穩定性是指生態系統從擾動中恢復的能力。"
       }
     ]
   },
   "daily": {
-    "passage": "Attention students! The university library will be closed for maintenance this Saturday from 9 AM to 5 PM. Please plan your study sessions accordingly, and we apologize for any inconvenience caused.",
+    "passage": "Attention students: The annual Science Fair will be held on March 15 in the main hall. All participants must submit their project proposals by March 1. Please see Professor Li for guidance and questions regarding your projects.",
     "questions": [
       {
-        "q": "What day will the library be closed?",
+        "q": "When is the Science Fair scheduled to take place?",
         "options": [
-          "Friday",
-          "Saturday",
-          "Sunday",
-          "Monday"
-        ],
-        "correctIndex": 1,
-        "explain": "圖書館將在星期六關閉。"
-      },
-      {
-        "q": "What are the library's closure hours?",
-        "options": [
-          "9 AM to 5 PM",
-          "8 AM to 4 PM",
-          "10 AM to 6 PM",
-          "All day"
+          "March 15",
+          "March 1",
+          "April 15",
+          "February 28"
         ],
         "correctIndex": 0,
-        "explain": "圖書館的關閉時間是上午九點到下午五點。"
+        "explain": "科學博覽會定於三月十五日舉行。"
+      },
+      {
+        "q": "Who should students contact for project guidance?",
+        "options": [
+          "Professor Zhang",
+          "Professor Li",
+          "Student Council",
+          "Library Staff"
+        ],
+        "correctIndex": 1,
+        "explain": "學生應該聯繫李教授以獲取項目指導。"
       }
     ]
   }
