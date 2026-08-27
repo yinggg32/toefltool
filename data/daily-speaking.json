@@ -1,45 +1,45 @@
 {
   "shadowSentences": [
-    "I love reading books in my free time.",
-    "My favorite food is sushi from a local restaurant.",
-    "Every Saturday, I go hiking with my friends.",
-    "I often listen to music while studying at home.",
-    "Traveling to new cities brings me a lot of joy.",
-    "Cooking meals at home is a relaxing hobby for me.",
-    "Spending time in nature helps me feel refreshed and focused.",
-    "I enjoy learning new skills through online courses and tutorials.",
-    "Volunteering at the animal shelter has been a rewarding experience for me.",
-    "Watching movies with my family is one of my favorite weekend activities."
+    "I love reading books every night.",
+    "My favorite hobby is painting landscapes.",
+    "Traveling brings me joy and new experiences.",
+    "I enjoy cooking different types of cuisine.",
+    "Running in the park helps me relax and think.",
+    "Learning new languages opens up many opportunities.",
+    "Volunteering at the shelter is very rewarding for me.",
+    "Spending time with family strengthens our bonds.",
+    "Exploring local markets introduces me to unique cultures.",
+    "Practicing mindfulness daily enhances my overall well-being."
   ],
   "interviewScenarios": [
     {
-      "topic": "旅行計劃",
-      "intro": "You have agreed to take part in a research study about travel planning.",
+      "topic": "旅行經歷",
+      "intro": "You have agreed to take part in a research study about travel experiences.",
       "questions": [
-        "Q1: Can you share a memorable travel experience you have had?",
-        "Q2: What challenges do you often face when planning a trip?",
-        "Q3: How important do you think travel is for personal growth?",
+        "Q1: Can you share a memorable trip you have taken?",
+        "Q2: What challenges did you face while traveling?",
+        "Q3: What do you think is the most important aspect of traveling?",
         "Q4: What advice would you give someone planning their first trip?"
       ]
     },
     {
-      "topic": "時間管理",
-      "intro": "You have agreed to take part in a research study about time management.",
+      "topic": "健康飲食",
+      "intro": "You have agreed to take part in a research study about healthy eating habits.",
       "questions": [
-        "Q1: Can you describe how you usually manage your time during the day?",
-        "Q2: What obstacles do you encounter when trying to stick to a schedule?",
-        "Q3: In your opinion, how can effective time management improve productivity?",
-        "Q4: What tips would you give to someone struggling with time management?"
+        "Q1: What is your favorite healthy meal to prepare?",
+        "Q2: What do you find difficult about maintaining a healthy diet?",
+        "Q3: How do you think healthy eating impacts your daily life?",
+        "Q4: What tips would you suggest for someone trying to eat healthier?"
       ]
     },
     {
-      "topic": "運動習慣",
-      "intro": "You have agreed to take part in a research study about exercise habits.",
+      "topic": "學習方法",
+      "intro": "You have agreed to take part in a research study about effective study methods.",
       "questions": [
-        "Q1: What types of exercise do you enjoy the most?",
-        "Q2: Have you faced any difficulties in maintaining a regular exercise routine?",
-        "Q3: How do you think exercise impacts mental health?",
-        "Q4: What recommendations would you have for someone new to exercising?"
+        "Q1: What study techniques have worked best for you?",
+        "Q2: Have you ever struggled with a particular subject? How did you cope?",
+        "Q3: In your opinion, what is the key to effective studying?",
+        "Q4: What advice would you give to students for improving their study habits?"
       ]
     }
   ]

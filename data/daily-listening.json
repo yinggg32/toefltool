@@ -1,116 +1,116 @@
 {
   "chooseResponse": [
     {
-      "q": "How was your weekend?",
+      "q": "What do you think about the new library hours?",
       "options": [
-        "It was great, thanks!",
-        "I did some homework.",
-        "I watched a movie.",
-        "I went hiking."
+        "They're great!",
+        "I don't like them.",
+        "They're confusing.",
+        "I haven't checked."
       ],
       "correctIndex": 0
     }
   ],
   "conversation": {
-    "transcript": "Emma: Hey, did you finish the project for Professor Smith's class?\nLiam: Not yet. I'm still gathering materials. How about you?\nEmma: I completed it yesterday. I found some really good sources online.\nLiam: That's awesome! Could you share them with me later?",
+    "transcript": "Student: Hey, did you hear about the library's new hours?\nAdvisor: Yes, I did! They’re now open until midnight.\nStudent: I think that’s perfect for late-night studying.\nAdvisor: Absolutely! It gives more flexibility to students with busy schedules.",
     "questions": [
       {
-        "q": "What did Emma finish?",
+        "q": "What is the main topic of the conversation?",
         "options": [
-          "The project",
-          "A book",
-          "An assignment",
-          "A movie"
+          "Library hours change",
+          "Midnight study tips",
+          "Student schedules",
+          "Late-night events"
         ],
         "correctIndex": 0,
-        "explain": "艾瑪完成了這個專案。"
+        "explain": "對話的主要主題是圖書館的開放時間變更。"
       },
       {
-        "q": "What does Liam need help with?",
+        "q": "How does the advisor feel about the new hours?",
         "options": [
-          "Finding sources",
-          "Completing the project",
-          "Studying for exams",
-          "Writing an essay"
+          "Indifferent",
+          "Negative",
+          "Positive",
+          "Confused"
         ],
-        "correctIndex": 1,
-        "explain": "利亞姆需要完成這個專案。"
+        "correctIndex": 2,
+        "explain": "顧問對新時間表持正面態度。"
       }
     ]
   },
   "announcement": {
-    "transcript": "Attention students, the library will be closed for renovations from March 1st to March 15th. Please be sure to check out any materials you need before this closure. Thank you for your understanding.",
+    "transcript": "Attention students! Starting next week, the university will be implementing new study groups in the main hall every Wednesday at 4 PM. This is a great opportunity to collaborate with classmates and enhance your learning experience. Be sure to sign up in advance at the student center.",
     "questions": [
       {
-        "q": "Why will the library be closed?",
+        "q": "When will the new study groups start?",
         "options": [
-          "For cleaning",
-          "For renovations",
-          "For a holiday",
-          "For a meeting"
+          "Next Monday",
+          "Next Wednesday",
+          "This Friday",
+          "Next month"
         ],
         "correctIndex": 1,
-        "explain": "圖書館將關閉進行裝修。"
+        "explain": "新學習小組將於下星期三開始。"
       },
       {
-        "q": "When will the library reopen?",
+        "q": "Where can students sign up for the groups?",
         "options": [
-          "March 16th",
-          "March 1st",
-          "March 15th",
-          "March 10th"
+          "Online",
+          "Main hall",
+          "Student center",
+          "Library"
         ],
-        "correctIndex": 0,
-        "explain": "圖書館將在3月16日重新開放。"
+        "correctIndex": 2,
+        "explain": "學生可以在學生中心報名參加小組。"
       }
     ]
   },
   "talk": {
-    "transcript": "Today, I want to discuss the importance of biodiversity in ecosystems. Biodiversity refers to the variety of life in a particular habitat or ecosystem. It plays a vital role in maintaining the balance of ecosystems. High biodiversity increases resilience to environmental changes, supports a wide range of ecosystem services, and is essential for food security. For instance, diverse plant species contribute to soil health and provide habitats for various animal species. Moreover, humans rely on many species for resources like medicine and food. Protecting biodiversity is crucial for the sustainability of both ecosystems and human societies.",
+    "transcript": "Today, we will discuss the concept of photosynthesis, which is essential for plant life and ultimately for life on Earth. Photosynthesis is the process by which green plants, algae, and some bacteria convert light energy, usually from the sun, into chemical energy stored in glucose. This process takes place mainly in the chloroplasts of plant cells, where chlorophyll captures sunlight. The overall equation for photosynthesis can be summarized as: carbon dioxide plus water, in the presence of light, produces glucose and oxygen. This not only provides energy for the plants but also releases oxygen, which is vital for most living organisms. Understanding photosynthesis is crucial as it forms the foundation of the food chain.",
     "questions": [
       {
-        "q": "What does biodiversity refer to?",
+        "q": "What is the primary function of photosynthesis?",
         "options": [
-          "Variety of species",
-          "Weather conditions",
-          "Food production",
-          "Soil quality"
+          "To produce energy for plants",
+          "To absorb sunlight",
+          "To release carbon dioxide",
+          "To create glucose"
         ],
         "correctIndex": 0,
-        "explain": "生物多樣性指的是物種的多樣性。"
+        "explain": "光合作用的主要功能是為植物提供能量。"
       },
       {
-        "q": "Why is biodiversity important for ecosystems?",
+        "q": "Where does photosynthesis mainly occur?",
         "options": [
-          "It decreases resilience",
-          "It increases competition",
-          "It provides stability",
-          "It reduces species variety"
+          "In the roots",
+          "In the flowers",
+          "In the chloroplasts",
+          "In the soil"
         ],
         "correctIndex": 2,
-        "explain": "生物多樣性為生態系統提供穩定性。"
+        "explain": "光合作用主要發生在植物細胞的葉綠體中。"
       },
       {
-        "q": "How does biodiversity support human needs?",
+        "q": "What do plants produce during photosynthesis?",
         "options": [
-          "By increasing pollution",
-          "By providing resources",
-          "By reducing food variety",
-          "By limiting species"
+          "Carbon dioxide",
+          "Glucose and oxygen",
+          "Nitrogen",
+          "Water"
         ],
         "correctIndex": 1,
-        "explain": "生物多樣性通過提供資源來支持人類需求。"
+        "explain": "植物在光合作用過程中產生葡萄糖和氧氣。"
       },
       {
-        "q": "What is one benefit of diverse plant species?",
+        "q": "Why is photosynthesis important for living organisms?",
         "options": [
-          "They create pollution",
-          "They cause extinction",
-          "They enhance soil health",
-          "They limit food options"
+          "It creates soil",
+          "It provides oxygen and energy",
+          "It absorbs water",
+          "It removes carbon dioxide"
         ],
-        "correctIndex": 2,
-        "explain": "多樣化的植物物種有助於改善土壤健康。"
+        "correctIndex": 1,
+        "explain": "光合作用對於生物體的重要性在於它提供氧氣和能量。"
       }
     ]
   }

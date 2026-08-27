@@ -7774,5 +7774,69 @@
     "zh": "價值體系",
     "ex": "A value system informs ethical decisions and cultural priorities.",
     "cat": "📰 每日新詞：anthropology"
+  },
+  {
+    "word": "revenue",
+    "pos": "n.",
+    "root": "收入—revenue",
+    "zh": "收入",
+    "ex": "Government revenue is primarily generated through taxes imposed on individuals and corporations.",
+    "cat": "📰 每日新詞：economics"
+  },
+  {
+    "word": "economic",
+    "pos": "adj.",
+    "root": "經濟—economic",
+    "zh": "經濟的",
+    "ex": "Economic growth is often measured by the increase in a country's GDP.",
+    "cat": "📰 每日新詞：economics"
+  },
+  {
+    "word": "sector",
+    "pos": "n.",
+    "root": "部門—sector",
+    "zh": "部門",
+    "ex": "The service sector has become increasingly important in advanced economies.",
+    "cat": "📰 每日新詞：economics"
+  },
+  {
+    "word": "growth",
+    "pos": "n.",
+    "root": "增長—growth",
+    "zh": "增長",
+    "ex": "Sustained economic growth is essential for improving living standards.",
+    "cat": "📰 每日新詞：economics"
+  },
+  {
+    "word": "income",
+    "pos": "n.",
+    "root": "收入—income",
+    "zh": "收入",
+    "ex": "Income inequality can lead to social and economic disparities within a society.",
+    "cat": "📰 每日新詞：economics"
+  },
+  {
+    "word": "vendor",
+    "pos": "n.",
+    "root": "供應商—vendor",
+    "zh": "供應商",
+    "ex": "Vendors play a crucial role in the supply chain by providing goods to retailers.",
+    "cat": "📰 每日新詞：economics"
+  },
+  {
+    "word": "currency",
+    "pos": "n.",
+    "root": "貨幣—currency",
+    "zh": "貨幣",
+    "ex": "The value of a currency can fluctuate based on various economic factors.",
+    "cat": "📰 每日新詞：economics"
+  },
+  {
+    "word": "allocation",
+    "pos": "n.",
+    "root": "分配—allocation",
+    "zh": "分配",
+    "ex": "The allocation of resources is a fundamental concept in economic theory.",
+    "cat": "📰 每日新詞：economics"
   }
 ]
