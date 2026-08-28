@@ -1,116 +1,116 @@
 {
   "chooseResponse": [
     {
-      "q": "What do you think about the new library hours?",
+      "q": "How was your weekend?",
       "options": [
-        "They're great!",
-        "I don't like them.",
-        "They're confusing.",
-        "I haven't checked."
+        "It was great, thanks!",
+        "I’m not sure.",
+        "I have a lot of work.",
+        "I didn’t do much."
       ],
       "correctIndex": 0
     }
   ],
   "conversation": {
-    "transcript": "Student: Hey, did you hear about the library's new hours?\nAdvisor: Yes, I did! They’re now open until midnight.\nStudent: I think that’s perfect for late-night studying.\nAdvisor: Absolutely! It gives more flexibility to students with busy schedules.",
+    "transcript": "Student: Hey, did you go to the art exhibit last night?\nAdvisor: Yes, I did! It was really impressive. What did you think?\nStudent: I loved the modern section, especially the sculptures.\nAdvisor: The sculptures were fascinating! Did you have a favorite artist?",
     "questions": [
       {
-        "q": "What is the main topic of the conversation?",
+        "q": "What did the student think of the modern section?",
         "options": [
-          "Library hours change",
-          "Midnight study tips",
-          "Student schedules",
-          "Late-night events"
+          "It was boring.",
+          "It was impressive.",
+          "It was too crowded.",
+          "It was dark."
         ],
-        "correctIndex": 0,
-        "explain": "對話的主要主題是圖書館的開放時間變更。"
+        "correctIndex": 1,
+        "explain": "學生喜歡現代部分，覺得很吸引人。"
       },
       {
-        "q": "How does the advisor feel about the new hours?",
+        "q": "What did the advisor think of the exhibit?",
         "options": [
-          "Indifferent",
-          "Negative",
-          "Positive",
-          "Confused"
+          "It was disappointing.",
+          "It was really impressive.",
+          "It was too long.",
+          "It was hard to find."
         ],
-        "correctIndex": 2,
-        "explain": "顧問對新時間表持正面態度。"
+        "correctIndex": 1,
+        "explain": "顧問覺得展覽非常出色。"
       }
     ]
   },
   "announcement": {
-    "transcript": "Attention students! Starting next week, the university will be implementing new study groups in the main hall every Wednesday at 4 PM. This is a great opportunity to collaborate with classmates and enhance your learning experience. Be sure to sign up in advance at the student center.",
+    "transcript": "Attention students! The library will be closed for renovations from next Monday through the following Friday. We apologize for any inconvenience this may cause and encourage you to plan your study time accordingly. Thank you for your understanding.",
     "questions": [
       {
-        "q": "When will the new study groups start?",
+        "q": "When will the library be closed?",
         "options": [
-          "Next Monday",
-          "Next Wednesday",
-          "This Friday",
-          "Next month"
+          "Next Monday to Friday.",
+          "This Friday to next Monday.",
+          "All weekend.",
+          "Only on Mondays."
         ],
-        "correctIndex": 1,
-        "explain": "新學習小組將於下星期三開始。"
+        "correctIndex": 0,
+        "explain": "圖書館將在下週一至下週五關閉。"
       },
       {
-        "q": "Where can students sign up for the groups?",
+        "q": "What should students do?",
         "options": [
-          "Online",
-          "Main hall",
-          "Student center",
-          "Library"
+          "Ignore the announcement.",
+          "Plan their study time accordingly.",
+          "Visit another library.",
+          "Come to the library anyway."
         ],
-        "correctIndex": 2,
-        "explain": "學生可以在學生中心報名參加小組。"
+        "correctIndex": 1,
+        "explain": "學生應該根據公告安排他們的學習時間。"
       }
     ]
   },
   "talk": {
-    "transcript": "Today, we will discuss the concept of photosynthesis, which is essential for plant life and ultimately for life on Earth. Photosynthesis is the process by which green plants, algae, and some bacteria convert light energy, usually from the sun, into chemical energy stored in glucose. This process takes place mainly in the chloroplasts of plant cells, where chlorophyll captures sunlight. The overall equation for photosynthesis can be summarized as: carbon dioxide plus water, in the presence of light, produces glucose and oxygen. This not only provides energy for the plants but also releases oxygen, which is vital for most living organisms. Understanding photosynthesis is crucial as it forms the foundation of the food chain.",
+    "transcript": "Today, I will discuss the concept of renewable energy, which refers to energy sourced from natural processes that are continually replenished. Examples include solar, wind, and hydroelectric power. Unlike fossil fuels, renewable energy has a lower environmental impact, helping to reduce carbon emissions and combat climate change. The transition to renewable energy sources is essential for sustainable development, as it not only fulfills our energy needs but also conserves natural resources for future generations. Investing in renewable technologies can lead to job creation and economic growth, making it a viable solution for both energy and environmental challenges.",
     "questions": [
       {
-        "q": "What is the primary function of photosynthesis?",
+        "q": "What is renewable energy?",
         "options": [
-          "To produce energy for plants",
-          "To absorb sunlight",
-          "To release carbon dioxide",
-          "To create glucose"
-        ],
-        "correctIndex": 0,
-        "explain": "光合作用的主要功能是為植物提供能量。"
-      },
-      {
-        "q": "Where does photosynthesis mainly occur?",
-        "options": [
-          "In the roots",
-          "In the flowers",
-          "In the chloroplasts",
-          "In the soil"
+          "Energy from fossil fuels.",
+          "Energy from nuclear power.",
+          "Energy from natural processes.",
+          "Energy from the grid."
         ],
         "correctIndex": 2,
-        "explain": "光合作用主要發生在植物細胞的葉綠體中。"
+        "explain": "可再生能源是來自不斷補充的自然過程的能源。"
       },
       {
-        "q": "What do plants produce during photosynthesis?",
+        "q": "What is one benefit of renewable energy?",
         "options": [
-          "Carbon dioxide",
-          "Glucose and oxygen",
-          "Nitrogen",
-          "Water"
+          "Higher carbon emissions.",
+          "Depletion of resources.",
+          "Lower environmental impact.",
+          "More dependence on fossil fuels."
         ],
-        "correctIndex": 1,
-        "explain": "植物在光合作用過程中產生葡萄糖和氧氣。"
+        "correctIndex": 2,
+        "explain": "可再生能源有較低的環境影響。"
       },
       {
-        "q": "Why is photosynthesis important for living organisms?",
+        "q": "What industries may benefit from renewable energy investment?",
         "options": [
-          "It creates soil",
-          "It provides oxygen and energy",
-          "It absorbs water",
-          "It removes carbon dioxide"
+          "Only technology firms.",
+          "Only fossil fuel companies.",
+          "Not specified.",
+          "Multiple industries, including job creation."
+        ],
+        "correctIndex": 3,
+        "explain": "多個行業，包括創造就業機會，都可能受益於可再生能源的投資。"
+      },
+      {
+        "q": "Why is the transition to renewable energy essential?",
+        "options": [
+          "To keep using fossil fuels.",
+          "To reduce environmental impact.",
+          "To increase pollution.",
+          "To avoid economic growth."
         ],
         "correctIndex": 1,
-        "explain": "光合作用對於生物體的重要性在於它提供氧氣和能量。"
+        "explain": "轉向可再生能源對於減少環境影響至關重要。"
       }
     ]
   }

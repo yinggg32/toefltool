@@ -2,110 +2,101 @@
   "cloze": {
     "segments": [
       {
-        "text": "The concept of ecolo"
+        "text": "The concept of biodiversity is crucial for understanding ecosystems. It refers to the variety of life forms in a particular habitat, including their genetic diversity and ecological functions. A diverse ecosystem can better withstand environmental changes and provide susta"
       },
       {
-        "blank": "gy"
+        "blank": "inable"
       },
       {
-        "text": " focuses on the interactions between organisms and their envi"
+        "text": "resources for human needs. For example, coral reefs are known for their rich diversity of fish and invertebrates, which contribute to the overall health of the ocean. However, threats such as climate change and pollution can significantly af"
       },
       {
-        "blank": "ronment"
+        "blank": "fect"
       },
       {
-        "text": ". One important aspect of ecology is the study of ecosys"
+        "text": "biodiversity. Conservation efforts are essential to protect these ecosystems from further degradation. By preserving species and their habitats, we ensure the stability of our planet's ecological balance and the continued existence of numerous species that provide us"
       },
       {
-        "blank": "tems"
+        "blank": "with"
       },
       {
-        "text": ", which are communities of living organisms and their physical surroundings. A key component of ecosystems is bio"
-      },
-      {
-        "blank": "diversity"
-      },
-      {
-        "text": ", as it provides resilience against environmental changes. Understanding these interactions helps in conservation efforts and sustai"
-      },
-      {
-        "blank": "nability"
+        "text": "food, medicine, and other benefits. Understanding the interdependence of species encourages more responsible stewardship of our natural resources."
       }
     ]
   },
   "academic": {
-    "passage": "Ecology is the scientific study of interactions among organisms and their environment. It encompasses various levels of organization, from individual organisms to entire ecosystems. One crucial area within ecology is the study of biodiversity, which refers to the variety of life in a given ecosystem. Biodiversity plays a significant role in maintaining ecosystem stability and resilience. A rich diversity of species can enhance ecosystem functions, such as nutrient cycling and pollination, which are vital for human survival. Ongoing research in ecology aims to understand the impacts of climate change, habitat loss, and pollution on biodiversity and ecosystems.",
+    "passage": "Biodiversity is the variety of life on Earth, encompassing the different species, genetic variations, and ecosystems. It plays a vital role in maintaining ecological balance and resilience against environmental changes. For instance, diverse ecosystems can adapt better to climate shifts and provide essential services like pollination and water purification. Therefore, protecting biodiversity is not only crucial for the survival of numerous species but also for human well-being, as it contributes to food security, health, and economic stability.",
     "questions": [
       {
-        "q": "What is the main focus of ecology?",
+        "q": "What is the main idea of the passage?",
         "options": [
-          "Interactions among organisms and their environment",
-          "Study of individual species",
-          "Impact of climate change",
-          "Pollination processes"
+          "Biodiversity is essential for ecological balance.",
+          "Climate change threatens biodiversity.",
+          "Biodiversity contributes to economic stability.",
+          "Human well-being relies on species diversity."
         ],
         "correctIndex": 0,
-        "explain": "生態學的主要焦點是生物與其環境之間的互動。"
+        "explain": "這段文字的主要觀點是生物多樣性對於生態平衡是至關重要的。"
       },
       {
-        "q": "What does biodiversity contribute to ecosystems?",
+        "q": "Which of the following is mentioned as a benefit of biodiversity?",
         "options": [
-          "Species extinction",
-          "Ecosystem instability",
-          "Nutrient cycling",
-          "Reduced resilience"
+          "Food security",
+          "Urban development",
+          "Technological advancements",
+          "Cultural diversity"
         ],
-        "correctIndex": 2,
-        "explain": "生物多樣性有助於生態系統的營養循環。"
+        "correctIndex": 0,
+        "explain": "生物多樣性對食物安全的貢獻在文章中被提及。"
       },
       {
-        "q": "What can be inferred about the relationship between biodiversity and ecosystem functions?",
+        "q": "What can be inferred about ecosystems with low biodiversity?",
         "options": [
-          "Biodiversity decreases ecosystem functions",
-          "Biodiversity enhances ecosystem functions",
-          "Ecosystem functions do not depend on biodiversity",
-          "Biodiversity only affects individual species"
+          "They are more resilient to climate change.",
+          "They are less capable of providing essential services.",
+          "They have a higher number of species.",
+          "They are more beneficial to human health."
         ],
         "correctIndex": 1,
-        "explain": "生物多樣性增強生態系統的功能。"
+        "explain": "生物多樣性低的生態系統可能無法提供必要的生態服務。"
       },
       {
-        "q": "What does the term 'ecosystem stability' mean?",
+        "q": "What does the term 'pollination' refer to in the context of biodiversity?",
         "options": [
-          "The ability of an ecosystem to recover from disturbances",
-          "The number of species in an ecosystem",
-          "The temperature range of an ecosystem",
-          "The size of an ecosystem"
+          "The process of genetic variation.",
+          "The transfer of pollen from one flower to another.",
+          "The adaptation of species to their environment.",
+          "The extinction of various species."
         ],
-        "correctIndex": 0,
-        "explain": "生態系統穩定性是指生態系統從擾動中恢復的能力。"
+        "correctIndex": 1,
+        "explain": "在生物多樣性的背景下，'授粉'指的是花粉從一朵花轉移到另一朵花的過程。"
       }
     ]
   },
   "daily": {
-    "passage": "Attention students: The annual Science Fair will be held on March 15 in the main hall. All participants must submit their project proposals by March 1. Please see Professor Li for guidance and questions regarding your projects.",
+    "passage": "Attention students! The library will be closed for maintenance on Friday, October 10th. Please plan to check out your materials before this date. We apologize for any inconvenience and appreciate your understanding.",
     "questions": [
       {
-        "q": "When is the Science Fair scheduled to take place?",
+        "q": "When will the library be closed?",
         "options": [
-          "March 15",
-          "March 1",
-          "April 15",
-          "February 28"
+          "October 10th",
+          "October 11th",
+          "Friday",
+          "Saturday"
         ],
         "correctIndex": 0,
-        "explain": "科學博覽會定於三月十五日舉行。"
+        "explain": "根據公告，圖書館將於10月10日關閉。"
       },
       {
-        "q": "Who should students contact for project guidance?",
+        "q": "What should students do before the library closes?",
         "options": [
-          "Professor Zhang",
-          "Professor Li",
-          "Student Council",
-          "Library Staff"
+          "Return their books",
+          "Check out materials",
+          "Attend a meeting",
+          "Visit the cafe"
         ],
         "correctIndex": 1,
-        "explain": "學生應該聯繫李教授以獲取項目指導。"
+        "explain": "學生應在圖書館關閉之前借閱材料。"
       }
     ]
   }

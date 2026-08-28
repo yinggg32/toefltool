@@ -2,144 +2,134 @@
   "buildSentences": [
     {
       "words": [
+        "the",
         "students",
-        "should",
-        "review",
+        "discussed",
         "the",
-        "course",
-        "materials",
-        "before",
-        "the",
-        "exam"
+        "importance",
+        "of",
+        "environmental",
+        "sustainability"
       ],
-      "display": "Students should review the course materials before the exam."
+      "display": "The students discussed the importance of environmental sustainability."
+    },
+    {
+      "words": [
+        "literature",
+        "can",
+        "provide",
+        "valuable",
+        "insights",
+        "into",
+        "human",
+        "experience"
+      ],
+      "display": "Literature can provide valuable insights into human experience."
     },
     {
       "words": [
         "the",
         "research",
-        "study",
-        "focused",
-        "on",
-        "the",
-        "effects",
+        "was",
+        "conducted",
+        "over",
+        "a",
+        "period",
         "of",
-        "climate",
-        "change"
+        "two",
+        "years"
       ],
-      "display": "The research study focused on the effects of climate change."
+      "display": "The research was conducted over a period of two years."
     },
     {
       "words": [
-        "she",
-        "decided",
-        "to",
-        "apply",
-        "for",
         "the",
-        "scholarship",
+        "government",
+        "has",
+        "implemented",
+        "new",
+        "policies",
         "to",
-        "further",
-        "her",
+        "encourage",
+        "renewable",
+        "energy"
+      ],
+      "display": "The government has implemented new policies to encourage renewable energy."
+    },
+    {
+      "words": [
+        "students",
+        "should",
+        "develop",
+        "effective",
+        "study",
+        "habits",
+        "to",
+        "succeed",
+        "in",
+        "college"
+      ],
+      "display": "Students should develop effective study habits to succeed in college."
+    },
+    {
+      "words": [
+        "the",
+        "presentation",
+        "highlighted",
+        "the",
+        "benefits",
+        "of",
+        "mindfulness",
+        "in",
         "education"
       ],
-      "display": "She decided to apply for the scholarship to further her education."
+      "display": "The presentation highlighted the benefits of mindfulness in education."
+    },
+    {
+      "words": [
+        "many",
+        "scientists",
+        "believe",
+        "that",
+        "climate",
+        "change",
+        "is",
+        "a",
+        "urgent",
+        "issue"
+      ],
+      "display": "Many scientists believe that climate change is an urgent issue."
     },
     {
       "words": [
         "the",
         "professor",
-        "will",
-        "review",
-        "the",
-        "submitted",
-        "papers",
-        "during",
-        "office",
-        "hours"
-      ],
-      "display": "The professor will review the submitted papers during office hours."
-    },
-    {
-      "words": [
-        "attending",
-        "the",
-        "conference",
-        "will",
-        "enhance",
-        "my",
-        "understanding",
-        "of",
-        "the",
-        "subject"
-      ],
-      "display": "Attending the conference will enhance my understanding of the subject."
-    },
-    {
-      "words": [
-        "the",
-        "team",
-        "completed",
-        "the",
-        "project",
-        "ahead",
-        "of",
-        "schedule",
-        "to",
-        "impress",
-        "the",
-        "client"
-      ],
-      "display": "The team completed the project ahead of schedule to impress the client."
-    },
-    {
-      "words": [
-        "she",
-        "found",
-        "the",
-        "discussion",
-        "to",
-        "be",
-        "very",
-        "insightful",
-        "and",
-        "thought",
-        "provoking"
-      ],
-      "display": "She found the discussion to be very insightful and thought provoking."
-    },
-    {
-      "words": [
-        "the",
-        "library",
-        "offers",
-        "many",
-        "resources",
-        "for",
+        "encouraged",
         "students",
         "to",
-        "prepare",
-        "for",
-        "their",
-        "exams"
+        "participate",
+        "in",
+        "the",
+        "upcoming",
+        "conference"
       ],
-      "display": "The library offers many resources for students to prepare for their exams."
+      "display": "The professor encouraged students to participate in the upcoming conference."
     }
   ],
   "emailPrompts": [
-    "寄信給教授，詢問有關期末報告的格式要求。",
-    "寄信給宿舍管理處，反映房間內的水管漏水問題。",
-    "寄信給圖書館，請求延長借書期限。",
-    "寄信給學生會，了解加入社團的相關事宜。",
-    "寄信給客服，詢問訂單的配送狀態。",
-    "寄信給實習主管，感謝他們提供的實習機會並詢問未來的發展。"
+    "寄信給教授，說明無法參加實驗課，並請求補課的安排。",
+    "寄信給宿舍管理辦公室，詢問如何申請延長住宿時間。",
+    "寄信給圖書館，請求幫助尋找特定的學術資源。",
+    "寄信給學生會，要求參加即將舉行的社團活動。",
+    "寄信給客服，反映購買的產品出現問題，並請求退換貨。",
+    "寄信給導師，詢問有關學術指導的建議和資源。"
   ],
   "discussionPrompts": [
-    "教授問：「你認為科技對於人類生活的影響是正面還是負面？」",
-    "教授問：「社會媒體對青少年心理健康的影響是什麼？」",
-    "教授問：「在當今社會中，藝術的角色是什麼？」",
-    "教授問：「應該如何解決環境污染問題？」",
-    "教授問：「大學教育是否應該免費？」",
-    "教授問：「全球化對本地文化的威脅是什麼？」"
+    "教授問：「你認為科技發展對人類社會的影響是積極的還是消極的？」",
+    "教授問：「文化多樣性在全球化的世界中有何重要性？」",
+    "教授問：「社會媒體如何改變了我們的溝通方式及人際關係？」",
+    "教授問：「教育制度應如何適應不斷變化的職場需求？」",
+    "教授問：「倫理學在現代科技中的角色是什麼？」",
+    "教授問：「氣候變遷的挑戰需要哪些國際合作？」"
   ]
 }
