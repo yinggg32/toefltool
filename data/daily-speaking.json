@@ -1,45 +1,45 @@
 {
   "shadowSentences": [
-    "The weather is beautiful today.",
+    "The sun is shining brightly today.",
     "I enjoy reading books in my free time.",
-    "She runs every morning to stay fit.",
-    "They are planning a trip to the mountains.",
-    "He studies hard to improve his grades.",
-    "We often watch movies together on weekends.",
-    "My friends and I play soccer in the park.",
-    "Traveling to new places broadens our perspectives.",
-    "Learning a new language can be challenging but fun.",
-    "Volunteering helps the community and enriches our lives."
+    "My favorite season is autumn because of the colors.",
+    "Yesterday, I saw a movie that I really liked.",
+    "Cooking new recipes is a fun activity for me.",
+    "Traveling to new places helps me learn about different cultures.",
+    "I often listen to music while I work on my projects.",
+    "Exercising regularly has improved my overall health and mood.",
+    "Volunteering at local shelters gives me a sense of purpose and connection.",
+    "Taking time for hobbies is important for maintaining a balanced life."
   ],
   "interviewScenarios": [
     {
       "topic": "旅行計劃",
       "intro": "You have agreed to take part in a research study about travel planning.",
       "questions": [
-        "Q1: Can you tell me about a memorable trip you've taken?",
-        "Q2: What kind of challenges did you face while planning that trip?",
-        "Q3: How do you feel about the importance of travel in our lives?",
-        "Q4: What advice would you give someone planning their first trip?"
+        "Q1: What is your favorite travel destination and why?",
+        "Q2: What challenges do you face when planning a trip?",
+        "Q3: How do you feel about the importance of travel in personal growth?",
+        "Q4: What tips would you give someone planning their first trip abroad?"
       ]
     },
     {
-      "topic": "環保行為",
-      "intro": "You have agreed to take part in a research study about eco-friendly habits.",
+      "topic": "飲食習慣",
+      "intro": "You have agreed to take part in a research study about eating habits.",
       "questions": [
-        "Q1: What eco-friendly habits do you practice in your daily life?",
-        "Q2: Have you encountered any difficulties in maintaining these habits?",
-        "Q3: What is your opinion on the impact of individual actions on the environment?",
-        "Q4: How would you encourage others to adopt more eco-friendly practices?"
+        "Q1: Can you describe your typical eating routine?",
+        "Q2: What difficulties do you encounter when trying to eat healthy?",
+        "Q3: In your opinion, how does diet influence overall health?",
+        "Q4: What advice would you give someone looking to improve their eating habits?"
       ]
     },
     {
-      "topic": "創意愛好",
-      "intro": "You have agreed to take part in a research study about creative hobbies.",
+      "topic": "學習風格",
+      "intro": "You have agreed to take part in a research study about learning styles.",
       "questions": [
-        "Q1: What creative hobby do you enjoy and why?",
-        "Q2: Have you faced any obstacles in pursuing your hobby?",
-        "Q3: Why do you think creative hobbies are important for personal growth?",
-        "Q4: What tips would you give someone looking to start a creative hobby?"
+        "Q1: What is your preferred way of learning new information?",
+        "Q2: What challenges do you face with your learning style?",
+        "Q3: How do you think learning styles affect academic performance?",
+        "Q4: What strategies would you recommend for someone struggling to learn effectively?"
       ]
     }
   ]

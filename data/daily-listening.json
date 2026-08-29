@@ -1,116 +1,116 @@
 {
   "chooseResponse": [
     {
-      "q": "How was your weekend?",
+      "q": "Do you want to join the study group?",
       "options": [
-        "It was great, thanks!",
-        "I’m not sure.",
-        "I have a lot of work.",
-        "I didn’t do much."
+        "Sure, I'd love to!",
+        "No, I'm too busy.",
+        "Maybe later.",
+        "I need to think about it."
       ],
       "correctIndex": 0
     }
   ],
   "conversation": {
-    "transcript": "Student: Hey, did you go to the art exhibit last night?\nAdvisor: Yes, I did! It was really impressive. What did you think?\nStudent: I loved the modern section, especially the sculptures.\nAdvisor: The sculptures were fascinating! Did you have a favorite artist?",
+    "transcript": "Student: Hey, have you heard about the new art exhibit opening this weekend?\nAdvisor: Yes, I heard it features contemporary artists. Are you planning to go?\nStudent: Definitely! I love modern art. Do you know the hours?\nAdvisor: I think it opens at 10 AM and goes until 6 PM. You should check it out!",
     "questions": [
       {
-        "q": "What did the student think of the modern section?",
+        "q": "What is the main topic of the conversation?",
         "options": [
-          "It was boring.",
-          "It was impressive.",
-          "It was too crowded.",
-          "It was dark."
+          "A study group",
+          "An art exhibit",
+          "A music concert",
+          "A class schedule"
         ],
         "correctIndex": 1,
-        "explain": "學生喜歡現代部分，覺得很吸引人。"
+        "explain": "這段對話的主要主題是藝術展覽。"
       },
       {
-        "q": "What did the advisor think of the exhibit?",
+        "q": "What time does the exhibit open?",
         "options": [
-          "It was disappointing.",
-          "It was really impressive.",
-          "It was too long.",
-          "It was hard to find."
+          "8 AM",
+          "10 AM",
+          "12 PM",
+          "2 PM"
         ],
         "correctIndex": 1,
-        "explain": "顧問覺得展覽非常出色。"
+        "explain": "藝術展覽在早上10點開放。"
       }
     ]
   },
   "announcement": {
-    "transcript": "Attention students! The library will be closed for renovations from next Monday through the following Friday. We apologize for any inconvenience this may cause and encourage you to plan your study time accordingly. Thank you for your understanding.",
+    "transcript": "Attention students! The library will be closed for renovations starting next Monday and will reopen in two weeks. Please make sure to check out any materials you may need before then. Thank you for your understanding.",
     "questions": [
       {
-        "q": "When will the library be closed?",
+        "q": "Why will the library be closed?",
         "options": [
-          "Next Monday to Friday.",
-          "This Friday to next Monday.",
-          "All weekend.",
-          "Only on Mondays."
-        ],
-        "correctIndex": 0,
-        "explain": "圖書館將在下週一至下週五關閉。"
-      },
-      {
-        "q": "What should students do?",
-        "options": [
-          "Ignore the announcement.",
-          "Plan their study time accordingly.",
-          "Visit another library.",
-          "Come to the library anyway."
+          "For a holiday",
+          "For renovations",
+          "For a special event",
+          "For inventory"
         ],
         "correctIndex": 1,
-        "explain": "學生應該根據公告安排他們的學習時間。"
+        "explain": "圖書館將因為翻修而關閉。"
+      },
+      {
+        "q": "How long will the library be closed?",
+        "options": [
+          "One week",
+          "Two weeks",
+          "Three weeks",
+          "Indefinitely"
+        ],
+        "correctIndex": 1,
+        "explain": "圖書館將關閉兩週。"
       }
     ]
   },
   "talk": {
-    "transcript": "Today, I will discuss the concept of renewable energy, which refers to energy sourced from natural processes that are continually replenished. Examples include solar, wind, and hydroelectric power. Unlike fossil fuels, renewable energy has a lower environmental impact, helping to reduce carbon emissions and combat climate change. The transition to renewable energy sources is essential for sustainable development, as it not only fulfills our energy needs but also conserves natural resources for future generations. Investing in renewable technologies can lead to job creation and economic growth, making it a viable solution for both energy and environmental challenges.",
+    "transcript": "Today, we will discuss the concept of biodiversity. Biodiversity refers to the variety of life on Earth, including different species of plants, animals, and microorganisms. It is crucial for ecosystem stability, resilience, and the provision of ecosystem services. Higher biodiversity leads to healthier ecosystems, as it allows for greater adaptability to changes and disturbances. Conservation efforts are essential to protect and sustain biodiversity, as many species are threatened by habitat loss, climate change, and pollution. Understanding the importance of biodiversity can help us make informed decisions about environmental policies and practices that affect our planet.",
     "questions": [
       {
-        "q": "What is renewable energy?",
+        "q": "What does biodiversity refer to?",
         "options": [
-          "Energy from fossil fuels.",
-          "Energy from nuclear power.",
-          "Energy from natural processes.",
-          "Energy from the grid."
-        ],
-        "correctIndex": 2,
-        "explain": "可再生能源是來自不斷補充的自然過程的能源。"
-      },
-      {
-        "q": "What is one benefit of renewable energy?",
-        "options": [
-          "Higher carbon emissions.",
-          "Depletion of resources.",
-          "Lower environmental impact.",
-          "More dependence on fossil fuels."
-        ],
-        "correctIndex": 2,
-        "explain": "可再生能源有較低的環境影響。"
-      },
-      {
-        "q": "What industries may benefit from renewable energy investment?",
-        "options": [
-          "Only technology firms.",
-          "Only fossil fuel companies.",
-          "Not specified.",
-          "Multiple industries, including job creation."
-        ],
-        "correctIndex": 3,
-        "explain": "多個行業，包括創造就業機會，都可能受益於可再生能源的投資。"
-      },
-      {
-        "q": "Why is the transition to renewable energy essential?",
-        "options": [
-          "To keep using fossil fuels.",
-          "To reduce environmental impact.",
-          "To increase pollution.",
-          "To avoid economic growth."
+          "Variety of ecosystems",
+          "Variety of life",
+          "Variety of climates",
+          "Variety of resources"
         ],
         "correctIndex": 1,
-        "explain": "轉向可再生能源對於減少環境影響至關重要。"
+        "explain": "生物多樣性指的是地球上生命的多樣性。"
+      },
+      {
+        "q": "Why is biodiversity important for ecosystems?",
+        "options": [
+          "It prevents disasters",
+          "It enhances food production",
+          "It promotes stability",
+          "It decreases competition"
+        ],
+        "correctIndex": 2,
+        "explain": "生物多樣性對生態系統的重要性在於它促進穩定性。"
+      },
+      {
+        "q": "What are some threats to biodiversity?",
+        "options": [
+          "Increased rainfall",
+          "Habitat loss",
+          "Higher education",
+          "Global trade"
+        ],
+        "correctIndex": 1,
+        "explain": "生物多樣性的威脅包括棲息地喪失。"
+      },
+      {
+        "q": "What can help conserve biodiversity?",
+        "options": [
+          "Increased pollution",
+          "Deforestation",
+          "Conservation efforts",
+          "Urban expansion"
+        ],
+        "correctIndex": 2,
+        "explain": "保護生物多樣性的措施包括保護努力。"
       }
     ]
   }

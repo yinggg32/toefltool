@@ -2,101 +2,107 @@
   "cloze": {
     "segments": [
       {
-        "text": "The concept of biodiversity is crucial for understanding ecosystems. It refers to the variety of life forms in a particular habitat, including their genetic diversity and ecological functions. A diverse ecosystem can better withstand environmental changes and provide susta"
+        "text": "The human brain is an incredibly complex organ, responsible for a variety of functions including "
       },
       {
-        "blank": "inable"
+        "blank": "cognitive"
       },
       {
-        "text": "resources for human needs. For example, coral reefs are known for their rich diversity of fish and invertebrates, which contribute to the overall health of the ocean. However, threats such as climate change and pollution can significantly af"
+        "text": ", emotional, and motor functions. It is composed of billions of neurons that communicate through "
       },
       {
-        "blank": "fect"
+        "blank": "synap"
       },
       {
-        "text": "biodiversity. Conservation efforts are essential to protect these ecosystems from further degradation. By preserving species and their habitats, we ensure the stability of our planet's ecological balance and the continued existence of numerous species that provide us"
+        "text": ", allowing for the transmission of signals. The brain can be divided into several parts, each with specific responsibilities, such as the "
       },
       {
-        "blank": "with"
+        "blank": "cere"
       },
       {
-        "text": "food, medicine, and other benefits. Understanding the interdependence of species encourages more responsible stewardship of our natural resources."
+        "text": "bellum, which plays a crucial role in coordination. Furthermore, the brain's plasticity enables it to adapt to new experiences, which is essential for learning and "
+      },
+      {
+        "blank": "memo"
+      },
+      {
+        "text": ". Understanding the brain's structure and functions is vital for advancements in fields such as psychology and medicine."
       }
     ]
   },
   "academic": {
-    "passage": "Biodiversity is the variety of life on Earth, encompassing the different species, genetic variations, and ecosystems. It plays a vital role in maintaining ecological balance and resilience against environmental changes. For instance, diverse ecosystems can adapt better to climate shifts and provide essential services like pollination and water purification. Therefore, protecting biodiversity is not only crucial for the survival of numerous species but also for human well-being, as it contributes to food security, health, and economic stability.",
+    "passage": "The study of the human brain encompasses various fields such as neuroscience and psychology. Researchers aim to understand how different brain regions contribute to behavior, cognition, and emotional responses. Recent advancements in brain imaging technologies have allowed scientists to observe brain activity in real-time, leading to new insights into neuroplasticity—the brain's ability to reorganize itself. This research has significant implications for treating mental health disorders and improving educational methods. As our understanding of the brain continues to evolve, the potential for innovative therapies expands, marking a promising frontier in both medical and psychological fields.",
     "questions": [
       {
-        "q": "What is the main idea of the passage?",
+        "q": "What is the main focus of the research discussed in the passage?",
         "options": [
-          "Biodiversity is essential for ecological balance.",
-          "Climate change threatens biodiversity.",
-          "Biodiversity contributes to economic stability.",
-          "Human well-being relies on species diversity."
+          "Understanding the structure of the brain",
+          "Exploring brain imaging technologies",
+          "Studying brain functions and treatments",
+          "Investigating historical views of psychology"
         ],
-        "correctIndex": 0,
-        "explain": "這段文字的主要觀點是生物多樣性對於生態平衡是至關重要的。"
+        "correctIndex": 2,
+        "explain": "這段文章主要探討的是對人類大腦功能和治療的研究。"
       },
       {
-        "q": "Which of the following is mentioned as a benefit of biodiversity?",
+        "q": "What technology has advanced the study of the brain?",
         "options": [
-          "Food security",
-          "Urban development",
-          "Technological advancements",
-          "Cultural diversity"
-        ],
-        "correctIndex": 0,
-        "explain": "生物多樣性對食物安全的貢獻在文章中被提及。"
-      },
-      {
-        "q": "What can be inferred about ecosystems with low biodiversity?",
-        "options": [
-          "They are more resilient to climate change.",
-          "They are less capable of providing essential services.",
-          "They have a higher number of species.",
-          "They are more beneficial to human health."
+          "Neuroscience instruments",
+          "Brain imaging technologies",
+          "Psychological assessments",
+          "Medical evaluations"
         ],
         "correctIndex": 1,
-        "explain": "生物多樣性低的生態系統可能無法提供必要的生態服務。"
+        "explain": "文章提到腦部成像技術的進步使得科學家能夠即時觀察腦活動。"
       },
       {
-        "q": "What does the term 'pollination' refer to in the context of biodiversity?",
+        "q": "What can be inferred about neuroplasticity?",
         "options": [
-          "The process of genetic variation.",
-          "The transfer of pollen from one flower to another.",
-          "The adaptation of species to their environment.",
-          "The extinction of various species."
+          "It helps improve educational methods.",
+          "It is a historical concept with no current relevance.",
+          "It is a fixed quality of the brain.",
+          "It applies only to children."
+        ],
+        "correctIndex": 0,
+        "explain": "神經可塑性是大腦能夠重新組織的能力，這對於改善教育方法是有重要影響的。"
+      },
+      {
+        "q": "What does the term 'neuroplasticity' refer to in the passage?",
+        "options": [
+          "The brain's ability to transmit signals",
+          "The brain's capacity for adaptation",
+          "The study of neural networks",
+          "The fixed pathways in the brain"
         ],
         "correctIndex": 1,
-        "explain": "在生物多樣性的背景下，'授粉'指的是花粉從一朵花轉移到另一朵花的過程。"
+        "explain": "文中提到的神經可塑性是指大腦適應新經驗的能力。"
       }
     ]
   },
   "daily": {
-    "passage": "Attention students! The library will be closed for maintenance on Friday, October 10th. Please plan to check out your materials before this date. We apologize for any inconvenience and appreciate your understanding.",
+    "passage": "Attention students! The university library will be closed for maintenance this Saturday from 8 AM to 4 PM. Please ensure you check out any materials you need before then. Thank you for your understanding and cooperation.",
     "questions": [
       {
-        "q": "When will the library be closed?",
+        "q": "When will the university library be closed?",
         "options": [
-          "October 10th",
-          "October 11th",
-          "Friday",
-          "Saturday"
+          "Saturday morning",
+          "Saturday afternoon",
+          "All day Saturday",
+          "Sunday"
         ],
-        "correctIndex": 0,
-        "explain": "根據公告，圖書館將於10月10日關閉。"
+        "correctIndex": 2,
+        "explain": "圖書館會在週六整天關閉。"
       },
       {
         "q": "What should students do before the library closes?",
         "options": [
-          "Return their books",
+          "Return borrowed books",
           "Check out materials",
-          "Attend a meeting",
-          "Visit the cafe"
+          "Attend a workshop",
+          "Visit the computer lab"
         ],
         "correctIndex": 1,
-        "explain": "學生應在圖書館關閉之前借閱材料。"
+        "explain": "學生在圖書館關閉之前應確保借用所需的資料。"
       }
     ]
   }
