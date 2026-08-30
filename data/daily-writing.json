@@ -3,15 +3,99 @@
     {
       "words": [
         "the",
-        "student",
-        "completed",
+        "research",
+        "findings",
+        "in",
         "the",
-        "assignment",
-        "before",
-        "the",
-        "deadline"
+        "latest",
+        "study",
+        "were",
+        "surprising"
       ],
-      "display": "The student completed the assignment before the deadline."
+      "display": "The research findings in the latest study were surprising."
+    },
+    {
+      "words": [
+        "students",
+        "should",
+        "develop",
+        "effective",
+        "study",
+        "habits",
+        "to",
+        "succeed"
+      ],
+      "display": "Students should develop effective study habits to succeed."
+    },
+    {
+      "words": [
+        "the",
+        "presentation",
+        "provided",
+        "valuable",
+        "insights",
+        "into",
+        "the",
+        "topic"
+      ],
+      "display": "The presentation provided valuable insights into the topic."
+    },
+    {
+      "words": [
+        "volunteering",
+        "can",
+        "help",
+        "students",
+        "gain",
+        "practical",
+        "experience",
+        "and",
+        "skills"
+      ],
+      "display": "Volunteering can help students gain practical experience and skills."
+    },
+    {
+      "words": [
+        "after",
+        "reviewing",
+        "the",
+        "feedback",
+        "i",
+        "decided",
+        "to",
+        "make",
+        "more",
+        "changes"
+      ],
+      "display": "After reviewing the feedback, I decided to make more changes."
+    },
+    {
+      "words": [
+        "the",
+        "team",
+        "worked",
+        "together",
+        "to",
+        "complete",
+        "the",
+        "project",
+        "on",
+        "time"
+      ],
+      "display": "The team worked together to complete the project on time."
+    },
+    {
+      "words": [
+        "attending",
+        "workshops",
+        "can",
+        "enhance",
+        "learning",
+        "and",
+        "networking",
+        "opportunities"
+      ],
+      "display": "Attending workshops can enhance learning and networking opportunities."
     },
     {
       "words": [
@@ -19,124 +103,30 @@
         "people",
         "believe",
         "that",
-        "exercise",
+        "education",
         "is",
-        "important",
-        "for",
-        "health"
-      ],
-      "display": "Many people believe that exercise is important for health."
-    },
-    {
-      "words": [
-        "she",
-        "decided",
+        "the",
+        "key",
         "to",
-        "join",
-        "the",
-        "book",
-        "club",
-        "after",
-        "hearing",
-        "about",
-        "it"
+        "success"
       ],
-      "display": "She decided to join the book club after hearing about it."
-    },
-    {
-      "words": [
-        "the",
-        "conference",
-        "will",
-        "be",
-        "held",
-        "next",
-        "month",
-        "in",
-        "the",
-        "city",
-        "center"
-      ],
-      "display": "The conference will be held next month in the city center."
-    },
-    {
-      "words": [
-        "students",
-        "should",
-        "submit",
-        "their",
-        "projects",
-        "by",
-        "the",
-        "end",
-        "of",
-        "the",
-        "week"
-      ],
-      "display": "Students should submit their projects by the end of the week."
-    },
-    {
-      "words": [
-        "the",
-        "research",
-        "study",
-        "aims",
-        "to",
-        "investigate",
-        "the",
-        "effects",
-        "of",
-        "climate",
-        "change"
-      ],
-      "display": "The research study aims to investigate the effects of climate change."
-    },
-    {
-      "words": [
-        "he",
-        "was",
-        "surprised",
-        "to",
-        "receive",
-        "an",
-        "award",
-        "for",
-        "his",
-        "volunteer",
-        "work"
-      ],
-      "display": "He was surprised to receive an award for his volunteer work."
-    },
-    {
-      "words": [
-        "the",
-        "professor",
-        "emphasized",
-        "the",
-        "importance",
-        "of",
-        "critical",
-        "thinking",
-        "in",
-        "education"
-      ],
-      "display": "The professor emphasized the importance of critical thinking in education."
+      "display": "Many people believe that education is the key to success."
     }
   ],
   "emailPrompts": [
-    "寄信給教授，請求延長作業的截止日期，因為最近生病。",
-    "寫信給宿舍辦公室，詢問關於更換房間的程序。",
-    "寄信給圖書館，反映書籍遲還罰款的問題，請求免除罰款。",
-    "寫信給社團，表達對下次活動的興趣，並詢問如何參加。",
-    "寄信給客戶服務，詢問有關訂單的狀態和交付時間。",
-    "寫信給學校輔導員，請求安排一次諮詢會議，以討論學業和職業規劃。"
+    "寄信給教授，請假因為生病無法參加下星期的課。",
+    "寄信給宿舍辦公室，詢問搬入的具體日期和流程。",
+    "寄信給圖書館，請求延長書籍的借閱期限。",
+    "寄信給社團，表達對參加下次活動的興趣並詢問時間。",
+    "寄信給客服，反映最近購買的商品有問題，請求退換。",
+    "寄信給班級同學，告知明天有小組討論會，並請大家準備。"
   ],
   "discussionPrompts": [
-    "教授問：「如何看待社交媒體對青少年心理健康的影響？」",
-    "教授問：「在科技迅速發展的今天，人工智慧是否會取代人類工作？」",
-    "教授問：「應該如何平衡經濟發展與環境保護之間的關係？」",
-    "教授問：「學校應該推廣哪些價值觀以培養負責任的公民？」",
-    "教授問：「全球化對各國文化的影響是正面還是負面？」",
-    "教授問：「如何有效地推動社會對氣候變化的關注和行動？」"
+    "教授問：「你認為科技對人際關係的影響是正面還是負面？」",
+    "教授問：「社會媒體是否改變了年輕人的社會行為？」",
+    "教授問：「在全球化的背景下，文化應該如何保護和傳承？」",
+    "教授問：「面對氣候變化，個人和社會應該承擔什麼責任？」",
+    "教授問：「教育系統應該如何調整以適應未來的職場需求？」",
+    "教授問：「你怎麼看待大學教育的價值和成本之間的平衡？」"
   ]
 }

@@ -7886,5 +7886,53 @@
     "zh": "智能的",
     "ex": "Smart technologies are increasingly integrated into everyday appliances to enhance convenience.",
     "cat": "📰 每日新詞：technology and innovation"
+  },
+  {
+    "word": "paleontology",
+    "pos": "n.",
+    "root": "古生物学—palaios (ancient) + ontos (being) + logos (study)",
+    "zh": "古生物学",
+    "ex": "Paleontology helps us understand the life forms that existed millions of years ago.",
+    "cat": "📰 每日新詞：history"
+  },
+  {
+    "word": "decolonization",
+    "pos": "n.",
+    "root": "去殖民化—de (removal) + colonia (settlement) + -ization (process)",
+    "zh": "去殖民化",
+    "ex": "Decolonization reshaped the geopolitical landscape of the 20th century.",
+    "cat": "📰 每日新詞：history"
+  },
+  {
+    "word": "historian",
+    "pos": "n.",
+    "root": "历史学家—historia (history) + -ian (one who)",
+    "zh": "历史学家",
+    "ex": "The historian's work sheds light on the complexities of past societies.",
+    "cat": "📰 每日新詞：history"
+  },
+  {
+    "word": "dominance",
+    "pos": "n.",
+    "root": "主导—dominari (to rule)",
+    "zh": "主导",
+    "ex": "The dominance of certain cultures can be traced back to historical conquests.",
+    "cat": "📰 每日新詞：history"
+  },
+  {
+    "word": "contribution",
+    "pos": "n.",
+    "root": "贡献—con (together) + tribuere (to give)",
+    "zh": "贡献",
+    "ex": "The contribution of various cultures enriched the development of the arts.",
+    "cat": "📰 每日新詞：history"
+  },
+  {
+    "word": "chronological",
+    "pos": "adj.",
+    "root": "按时间顺序的—chronos (time) + logical (related to)",
+    "zh": "按时间顺序的",
+    "ex": "The chronological arrangement of events aids in the analysis of historical trends.",
+    "cat": "📰 每日新詞：history"
   }
 ]

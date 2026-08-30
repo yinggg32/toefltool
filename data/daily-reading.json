@@ -2,107 +2,98 @@
   "cloze": {
     "segments": [
       {
-        "text": "The human brain is an incredibly complex organ, responsible for a variety of functions including "
+        "text": "The concept of a plant's photosynthe"
       },
       {
-        "blank": "cognitive"
+        "blank": "sis"
       },
       {
-        "text": ", emotional, and motor functions. It is composed of billions of neurons that communicate through "
+        "text": " is fundamental to understanding how it converts sunlight into energy. During this process, chlorophyll, the green pigment found in plants, plays a crucial role. It absorbs light most efficiently at the blue and red wavelengths. This light energy drives the converti"
       },
       {
-        "blank": "synap"
+        "blank": "on"
       },
       {
-        "text": ", allowing for the transmission of signals. The brain can be divided into several parts, each with specific responsibilities, such as the "
+        "text": " of carbon dioxide and water into glucose and oxygen. The glucose provides energy for the plant, while the oxygen is released into the atmosphere as a byproduct. This dual function of photosynthesis not only sustains individual plants but also supports life on Earth by contributing to the global carbon cyc"
       },
       {
-        "blank": "cere"
-      },
-      {
-        "text": "bellum, which plays a crucial role in coordination. Furthermore, the brain's plasticity enables it to adapt to new experiences, which is essential for learning and "
-      },
-      {
-        "blank": "memo"
-      },
-      {
-        "text": ". Understanding the brain's structure and functions is vital for advancements in fields such as psychology and medicine."
+        "blank": "le"
       }
     ]
   },
   "academic": {
-    "passage": "The study of the human brain encompasses various fields such as neuroscience and psychology. Researchers aim to understand how different brain regions contribute to behavior, cognition, and emotional responses. Recent advancements in brain imaging technologies have allowed scientists to observe brain activity in real-time, leading to new insights into neuroplasticity—the brain's ability to reorganize itself. This research has significant implications for treating mental health disorders and improving educational methods. As our understanding of the brain continues to evolve, the potential for innovative therapies expands, marking a promising frontier in both medical and psychological fields.",
+    "passage": "Photosynthesis is the process by which plants, algae, and some bacteria convert light energy into chemical energy, primarily in the form of glucose. This process occurs mainly in the chloroplasts of plant cells, where chlorophyll captures sunlight. The significance of photosynthesis extends beyond individual plants; it is crucial for sustaining life on Earth by providing oxygen and serving as the base of the food chain. Without photosynthesis, most life forms would not survive, as it is the primary means of producing organic matter from inorganic substances.",
     "questions": [
       {
-        "q": "What is the main focus of the research discussed in the passage?",
+        "q": "What is the main idea of the passage?",
         "options": [
-          "Understanding the structure of the brain",
-          "Exploring brain imaging technologies",
-          "Studying brain functions and treatments",
-          "Investigating historical views of psychology"
-        ],
-        "correctIndex": 2,
-        "explain": "這段文章主要探討的是對人類大腦功能和治療的研究。"
-      },
-      {
-        "q": "What technology has advanced the study of the brain?",
-        "options": [
-          "Neuroscience instruments",
-          "Brain imaging technologies",
-          "Psychological assessments",
-          "Medical evaluations"
-        ],
-        "correctIndex": 1,
-        "explain": "文章提到腦部成像技術的進步使得科學家能夠即時觀察腦活動。"
-      },
-      {
-        "q": "What can be inferred about neuroplasticity?",
-        "options": [
-          "It helps improve educational methods.",
-          "It is a historical concept with no current relevance.",
-          "It is a fixed quality of the brain.",
-          "It applies only to children."
+          "Photosynthesis is essential for life on Earth.",
+          "Chlorophyll captures sunlight for plants.",
+          "Plants convert glucose into energy.",
+          "Photosynthesis occurs in the chloroplasts."
         ],
         "correctIndex": 0,
-        "explain": "神經可塑性是大腦能夠重新組織的能力，這對於改善教育方法是有重要影響的。"
+        "explain": "這段文字的主要思想是光合作用對地球生命的重要性。"
       },
       {
-        "q": "What does the term 'neuroplasticity' refer to in the passage?",
+        "q": "Where does photosynthesis mainly occur?",
         "options": [
-          "The brain's ability to transmit signals",
-          "The brain's capacity for adaptation",
-          "The study of neural networks",
-          "The fixed pathways in the brain"
+          "In the roots of plants.",
+          "In the leaves of plants.",
+          "In the chloroplasts of plant cells.",
+          "In the soil around the plants."
+        ],
+        "correctIndex": 2,
+        "explain": "光合作用主要在植物細胞的葉綠體中進行。"
+      },
+      {
+        "q": "What can be inferred about the importance of photosynthesis?",
+        "options": [
+          "It is not essential for plant growth.",
+          "It also affects life forms that do not photosynthesize.",
+          "It is only important for humans.",
+          "It is a seasonal process that changes regularly."
         ],
         "correctIndex": 1,
-        "explain": "文中提到的神經可塑性是指大腦適應新經驗的能力。"
+        "explain": "可以推斷，光合作用對非光合作用生物的生存也有影響。"
+      },
+      {
+        "q": "What is the primary product of photosynthesis?",
+        "options": [
+          "Carbon dioxide",
+          "Oxygen",
+          "Glucose",
+          "Chlorophyll"
+        ],
+        "correctIndex": 2,
+        "explain": "光合作用的主要產物是葡萄糖。"
       }
     ]
   },
   "daily": {
-    "passage": "Attention students! The university library will be closed for maintenance this Saturday from 8 AM to 4 PM. Please ensure you check out any materials you need before then. Thank you for your understanding and cooperation.",
+    "passage": "Attention all students! The annual campus festival will take place this Saturday from 10 AM to 6 PM in the main courtyard. There will be food, games, and live music. Don’t forget to bring your student ID for entry. We look forward to seeing everyone there!",
     "questions": [
       {
-        "q": "When will the university library be closed?",
+        "q": "What time does the campus festival start?",
         "options": [
-          "Saturday morning",
-          "Saturday afternoon",
-          "All day Saturday",
-          "Sunday"
-        ],
-        "correctIndex": 2,
-        "explain": "圖書館會在週六整天關閉。"
-      },
-      {
-        "q": "What should students do before the library closes?",
-        "options": [
-          "Return borrowed books",
-          "Check out materials",
-          "Attend a workshop",
-          "Visit the computer lab"
+          "9 AM",
+          "10 AM",
+          "11 AM",
+          "12 PM"
         ],
         "correctIndex": 1,
-        "explain": "學生在圖書館關閉之前應確保借用所需的資料。"
+        "explain": "這個公告中提到校園節的開始時間是上午10點。"
+      },
+      {
+        "q": "What is required for entry to the festival?",
+        "options": [
+          "A ticket",
+          "A guest pass",
+          "A student ID",
+          "No ID needed"
+        ],
+        "correctIndex": 2,
+        "explain": "進入校園節需要帶學生證。"
       }
     ]
   }

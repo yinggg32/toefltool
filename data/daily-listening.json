@@ -1,117 +1,69 @@
 {
   "chooseResponse": [
     {
-      "q": "Do you want to join the study group?",
+      "q": "What time does the meeting start?",
       "options": [
-        "Sure, I'd love to!",
-        "No, I'm too busy.",
-        "Maybe later.",
-        "I need to think about it."
+        "At 3 PM.",
+        "I don't know.",
+        "Can I join?",
+        "Where is it?"
       ],
       "correctIndex": 0
     }
   ],
   "conversation": {
-    "transcript": "Student: Hey, have you heard about the new art exhibit opening this weekend?\nAdvisor: Yes, I heard it features contemporary artists. Are you planning to go?\nStudent: Definitely! I love modern art. Do you know the hours?\nAdvisor: I think it opens at 10 AM and goes until 6 PM. You should check it out!",
-    "questions": [
-      {
-        "q": "What is the main topic of the conversation?",
-        "options": [
-          "A study group",
-          "An art exhibit",
-          "A music concert",
-          "A class schedule"
-        ],
-        "correctIndex": 1,
-        "explain": "這段對話的主要主題是藝術展覽。"
-      },
-      {
-        "q": "What time does the exhibit open?",
-        "options": [
-          "8 AM",
-          "10 AM",
-          "12 PM",
-          "2 PM"
-        ],
-        "correctIndex": 1,
-        "explain": "藝術展覽在早上10點開放。"
-      }
-    ]
+    "transcript": "Student: Hi, have you seen the new study room?\nAdvisor: Yes, I checked it out yesterday. It's really nice!\nStudent: I heard it has great resources. Can we book it?\nAdvisor: Absolutely! You just need to sign up online."
   },
+  "questions": [
+    {
+      "q": "What does biodiversity include?",
+      "options": [
+        "Only animals.",
+        "Only plants.",
+        "Different species.",
+        "Only microorganisms."
+      ],
+      "correctIndex": 2,
+      "explain": "生物多樣性包括各種不同的物種。"
+    },
+    {
+      "q": "Why is biodiversity important?",
+      "options": [
+        "It reduces air pollution.",
+        "It helps with ecosystem stability.",
+        "It only benefits animals.",
+        "It increases global warming."
+      ],
+      "correctIndex": 1,
+      "explain": "生物多樣性對生態系統的穩定性非常重要。"
+    },
+    {
+      "q": "What does biodiversity provide to humans?",
+      "options": [
+        "Only food.",
+        "Cultural richness and clean air.",
+        "Only medicines.",
+        "Nothing at all."
+      ],
+      "correctIndex": 1,
+      "explain": "生物多樣性為人類提供文化的豐富性和清新的空氣。"
+    },
+    {
+      "q": "What is essential for maintaining ecological balance?",
+      "options": [
+        "Biodiversity.",
+        "Pollution.",
+        "Urbanization.",
+        "Deforestation."
+      ],
+      "correctIndex": 0,
+      "explain": "維持生態平衡的關鍵是生物多樣性。"
+    }
+  ],
   "announcement": {
-    "transcript": "Attention students! The library will be closed for renovations starting next Monday and will reopen in two weeks. Please make sure to check out any materials you may need before then. Thank you for your understanding.",
-    "questions": [
-      {
-        "q": "Why will the library be closed?",
-        "options": [
-          "For a holiday",
-          "For renovations",
-          "For a special event",
-          "For inventory"
-        ],
-        "correctIndex": 1,
-        "explain": "圖書館將因為翻修而關閉。"
-      },
-      {
-        "q": "How long will the library be closed?",
-        "options": [
-          "One week",
-          "Two weeks",
-          "Three weeks",
-          "Indefinitely"
-        ],
-        "correctIndex": 1,
-        "explain": "圖書館將關閉兩週。"
-      }
-    ]
+    "transcript": "Attention students: The library will be closing early today at 5 PM due to maintenance work. Please make sure to return your books before that time. We apologize for the inconvenience and thank you for your understanding."
   },
   "talk": {
-    "transcript": "Today, we will discuss the concept of biodiversity. Biodiversity refers to the variety of life on Earth, including different species of plants, animals, and microorganisms. It is crucial for ecosystem stability, resilience, and the provision of ecosystem services. Higher biodiversity leads to healthier ecosystems, as it allows for greater adaptability to changes and disturbances. Conservation efforts are essential to protect and sustain biodiversity, as many species are threatened by habitat loss, climate change, and pollution. Understanding the importance of biodiversity can help us make informed decisions about environmental policies and practices that affect our planet.",
-    "questions": [
-      {
-        "q": "What does biodiversity refer to?",
-        "options": [
-          "Variety of ecosystems",
-          "Variety of life",
-          "Variety of climates",
-          "Variety of resources"
-        ],
-        "correctIndex": 1,
-        "explain": "生物多樣性指的是地球上生命的多樣性。"
-      },
-      {
-        "q": "Why is biodiversity important for ecosystems?",
-        "options": [
-          "It prevents disasters",
-          "It enhances food production",
-          "It promotes stability",
-          "It decreases competition"
-        ],
-        "correctIndex": 2,
-        "explain": "生物多樣性對生態系統的重要性在於它促進穩定性。"
-      },
-      {
-        "q": "What are some threats to biodiversity?",
-        "options": [
-          "Increased rainfall",
-          "Habitat loss",
-          "Higher education",
-          "Global trade"
-        ],
-        "correctIndex": 1,
-        "explain": "生物多樣性的威脅包括棲息地喪失。"
-      },
-      {
-        "q": "What can help conserve biodiversity?",
-        "options": [
-          "Increased pollution",
-          "Deforestation",
-          "Conservation efforts",
-          "Urban expansion"
-        ],
-        "correctIndex": 2,
-        "explain": "保護生物多樣性的措施包括保護努力。"
-      }
-    ]
+    "transcript": "Today, I want to talk about the importance of biodiversity. Biodiversity refers to the variety of life in the world, including different species of plants, animals, and microorganisms. It is crucial for ecosystem stability, providing us with food, clean air, and water. Additionally, biodiversity contributes to cultural richness and allows for natural processes that sustain life. Protecting biodiversity is essential as it helps maintain ecological balance and supports human well-being."
   }
 }
