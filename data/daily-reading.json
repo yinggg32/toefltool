@@ -2,98 +2,95 @@
   "cloze": {
     "segments": [
       {
-        "text": "The concept of a plant's photosynthe"
+        "text": "The process of photosynthesis is essential for plants. During this process, plants convert sunlight into chemical energy, primarily in the form of glucose. The primary site of photosynthesis occurs in the chloropla"
       },
       {
-        "blank": "sis"
+        "blank": "sts"
       },
       {
-        "text": " is fundamental to understanding how it converts sunlight into energy. During this process, chlorophyll, the green pigment found in plants, plays a crucial role. It absorbs light most efficiently at the blue and red wavelengths. This light energy drives the converti"
+        "text": " of plant cells, which contain chlorophyll, the pigment that gives plants their green color. Through a series of reactions, carbon dioxide from the atmosphere and water taken from the soil are used. This reaction produces oxygen as a b"
       },
       {
-        "blank": "on"
+        "blank": "yproduct"
       },
       {
-        "text": " of carbon dioxide and water into glucose and oxygen. The glucose provides energy for the plant, while the oxygen is released into the atmosphere as a byproduct. This dual function of photosynthesis not only sustains individual plants but also supports life on Earth by contributing to the global carbon cyc"
-      },
-      {
-        "blank": "le"
+        "text": ", which is released into the atmosphere. Photosynthesis not only provides food for plants but also supports life on Earth by contributing to the oxygen levels in our atmosphere. Without this vital process, life as we know it would be impossible."
       }
     ]
   },
   "academic": {
-    "passage": "Photosynthesis is the process by which plants, algae, and some bacteria convert light energy into chemical energy, primarily in the form of glucose. This process occurs mainly in the chloroplasts of plant cells, where chlorophyll captures sunlight. The significance of photosynthesis extends beyond individual plants; it is crucial for sustaining life on Earth by providing oxygen and serving as the base of the food chain. Without photosynthesis, most life forms would not survive, as it is the primary means of producing organic matter from inorganic substances.",
+    "passage": "Photosynthesis is a biochemical process by which green plants, algae, and some bacteria convert light energy into chemical energy stored in glucose. This process occurs mainly in chloroplasts, where sunlight, carbon dioxide, and water interact in a series of reactions. The overall equation of photosynthesis can be summarized as: carbon dioxide + water + light energy → glucose + oxygen. This is fundamental not only for plant life but also for the entire ecosystem, as it produces oxygen and organic matter essential for other living organisms.",
     "questions": [
       {
         "q": "What is the main idea of the passage?",
         "options": [
-          "Photosynthesis is essential for life on Earth.",
-          "Chlorophyll captures sunlight for plants.",
-          "Plants convert glucose into energy.",
-          "Photosynthesis occurs in the chloroplasts."
+          "Photosynthesis is crucial for life on Earth.",
+          "Chloroplasts are the only sites for photosynthesis.",
+          "Photosynthesis only occurs in green plants.",
+          "Light energy is not important for photosynthesis."
         ],
         "correctIndex": 0,
-        "explain": "這段文字的主要思想是光合作用對地球生命的重要性。"
+        "explain": "這段文字的主旨是強調光合作用是地球上生命的重要過程。"
       },
       {
-        "q": "Where does photosynthesis mainly occur?",
+        "q": "What does the overall equation of photosynthesis produce?",
         "options": [
-          "In the roots of plants.",
-          "In the leaves of plants.",
-          "In the chloroplasts of plant cells.",
-          "In the soil around the plants."
+          "Oxygen and water",
+          "Carbon dioxide and glucose",
+          "Glucose and oxygen",
+          "Light energy and carbon dioxide"
         ],
         "correctIndex": 2,
-        "explain": "光合作用主要在植物細胞的葉綠體中進行。"
+        "explain": "光合作用的總方程式表明它產生了葡萄糖和氧氣。"
       },
       {
         "q": "What can be inferred about the importance of photosynthesis?",
         "options": [
-          "It is not essential for plant growth.",
-          "It also affects life forms that do not photosynthesize.",
-          "It is only important for humans.",
-          "It is a seasonal process that changes regularly."
-        ],
-        "correctIndex": 1,
-        "explain": "可以推斷，光合作用對非光合作用生物的生存也有影響。"
-      },
-      {
-        "q": "What is the primary product of photosynthesis?",
-        "options": [
-          "Carbon dioxide",
-          "Oxygen",
-          "Glucose",
-          "Chlorophyll"
+          "It only benefits plants.",
+          "It has no effect on animals.",
+          "It is essential for the entire ecosystem.",
+          "It is a recent discovery."
         ],
         "correctIndex": 2,
-        "explain": "光合作用的主要產物是葡萄糖。"
+        "explain": "可以推斷光合作用對整個生態系統是至關重要的，因為它產生氧氣和有機物。"
+      },
+      {
+        "q": "What is meant by 'chloroplasts' in the passage?",
+        "options": [
+          "The site of glucose production",
+          "A type of algae",
+          "A pigment found in plants",
+          "The location of cellular respiration"
+        ],
+        "correctIndex": 0,
+        "explain": "在這段文字中，'葉綠體'指的是葡萄糖生產的地方，即光合作用主要發生的場所。"
       }
     ]
   },
   "daily": {
-    "passage": "Attention all students! The annual campus festival will take place this Saturday from 10 AM to 6 PM in the main courtyard. There will be food, games, and live music. Don’t forget to bring your student ID for entry. We look forward to seeing everyone there!",
+    "passage": "Attention all students! The library will be closed for maintenance on Saturday, March 15th. Please plan your study schedule accordingly. We apologize for the inconvenience and appreciate your understanding.",
     "questions": [
       {
-        "q": "What time does the campus festival start?",
+        "q": "When will the library be closed?",
         "options": [
-          "9 AM",
-          "10 AM",
-          "11 AM",
-          "12 PM"
+          "March 15th",
+          "March 14th",
+          "March 16th",
+          "April 15th"
         ],
-        "correctIndex": 1,
-        "explain": "這個公告中提到校園節的開始時間是上午10點。"
+        "correctIndex": 0,
+        "explain": "圖書館將於3月15日關閉。"
       },
       {
-        "q": "What is required for entry to the festival?",
+        "q": "What should students do in response to this announcement?",
         "options": [
-          "A ticket",
-          "A guest pass",
-          "A student ID",
-          "No ID needed"
+          "Ignore it",
+          "Change their study schedule",
+          "Visit on March 15th",
+          "Study at a different library"
         ],
-        "correctIndex": 2,
-        "explain": "進入校園節需要帶學生證。"
+        "correctIndex": 1,
+        "explain": "學生應根據這個公告調整他們的學習計劃。"
       }
     ]
   }

@@ -7934,5 +7934,53 @@
     "zh": "按时间顺序的",
     "ex": "The chronological arrangement of events aids in the analysis of historical trends.",
     "cat": "📰 每日新詞：history"
+  },
+  {
+    "word": "saturation",
+    "pos": "n.",
+    "root": "飽和—saturation",
+    "zh": "飽和",
+    "ex": "The saturation of linguistic features can influence language evolution.",
+    "cat": "📰 每日新詞：linguistics"
+  },
+  {
+    "word": "phonetic",
+    "pos": "adj.",
+    "root": "語音的—phonetic",
+    "zh": "語音的",
+    "ex": "Phonetic transcription provides a visual representation of speech sounds.",
+    "cat": "📰 每日新詞：linguistics"
+  },
+  {
+    "word": "ambiguity",
+    "pos": "n.",
+    "root": "模糊—ambiguity",
+    "zh": "模糊",
+    "ex": "Ambiguity in language can lead to misunderstandings in communication.",
+    "cat": "📰 每日新詞：linguistics"
+  },
+  {
+    "word": "syntaxic",
+    "pos": "adj.",
+    "root": "句法的—syntaxic",
+    "zh": "句法的",
+    "ex": "Syntaxic structure is crucial for understanding the meaning of complex sentences.",
+    "cat": "📰 每日新詞：linguistics"
+  },
+  {
+    "word": "disyllabic",
+    "pos": "adj.",
+    "root": "雙音節—disyllabic",
+    "zh": "雙音節",
+    "ex": "Disyllabic words consist of two syllables and are common in many languages.",
+    "cat": "📰 每日新詞：linguistics"
+  },
+  {
+    "word": "cursive",
+    "pos": "adj.",
+    "root": "草寫—cursive",
+    "zh": "草寫",
+    "ex": "Cursive writing is often used for handwriting due to its fluidity.",
+    "cat": "📰 每日新詞：linguistics"
   }
 ]

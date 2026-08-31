@@ -2,131 +2,129 @@
   "buildSentences": [
     {
       "words": [
-        "the",
-        "research",
-        "findings",
-        "in",
-        "the",
-        "latest",
-        "study",
-        "were",
-        "surprising"
-      ],
-      "display": "The research findings in the latest study were surprising."
-    },
-    {
-      "words": [
         "students",
         "should",
-        "develop",
-        "effective",
-        "study",
-        "habits",
-        "to",
-        "succeed"
+        "submit",
+        "their",
+        "assignments",
+        "by",
+        "the",
+        "deadline"
       ],
-      "display": "Students should develop effective study habits to succeed."
+      "display": "Students should submit their assignments by the deadline."
     },
     {
       "words": [
         "the",
-        "presentation",
-        "provided",
-        "valuable",
-        "insights",
-        "into",
-        "the",
-        "topic"
+        "research",
+        "was",
+        "conducted",
+        "over",
+        "a",
+        "period",
+        "of",
+        "two",
+        "years"
       ],
-      "display": "The presentation provided valuable insights into the topic."
-    },
-    {
-      "words": [
-        "volunteering",
-        "can",
-        "help",
-        "students",
-        "gain",
-        "practical",
-        "experience",
-        "and",
-        "skills"
-      ],
-      "display": "Volunteering can help students gain practical experience and skills."
-    },
-    {
-      "words": [
-        "after",
-        "reviewing",
-        "the",
-        "feedback",
-        "i",
-        "decided",
-        "to",
-        "make",
-        "more",
-        "changes"
-      ],
-      "display": "After reviewing the feedback, I decided to make more changes."
-    },
-    {
-      "words": [
-        "the",
-        "team",
-        "worked",
-        "together",
-        "to",
-        "complete",
-        "the",
-        "project",
-        "on",
-        "time"
-      ],
-      "display": "The team worked together to complete the project on time."
+      "display": "The research was conducted over a period of two years."
     },
     {
       "words": [
         "attending",
-        "workshops",
-        "can",
-        "enhance",
-        "learning",
-        "and",
-        "networking",
-        "opportunities"
+        "the",
+        "seminar",
+        "will",
+        "help",
+        "you",
+        "gain",
+        "new",
+        "insights"
       ],
-      "display": "Attending workshops can enhance learning and networking opportunities."
+      "display": "Attending the seminar will help you gain new insights."
     },
     {
       "words": [
-        "many",
-        "people",
-        "believe",
-        "that",
-        "education",
-        "is",
         "the",
-        "key",
-        "to",
-        "success"
+        "project",
+        "requires",
+        "a",
+        "significant",
+        "amount",
+        "of",
+        "collaboration"
       ],
-      "display": "Many people believe that education is the key to success."
+      "display": "The project requires a significant amount of collaboration."
+    },
+    {
+      "words": [
+        "reading",
+        "the",
+        "assigned",
+        "literature",
+        "is",
+        "necessary",
+        "for",
+        "class",
+        "participation"
+      ],
+      "display": "Reading the assigned literature is necessary for class participation."
+    },
+    {
+      "words": [
+        "the",
+        "professor",
+        "emphasized",
+        "the",
+        "importance",
+        "of",
+        "critical",
+        "thinking",
+        "skills"
+      ],
+      "display": "The professor emphasized the importance of critical thinking skills."
+    },
+    {
+      "words": [
+        "students",
+        "are",
+        "encouraged",
+        "to",
+        "participate",
+        "in",
+        "extracurricular",
+        "activities"
+      ],
+      "display": "Students are encouraged to participate in extracurricular activities."
+    },
+    {
+      "words": [
+        "please",
+        "review",
+        "the",
+        "guidelines",
+        "before",
+        "submitting",
+        "your",
+        "final",
+        "paper"
+      ],
+      "display": "Please review the guidelines before submitting your final paper."
     }
   ],
   "emailPrompts": [
-    "寄信給教授，請假因為生病無法參加下星期的課。",
-    "寄信給宿舍辦公室，詢問搬入的具體日期和流程。",
-    "寄信給圖書館，請求延長書籍的借閱期限。",
-    "寄信給社團，表達對參加下次活動的興趣並詢問時間。",
-    "寄信給客服，反映最近購買的商品有問題，請求退換。",
-    "寄信給班級同學，告知明天有小組討論會，並請大家準備。"
+    "寄信給教授，請教有關期末專題報告的要求及截止日期。",
+    "寄信給宿舍辦公室，請求更換房間，因為目前的房間存在噪音問題。",
+    "寄信給圖書館，詢問如何續借圖書以及是否有罰金。",
+    "寄信給學生會，表達加入某個俱樂部的興趣，並詢問入會流程。",
+    "寄信給客服，反映最近購買的商品有瑕疵，請求退貨或換貨。",
+    "寄信給實習指導老師，感謝他們的指導，並詢問未來的實習機會。"
   ],
   "discussionPrompts": [
-    "教授問：「你認為科技對人際關係的影響是正面還是負面？」",
-    "教授問：「社會媒體是否改變了年輕人的社會行為？」",
-    "教授問：「在全球化的背景下，文化應該如何保護和傳承？」",
-    "教授問：「面對氣候變化，個人和社會應該承擔什麼責任？」",
-    "教授問：「教育系統應該如何調整以適應未來的職場需求？」",
-    "教授問：「你怎麼看待大學教育的價值和成本之間的平衡？」"
+    "教授問：「你認為科技對社會的影響是正面的還是負面的？」",
+    "教授問：「在教育中，傳統教學與在線學習的優缺點是什麼？」",
+    "教授問：「文化多樣性對於社會發展有何重要性？」",
+    "教授問：「氣候變遷的主要原因及解決方案有哪些？」",
+    "教授問：「社交媒體對於人際關係的影響如何？」",
+    "教授問：「在當今社會中，經濟不平等的原因及其後果是什麼？」"
   ]
 }
