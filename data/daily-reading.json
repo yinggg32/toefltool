@@ -2,95 +2,101 @@
   "cloze": {
     "segments": [
       {
-        "text": "The process of photosynthesis is essential for plants. During this process, plants convert sunlight into chemical energy, primarily in the form of glucose. The primary site of photosynthesis occurs in the chloropla"
+        "text": "The process of photosynthesis is fundamental to life on Earth. It occurs in the chloroplasts of plant cells, where carbon dioxide and water are converted into glucose and oxygen. This process begins when light energy is absorbed by chlorophyll, the green pigment in plants. The light energy is then used to split water molecules, which releases oxygen as a byproduct. The remaining components are used to fix carbon dioxide into glucose through a series of chemical reactions known as the Calvin cycle. Without photosynthesis, life as we know it would not be possible."
       },
       {
-        "blank": "sts"
+        "blank": "sis"
       },
       {
-        "text": " of plant cells, which contain chlorophyll, the pigment that gives plants their green color. Through a series of reactions, carbon dioxide from the atmosphere and water taken from the soil are used. This reaction produces oxygen as a b"
+        "text": "This process is essential for all living organisms, as it provides the oxygen we breathe and the food we consume. In addition, photosynthesis plays a crucial role in regulating atmospheric carbon dioxide levels. Through this mechanism, plants help to mitigate climate change by absorbing CO2 from the atmosphere. Understanding the intricacies of photosynthesis can lead to advancements in agricultural practices, biofuel production, and environmental conservation."
       },
       {
-        "blank": "yproduct"
+        "blank": "pro"
       },
       {
-        "text": ", which is released into the atmosphere. Photosynthesis not only provides food for plants but also supports life on Earth by contributing to the oxygen levels in our atmosphere. Without this vital process, life as we know it would be impossible."
+        "text": "Research in this field often focuses on enhancing the efficiency of photosynthesis to optimize plant growth and yield. Scientists are exploring genetic modifications and environmental adjustments that can improve photosynthetic rates. Such innovations are vital in addressing global challenges like food security and climate resilience."
+      },
+      {
+        "blank": "effi"
+      },
+      {
+        "text": "By harnessing the power of photosynthesis, we can ensure a sustainable future for generations to come."
       }
     ]
   },
   "academic": {
-    "passage": "Photosynthesis is a biochemical process by which green plants, algae, and some bacteria convert light energy into chemical energy stored in glucose. This process occurs mainly in chloroplasts, where sunlight, carbon dioxide, and water interact in a series of reactions. The overall equation of photosynthesis can be summarized as: carbon dioxide + water + light energy → glucose + oxygen. This is fundamental not only for plant life but also for the entire ecosystem, as it produces oxygen and organic matter essential for other living organisms.",
+    "passage": "Photosynthesis is the process by which green plants, algae, and some bacteria convert light energy into chemical energy in the form of glucose. This process is essential because it not only provides food for the plants themselves but also generates oxygen, a vital component for the survival of most living organisms. During photosynthesis, plants absorb carbon dioxide from the air and water from the soil, using sunlight as energy to transform these substances into glucose and oxygen. The glucose can be utilized for energy or stored for later use, while the oxygen is released back into the atmosphere.",
     "questions": [
       {
-        "q": "What is the main idea of the passage?",
+        "q": "What is the main purpose of photosynthesis?",
         "options": [
-          "Photosynthesis is crucial for life on Earth.",
-          "Chloroplasts are the only sites for photosynthesis.",
-          "Photosynthesis only occurs in green plants.",
-          "Light energy is not important for photosynthesis."
+          "To produce glucose and oxygen",
+          "To absorb carbon dioxide",
+          "To store energy",
+          "To regulate temperature"
         ],
         "correctIndex": 0,
-        "explain": "這段文字的主旨是強調光合作用是地球上生命的重要過程。"
+        "explain": "光合作用的主要目的是生產葡萄糖和氧氣，這是所有生物生存的基礎。"
       },
       {
-        "q": "What does the overall equation of photosynthesis produce?",
+        "q": "What do plants absorb during photosynthesis?",
         "options": [
+          "Carbon dioxide and sunlight",
           "Oxygen and water",
-          "Carbon dioxide and glucose",
-          "Glucose and oxygen",
-          "Light energy and carbon dioxide"
+          "Glucose and carbon dioxide",
+          "Nitrogen and sunlight"
         ],
-        "correctIndex": 2,
-        "explain": "光合作用的總方程式表明它產生了葡萄糖和氧氣。"
+        "correctIndex": 0,
+        "explain": "植物在光合作用中吸收二氧化碳和陽光，這是進行光合作用的必要條件。"
       },
       {
         "q": "What can be inferred about the importance of photosynthesis?",
         "options": [
-          "It only benefits plants.",
-          "It has no effect on animals.",
-          "It is essential for the entire ecosystem.",
-          "It is a recent discovery."
+          "It is important only for plants",
+          "It helps sustain life on Earth",
+          "It has no impact on climate change",
+          "It is a process used only by bacteria"
         ],
-        "correctIndex": 2,
-        "explain": "可以推斷光合作用對整個生態系統是至關重要的，因為它產生氧氣和有機物。"
+        "correctIndex": 1,
+        "explain": "光合作用對地球上的生命至關重要，因為它提供氧氣並支持食物鏈。"
       },
       {
-        "q": "What is meant by 'chloroplasts' in the passage?",
+        "q": "What is the role of chlorophyll in photosynthesis?",
         "options": [
-          "The site of glucose production",
-          "A type of algae",
-          "A pigment found in plants",
-          "The location of cellular respiration"
+          "It absorbs light energy",
+          "It produces glucose",
+          "It releases oxygen",
+          "It stores carbon dioxide"
         ],
         "correctIndex": 0,
-        "explain": "在這段文字中，'葉綠體'指的是葡萄糖生產的地方，即光合作用主要發生的場所。"
+        "explain": "葉綠素的角色是吸收光能，這是光合作用的第一步。"
       }
     ]
   },
   "daily": {
-    "passage": "Attention all students! The library will be closed for maintenance on Saturday, March 15th. Please plan your study schedule accordingly. We apologize for the inconvenience and appreciate your understanding.",
+    "passage": "Attention students: The campus library will be closed for maintenance this weekend. Please make sure to return any borrowed materials before Saturday. We apologize for the inconvenience and appreciate your understanding.",
     "questions": [
       {
         "q": "When will the library be closed?",
         "options": [
-          "March 15th",
-          "March 14th",
-          "March 16th",
-          "April 15th"
+          "This weekend",
+          "Next weekend",
+          "On Friday",
+          "On Monday"
         ],
         "correctIndex": 0,
-        "explain": "圖書館將於3月15日關閉。"
+        "explain": "圖書館將在這個周末關閉，這是公告中提到的。"
       },
       {
-        "q": "What should students do in response to this announcement?",
+        "q": "What should students do before Saturday?",
         "options": [
-          "Ignore it",
-          "Change their study schedule",
-          "Visit on March 15th",
-          "Study at a different library"
+          "Pay library fees",
+          "Return borrowed materials",
+          "Attend a workshop",
+          "Reserve study rooms"
         ],
         "correctIndex": 1,
-        "explain": "學生應根據這個公告調整他們的學習計劃。"
+        "explain": "學生們需要在星期六之前歸還借出的圖書館資料。"
       }
     ]
   }

@@ -1,45 +1,45 @@
 {
   "shadowSentences": [
-    "I enjoy reading books on weekends.",
-    "The weather is perfect for a picnic today.",
-    "She often visits her grandparents in the summer.",
-    "He plays soccer every Wednesday after school.",
-    "We should try that new restaurant downtown soon.",
-    "Traveling to new places can be very exciting.",
-    "Cooking at home is healthier than eating out.",
-    "Listening to music helps me focus while studying.",
-    "Taking walks in nature improves my mood and energy.",
-    "Having a good sleep routine is essential for health."
+    "I enjoy reading books in my free time.",
+    "My favorite season is autumn because of the colors.",
+    "I often go for a walk in the park nearby.",
+    "Cooking new recipes is a fun way to spend weekends.",
+    "I like to listen to music while studying for exams.",
+    "Traveling to new places helps me learn about different cultures.",
+    "Playing sports is a great way to stay fit and healthy.",
+    "I usually watch documentaries to learn more about history.",
+    "Hiking in the mountains offers a refreshing escape from the city.",
+    "Volunteering at local shelters gives me a sense of purpose and community."
   ],
   "interviewScenarios": [
     {
       "topic": "旅行計劃",
       "intro": "You have agreed to take part in a research study about travel planning.",
       "questions": [
-        "Q1: Can you share a memorable trip you have taken?",
-        "Q2: What challenges do you face when planning a trip?",
-        "Q3: How important do you think it is to plan a trip in advance?",
-        "Q4: What tips would you give someone for effective travel planning?"
+        "Q1: Can you describe a recent trip you took and how you planned it?",
+        "Q2: What challenges did you face while organizing that trip?",
+        "Q3: How important do you think it is to plan trips in detail?",
+        "Q4: What advice would you give someone planning their first trip abroad?"
       ]
     },
     {
-      "topic": "飲食習慣",
-      "intro": "You have agreed to take part in a research study about eating habits.",
+      "topic": "健康飲食",
+      "intro": "You have agreed to take part in a research study about healthy eating habits.",
       "questions": [
-        "Q1: What are some of your favorite meals to cook at home?",
-        "Q2: Are there any difficulties you encounter with healthy eating?",
-        "Q3: How do you feel about the importance of balanced meals?",
-        "Q4: What advice would you offer to someone trying to eat healthier?"
+        "Q1: What does a typical meal look like for you during the week?",
+        "Q2: Have you ever struggled to maintain a healthy diet? If so, how?",
+        "Q3: In your opinion, what are the benefits of eating healthy?",
+        "Q4: What tips would you offer someone trying to eat healthier?"
       ]
     },
     {
-      "topic": "運動習慣",
-      "intro": "You have agreed to take part in a research study about exercise habits.",
+      "topic": "寵物照顧",
+      "intro": "You have agreed to take part in a research study about pet care.",
       "questions": [
-        "Q1: What types of exercise do you enjoy the most?",
-        "Q2: Have you faced any obstacles in maintaining a workout routine?",
-        "Q3: What is your opinion on the benefits of regular exercise?",
-        "Q4: What suggestions might you have for someone starting to exercise?"
+        "Q1: Do you have any pets? If so, how do you take care of them?",
+        "Q2: What are some common challenges pet owners face?",
+        "Q3: How do you feel about adopting pets from shelters?",
+        "Q4: What advice would you give to someone considering getting a pet?"
       ]
     }
   ]

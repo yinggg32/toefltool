@@ -7982,5 +7982,37 @@
     "zh": "草寫",
     "ex": "Cursive writing is often used for handwriting due to its fluidity.",
     "cat": "📰 每日新詞：linguistics"
+  },
+  {
+    "word": "architectural",
+    "pos": "adj.",
+    "root": "建筑—architecture",
+    "zh": "建筑的",
+    "ex": "The architectural design of the museum reflects both modern and traditional elements.",
+    "cat": "📰 每日新詞：art and architecture"
+  },
+  {
+    "word": "medieval",
+    "pos": "adj.",
+    "root": "中世纪—medieval",
+    "zh": "中世纪的",
+    "ex": "Medieval architecture is characterized by its grand cathedrals and fortified castles.",
+    "cat": "📰 每日新詞：art and architecture"
+  },
+  {
+    "word": "curator",
+    "pos": "n.",
+    "root": "策展人—curate",
+    "zh": "策展人",
+    "ex": "The curator organized the exhibition to highlight the evolution of modern art.",
+    "cat": "📰 每日新詞：art and architecture"
+  },
+  {
+    "word": "depict",
+    "pos": "v.",
+    "root": "描绘—depict",
+    "zh": "描绘",
+    "ex": "The mural depicts a historical event that shaped the community.",
+    "cat": "📰 每日新詞：art and architecture"
   }
 ]

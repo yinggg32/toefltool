@@ -1,69 +1,117 @@
 {
   "chooseResponse": [
     {
-      "q": "What time does the meeting start?",
+      "q": "What time is the meeting?",
       "options": [
         "At 3 PM.",
-        "I don't know.",
-        "Can I join?",
-        "Where is it?"
+        "I haven't checked.",
+        "It's canceled.",
+        "In the cafeteria."
       ],
       "correctIndex": 0
     }
   ],
   "conversation": {
-    "transcript": "Student: Hi, have you seen the new study room?\nAdvisor: Yes, I checked it out yesterday. It's really nice!\nStudent: I heard it has great resources. Can we book it?\nAdvisor: Absolutely! You just need to sign up online."
+    "transcript": "Student: Hey, did you finish the reading for our literature class?\nProfessor: Yes, I did. It was quite fascinating, actually.\nStudent: Really? I found it a bit dry.\nProfessor: I can see why you might think that. What part did you find least interesting?",
+    "questions": [
+      {
+        "q": "What does the student think of the reading?",
+        "options": [
+          "It's fascinating.",
+          "It's too long.",
+          "It's dry.",
+          "It's confusing."
+        ],
+        "correctIndex": 2,
+        "explain": "學生認為這篇閱讀內容很無聊。"
+      },
+      {
+        "q": "What is the professor's opinion about the reading?",
+        "options": [
+          "It's boring.",
+          "It's fascinating.",
+          "It's too difficult.",
+          "It's irrelevant."
+        ],
+        "correctIndex": 1,
+        "explain": "教授認為這篇閱讀相當有趣。"
+      }
+    ]
   },
-  "questions": [
-    {
-      "q": "What does biodiversity include?",
-      "options": [
-        "Only animals.",
-        "Only plants.",
-        "Different species.",
-        "Only microorganisms."
-      ],
-      "correctIndex": 2,
-      "explain": "生物多樣性包括各種不同的物種。"
-    },
-    {
-      "q": "Why is biodiversity important?",
-      "options": [
-        "It reduces air pollution.",
-        "It helps with ecosystem stability.",
-        "It only benefits animals.",
-        "It increases global warming."
-      ],
-      "correctIndex": 1,
-      "explain": "生物多樣性對生態系統的穩定性非常重要。"
-    },
-    {
-      "q": "What does biodiversity provide to humans?",
-      "options": [
-        "Only food.",
-        "Cultural richness and clean air.",
-        "Only medicines.",
-        "Nothing at all."
-      ],
-      "correctIndex": 1,
-      "explain": "生物多樣性為人類提供文化的豐富性和清新的空氣。"
-    },
-    {
-      "q": "What is essential for maintaining ecological balance?",
-      "options": [
-        "Biodiversity.",
-        "Pollution.",
-        "Urbanization.",
-        "Deforestation."
-      ],
-      "correctIndex": 0,
-      "explain": "維持生態平衡的關鍵是生物多樣性。"
-    }
-  ],
   "announcement": {
-    "transcript": "Attention students: The library will be closing early today at 5 PM due to maintenance work. Please make sure to return your books before that time. We apologize for the inconvenience and thank you for your understanding."
+    "transcript": "Attention students! The library will be closing early today at 4 PM for maintenance. Please make sure to check out any materials you need before then. Thank you for your understanding.",
+    "questions": [
+      {
+        "q": "Why is the library closing early?",
+        "options": [
+          "For a book sale.",
+          "For maintenance.",
+          "For staff training.",
+          "For inventory check."
+        ],
+        "correctIndex": 1,
+        "explain": "圖書館因為維修工作而提前關閉。"
+      },
+      {
+        "q": "What time will the library close?",
+        "options": [
+          "At 5 PM.",
+          "At 4 PM.",
+          "At 3 PM.",
+          "At 6 PM."
+        ],
+        "correctIndex": 1,
+        "explain": "圖書館將在下午4點關閉。"
+      }
+    ]
   },
   "talk": {
-    "transcript": "Today, I want to talk about the importance of biodiversity. Biodiversity refers to the variety of life in the world, including different species of plants, animals, and microorganisms. It is crucial for ecosystem stability, providing us with food, clean air, and water. Additionally, biodiversity contributes to cultural richness and allows for natural processes that sustain life. Protecting biodiversity is essential as it helps maintain ecological balance and supports human well-being."
+    "transcript": "Today, we'll discuss the concept of photosynthesis, a vital process for life on Earth. Photosynthesis occurs in plants, algae, and some bacteria, where sunlight is used to convert carbon dioxide and water into glucose and oxygen. This process not only provides energy for the plants themselves but also produces oxygen, which is essential for most living organisms. The overall reaction can be summarized in a simple equation: carbon dioxide plus water, in the presence of light energy, yields glucose and oxygen. Understanding photosynthesis is crucial for fields like agriculture, environmental science, and even renewable energy.",
+    "questions": [
+      {
+        "q": "What is photosynthesis?",
+        "options": [
+          "A method of cooking.",
+          "A process of energy storage.",
+          "A vital process for life.",
+          "A type of plant disease."
+        ],
+        "correctIndex": 2,
+        "explain": "光合作用是生命的重要過程。"
+      },
+      {
+        "q": "What do plants convert during photosynthesis?",
+        "options": [
+          "Oxygen into carbon dioxide.",
+          "Water into sunlight.",
+          "Sunlight into energy.",
+          "Carbon dioxide and water into glucose."
+        ],
+        "correctIndex": 3,
+        "explain": "植物在光合作用中將二氧化碳和水轉換成葡萄糖。"
+      },
+      {
+        "q": "Why is photosynthesis important?",
+        "options": [
+          "It helps plants grow slower.",
+          "It produces oxygen for living organisms.",
+          "It prevents soil erosion.",
+          "It increases carbon dioxide levels."
+        ],
+        "correctIndex": 1,
+        "explain": "光合作用為生物提供氧氣，對生物來說非常重要。"
+      },
+      {
+        "q": "What is one application of understanding photosynthesis?",
+        "options": [
+          "It helps in cooking.",
+          "It is used in renewable energy.",
+          "It is not useful.",
+          "It improves internet speed."
+        ],
+        "correctIndex": 1,
+        "explain": "了解光合作用有助於可再生能源的開發。"
+      }
+    ]
   }
 }

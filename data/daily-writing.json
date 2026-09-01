@@ -2,129 +2,130 @@
   "buildSentences": [
     {
       "words": [
-        "students",
-        "should",
-        "submit",
-        "their",
-        "assignments",
-        "by",
         "the",
-        "deadline"
+        "scientific",
+        "approach",
+        "to",
+        "solving",
+        "this",
+        "problem",
+        "is",
+        "effective"
       ],
-      "display": "Students should submit their assignments by the deadline."
+      "display": "The scientific approach to solving this problem is effective."
+    },
+    {
+      "words": [
+        "reading",
+        "is",
+        "an",
+        "essential",
+        "skill",
+        "for",
+        "academic",
+        "success"
+      ],
+      "display": "Reading is an essential skill for academic success."
     },
     {
       "words": [
         "the",
         "research",
-        "was",
-        "conducted",
-        "over",
-        "a",
-        "period",
-        "of",
-        "two",
-        "years"
-      ],
-      "display": "The research was conducted over a period of two years."
-    },
-    {
-      "words": [
-        "attending",
-        "the",
-        "seminar",
+        "team",
         "will",
-        "help",
-        "you",
-        "gain",
-        "new",
-        "insights"
+        "present",
+        "their",
+        "findings",
+        "next",
+        "week"
       ],
-      "display": "Attending the seminar will help you gain new insights."
-    },
-    {
-      "words": [
-        "the",
-        "project",
-        "requires",
-        "a",
-        "significant",
-        "amount",
-        "of",
-        "collaboration"
-      ],
-      "display": "The project requires a significant amount of collaboration."
-    },
-    {
-      "words": [
-        "reading",
-        "the",
-        "assigned",
-        "literature",
-        "is",
-        "necessary",
-        "for",
-        "class",
-        "participation"
-      ],
-      "display": "Reading the assigned literature is necessary for class participation."
-    },
-    {
-      "words": [
-        "the",
-        "professor",
-        "emphasized",
-        "the",
-        "importance",
-        "of",
-        "critical",
-        "thinking",
-        "skills"
-      ],
-      "display": "The professor emphasized the importance of critical thinking skills."
+      "display": "The research team will present their findings next week."
     },
     {
       "words": [
         "students",
-        "are",
-        "encouraged",
-        "to",
+        "should",
         "participate",
         "in",
-        "extracurricular",
-        "activities"
+        "group",
+        "discussions",
+        "to",
+        "enhance",
+        "learning"
       ],
-      "display": "Students are encouraged to participate in extracurricular activities."
+      "display": "Students should participate in group discussions to enhance learning."
     },
     {
       "words": [
-        "please",
-        "review",
         "the",
-        "guidelines",
-        "before",
-        "submitting",
-        "your",
-        "final",
-        "paper"
+        "new",
+        "library",
+        "policy",
+        "aims",
+        "to",
+        "improve",
+        "accessibility",
+        "for",
+        "all"
       ],
-      "display": "Please review the guidelines before submitting your final paper."
+      "display": "The new library policy aims to improve accessibility for all."
+    },
+    {
+      "words": [
+        "the",
+        "university",
+        "offers",
+        "various",
+        "programs",
+        "to",
+        "support",
+        "student",
+        "wellness"
+      ],
+      "display": "The university offers various programs to support student wellness."
+    },
+    {
+      "words": [
+        "collaboration",
+        "between",
+        "departments",
+        "can",
+        "lead",
+        "to",
+        "innovative",
+        "solutions"
+      ],
+      "display": "Collaboration between departments can lead to innovative solutions."
+    },
+    {
+      "words": [
+        "understanding",
+        "cultural",
+        "diversity",
+        "is",
+        "important",
+        "in",
+        "today's",
+        "global",
+        "society"
+      ],
+      "display": "Understanding cultural diversity is important in today's global society."
     }
   ],
   "emailPrompts": [
-    "寄信給教授，請教有關期末專題報告的要求及截止日期。",
-    "寄信給宿舍辦公室，請求更換房間，因為目前的房間存在噪音問題。",
-    "寄信給圖書館，詢問如何續借圖書以及是否有罰金。",
-    "寄信給學生會，表達加入某個俱樂部的興趣，並詢問入會流程。",
-    "寄信給客服，反映最近購買的商品有瑕疵，請求退貨或換貨。",
-    "寄信給實習指導老師，感謝他們的指導，並詢問未來的實習機會。"
+    "寄信給圖書館，請求延長書籍的借閱期限。",
+    "寄信給宿舍管理辦公室，詢問關於顧客服務的問題。",
+    "寄信給社團主席，表達想加入社團的意願。",
+    "寄信給教授，請求推薦信以申請研究生。",
+    "寄信給客服，反映最近購買產品的問題。",
+    "寄信給學校行政部門，詢問註冊課程的截止日期。"
   ],
   "discussionPrompts": [
-    "教授問：「你認為科技對社會的影響是正面的還是負面的？」",
-    "教授問：「在教育中，傳統教學與在線學習的優缺點是什麼？」",
-    "教授問：「文化多樣性對於社會發展有何重要性？」",
-    "教授問：「氣候變遷的主要原因及解決方案有哪些？」",
-    "教授問：「社交媒體對於人際關係的影響如何？」",
-    "教授問：「在當今社會中，經濟不平等的原因及其後果是什麼？」"
+    "教授問：「你認為科技對教育的影響是正面還是負面？」",
+    "教授問：「氣候變化的主要原因是什麼，社會應該如何應對？」",
+    "教授問：「文化差異在國際商務中會造成哪些挑戰？」",
+    "教授問：「你認為社交媒體對人際關係的影響是什麼？」",
+    "教授問：「全球化對地方文化的影響有哪些？」",
+    "教授問：「大學教育應該如何平衡理論與實踐？」"
   ]
 }
