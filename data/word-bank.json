@@ -8014,5 +8014,53 @@
     "zh": "描绘",
     "ex": "The mural depicts a historical event that shaped the community.",
     "cat": "📰 每日新詞：art and architecture"
+  },
+  {
+    "word": "neurobiology",
+    "pos": "n.",
+    "root": "neuro-神經+biology-生物學",
+    "zh": "神經生物學",
+    "ex": "Neurobiology explores the structure and function of the nervous system.",
+    "cat": "📰 每日新詞：biology"
+  },
+  {
+    "word": "genetics",
+    "pos": "n.",
+    "root": "gen-基因+etics-學科",
+    "zh": "遺傳學",
+    "ex": "Genetics studies the heredity and variation of organisms.",
+    "cat": "📰 每日新詞：biology"
+  },
+  {
+    "word": "flora",
+    "pos": "n.",
+    "root": "flora-花卉",
+    "zh": "植物群",
+    "ex": "The flora of the region includes a diverse array of plant species.",
+    "cat": "📰 每日新詞：biology"
+  },
+  {
+    "word": "fauna",
+    "pos": "n.",
+    "root": "fauna-動物",
+    "zh": "動物群",
+    "ex": "The fauna of the rainforest is incredibly diverse and unique.",
+    "cat": "📰 每日新詞：biology"
+  },
+  {
+    "word": "physiological",
+    "pos": "adj.",
+    "root": "physio-自然+logy-學科",
+    "zh": "生理的",
+    "ex": "Physiological responses to stress can affect overall health.",
+    "cat": "📰 每日新詞：biology"
+  },
+  {
+    "word": "decomposition",
+    "pos": "n.",
+    "root": "de-下+compos-組合+ition-行為",
+    "zh": "分解",
+    "ex": "Decomposition is a vital process in nutrient cycling within ecosystems.",
+    "cat": "📰 每日新詞：biology"
   }
 ]

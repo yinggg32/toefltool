@@ -3,129 +3,126 @@
     {
       "words": [
         "the",
-        "scientific",
-        "approach",
-        "to",
-        "solving",
-        "this",
-        "problem",
-        "is",
-        "effective"
+        "students",
+        "completed",
+        "their",
+        "assignments",
+        "before",
+        "the",
+        "deadline"
       ],
-      "display": "The scientific approach to solving this problem is effective."
+      "display": "The students completed their assignments before the deadline."
     },
     {
       "words": [
-        "reading",
-        "is",
-        "an",
-        "essential",
-        "skill",
-        "for",
-        "academic",
-        "success"
+        "scientists",
+        "discovered",
+        "a",
+        "new",
+        "species",
+        "in",
+        "the",
+        "rainforest"
       ],
-      "display": "Reading is an essential skill for academic success."
+      "display": "Scientists discovered a new species in the rainforest."
     },
     {
       "words": [
         "the",
-        "research",
+        "city",
+        "plans",
+        "to",
+        "build",
+        "a",
+        "new",
+        "library"
+      ],
+      "display": "The city plans to build a new library."
+    },
+    {
+      "words": [
+        "many",
+        "people",
+        "attended",
+        "the",
+        "conference",
+        "held",
+        "last",
+        "week"
+      ],
+      "display": "Many people attended the conference held last week."
+    },
+    {
+      "words": [
+        "the",
+        "researchers",
+        "published",
+        "their",
+        "findings",
+        "in",
+        "an",
+        "academic",
+        "journal"
+      ],
+      "display": "The researchers published their findings in an academic journal."
+    },
+    {
+      "words": [
+        "the",
         "team",
         "will",
         "present",
         "their",
-        "findings",
-        "next",
-        "week"
+        "project",
+        "at",
+        "the",
+        "meeting"
       ],
-      "display": "The research team will present their findings next week."
+      "display": "The team will present their project at the meeting."
     },
     {
       "words": [
         "students",
         "should",
+        "review",
+        "the",
+        "lecture",
+        "notes",
+        "before",
+        "the",
+        "exam"
+      ],
+      "display": "Students should review the lecture notes before the exam."
+    },
+    {
+      "words": [
+        "the",
+        "professor",
+        "encouraged",
+        "students",
+        "to",
         "participate",
         "in",
-        "group",
-        "discussions",
-        "to",
-        "enhance",
-        "learning"
-      ],
-      "display": "Students should participate in group discussions to enhance learning."
-    },
-    {
-      "words": [
         "the",
-        "new",
-        "library",
-        "policy",
-        "aims",
-        "to",
-        "improve",
-        "accessibility",
-        "for",
-        "all"
+        "discussion"
       ],
-      "display": "The new library policy aims to improve accessibility for all."
-    },
-    {
-      "words": [
-        "the",
-        "university",
-        "offers",
-        "various",
-        "programs",
-        "to",
-        "support",
-        "student",
-        "wellness"
-      ],
-      "display": "The university offers various programs to support student wellness."
-    },
-    {
-      "words": [
-        "collaboration",
-        "between",
-        "departments",
-        "can",
-        "lead",
-        "to",
-        "innovative",
-        "solutions"
-      ],
-      "display": "Collaboration between departments can lead to innovative solutions."
-    },
-    {
-      "words": [
-        "understanding",
-        "cultural",
-        "diversity",
-        "is",
-        "important",
-        "in",
-        "today's",
-        "global",
-        "society"
-      ],
-      "display": "Understanding cultural diversity is important in today's global society."
+      "display": "The professor encouraged students to participate in the discussion."
     }
   ],
   "emailPrompts": [
-    "寄信給圖書館，請求延長書籍的借閱期限。",
-    "寄信給宿舍管理辦公室，詢問關於顧客服務的問題。",
-    "寄信給社團主席，表達想加入社團的意願。",
-    "寄信給教授，請求推薦信以申請研究生。",
-    "寄信給客服，反映最近購買產品的問題。",
-    "寄信給學校行政部門，詢問註冊課程的截止日期。"
+    "寄信給教授，請求延長報告截止日期的原因是健康問題。",
+    "寄信給宿舍辦公室，詢問有關宿舍房間的維修進度。",
+    "寄信給圖書館，要求查詢某本書的可用性。",
+    "寄信給社團負責人，報名參加下週的社團活動。",
+    "寄信給客戶服務，反映最近的購物體驗和建議。",
+    "寄信給學校輔導員，請求有關學術輔導的建議。"
   ],
   "discussionPrompts": [
-    "教授問：「你認為科技對教育的影響是正面還是負面？」",
-    "教授問：「氣候變化的主要原因是什麼，社會應該如何應對？」",
-    "教授問：「文化差異在國際商務中會造成哪些挑戰？」",
-    "教授問：「你認為社交媒體對人際關係的影響是什麼？」",
-    "教授問：「全球化對地方文化的影響有哪些？」",
-    "教授問：「大學教育應該如何平衡理論與實踐？」"
+    "教授問：「你認為科技對於人類社會的影響是正面還是負面？」",
+    "教授問：「應該如何平衡經濟發展與環境保護？」",
+    "教授問：「教育體系應該如何改革以適應未來的需求？」",
+    "教授問：「全球化對於本地文化的影響是什麼？」",
+    "教授問：「社交媒體對於人際關係的影響如何？」",
+    "教授問：「藝術在現代社會中的角色是什麼？」"
   ]
 }

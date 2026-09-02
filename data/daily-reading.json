@@ -2,101 +2,95 @@
   "cloze": {
     "segments": [
       {
-        "text": "The process of photosynthesis is fundamental to life on Earth. It occurs in the chloroplasts of plant cells, where carbon dioxide and water are converted into glucose and oxygen. This process begins when light energy is absorbed by chlorophyll, the green pigment in plants. The light energy is then used to split water molecules, which releases oxygen as a byproduct. The remaining components are used to fix carbon dioxide into glucose through a series of chemical reactions known as the Calvin cycle. Without photosynthesis, life as we know it would not be possible."
+        "text": "The process of photosynthesis is essential for plant life, converting sunlight into energy. It primarily occurs in the leaves where chlorophyll absorbs light. This process begins with water (H2O) being absorbed from the soil and carbon dioxide (CO2) from the air. The absorbed light energy is used to split the water molecules into hydrogen and oxygen. The oxygen is released as a byproduct, while the hydrogen combines with carbon dioxide to form glucose. This glucose serves as an energy source for the plant and is crucial for growth. Additionally, photosynthesis plays a significant role in producing the oxygen that all aerobic organisms require for sur"
       },
       {
-        "blank": "sis"
+        "blank": "vival"
       },
       {
-        "text": "This process is essential for all living organisms, as it provides the oxygen we breathe and the food we consume. In addition, photosynthesis plays a crucial role in regulating atmospheric carbon dioxide levels. Through this mechanism, plants help to mitigate climate change by absorbing CO2 from the atmosphere. Understanding the intricacies of photosynthesis can lead to advancements in agricultural practices, biofuel production, and environmental conservation."
+        "text": ". Understanding photosynthesis is important for various fields, including agriculture, where enhancing this process can lead to better crop yields. Research continues into optimizing conditions for photosynthesis, such as light intensity and nutrient availability. By improving our understanding, we can address food security concerns in a world with a growing population. The implications of these advancements extend beyond immediate agricultural benefits to broader environmental impacts, such as reducing CO2 levels in the atm"
       },
       {
-        "blank": "pro"
+        "blank": "osphere"
       },
       {
-        "text": "Research in this field often focuses on enhancing the efficiency of photosynthesis to optimize plant growth and yield. Scientists are exploring genetic modifications and environmental adjustments that can improve photosynthetic rates. Such innovations are vital in addressing global challenges like food security and climate resilience."
-      },
-      {
-        "blank": "effi"
-      },
-      {
-        "text": "By harnessing the power of photosynthesis, we can ensure a sustainable future for generations to come."
+        "text": ". Ultimately, photosynthesis is not just a biological process; it is a vital component of Earth's ecosystems, supporting life and influencing atmospheric conditions."
       }
     ]
   },
   "academic": {
-    "passage": "Photosynthesis is the process by which green plants, algae, and some bacteria convert light energy into chemical energy in the form of glucose. This process is essential because it not only provides food for the plants themselves but also generates oxygen, a vital component for the survival of most living organisms. During photosynthesis, plants absorb carbon dioxide from the air and water from the soil, using sunlight as energy to transform these substances into glucose and oxygen. The glucose can be utilized for energy or stored for later use, while the oxygen is released back into the atmosphere.",
+    "passage": "Photosynthesis is the process by which green plants use sunlight to synthesize foods from carbon dioxide and water. This process is crucial for the survival of plants and directly impacts the ecosystem by releasing oxygen into the atmosphere. By converting light energy into chemical energy, photosynthesis provides the foundation for life on Earth, supporting food chains and influencing climate patterns.",
     "questions": [
       {
-        "q": "What is the main purpose of photosynthesis?",
+        "q": "What is the main idea of the passage?",
         "options": [
-          "To produce glucose and oxygen",
-          "To absorb carbon dioxide",
-          "To store energy",
-          "To regulate temperature"
+          "Photosynthesis is vital for life on Earth.",
+          "Plants require soil nutrients for growth.",
+          "Oxygen is a byproduct of photosynthesis.",
+          "Climate patterns are affected by photosynthesis."
         ],
         "correctIndex": 0,
-        "explain": "光合作用的主要目的是生產葡萄糖和氧氣，這是所有生物生存的基礎。"
+        "explain": "這篇文章的主要思想是光合作用對地球生命的重要性。"
       },
       {
-        "q": "What do plants absorb during photosynthesis?",
+        "q": "Which gas is released during photosynthesis?",
         "options": [
-          "Carbon dioxide and sunlight",
-          "Oxygen and water",
-          "Glucose and carbon dioxide",
-          "Nitrogen and sunlight"
+          "Oxygen",
+          "Nitrogen",
+          "Hydrogen",
+          "Carbon Dioxide"
         ],
         "correctIndex": 0,
-        "explain": "植物在光合作用中吸收二氧化碳和陽光，這是進行光合作用的必要條件。"
+        "explain": "文章提到光合作用過程中釋放出氧氣。"
       },
       {
-        "q": "What can be inferred about the importance of photosynthesis?",
+        "q": "What can be inferred about the relationship between photosynthesis and food security?",
         "options": [
-          "It is important only for plants",
-          "It helps sustain life on Earth",
-          "It has no impact on climate change",
-          "It is a process used only by bacteria"
+          "Photosynthesis decreases food security.",
+          "Improving photosynthesis can enhance crop yields.",
+          "Photosynthesis has no effect on food supply.",
+          "Food security is unrelated to environmental factors."
         ],
         "correctIndex": 1,
-        "explain": "光合作用對地球上的生命至關重要，因為它提供氧氣並支持食物鏈。"
+        "explain": "提高光合作用效率可以增加作物產量，這與糧食安全有關。"
       },
       {
-        "q": "What is the role of chlorophyll in photosynthesis?",
+        "q": "What does the term 'synthesize' most closely mean in this context?",
         "options": [
-          "It absorbs light energy",
-          "It produces glucose",
-          "It releases oxygen",
-          "It stores carbon dioxide"
+          "To break down",
+          "To combine",
+          "To consume",
+          "To eliminate"
         ],
-        "correctIndex": 0,
-        "explain": "葉綠素的角色是吸收光能，這是光合作用的第一步。"
+        "correctIndex": 1,
+        "explain": "在這個上下文中，'synthesize'的意思是將不同的元素結合在一起。"
       }
     ]
   },
   "daily": {
-    "passage": "Attention students: The campus library will be closed for maintenance this weekend. Please make sure to return any borrowed materials before Saturday. We apologize for the inconvenience and appreciate your understanding.",
+    "passage": "Attention students! There will be a campus-wide clean-up event this Saturday at 10 AM. Everyone is encouraged to participate. Bring your friends and help make our campus cleaner and greener. Supplies will be provided.",
     "questions": [
       {
-        "q": "When will the library be closed?",
+        "q": "When is the campus clean-up event scheduled?",
         "options": [
-          "This weekend",
-          "Next weekend",
-          "On Friday",
-          "On Monday"
+          "This Saturday",
+          "Next Saturday",
+          "Tomorrow",
+          "Today"
         ],
         "correctIndex": 0,
-        "explain": "圖書館將在這個周末關閉，這是公告中提到的。"
+        "explain": "公告中提到清理活動是在本周六舉行。"
       },
       {
-        "q": "What should students do before Saturday?",
+        "q": "What will be provided at the clean-up event?",
         "options": [
-          "Pay library fees",
-          "Return borrowed materials",
-          "Attend a workshop",
-          "Reserve study rooms"
+          "Food and drinks",
+          "Cleaning supplies",
+          "Free T-shirts",
+          "Guided tours"
         ],
         "correctIndex": 1,
-        "explain": "學生們需要在星期六之前歸還借出的圖書館資料。"
+        "explain": "公告中提到將提供清潔用品。"
       }
     ]
   }

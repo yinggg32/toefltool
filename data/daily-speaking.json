@@ -1,45 +1,45 @@
 {
   "shadowSentences": [
     "I enjoy reading books in my free time.",
-    "My favorite season is autumn because of the colors.",
-    "I often go for a walk in the park nearby.",
-    "Cooking new recipes is a fun way to spend weekends.",
-    "I like to listen to music while studying for exams.",
-    "Traveling to new places helps me learn about different cultures.",
-    "Playing sports is a great way to stay fit and healthy.",
-    "I usually watch documentaries to learn more about history.",
-    "Hiking in the mountains offers a refreshing escape from the city.",
-    "Volunteering at local shelters gives me a sense of purpose and community."
+    "She always drinks coffee in the morning.",
+    "They play soccer every weekend at the park.",
+    "We visited the museum last Saturday with friends.",
+    "He often listens to music while studying for exams.",
+    "My brother prefers to cook dinner instead of ordering takeout.",
+    "I like to take walks in the evening to relax.",
+    "She usually travels to different countries during summer vacations.",
+    "They participate in various community service activities throughout the year.",
+    "We often discuss our favorite movies and TV shows over dinner."
   ],
   "interviewScenarios": [
     {
-      "topic": "旅行計劃",
+      "topic": "烹飪習慣",
+      "intro": "You have agreed to take part in a research study about cooking habits.",
+      "questions": [
+        "Q1: Can you describe your cooking experience at home?",
+        "Q2: What are some challenges you face while cooking?",
+        "Q3: How important is cooking to you in your daily life?",
+        "Q4: What tips would you give someone who wants to improve their cooking skills?"
+      ]
+    },
+    {
+      "topic": "旅行計畫",
       "intro": "You have agreed to take part in a research study about travel planning.",
       "questions": [
-        "Q1: Can you describe a recent trip you took and how you planned it?",
-        "Q2: What challenges did you face while organizing that trip?",
-        "Q3: How important do you think it is to plan trips in detail?",
-        "Q4: What advice would you give someone planning their first trip abroad?"
+        "Q1: What is your favorite travel experience, and why?",
+        "Q2: What difficulties do you encounter when planning a trip?",
+        "Q3: In your opinion, what makes a trip enjoyable?",
+        "Q4: What advice would you offer to someone planning their first trip?"
       ]
     },
     {
-      "topic": "健康飲食",
-      "intro": "You have agreed to take part in a research study about healthy eating habits.",
+      "topic": "環保意識",
+      "intro": "You have agreed to take part in a research study about environmental awareness.",
       "questions": [
-        "Q1: What does a typical meal look like for you during the week?",
-        "Q2: Have you ever struggled to maintain a healthy diet? If so, how?",
-        "Q3: In your opinion, what are the benefits of eating healthy?",
-        "Q4: What tips would you offer someone trying to eat healthier?"
-      ]
-    },
-    {
-      "topic": "寵物照顧",
-      "intro": "You have agreed to take part in a research study about pet care.",
-      "questions": [
-        "Q1: Do you have any pets? If so, how do you take care of them?",
-        "Q2: What are some common challenges pet owners face?",
-        "Q3: How do you feel about adopting pets from shelters?",
-        "Q4: What advice would you give to someone considering getting a pet?"
+        "Q1: Can you share a time when you made an effort to help the environment?",
+        "Q2: What environmental issues concern you the most?",
+        "Q3: How do you think individuals can make a difference in protecting the planet?",
+        "Q4: What actions would you recommend to others to become more environmentally conscious?"
       ]
     }
   ]

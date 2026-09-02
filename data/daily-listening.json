@@ -1,116 +1,116 @@
 {
   "chooseResponse": [
     {
-      "q": "What time is the meeting?",
+      "q": "What did you think of the lecture?",
       "options": [
-        "At 3 PM.",
-        "I haven't checked.",
-        "It's canceled.",
-        "In the cafeteria."
+        "It was really interesting!",
+        "I didn't understand it.",
+        "It was too long.",
+        "I want to learn more."
       ],
       "correctIndex": 0
     }
   ],
   "conversation": {
-    "transcript": "Student: Hey, did you finish the reading for our literature class?\nProfessor: Yes, I did. It was quite fascinating, actually.\nStudent: Really? I found it a bit dry.\nProfessor: I can see why you might think that. What part did you find least interesting?",
+    "transcript": "Student: Hey, have you decided on your elective courses for next semester?\nAdvisor: Not yet! I'm still looking at my options. What about you?\nStudent: I think I'm going to take Creative Writing and Environmental Science.\nAdvisor: Those sound like great choices! Are you interested in writing or environmental issues?",
     "questions": [
       {
-        "q": "What does the student think of the reading?",
+        "q": "What elective courses is the student considering?",
         "options": [
-          "It's fascinating.",
-          "It's too long.",
-          "It's dry.",
-          "It's confusing."
-        ],
-        "correctIndex": 2,
-        "explain": "學生認為這篇閱讀內容很無聊。"
-      },
-      {
-        "q": "What is the professor's opinion about the reading?",
-        "options": [
-          "It's boring.",
-          "It's fascinating.",
-          "It's too difficult.",
-          "It's irrelevant."
+          "Creative Writing and History",
+          "Creative Writing and Environmental Science",
+          "Environmental Science and Art",
+          "History and Art"
         ],
         "correctIndex": 1,
-        "explain": "教授認為這篇閱讀相當有趣。"
+        "explain": "學生考慮的選修課程是創意寫作和環境科學。"
+      },
+      {
+        "q": "What is the advisor's reaction to the student's choices?",
+        "options": [
+          "They are not good choices.",
+          "They sound like great choices!",
+          "They are too difficult.",
+          "They should consider more options."
+        ],
+        "correctIndex": 1,
+        "explain": "顧問對學生的選擇表示這些課程聽起來很棒！"
       }
     ]
   },
   "announcement": {
-    "transcript": "Attention students! The library will be closing early today at 4 PM for maintenance. Please make sure to check out any materials you need before then. Thank you for your understanding.",
+    "transcript": "Attention students! The library will be hosting a book fair this Friday from 10 AM to 4 PM. Come check out a variety of genres and enjoy special discounts on selected titles. Don't miss this opportunity to discover new books and enjoy refreshments!",
     "questions": [
       {
-        "q": "Why is the library closing early?",
+        "q": "When is the book fair taking place?",
         "options": [
-          "For a book sale.",
-          "For maintenance.",
-          "For staff training.",
-          "For inventory check."
+          "This Saturday",
+          "This Friday",
+          "Next Friday",
+          "Next Saturday"
         ],
         "correctIndex": 1,
-        "explain": "圖書館因為維修工作而提前關閉。"
+        "explain": "書展將於本週五舉行。"
       },
       {
-        "q": "What time will the library close?",
+        "q": "What will be available at the book fair?",
         "options": [
-          "At 5 PM.",
-          "At 4 PM.",
-          "At 3 PM.",
-          "At 6 PM."
+          "Only textbooks",
+          "A variety of genres",
+          "Just fiction books",
+          "Online resources only"
         ],
         "correctIndex": 1,
-        "explain": "圖書館將在下午4點關閉。"
+        "explain": "書展將提供各種類型的書籍。"
       }
     ]
   },
   "talk": {
-    "transcript": "Today, we'll discuss the concept of photosynthesis, a vital process for life on Earth. Photosynthesis occurs in plants, algae, and some bacteria, where sunlight is used to convert carbon dioxide and water into glucose and oxygen. This process not only provides energy for the plants themselves but also produces oxygen, which is essential for most living organisms. The overall reaction can be summarized in a simple equation: carbon dioxide plus water, in the presence of light energy, yields glucose and oxygen. Understanding photosynthesis is crucial for fields like agriculture, environmental science, and even renewable energy.",
+    "transcript": "Today, we're going to discuss the concept of renewable energy. Renewable energy is derived from natural processes that are continuously replenished, such as sunlight, wind, and water. Unlike fossil fuels, which can deplete over time, renewable resources are sustainable. These energy sources can help reduce greenhouse gas emissions and combat climate change. For instance, solar panels harness the sun's energy, while wind turbines convert wind energy into electricity. As technology advances, the efficiency and accessibility of these renewable energy sources improve, making them a vital part of our future energy strategy.",
     "questions": [
       {
-        "q": "What is photosynthesis?",
+        "q": "What is renewable energy derived from?",
         "options": [
-          "A method of cooking.",
-          "A process of energy storage.",
-          "A vital process for life.",
-          "A type of plant disease."
+          "Fossil fuels",
+          "Natural processes",
+          "Coal mining",
+          "Nuclear reactions"
+        ],
+        "correctIndex": 1,
+        "explain": "可再生能源來自自然過程。"
+      },
+      {
+        "q": "How do solar panels generate energy?",
+        "options": [
+          "By using wind",
+          "By harnessing sunlight",
+          "Through fossil fuels",
+          "By burning coal"
+        ],
+        "correctIndex": 1,
+        "explain": "太陽能電池板通過利用陽光來產生能量。"
+      },
+      {
+        "q": "What is one benefit of renewable energy?",
+        "options": [
+          "It depletes quickly",
+          "It increases carbon emissions",
+          "It reduces greenhouse gas emissions",
+          "It relies on limited resources"
         ],
         "correctIndex": 2,
-        "explain": "光合作用是生命的重要過程。"
+        "explain": "可再生能源的好處之一是能夠減少溫室氣體排放。"
       },
       {
-        "q": "What do plants convert during photosynthesis?",
+        "q": "What is the future of renewable energy according to the talk?",
         "options": [
-          "Oxygen into carbon dioxide.",
-          "Water into sunlight.",
-          "Sunlight into energy.",
-          "Carbon dioxide and water into glucose."
-        ],
-        "correctIndex": 3,
-        "explain": "植物在光合作用中將二氧化碳和水轉換成葡萄糖。"
-      },
-      {
-        "q": "Why is photosynthesis important?",
-        "options": [
-          "It helps plants grow slower.",
-          "It produces oxygen for living organisms.",
-          "It prevents soil erosion.",
-          "It increases carbon dioxide levels."
+          "It will become less important",
+          "It will become more efficient",
+          "It will be replaced by fossil fuels",
+          "It will be less accessible"
         ],
         "correctIndex": 1,
-        "explain": "光合作用為生物提供氧氣，對生物來說非常重要。"
-      },
-      {
-        "q": "What is one application of understanding photosynthesis?",
-        "options": [
-          "It helps in cooking.",
-          "It is used in renewable energy.",
-          "It is not useful.",
-          "It improves internet speed."
-        ],
-        "correctIndex": 1,
-        "explain": "了解光合作用有助於可再生能源的開發。"
+        "explain": "根據講座，可再生能源的未來將變得更加高效。"
       }
     ]
   }
