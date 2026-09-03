@@ -1,116 +1,116 @@
 {
   "chooseResponse": [
     {
-      "q": "What did you think of the lecture?",
+      "q": "What time is the meeting?",
       "options": [
-        "It was really interesting!",
-        "I didn't understand it.",
-        "It was too long.",
-        "I want to learn more."
+        "At 2 PM",
+        "In the library",
+        "Tomorrow morning",
+        "I forgot"
       ],
       "correctIndex": 0
     }
   ],
   "conversation": {
-    "transcript": "Student: Hey, have you decided on your elective courses for next semester?\nAdvisor: Not yet! I'm still looking at my options. What about you?\nStudent: I think I'm going to take Creative Writing and Environmental Science.\nAdvisor: Those sound like great choices! Are you interested in writing or environmental issues?",
+    "transcript": "Student: Hey, do you know where the student council meeting is?\nAdvisor: Yes, it's in the main hall. Do you have the time?\nStudent: I think it starts at 2 PM. Is that right?\nAdvisor: Yes, that's correct. You should get there a bit early.",
     "questions": [
       {
-        "q": "What elective courses is the student considering?",
+        "q": "Where is the meeting held?",
         "options": [
-          "Creative Writing and History",
-          "Creative Writing and Environmental Science",
-          "Environmental Science and Art",
-          "History and Art"
+          "In the library",
+          "In the cafeteria",
+          "In the main hall",
+          "Outside"
         ],
-        "correctIndex": 1,
-        "explain": "學生考慮的選修課程是創意寫作和環境科學。"
+        "correctIndex": 2,
+        "explain": "會議在主廳舉行。"
       },
       {
-        "q": "What is the advisor's reaction to the student's choices?",
+        "q": "What time is the meeting scheduled to start?",
         "options": [
-          "They are not good choices.",
-          "They sound like great choices!",
-          "They are too difficult.",
-          "They should consider more options."
+          "1 PM",
+          "2 PM",
+          "3 PM",
+          "4 PM"
         ],
         "correctIndex": 1,
-        "explain": "顧問對學生的選擇表示這些課程聽起來很棒！"
+        "explain": "會議預定在下午2點開始。"
       }
     ]
   },
   "announcement": {
-    "transcript": "Attention students! The library will be hosting a book fair this Friday from 10 AM to 4 PM. Come check out a variety of genres and enjoy special discounts on selected titles. Don't miss this opportunity to discover new books and enjoy refreshments!",
+    "transcript": "Attention, students! The campus will be hosting a cultural festival this Saturday from 10 AM to 5 PM. There will be food, performances, and art exhibits highlighting various cultures. Don't miss the opportunity to explore and enjoy the festivities!",
     "questions": [
       {
-        "q": "When is the book fair taking place?",
+        "q": "What is happening this Saturday?",
         "options": [
-          "This Saturday",
-          "This Friday",
-          "Next Friday",
-          "Next Saturday"
+          "A student council meeting",
+          "A cultural festival",
+          "A sports event",
+          "A concert"
         ],
         "correctIndex": 1,
-        "explain": "書展將於本週五舉行。"
+        "explain": "這個星期六將舉行文化節。"
       },
       {
-        "q": "What will be available at the book fair?",
+        "q": "What time does the festival start?",
         "options": [
-          "Only textbooks",
-          "A variety of genres",
-          "Just fiction books",
-          "Online resources only"
+          "9 AM",
+          "10 AM",
+          "11 AM",
+          "12 PM"
         ],
         "correctIndex": 1,
-        "explain": "書展將提供各種類型的書籍。"
+        "explain": "文化節將於上午10點開始。"
       }
     ]
   },
   "talk": {
-    "transcript": "Today, we're going to discuss the concept of renewable energy. Renewable energy is derived from natural processes that are continuously replenished, such as sunlight, wind, and water. Unlike fossil fuels, which can deplete over time, renewable resources are sustainable. These energy sources can help reduce greenhouse gas emissions and combat climate change. For instance, solar panels harness the sun's energy, while wind turbines convert wind energy into electricity. As technology advances, the efficiency and accessibility of these renewable energy sources improve, making them a vital part of our future energy strategy.",
+    "transcript": "Today, I want to discuss the concept of biodiversity. Biodiversity refers to the variety of life found in a particular habitat or ecosystem. It includes the diversity of species, genetic diversity, and the variety of ecosystems. Biodiversity is essential for ecosystem health, providing resilience against environmental changes. A diverse ecosystem can better withstand diseases and adapt to climate change. Moreover, biodiversity also plays a vital role in human life, offering resources such as food, medicine, and clean air. Protecting biodiversity is crucial for maintaining the balance of our planet.",
     "questions": [
       {
-        "q": "What is renewable energy derived from?",
+        "q": "What does biodiversity refer to?",
         "options": [
-          "Fossil fuels",
-          "Natural processes",
-          "Coal mining",
-          "Nuclear reactions"
+          "The number of ecosystems",
+          "The variety of life",
+          "The amount of water",
+          "The type of soil"
         ],
         "correctIndex": 1,
-        "explain": "可再生能源來自自然過程。"
+        "explain": "生物多樣性是指生活的多樣性。"
       },
       {
-        "q": "How do solar panels generate energy?",
+        "q": "Why is biodiversity important for ecosystems?",
         "options": [
-          "By using wind",
-          "By harnessing sunlight",
-          "Through fossil fuels",
-          "By burning coal"
-        ],
-        "correctIndex": 1,
-        "explain": "太陽能電池板通過利用陽光來產生能量。"
-      },
-      {
-        "q": "What is one benefit of renewable energy?",
-        "options": [
-          "It depletes quickly",
-          "It increases carbon emissions",
-          "It reduces greenhouse gas emissions",
-          "It relies on limited resources"
+          "It makes them more beautiful",
+          "It helps them attract tourists",
+          "It provides resilience against changes",
+          "It reduces pollution"
         ],
         "correctIndex": 2,
-        "explain": "可再生能源的好處之一是能夠減少溫室氣體排放。"
+        "explain": "生物多樣性有助於生態系統抵禦環境變化。"
       },
       {
-        "q": "What is the future of renewable energy according to the talk?",
+        "q": "What resources does biodiversity offer to humans?",
         "options": [
-          "It will become less important",
-          "It will become more efficient",
-          "It will be replaced by fossil fuels",
-          "It will be less accessible"
+          "Books and knowledge",
+          "Food and medicine",
+          "Technology and machinery",
+          "Entertainment and art"
         ],
         "correctIndex": 1,
-        "explain": "根據講座，可再生能源的未來將變得更加高效。"
+        "explain": "生物多樣性為人類提供食物和藥物等資源。"
+      },
+      {
+        "q": "What is crucial for maintaining the balance of our planet?",
+        "options": [
+          "Planting more trees",
+          "Protecting biodiversity",
+          "Building more cities",
+          "Using less water"
+        ],
+        "correctIndex": 1,
+        "explain": "保護生物多樣性對維持地球的平衡至關重要。"
       }
     ]
   }

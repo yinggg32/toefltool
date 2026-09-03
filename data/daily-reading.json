@@ -2,95 +2,107 @@
   "cloze": {
     "segments": [
       {
-        "text": "The process of photosynthesis is essential for plant life, converting sunlight into energy. It primarily occurs in the leaves where chlorophyll absorbs light. This process begins with water (H2O) being absorbed from the soil and carbon dioxide (CO2) from the air. The absorbed light energy is used to split the water molecules into hydrogen and oxygen. The oxygen is released as a byproduct, while the hydrogen combines with carbon dioxide to form glucose. This glucose serves as an energy source for the plant and is crucial for growth. Additionally, photosynthesis plays a significant role in producing the oxygen that all aerobic organisms require for sur"
+        "text": "The phenomenon of photosynthesis is fundamental to life on Earth. It occurs in plants, algae, and some bacteria, which convert light energy into chemical energy. This process involves the absorption of carbon dioxide and water to produce glucose and "
       },
       {
-        "blank": "vival"
+        "blank": "oxyg"
       },
       {
-        "text": ". Understanding photosynthesis is important for various fields, including agriculture, where enhancing this process can lead to better crop yields. Research continues into optimizing conditions for photosynthesis, such as light intensity and nutrient availability. By improving our understanding, we can address food security concerns in a world with a growing population. The implications of these advancements extend beyond immediate agricultural benefits to broader environmental impacts, such as reducing CO2 levels in the atm"
+        "text": ". Photosynthesis takes place in the chloroplasts, where chlorophyll captures sunlight. Through a series of reactions, light energy is transformed into "
       },
       {
-        "blank": "osphere"
+        "blank": "chemical"
       },
       {
-        "text": ". Ultimately, photosynthesis is not just a biological process; it is a vital component of Earth's ecosystems, supporting life and influencing atmospheric conditions."
+        "text": " energy stored in glucose molecules. This energy ultimately supports the growth of plants and serves as a primary food source for "
+      },
+      {
+        "blank": "herbiv"
+      },
+      {
+        "text": "ores. Furthermore, the oxygen released during photosynthesis is essential for the survival of most living organisms, including humans. Thus, understanding this process is crucial for addressing issues such as "
+      },
+      {
+        "blank": "clim"
+      },
+      {
+        "text": "ate change and food security."
       }
     ]
   },
   "academic": {
-    "passage": "Photosynthesis is the process by which green plants use sunlight to synthesize foods from carbon dioxide and water. This process is crucial for the survival of plants and directly impacts the ecosystem by releasing oxygen into the atmosphere. By converting light energy into chemical energy, photosynthesis provides the foundation for life on Earth, supporting food chains and influencing climate patterns.",
+    "passage": "Photosynthesis is the process by which green plants, algae, and some bacteria convert light energy into chemical energy. This transformation occurs mainly in chloroplasts, where chlorophyll facilitates the absorption of sunlight. The process not only produces glucose, which is vital for plant growth, but also releases oxygen, a critical element for most life forms. Understanding photosynthesis is imperative for addressing global challenges such as climate change and food scarcity.",
     "questions": [
       {
-        "q": "What is the main idea of the passage?",
+        "q": "What is the main purpose of photosynthesis according to the passage?",
         "options": [
-          "Photosynthesis is vital for life on Earth.",
-          "Plants require soil nutrients for growth.",
-          "Oxygen is a byproduct of photosynthesis.",
-          "Climate patterns are affected by photosynthesis."
+          "To convert light energy into chemical energy",
+          "To absorb carbon dioxide from the atmosphere",
+          "To release oxygen into the environment",
+          "To grow plants faster"
         ],
         "correctIndex": 0,
-        "explain": "這篇文章的主要思想是光合作用對地球生命的重要性。"
+        "explain": "這篇文章指出光合作用的主要目的是將光能轉換為化學能。"
       },
       {
-        "q": "Which gas is released during photosynthesis?",
+        "q": "In which part of the plant does photosynthesis primarily occur?",
         "options": [
-          "Oxygen",
-          "Nitrogen",
-          "Hydrogen",
-          "Carbon Dioxide"
+          "Roots",
+          "Flowers",
+          "Chloroplasts",
+          "Stems"
         ],
-        "correctIndex": 0,
-        "explain": "文章提到光合作用過程中釋放出氧氣。"
+        "correctIndex": 2,
+        "explain": "文章中提到光合作用主要發生在葉綠體中。"
       },
       {
         "q": "What can be inferred about the relationship between photosynthesis and food security?",
         "options": [
-          "Photosynthesis decreases food security.",
-          "Improving photosynthesis can enhance crop yields.",
-          "Photosynthesis has no effect on food supply.",
-          "Food security is unrelated to environmental factors."
+          "Photosynthesis has no impact on food supply",
+          "Increased photosynthesis may enhance food production",
+          "Photosynthesis decreases the need for water",
+          "Food security depends solely on human agriculture"
         ],
         "correctIndex": 1,
-        "explain": "提高光合作用效率可以增加作物產量，這與糧食安全有關。"
+        "explain": "文章指出光合作用和食物安全之間的關係，增加光合作用可能提高食物生產。"
       },
       {
-        "q": "What does the term 'synthesize' most closely mean in this context?",
+        "q": "What does the term 'chlorophyll' refer to in the context of the passage?",
         "options": [
-          "To break down",
-          "To combine",
-          "To consume",
-          "To eliminate"
+          "A type of bacteria",
+          "A chemical compound involved in energy conversion",
+          "A plant nutrient",
+          "A process of water absorption"
         ],
         "correctIndex": 1,
-        "explain": "在這個上下文中，'synthesize'的意思是將不同的元素結合在一起。"
+        "explain": "在這篇文章中，葉綠素是指參與能量轉換的化學化合物。"
       }
     ]
   },
   "daily": {
-    "passage": "Attention students! There will be a campus-wide clean-up event this Saturday at 10 AM. Everyone is encouraged to participate. Bring your friends and help make our campus cleaner and greener. Supplies will be provided.",
+    "passage": "Attention all students: The library will be closed for maintenance on Friday from 8 AM to 5 PM. Please plan your studying accordingly and make sure to return any borrowed materials before that date.",
     "questions": [
       {
-        "q": "When is the campus clean-up event scheduled?",
+        "q": "When will the library be closed for maintenance?",
         "options": [
-          "This Saturday",
-          "Next Saturday",
-          "Tomorrow",
-          "Today"
-        ],
-        "correctIndex": 0,
-        "explain": "公告中提到清理活動是在本周六舉行。"
-      },
-      {
-        "q": "What will be provided at the clean-up event?",
-        "options": [
-          "Food and drinks",
-          "Cleaning supplies",
-          "Free T-shirts",
-          "Guided tours"
+          "Thursday",
+          "Friday",
+          "Saturday",
+          "Sunday"
         ],
         "correctIndex": 1,
-        "explain": "公告中提到將提供清潔用品。"
+        "explain": "公告中提到圖書館將在星期五關閉進行維護。"
+      },
+      {
+        "q": "What should students do before the library closes?",
+        "options": [
+          "Borrow more materials",
+          "Return borrowed materials",
+          "Avoid using the library",
+          "Use online resources"
+        ],
+        "correctIndex": 1,
+        "explain": "公告建議學生在圖書館關閉前歸還借用的材料。"
       }
     ]
   }

@@ -3,126 +3,125 @@
     {
       "words": [
         "the",
-        "students",
-        "completed",
-        "their",
-        "assignments",
-        "before",
+        "quick",
+        "brown",
+        "fox",
+        "jumps",
+        "over",
         "the",
-        "deadline"
+        "lazy",
+        "dog"
       ],
-      "display": "The students completed their assignments before the deadline."
-    },
-    {
-      "words": [
-        "scientists",
-        "discovered",
-        "a",
-        "new",
-        "species",
-        "in",
-        "the",
-        "rainforest"
-      ],
-      "display": "Scientists discovered a new species in the rainforest."
-    },
-    {
-      "words": [
-        "the",
-        "city",
-        "plans",
-        "to",
-        "build",
-        "a",
-        "new",
-        "library"
-      ],
-      "display": "The city plans to build a new library."
-    },
-    {
-      "words": [
-        "many",
-        "people",
-        "attended",
-        "the",
-        "conference",
-        "held",
-        "last",
-        "week"
-      ],
-      "display": "Many people attended the conference held last week."
-    },
-    {
-      "words": [
-        "the",
-        "researchers",
-        "published",
-        "their",
-        "findings",
-        "in",
-        "an",
-        "academic",
-        "journal"
-      ],
-      "display": "The researchers published their findings in an academic journal."
-    },
-    {
-      "words": [
-        "the",
-        "team",
-        "will",
-        "present",
-        "their",
-        "project",
-        "at",
-        "the",
-        "meeting"
-      ],
-      "display": "The team will present their project at the meeting."
+      "display": "The quick brown fox jumps over the lazy dog."
     },
     {
       "words": [
         "students",
         "should",
-        "review",
-        "the",
-        "lecture",
-        "notes",
-        "before",
-        "the",
-        "exam"
+        "always",
+        "complete",
+        "their",
+        "assignments",
+        "on",
+        "time"
       ],
-      "display": "Students should review the lecture notes before the exam."
+      "display": "Students should always complete their assignments on time."
     },
     {
       "words": [
         "the",
-        "professor",
-        "encouraged",
-        "students",
-        "to",
-        "participate",
-        "in",
-        "the",
-        "discussion"
+        "scientific",
+        "method",
+        "is",
+        "essential",
+        "for",
+        "conducting",
+        "research"
       ],
-      "display": "The professor encouraged students to participate in the discussion."
+      "display": "The scientific method is essential for conducting research."
+    },
+    {
+      "words": [
+        "reading",
+        "books",
+        "can",
+        "greatly",
+        "enhance",
+        "your",
+        "vocabulary",
+        "skills"
+      ],
+      "display": "Reading books can greatly enhance your vocabulary skills."
+    },
+    {
+      "words": [
+        "the",
+        "university",
+        "offers",
+        "many",
+        "resources",
+        "to",
+        "support",
+        "students"
+      ],
+      "display": "The university offers many resources to support students."
+    },
+    {
+      "words": [
+        "it",
+        "is",
+        "important",
+        "to",
+        "maintain",
+        "a",
+        "healthy",
+        "work-life",
+        "balance"
+      ],
+      "display": "It is important to maintain a healthy work-life balance."
+    },
+    {
+      "words": [
+        "global",
+        "warming",
+        "is",
+        "a",
+        "serious",
+        "issue",
+        "that",
+        "affects",
+        "everyone"
+      ],
+      "display": "Global warming is a serious issue that affects everyone."
+    },
+    {
+      "words": [
+        "participating",
+        "in",
+        "extracurricular",
+        "activities",
+        "can",
+        "improve",
+        "social",
+        "skills"
+      ],
+      "display": "Participating in extracurricular activities can improve social skills."
     }
   ],
   "emailPrompts": [
-    "寄信給教授，請求延長報告截止日期的原因是健康問題。",
-    "寄信給宿舍辦公室，詢問有關宿舍房間的維修進度。",
-    "寄信給圖書館，要求查詢某本書的可用性。",
-    "寄信給社團負責人，報名參加下週的社團活動。",
-    "寄信給客戶服務，反映最近的購物體驗和建議。",
-    "寄信給學校輔導員，請求有關學術輔導的建議。"
+    "寄信給教授，請假因為家中有事，並詢問課堂內容。",
+    "寫信給宿舍辦公室，詢問延長住宿的可能性。",
+    "寄信給圖書館，請求延長借書期限。",
+    "寫信給社團主席，表達想參加即將舉行的活動。",
+    "寄信給客服部門，反映產品故障並要求退款。",
+    "寫信給學校行政，詢問獲得獎學金的條件。"
   ],
   "discussionPrompts": [
-    "教授問：「你認為科技對於人類社會的影響是正面還是負面？」",
-    "教授問：「應該如何平衡經濟發展與環境保護？」",
-    "教授問：「教育體系應該如何改革以適應未來的需求？」",
-    "教授問：「全球化對於本地文化的影響是什麼？」",
-    "教授問：「社交媒體對於人際關係的影響如何？」",
-    "教授問：「藝術在現代社會中的角色是什麼？」"
+    "教授問：「你認為科技對現代教育的影響是正面還是負面？」",
+    "教授問：「全球化是否使文化多樣性受到威脅？」",
+    "教授問：「在學術研究中，倫理的重要性如何體現？」",
+    "教授問：「社會媒體對人際關係的影響是什麼？」",
+    "教授問：「環保政策對經濟發展的影響如何？」",
+    "教授問：「是否應該在學校中強制教授金融素養？」"
   ]
 }
