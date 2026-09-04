@@ -2,107 +2,115 @@
   "cloze": {
     "segments": [
       {
-        "text": "The phenomenon of photosynthesis is fundamental to life on Earth. It occurs in plants, algae, and some bacteria, which convert light energy into chemical energy. This process involves the absorption of carbon dioxide and water to produce glucose and "
+        "text": "The concept of photosynthesis is essential for understanding how plants grow. During this process, plants convert sunlight into energy, primarily through the use of chlorophyll. The initial stage begins with the absorption of light, which excites electrons and leads to the production of ATP and NADPH. These molecules are then utilized in the subsequent phase, known as the Calvin cycle, where carbon dioxide is transformed into glucose. This biochemical pathway allows plants to synthesize organic compounds, which form the foundation of the food chain. Furthermore, the byproducts of photosynthesis, particularly oxygen, are vital for the survival of most organisms on Earth."
       },
       {
-        "blank": "oxyg"
+        "blank": "synth",
+        "text": "...esis is essential for understanding how plants grow."
       },
       {
-        "text": ". Photosynthesis takes place in the chloroplasts, where chlorophyll captures sunlight. Through a series of reactions, light energy is transformed into "
+        "text": "During this pro"
       },
       {
-        "blank": "chemical"
+        "blank": "cess",
+        "text": "...s, plants convert sunlight into energy."
       },
       {
-        "text": " energy stored in glucose molecules. This energy ultimately supports the growth of plants and serves as a primary food source for "
+        "text": "The initial stage be"
       },
       {
-        "blank": "herbiv"
+        "blank": "gins",
+        "text": "...in with the absorption of light."
       },
       {
-        "text": "ores. Furthermore, the oxygen released during photosynthesis is essential for the survival of most living organisms, including humans. Thus, understanding this process is crucial for addressing issues such as "
+        "text": "These molecules are then utilized in the sub"
       },
       {
-        "blank": "clim"
+        "blank": "sequent",
+        "text": "...e phase, known as the Calvin cycle."
       },
       {
-        "text": "ate change and food security."
+        "text": "This biochemical path"
+      },
+      {
+        "blank": "way",
+        "text": "...way allows plants to synthesize organic compounds."
       }
     ]
   },
   "academic": {
-    "passage": "Photosynthesis is the process by which green plants, algae, and some bacteria convert light energy into chemical energy. This transformation occurs mainly in chloroplasts, where chlorophyll facilitates the absorption of sunlight. The process not only produces glucose, which is vital for plant growth, but also releases oxygen, a critical element for most life forms. Understanding photosynthesis is imperative for addressing global challenges such as climate change and food scarcity.",
+    "passage": "Photosynthesis is a fundamental process whereby green plants, algae, and some bacteria convert light energy into chemical energy. This occurs mainly in the chloroplasts of plant cells. During photosynthesis, carbon dioxide and water are taken in; light energy is absorbed and used to convert these substances into glucose and oxygen. The glucose serves as a source of energy and building material for the plant, while oxygen is released as a byproduct. This process is crucial not only for plant life but also for maintaining atmospheric balance, making it essential for the survival of many organisms on Earth.",
     "questions": [
       {
-        "q": "What is the main purpose of photosynthesis according to the passage?",
+        "q": "What is the main idea of the passage?",
         "options": [
-          "To convert light energy into chemical energy",
-          "To absorb carbon dioxide from the atmosphere",
-          "To release oxygen into the environment",
-          "To grow plants faster"
+          "Photosynthesis is critical for plants and other organisms.",
+          "The chloroplasts are the only site for photosynthesis.",
+          "Light energy is not necessary for photosynthesis.",
+          "Glucose is the only product of photosynthesis."
         ],
         "correctIndex": 0,
-        "explain": "這篇文章指出光合作用的主要目的是將光能轉換為化學能。"
+        "explain": "這段文字主要描述光合作用對植物及其他生物的重要性。"
       },
       {
-        "q": "In which part of the plant does photosynthesis primarily occur?",
+        "q": "What do plants produce during photosynthesis?",
         "options": [
-          "Roots",
-          "Flowers",
-          "Chloroplasts",
-          "Stems"
-        ],
-        "correctIndex": 2,
-        "explain": "文章中提到光合作用主要發生在葉綠體中。"
-      },
-      {
-        "q": "What can be inferred about the relationship between photosynthesis and food security?",
-        "options": [
-          "Photosynthesis has no impact on food supply",
-          "Increased photosynthesis may enhance food production",
-          "Photosynthesis decreases the need for water",
-          "Food security depends solely on human agriculture"
+          "Water and carbon dioxide",
+          "Glucose and oxygen",
+          "Only glucose",
+          "Only oxygen"
         ],
         "correctIndex": 1,
-        "explain": "文章指出光合作用和食物安全之間的關係，增加光合作用可能提高食物生產。"
+        "explain": "植物在光合作用中生成葡萄糖和氧氣。"
       },
       {
-        "q": "What does the term 'chlorophyll' refer to in the context of the passage?",
+        "q": "What can be inferred about the role of photosynthesis in the ecosystem?",
+        "options": [
+          "Photosynthesis is unimportant for life.",
+          "Photosynthesis contributes to oxygen production.",
+          "Photosynthesis only benefits plants.",
+          "Photosynthesis disrupts atmospheric balance."
+        ],
+        "correctIndex": 1,
+        "explain": "光合作用有助於氧氣的產生，對生態系統至關重要。"
+      },
+      {
+        "q": "What does the term 'chloroplasts' refer to in the passage?",
         "options": [
           "A type of bacteria",
-          "A chemical compound involved in energy conversion",
-          "A plant nutrient",
-          "A process of water absorption"
+          "The site of photosynthesis in plant cells",
+          "An energy source for plants",
+          "A byproduct of photosynthesis"
         ],
         "correctIndex": 1,
-        "explain": "在這篇文章中，葉綠素是指參與能量轉換的化學化合物。"
+        "explain": "文中提到的'葉綠體'是植物細胞內光合作用的場所。"
       }
     ]
   },
   "daily": {
-    "passage": "Attention all students: The library will be closed for maintenance on Friday from 8 AM to 5 PM. Please plan your studying accordingly and make sure to return any borrowed materials before that date.",
+    "passage": "Attention students: The library will be closed for maintenance from October 15 to October 20. Please make sure to check out any materials you need before this date. We apologize for any inconvenience and appreciate your understanding.",
     "questions": [
       {
-        "q": "When will the library be closed for maintenance?",
+        "q": "When will the library be closed?",
         "options": [
-          "Thursday",
-          "Friday",
-          "Saturday",
-          "Sunday"
+          "From October 10 to October 15",
+          "From October 15 to October 20",
+          "From October 20 to October 25",
+          "It will not close"
         ],
         "correctIndex": 1,
-        "explain": "公告中提到圖書館將在星期五關閉進行維護。"
+        "explain": "圖書館將於10月15日至20日關閉。"
       },
       {
         "q": "What should students do before the library closes?",
         "options": [
-          "Borrow more materials",
-          "Return borrowed materials",
-          "Avoid using the library",
-          "Use online resources"
+          "Return all borrowed books",
+          "Check out any needed materials",
+          "Study in the library",
+          "Attend a maintenance meeting"
         ],
         "correctIndex": 1,
-        "explain": "公告建議學生在圖書館關閉前歸還借用的材料。"
+        "explain": "學生應在圖書館關閉之前借走任何所需的材料。"
       }
     ]
   }

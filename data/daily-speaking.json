@@ -1,45 +1,45 @@
 {
   "shadowSentences": [
-    "I love reading books in my free time.",
-    "My favorite season is autumn for the colors.",
-    "Cooking new recipes is a fun way to unwind.",
-    "Traveling to new places helps broaden my perspective.",
-    "Exercise is essential for maintaining good health.",
-    "Spending time with family is always enjoyable and comforting.",
-    "Learning a new language can be both challenging and rewarding.",
-    "Volunteering in the community gives me a sense of purpose.",
-    "Listening to music helps me relax after a long day.",
-    "Watching documentaries can provide fascinating insights into the world."
+    "I enjoy reading books every day.",
+    "My favorite food is pizza with extra cheese.",
+    "I often go for a run in the park.",
+    "Traveling to new places is always exciting to me.",
+    "I love listening to music while I work or study.",
+    "Cooking at home can be a fun and rewarding experience.",
+    "Spending time with friends boosts my happiness and mood.",
+    "I like to explore different cultures through their food and traditions.",
+    "Hiking in the mountains gives me a sense of peace and adventure.",
+    "Volunteering in my community has taught me the value of helping others."
   ],
   "interviewScenarios": [
     {
-      "topic": "環保意識",
-      "intro": "You have agreed to take part in a research study about environmental awareness.",
+      "topic": "旅行計劃",
+      "intro": "You have agreed to take part in a research study about travel planning.",
       "questions": [
-        "Q1: Can you describe a time when you became more aware of environmental issues?",
-        "Q2: What challenges do you think people face in adopting eco-friendly habits?",
-        "Q3: In your opinion, how important is it for individuals to be environmentally conscious?",
-        "Q4: What advice would you give to someone trying to live a more sustainable lifestyle?"
+        "Q1: Can you share your favorite travel experience?",
+        "Q2: What challenges do you usually face when planning a trip?",
+        "Q3: How important do you think travel is for personal growth?",
+        "Q4: What advice would you give to someone planning their first trip?"
       ]
     },
     {
-      "topic": "音樂的影響",
-      "intro": "You have agreed to take part in a research study about the impact of music.",
+      "topic": "學習方法",
+      "intro": "You have agreed to take part in a research study about study methods.",
       "questions": [
-        "Q1: Can you share a personal experience where music played a significant role?",
-        "Q2: How do you think music affects people's emotions and moods?",
-        "Q3: What role do you believe music should play in education?",
-        "Q4: What recommendations would you give for someone looking to explore new music genres?"
+        "Q1: What study techniques have worked best for you in school?",
+        "Q2: Have you encountered any difficulties while studying for exams?",
+        "Q3: In your opinion, what is the most effective way to learn new information?",
+        "Q4: What tips would you offer to students who struggle with studying?"
       ]
     },
     {
-      "topic": "遠程工作",
-      "intro": "You have agreed to take part in a research study about remote work.",
+      "topic": "家庭傳統",
+      "intro": "You have agreed to take part in a research study about family traditions.",
       "questions": [
-        "Q1: What has been your experience with remote work or studying from home?",
-        "Q2: What challenges do remote workers often face in maintaining productivity?",
-        "Q3: How do you feel about the future of remote work?",
-        "Q4: What tips would you give to someone starting to work remotely?"
+        "Q1: What is a special tradition your family has?",
+        "Q2: How do these traditions impact your family life?",
+        "Q3: Why do you think family traditions are important?",
+        "Q4: What new tradition would you like to start in your family?"
       ]
     }
   ]

@@ -3,68 +3,28 @@
     {
       "words": [
         "the",
-        "quick",
-        "brown",
-        "fox",
-        "jumps",
-        "over",
-        "the",
-        "lazy",
-        "dog"
-      ],
-      "display": "The quick brown fox jumps over the lazy dog."
-    },
-    {
-      "words": [
         "students",
-        "should",
-        "always",
-        "complete",
+        "completed",
         "their",
         "assignments",
-        "on",
-        "time"
+        "before",
+        "the",
+        "deadline"
       ],
-      "display": "Students should always complete their assignments on time."
+      "display": "The students completed their assignments before the deadline."
     },
     {
       "words": [
         "the",
-        "scientific",
-        "method",
-        "is",
-        "essential",
-        "for",
-        "conducting",
-        "research"
+        "research",
+        "team",
+        "will",
+        "present",
+        "their",
+        "findings",
+        "tomorrow"
       ],
-      "display": "The scientific method is essential for conducting research."
-    },
-    {
-      "words": [
-        "reading",
-        "books",
-        "can",
-        "greatly",
-        "enhance",
-        "your",
-        "vocabulary",
-        "skills"
-      ],
-      "display": "Reading books can greatly enhance your vocabulary skills."
-    },
-    {
-      "words": [
-        "the",
-        "university",
-        "offers",
-        "many",
-        "resources",
-        "to",
-        "support",
-        "students"
-      ],
-      "display": "The university offers many resources to support students."
+      "display": "The research team will present their findings tomorrow."
     },
     {
       "words": [
@@ -72,56 +32,98 @@
         "is",
         "important",
         "to",
-        "maintain",
-        "a",
-        "healthy",
-        "work-life",
-        "balance"
+        "attend",
+        "all",
+        "the",
+        "lectures"
       ],
-      "display": "It is important to maintain a healthy work-life balance."
+      "display": "It is important to attend all the lectures."
     },
     {
       "words": [
-        "global",
-        "warming",
-        "is",
-        "a",
-        "serious",
-        "issue",
-        "that",
-        "affects",
-        "everyone"
+        "we",
+        "should",
+        "discuss",
+        "the",
+        "new",
+        "policy",
+        "during",
+        "the",
+        "meeting"
       ],
-      "display": "Global warming is a serious issue that affects everyone."
+      "display": "We should discuss the new policy during the meeting."
     },
     {
       "words": [
-        "participating",
+        "the",
+        "library",
+        "will",
+        "be",
+        "closed",
+        "next",
+        "week",
+        "for",
+        "renovations"
+      ],
+      "display": "The library will be closed next week for renovations."
+    },
+    {
+      "words": [
+        "please",
+        "submit",
+        "your",
+        "projects",
+        "by",
+        "the",
+        "end",
+        "of",
+        "the",
+        "month"
+      ],
+      "display": "Please submit your projects by the end of the month."
+    },
+    {
+      "words": [
+        "the",
+        "professor",
+        "encouraged",
+        "students",
+        "to",
+        "participate",
         "in",
-        "extracurricular",
-        "activities",
-        "can",
-        "improve",
-        "social",
-        "skills"
+        "research"
       ],
-      "display": "Participating in extracurricular activities can improve social skills."
+      "display": "The professor encouraged students to participate in research."
+    },
+    {
+      "words": [
+        "understanding",
+        "cultural",
+        "differences",
+        "can",
+        "enhance",
+        "communication",
+        "in",
+        "global",
+        "contexts"
+      ],
+      "display": "Understanding cultural differences can enhance communication in global contexts."
     }
   ],
   "emailPrompts": [
-    "寄信給教授，請假因為家中有事，並詢問課堂內容。",
-    "寫信給宿舍辦公室，詢問延長住宿的可能性。",
-    "寄信給圖書館，請求延長借書期限。",
-    "寫信給社團主席，表達想參加即將舉行的活動。",
-    "寄信給客服部門，反映產品故障並要求退款。",
-    "寫信給學校行政，詢問獲得獎學金的條件。"
+    "寄信給教授，說明因病無法參加期中考，詢問補考事宜。",
+    "寄信給宿舍管理辦公室，請求更換宿舍因為噪音問題。",
+    "寄信給圖書館，詢問某本書的可借閱狀況。",
+    "寄信給俱樂部主席，表達希望參加下週的活動。",
+    "寄信給客服，反映最近購買的產品有瑕疵，請求退換。",
+    "寄信給實習導師，確認下週的實習安排和工作內容。"
   ],
   "discussionPrompts": [
-    "教授問：「你認為科技對現代教育的影響是正面還是負面？」",
-    "教授問：「全球化是否使文化多樣性受到威脅？」",
-    "教授問：「在學術研究中，倫理的重要性如何體現？」",
-    "教授問：「社會媒體對人際關係的影響是什麼？」",
-    "教授問：「環保政策對經濟發展的影響如何？」",
-    "教授問：「是否應該在學校中強制教授金融素養？」"
+    "教授問：「為什麼學習第二語言對職業發展很重要？」",
+    "教授問：「社交媒體對青少年的心理健康有何影響？」",
+    "教授問：「在全球化的背景下，文化保存的重要性何在？」",
+    "教授問：「科技進步是否會使人類的創造力下降？」",
+    "教授問：「在當今社會，環保和經濟發展應如何平衡？」",
+    "教授問：「大學教育應該更加注重哪些技能的培養？」"
   ]
 }

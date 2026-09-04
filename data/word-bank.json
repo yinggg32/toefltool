@@ -8102,5 +8102,69 @@
     "zh": "人口學",
     "ex": "Demography studies population dynamics and their implications for society.",
     "cat": "📰 每日新詞：sociology"
+  },
+  {
+    "word": "astronomical",
+    "pos": "adj.",
+    "root": "astronom-天文学+ical-的",
+    "zh": "天文的",
+    "ex": "The astronomical observations conducted by the Hubble Space Telescope have revolutionized our understanding of the universe.",
+    "cat": "📰 每日新詞：astronomy and space science"
+  },
+  {
+    "word": "meteorology",
+    "pos": "n.",
+    "root": "meteor-气象+ology-学科",
+    "zh": "气象学",
+    "ex": "Meteorology studies atmospheric phenomena, which are crucial for understanding space weather.",
+    "cat": "📰 每日新詞：astronomy and space science"
+  },
+  {
+    "word": "space-time",
+    "pos": "n.",
+    "root": "space-空间+time-时间",
+    "zh": "时空",
+    "ex": "Einstein's theory of relativity describes the interwoven fabric of space-time.",
+    "cat": "📰 每日新詞：astronomy and space science"
+  },
+  {
+    "word": "gravity assist",
+    "pos": "n.",
+    "root": "gravity-重力+assist-助推",
+    "zh": "引力助推",
+    "ex": "Gravity assist maneuvers can significantly increase a spacecraft's velocity.",
+    "cat": "📰 每日新詞：astronomy and space science"
+  },
+  {
+    "word": "astrometry",
+    "pos": "n.",
+    "root": "astro-天体+metry-测量",
+    "zh": "天体测量学",
+    "ex": "Astrometry involves measuring the positions and movements of celestial objects.",
+    "cat": "📰 每日新詞：astronomy and space science"
+  },
+  {
+    "word": "lunar",
+    "pos": "adj.",
+    "root": "lun-月亮+ar-的",
+    "zh": "月球的",
+    "ex": "Lunar exploration has provided valuable insights into the history of our Moon.",
+    "cat": "📰 每日新詞：astronomy and space science"
+  },
+  {
+    "word": "aphelion",
+    "pos": "n.",
+    "root": "aphel-远点+ion-名词后缀",
+    "zh": "远日点",
+    "ex": "Aphelion is the point in an orbit farthest from the Sun.",
+    "cat": "📰 每日新詞：astronomy and space science"
+  },
+  {
+    "word": "perihelion",
+    "pos": "n.",
+    "root": "peri-近+hel-太阳+ion-名词后缀",
+    "zh": "近日点",
+    "ex": "Perihelion is the point in an orbit closest to the Sun.",
+    "cat": "📰 每日新詞：astronomy and space science"
   }
 ]

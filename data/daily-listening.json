@@ -1,116 +1,116 @@
 {
   "chooseResponse": [
     {
-      "q": "What time is the meeting?",
+      "q": "What do you think of the new café?",
       "options": [
-        "At 2 PM",
-        "In the library",
-        "Tomorrow morning",
-        "I forgot"
+        "It's great!",
+        "I don't like it.",
+        "I haven't tried it.",
+        "It's too expensive."
       ],
       "correctIndex": 0
     }
   ],
   "conversation": {
-    "transcript": "Student: Hey, do you know where the student council meeting is?\nAdvisor: Yes, it's in the main hall. Do you have the time?\nStudent: I think it starts at 2 PM. Is that right?\nAdvisor: Yes, that's correct. You should get there a bit early.",
+    "transcript": "Student: Have you been to the new café on campus?\nAdvisor: Yes, I went there last week. What did you think of it?\nStudent: I really liked the atmosphere! It's so cozy.\nAdvisor: I agree! The coffee is pretty good too.",
     "questions": [
       {
-        "q": "Where is the meeting held?",
+        "q": "What did the student think of the café?",
         "options": [
-          "In the library",
-          "In the cafeteria",
-          "In the main hall",
-          "Outside"
+          "It was cozy.",
+          "It was too noisy.",
+          "It had bad coffee.",
+          "It was too expensive."
         ],
-        "correctIndex": 2,
-        "explain": "會議在主廳舉行。"
+        "correctIndex": 0,
+        "explain": "學生認為這家咖啡館很舒適。"
       },
       {
-        "q": "What time is the meeting scheduled to start?",
+        "q": "Why did the advisor like the café?",
         "options": [
-          "1 PM",
-          "2 PM",
-          "3 PM",
-          "4 PM"
+          "The coffee was bad.",
+          "The atmosphere was noisy.",
+          "The coffee was good.",
+          "The prices were high."
         ],
-        "correctIndex": 1,
-        "explain": "會議預定在下午2點開始。"
+        "correctIndex": 2,
+        "explain": "顧問覺得咖啡很好。"
       }
     ]
   },
   "announcement": {
-    "transcript": "Attention, students! The campus will be hosting a cultural festival this Saturday from 10 AM to 5 PM. There will be food, performances, and art exhibits highlighting various cultures. Don't miss the opportunity to explore and enjoy the festivities!",
+    "transcript": "Attention students! The library will be closed this weekend for maintenance. Please plan your study time accordingly. We apologize for any inconvenience and appreciate your understanding.",
     "questions": [
       {
-        "q": "What is happening this Saturday?",
+        "q": "Why is the library closing?",
         "options": [
-          "A student council meeting",
-          "A cultural festival",
-          "A sports event",
-          "A concert"
+          "For a renovation.",
+          "For a holiday.",
+          "For a maintenance.",
+          "For a festival."
         ],
-        "correctIndex": 1,
-        "explain": "這個星期六將舉行文化節。"
+        "correctIndex": 2,
+        "explain": "圖書館因為維護而關閉。"
       },
       {
-        "q": "What time does the festival start?",
+        "q": "When will the library be closed?",
         "options": [
-          "9 AM",
-          "10 AM",
-          "11 AM",
-          "12 PM"
+          "Next week.",
+          "This weekend.",
+          "Tomorrow.",
+          "Today."
         ],
         "correctIndex": 1,
-        "explain": "文化節將於上午10點開始。"
+        "explain": "圖書館將在這個週末關閉。"
       }
     ]
   },
   "talk": {
-    "transcript": "Today, I want to discuss the concept of biodiversity. Biodiversity refers to the variety of life found in a particular habitat or ecosystem. It includes the diversity of species, genetic diversity, and the variety of ecosystems. Biodiversity is essential for ecosystem health, providing resilience against environmental changes. A diverse ecosystem can better withstand diseases and adapt to climate change. Moreover, biodiversity also plays a vital role in human life, offering resources such as food, medicine, and clean air. Protecting biodiversity is crucial for maintaining the balance of our planet.",
+    "transcript": "Today, I will discuss the importance of biodiversity. Biodiversity refers to the variety of life in a particular habitat or ecosystem. It is crucial for ecosystem stability, providing food, clean water, and even medicines. High biodiversity allows ecosystems to recover from disturbances, such as natural disasters. Furthermore, it supports a wider range of species to thrive. This interconnectedness is vital for maintaining ecological balance. As we face challenges like climate change and habitat loss, preserving biodiversity is more important than ever to ensure the health of our planet.",
     "questions": [
       {
-        "q": "What does biodiversity refer to?",
+        "q": "What is biodiversity?",
         "options": [
-          "The number of ecosystems",
-          "The variety of life",
-          "The amount of water",
-          "The type of soil"
+          "Variety of life in an ecosystem.",
+          "Only plant species.",
+          "Only animal species.",
+          "Life in the ocean."
         ],
-        "correctIndex": 1,
-        "explain": "生物多樣性是指生活的多樣性。"
+        "correctIndex": 0,
+        "explain": "生物多樣性是生態系統中生命的多樣性。"
       },
       {
         "q": "Why is biodiversity important for ecosystems?",
         "options": [
-          "It makes them more beautiful",
-          "It helps them attract tourists",
-          "It provides resilience against changes",
-          "It reduces pollution"
+          "To make it beautiful.",
+          "To recover from disturbances.",
+          "To reduce pollution.",
+          "To increase population."
+        ],
+        "correctIndex": 1,
+        "explain": "生物多樣性有助於生態系統從干擾中恢復。"
+      },
+      {
+        "q": "What can high biodiversity support?",
+        "options": [
+          "Fewer species.",
+          "More diseases.",
+          "More species to thrive.",
+          "Less food supply."
         ],
         "correctIndex": 2,
-        "explain": "生物多樣性有助於生態系統抵禦環境變化。"
+        "explain": "高生物多樣性支持更多物種繁榮。"
       },
       {
-        "q": "What resources does biodiversity offer to humans?",
+        "q": "What are some challenges mentioned in the talk?",
         "options": [
-          "Books and knowledge",
-          "Food and medicine",
-          "Technology and machinery",
-          "Entertainment and art"
+          "Climate change and habitat loss.",
+          "Population growth.",
+          "Economic issues.",
+          "Technological advancements."
         ],
-        "correctIndex": 1,
-        "explain": "生物多樣性為人類提供食物和藥物等資源。"
-      },
-      {
-        "q": "What is crucial for maintaining the balance of our planet?",
-        "options": [
-          "Planting more trees",
-          "Protecting biodiversity",
-          "Building more cities",
-          "Using less water"
-        ],
-        "correctIndex": 1,
-        "explain": "保護生物多樣性對維持地球的平衡至關重要。"
+        "correctIndex": 0,
+        "explain": "演講中提到的挑戰包括氣候變化和栖息地喪失。"
       }
     ]
   }
