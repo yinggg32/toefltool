@@ -8166,5 +8166,21 @@
     "zh": "近日点",
     "ex": "Perihelion is the point in an orbit closest to the Sun.",
     "cat": "📰 每日新詞：astronomy and space science"
+  },
+  {
+    "word": "teleological",
+    "pos": "adj.",
+    "root": "telos (目的) + -ical (形容詞後綴)",
+    "zh": "目的論的",
+    "ex": "Teleological arguments suggest that the design of the universe implies a designer.",
+    "cat": "📰 每日新詞：philosophy"
+  },
+  {
+    "word": "assertion",
+    "pos": "n.",
+    "root": "asserere (聲明)",
+    "zh": "主張",
+    "ex": "The philosopher's assertion about free will sparked significant debate.",
+    "cat": "📰 每日新詞：philosophy"
   }
 ]

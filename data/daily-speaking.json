@@ -1,45 +1,45 @@
 {
   "shadowSentences": [
-    "I enjoy reading books every day.",
-    "My favorite food is pizza with extra cheese.",
-    "I often go for a run in the park.",
-    "Traveling to new places is always exciting to me.",
-    "I love listening to music while I work or study.",
-    "Cooking at home can be a fun and rewarding experience.",
-    "Spending time with friends boosts my happiness and mood.",
-    "I like to explore different cultures through their food and traditions.",
-    "Hiking in the mountains gives me a sense of peace and adventure.",
-    "Volunteering in my community has taught me the value of helping others."
+    "I love reading books in my free time.",
+    "He enjoys cooking new recipes on weekends.",
+    "She often goes for a walk in the park.",
+    "They like to watch movies together at home.",
+    "We always have family dinners every Sunday.",
+    "My friends and I play soccer every Saturday morning.",
+    "I prefer to listen to music while studying.",
+    "He started learning guitar during the pandemic last year.",
+    "She has visited several countries in Europe recently.",
+    "They plan to volunteer at the local shelter next month."
   ],
   "interviewScenarios": [
     {
-      "topic": "旅行計劃",
-      "intro": "You have agreed to take part in a research study about travel planning.",
+      "topic": "旅行經驗",
+      "intro": "You have agreed to take part in a research study about travel experiences.",
       "questions": [
-        "Q1: Can you share your favorite travel experience?",
-        "Q2: What challenges do you usually face when planning a trip?",
-        "Q3: How important do you think travel is for personal growth?",
-        "Q4: What advice would you give to someone planning their first trip?"
+        "Q1: Can you share a memorable travel experience you had?",
+        "Q2: What challenges did you face during that trip?",
+        "Q3: What do you think is the importance of traveling?",
+        "Q4: What advice would you give someone planning their first trip?"
       ]
     },
     {
       "topic": "學習方法",
       "intro": "You have agreed to take part in a research study about study methods.",
       "questions": [
-        "Q1: What study techniques have worked best for you in school?",
-        "Q2: Have you encountered any difficulties while studying for exams?",
-        "Q3: In your opinion, what is the most effective way to learn new information?",
-        "Q4: What tips would you offer to students who struggle with studying?"
+        "Q1: What study methods do you find most effective?",
+        "Q2: Have you ever struggled with a particular subject while studying?",
+        "Q3: In your opinion, how important is it to have a structured study plan?",
+        "Q4: What recommendations would you give to students looking to improve their study habits?"
       ]
     },
     {
-      "topic": "家庭傳統",
-      "intro": "You have agreed to take part in a research study about family traditions.",
+      "topic": "環保習慣",
+      "intro": "You have agreed to take part in a research study about eco-friendly habits.",
       "questions": [
-        "Q1: What is a special tradition your family has?",
-        "Q2: How do these traditions impact your family life?",
-        "Q3: Why do you think family traditions are important?",
-        "Q4: What new tradition would you like to start in your family?"
+        "Q1: Can you describe some eco-friendly habits you follow?",
+        "Q2: What difficulties have you encountered in maintaining these habits?",
+        "Q3: What role do you think individuals play in protecting the environment?",
+        "Q4: What suggestions would you offer for someone wanting to adopt greener habits?"
       ]
     }
   ]

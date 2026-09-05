@@ -2,115 +2,107 @@
   "cloze": {
     "segments": [
       {
-        "text": "The concept of photosynthesis is essential for understanding how plants grow. During this process, plants convert sunlight into energy, primarily through the use of chlorophyll. The initial stage begins with the absorption of light, which excites electrons and leads to the production of ATP and NADPH. These molecules are then utilized in the subsequent phase, known as the Calvin cycle, where carbon dioxide is transformed into glucose. This biochemical pathway allows plants to synthesize organic compounds, which form the foundation of the food chain. Furthermore, the byproducts of photosynthesis, particularly oxygen, are vital for the survival of most organisms on Earth."
+        "text": "The phenomenon of photosynthesis is essential for life on Earth, as it allows plants to convert solar energy into chemical energy. This process primarily occurs in the chloropla"
       },
       {
-        "blank": "synth",
-        "text": "...esis is essential for understanding how plants grow."
+        "blank": "sts"
       },
       {
-        "text": "During this pro"
+        "text": " of plant cells, where chlorophyll absorbs light. During photosynthesis, carbon dioxide and water are transformed into glucose and oxyge"
       },
       {
-        "blank": "cess",
-        "text": "...s, plants convert sunlight into energy."
+        "blank": "n."
       },
       {
-        "text": "The initial stage be"
+        "text": " The overall chemical reaction can be summarized by the equation: 6CO₂ + 6H₂O → C₆H₁₂O₆ + 6O₂. This process not only provides nourishment for plants but also sustai"
       },
       {
-        "blank": "gins",
-        "text": "...in with the absorption of light."
+        "blank": "ns"
       },
       {
-        "text": "These molecules are then utilized in the sub"
+        "text": " the oxygen supply for the planet. Additionally, photosynthesis plays a crucial role in the carbon cycle, influencing global climates and ecosyst"
       },
       {
-        "blank": "sequent",
-        "text": "...e phase, known as the Calvin cycle."
+        "blank": "ems."
       },
       {
-        "text": "This biochemical path"
-      },
-      {
-        "blank": "way",
-        "text": "...way allows plants to synthesize organic compounds."
+        "text": " Understanding photosynthesis helps scientists develop sustainable agricultural practices and address climate change."
       }
     ]
   },
   "academic": {
-    "passage": "Photosynthesis is a fundamental process whereby green plants, algae, and some bacteria convert light energy into chemical energy. This occurs mainly in the chloroplasts of plant cells. During photosynthesis, carbon dioxide and water are taken in; light energy is absorbed and used to convert these substances into glucose and oxygen. The glucose serves as a source of energy and building material for the plant, while oxygen is released as a byproduct. This process is crucial not only for plant life but also for maintaining atmospheric balance, making it essential for the survival of many organisms on Earth.",
+    "passage": "Photosynthesis is a process used by plants to convert light energy into chemical energy, crucial for producing glucose and oxygen. It occurs in chloroplasts, where light energy is captured and transformed. This reaction not only nourishes plants but also supports the ecosystem by providing oxygen and regulating atmospheric carbon, highlighting its importance in sustaining life on Earth.",
     "questions": [
       {
         "q": "What is the main idea of the passage?",
         "options": [
-          "Photosynthesis is critical for plants and other organisms.",
-          "The chloroplasts are the only site for photosynthesis.",
-          "Light energy is not necessary for photosynthesis.",
-          "Glucose is the only product of photosynthesis."
+          "Photosynthesis is vital for life on Earth.",
+          "Chloroplasts are essential for photosynthesis.",
+          "Glucose production is the main focus of photosynthesis.",
+          "Oxygen is the only byproduct of photosynthesis."
         ],
         "correctIndex": 0,
-        "explain": "這段文字主要描述光合作用對植物及其他生物的重要性。"
+        "explain": "這篇文章的主要思想是光合作用對地球生命的重要性。"
       },
       {
-        "q": "What do plants produce during photosynthesis?",
+        "q": "Where does photosynthesis take place in plant cells?",
         "options": [
-          "Water and carbon dioxide",
-          "Glucose and oxygen",
-          "Only glucose",
-          "Only oxygen"
+          "In the nucleus",
+          "In the chloroplasts",
+          "In the cell membrane",
+          "In the mitochondria"
         ],
         "correctIndex": 1,
-        "explain": "植物在光合作用中生成葡萄糖和氧氣。"
+        "explain": "光合作用發生在植物細胞的葉綠體中。"
       },
       {
-        "q": "What can be inferred about the role of photosynthesis in the ecosystem?",
+        "q": "What can be inferred about photosynthesis and climate change?",
         "options": [
-          "Photosynthesis is unimportant for life.",
-          "Photosynthesis contributes to oxygen production.",
-          "Photosynthesis only benefits plants.",
-          "Photosynthesis disrupts atmospheric balance."
+          "Photosynthesis has no effect on climate change.",
+          "Photosynthesis could help mitigate climate change.",
+          "Climate change enhances photosynthesis.",
+          "Photosynthesis is unrelated to ecosystems."
         ],
         "correctIndex": 1,
-        "explain": "光合作用有助於氧氣的產生，對生態系統至關重要。"
+        "explain": "可以推斷光合作用有助於減緩氣候變化。"
       },
       {
-        "q": "What does the term 'chloroplasts' refer to in the passage?",
+        "q": "What does the term 'chlorophyll' refer to in the passage?",
         "options": [
-          "A type of bacteria",
-          "The site of photosynthesis in plant cells",
-          "An energy source for plants",
-          "A byproduct of photosynthesis"
+          "A type of plant",
+          "A pigment involved in photosynthesis",
+          "A process of energy conversion",
+          "An element produced during respiration"
         ],
         "correctIndex": 1,
-        "explain": "文中提到的'葉綠體'是植物細胞內光合作用的場所。"
+        "explain": "在文章中，'葉綠素'指的是參與光合作用的色素。"
       }
     ]
   },
   "daily": {
-    "passage": "Attention students: The library will be closed for maintenance from October 15 to October 20. Please make sure to check out any materials you need before this date. We apologize for any inconvenience and appreciate your understanding.",
+    "passage": "Attention students: The campus library will have extended hours this week in preparation for final exams. Monday through Friday, the library will be open from 8 AM to midnight. Please take advantage of this opportunity to study.",
     "questions": [
       {
-        "q": "When will the library be closed?",
+        "q": "What are the extended hours of the library this week?",
         "options": [
-          "From October 10 to October 15",
-          "From October 15 to October 20",
-          "From October 20 to October 25",
-          "It will not close"
+          "8 AM to 10 PM",
+          "8 AM to midnight",
+          "6 AM to midnight",
+          "8 AM to 11 PM"
         ],
         "correctIndex": 1,
-        "explain": "圖書館將於10月15日至20日關閉。"
+        "explain": "本週圖書館的延長開放時間是早上8點到午夜。"
       },
       {
-        "q": "What should students do before the library closes?",
+        "q": "When will the library have extended hours?",
         "options": [
-          "Return all borrowed books",
-          "Check out any needed materials",
-          "Study in the library",
-          "Attend a maintenance meeting"
+          "Only on weekends",
+          "Monday through Friday",
+          "Only during exams",
+          "Every day"
         ],
         "correctIndex": 1,
-        "explain": "學生應在圖書館關閉之前借走任何所需的材料。"
+        "explain": "圖書館的延長開放時間是從週一到週五。"
       }
     ]
   }
