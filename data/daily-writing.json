@@ -2,123 +2,137 @@
   "buildSentences": [
     {
       "words": [
-        "visitors",
-        "museum",
         "the",
-        "to",
-        "enjoy",
-        "artworks",
-        "can",
-        "various"
-      ],
-      "display": "Visitors to the museum can enjoy various artworks."
-    },
-    {
-      "words": [
-        "the",
-        "study",
         "students",
-        "for",
-        "helped",
-        "a",
-        "new",
-        "method"
+        "discussed",
+        "the",
+        "impact",
+        "of",
+        "technology",
+        "on",
+        "education"
       ],
-      "display": "The study helped students for a new method."
+      "display": "The students discussed the impact of technology on education."
     },
     {
       "words": [
-        "global",
+        "the",
+        "researchers",
+        "found",
+        "significant",
+        "connections",
+        "between",
         "climate",
         "change",
-        "affects",
+        "and",
+        "wildlife"
+      ],
+      "display": "The researchers found significant connections between climate change and wildlife."
+    },
+    {
+      "words": [
         "the",
-        "entire",
-        "earth",
-        "system"
-      ],
-      "display": "Global climate change affects the entire earth system."
-    },
-    {
-      "words": [
-        "research",
+        "professor",
+        "emphasized",
         "the",
-        "has",
-        "important",
-        "implications",
-        "for",
-        "future",
-        "studies"
+        "importance",
+        "of",
+        "critical",
+        "thinking",
+        "in",
+        "academic",
+        "work"
       ],
-      "display": "The research has important implications for future studies."
+      "display": "The professor emphasized the importance of critical thinking in academic work."
     },
     {
       "words": [
-        "local",
-        "wildlife",
-        "preservation",
-        "is",
-        "essential",
-        "for",
-        "biodiversity",
-        "conservation"
+        "reading",
+        "can",
+        "enhance",
+        "cognitive",
+        "abilities",
+        "and",
+        "improve",
+        "language",
+        "skills"
       ],
-      "display": "Local wildlife preservation is essential for biodiversity conservation."
-    },
-    {
-      "words": [
-        "scientific",
-        "understanding",
-        "advances",
-        "our",
-        "technology",
-        "as",
-        "rapidly",
-        "does"
-      ],
-      "display": "Scientific understanding advances as rapidly as our technology does."
+      "display": "Reading can enhance cognitive abilities and improve language skills."
     },
     {
       "words": [
         "students",
-        "often",
+        "should",
         "participate",
         "in",
         "extracurricular",
         "activities",
         "to",
-        "develop"
+        "develop",
+        "social",
+        "skills"
       ],
-      "display": "Students often participate in extracurricular activities to develop."
+      "display": "Students should participate in extracurricular activities to develop social skills."
     },
     {
       "words": [
         "the",
-        "conference",
-        "among",
-        "leading",
-        "scientists",
-        "will",
-        "take",
-        "place"
+        "new",
+        "policy",
+        "aims",
+        "to",
+        "reduce",
+        "waste",
+        "and",
+        "promote",
+        "sustainability"
       ],
-      "display": "The conference among leading scientists will take place."
+      "display": "The new policy aims to reduce waste and promote sustainability."
+    },
+    {
+      "words": [
+        "understanding",
+        "different",
+        "cultures",
+        "can",
+        "foster",
+        "global",
+        "citizenship",
+        "and",
+        "empathy"
+      ],
+      "display": "Understanding different cultures can foster global citizenship and empathy."
+    },
+    {
+      "words": [
+        "the",
+        "presentation",
+        "highlighted",
+        "key",
+        "findings",
+        "from",
+        "the",
+        "latest",
+        "scientific",
+        "studies"
+      ],
+      "display": "The presentation highlighted key findings from the latest scientific studies."
     }
   ],
   "emailPrompts": [
-    "寄信給教授，詢問對於上課內容的進一步理解。",
-    "寄信給宿舍辦公室，請求延長寄送包裹的期限。",
-    "寄信給圖書館，反映某本書的缺失並請求更新。",
-    "寄信給學校社團，表達對加入社團的興趣。",
-    "寄信給客戶服務，詢問產品的退換政策。",
-    "寄信給學生會，建議舉辦新活動以增強校園氛圍。"
+    "寄信給教授，詢問能否延遲提交期末報告的時間。",
+    "寄信給宿舍辦公室，請求更換房間的事宜。",
+    "寄信給圖書館，詢問書籍借閱的具體流程。",
+    "寄信給社團，表達想要加入的意願並詢問相關活動。",
+    "寄信給客服，反映在訂購商品時遇到的問題。",
+    "寄信給同學，邀請他一起討論即將到來的考試範圍。"
   ],
   "discussionPrompts": [
-    "教授問：「你認為科技進步對人際關係的影響如何？」",
-    "教授問：「環保與經濟發展之間的關係，你怎麼看？」",
-    "教授問：「教育系統應該如何改進以適應現代社會？」",
-    "教授問：「社會媒體對年輕人的影響是正面還是負面？」",
-    "教授問：「文化多樣性在全球化時代的重要性如何？」",
-    "教授問：「公平與效率之間的平衡應如何取得？」"
+    "教授問：「你認為科技對社會的影響是正面還是負面？」",
+    "教授問：「在全球化的背景下，文化多樣性的重要性如何？」",
+    "教授問：「可持續發展與經濟增長之間的關係是什麼？」",
+    "教授問：「你如何看待人工智能在未來工作的角色？」",
+    "教授問：「教育體系應如何調整以應對未來的挑戰？」",
+    "教授問：「社會媒體對人際關係的影響是什麼？」"
   ]
 }

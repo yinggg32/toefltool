@@ -8182,5 +8182,69 @@
     "zh": "主張",
     "ex": "The philosopher's assertion about free will sparked significant debate.",
     "cat": "📰 每日新詞：philosophy"
+  },
+  {
+    "word": "substance abuse",
+    "pos": "n.",
+    "root": "substance（物質）+abuse（濫用）",
+    "zh": "物質濫用",
+    "ex": "Substance abuse can have devastating effects on individuals and communities.",
+    "cat": "📰 每日新詞：public health"
+  },
+  {
+    "word": "community health",
+    "pos": "n.",
+    "root": "community（社區）+health（健康）",
+    "zh": "社區健康",
+    "ex": "Community health programs focus on improving health outcomes at the local level.",
+    "cat": "📰 每日新詞：public health"
+  },
+  {
+    "word": "chronic illness",
+    "pos": "n.",
+    "root": "chronic（慢性的）+illness（疾病）",
+    "zh": "慢性病",
+    "ex": "Managing chronic illness requires a comprehensive approach to healthcare.",
+    "cat": "📰 每日新詞：public health"
+  },
+  {
+    "word": "health education",
+    "pos": "n.",
+    "root": "health（健康）+education（教育）",
+    "zh": "健康教育",
+    "ex": "Health education empowers individuals to make informed decisions about their wellbeing.",
+    "cat": "📰 每日新詞：public health"
+  },
+  {
+    "word": "behavioral health",
+    "pos": "n.",
+    "root": "behavioral（行為的）+health（健康）",
+    "zh": "行為健康",
+    "ex": "Behavioral health encompasses both mental health and substance use disorders.",
+    "cat": "📰 每日新詞：public health"
+  },
+  {
+    "word": "health disparities",
+    "pos": "n.",
+    "root": "health（健康）+disparities（差異）",
+    "zh": "健康差異",
+    "ex": "Health disparities often reflect socioeconomic inequalities within communities.",
+    "cat": "📰 每日新詞：public health"
+  },
+  {
+    "word": "clinical",
+    "pos": "adj.",
+    "root": "clinic（診所）+al（形容詞後綴）",
+    "zh": "臨床的",
+    "ex": "Clinical trials are critical for testing the safety and efficacy of new treatments.",
+    "cat": "📰 每日新詞：public health"
+  },
+  {
+    "word": "environmental health",
+    "pos": "n.",
+    "root": "environmental（環境的）+health（健康）",
+    "zh": "環境健康",
+    "ex": "Environmental health focuses on the relationships between people and their environment.",
+    "cat": "📰 每日新詞：public health"
   }
 ]

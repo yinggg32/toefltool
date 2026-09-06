@@ -1,45 +1,45 @@
 {
   "shadowSentences": [
-    "I love reading books in my free time.",
-    "He enjoys cooking new recipes on weekends.",
-    "She often goes for a walk in the park.",
-    "They like to watch movies together at home.",
-    "We always have family dinners every Sunday.",
-    "My friends and I play soccer every Saturday morning.",
-    "I prefer to listen to music while studying.",
-    "He started learning guitar during the pandemic last year.",
-    "She has visited several countries in Europe recently.",
-    "They plan to volunteer at the local shelter next month."
+    "The sky is very clear today.",
+    "I enjoy reading books in my free time.",
+    "She loves to cook new recipes every weekend.",
+    "We often go hiking in the nearby mountains.",
+    "He plays the guitar beautifully at family gatherings.",
+    "They travel to a new country every year for vacation.",
+    "I like visiting art galleries and museums on holidays.",
+    "My friend started a small business selling handmade crafts.",
+    "Learning a new language can be both fun and challenging.",
+    "Watching documentaries can help us understand different cultures better."
   ],
   "interviewScenarios": [
     {
-      "topic": "旅行經驗",
-      "intro": "You have agreed to take part in a research study about travel experiences.",
+      "topic": "旅行計畫",
+      "intro": "You have agreed to take part in a research study about travel planning.",
       "questions": [
-        "Q1: Can you share a memorable travel experience you had?",
-        "Q2: What challenges did you face during that trip?",
-        "Q3: What do you think is the importance of traveling?",
+        "Q1: Can you describe your last travel experience?",
+        "Q2: What challenges do you face when planning a trip?",
+        "Q3: How important is travel planning to you?",
         "Q4: What advice would you give someone planning their first trip?"
       ]
     },
     {
-      "topic": "學習方法",
-      "intro": "You have agreed to take part in a research study about study methods.",
+      "topic": "飲食習慣",
+      "intro": "You have agreed to take part in a research study about eating habits.",
       "questions": [
-        "Q1: What study methods do you find most effective?",
-        "Q2: Have you ever struggled with a particular subject while studying?",
-        "Q3: In your opinion, how important is it to have a structured study plan?",
-        "Q4: What recommendations would you give to students looking to improve their study habits?"
+        "Q1: What is your favorite meal of the day and why?",
+        "Q2: Have you encountered any challenges with your eating habits?",
+        "Q3: How do you think our diet affects our health?",
+        "Q4: What tips would you give for maintaining a healthy diet?"
       ]
     },
     {
-      "topic": "環保習慣",
-      "intro": "You have agreed to take part in a research study about eco-friendly habits.",
+      "topic": "運動習慣",
+      "intro": "You have agreed to take part in a research study about exercise habits.",
       "questions": [
-        "Q1: Can you describe some eco-friendly habits you follow?",
-        "Q2: What difficulties have you encountered in maintaining these habits?",
-        "Q3: What role do you think individuals play in protecting the environment?",
-        "Q4: What suggestions would you offer for someone wanting to adopt greener habits?"
+        "Q1: What type of exercise do you enjoy doing?",
+        "Q2: What obstacles do you face in keeping an exercise routine?",
+        "Q3: Why do you think regular exercise is important?",
+        "Q4: What suggestions do you have for someone starting to exercise?"
       ]
     }
   ]

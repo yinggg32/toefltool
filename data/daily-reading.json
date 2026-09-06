@@ -2,107 +2,101 @@
   "cloze": {
     "segments": [
       {
-        "text": "The phenomenon of photosynthesis is essential for life on Earth, as it allows plants to convert solar energy into chemical energy. This process primarily occurs in the chloropla"
+        "text": "The concept of a ecosystem is fundamental in biology. It refers to a community of living organisms, along with their physical environment, interacting as a system. Ecosystems can be as small as a puddle or as large as the entire planet. A key feature of ecosystems is their ability to maintain a balance, known as homeo"
       },
       {
-        "blank": "sts"
+        "blank": "stasis"
       },
       {
-        "text": " of plant cells, where chlorophyll absorbs light. During photosynthesis, carbon dioxide and water are transformed into glucose and oxyge"
+        "text": ". Various biotic and abiotic factors contribute to this balance. For instance, the presence of diverse species increases an ecosystem's resilience to changes. When one species is removed, the entire system can be affected, leading to a breakdown of the food cha"
       },
       {
-        "blank": "n."
+        "blank": "in"
       },
       {
-        "text": " The overall chemical reaction can be summarized by the equation: 6CO₂ + 6H₂O → C₆H₁₂O₆ + 6O₂. This process not only provides nourishment for plants but also sustai"
+        "text": ". Furthermore, ecosystems provide essential services such as clean air, water filtration, and pollination of crops. Understanding these systems is crucial for conservation efforts and sustainable development. The impact of human activity on these delicate interconnections can result in severe ecological di"
       },
       {
-        "blank": "ns"
+        "blank": "sruptions"
       },
       {
-        "text": " the oxygen supply for the planet. Additionally, photosynthesis plays a crucial role in the carbon cycle, influencing global climates and ecosyst"
-      },
-      {
-        "blank": "ems."
-      },
-      {
-        "text": " Understanding photosynthesis helps scientists develop sustainable agricultural practices and address climate change."
+        "text": ". Therefore, protecting ecosystems is vital for preserving biodiversity and ensuring the health of the planet."
       }
     ]
   },
   "academic": {
-    "passage": "Photosynthesis is a process used by plants to convert light energy into chemical energy, crucial for producing glucose and oxygen. It occurs in chloroplasts, where light energy is captured and transformed. This reaction not only nourishes plants but also supports the ecosystem by providing oxygen and regulating atmospheric carbon, highlighting its importance in sustaining life on Earth.",
+    "passage": "Ecosystems are intricate networks of living organisms and their environments, where both biotic and abiotic components interact. They provide essential functions such as nutrient cycling and energy flow, which are critical for sustaining life. The health of an ecosystem can influence biodiversity and resilience to environmental changes. Human activities, such as pollution and habitat destruction, pose significant threats, requiring strategies for management and conservation. Understanding these interactions is essential for ecological studies and environmental policy.",
     "questions": [
       {
         "q": "What is the main idea of the passage?",
         "options": [
-          "Photosynthesis is vital for life on Earth.",
-          "Chloroplasts are essential for photosynthesis.",
-          "Glucose production is the main focus of photosynthesis.",
-          "Oxygen is the only byproduct of photosynthesis."
+          "Ecosystems are crucial for sustaining life.",
+          "Pollution affects ecosystems negatively.",
+          "Conservation strategies are necessary.",
+          "Human activities have no impact on ecosystems."
         ],
         "correctIndex": 0,
-        "explain": "這篇文章的主要思想是光合作用對地球生命的重要性。"
+        "explain": "這段文字的主旨在於強調生態系統對於維持生命的重要性。"
       },
       {
-        "q": "Where does photosynthesis take place in plant cells?",
+        "q": "What are two functions of ecosystems mentioned in the passage?",
         "options": [
-          "In the nucleus",
-          "In the chloroplasts",
-          "In the cell membrane",
-          "In the mitochondria"
+          "Housing animals and plants",
+          "Nutrient cycling and energy flow",
+          "Regulating climate and weather",
+          "Providing recreational opportunities"
         ],
         "correctIndex": 1,
-        "explain": "光合作用發生在植物細胞的葉綠體中。"
+        "explain": "段落中提到生態系統的兩個功能是養分循環和能量流動。"
       },
       {
-        "q": "What can be inferred about photosynthesis and climate change?",
+        "q": "What can be inferred about human activities and ecosystems?",
         "options": [
-          "Photosynthesis has no effect on climate change.",
-          "Photosynthesis could help mitigate climate change.",
-          "Climate change enhances photosynthesis.",
-          "Photosynthesis is unrelated to ecosystems."
+          "They have a positive effect on ecosystems.",
+          "They are completely unrelated.",
+          "They can damage ecosystems.",
+          "They help maintain ecosystem balance."
         ],
-        "correctIndex": 1,
-        "explain": "可以推斷光合作用有助於減緩氣候變化。"
+        "correctIndex": 2,
+        "explain": "可以推論人類活動對生態系統有損害，因為段落提到污染和棲息地破壞。"
       },
       {
-        "q": "What does the term 'chlorophyll' refer to in the passage?",
+        "q": "What does the term 'abiotic' refer to in the context of ecosystems?",
         "options": [
-          "A type of plant",
-          "A pigment involved in photosynthesis",
-          "A process of energy conversion",
-          "An element produced during respiration"
+          "Living components",
+          "Non-living components",
+          "Ecosystem types",
+          "Species interactions"
         ],
         "correctIndex": 1,
-        "explain": "在文章中，'葉綠素'指的是參與光合作用的色素。"
+        "explain": "'非生物'是在生態系統中指非生物成分，即環境因素。"
       }
     ]
   },
   "daily": {
-    "passage": "Attention students: The campus library will have extended hours this week in preparation for final exams. Monday through Friday, the library will be open from 8 AM to midnight. Please take advantage of this opportunity to study.",
+    "passage": "Attention students: The campus library will be closed for renovations from May 1st to May 15th. Please plan accordingly and return all library materials by April 30th to avoid fines. We apologize for any inconvenience this may cause and appreciate your understanding.",
     "questions": [
       {
-        "q": "What are the extended hours of the library this week?",
+        "q": "When will the library be closed?",
         "options": [
-          "8 AM to 10 PM",
-          "8 AM to midnight",
-          "6 AM to midnight",
-          "8 AM to 11 PM"
+          "From April 30th to May 15th",
+          "From May 1st to May 15th",
+          "From May 1st to April 30th",
+          "From May 16th to May 30th"
         ],
         "correctIndex": 1,
-        "explain": "本週圖書館的延長開放時間是早上8點到午夜。"
+        "explain": "圖書館將於5月1日至5月15日關閉，這段信息明確指出了關閉的日期。"
       },
       {
-        "q": "When will the library have extended hours?",
+        "q": "What should students do before April 30th?",
         "options": [
-          "Only on weekends",
-          "Monday through Friday",
-          "Only during exams",
-          "Every day"
+          "Return library materials",
+          "Borrow new books",
+          "Attend a meeting",
+          "Visit the library website"
         ],
-        "correctIndex": 1,
-        "explain": "圖書館的延長開放時間是從週一到週五。"
+        "correctIndex": 0,
+        "explain": "學生需在4月30日之前歸還圖書館材料，以避免罰款。"
       }
     ]
   }

@@ -1,116 +1,116 @@
 {
   "chooseResponse": [
     {
-      "q": "What did you think of the movie?",
+      "q": "What do you think of the new cafe?",
       "options": [
-        "It was fantastic!",
-        "I didn't like it.",
-        "It was alright.",
-        "I haven't seen it."
+        "It's fantastic!",
+        "I don't like it.",
+        "It's too noisy.",
+        "I haven't been there."
       ],
       "correctIndex": 0
     }
   ],
   "conversation": {
-    "transcript": "Student: Did you catch the art exhibition downtown?\nAdvisor: Yes, I went last weekend. It was amazing!\nStudent: Really? What was your favorite piece?\nAdvisor: I loved the giant mural. It was so colorful and vibrant!",
+    "transcript": "Student: Have you tried the new cafe on campus?\nAdvisor: Yes, I went there last week. It's great!\nStudent: What did you like the most about it?\nAdvisor: I loved the variety of drinks they offer.",
     "questions": [
       {
-        "q": "What did the student ask about?",
+        "q": "What did the advisor think of the cafe?",
         "options": [
-          "An art exhibition",
-          "A music concert",
-          "A sports event",
-          "A theater play"
+          "It's great!",
+          "It's too noisy.",
+          "It needs more furniture.",
+          "I haven't tried it."
         ],
         "correctIndex": 0,
-        "explain": "學生詢問了有關藝術展覽的問題。"
+        "explain": "顧問覺得咖啡館很棒。"
       },
       {
-        "q": "What did the advisor think of the exhibition?",
+        "q": "When did the advisor visit the cafe?",
         "options": [
-          "It was boring.",
-          "It was amazing.",
-          "It was too crowded.",
-          "It was too expensive."
+          "Last week",
+          "Yesterday",
+          "This morning",
+          "Two weeks ago"
         ],
-        "correctIndex": 1,
-        "explain": "顧問認為展覽非常棒。"
+        "correctIndex": 0,
+        "explain": "顧問上周去過咖啡館。"
       }
     ]
   },
   "announcement": {
-    "transcript": "Attention students! The library will be closed this Saturday for maintenance. Please make sure to borrow any needed materials before then. We apologize for any inconvenience and appreciate your understanding.",
+    "transcript": "Attention students! Starting next week, the library will extend its hours. It will be open from 8 AM to midnight every day. We hope this helps you with your studies and research. Thank you!",
     "questions": [
       {
-        "q": "Why will the library be closed?",
+        "q": "What will change about the library's hours?",
         "options": [
-          "For a holiday",
-          "For maintenance",
-          "For a special event",
-          "For inventory"
+          "It will open earlier.",
+          "It will close earlier.",
+          "It will stay open longer.",
+          "It will be closed on weekends."
         ],
-        "correctIndex": 1,
-        "explain": "圖書館將於本週六關閉，因為需要進行維護。"
+        "correctIndex": 2,
+        "explain": "圖書館的開放時間將延長。"
       },
       {
-        "q": "When should students borrow materials?",
+        "q": "When will the new hours start?",
         "options": [
-          "Before Saturday",
-          "After Saturday",
-          "Anytime",
-          "Only during exams"
+          "This week",
+          "Next week",
+          "Next month",
+          "Tomorrow"
         ],
-        "correctIndex": 0,
-        "explain": "學生應在星期六之前借用材料。"
+        "correctIndex": 1,
+        "explain": "新的開放時間將於下周開始。"
       }
     ]
   },
   "talk": {
-    "transcript": "Today, we will discuss the concept of photosynthesis. Photosynthesis is the process by which green plants, algae, and some bacteria convert light energy into chemical energy. This process takes place in the chloroplasts of plant cells, where chlorophyll absorbs sunlight. The primary inputs for photosynthesis are carbon dioxide and water, which, through a series of reactions, produce glucose and oxygen. This process is essential for life on Earth as it provides the oxygen we breathe and serves as the foundation of the food chain.",
+    "transcript": "Today, we will discuss the importance of biodiversity. Biodiversity refers to the variety of life on Earth, including the different species of plants, animals, and microorganisms. It plays a crucial role in maintaining ecosystem balance. A rich biodiversity ensures natural sustainability for all life forms. It also provides us with essential services, such as pollination of crops, clean air and water, and climate regulation. Loss of biodiversity can lead to ecosystem collapse, which emphasizes the need for conservation efforts.",
     "questions": [
       {
-        "q": "What is photosynthesis?",
+        "q": "What does biodiversity refer to?",
         "options": [
-          "A chemical reaction",
-          "A biological process",
-          "A physical change",
-          "A geological activity"
+          "The variety of species on Earth",
+          "The number of ecosystems",
+          "The amount of pollution",
+          "The climate changes"
         ],
-        "correctIndex": 1,
-        "explain": "光合作用是一種生物過程。"
+        "correctIndex": 0,
+        "explain": "生物多樣性指地球上物種的多樣性。"
       },
       {
-        "q": "Where does photosynthesis occur?",
+        "q": "Why is biodiversity important?",
         "options": [
-          "In the roots",
-          "In the leaves",
-          "In the fruits",
-          "In the flowers"
+          "It helps in pollution control.",
+          "It maintains ecosystem balance.",
+          "It reduces climate change.",
+          "It promotes urban development."
         ],
         "correctIndex": 1,
-        "explain": "光合作用在葉子中進行。"
+        "explain": "生物多樣性對於維持生態系統平衡至關重要。"
       },
       {
-        "q": "What do plants absorb from sunlight?",
+        "q": "What essential service does biodiversity provide?",
         "options": [
-          "Minerals",
-          "Heat",
-          "Light energy",
-          "Water"
+          "More job opportunities",
+          "Cultural heritage",
+          "Pollination of crops",
+          "Urban planning"
         ],
         "correctIndex": 2,
-        "explain": "植物從陽光中吸收光能。"
+        "explain": "生物多樣性提供的服務包括作物的授粉。"
       },
       {
-        "q": "What is a product of photosynthesis?",
+        "q": "What could happen if biodiversity is lost?",
         "options": [
-          "Carbon dioxide",
-          "Glucose",
-          "Oxygen",
-          "Water"
+          "Increased job opportunities",
+          "Ecosystem collapse",
+          "Better urban life",
+          "More government funding"
         ],
         "correctIndex": 1,
-        "explain": "光合作用的產物之一是葡萄糖。"
+        "explain": "如果生物多樣性喪失，可能會導致生態系統崩潰。"
       }
     ]
   }
