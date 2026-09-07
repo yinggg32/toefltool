@@ -2,101 +2,101 @@
   "cloze": {
     "segments": [
       {
-        "text": "The concept of a ecosystem is fundamental in biology. It refers to a community of living organisms, along with their physical environment, interacting as a system. Ecosystems can be as small as a puddle or as large as the entire planet. A key feature of ecosystems is their ability to maintain a balance, known as homeo"
+        "text": "The process of photosynthesis is essential for life on Earth. It occurs in plants, algae, and some bacteria, converting sunlight into chemical energy. During this proce"
       },
       {
-        "blank": "stasis"
+        "blank": "ss"
       },
       {
-        "text": ". Various biotic and abiotic factors contribute to this balance. For instance, the presence of diverse species increases an ecosystem's resilience to changes. When one species is removed, the entire system can be affected, leading to a breakdown of the food cha"
+        "text": ", carbon dioxide and water are transformed into glucose and oxygen. This reaction not only provides food for the organisms that perform it but also releases oxy"
       },
       {
-        "blank": "in"
+        "blank": "gen"
       },
       {
-        "text": ". Furthermore, ecosystems provide essential services such as clean air, water filtration, and pollination of crops. Understanding these systems is crucial for conservation efforts and sustainable development. The impact of human activity on these delicate interconnections can result in severe ecological di"
+        "text": ", which is vital for most living creatures. Photosynthesis takes place in the chloroplasts, where chlorophyll captures light energy. The efficiency of photosynthesis can be influ"
       },
       {
-        "blank": "sruptions"
+        "blank": "enced"
       },
       {
-        "text": ". Therefore, protecting ecosystems is vital for preserving biodiversity and ensuring the health of the planet."
+        "text": ", depending on light intensity, temperature, and carbon dioxide levels. Understanding this process is crucial for addressing issues like climate change and food security."
       }
     ]
   },
   "academic": {
-    "passage": "Ecosystems are intricate networks of living organisms and their environments, where both biotic and abiotic components interact. They provide essential functions such as nutrient cycling and energy flow, which are critical for sustaining life. The health of an ecosystem can influence biodiversity and resilience to environmental changes. Human activities, such as pollution and habitat destruction, pose significant threats, requiring strategies for management and conservation. Understanding these interactions is essential for ecological studies and environmental policy.",
+    "passage": "Photosynthesis is a biochemical process where light energy is converted into chemical energy by plants, algae, and certain bacteria. This process converts carbon dioxide and water into glucose and oxygen, which are essential for life. The efficiency of photosynthesis can be affected by various factors such as light intensity, temperature, and carbon dioxide concentration, making it a critical area of study in environmental science and agriculture.",
     "questions": [
       {
         "q": "What is the main idea of the passage?",
         "options": [
-          "Ecosystems are crucial for sustaining life.",
-          "Pollution affects ecosystems negatively.",
-          "Conservation strategies are necessary.",
-          "Human activities have no impact on ecosystems."
+          "Photosynthesis is crucial for life.",
+          "Photosynthesis only occurs in plants.",
+          "Plants need water to survive.",
+          "Oxygen is harmful to living organisms."
         ],
         "correctIndex": 0,
-        "explain": "這段文字的主旨在於強調生態系統對於維持生命的重要性。"
+        "explain": "這段文字的主要觀點在於光合作用對生命的重要性。"
       },
       {
-        "q": "What are two functions of ecosystems mentioned in the passage?",
+        "q": "What are the products of photosynthesis mentioned in the passage?",
         "options": [
-          "Housing animals and plants",
-          "Nutrient cycling and energy flow",
-          "Regulating climate and weather",
-          "Providing recreational opportunities"
+          "Water and carbon dioxide",
+          "Glucose and oxygen",
+          "Sunlight and heat",
+          "Chlorophyll and energy"
         ],
         "correctIndex": 1,
-        "explain": "段落中提到生態系統的兩個功能是養分循環和能量流動。"
+        "explain": "文中提到光合作用的產物是葡萄糖和氧氣。"
       },
       {
-        "q": "What can be inferred about human activities and ecosystems?",
+        "q": "What can be inferred about the importance of studying photosynthesis?",
         "options": [
-          "They have a positive effect on ecosystems.",
-          "They are completely unrelated.",
-          "They can damage ecosystems.",
-          "They help maintain ecosystem balance."
-        ],
-        "correctIndex": 2,
-        "explain": "可以推論人類活動對生態系統有損害，因為段落提到污染和棲息地破壞。"
-      },
-      {
-        "q": "What does the term 'abiotic' refer to in the context of ecosystems?",
-        "options": [
-          "Living components",
-          "Non-living components",
-          "Ecosystem types",
-          "Species interactions"
+          "It is unrelated to climate change.",
+          "It is essential for improving food security.",
+          "It only impacts plant life.",
+          "It has no effect on living organisms."
         ],
         "correctIndex": 1,
-        "explain": "'非生物'是在生態系統中指非生物成分，即環境因素。"
+        "explain": "可以推斷，研究光合作用對改善食物安全非常重要。"
+      },
+      {
+        "q": "What does the term 'chloroplasts' refer to in the passage?",
+        "options": [
+          "A type of bacteria",
+          "The site of photosynthesis in plant cells",
+          "A molecule involved in respiration",
+          "An energy source for animals"
+        ],
+        "correctIndex": 1,
+        "explain": "文中提到的'葉綠體'是指植物細胞中光合作用的進行場所。"
       }
     ]
   },
   "daily": {
-    "passage": "Attention students: The campus library will be closed for renovations from May 1st to May 15th. Please plan accordingly and return all library materials by April 30th to avoid fines. We apologize for any inconvenience this may cause and appreciate your understanding.",
+    "passage": "Attention students: The library will be closed for maintenance on Saturday from 9 AM to 3 PM. Please plan your study time accordingly. We apologize for any inconvenience this may cause.",
     "questions": [
       {
         "q": "When will the library be closed?",
         "options": [
-          "From April 30th to May 15th",
-          "From May 1st to May 15th",
-          "From May 1st to April 30th",
-          "From May 16th to May 30th"
+          "Friday from 9 AM to 3 PM",
+          "Saturday from 9 AM to 3 PM",
+          "Saturday from 3 PM to 9 PM",
+          "Sunday from 9 AM to 3 PM"
         ],
         "correctIndex": 1,
-        "explain": "圖書館將於5月1日至5月15日關閉，這段信息明確指出了關閉的日期。"
+        "explain": "圖書館的維護時間是在星期六的上午9點到下午3點。"
       },
       {
-        "q": "What should students do before April 30th?",
+        "q": "Why is the library closing?",
         "options": [
-          "Return library materials",
-          "Borrow new books",
-          "Attend a meeting",
-          "Visit the library website"
+          "For a holiday",
+          "For maintenance",
+          "For a special event",
+          "For staff training"
         ],
-        "correctIndex": 0,
-        "explain": "學生需在4月30日之前歸還圖書館材料，以避免罰款。"
+        "correctIndex": 1,
+        "explain": "圖書館關閉的原因是進行維護。"
       }
     ]
   }

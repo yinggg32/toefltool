@@ -1,116 +1,116 @@
 {
   "chooseResponse": [
     {
-      "q": "What do you think of the new cafe?",
+      "q": "What time is the meeting?",
       "options": [
-        "It's fantastic!",
-        "I don't like it.",
-        "It's too noisy.",
-        "I haven't been there."
+        "At 3 PM",
+        "I forgot",
+        "I don't know",
+        "I'm not sure"
       ],
       "correctIndex": 0
     }
   ],
   "conversation": {
-    "transcript": "Student: Have you tried the new cafe on campus?\nAdvisor: Yes, I went there last week. It's great!\nStudent: What did you like the most about it?\nAdvisor: I loved the variety of drinks they offer.",
+    "transcript": "Student: Hey, did you finish the project?\nProfessor: Almost! Just putting the final touches on it. How about you?\nStudent: I'm still working on the research part. It's a bit tricky.\nProfessor: I can help you if you need it. Just let me know.",
     "questions": [
       {
-        "q": "What did the advisor think of the cafe?",
+        "q": "What is the student struggling with?",
         "options": [
-          "It's great!",
-          "It's too noisy.",
-          "It needs more furniture.",
-          "I haven't tried it."
+          "Finding resources",
+          "Formatting the paper",
+          "Working on research",
+          "Understanding the topic"
         ],
-        "correctIndex": 0,
-        "explain": "顧問覺得咖啡館很棒。"
+        "correctIndex": 2,
+        "explain": "學生在研究部分遇到困難。"
       },
       {
-        "q": "When did the advisor visit the cafe?",
+        "q": "What does the professor offer to do?",
         "options": [
-          "Last week",
-          "Yesterday",
-          "This morning",
-          "Two weeks ago"
+          "Grade the project",
+          "Help with the research",
+          "Review the work",
+          "Extend the deadline"
         ],
-        "correctIndex": 0,
-        "explain": "顧問上周去過咖啡館。"
+        "correctIndex": 1,
+        "explain": "教授提供幫助學生的研究。"
       }
     ]
   },
   "announcement": {
-    "transcript": "Attention students! Starting next week, the library will extend its hours. It will be open from 8 AM to midnight every day. We hope this helps you with your studies and research. Thank you!",
+    "transcript": "Attention students: The library will extend its hours during finals week. It will open at 8 AM and close at midnight. Please take advantage of this time to study and prepare for your exams.",
     "questions": [
       {
-        "q": "What will change about the library's hours?",
+        "q": "What is the main purpose of the announcement?",
         "options": [
-          "It will open earlier.",
-          "It will close earlier.",
-          "It will stay open longer.",
-          "It will be closed on weekends."
+          "To inform about library hours",
+          "To cancel library services",
+          "To announce a new library policy",
+          "To promote library events"
         ],
-        "correctIndex": 2,
-        "explain": "圖書館的開放時間將延長。"
+        "correctIndex": 0,
+        "explain": "公告的主要目的是通知學生圖書館的開放時間。"
       },
       {
-        "q": "When will the new hours start?",
+        "q": "When will the library close during finals week?",
         "options": [
-          "This week",
-          "Next week",
-          "Next month",
-          "Tomorrow"
+          "10 PM",
+          "11 PM",
+          "Midnight",
+          "1 AM"
         ],
-        "correctIndex": 1,
-        "explain": "新的開放時間將於下周開始。"
+        "correctIndex": 2,
+        "explain": "圖書館在期末考週將在午夜關閉。"
       }
     ]
   },
   "talk": {
-    "transcript": "Today, we will discuss the importance of biodiversity. Biodiversity refers to the variety of life on Earth, including the different species of plants, animals, and microorganisms. It plays a crucial role in maintaining ecosystem balance. A rich biodiversity ensures natural sustainability for all life forms. It also provides us with essential services, such as pollination of crops, clean air and water, and climate regulation. Loss of biodiversity can lead to ecosystem collapse, which emphasizes the need for conservation efforts.",
+    "transcript": "Today, we're discussing renewable energy sources. Renewable energy refers to energy that comes from natural resources that can be replenished. This includes sources like solar, wind, and hydropower. Unlike fossil fuels, which can deplete and contribute to pollution, renewable energy sources are sustainable and have a much lower environmental impact. As we continue to face climate change, transitioning to renewable energy is crucial for a sustainable future. Many countries are investing in technology to harness these resources more efficiently, which not only helps the environment but also creates jobs in new industries.",
     "questions": [
       {
-        "q": "What does biodiversity refer to?",
+        "q": "What are renewable energy sources?",
         "options": [
-          "The variety of species on Earth",
-          "The number of ecosystems",
-          "The amount of pollution",
-          "The climate changes"
-        ],
-        "correctIndex": 0,
-        "explain": "生物多樣性指地球上物種的多樣性。"
-      },
-      {
-        "q": "Why is biodiversity important?",
-        "options": [
-          "It helps in pollution control.",
-          "It maintains ecosystem balance.",
-          "It reduces climate change.",
-          "It promotes urban development."
+          "Energy from fossils",
+          "Sustainable natural resources",
+          "Limited resources",
+          "Non-renewable energy"
         ],
         "correctIndex": 1,
-        "explain": "生物多樣性對於維持生態系統平衡至關重要。"
+        "explain": "可再生能源是指可再生的自然資源。"
       },
       {
-        "q": "What essential service does biodiversity provide?",
+        "q": "Why is transitioning to renewable energy important?",
         "options": [
-          "More job opportunities",
-          "Cultural heritage",
-          "Pollination of crops",
-          "Urban planning"
+          "To increase pollution",
+          "To deplete resources",
+          "To address climate change",
+          "To decrease jobs"
         ],
         "correctIndex": 2,
-        "explain": "生物多樣性提供的服務包括作物的授粉。"
+        "explain": "轉向可再生能源對於應對氣候變化是至關重要的。"
       },
       {
-        "q": "What could happen if biodiversity is lost?",
+        "q": "What is one benefit of renewable energy mentioned?",
         "options": [
-          "Increased job opportunities",
-          "Ecosystem collapse",
-          "Better urban life",
-          "More government funding"
+          "It depletes quickly",
+          "It creates pollution",
+          "It creates jobs",
+          "It is non-sustainable"
+        ],
+        "correctIndex": 2,
+        "explain": "可再生能源創造了新行業的就業機會。"
+      },
+      {
+        "q": "What examples of renewable energy are given?",
+        "options": [
+          "Coal and oil",
+          "Solar and wind",
+          "Natural gas",
+          "Atomic energy"
         ],
         "correctIndex": 1,
-        "explain": "如果生物多樣性喪失，可能會導致生態系統崩潰。"
+        "explain": "例子包括太陽能和風能。"
       }
     ]
   }

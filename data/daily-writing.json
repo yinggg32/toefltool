@@ -4,135 +4,131 @@
       "words": [
         "the",
         "students",
-        "discussed",
+        "completed",
+        "their",
+        "assignments",
+        "before",
         "the",
-        "impact",
-        "of",
-        "technology",
-        "on",
-        "education"
+        "deadline"
       ],
-      "display": "The students discussed the impact of technology on education."
+      "display": "The students completed their assignments before the deadline."
     },
     {
       "words": [
         "the",
         "researchers",
-        "found",
-        "significant",
-        "connections",
-        "between",
+        "discovered",
+        "new",
+        "information",
+        "about",
         "climate",
-        "change",
-        "and",
-        "wildlife"
+        "change"
       ],
-      "display": "The researchers found significant connections between climate change and wildlife."
+      "display": "The researchers discovered new information about climate change."
     },
     {
       "words": [
         "the",
         "professor",
-        "emphasized",
+        "encouraged",
         "the",
-        "importance",
-        "of",
-        "critical",
-        "thinking",
-        "in",
-        "academic",
-        "work"
-      ],
-      "display": "The professor emphasized the importance of critical thinking in academic work."
-    },
-    {
-      "words": [
-        "reading",
-        "can",
-        "enhance",
-        "cognitive",
-        "abilities",
-        "and",
-        "improve",
-        "language",
-        "skills"
-      ],
-      "display": "Reading can enhance cognitive abilities and improve language skills."
-    },
-    {
-      "words": [
         "students",
-        "should",
+        "to",
         "participate",
         "in",
-        "extracurricular",
-        "activities",
-        "to",
-        "develop",
-        "social",
-        "skills"
+        "the",
+        "discussion"
       ],
-      "display": "Students should participate in extracurricular activities to develop social skills."
+      "display": "The professor encouraged the students to participate in the discussion."
     },
     {
       "words": [
         "the",
-        "new",
-        "policy",
-        "aims",
-        "to",
-        "reduce",
-        "waste",
-        "and",
-        "promote",
-        "sustainability"
-      ],
-      "display": "The new policy aims to reduce waste and promote sustainability."
-    },
-    {
-      "words": [
-        "understanding",
-        "different",
-        "cultures",
-        "can",
-        "foster",
-        "global",
-        "citizenship",
-        "and",
-        "empathy"
-      ],
-      "display": "Understanding different cultures can foster global citizenship and empathy."
-    },
-    {
-      "words": [
-        "the",
-        "presentation",
-        "highlighted",
-        "key",
-        "findings",
+        "exhibition",
+        "features",
+        "artworks",
         "from",
-        "the",
-        "latest",
-        "scientific",
-        "studies"
+        "various",
+        "cultures",
+        "and",
+        "time",
+        "periods"
       ],
-      "display": "The presentation highlighted key findings from the latest scientific studies."
+      "display": "The exhibition features artworks from various cultures and time periods."
+    },
+    {
+      "words": [
+        "the",
+        "team",
+        "worked",
+        "together",
+        "to",
+        "solve",
+        "the",
+        "complex",
+        "problem"
+      ],
+      "display": "The team worked together to solve the complex problem."
+    },
+    {
+      "words": [
+        "the",
+        "library",
+        "offers",
+        "a",
+        "wide",
+        "range",
+        "of",
+        "resources",
+        "for",
+        "students"
+      ],
+      "display": "The library offers a wide range of resources for students."
+    },
+    {
+      "words": [
+        "the",
+        "conference",
+        "will",
+        "bring",
+        "together",
+        "experts",
+        "from",
+        "different",
+        "fields"
+      ],
+      "display": "The conference will bring together experts from different fields."
+    },
+    {
+      "words": [
+        "the",
+        "students",
+        "are",
+        "preparing",
+        "for",
+        "their",
+        "final",
+        "exams",
+        "next",
+        "week"
+      ],
+      "display": "The students are preparing for their final exams next week."
     }
   ],
   "emailPrompts": [
-    "寄信給教授，詢問能否延遲提交期末報告的時間。",
-    "寄信給宿舍辦公室，請求更換房間的事宜。",
-    "寄信給圖書館，詢問書籍借閱的具體流程。",
-    "寄信給社團，表達想要加入的意願並詢問相關活動。",
-    "寄信給客服，反映在訂購商品時遇到的問題。",
-    "寄信給同學，邀請他一起討論即將到來的考試範圍。"
+    "寄信給教授，詢問關於期末報告的指導方針。",
+    "寄信給宿舍辦公室，請求更換房間因為噪音問題。",
+    "寄信給圖書館，詢問關於借書續借的規定。",
+    "寄信給社團會長，表達想要參加社團的興趣。",
+    "寄信給客戶服務，請求退貨的程序及條件。",
+    "寄信給學校的職業中心，詢問實習機會的資訊。"
   ],
   "discussionPrompts": [
-    "教授問：「你認為科技對社會的影響是正面還是負面？」",
-    "教授問：「在全球化的背景下，文化多樣性的重要性如何？」",
-    "教授問：「可持續發展與經濟增長之間的關係是什麼？」",
-    "教授問：「你如何看待人工智能在未來工作的角色？」",
-    "教授問：「教育體系應如何調整以應對未來的挑戰？」",
-    "教授問：「社會媒體對人際關係的影響是什麼？」"
+    "教授問：「你認為科技對人類社會的影響是正面還是負面？」",
+    "教授問：「文化多樣性如何影響全球化的進程？」",
+    "教授問：「社會媒體對年輕人心理健康的影響是什麼？」",
+    "教授問：「環保政策應該如何平衡經濟發展與環境保護？」",
+    "教授問：「教育公平的挑戰是什麼，應該如何應對？」",
+    "教授問：「藝術在促進社會變革中扮演什麼樣的角色？」"
   ]
 }

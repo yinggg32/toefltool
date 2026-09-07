@@ -8246,5 +8246,29 @@
     "zh": "環境健康",
     "ex": "Environmental health focuses on the relationships between people and their environment.",
     "cat": "📰 每日新詞：public health"
+  },
+  {
+    "word": "civil disobedience",
+    "pos": "n.",
+    "root": "公民不服從—civil+disobedience",
+    "zh": "公民不服從",
+    "ex": "Civil disobedience has been used as a powerful tool for social change.",
+    "cat": "📰 每日新詞：political science"
+  },
+  {
+    "word": "political party",
+    "pos": "n.",
+    "root": "政黨—political+party",
+    "zh": "政黨",
+    "ex": "Political parties play a crucial role in organizing political competition.",
+    "cat": "📰 每日新詞：political science"
+  },
+  {
+    "word": "electoral system",
+    "pos": "n.",
+    "root": "選舉制度—electoral+system",
+    "zh": "選舉制度",
+    "ex": "The electoral system determines how votes are translated into seats in the legislature.",
+    "cat": "📰 每日新詞：political science"
   }
 ]
