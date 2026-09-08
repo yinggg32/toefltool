@@ -2,101 +2,113 @@
   "cloze": {
     "segments": [
       {
-        "text": "The process of photosynthesis is essential for life on Earth. It occurs in plants, algae, and some bacteria, converting sunlight into chemical energy. During this proce"
+        "text": "The human brain is an incredibly complex organ, containing billions of neurons that communicate through "
       },
       {
-        "blank": "ss"
+        "blank": "synap"
       },
       {
-        "text": ", carbon dioxide and water are transformed into glucose and oxygen. This reaction not only provides food for the organisms that perform it but also releases oxy"
+        "text": ", forming intricate networks. One key aspect of brain function is "
       },
       {
-        "blank": "gen"
+        "blank": "neuro"
       },
       {
-        "text": ", which is vital for most living creatures. Photosynthesis takes place in the chloroplasts, where chlorophyll captures light energy. The efficiency of photosynthesis can be influ"
+        "text": ", which refers to the processes by which neurons transmit information. The brain is also capable of "
       },
       {
-        "blank": "enced"
+        "blank": "plasti"
       },
       {
-        "text": ", depending on light intensity, temperature, and carbon dioxide levels. Understanding this process is crucial for addressing issues like climate change and food security."
+        "text": ", allowing for changes based on experience. This adaptability is essential for "
+      },
+      {
+        "blank": "learn"
+      },
+      {
+        "text": ", enabling individuals to acquire new skills and knowledge throughout their lives. Furthermore, research has shown that "
+      },
+      {
+        "blank": "sleep"
+      },
+      {
+        "text": ", plays a critical role in consolidating memories and enhancing cognitive function."
       }
     ]
   },
   "academic": {
-    "passage": "Photosynthesis is a biochemical process where light energy is converted into chemical energy by plants, algae, and certain bacteria. This process converts carbon dioxide and water into glucose and oxygen, which are essential for life. The efficiency of photosynthesis can be affected by various factors such as light intensity, temperature, and carbon dioxide concentration, making it a critical area of study in environmental science and agriculture.",
+    "passage": "The study of human brain function reveals that the brain is not only responsible for processing information but also adapts over time through neural plasticity. This adaptability allows individuals to learn and retain information effectively, making experiences crucial for cognitive development. Sleep is another vital component, as it aids memory consolidation and overall brain health. Understanding these mechanisms is essential for developing strategies to improve learning and memory retention in educational settings.",
     "questions": [
       {
         "q": "What is the main idea of the passage?",
         "options": [
-          "Photosynthesis is crucial for life.",
-          "Photosynthesis only occurs in plants.",
-          "Plants need water to survive.",
-          "Oxygen is harmful to living organisms."
-        ],
-        "correctIndex": 0,
-        "explain": "這段文字的主要觀點在於光合作用對生命的重要性。"
-      },
-      {
-        "q": "What are the products of photosynthesis mentioned in the passage?",
-        "options": [
-          "Water and carbon dioxide",
-          "Glucose and oxygen",
-          "Sunlight and heat",
-          "Chlorophyll and energy"
+          "The brain functions solely through neural connections.",
+          "Neural plasticity and sleep are crucial for cognitive function.",
+          "The brain does not adapt to new experiences.",
+          "Educational strategies need no scientific basis."
         ],
         "correctIndex": 1,
-        "explain": "文中提到光合作用的產物是葡萄糖和氧氣。"
+        "explain": "這段文字的主旨是在說明大腦的可塑性和睡眠對認知功能的重要性。"
       },
       {
-        "q": "What can be inferred about the importance of studying photosynthesis?",
+        "q": "What role does sleep play according to the passage?",
         "options": [
-          "It is unrelated to climate change.",
-          "It is essential for improving food security.",
-          "It only impacts plant life.",
-          "It has no effect on living organisms."
+          "It helps in learning new languages.",
+          "It is important for processing visual information.",
+          "It aids memory consolidation.",
+          "It has no effect on brain health."
         ],
-        "correctIndex": 1,
-        "explain": "可以推斷，研究光合作用對改善食物安全非常重要。"
+        "correctIndex": 2,
+        "explain": "根據文本，睡眠在記憶鞏固中起著重要作用。"
       },
       {
-        "q": "What does the term 'chloroplasts' refer to in the passage?",
+        "q": "What can be inferred about the relationship between experience and learning?",
         "options": [
-          "A type of bacteria",
-          "The site of photosynthesis in plant cells",
-          "A molecule involved in respiration",
-          "An energy source for animals"
+          "Experience is irrelevant to learning.",
+          "More experience leads to less adaptability.",
+          "Experience is essential for effective learning.",
+          "Learning does not occur without experience."
         ],
-        "correctIndex": 1,
-        "explain": "文中提到的'葉綠體'是指植物細胞中光合作用的進行場所。"
+        "correctIndex": 2,
+        "explain": "可以推斷，體驗對有效學習是必不可少的，因為大腦的可塑性依賴於這些體驗。"
+      },
+      {
+        "q": "What does the term 'neural plasticity' refer to in the passage?",
+        "options": [
+          "The ability of neurons to regenerate.",
+          "The way neurons transmit signals.",
+          "The brain's ability to adapt and change.",
+          "The process of forgetting information."
+        ],
+        "correctIndex": 2,
+        "explain": "在這段文字中，'神經可塑性'是指大腦適應和改變的能力。"
       }
     ]
   },
   "daily": {
-    "passage": "Attention students: The library will be closed for maintenance on Saturday from 9 AM to 3 PM. Please plan your study time accordingly. We apologize for any inconvenience this may cause.",
+    "passage": "Attention students: The annual cultural festival will take place this Saturday at the Main Quad from 10 AM to 5 PM. Enjoy food, music, and performances from various cultures. Don't miss out on this great opportunity to experience diversity on campus!",
     "questions": [
       {
-        "q": "When will the library be closed?",
+        "q": "What time does the cultural festival start?",
         "options": [
-          "Friday from 9 AM to 3 PM",
-          "Saturday from 9 AM to 3 PM",
-          "Saturday from 3 PM to 9 PM",
-          "Sunday from 9 AM to 3 PM"
+          "9 AM",
+          "10 AM",
+          "11 AM",
+          "12 PM"
         ],
         "correctIndex": 1,
-        "explain": "圖書館的維護時間是在星期六的上午9點到下午3點。"
+        "explain": "文化節的開始時間是10 AM。"
       },
       {
-        "q": "Why is the library closing?",
+        "q": "Where will the cultural festival be held?",
         "options": [
-          "For a holiday",
-          "For maintenance",
-          "For a special event",
-          "For staff training"
+          "In the library",
+          "At the cafeteria",
+          "In the Main Quad",
+          "In the gym"
         ],
-        "correctIndex": 1,
-        "explain": "圖書館關閉的原因是進行維護。"
+        "correctIndex": 2,
+        "explain": "文化節將在Main Quad舉行。"
       }
     ]
   }

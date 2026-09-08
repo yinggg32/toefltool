@@ -8270,5 +8270,61 @@
     "zh": "選舉制度",
     "ex": "The electoral system determines how votes are translated into seats in the legislature.",
     "cat": "📰 每日新詞：political science"
+  },
+  {
+    "word": "foraging",
+    "pos": "n./v.",
+    "root": "forage-覓食",
+    "zh": "覓食",
+    "ex": "Foraging societies rely on hunting and gathering for their subsistence.",
+    "cat": "📰 每日新詞：anthropology"
+  },
+  {
+    "word": "patrilineal",
+    "pos": "adj.",
+    "root": "patri-父親 + lineal-直系的",
+    "zh": "父系的",
+    "ex": "In patrilineal societies, inheritance is passed down through the male line.",
+    "cat": "📰 每日新詞：anthropology"
+  },
+  {
+    "word": "matrilineal",
+    "pos": "adj.",
+    "root": "matri-母親 + lineal-直系的",
+    "zh": "母系的",
+    "ex": "Matrilineal cultures trace lineage and inheritance through the female line.",
+    "cat": "📰 每日新詞：anthropology"
+  },
+  {
+    "word": "race",
+    "pos": "n.",
+    "root": "—",
+    "zh": "種族",
+    "ex": "Race is often a significant factor in discussions about social justice.",
+    "cat": "📰 每日新詞：anthropology"
+  },
+  {
+    "word": "gender studies",
+    "pos": "n.",
+    "root": "gender-性別 + studies-研究",
+    "zh": "性別研究",
+    "ex": "Gender studies explore the roles and expectations of different genders in society.",
+    "cat": "📰 每日新詞：anthropology"
+  },
+  {
+    "word": "cognitive anthropology",
+    "pos": "n.",
+    "root": "cognitive-認知的 + anthropo-人類 + logy-學科",
+    "zh": "認知人類學",
+    "ex": "Cognitive anthropology examines how cultural beliefs shape human thought processes.",
+    "cat": "📰 每日新詞：anthropology"
+  },
+  {
+    "word": "acclimatization",
+    "pos": "n.",
+    "root": "acclimat-適應 + ization-過程",
+    "zh": "適應過程",
+    "ex": "Acclimatization is essential for individuals moving to extreme environmental conditions.",
+    "cat": "📰 每日新詞：anthropology"
   }
 ]

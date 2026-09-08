@@ -4,113 +4,113 @@
       "q": "What time is the meeting?",
       "options": [
         "At 3 PM",
-        "I forgot",
-        "I don't know",
-        "I'm not sure"
+        "In the library",
+        "Next Tuesday",
+        "With the professor"
       ],
       "correctIndex": 0
     }
   ],
   "conversation": {
-    "transcript": "Student: Hey, did you finish the project?\nProfessor: Almost! Just putting the final touches on it. How about you?\nStudent: I'm still working on the research part. It's a bit tricky.\nProfessor: I can help you if you need it. Just let me know.",
+    "transcript": "Student: Hey, have you studied for the exam?\nProfessor: Not yet, I was planning to start later today.\nStudent: Do you know what topics will be covered?\nProfessor: Yes, it's mostly on chapter five and six.",
     "questions": [
       {
-        "q": "What is the student struggling with?",
+        "q": "What chapters should the student study?",
         "options": [
-          "Finding resources",
-          "Formatting the paper",
-          "Working on research",
-          "Understanding the topic"
-        ],
-        "correctIndex": 2,
-        "explain": "學生在研究部分遇到困難。"
-      },
-      {
-        "q": "What does the professor offer to do?",
-        "options": [
-          "Grade the project",
-          "Help with the research",
-          "Review the work",
-          "Extend the deadline"
+          "Chapters one and two",
+          "Chapters five and six",
+          "Chapter seven",
+          "Chapter three"
         ],
         "correctIndex": 1,
-        "explain": "教授提供幫助學生的研究。"
+        "explain": "學生應該學習第五和第六章。"
+      },
+      {
+        "q": "When does the professor plan to study?",
+        "options": [
+          "In the morning",
+          "Later today",
+          "Next week",
+          "Not at all"
+        ],
+        "correctIndex": 1,
+        "explain": "教授計劃今天稍晚時候學習。"
       }
     ]
   },
   "announcement": {
-    "transcript": "Attention students: The library will extend its hours during finals week. It will open at 8 AM and close at midnight. Please take advantage of this time to study and prepare for your exams.",
+    "transcript": "Attention students! The library will be closed for renovations starting next Monday and will reopen in two weeks. Please plan accordingly and check our website for updates.",
     "questions": [
       {
-        "q": "What is the main purpose of the announcement?",
+        "q": "How long will the library be closed?",
         "options": [
-          "To inform about library hours",
-          "To cancel library services",
-          "To announce a new library policy",
-          "To promote library events"
+          "One week",
+          "Two weeks",
+          "Three weeks",
+          "Indefinitely"
         ],
-        "correctIndex": 0,
-        "explain": "公告的主要目的是通知學生圖書館的開放時間。"
+        "correctIndex": 1,
+        "explain": "圖書館將關閉兩週。"
       },
       {
-        "q": "When will the library close during finals week?",
+        "q": "When will the library close?",
         "options": [
-          "10 PM",
-          "11 PM",
-          "Midnight",
-          "1 AM"
+          "This Friday",
+          "Next Monday",
+          "Next Friday",
+          "Tomorrow"
         ],
-        "correctIndex": 2,
-        "explain": "圖書館在期末考週將在午夜關閉。"
+        "correctIndex": 1,
+        "explain": "圖書館將在下週一關閉。"
       }
     ]
   },
   "talk": {
-    "transcript": "Today, we're discussing renewable energy sources. Renewable energy refers to energy that comes from natural resources that can be replenished. This includes sources like solar, wind, and hydropower. Unlike fossil fuels, which can deplete and contribute to pollution, renewable energy sources are sustainable and have a much lower environmental impact. As we continue to face climate change, transitioning to renewable energy is crucial for a sustainable future. Many countries are investing in technology to harness these resources more efficiently, which not only helps the environment but also creates jobs in new industries.",
+    "transcript": "Today, we will discuss the concept of biodiversity, which refers to the variety of life found on Earth. Biodiversity is essential for maintaining the balance of ecosystems, as it contributes to resilience against environmental changes. There are three main levels of biodiversity: genetic, species, and ecosystem diversity. Genetic diversity involves the variety of genes within species, species diversity refers to the number of different species in an area, and ecosystem diversity is about the variety of habitats and ecological processes. Protecting biodiversity is crucial for sustaining the natural resources we rely on.",
     "questions": [
       {
-        "q": "What are renewable energy sources?",
+        "q": "What is biodiversity?",
         "options": [
-          "Energy from fossils",
-          "Sustainable natural resources",
-          "Limited resources",
-          "Non-renewable energy"
+          "The study of organisms",
+          "The variety of life on Earth",
+          "The process of evolution",
+          "The number of habitats"
         ],
         "correctIndex": 1,
-        "explain": "可再生能源是指可再生的自然資源。"
+        "explain": "生物多樣性是地球上生命的多樣性。"
       },
       {
-        "q": "Why is transitioning to renewable energy important?",
+        "q": "Why is biodiversity important?",
         "options": [
-          "To increase pollution",
-          "To deplete resources",
-          "To address climate change",
-          "To decrease jobs"
-        ],
-        "correctIndex": 2,
-        "explain": "轉向可再生能源對於應對氣候變化是至關重要的。"
-      },
-      {
-        "q": "What is one benefit of renewable energy mentioned?",
-        "options": [
-          "It depletes quickly",
-          "It creates pollution",
-          "It creates jobs",
-          "It is non-sustainable"
-        ],
-        "correctIndex": 2,
-        "explain": "可再生能源創造了新行業的就業機會。"
-      },
-      {
-        "q": "What examples of renewable energy are given?",
-        "options": [
-          "Coal and oil",
-          "Solar and wind",
-          "Natural gas",
-          "Atomic energy"
+          "It increases population sizes",
+          "It helps maintain ecosystem balance",
+          "It reduces genetic variety",
+          "It simplifies ecological processes"
         ],
         "correctIndex": 1,
-        "explain": "例子包括太陽能和風能。"
+        "explain": "生物多樣性有助於維持生態系統的平衡。"
+      },
+      {
+        "q": "What are the levels of biodiversity?",
+        "options": [
+          "Genetic, species, and ecosystem",
+          "Physical, chemical, and biological",
+          "Local, regional, and global",
+          "Micro, macro, and mega"
+        ],
+        "correctIndex": 0,
+        "explain": "生物多樣性的三個主要層次是遺傳、多樣性和生態系統。"
+      },
+      {
+        "q": "What is ecosystem diversity?",
+        "options": [
+          "The variety of genes in species",
+          "The number of species",
+          "The variety of habitats and processes",
+          "The evolution of life forms"
+        ],
+        "correctIndex": 2,
+        "explain": "生態系統多樣性是指棲息地和生態過程的多樣性。"
       }
     ]
   }
