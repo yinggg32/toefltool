@@ -1,116 +1,116 @@
 {
   "chooseResponse": [
     {
-      "q": "What time is the meeting?",
+      "q": "What did you think of the lecture?",
       "options": [
-        "At 3 PM",
-        "In the library",
-        "Next Tuesday",
-        "With the professor"
+        "It was fascinating!",
+        "I didn't like it.",
+        "It was too long.",
+        "I want to learn more."
       ],
       "correctIndex": 0
     }
   ],
   "conversation": {
-    "transcript": "Student: Hey, have you studied for the exam?\nProfessor: Not yet, I was planning to start later today.\nStudent: Do you know what topics will be covered?\nProfessor: Yes, it's mostly on chapter five and six.",
+    "transcript": "Student: Hey, did you get a chance to attend the guest lecture on climate change?\nProfessor: Yes, I did. It was very informative. Did you like it?\nStudent: I thought it was really engaging, especially the part about renewable energy.\nProfessor: I agree! It’s a crucial topic nowadays.",
     "questions": [
       {
-        "q": "What chapters should the student study?",
+        "q": "What was the topic of the guest lecture?",
         "options": [
-          "Chapters one and two",
-          "Chapters five and six",
-          "Chapter seven",
-          "Chapter three"
+          "Renewable energy",
+          "Climate change",
+          "Biodiversity",
+          "Sustainable agriculture"
         ],
         "correctIndex": 1,
-        "explain": "學生應該學習第五和第六章。"
+        "explain": "這次講座的主題是氣候變化。"
       },
       {
-        "q": "When does the professor plan to study?",
+        "q": "How did the student feel about the lecture?",
         "options": [
-          "In the morning",
-          "Later today",
-          "Next week",
-          "Not at all"
+          "Disappointed",
+          "Bored",
+          "Engaged",
+          "Confused"
         ],
-        "correctIndex": 1,
-        "explain": "教授計劃今天稍晚時候學習。"
+        "correctIndex": 2,
+        "explain": "學生覺得講座很吸引人。"
       }
     ]
   },
   "announcement": {
-    "transcript": "Attention students! The library will be closed for renovations starting next Monday and will reopen in two weeks. Please plan accordingly and check our website for updates.",
+    "transcript": "Attention students! The library will be extending its hours during exam week. Starting next Monday, it will open from 8 AM to midnight. We hope this will help you with your study needs. Thank you!",
     "questions": [
       {
-        "q": "How long will the library be closed?",
+        "q": "When will the library's new hours start?",
         "options": [
-          "One week",
-          "Two weeks",
-          "Three weeks",
-          "Indefinitely"
+          "This Monday",
+          "Next Monday",
+          "This Friday",
+          "Next Friday"
         ],
         "correctIndex": 1,
-        "explain": "圖書館將關閉兩週。"
+        "explain": "圖書館的新開放時間將於下週一開始。"
       },
       {
-        "q": "When will the library close?",
+        "q": "What is the new closing time for the library?",
         "options": [
-          "This Friday",
-          "Next Monday",
-          "Next Friday",
-          "Tomorrow"
+          "10 PM",
+          "11 PM",
+          "Midnight",
+          "1 AM"
         ],
-        "correctIndex": 1,
-        "explain": "圖書館將在下週一關閉。"
+        "correctIndex": 2,
+        "explain": "圖書館的新的關閉時間是午夜。"
       }
     ]
   },
   "talk": {
-    "transcript": "Today, we will discuss the concept of biodiversity, which refers to the variety of life found on Earth. Biodiversity is essential for maintaining the balance of ecosystems, as it contributes to resilience against environmental changes. There are three main levels of biodiversity: genetic, species, and ecosystem diversity. Genetic diversity involves the variety of genes within species, species diversity refers to the number of different species in an area, and ecosystem diversity is about the variety of habitats and ecological processes. Protecting biodiversity is crucial for sustaining the natural resources we rely on.",
+    "transcript": "Today, I want to discuss the concept of social capital. Social capital refers to the networks, relationships, and norms that facilitate cooperation among individuals in a society. It plays a vital role in community development and individual success. High levels of social capital can lead to improved economic outcomes, lower crime rates, and better educational achievements. People with strong social connections are often more resilient in times of hardship and are able to access resources more easily. Overall, social capital is crucial for fostering trust and collaboration within communities.",
     "questions": [
       {
-        "q": "What is biodiversity?",
+        "q": "What is social capital?",
         "options": [
-          "The study of organisms",
-          "The variety of life on Earth",
-          "The process of evolution",
-          "The number of habitats"
+          "Economic resources",
+          "Social networks",
+          "Natural resources",
+          "Political power"
         ],
         "correctIndex": 1,
-        "explain": "生物多樣性是地球上生命的多樣性。"
+        "explain": "社會資本是指社會中的網絡和關係。"
       },
       {
-        "q": "Why is biodiversity important?",
+        "q": "What are some benefits of high social capital?",
         "options": [
-          "It increases population sizes",
-          "It helps maintain ecosystem balance",
-          "It reduces genetic variety",
-          "It simplifies ecological processes"
-        ],
-        "correctIndex": 1,
-        "explain": "生物多樣性有助於維持生態系統的平衡。"
-      },
-      {
-        "q": "What are the levels of biodiversity?",
-        "options": [
-          "Genetic, species, and ecosystem",
-          "Physical, chemical, and biological",
-          "Local, regional, and global",
-          "Micro, macro, and mega"
-        ],
-        "correctIndex": 0,
-        "explain": "生物多樣性的三個主要層次是遺傳、多樣性和生態系統。"
-      },
-      {
-        "q": "What is ecosystem diversity?",
-        "options": [
-          "The variety of genes in species",
-          "The number of species",
-          "The variety of habitats and processes",
-          "The evolution of life forms"
+          "Higher crime rates",
+          "Lower educational achievements",
+          "Improved economic outcomes",
+          "Increased isolation"
         ],
         "correctIndex": 2,
-        "explain": "生態系統多樣性是指棲息地和生態過程的多樣性。"
+        "explain": "高社會資本有助於改善經濟結果。"
+      },
+      {
+        "q": "How does social capital affect individual resilience?",
+        "options": [
+          "It makes them weaker",
+          "It has no effect",
+          "It makes them more resilient",
+          "It isolates them"
+        ],
+        "correctIndex": 2,
+        "explain": "社會資本使個體在困難時期更具韌性。"
+      },
+      {
+        "q": "What contributes to building social capital?",
+        "options": [
+          "Trust and collaboration",
+          "Competition",
+          "Isolation",
+          "Economic success"
+        ],
+        "correctIndex": 0,
+        "explain": "建立社會資本需要信任和合作。"
       }
     ]
   }

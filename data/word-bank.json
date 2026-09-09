@@ -8326,5 +8326,61 @@
     "zh": "適應過程",
     "ex": "Acclimatization is essential for individuals moving to extreme environmental conditions.",
     "cat": "📰 每日新詞：anthropology"
+  },
+  {
+    "word": "greenhouse",
+    "pos": "n.",
+    "root": "green綠色 + house房子",
+    "zh": "溫室",
+    "ex": "Greenhouse gases trap heat in the atmosphere, leading to global warming.",
+    "cat": "📰 每日新詞：environmental science"
+  },
+  {
+    "word": "ecotoxicology",
+    "pos": "n.",
+    "root": "eco-生態 + toxic有毒的 + ology學科",
+    "zh": "生態毒理學",
+    "ex": "Ecotoxicology studies the effects of pollutants on ecosystems.",
+    "cat": "📰 每日新詞：environmental science"
+  },
+  {
+    "word": "sustainable",
+    "pos": "adj.",
+    "root": "sustain維持 + able能",
+    "zh": "可持續的",
+    "ex": "Sustainable agriculture practices improve soil health and reduce chemical use.",
+    "cat": "📰 每日新詞：environmental science"
+  },
+  {
+    "word": "environment",
+    "pos": "n.",
+    "root": "environ環境 + ment名詞",
+    "zh": "環境",
+    "ex": "The environment plays a critical role in shaping human health.",
+    "cat": "📰 每日新詞：environmental science"
+  },
+  {
+    "word": "exploitation",
+    "pos": "n.",
+    "root": "exploit剝削 + ation名詞",
+    "zh": "剝削",
+    "ex": "The exploitation of natural resources can lead to environmental degradation.",
+    "cat": "📰 每日新詞：environmental science"
+  },
+  {
+    "word": "safeguard",
+    "pos": "v.",
+    "root": "safe安全 + guard保護",
+    "zh": "保護",
+    "ex": "Policies are needed to safeguard natural habitats from development.",
+    "cat": "📰 每日新詞：environmental science"
+  },
+  {
+    "word": "circumstance",
+    "pos": "n.",
+    "root": "circum-周圍 + stance立場",
+    "zh": "環境",
+    "ex": "Environmental circumstances greatly influence the survival of species.",
+    "cat": "📰 每日新詞：environmental science"
   }
 ]
