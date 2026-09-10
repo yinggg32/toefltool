@@ -8382,5 +8382,37 @@
     "zh": "環境",
     "ex": "Environmental circumstances greatly influence the survival of species.",
     "cat": "📰 每日新詞：environmental science"
+  },
+  {
+    "word": "entrepreneur",
+    "pos": "n.",
+    "root": "企業家—entrepreneur",
+    "zh": "企業家",
+    "ex": "An entrepreneur is an individual who creates and manages a new business venture.",
+    "cat": "📰 每日新詞：economics"
+  },
+  {
+    "word": "marketplace",
+    "pos": "n.",
+    "root": "市場—marketplace",
+    "zh": "市場",
+    "ex": "The digital marketplace has transformed how consumers buy and sell goods.",
+    "cat": "📰 每日新詞：economics"
+  },
+  {
+    "word": "privatization",
+    "pos": "n.",
+    "root": "私有化—privatization",
+    "zh": "私有化",
+    "ex": "Privatization can lead to increased efficiency and competition in certain sectors.",
+    "cat": "📰 每日新詞：economics"
+  },
+  {
+    "word": "domestic",
+    "pos": "adj.",
+    "root": "國內—domestic",
+    "zh": "國內的",
+    "ex": "Domestic markets are affected by both local and global economic conditions.",
+    "cat": "📰 每日新詞：economics"
   }
 ]

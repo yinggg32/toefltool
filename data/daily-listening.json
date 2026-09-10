@@ -1,116 +1,116 @@
 {
   "chooseResponse": [
     {
-      "q": "What did you think of the lecture?",
+      "q": "Have you seen the new art exhibit?",
       "options": [
-        "It was fascinating!",
-        "I didn't like it.",
-        "It was too long.",
-        "I want to learn more."
+        "Yes, it's amazing!",
+        "No, I haven't heard.",
+        "I prefer paintings.",
+        "I don't like art. "
       ],
       "correctIndex": 0
     }
   ],
   "conversation": {
-    "transcript": "Student: Hey, did you get a chance to attend the guest lecture on climate change?\nProfessor: Yes, I did. It was very informative. Did you like it?\nStudent: I thought it was really engaging, especially the part about renewable energy.\nProfessor: I agree! It’s a crucial topic nowadays.",
+    "transcript": "Student: Hey, have you checked out the new art exhibit at the gallery?\nAdvisor: Not yet! What's it about?\nStudent: It's focused on modern sculpture. Really interactive!\nAdvisor: That sounds interesting. When does it end?",
     "questions": [
       {
-        "q": "What was the topic of the guest lecture?",
+        "q": "What is the main topic of the exhibit?",
         "options": [
-          "Renewable energy",
-          "Climate change",
-          "Biodiversity",
-          "Sustainable agriculture"
+          "Modern sculpture",
+          "Photography",
+          "Classic paintings",
+          "Digital art"
         ],
-        "correctIndex": 1,
-        "explain": "這次講座的主題是氣候變化。"
+        "correctIndex": 0,
+        "explain": "展覽的主要主題是現代雕塑。"
       },
       {
-        "q": "How did the student feel about the lecture?",
+        "q": "What does the student think about the exhibit?",
         "options": [
-          "Disappointed",
-          "Bored",
-          "Engaged",
-          "Confused"
+          "It's boring",
+          "It's very interactive",
+          "It's too expensive",
+          "It's not worth visiting"
         ],
-        "correctIndex": 2,
-        "explain": "學生覺得講座很吸引人。"
+        "correctIndex": 1,
+        "explain": "學生認為展覽非常互動。"
       }
     ]
   },
   "announcement": {
-    "transcript": "Attention students! The library will be extending its hours during exam week. Starting next Monday, it will open from 8 AM to midnight. We hope this will help you with your study needs. Thank you!",
+    "transcript": "Attention everyone! The campus library will be closing early today at 5 PM for a special event. Please make sure to gather all your materials and check out before then. Thank you for your understanding!",
     "questions": [
       {
-        "q": "When will the library's new hours start?",
+        "q": "Why is the library closing early?",
         "options": [
-          "This Monday",
-          "Next Monday",
-          "This Friday",
-          "Next Friday"
+          "For maintenance",
+          "For a special event",
+          "For inventory check",
+          "For staff training"
         ],
         "correctIndex": 1,
-        "explain": "圖書館的新開放時間將於下週一開始。"
+        "explain": "圖書館因為特殊活動而提前關閉。"
       },
       {
-        "q": "What is the new closing time for the library?",
+        "q": "What time will the library close?",
         "options": [
-          "10 PM",
-          "11 PM",
-          "Midnight",
-          "1 AM"
+          "4 PM",
+          "5 PM",
+          "6 PM",
+          "7 PM"
         ],
-        "correctIndex": 2,
-        "explain": "圖書館的新的關閉時間是午夜。"
+        "correctIndex": 1,
+        "explain": "圖書館將在下午5點關閉。"
       }
     ]
   },
   "talk": {
-    "transcript": "Today, I want to discuss the concept of social capital. Social capital refers to the networks, relationships, and norms that facilitate cooperation among individuals in a society. It plays a vital role in community development and individual success. High levels of social capital can lead to improved economic outcomes, lower crime rates, and better educational achievements. People with strong social connections are often more resilient in times of hardship and are able to access resources more easily. Overall, social capital is crucial for fostering trust and collaboration within communities.",
+    "transcript": "Today, we will explore the concept of biomimicry in design. Biomimicry refers to the practice of learning from nature's models and then emulating these designs to solve human problems. For example, Velcro was inspired by the way burrs stick to animal fur. Similarly, architects are now studying termite mounds to enhance energy efficiency in buildings. By observing how nature has solved complex challenges over millions of years, we can create sustainable innovations that benefit our society. This approach not only promotes ecological balance but also encourages creativity in design processes.",
     "questions": [
       {
-        "q": "What is social capital?",
+        "q": "What is biomimicry?",
         "options": [
-          "Economic resources",
-          "Social networks",
-          "Natural resources",
-          "Political power"
+          "Imitating human designs",
+          "Learning from nature",
+          "Studying animal behavior",
+          "Creating artificial intelligence"
         ],
         "correctIndex": 1,
-        "explain": "社會資本是指社會中的網絡和關係。"
+        "explain": "生物模仿是從自然中學習並模仿設計的做法。"
       },
       {
-        "q": "What are some benefits of high social capital?",
+        "q": "What inspired the creation of Velcro?",
         "options": [
-          "Higher crime rates",
-          "Lower educational achievements",
-          "Improved economic outcomes",
-          "Increased isolation"
+          "The way animals fly",
+          "The way burrs stick",
+          "The structure of trees",
+          "The speed of cheetahs"
+        ],
+        "correctIndex": 1,
+        "explain": "Velcro的創造靈感來自於荨麻刺附著在動物毛皮上的方式。"
+      },
+      {
+        "q": "What is one benefit of biomimicry?",
+        "options": [
+          "Increased pollution",
+          "Higher costs",
+          "Sustainable innovations",
+          "Faster production"
         ],
         "correctIndex": 2,
-        "explain": "高社會資本有助於改善經濟結果。"
+        "explain": "生物模仿促進可持續創新。"
       },
       {
-        "q": "How does social capital affect individual resilience?",
+        "q": "Which aspect of nature do architects study?",
         "options": [
-          "It makes them weaker",
-          "It has no effect",
-          "It makes them more resilient",
-          "It isolates them"
+          "Plant growth",
+          "Animal behavior",
+          "Termite mounds",
+          "Weather patterns"
         ],
         "correctIndex": 2,
-        "explain": "社會資本使個體在困難時期更具韌性。"
-      },
-      {
-        "q": "What contributes to building social capital?",
-        "options": [
-          "Trust and collaboration",
-          "Competition",
-          "Isolation",
-          "Economic success"
-        ],
-        "correctIndex": 0,
-        "explain": "建立社會資本需要信任和合作。"
+        "explain": "建築師研究白蟻丘以提升建築物的能效。"
       }
     ]
   }
