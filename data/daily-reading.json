@@ -2,113 +2,119 @@
   "cloze": {
     "segments": [
       {
-        "text": "The human brain is an incredibly complex organ, containing billions of neurons that communicate through "
+        "text": "The human brain is an incredibly complex organ that plays a crucial role in "
       },
       {
-        "blank": "synap"
+        "blank": "nervou"
       },
       {
-        "text": ", forming intricate networks. One key aspect of brain function is "
+        "text": " system function. It consists of billions of cells, known as "
       },
       {
         "blank": "neuro"
       },
       {
-        "text": ", which refers to the processes by which neurons transmit information. The brain is also capable of "
+        "text": "ns, which communicate through electrical and chemical signals. The brain's "
       },
       {
-        "blank": "plasti"
+        "blank": "cortex"
       },
       {
-        "text": ", allowing for changes based on experience. This adaptability is essential for "
+        "text": " is responsible for higher-level functions such as thinking, memory, and "
       },
       {
-        "blank": "learn"
+        "blank": "decis"
       },
       {
-        "text": ", enabling individuals to acquire new skills and knowledge throughout their lives. Furthermore, research has shown that "
+        "text": "ion-making. Different regions of the brain are specialized for various tasks, "
       },
       {
-        "blank": "sleep"
+        "blank": "influ"
       },
       {
-        "text": ", plays a critical role in consolidating memories and enhancing cognitive function."
+        "text": "encing behavior and cognition. Understanding how the brain works is essential for "
+      },
+      {
+        "blank": "devel"
+      },
+      {
+        "text": "oping treatments for neurological disorders."
       }
     ]
   },
   "academic": {
-    "passage": "The study of human brain function reveals that the brain is not only responsible for processing information but also adapts over time through neural plasticity. This adaptability allows individuals to learn and retain information effectively, making experiences crucial for cognitive development. Sleep is another vital component, as it aids memory consolidation and overall brain health. Understanding these mechanisms is essential for developing strategies to improve learning and memory retention in educational settings.",
+    "passage": "The study of neuroscience examines the structure and function of the nervous system, particularly the brain. It explores how neuronal communication contributes to behavior and cognitive functions. Advances in neuroimaging techniques have allowed scientists to observe brain activity in real-time, enhancing our understanding of neurological disorders. This field integrates knowledge from biology, psychology, and chemistry, making it a multidisciplinary area of research that is constantly evolving.",
     "questions": [
       {
-        "q": "What is the main idea of the passage?",
+        "q": "What is the main focus of neuroscience?",
         "options": [
-          "The brain functions solely through neural connections.",
-          "Neural plasticity and sleep are crucial for cognitive function.",
-          "The brain does not adapt to new experiences.",
-          "Educational strategies need no scientific basis."
+          "The structure and function of the brain",
+          "The study of human behavior",
+          "The chemistry of the brain",
+          "The history of psychological theories"
+        ],
+        "correctIndex": 0,
+        "explain": "神經科學的主要焦點是研究大腦的結構和功能。"
+      },
+      {
+        "q": "Which technique has advanced neuroscience research?",
+        "options": [
+          "Neuroimaging",
+          "Sociological surveys",
+          "Historical analysis",
+          "Genetic testing"
+        ],
+        "correctIndex": 0,
+        "explain": "神經影像學技術的進步促進了神經科學的研究。"
+      },
+      {
+        "q": "What can be inferred about the relationship between neuroscience and other fields?",
+        "options": [
+          "Neuroscience is independent of other disciplines",
+          "Neuroscience combines multiple fields",
+          "Neuroscience is only related to biology",
+          "Neuroscience rejects psychological principles"
         ],
         "correctIndex": 1,
-        "explain": "這段文字的主旨是在說明大腦的可塑性和睡眠對認知功能的重要性。"
+        "explain": "神經科學結合了多個學科的知識，顯示這是一個多學科的研究領域。"
       },
       {
-        "q": "What role does sleep play according to the passage?",
+        "q": "What does 'neuroimaging' likely refer to in the passage?",
         "options": [
-          "It helps in learning new languages.",
-          "It is important for processing visual information.",
-          "It aids memory consolidation.",
-          "It has no effect on brain health."
+          "Studying behavior",
+          "Observing brain activity",
+          "Analyzing chemical signals",
+          "Mapping historical theories"
         ],
-        "correctIndex": 2,
-        "explain": "根據文本，睡眠在記憶鞏固中起著重要作用。"
-      },
-      {
-        "q": "What can be inferred about the relationship between experience and learning?",
-        "options": [
-          "Experience is irrelevant to learning.",
-          "More experience leads to less adaptability.",
-          "Experience is essential for effective learning.",
-          "Learning does not occur without experience."
-        ],
-        "correctIndex": 2,
-        "explain": "可以推斷，體驗對有效學習是必不可少的，因為大腦的可塑性依賴於這些體驗。"
-      },
-      {
-        "q": "What does the term 'neural plasticity' refer to in the passage?",
-        "options": [
-          "The ability of neurons to regenerate.",
-          "The way neurons transmit signals.",
-          "The brain's ability to adapt and change.",
-          "The process of forgetting information."
-        ],
-        "correctIndex": 2,
-        "explain": "在這段文字中，'神經可塑性'是指大腦適應和改變的能力。"
+        "correctIndex": 1,
+        "explain": "'神經影像學'一詞在這段落中可能指的是觀察大腦活動的方法。"
       }
     ]
   },
   "daily": {
-    "passage": "Attention students: The annual cultural festival will take place this Saturday at the Main Quad from 10 AM to 5 PM. Enjoy food, music, and performances from various cultures. Don't miss out on this great opportunity to experience diversity on campus!",
+    "passage": "Attention all students: The university library will be closed for maintenance this weekend. Please make sure to borrow any necessary materials by Friday afternoon. We apologize for the inconvenience and appreciate your understanding.",
     "questions": [
       {
-        "q": "What time does the cultural festival start?",
+        "q": "When will the library be closed?",
         "options": [
-          "9 AM",
-          "10 AM",
-          "11 AM",
-          "12 PM"
+          "Next weekend",
+          "This weekend",
+          "Next month",
+          "Tomorrow"
         ],
         "correctIndex": 1,
-        "explain": "文化節的開始時間是10 AM。"
+        "explain": "圖書館將在本週末關閉。"
       },
       {
-        "q": "Where will the cultural festival be held?",
+        "q": "What should students do before the library closes?",
         "options": [
-          "In the library",
-          "At the cafeteria",
-          "In the Main Quad",
-          "In the gym"
+          "Return borrowed materials",
+          "Borrow necessary materials",
+          "Attend a meeting",
+          "Submit assignments"
         ],
-        "correctIndex": 2,
-        "explain": "文化節將在Main Quad舉行。"
+        "correctIndex": 1,
+        "explain": "學生應在圖書館關閉之前借取所需材料。"
       }
     ]
   }

@@ -4,67 +4,54 @@
       "words": [
         "the",
         "students",
-        "enjoyed",
+        "are",
+        "studying",
+        "for",
+        "their",
+        "exams",
+        "together"
+      ],
+      "display": "The students are studying for their exams together."
+    },
+    {
+      "words": [
         "the",
-        "guest",
-        "speaker",
+        "researcher",
+        "presented",
+        "his",
+        "findings",
         "at",
         "the",
         "conference"
       ],
-      "display": "The students enjoyed the guest speaker at the conference."
+      "display": "The researcher presented his findings at the conference."
     },
     {
       "words": [
         "the",
-        "research",
-        "indicates",
+        "professor",
+        "asked",
+        "the",
+        "class",
+        "to",
+        "read",
+        "the",
+        "article"
+      ],
+      "display": "The professor asked the class to read the article."
+    },
+    {
+      "words": [
+        "many",
+        "people",
+        "believe",
         "that",
-        "exercise",
-        "improves",
-        "mental",
-        "health"
+        "climate",
+        "change",
+        "is",
+        "urgent"
       ],
-      "display": "The research indicates that exercise improves mental health."
-    },
-    {
-      "words": [
-        "reading",
-        "improves",
-        "vocabulary",
-        "and",
-        "helps",
-        "understand",
-        "new",
-        "concepts"
-      ],
-      "display": "Reading improves vocabulary and helps understand new concepts."
-    },
-    {
-      "words": [
-        "the",
-        "presentation",
-        "was",
-        "well",
-        "received",
-        "by",
-        "the",
-        "audience"
-      ],
-      "display": "The presentation was well received by the audience."
-    },
-    {
-      "words": [
-        "students",
-        "should",
-        "submit",
-        "their",
-        "assignments",
-        "by",
-        "the",
-        "deadline"
-      ],
-      "display": "Students should submit their assignments by the deadline."
+      "display": "Many people believe that climate change is urgent."
     },
     {
       "words": [
@@ -82,45 +69,59 @@
     },
     {
       "words": [
-        "the",
-        "professor",
-        "encouraged",
         "students",
-        "to",
-        "participate",
-        "in",
-        "discussions"
+        "should",
+        "submit",
+        "their",
+        "assignments",
+        "by",
+        "the",
+        "deadline"
       ],
-      "display": "The professor encouraged students to participate in discussions."
+      "display": "Students should submit their assignments by the deadline."
     },
     {
       "words": [
-        "group",
-        "projects",
-        "help",
-        "develop",
-        "teamwork",
-        "and",
-        "communication",
-        "skills"
+        "the",
+        "club",
+        "is",
+        "organizing",
+        "a",
+        "workshop",
+        "on",
+        "sustainable",
+        "practices"
       ],
-      "display": "Group projects help develop teamwork and communication skills."
+      "display": "The club is organizing a workshop on sustainable practices."
+    },
+    {
+      "words": [
+        "the",
+        "customer",
+        "service",
+        "representative",
+        "resolved",
+        "the",
+        "issue",
+        "quickly"
+      ],
+      "display": "The customer service representative resolved the issue quickly."
     }
   ],
   "emailPrompts": [
-    "寄信給教授，請求延長提交論文的截止日期。",
-    "寄信給宿舍辦公室，詢問關於房間分配的問題。",
-    "寄信給圖書館，請求延長借書期限。",
-    "寄信給學生俱樂部，表達希望參加即將舉行的會議。",
-    "寄信給客服部門，反映最近的購物經歷問題。",
-    "寄信給職業服務中心，詢問即將舉行的招聘會的具體信息。"
+    "寄信給教授，請求延遲提交研究報告的期限。",
+    "寄信給宿舍管理處，詢問關於房間分配的問題。",
+    "寄信給圖書館，詢問本週的開放時間。",
+    "寄信給學校社團，表達想加入社團的興趣。",
+    "寄信給客戶服務，請求更換已購買的商品。",
+    "寄信給指導教授，請教關於選修課的建議。"
   ],
   "discussionPrompts": [
-    "教授問：「科技進步對人際關係的影響是正面還是負面？」",
-    "教授問：「應該如何看待大學教育的價值？」",
-    "教授問：「政府應該在環境保護方面採取更多措施嗎？」",
-    "教授問：「社會媒體對青年人的心理健康影響如何？」",
-    "教授問：「文化多樣性在全球化中的角色是什麼？」",
-    "教授問：「應不應該將性別教育納入學校課程？」"
+    "教授問：「科技對學習方式的影響是什麼？」",
+    "教授問：「社會媒體在當代社會中的角色是什麼？」",
+    "教授問：「經濟增長與環境保護之間如何取得平衡？」",
+    "教授問：「文化多樣性對社會的影響為何？」",
+    "教授問：「應該如何處理全球變暖的問題？」",
+    "教授問：「網絡安全的重要性體現在何處？」"
   ]
 }
