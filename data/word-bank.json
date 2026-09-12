@@ -8430,5 +8430,45 @@
     "zh": "促進",
     "ex": "Facilitate learning by providing supportive psychological environments.",
     "cat": "📰 每日新詞：psychology"
+  },
+  {
+    "word": "application",
+    "pos": "n.",
+    "root": "apply—應用",
+    "zh": "應用",
+    "ex": "The application of machine learning has revolutionized data analysis.",
+    "cat": "📰 每日新詞：technology and innovation"
+  },
+  {
+    "word": "virtualization",
+    "pos": "n.",
+    "root": "virtual—虛擬化",
+    "zh": "虛擬化",
+    "ex": "Virtualization technology allows multiple operating systems to run on a single machine.",
+    "cat": "📰 每日新詞：technology and innovation"
+  },
+  {
+    "word": "cryptography",
+    "pos": "n.",
+    "root": "crypto—密碼; graph—寫",
+    "zh": "密碼學",
+    "ex": "Cryptography is essential for securing digital communications.",
+    "cat": "📰 每日新詞：technology and innovation"
+  },
+  {
+    "word": "monitoring",
+    "pos": "n.",
+    "root": "monitor—監控",
+    "zh": "監控",
+    "ex": "Monitoring systems are essential for ensuring operational efficiency.",
+    "cat": "📰 每日新詞：technology and innovation"
+  },
+  {
+    "word": "telepresence",
+    "pos": "n.",
+    "root": "tele—遠距; presence—存在",
+    "zh": "遠程存在",
+    "ex": "Telepresence technology enables remote collaboration across distances.",
+    "cat": "📰 每日新詞：technology and innovation"
   }
 ]

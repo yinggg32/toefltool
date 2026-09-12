@@ -2,119 +2,101 @@
   "cloze": {
     "segments": [
       {
-        "text": "The human brain is an incredibly complex organ that plays a crucial role in "
+        "text": "The theory of relativity, proposed by Albert Einstein, revolutionized the field of physics. It suggests that the laws of physics are the same for all observers, regardless of their relative motion. This concept leads to the conclusion that time and space are interwoven into a single continuum known as spac"
       },
       {
-        "blank": "nervou"
+        "blank": "etime"
       },
       {
-        "text": " system function. It consists of billions of cells, known as "
+        "text": ". One of the most famous implications of this theory is the concept of time dilation, where time appears to move slower for an object in motion compared to a stationary observer. As a result, if an astronaut travels at a significant fr"
       },
       {
-        "blank": "neuro"
+        "blank": "action"
       },
       {
-        "text": "ns, which communicate through electrical and chemical signals. The brain's "
+        "text": " of the speed of light, they would age more slowly than their counterparts on Earth. This phenomenon has been proven experimentally, providing profound implications for our understanding of the universe and how we perceive c"
       },
       {
-        "blank": "cortex"
+        "blank": "ausality"
       },
       {
-        "text": " is responsible for higher-level functions such as thinking, memory, and "
-      },
-      {
-        "blank": "decis"
-      },
-      {
-        "text": "ion-making. Different regions of the brain are specialized for various tasks, "
-      },
-      {
-        "blank": "influ"
-      },
-      {
-        "text": "encing behavior and cognition. Understanding how the brain works is essential for "
-      },
-      {
-        "blank": "devel"
-      },
-      {
-        "text": "oping treatments for neurological disorders."
+        "text": ". In summary, relativity challenges our intuitive grasp of time and space, presenting a framework that has been essential in modern physics."
       }
     ]
   },
   "academic": {
-    "passage": "The study of neuroscience examines the structure and function of the nervous system, particularly the brain. It explores how neuronal communication contributes to behavior and cognitive functions. Advances in neuroimaging techniques have allowed scientists to observe brain activity in real-time, enhancing our understanding of neurological disorders. This field integrates knowledge from biology, psychology, and chemistry, making it a multidisciplinary area of research that is constantly evolving.",
+    "passage": "Einstein's theory of relativity fundamentally changed our understanding of space and time. It asserts that the laws of physics are consistent for all observers, regardless of their relative speeds. Consequently, phenomena such as time dilation, where time differs based on motion, reveal complex interactions between time and the speed of light, leading to new explorations in physics.",
     "questions": [
       {
-        "q": "What is the main focus of neuroscience?",
+        "q": "What is the main idea of the passage?",
         "options": [
-          "The structure and function of the brain",
-          "The study of human behavior",
-          "The chemistry of the brain",
-          "The history of psychological theories"
+          "Einstein's theory of relativity changed physics.",
+          "Time dilation occurs only for stationary observers.",
+          "Physics laws vary with speed.",
+          "Time and space are unrelated."
         ],
         "correctIndex": 0,
-        "explain": "神經科學的主要焦點是研究大腦的結構和功能。"
+        "explain": "這段文字的核心主題是愛因斯坦的相對論對物理學的影響。"
       },
       {
-        "q": "Which technique has advanced neuroscience research?",
+        "q": "What does time dilation refer to?",
         "options": [
-          "Neuroimaging",
-          "Sociological surveys",
-          "Historical analysis",
-          "Genetic testing"
-        ],
-        "correctIndex": 0,
-        "explain": "神經影像學技術的進步促進了神經科學的研究。"
-      },
-      {
-        "q": "What can be inferred about the relationship between neuroscience and other fields?",
-        "options": [
-          "Neuroscience is independent of other disciplines",
-          "Neuroscience combines multiple fields",
-          "Neuroscience is only related to biology",
-          "Neuroscience rejects psychological principles"
+          "Time moving faster for astronauts.",
+          "Differences in time measurement based on speed.",
+          "A fixed measurement of time.",
+          "An effect of gravity on time."
         ],
         "correctIndex": 1,
-        "explain": "神經科學結合了多個學科的知識，顯示這是一個多學科的研究領域。"
+        "explain": "時間膨脹是指根據速度的不同，時間測量的差異。"
       },
       {
-        "q": "What does 'neuroimaging' likely refer to in the passage?",
+        "q": "What can be inferred about the implications of relativity?",
         "options": [
-          "Studying behavior",
-          "Observing brain activity",
-          "Analyzing chemical signals",
-          "Mapping historical theories"
+          "It only applies to Earth-based observations.",
+          "It has no impact on modern physics.",
+          "It leads to new understandings of the universe.",
+          "It is widely accepted by all scientists."
+        ],
+        "correctIndex": 2,
+        "explain": "相對論對宇宙的理解產生了深遠的影響，這是文中所提到的。"
+      },
+      {
+        "q": "What does the term 'spacetime' refer to in the context of the passage?",
+        "options": [
+          "A method of time travel.",
+          "A combination of space and time.",
+          "A historical location.",
+          "A scientific theory."
         ],
         "correctIndex": 1,
-        "explain": "'神經影像學'一詞在這段落中可能指的是觀察大腦活動的方法。"
+        "explain": "在這段文字中，'時空'指的是空間和時間的結合。"
       }
     ]
   },
   "daily": {
-    "passage": "Attention all students: The university library will be closed for maintenance this weekend. Please make sure to borrow any necessary materials by Friday afternoon. We apologize for the inconvenience and appreciate your understanding.",
+    "passage": "Attention students! The university will hold a career fair on March 15th from 10 AM to 4 PM in the Student Center. This is a great opportunity to meet potential employers and learn about various job openings.",
     "questions": [
       {
-        "q": "When will the library be closed?",
+        "q": "What is the date of the career fair?",
         "options": [
-          "Next weekend",
-          "This weekend",
-          "Next month",
-          "Tomorrow"
+          "March 10th",
+          "March 15th",
+          "March 20th",
+          "March 25th"
         ],
         "correctIndex": 1,
-        "explain": "圖書館將在本週末關閉。"
+        "explain": "通知中提到的職業博覽會日期是三月十五日。"
       },
       {
-        "q": "What should students do before the library closes?",
+        "q": "Where will the career fair take place?",
         "options": [
-          "Return borrowed materials",
-          "Borrow necessary materials",
-          "Attend a meeting",
-          "Submit assignments"
+          "In the library",
+          "In the Student Center",
+          "In the gym",
+          "In the auditorium"
         ],
         "correctIndex": 1,
-        "explain": "學生應在圖書館關閉之前借取所需材料。"
+        "explain": "職業博覽會將在學生中心舉行。"
       }
     ]
   }

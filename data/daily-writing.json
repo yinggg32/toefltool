@@ -4,124 +4,128 @@
       "words": [
         "the",
         "students",
-        "are",
-        "studying",
-        "for",
-        "their",
-        "exams",
-        "together"
+        "enjoyed",
+        "the",
+        "lecture",
+        "about",
+        "environmental",
+        "issues"
       ],
-      "display": "The students are studying for their exams together."
+      "display": "The students enjoyed the lecture about environmental issues."
     },
     {
       "words": [
-        "the",
-        "researcher",
-        "presented",
-        "his",
-        "findings",
-        "at",
-        "the",
-        "conference"
+        "researchers",
+        "found",
+        "a",
+        "significant",
+        "correlation",
+        "between",
+        "sleep",
+        "and",
+        "academic",
+        "performance"
       ],
-      "display": "The researcher presented his findings at the conference."
-    },
-    {
-      "words": [
-        "the",
-        "professor",
-        "asked",
-        "the",
-        "class",
-        "to",
-        "read",
-        "the",
-        "article"
-      ],
-      "display": "The professor asked the class to read the article."
-    },
-    {
-      "words": [
-        "many",
-        "people",
-        "believe",
-        "that",
-        "climate",
-        "change",
-        "is",
-        "urgent"
-      ],
-      "display": "Many people believe that climate change is urgent."
+      "display": "Researchers found a significant correlation between sleep and academic performance."
     },
     {
       "words": [
         "the",
         "library",
-        "will",
-        "be",
-        "closed",
-        "for",
-        "renovation",
-        "next",
-        "month"
+        "is",
+        "open",
+        "until",
+        "midnight",
+        "on",
+        "weekdays"
       ],
-      "display": "The library will be closed for renovation next month."
+      "display": "The library is open until midnight on weekdays."
+    },
+    {
+      "words": [
+        "participation",
+        "in",
+        "extracurricular",
+        "activities",
+        "can",
+        "enhance",
+        "student",
+        "learning"
+      ],
+      "display": "Participation in extracurricular activities can enhance student learning."
+    },
+    {
+      "words": [
+        "the",
+        "professor",
+        "encouraged",
+        "students",
+        "to",
+        "ask",
+        "questions",
+        "during",
+        "the",
+        "lecture"
+      ],
+      "display": "The professor encouraged students to ask questions during the lecture."
+    },
+    {
+      "words": [
+        "taking",
+        "breaks",
+        "during",
+        "study",
+        "sessions",
+        "can",
+        "improve",
+        "focus",
+        "and",
+        "memory"
+      ],
+      "display": "Taking breaks during study sessions can improve focus and memory."
     },
     {
       "words": [
         "students",
         "should",
-        "submit",
+        "balance",
         "their",
-        "assignments",
-        "by",
-        "the",
-        "deadline"
+        "academic",
+        "responsibilities",
+        "with",
+        "social",
+        "activities"
       ],
-      "display": "Students should submit their assignments by the deadline."
+      "display": "Students should balance their academic responsibilities with social activities."
     },
     {
       "words": [
         "the",
-        "club",
-        "is",
-        "organizing",
-        "a",
-        "workshop",
-        "on",
-        "sustainable",
-        "practices"
+        "university",
+        "offers",
+        "various",
+        "scholarships",
+        "for",
+        "international",
+        "students"
       ],
-      "display": "The club is organizing a workshop on sustainable practices."
-    },
-    {
-      "words": [
-        "the",
-        "customer",
-        "service",
-        "representative",
-        "resolved",
-        "the",
-        "issue",
-        "quickly"
-      ],
-      "display": "The customer service representative resolved the issue quickly."
+      "display": "The university offers various scholarships for international students."
     }
   ],
   "emailPrompts": [
-    "寄信給教授，請求延遲提交研究報告的期限。",
-    "寄信給宿舍管理處，詢問關於房間分配的問題。",
-    "寄信給圖書館，詢問本週的開放時間。",
-    "寄信給學校社團，表達想加入社團的興趣。",
-    "寄信給客戶服務，請求更換已購買的商品。",
-    "寄信給指導教授，請教關於選修課的建議。"
+    "寄信給教授，請教有關期末報告的指導方針。",
+    "致宿舍辦公室，詢問有關房間維修的進度。",
+    "寄信給圖書館，建議增加開放時間以方便學生。",
+    "寫信給社團，詢問加入會員的程序和要求。",
+    "寄信給客服，反映最近購買商品的問題。",
+    "致學校行政部門，詢問有關註冊課程的截止日期。"
   ],
   "discussionPrompts": [
-    "教授問：「科技對學習方式的影響是什麼？」",
-    "教授問：「社會媒體在當代社會中的角色是什麼？」",
-    "教授問：「經濟增長與環境保護之間如何取得平衡？」",
-    "教授問：「文化多樣性對社會的影響為何？」",
-    "教授問：「應該如何處理全球變暖的問題？」",
-    "教授問：「網絡安全的重要性體現在何處？」"
+    "教授問：「你認為科技對教育的影響是正面還是負面？」",
+    "教授問：「是否應該將性別教育納入學校課程？」",
+    "教授問：「環境保護與經濟發展之間的衝突如何解決？」",
+    "教授問：「社交媒體對青少年的心理健康有何影響？」",
+    "教授問：「大學應如何平衡學術自由與社會責任？」",
+    "教授問：「在當今社會中，文化多樣性有多重要？」"
   ]
 }
