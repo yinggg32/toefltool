@@ -8470,5 +8470,61 @@
     "zh": "遠程存在",
     "ex": "Telepresence technology enables remote collaboration across distances.",
     "cat": "📰 每日新詞：technology and innovation"
+  },
+  {
+    "word": "analyze",
+    "pos": "v.",
+    "root": "ana-向上 + lyze-分解",
+    "zh": "分析",
+    "ex": "Historians often analyze primary sources to gain insight into past societies.",
+    "cat": "📰 每日新詞：history"
+  },
+  {
+    "word": "sociopolitical",
+    "pos": "adj.",
+    "root": "socio-社会 + polit-政治 + -ical-形容词后缀",
+    "zh": "社会政治的",
+    "ex": "Sociopolitical factors played a key role in the outcome of the revolution.",
+    "cat": "📰 每日新詞：history"
+  },
+  {
+    "word": "proclamation",
+    "pos": "n.",
+    "root": "pro-前 + claim-宣称 + -ation-状态",
+    "zh": "公告，声明",
+    "ex": "The proclamation of independence was a turning point in the nation's history.",
+    "cat": "📰 每日新詞：history"
+  },
+  {
+    "word": "imperial",
+    "pos": "adj.",
+    "root": "imper-统治 + -ial-形容词后缀",
+    "zh": "帝国的",
+    "ex": "The imperial policies of the past have shaped current political landscapes.",
+    "cat": "📰 每日新詞：history"
+  },
+  {
+    "word": "province",
+    "pos": "n.",
+    "root": "prov-前 + -ince-状态",
+    "zh": "省，区域",
+    "ex": "Each province in ancient China had its own unique history.",
+    "cat": "📰 每日新詞：history"
+  },
+  {
+    "word": "economics",
+    "pos": "n.",
+    "root": "eco-家 + nom-管理",
+    "zh": "经济学",
+    "ex": "The study of economics helps explain the financial factors that influence historical events.",
+    "cat": "📰 每日新詞：history"
+  },
+  {
+    "word": "historicity",
+    "pos": "n.",
+    "root": "histor-历史 + -icity-性质",
+    "zh": "历史真实性",
+    "ex": "The historicity of a narrative can often be challenged by new evidence.",
+    "cat": "📰 每日新詞：history"
   }
 ]

@@ -1,116 +1,116 @@
 {
   "chooseResponse": [
     {
-      "q": "What time is the meeting tomorrow?",
+      "q": "Did you finish the report?",
       "options": [
-        "At 10 AM",
-        "I forgot",
-        "It's canceled",
-        "Where is it?"
+        "Yes, I submitted it.",
+        "Not yet, still working on it.",
+        "I lost my notes.",
+        "I don't remember the deadline."
       ],
       "correctIndex": 0
     }
   ],
   "conversation": {
-    "transcript": "Student: Hey, have you seen the new art exhibit in the gallery?\nAdvisor: Yes, I went last weekend. It was really impressive!\nStudent: What did you like the most about it?\nAdvisor: I loved the interactive installations. They make art more accessible.",
+    "transcript": "Student: Hey, did you get the results of the last exam?\nProfessor: Yes, I just posted them online. Did you check your grade?\nStudent: Not yet. I was too nervous to look.\nProfessor: I understand. It can be stressful, but it's important to see how you did.",
     "questions": [
       {
-        "q": "What did the advisor think about the exhibit?",
+        "q": "What did the professor post online?",
         "options": [
-          "It was impressive",
-          "It was boring",
-          "It was too crowded",
-          "It was too expensive"
+          "The exam results.",
+          "New class materials.",
+          "Final grades.",
+          "Tutoring schedules."
         ],
         "correctIndex": 0,
-        "explain": "顧問認為展覽令人印象深刻。"
+        "explain": "教授在網上發布了考試結果。"
       },
       {
-        "q": "What feature of the exhibit did the advisor enjoy?",
+        "q": "Why was the student nervous?",
         "options": [
-          "The sculptures",
-          "The interactive installations",
-          "The paintings",
-          "The audio guides"
+          "About the exam results.",
+          "About speaking to the professor.",
+          "About the next assignment.",
+          "About the final project."
         ],
-        "correctIndex": 1,
-        "explain": "顧問喜歡互動裝置。"
+        "correctIndex": 0,
+        "explain": "學生對考試結果感到緊張。"
       }
     ]
   },
   "announcement": {
-    "transcript": "Attention students! The library will be hosting a special workshop on research skills next Thursday at 3 PM. This workshop will cover effective searching techniques and citation styles. Don’t miss this opportunity to enhance your research abilities!",
+    "transcript": "Attention students, the library will be closing early today at 4 PM due to maintenance work. Please make sure to check out any materials you need before then. Thank you for your understanding.",
     "questions": [
       {
-        "q": "What is the purpose of the workshop?",
+        "q": "Why is the library closing early?",
         "options": [
-          "To improve research skills",
-          "To teach writing skills",
-          "To discuss art history",
-          "To promote library services"
-        ],
-        "correctIndex": 0,
-        "explain": "這個研討會的目的是提高研究技巧。"
-      },
-      {
-        "q": "When will the workshop take place?",
-        "options": [
-          "Next Wednesday",
-          "Next Thursday",
-          "This Friday",
-          "This Saturday"
+          "For a special event.",
+          "Due to maintenance work.",
+          "For inventory check.",
+          "Because of a staff meeting."
         ],
         "correctIndex": 1,
-        "explain": "研討會將在下星期四舉行。"
+        "explain": "圖書館因為維護工作而提前關閉。"
+      },
+      {
+        "q": "What time will the library close?",
+        "options": [
+          "3 PM",
+          "4 PM",
+          "5 PM",
+          "6 PM"
+        ],
+        "correctIndex": 1,
+        "explain": "圖書館將在下午4點關閉。"
       }
     ]
   },
   "talk": {
-    "transcript": "Today, I would like to discuss the concept of renewable energy. Renewable energy comes from natural sources that are constantly replenished, such as sunlight, wind, and water. Unlike fossil fuels, which can be depleted, renewable energy sources offer a sustainable way to power our homes and industries. They help reduce greenhouse gas emissions and combat climate change. In recent years, the use of solar panels and wind turbines has increased significantly, making renewable energy a more viable option for many countries. As technology advances, we can expect even greater developments in this field, leading to a cleaner and more sustainable future.",
+    "transcript": "Today, I will discuss the importance of biodiversity in ecosystems. Biodiversity refers to the variety of life in a given area, and it plays a crucial role in maintaining the health of ecosystems. A diverse ecosystem can withstand environmental stress and recover from disturbances more effectively. Additionally, biodiversity contributes to ecosystem services, such as pollination, nutrient cycling, and climate regulation. Protecting biodiversity is essential for our survival and the health of the planet. Therefore, conservation efforts are necessary to preserve the variety of life on Earth.",
     "questions": [
       {
-        "q": "What is renewable energy?",
+        "q": "What does biodiversity refer to?",
         "options": [
-          "Energy from nuclear sources",
-          "Energy from fossil fuels",
-          "Energy from natural sources",
-          "Energy from waste"
-        ],
-        "correctIndex": 2,
-        "explain": "可再生能源來自自然來源。"
-      },
-      {
-        "q": "Why is renewable energy important?",
-        "options": [
-          "It can be easily stored",
-          "It helps reduce emissions",
-          "It is always available",
-          "It is the cheapest option"
+          "The variety of ecosystems.",
+          "The variety of life in an area.",
+          "The number of species in danger.",
+          "The health of the environment."
         ],
         "correctIndex": 1,
-        "explain": "可再生能源有助於減少排放。"
+        "explain": "生物多樣性指的是一個地區的生命多樣性。"
       },
       {
-        "q": "What has increased significantly in recent years?",
+        "q": "Why is biodiversity important?",
         "options": [
-          "Fossil fuel use",
-          "Solar panels and wind turbines",
-          "Electric vehicle sales",
-          "Nuclear power plants"
-        ],
-        "correctIndex": 1,
-        "explain": "近年來，太陽能電池板和風力發電機的使用顯著增加。"
-      },
-      {
-        "q": "What does the speaker predict for the future of renewable energy?",
-        "options": [
-          "Less development",
-          "More research in fossil fuels",
-          "Greater advancements",
-          "Less interest from countries"
+          "It helps reduce pollution.",
+          "It increases food production.",
+          "It maintains ecosystem health.",
+          "It decreases species extinction."
         ],
         "correctIndex": 2,
-        "explain": "演講者預測可再生能源將有更大的進步。"
+        "explain": "生物多樣性有助於維持生態系統的健康。"
+      },
+      {
+        "q": "What can diverse ecosystems do better?",
+        "options": [
+          "Support urban development.",
+          "Attract more visitors.",
+          "Withstand environmental stress.",
+          "Produce more food."
+        ],
+        "correctIndex": 2,
+        "explain": "多樣的生態系統能更好地抵抗環境壓力。"
+      },
+      {
+        "q": "What is necessary for preserving biodiversity?",
+        "options": [
+          "Urban expansion.",
+          "Conservation efforts.",
+          "Increased population.",
+          "Technological advancements."
+        ],
+        "correctIndex": 1,
+        "explain": "保護生物多樣性需要進行保護努力。"
       }
     ]
   }
