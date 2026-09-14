@@ -2,107 +2,107 @@
   "cloze": {
     "segments": [
       {
-        "text": "The human brain is a highly complex org"
+        "text": "The concept of a \n"
       },
       {
-        "blank": "anism"
+        "blank": "soci"
       },
       {
-        "text": ", which functions as the center of the nervous system. It is responsible for a wide range of activities, including thought, emot"
+        "text": "al contract is essential in political philosophy. It refers to the implicit agreement among individuals to form a society and accept certain obligations. This idea, rooted in the works of philosophers like Thomas Hobbes and John Locke, suggests that people consent to surrender some freedoms in exchange for social order. In a \n"
       },
       {
-        "blank": "ions"
+        "blank": "just"
       },
       {
-        "text": ", memory, and motor control. The brain is divided into several regions, each with distinct functions. The cerebr"
+        "text": " society, rights and duties are balanced. The social contract serves as a foundation for understanding government legitimacy and individual rights. By examining historical contexts, one can \n"
       },
       {
-        "blank": "um"
+        "blank": "analy"
       },
       {
-        "text": ", for instance, is primarily involved in higher cognitive functions, while the cere"
+        "text": "ze how varying interpretations of this concept influence modern political thought. Ultimately, the idea of a social contract raises important questions about \n"
       },
       {
-        "blank": "bellum"
+        "blank": "gover"
       },
       {
-        "text": " plays a key role in coordination and balance. Understanding the structure and function of the brain is essential for advancements in medical science."
+        "text": "nance, authority, and individual agency."
       }
     ]
   },
   "academic": {
-    "passage": "The study of the human brain is crucial for understanding both normal and abnormal behaviors. Research has uncovered varied functions of different brain regions. For instance, the frontal lobe is associated with decision-making and problem-solving, while the temporal lobe plays a key role in processing auditory information. Such insights are vital for developing treatments for neurological disorders and improving cognitive function. The complexity of the brain's neural networks remains an area of active research, with implications for future therapeutic strategies.",
+    "passage": "The social contract is a foundational concept in political philosophy, proposed by thinkers like Hobbes and Locke. It describes an agreement where individuals consent to form a society by relinquishing some freedoms for the sake of social order. This balance of rights and duties is crucial for understanding government legitimacy and individual rights. Various interpretations can be explored to comprehend its impact on contemporary political thought, raising critical questions about governance and authority.",
     "questions": [
       {
-        "q": "What is the main focus of the passage?",
+        "q": "What is the main idea of the passage?",
         "options": [
-          "Functions of different brain regions",
-          "History of brain research",
-          "Types of neurological disorders",
-          "Importance of physical exercise"
+          "The social contract is a foundational concept in political philosophy.",
+          "Hobbes and Locke were key philosophers in political theory.",
+          "The balance of rights and duties is essential for governance.",
+          "Individuals should never relinquish their freedoms."
         ],
         "correctIndex": 0,
-        "explain": "本文主要集中于不同大脑区域的功能。"
+        "explain": "這段文本的主旨是社會契約是政治哲學中的基礎概念。"
       },
       {
-        "q": "Which lobe is associated with decision-making?",
+        "q": "Who are two philosophers mentioned in the passage?",
         "options": [
-          "Frontal lobe",
-          "Occipital lobe",
-          "Parietal lobe",
-          "Temporal lobe"
+          "Hobbes and Locke",
+          "Aristotle and Kant",
+          "Plato and Rousseau",
+          "Nietzsche and Marx"
         ],
         "correctIndex": 0,
-        "explain": "额叶与决策制定密切相关。"
+        "explain": "文本提到了霍布斯和洛克這兩位哲學家。"
       },
       {
-        "q": "What can be inferred about the complexity of the brain?",
+        "q": "What can be inferred about the social contract's relevance today?",
         "options": [
-          "It is well understood",
-          "It poses challenges for researchers",
-          "It has no impact on behaviors",
-          "It is irrelevant to medical science"
+          "It has no impact on modern politics.",
+          "It helps understand current government structures.",
+          "It is only relevant in historical contexts.",
+          "It does not influence individual rights."
         ],
         "correctIndex": 1,
-        "explain": "大脑的复杂性给研究人员带来了挑战。"
+        "explain": "社會契約的概念有助於理解當前政府結構。"
       },
       {
-        "q": "What does the term 'neural networks' refer to?",
+        "q": "What does 'legitimacy' most likely mean in the context of the passage?",
         "options": [
-          "Social structures in communities",
-          "Connections between brain cells",
-          "Physical exercise routines",
-          "Patterns of behavior"
+          "Legal authority or acceptance by the governed.",
+          "Cultural significance in society.",
+          "A historical agreement among individuals.",
+          "The effectiveness of governance."
         ],
-        "correctIndex": 1,
-        "explain": "“神经网络”指的是大脑细胞之间的连接。"
+        "correctIndex": 0,
+        "explain": "在這段文字中，'合法性'是指政府的法律權威或被統治者的接受。"
       }
     ]
   },
   "daily": {
-    "passage": "Attention all students! The annual campus festival will be held on April 15th in the student union. Enjoy a variety of activities, including games, food stalls, and live performances. Don’t miss the fun!",
+    "passage": "Attention all students! The library will be closed for maintenance on Saturday from 9 AM to 2 PM. Please plan accordingly and ensure you have all necessary materials before then. Thank you for your understanding!",
     "questions": [
       {
-        "q": "When will the campus festival take place?",
+        "q": "When will the library be closed?",
         "options": [
-          "April 5th",
-          "April 10th",
-          "April 15th",
-          "April 20th"
+          "Saturday from 9 AM to 2 PM",
+          "Friday all day",
+          "Sunday from 10 AM to 3 PM",
+          "Monday morning"
         ],
-        "correctIndex": 2,
-        "explain": "校园节日将在4月15日举行。"
+        "correctIndex": 0,
+        "explain": "圖書館將在星期六上午9點到下午2點關閉。"
       },
       {
-        "q": "What types of activities will be available at the festival?",
+        "q": "What should students do before the closure?",
         "options": [
-          "Only food stalls",
-          "Games and live performances",
-          "Workshops",
-          "Seminars"
+          "Return all books",
+          "Plan accordingly and gather materials",
+          "Check out more books",
+          "Attend a library workshop"
         ],
         "correctIndex": 1,
-        "explain": "校园节日将包括游戏和现场表演等活动。"
+        "explain": "學生應在關閉之前做好計劃並收集所需的材料。"
       }
     ]
   }

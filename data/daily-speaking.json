@@ -1,45 +1,45 @@
 {
   "shadowSentences": [
-    "I enjoy reading books in my free time.",
-    "My favorite season is autumn because of the colors.",
-    "Traveling to new places can be very exciting.",
-    "Cooking at home saves money and is healthier.",
-    "I often listen to music while I study or work.",
-    "Hiking in the mountains is a great way to relax.",
-    "I like to learn about different cultures and traditions.",
-    "Volunteering in my community makes me feel fulfilled.",
-    "Finding a balance between work and personal life is essential.",
-    "Taking care of your mental health is just as important as physical health."
+    "I love to read books in my free time.",
+    "The weather today is quite nice and sunny.",
+    "I enjoy cooking new recipes on the weekends.",
+    "Traveling to new places always excites me.",
+    "My favorite movie genre is science fiction and fantasy.",
+    "Listening to music helps me relax after a long day.",
+    "I often go for walks in the park during the evenings.",
+    "Learning a new language can be both fun and challenging.",
+    "I try to exercise regularly to stay healthy and fit.",
+    "Spending time with family and friends brings me joy and happiness."
   ],
   "interviewScenarios": [
     {
-      "topic": "旅行計劃",
-      "intro": "You have agreed to take part in a research study about travel planning.",
+      "topic": "休閒活動",
+      "intro": "You have agreed to take part in a research study about leisure activities.",
       "questions": [
-        "Q1: What is your favorite travel destination and why?",
-        "Q2: What challenges do you face when planning a trip?",
-        "Q3: How do you think travel impacts personal growth?",
-        "Q4: What advice would you give someone planning their first trip?"
+        "Q1: What is your favorite leisure activity and why do you enjoy it?",
+        "Q2: Have you ever faced any challenges while pursuing this activity?",
+        "Q3: In your opinion, how important are leisure activities for a balanced life?",
+        "Q4: What advice would you give someone looking to start a new leisure activity?"
       ]
     },
     {
-      "topic": "學習技巧",
-      "intro": "You have agreed to take part in a research study about effective study techniques.",
+      "topic": "環保習慣",
+      "intro": "You have agreed to take part in a research study about eco-friendly habits.",
       "questions": [
-        "Q1: What study methods have worked best for you?",
-        "Q2: What obstacles do you encounter while studying?",
-        "Q3: In your opinion, how important is time management for students?",
-        "Q4: What tips would you offer to improve study habits?"
+        "Q1: Can you share an eco-friendly habit you practice in your daily life?",
+        "Q2: What challenges do you face when trying to be more environmentally friendly?",
+        "Q3: How do you think individual actions can impact the environment?",
+        "Q4: What recommendations would you give to someone wanting to adopt eco-friendly habits?"
       ]
     },
     {
-      "topic": "健身習慣",
-      "intro": "You have agreed to take part in a research study about fitness habits.",
+      "topic": "志願者服務",
+      "intro": "You have agreed to take part in a research study about volunteer work.",
       "questions": [
-        "Q1: How often do you engage in physical exercise?",
-        "Q2: What difficulties do you experience when trying to stay fit?",
-        "Q3: What is your opinion on the importance of fitness in daily life?",
-        "Q4: What recommendations would you give to someone starting a fitness journey?"
+        "Q1: Have you ever participated in volunteer work? If so, what did you do?",
+        "Q2: What obstacles did you encounter while volunteering?",
+        "Q3: Why do you believe volunteering is important for communities?",
+        "Q4: What suggestions would you offer to someone considering volunteering for the first time?"
       ]
     }
   ]

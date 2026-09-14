@@ -1,116 +1,116 @@
 {
   "chooseResponse": [
     {
-      "q": "Did you finish the report?",
+      "q": "What did you think of the event?",
       "options": [
-        "Yes, I submitted it.",
-        "Not yet, still working on it.",
-        "I lost my notes.",
-        "I don't remember the deadline."
+        "It was interesting!",
+        "I didn't like it.",
+        "I didn't go.",
+        "I have no opinion."
       ],
       "correctIndex": 0
     }
   ],
   "conversation": {
-    "transcript": "Student: Hey, did you get the results of the last exam?\nProfessor: Yes, I just posted them online. Did you check your grade?\nStudent: Not yet. I was too nervous to look.\nProfessor: I understand. It can be stressful, but it's important to see how you did.",
+    "transcript": "Student: Did you attend the poetry reading last night?\nAdvisor: Yes, I thought it was amazing. The featured poet was really talented.\nStudent: I heard that too! What was your favorite part?\nAdvisor: I loved the way they interpreted nature in their poems.",
     "questions": [
       {
-        "q": "What did the professor post online?",
+        "q": "What did the student ask about?",
         "options": [
-          "The exam results.",
-          "New class materials.",
-          "Final grades.",
-          "Tutoring schedules."
+          "The poetry reading",
+          "The art exhibit",
+          "A class project",
+          "The campus event"
         ],
         "correctIndex": 0,
-        "explain": "教授在網上發布了考試結果。"
+        "explain": "學生在詢問有關詩歌朗讀會的事情。"
       },
       {
-        "q": "Why was the student nervous?",
+        "q": "What did the advisor think of the poet?",
         "options": [
-          "About the exam results.",
-          "About speaking to the professor.",
-          "About the next assignment.",
-          "About the final project."
+          "They were talented",
+          "They were boring",
+          "They were too loud",
+          "They were unclear"
         ],
         "correctIndex": 0,
-        "explain": "學生對考試結果感到緊張。"
+        "explain": "顧問認為那位詩人很有才華。"
       }
     ]
   },
   "announcement": {
-    "transcript": "Attention students, the library will be closing early today at 4 PM due to maintenance work. Please make sure to check out any materials you need before then. Thank you for your understanding.",
+    "transcript": "Attention students! There will be a guest lecture on climate change this Thursday at 4 PM in the main auditorium. Don't miss this opportunity to learn from an expert in the field. Refreshments will be provided.",
     "questions": [
       {
-        "q": "Why is the library closing early?",
+        "q": "What is the topic of the guest lecture?",
         "options": [
-          "For a special event.",
-          "Due to maintenance work.",
-          "For inventory check.",
-          "Because of a staff meeting."
+          "Climate change",
+          "Renewable energy",
+          "Environmental policy",
+          "Sustainable living"
         ],
-        "correctIndex": 1,
-        "explain": "圖書館因為維護工作而提前關閉。"
+        "correctIndex": 0,
+        "explain": "客座講座的主題是氣候變化。"
       },
       {
-        "q": "What time will the library close?",
+        "q": "When will the guest lecture take place?",
         "options": [
-          "3 PM",
-          "4 PM",
-          "5 PM",
-          "6 PM"
+          "This Thursday at 4 PM",
+          "Next Monday at 2 PM",
+          "This Friday at 6 PM",
+          "Next Wednesday at 3 PM"
         ],
-        "correctIndex": 1,
-        "explain": "圖書館將在下午4點關閉。"
+        "correctIndex": 0,
+        "explain": "客座講座將於本週四下午四點舉行。"
       }
     ]
   },
   "talk": {
-    "transcript": "Today, I will discuss the importance of biodiversity in ecosystems. Biodiversity refers to the variety of life in a given area, and it plays a crucial role in maintaining the health of ecosystems. A diverse ecosystem can withstand environmental stress and recover from disturbances more effectively. Additionally, biodiversity contributes to ecosystem services, such as pollination, nutrient cycling, and climate regulation. Protecting biodiversity is essential for our survival and the health of the planet. Therefore, conservation efforts are necessary to preserve the variety of life on Earth.",
+    "transcript": "Today, we will discuss the concept of supply and demand in economics. Supply refers to how much of a product or service is available, while demand refers to how much of that product or service people want. When supply exceeds demand, prices tend to fall, whereas when demand exceeds supply, prices tend to rise. This relationship is fundamental to understanding market dynamics and can affect everything from local businesses to global economies.",
     "questions": [
       {
-        "q": "What does biodiversity refer to?",
+        "q": "What does supply refer to in economics?",
         "options": [
-          "The variety of ecosystems.",
-          "The variety of life in an area.",
-          "The number of species in danger.",
-          "The health of the environment."
+          "Availability of a product",
+          "Consumer preferences",
+          "Advertising strategies",
+          "Market competition"
         ],
-        "correctIndex": 1,
-        "explain": "生物多樣性指的是一個地區的生命多樣性。"
+        "correctIndex": 0,
+        "explain": "供應在經濟學中指的是產品或服務的可獲得性。"
       },
       {
-        "q": "Why is biodiversity important?",
+        "q": "What happens when supply exceeds demand?",
         "options": [
-          "It helps reduce pollution.",
-          "It increases food production.",
-          "It maintains ecosystem health.",
-          "It decreases species extinction."
+          "Prices tend to fall",
+          "Prices tend to rise",
+          "Demand decreases",
+          "Supply increases"
         ],
-        "correctIndex": 2,
-        "explain": "生物多樣性有助於維持生態系統的健康。"
+        "correctIndex": 0,
+        "explain": "當供應超過需求時，價格通常會下降。"
       },
       {
-        "q": "What can diverse ecosystems do better?",
+        "q": "What is demand in economic terms?",
         "options": [
-          "Support urban development.",
-          "Attract more visitors.",
-          "Withstand environmental stress.",
-          "Produce more food."
+          "Desire for a product",
+          "Production levels",
+          "Cost of production",
+          "Sales strategies"
         ],
-        "correctIndex": 2,
-        "explain": "多樣的生態系統能更好地抵抗環境壓力。"
+        "correctIndex": 0,
+        "explain": "需求在經濟學中指的是人們對產品的需求。"
       },
       {
-        "q": "What is necessary for preserving biodiversity?",
+        "q": "Why is the concept of supply and demand important?",
         "options": [
-          "Urban expansion.",
-          "Conservation efforts.",
-          "Increased population.",
-          "Technological advancements."
+          "It affects market dynamics",
+          "It determines government policies",
+          "It predicts consumer behavior",
+          "It assesses production costs"
         ],
-        "correctIndex": 1,
-        "explain": "保護生物多樣性需要進行保護努力。"
+        "correctIndex": 0,
+        "explain": "供需概念對市場動態的影響非常重要。"
       }
     ]
   }

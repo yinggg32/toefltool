@@ -8526,5 +8526,29 @@
     "zh": "历史真实性",
     "ex": "The historicity of a narrative can often be challenged by new evidence.",
     "cat": "📰 每日新詞：history"
+  },
+  {
+    "word": "alliteration",
+    "pos": "n.",
+    "root": "頭韻—alliteration",
+    "zh": "頭韻",
+    "ex": "Alliteration is a stylistic device that repeats the same initial consonant sounds in closely placed words.",
+    "cat": "📰 每日新詞：linguistics"
+  },
+  {
+    "word": "hyperbole",
+    "pos": "n.",
+    "root": "誇張—hyperbole",
+    "zh": "誇張",
+    "ex": "Hyperbole is often employed in rhetoric to emphasize a point dramatically.",
+    "cat": "📰 每日新詞：linguistics"
+  },
+  {
+    "word": "synecdoche",
+    "pos": "n.",
+    "root": "提喻—synecdoche",
+    "zh": "提喻",
+    "ex": "Synecdoche is a figure of speech in which a part represents the whole.",
+    "cat": "📰 每日新詞：linguistics"
   }
 ]
