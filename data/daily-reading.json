@@ -2,107 +2,101 @@
   "cloze": {
     "segments": [
       {
-        "text": "The concept of a \n"
+        "text": "Photosynthesis is a vital process conducted by plants, enabling them to convert sunlight into en"
       },
       {
-        "blank": "soci"
+        "blank": "ergy"
       },
       {
-        "text": "al contract is essential in political philosophy. It refers to the implicit agreement among individuals to form a society and accept certain obligations. This idea, rooted in the works of philosophers like Thomas Hobbes and John Locke, suggests that people consent to surrender some freedoms in exchange for social order. In a \n"
+        "text": ". This transformation relies on chlorophyll, a green pigment found in plant cells that captures light energy. During the process, carbon dioxide is absorbed from the atmosphere, while oxygen is released as a byproduct. The overall chemical reaction can be summarized as: carbon dioxide plus water, in the presence of light, yields glucose and oxy"
       },
       {
-        "blank": "just"
+        "blank": "gen."
       },
       {
-        "text": " society, rights and duties are balanced. The social contract serves as a foundation for understanding government legitimacy and individual rights. By examining historical contexts, one can \n"
+        "text": " This cycle not only supports plant growth but also plays a critical role in the Earth's ecosystem by providing oxygen for living organisms. Understanding photosynthesis is essential for advancements in agricultural practices and renewable energy so"
       },
       {
-        "blank": "analy"
+        "blank": "lutions."
       },
       {
-        "text": "ze how varying interpretations of this concept influence modern political thought. Ultimately, the idea of a social contract raises important questions about \n"
-      },
-      {
-        "blank": "gover"
-      },
-      {
-        "text": "nance, authority, and individual agency."
+        "text": " In conclusion, photosynthesis is a fundamental process that sustains life on Earth."
       }
     ]
   },
   "academic": {
-    "passage": "The social contract is a foundational concept in political philosophy, proposed by thinkers like Hobbes and Locke. It describes an agreement where individuals consent to form a society by relinquishing some freedoms for the sake of social order. This balance of rights and duties is crucial for understanding government legitimacy and individual rights. Various interpretations can be explored to comprehend its impact on contemporary political thought, raising critical questions about governance and authority.",
+    "passage": "Photosynthesis is the process through which plants, algae, and some bacteria convert light energy into chemical energy. This process takes place primarily in the leaves, where chlorophyll absorbs sunlight. The absorbed energy is used to transform carbon dioxide from the atmosphere and water from the soil into glucose, which serves as food for the plant. Oxygen is released as a byproduct, making photosynthesis crucial for maintaining the balance of oxygen in the atmosphere.",
     "questions": [
       {
         "q": "What is the main idea of the passage?",
         "options": [
-          "The social contract is a foundational concept in political philosophy.",
-          "Hobbes and Locke were key philosophers in political theory.",
-          "The balance of rights and duties is essential for governance.",
-          "Individuals should never relinquish their freedoms."
+          "Photosynthesis is crucial for life on Earth.",
+          "Chlorophyll absorbs sunlight in plants.",
+          "Plants use glucose for energy.",
+          "Oxygen is a byproduct of photosynthesis."
         ],
         "correctIndex": 0,
-        "explain": "這段文本的主旨是社會契約是政治哲學中的基礎概念。"
+        "explain": "這段文字主要說明光合作用對地球生命的重要性。"
       },
       {
-        "q": "Who are two philosophers mentioned in the passage?",
+        "q": "Where does photosynthesis primarily take place?",
         "options": [
-          "Hobbes and Locke",
-          "Aristotle and Kant",
-          "Plato and Rousseau",
-          "Nietzsche and Marx"
+          "In the roots of the plant.",
+          "In the stems.",
+          "In the leaves.",
+          "In the flowers."
         ],
-        "correctIndex": 0,
-        "explain": "文本提到了霍布斯和洛克這兩位哲學家。"
+        "correctIndex": 2,
+        "explain": "光合作用主要發生在植物的葉子中。"
       },
       {
-        "q": "What can be inferred about the social contract's relevance today?",
+        "q": "What can be inferred about the relationship between photosynthesis and oxygen levels?",
         "options": [
-          "It has no impact on modern politics.",
-          "It helps understand current government structures.",
-          "It is only relevant in historical contexts.",
-          "It does not influence individual rights."
+          "Photosynthesis decreases oxygen levels.",
+          "Photosynthesis is not related to oxygen levels.",
+          "Photosynthesis increases oxygen levels.",
+          "Oxygen levels do not affect photosynthesis."
+        ],
+        "correctIndex": 2,
+        "explain": "光合作用釋放氧氣，這意味著它能增加氧氣水平。"
+      },
+      {
+        "q": "What does the term 'chlorophyll' refer to in the context of the passage?",
+        "options": [
+          "A type of plant food.",
+          "A green pigment essential for photosynthesis.",
+          "A source of energy.",
+          "A byproduct of plant respiration."
         ],
         "correctIndex": 1,
-        "explain": "社會契約的概念有助於理解當前政府結構。"
-      },
-      {
-        "q": "What does 'legitimacy' most likely mean in the context of the passage?",
-        "options": [
-          "Legal authority or acceptance by the governed.",
-          "Cultural significance in society.",
-          "A historical agreement among individuals.",
-          "The effectiveness of governance."
-        ],
-        "correctIndex": 0,
-        "explain": "在這段文字中，'合法性'是指政府的法律權威或被統治者的接受。"
+        "explain": "在這段文字中，'葉綠素'是指光合作用所需的綠色色素。"
       }
     ]
   },
   "daily": {
-    "passage": "Attention all students! The library will be closed for maintenance on Saturday from 9 AM to 2 PM. Please plan accordingly and ensure you have all necessary materials before then. Thank you for your understanding!",
+    "passage": "Attention students: The library will be closed for maintenance on Friday from 9 AM to 5 PM. Please plan accordingly and return any books before the closure. Thank you for your understanding.",
     "questions": [
       {
         "q": "When will the library be closed?",
         "options": [
-          "Saturday from 9 AM to 2 PM",
-          "Friday all day",
-          "Sunday from 10 AM to 3 PM",
-          "Monday morning"
-        ],
-        "correctIndex": 0,
-        "explain": "圖書館將在星期六上午9點到下午2點關閉。"
-      },
-      {
-        "q": "What should students do before the closure?",
-        "options": [
-          "Return all books",
-          "Plan accordingly and gather materials",
-          "Check out more books",
-          "Attend a library workshop"
+          "Thursday evening.",
+          "Friday from 9 AM to 5 PM.",
+          "Saturday all day.",
+          "Friday morning until noon."
         ],
         "correctIndex": 1,
-        "explain": "學生應在關閉之前做好計劃並收集所需的材料。"
+        "explain": "圖書館將在星期五上午9點到下午5點關閉。"
+      },
+      {
+        "q": "What should students do before the library closes?",
+        "options": [
+          "Borrow more books.",
+          "Return any books.",
+          "Visit another library.",
+          "Attend a workshop."
+        ],
+        "correctIndex": 1,
+        "explain": "學生應在圖書館關閉之前歸還任何書籍。"
       }
     ]
   }

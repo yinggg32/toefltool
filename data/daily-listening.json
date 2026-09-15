@@ -1,116 +1,116 @@
 {
   "chooseResponse": [
     {
-      "q": "What did you think of the event?",
+      "q": "What did you think of the lecture?",
       "options": [
-        "It was interesting!",
-        "I didn't like it.",
-        "I didn't go.",
-        "I have no opinion."
+        "It was really interesting.",
+        "I didn't understand much.",
+        "It was too long.",
+        "I want to read more about it."
       ],
       "correctIndex": 0
     }
   ],
   "conversation": {
-    "transcript": "Student: Did you attend the poetry reading last night?\nAdvisor: Yes, I thought it was amazing. The featured poet was really talented.\nStudent: I heard that too! What was your favorite part?\nAdvisor: I loved the way they interpreted nature in their poems.",
+    "transcript": "Student: Did you finish the reading assignment for history?\nProfessor: Yes, I completed it last night. Did you find it challenging?\nStudent: A bit, especially the part about the ancient cultures.\nProfessor: That section can be tricky. Would you like to discuss it during office hours?",
     "questions": [
       {
-        "q": "What did the student ask about?",
+        "q": "What did the student find challenging?",
         "options": [
-          "The poetry reading",
-          "The art exhibit",
-          "A class project",
-          "The campus event"
+          "The reading assignment.",
+          "The lecture.",
+          "The exam.",
+          "The class schedule."
         ],
         "correctIndex": 0,
-        "explain": "學生在詢問有關詩歌朗讀會的事情。"
+        "explain": "學生覺得閱讀作業有挑戰性。"
       },
       {
-        "q": "What did the advisor think of the poet?",
+        "q": "What does the professor offer to the student?",
         "options": [
-          "They were talented",
-          "They were boring",
-          "They were too loud",
-          "They were unclear"
+          "To meet for a study group.",
+          "To discuss in office hours.",
+          "To change the assignment.",
+          "To provide extra materials."
         ],
-        "correctIndex": 0,
-        "explain": "顧問認為那位詩人很有才華。"
+        "correctIndex": 1,
+        "explain": "教授提供在辦公時間討論的機會。"
       }
     ]
   },
   "announcement": {
-    "transcript": "Attention students! There will be a guest lecture on climate change this Thursday at 4 PM in the main auditorium. Don't miss this opportunity to learn from an expert in the field. Refreshments will be provided.",
+    "transcript": "Attention students: The university bookstore will be holding a sale on all textbooks this Friday from 10 AM to 5 PM. Don't miss out on discounts of up to 30%! Make sure to bring your student ID for additional savings.",
     "questions": [
       {
-        "q": "What is the topic of the guest lecture?",
+        "q": "What day is the bookstore sale?",
         "options": [
-          "Climate change",
-          "Renewable energy",
-          "Environmental policy",
-          "Sustainable living"
+          "Monday",
+          "Friday",
+          "Saturday",
+          "Thursday"
         ],
-        "correctIndex": 0,
-        "explain": "客座講座的主題是氣候變化。"
+        "correctIndex": 1,
+        "explain": "書店的促銷活動在星期五舉行。"
       },
       {
-        "q": "When will the guest lecture take place?",
+        "q": "What do students need to bring for discounts?",
         "options": [
-          "This Thursday at 4 PM",
-          "Next Monday at 2 PM",
-          "This Friday at 6 PM",
-          "Next Wednesday at 3 PM"
+          "A coupon.",
+          "A friend.",
+          "Their student ID.",
+          "A textbook."
         ],
-        "correctIndex": 0,
-        "explain": "客座講座將於本週四下午四點舉行。"
+        "correctIndex": 2,
+        "explain": "學生需要帶學生證以獲得額外的折扣。"
       }
     ]
   },
   "talk": {
-    "transcript": "Today, we will discuss the concept of supply and demand in economics. Supply refers to how much of a product or service is available, while demand refers to how much of that product or service people want. When supply exceeds demand, prices tend to fall, whereas when demand exceeds supply, prices tend to rise. This relationship is fundamental to understanding market dynamics and can affect everything from local businesses to global economies.",
+    "transcript": "Today, we will discuss the concept of renewable energy. Renewable energy comes from sources that are naturally replenished, such as sunlight, wind, and water. Unlike fossil fuels, which can deplete over time, renewable energy sources are sustainable and help reduce carbon emissions. In recent years, many countries have been investing in renewable technologies to combat climate change. Wind turbines and solar panels are two of the most common forms of renewable energy. By harnessing these resources, we can create a cleaner and more sustainable future.",
     "questions": [
       {
-        "q": "What does supply refer to in economics?",
+        "q": "What is renewable energy?",
         "options": [
-          "Availability of a product",
-          "Consumer preferences",
-          "Advertising strategies",
-          "Market competition"
+          "Energy from fossil fuels.",
+          "Energy from natural sources.",
+          "Energy stored in batteries.",
+          "Energy from geothermal sources."
         ],
-        "correctIndex": 0,
-        "explain": "供應在經濟學中指的是產品或服務的可獲得性。"
+        "correctIndex": 1,
+        "explain": "可再生能源來自自然資源。"
       },
       {
-        "q": "What happens when supply exceeds demand?",
+        "q": "What do wind turbines and solar panels have in common?",
         "options": [
-          "Prices tend to fall",
-          "Prices tend to rise",
-          "Demand decreases",
-          "Supply increases"
+          "They are fossil fuel sources.",
+          "They are forms of renewable energy.",
+          "They require batteries.",
+          "They are used for transportation."
         ],
-        "correctIndex": 0,
-        "explain": "當供應超過需求時，價格通常會下降。"
+        "correctIndex": 1,
+        "explain": "風力發電機和太陽能電池板都是可再生能源的形式。"
       },
       {
-        "q": "What is demand in economic terms?",
+        "q": "Why are countries investing in renewable technologies?",
         "options": [
-          "Desire for a product",
-          "Production levels",
-          "Cost of production",
-          "Sales strategies"
+          "To increase fossil fuel use.",
+          "To reduce carbon emissions.",
+          "To raise energy costs.",
+          "To deplete natural resources."
         ],
-        "correctIndex": 0,
-        "explain": "需求在經濟學中指的是人們對產品的需求。"
+        "correctIndex": 1,
+        "explain": "國家投資於可再生技術以減少碳排放。"
       },
       {
-        "q": "Why is the concept of supply and demand important?",
+        "q": "What is a key benefit of renewable energy?",
         "options": [
-          "It affects market dynamics",
-          "It determines government policies",
-          "It predicts consumer behavior",
-          "It assesses production costs"
+          "It is always expensive.",
+          "It helps combat climate change.",
+          "It can only be used in summer.",
+          "It requires lots of land."
         ],
-        "correctIndex": 0,
-        "explain": "供需概念對市場動態的影響非常重要。"
+        "correctIndex": 1,
+        "explain": "可再生能源的主要好處是幫助對抗氣候變化。"
       }
     ]
   }

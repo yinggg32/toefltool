@@ -8550,5 +8550,61 @@
     "zh": "提喻",
     "ex": "Synecdoche is a figure of speech in which a part represents the whole.",
     "cat": "📰 每日新詞：linguistics"
+  },
+  {
+    "word": "delineate",
+    "pos": "v.",
+    "root": "描绘—delineate",
+    "zh": "描绘；刻画",
+    "ex": "The architect sought to delineate the building's unique features in the blueprints.",
+    "cat": "📰 每日新詞：art and architecture"
+  },
+  {
+    "word": "ornate",
+    "pos": "adj.",
+    "root": "华丽—ornate",
+    "zh": "华丽的；装饰的",
+    "ex": "The ornate details of the baroque style were evident in the cathedral's interior.",
+    "cat": "📰 每日新詞：art and architecture"
+  },
+  {
+    "word": "facade",
+    "pos": "n.",
+    "root": "立面—facade",
+    "zh": "建筑物的正面；外观",
+    "ex": "The façade of the museum was designed to reflect its modern purpose.",
+    "cat": "📰 每日新詞：art and architecture"
+  },
+  {
+    "word": "mural",
+    "pos": "n.",
+    "root": "壁画—mural",
+    "zh": "壁画；墙面画",
+    "ex": "The mural on the community center was designed to inspire local youth.",
+    "cat": "📰 每日新詞：art and architecture"
+  },
+  {
+    "word": "conceptual",
+    "pos": "adj.",
+    "root": "概念—conceptual",
+    "zh": "概念的；构思的",
+    "ex": "Conceptual art often focuses on ideas rather than traditional aesthetics.",
+    "cat": "📰 每日新詞：art and architecture"
+  },
+  {
+    "word": "harmony",
+    "pos": "n.",
+    "root": "和谐—harmony",
+    "zh": "和谐；协调",
+    "ex": "The harmony of colors in the painting created a serene atmosphere.",
+    "cat": "📰 每日新詞：art and architecture"
+  },
+  {
+    "word": "patina",
+    "pos": "n.",
+    "root": "古色古香—patina",
+    "zh": "铜绿；光泽",
+    "ex": "The statue's patina gave it a sense of age and historical significance.",
+    "cat": "📰 每日新詞：art and architecture"
   }
 ]
