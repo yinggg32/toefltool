@@ -2,101 +2,110 @@
   "cloze": {
     "segments": [
       {
-        "text": "Photosynthesis is a vital process conducted by plants, enabling them to convert sunlight into en"
+        "text": "The theory of evolution explains how species change over time through the process of natural selec"
       },
       {
-        "blank": "ergy"
+        "blank": "tion"
       },
       {
-        "text": ". This transformation relies on chlorophyll, a green pigment found in plant cells that captures light energy. During the process, carbon dioxide is absorbed from the atmosphere, while oxygen is released as a byproduct. The overall chemical reaction can be summarized as: carbon dioxide plus water, in the presence of light, yields glucose and oxy"
+        "text": ". One key mechanism in this process is genetic drift, which refers to random changes in the gene po"
       },
       {
-        "blank": "gen."
+        "blank": "ol"
       },
       {
-        "text": " This cycle not only supports plant growth but also plays a critical role in the Earth's ecosystem by providing oxygen for living organisms. Understanding photosynthesis is essential for advancements in agricultural practices and renewable energy so"
+        "text": "ation of a small group. This can lead to significant evolutionary changes, particularly in isolated popul"
       },
       {
-        "blank": "lutions."
+        "blank": "ations."
       },
       {
-        "text": " In conclusion, photosynthesis is a fundamental process that sustains life on Earth."
+        "text": " Additionally, the concept of adaptive radiation describes how a single ancestral species can diverge into"
+      },
+      {
+        "blank": "multiple"
+      },
+      {
+        "text": "species to exploit different ecological niches. This phenomenon is evident in the evolution of the finches on"
+      },
+      {
+        "blank": "the Galapagos"
       }
     ]
   },
   "academic": {
-    "passage": "Photosynthesis is the process through which plants, algae, and some bacteria convert light energy into chemical energy. This process takes place primarily in the leaves, where chlorophyll absorbs sunlight. The absorbed energy is used to transform carbon dioxide from the atmosphere and water from the soil into glucose, which serves as food for the plant. Oxygen is released as a byproduct, making photosynthesis crucial for maintaining the balance of oxygen in the atmosphere.",
+    "passage": "The theory of evolution is a fundamental concept in biology. It describes how species evolve over time through mechanisms such as natural selection and genetic drift. Natural selection favors traits that enhance survival, while genetic drift can lead to random evolutionary changes. A common example of adaptive radiation is seen in the Galapagos finches, which evolved from a single ancestor to adapt to various ecological niches. Understanding these processes is crucial for studying biodiversity and the history of life on Earth.",
     "questions": [
       {
         "q": "What is the main idea of the passage?",
         "options": [
-          "Photosynthesis is crucial for life on Earth.",
-          "Chlorophyll absorbs sunlight in plants.",
-          "Plants use glucose for energy.",
-          "Oxygen is a byproduct of photosynthesis."
+          "The mechanisms of evolution",
+          "The importance of biodiversity",
+          "The history of life on Earth",
+          "The role of natural selection"
         ],
         "correctIndex": 0,
-        "explain": "這段文字主要說明光合作用對地球生命的重要性。"
+        "explain": "這段文字的主要思想是講述進化的機制，特別是自然選擇和基因漂變。"
       },
       {
-        "q": "Where does photosynthesis primarily take place?",
+        "q": "What does genetic drift refer to?",
         "options": [
-          "In the roots of the plant.",
-          "In the stems.",
-          "In the leaves.",
-          "In the flowers."
-        ],
-        "correctIndex": 2,
-        "explain": "光合作用主要發生在植物的葉子中。"
-      },
-      {
-        "q": "What can be inferred about the relationship between photosynthesis and oxygen levels?",
-        "options": [
-          "Photosynthesis decreases oxygen levels.",
-          "Photosynthesis is not related to oxygen levels.",
-          "Photosynthesis increases oxygen levels.",
-          "Oxygen levels do not affect photosynthesis."
-        ],
-        "correctIndex": 2,
-        "explain": "光合作用釋放氧氣，這意味著它能增加氧氣水平。"
-      },
-      {
-        "q": "What does the term 'chlorophyll' refer to in the context of the passage?",
-        "options": [
-          "A type of plant food.",
-          "A green pigment essential for photosynthesis.",
-          "A source of energy.",
-          "A byproduct of plant respiration."
+          "The process of natural selection",
+          "Random changes in a gene pool",
+          "The variation of species in an ecosystem",
+          "The adaptation of organisms to their environment"
         ],
         "correctIndex": 1,
-        "explain": "在這段文字中，'葉綠素'是指光合作用所需的綠色色素。"
+        "explain": "基因漂變是指基因庫中的隨機變化，這與自然選擇不同。"
+      },
+      {
+        "q": "What can be inferred about the Galapagos finches?",
+        "options": [
+          "They have not evolved at all.",
+          "They have a common ancestor.",
+          "They are the only species on the islands.",
+          "They do not adapt to their environment."
+        ],
+        "correctIndex": 1,
+        "explain": "可以推斷出，加拉帕戈斯雀類擁有共同的祖先，因為它們是從同一物種演化而來的。"
+      },
+      {
+        "q": "What does the term 'adaptive radiation' mean in the context of the passage?",
+        "options": [
+          "A type of genetic mutation",
+          "A process of species divergence",
+          "A method of natural selection",
+          "A specific environment condition"
+        ],
+        "correctIndex": 1,
+        "explain": "在這段文字中，'適應性輻射'指的是物種為了適應不同的生態環境而產生分化的過程。"
       }
     ]
   },
   "daily": {
-    "passage": "Attention students: The library will be closed for maintenance on Friday from 9 AM to 5 PM. Please plan accordingly and return any books before the closure. Thank you for your understanding.",
+    "passage": "Attention students: The campus will be holding a career fair on Friday in the Student Center from 10 AM to 4 PM. Various companies will be present to discuss job opportunities and internships. Make sure to bring copies of your resume and dress professionally.",
     "questions": [
       {
-        "q": "When will the library be closed?",
+        "q": "What day will the career fair take place?",
         "options": [
-          "Thursday evening.",
-          "Friday from 9 AM to 5 PM.",
-          "Saturday all day.",
-          "Friday morning until noon."
+          "Thursday",
+          "Friday",
+          "Saturday",
+          "Sunday"
         ],
         "correctIndex": 1,
-        "explain": "圖書館將在星期五上午9點到下午5點關閉。"
+        "explain": "職業博覽會將在星期五舉行。"
       },
       {
-        "q": "What should students do before the library closes?",
+        "q": "Where will the career fair be held?",
         "options": [
-          "Borrow more books.",
-          "Return any books.",
-          "Visit another library.",
-          "Attend a workshop."
+          "In the library",
+          "In the Student Center",
+          "In the gym",
+          "In the cafeteria"
         ],
         "correctIndex": 1,
-        "explain": "學生應在圖書館關閉之前歸還任何書籍。"
+        "explain": "職業博覽會將在學生中心舉行。"
       }
     ]
   }

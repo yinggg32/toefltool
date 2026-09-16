@@ -2,32 +2,32 @@
   "buildSentences": [
     {
       "words": [
+        "students",
+        "should",
+        "attend",
         "the",
-        "research",
-        "team",
-        "published",
-        "their",
-        "findings",
-        "in",
-        "a",
-        "renowned",
-        "journal"
+        "lecture",
+        "to",
+        "understand",
+        "the",
+        "material"
       ],
-      "display": "The research team published their findings in a renowned journal."
+      "display": "Students should attend the lecture to understand the material."
     },
     {
       "words": [
         "the",
-        "new",
-        "policy",
-        "will",
-        "benefit",
-        "students",
-        "in",
-        "many",
-        "ways"
+        "results",
+        "of",
+        "the",
+        "experiment",
+        "were",
+        "surprising",
+        "to",
+        "the",
+        "researchers"
       ],
-      "display": "The new policy will benefit students in many ways."
+      "display": "The results of the experiment were surprising to the researchers."
     },
     {
       "words": [
@@ -45,92 +45,90 @@
     {
       "words": [
         "the",
-        "professor",
-        "suggested",
-        "that",
-        "students",
-        "should",
-        "study",
-        "together"
+        "book",
+        "discusses",
+        "the",
+        "impact",
+        "of",
+        "technology",
+        "on",
+        "education"
       ],
-      "display": "The professor suggested that students should study together."
-    },
-    {
-      "words": [
-        "after",
-        "reviewing",
-        "the",
-        "data",
-        "the",
-        "researchers",
-        "concluded",
-        "their",
-        "hypothesis",
-        "was",
-        "correct"
-      ],
-      "display": "After reviewing the data the researchers concluded their hypothesis was correct."
-    },
-    {
-      "words": [
-        "the",
-        "seminar",
-        "will",
-        "cover",
-        "the",
-        "latest",
-        "developments",
-        "in",
-        "sustainable",
-        "energy"
-      ],
-      "display": "The seminar will cover the latest developments in sustainable energy."
+      "display": "The book discusses the impact of technology on education."
     },
     {
       "words": [
         "it",
         "is",
         "important",
-        "for",
-        "students",
         "to",
-        "develop",
-        "strong",
-        "time",
-        "management",
-        "skills"
+        "reserve",
+        "a",
+        "study",
+        "room",
+        "in",
+        "advance"
       ],
-      "display": "It is important for students to develop strong time management skills."
+      "display": "It is important to reserve a study room in advance."
     },
     {
       "words": [
         "the",
-        "library",
-        "is",
-        "offering",
-        "free",
-        "workshops",
+        "team",
+        "worked",
+        "hard",
+        "to",
+        "complete",
+        "the",
+        "project",
         "on",
-        "research",
-        "skills"
+        "time"
       ],
-      "display": "The library is offering free workshops on research skills."
+      "display": "The team worked hard to complete the project on time."
+    },
+    {
+      "words": [
+        "students",
+        "can",
+        "improve",
+        "their",
+        "writing",
+        "skills",
+        "by",
+        "reading",
+        "more"
+      ],
+      "display": "Students can improve their writing skills by reading more."
+    },
+    {
+      "words": [
+        "the",
+        "deadline",
+        "for",
+        "submitting",
+        "the",
+        "assignment",
+        "is",
+        "next",
+        "week"
+      ],
+      "display": "The deadline for submitting the assignment is next week."
     }
   ],
   "emailPrompts": [
-    "寄信給宿舍管理辦公室，詢問續租的程序和截止日期。",
-    "寄信給圖書館，請求延長已借書籍的歸還期限。",
-    "寄信給學校俱樂部，表達對加入該俱樂部的興趣，詢問如何參加。",
-    "寄信給客戶服務，反映最近一次購物的問題，請求解決方案。",
-    "寄信給教授，請教有關課程作業的具體問題。",
-    "寄信給活動組織者，確認參加即將舉行的研討會。"
+    "寄信給教授，詢問上課缺席的補課安排。",
+    "寄信給宿舍辦公室，請求更換房間的可能性。",
+    "寄信給圖書館，詢問延長借書期限的程序。",
+    "寄信給學生會，表達對即將舉行的活動的參加意願和建議。",
+    "寄信給客戶服務，反映最近購買的產品存在的問題。",
+    "寄信給導師，請求對報告的反饋和指導。"
   ],
   "discussionPrompts": [
-    "教授問：「學生在學習中應該重視團隊合作還是個人努力？」",
-    "教授問：「科技進步對社會的影響是正面還是負面？」",
-    "教授問：「環保政策的實施應該優先考慮哪些方面？」",
-    "教授問：「在全球化的時代，文化多樣性是否受到威脅？」",
-    "教授問：「教育體系中，應該如何平衡實用技能和理論知識的學習？」",
-    "教授問：「藝術在社會中扮演的角色是什麼？」"
+    "教授問：「你認為科技對人際關係的影響是正面還是負面？」",
+    "教授問：「文化多樣性在社會中扮演什麼樣的角色？」",
+    "教授問：「環境保護和經濟發展之間存在什麼樣的衝突？」",
+    "教授問：「藝術在社會變革中的重要性如何？」",
+    "教授問：「隨著社交媒體的崛起，真實新聞的挑戰是什麼？」",
+    "教授問：「教育應該如何適應快速變化的工作市場？」"
   ]
 }

@@ -8606,5 +8606,37 @@
     "zh": "铜绿；光泽",
     "ex": "The statue's patina gave it a sense of age and historical significance.",
     "cat": "📰 每日新詞：art and architecture"
+  },
+  {
+    "word": "vertebrate",
+    "pos": "n.",
+    "root": "vertebr-脊椎; ate-使成",
+    "zh": "脊椎動物",
+    "ex": "Vertebrates are animals with a backbone, including mammals, birds, reptiles, amphibians, and fish.",
+    "cat": "📰 每日新詞：biology"
+  },
+  {
+    "word": "pesticide",
+    "pos": "n.",
+    "root": "pest-害蟲; cide-殺",
+    "zh": "殺蟲劑",
+    "ex": "Pesticides are chemicals used to kill or control pests in agriculture.",
+    "cat": "📰 每日新詞：biology"
+  },
+  {
+    "word": "saprophyte",
+    "pos": "n.",
+    "root": "sapro-腐爛; phyte-植物",
+    "zh": "腐生植物",
+    "ex": "Saprophytes play an essential role in decomposing organic matter in ecosystems.",
+    "cat": "📰 每日新詞：biology"
+  },
+  {
+    "word": "phylogenetics",
+    "pos": "n.",
+    "root": "phylo-族系; genetics-遺傳學",
+    "zh": "系統發生學",
+    "ex": "Phylogenetics is the study of the evolutionary relationships among biological entities.",
+    "cat": "📰 每日新詞：biology"
   }
 ]

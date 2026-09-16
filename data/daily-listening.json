@@ -1,116 +1,116 @@
 {
   "chooseResponse": [
     {
-      "q": "What did you think of the lecture?",
+      "q": "Did you finish the group project?",
       "options": [
-        "It was really interesting.",
-        "I didn't understand much.",
-        "It was too long.",
-        "I want to read more about it."
+        "Yes, I did.",
+        "No, not yet.",
+        "I'll start tomorrow.",
+        "We need more time."
       ],
       "correctIndex": 0
     }
   ],
   "conversation": {
-    "transcript": "Student: Did you finish the reading assignment for history?\nProfessor: Yes, I completed it last night. Did you find it challenging?\nStudent: A bit, especially the part about the ancient cultures.\nProfessor: That section can be tricky. Would you like to discuss it during office hours?",
+    "transcript": "Student: Have you heard about the new library opening?\nAdvisor: Yes, I read about it in the campus newsletter.\nStudent: I'm excited! When does it open?\nAdvisor: It opens next Monday, I believe.",
     "questions": [
       {
-        "q": "What did the student find challenging?",
+        "q": "What is the main topic of the conversation?",
         "options": [
-          "The reading assignment.",
-          "The lecture.",
-          "The exam.",
-          "The class schedule."
+          "The new library opening",
+          "A group project",
+          "A class schedule",
+          "A sports event"
         ],
         "correctIndex": 0,
-        "explain": "學生覺得閱讀作業有挑戰性。"
+        "explain": "這段對話的主題是新的圖書館開幕。"
       },
       {
-        "q": "What does the professor offer to the student?",
+        "q": "When does the library open?",
         "options": [
-          "To meet for a study group.",
-          "To discuss in office hours.",
-          "To change the assignment.",
-          "To provide extra materials."
+          "This Friday",
+          "Next Monday",
+          "Next month",
+          "Tomorrow"
         ],
         "correctIndex": 1,
-        "explain": "教授提供在辦公時間討論的機會。"
+        "explain": "圖書館在下週一開放。"
       }
     ]
   },
   "announcement": {
-    "transcript": "Attention students: The university bookstore will be holding a sale on all textbooks this Friday from 10 AM to 5 PM. Don't miss out on discounts of up to 30%! Make sure to bring your student ID for additional savings.",
+    "transcript": "Attention students! Starting next week, the campus gym will have extended hours. The new schedule will be from 6 AM to 11 PM on weekdays and 8 AM to 10 PM on weekends. We hope this will give you more flexibility for your workouts!",
     "questions": [
       {
-        "q": "What day is the bookstore sale?",
+        "q": "What is the announcement about?",
         "options": [
-          "Monday",
-          "Friday",
-          "Saturday",
-          "Thursday"
+          "Gym hours change",
+          "Library opening",
+          "Class cancellation",
+          "New student orientation"
         ],
-        "correctIndex": 1,
-        "explain": "書店的促銷活動在星期五舉行。"
+        "correctIndex": 0,
+        "explain": "這個公告是關於健身房營業時間的變更。"
       },
       {
-        "q": "What do students need to bring for discounts?",
+        "q": "When will the gym open on weekdays?",
         "options": [
-          "A coupon.",
-          "A friend.",
-          "Their student ID.",
-          "A textbook."
+          "6 AM",
+          "8 AM",
+          "10 AM",
+          "5 AM"
         ],
-        "correctIndex": 2,
-        "explain": "學生需要帶學生證以獲得額外的折扣。"
+        "correctIndex": 0,
+        "explain": "健身房在工作日早上六點開放。"
       }
     ]
   },
   "talk": {
-    "transcript": "Today, we will discuss the concept of renewable energy. Renewable energy comes from sources that are naturally replenished, such as sunlight, wind, and water. Unlike fossil fuels, which can deplete over time, renewable energy sources are sustainable and help reduce carbon emissions. In recent years, many countries have been investing in renewable technologies to combat climate change. Wind turbines and solar panels are two of the most common forms of renewable energy. By harnessing these resources, we can create a cleaner and more sustainable future.",
+    "transcript": "Today, I want to discuss the concept of ecosystem services. Ecosystem services refer to the benefits that humans derive from natural ecosystems. These services can be categorized into four main types: provisioning services, which include food and water; regulating services, such as flood and disease control; cultural services, which encompass recreational and spiritual benefits; and supporting services, like nutrient cycling and soil formation. Understanding these services is crucial for sustainable development and conservation efforts.",
     "questions": [
       {
-        "q": "What is renewable energy?",
+        "q": "What are ecosystem services?",
         "options": [
-          "Energy from fossil fuels.",
-          "Energy from natural sources.",
-          "Energy stored in batteries.",
-          "Energy from geothermal sources."
+          "Natural disasters",
+          "Benefits from ecosystems",
+          "Types of plants",
+          "Animal behavior"
         ],
         "correctIndex": 1,
-        "explain": "可再生能源來自自然資源。"
+        "explain": "生態系統服務是指人類從自然生態系統中獲得的好處。"
       },
       {
-        "q": "What do wind turbines and solar panels have in common?",
+        "q": "Which of the following is NOT a type of ecosystem service?",
         "options": [
-          "They are fossil fuel sources.",
-          "They are forms of renewable energy.",
-          "They require batteries.",
-          "They are used for transportation."
+          "Provisioning services",
+          "Cultural services",
+          "Economic services",
+          "Regulating services"
         ],
-        "correctIndex": 1,
-        "explain": "風力發電機和太陽能電池板都是可再生能源的形式。"
+        "correctIndex": 2,
+        "explain": "經濟服務不是生態系統服務的類型。"
       },
       {
-        "q": "Why are countries investing in renewable technologies?",
+        "q": "What is an example of a provisioning service?",
         "options": [
-          "To increase fossil fuel use.",
-          "To reduce carbon emissions.",
-          "To raise energy costs.",
-          "To deplete natural resources."
+          "Soil formation",
+          "Recreational benefits",
+          "Food and water",
+          "Flood control"
         ],
-        "correctIndex": 1,
-        "explain": "國家投資於可再生技術以減少碳排放。"
+        "correctIndex": 2,
+        "explain": "食物和水是供應服務的例子。"
       },
       {
-        "q": "What is a key benefit of renewable energy?",
+        "q": "Why is understanding ecosystem services important?",
         "options": [
-          "It is always expensive.",
-          "It helps combat climate change.",
-          "It can only be used in summer.",
-          "It requires lots of land."
+          "For climate change",
+          "For sustainable development",
+          "For building houses",
+          "For studying animals"
         ],
         "correctIndex": 1,
-        "explain": "可再生能源的主要好處是幫助對抗氣候變化。"
+        "explain": "了解生態系統服務對於可持續發展和保護工作至關重要。"
       }
     ]
   }
