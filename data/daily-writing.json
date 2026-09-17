@@ -2,32 +2,85 @@
   "buildSentences": [
     {
       "words": [
+        "the",
+        "quick",
+        "brown",
+        "fox",
+        "jumps",
+        "over",
+        "the",
+        "lazy",
+        "dog"
+      ],
+      "display": "The quick brown fox jumps over the lazy dog."
+    },
+    {
+      "words": [
         "students",
         "should",
-        "attend",
-        "the",
-        "lecture",
+        "study",
+        "regularly",
         "to",
-        "understand",
-        "the",
-        "material"
+        "achieve",
+        "better",
+        "grades"
       ],
-      "display": "Students should attend the lecture to understand the material."
+      "display": "Students should study regularly to achieve better grades."
     },
     {
       "words": [
         "the",
-        "results",
-        "of",
-        "the",
-        "experiment",
-        "were",
-        "surprising",
-        "to",
-        "the",
-        "researchers"
+        "environment",
+        "is",
+        "important",
+        "for",
+        "our",
+        "future",
+        "survival"
       ],
-      "display": "The results of the experiment were surprising to the researchers."
+      "display": "The environment is important for our future survival."
+    },
+    {
+      "words": [
+        "language",
+        "learning",
+        "can",
+        "be",
+        "a",
+        "challenging",
+        "yet",
+        "rewarding",
+        "experience"
+      ],
+      "display": "Language learning can be a challenging yet rewarding experience."
+    },
+    {
+      "words": [
+        "participating",
+        "in",
+        "extracurricular",
+        "activities",
+        "helps",
+        "students",
+        "develop",
+        "skills"
+      ],
+      "display": "Participating in extracurricular activities helps students develop skills."
+    },
+    {
+      "words": [
+        "the",
+        "research",
+        "paper",
+        "needs",
+        "to",
+        "be",
+        "submitted",
+        "by",
+        "next",
+        "week"
+      ],
+      "display": "The research paper needs to be submitted by next week."
     },
     {
       "words": [
@@ -35,100 +88,43 @@
         "people",
         "believe",
         "that",
-        "exercise",
-        "improves",
-        "mental",
-        "health"
-      ],
-      "display": "Many people believe that exercise improves mental health."
-    },
-    {
-      "words": [
-        "the",
-        "book",
-        "discusses",
-        "the",
-        "impact",
-        "of",
         "technology",
-        "on",
-        "education"
+        "improves",
+        "communication",
+        "skills"
       ],
-      "display": "The book discusses the impact of technology on education."
+      "display": "Many people believe that technology improves communication skills."
     },
     {
       "words": [
-        "it",
-        "is",
-        "important",
-        "to",
-        "reserve",
-        "a",
-        "study",
-        "room",
-        "in",
-        "advance"
-      ],
-      "display": "It is important to reserve a study room in advance."
-    },
-    {
-      "words": [
-        "the",
-        "team",
-        "worked",
-        "hard",
-        "to",
-        "complete",
-        "the",
-        "project",
-        "on",
-        "time"
-      ],
-      "display": "The team worked hard to complete the project on time."
-    },
-    {
-      "words": [
-        "students",
-        "can",
-        "improve",
-        "their",
-        "writing",
-        "skills",
-        "by",
         "reading",
-        "more"
+        "fiction",
+        "can",
+        "enhance",
+        "imagination",
+        "and",
+        "empathy",
+        "in",
+        "young",
+        "readers"
       ],
-      "display": "Students can improve their writing skills by reading more."
-    },
-    {
-      "words": [
-        "the",
-        "deadline",
-        "for",
-        "submitting",
-        "the",
-        "assignment",
-        "is",
-        "next",
-        "week"
-      ],
-      "display": "The deadline for submitting the assignment is next week."
+      "display": "Reading fiction can enhance imagination and empathy in young readers."
     }
   ],
   "emailPrompts": [
-    "寄信給教授，詢問上課缺席的補課安排。",
-    "寄信給宿舍辦公室，請求更換房間的可能性。",
-    "寄信給圖書館，詢問延長借書期限的程序。",
-    "寄信給學生會，表達對即將舉行的活動的參加意願和建議。",
-    "寄信給客戶服務，反映最近購買的產品存在的問題。",
-    "寄信給導師，請求對報告的反饋和指導。"
+    "寄信給教授，請求延長論文提交期限，因為個人原因無法按時完成。",
+    "寄信給宿舍辦公室，詢問有關入住手續的問題，並請求查看空房。",
+    "寄信給圖書館，感謝他們提供的資源，並詢問如何延長借書期限。",
+    "寄信給學校社團，表達對加入該社團的興趣，並請求了解更多資訊。",
+    "寄信給客服，反映一個產品的問題，並請求退換貨。",
+    "寄信給學校職業中心，請求安排一次職業輔導會議，以尋找實習機會。"
   ],
   "discussionPrompts": [
-    "教授問：「你認為科技對人際關係的影響是正面還是負面？」",
-    "教授問：「文化多樣性在社會中扮演什麼樣的角色？」",
-    "教授問：「環境保護和經濟發展之間存在什麼樣的衝突？」",
-    "教授問：「藝術在社會變革中的重要性如何？」",
-    "教授問：「隨著社交媒體的崛起，真實新聞的挑戰是什麼？」",
-    "教授問：「教育應該如何適應快速變化的工作市場？」"
+    "教授問：「社交媒體對人際關係的影響是正面還是負面？」",
+    "教授問：「環保與經濟發展之間的平衡該如何取捨？」",
+    "教授問：「教育體系應該如何應對科技進步帶來的挑戰？」",
+    "教授問：「文化多樣性在全球化過程中是利還是弊？」",
+    "教授問：「網路隱私的保護與個人自由之間的矛盾該如何解決？」",
+    "教授問：「性別平等在工作場所的重要性體現在哪些方面？」"
   ]
 }

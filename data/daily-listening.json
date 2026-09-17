@@ -1,116 +1,116 @@
 {
   "chooseResponse": [
     {
-      "q": "Did you finish the group project?",
+      "q": "What do you think about the new library hours?",
       "options": [
-        "Yes, I did.",
-        "No, not yet.",
-        "I'll start tomorrow.",
-        "We need more time."
+        "I love them!",
+        "They are too late.",
+        "I don't care.",
+        "They should be extended."
       ],
       "correctIndex": 0
     }
   ],
   "conversation": {
-    "transcript": "Student: Have you heard about the new library opening?\nAdvisor: Yes, I read about it in the campus newsletter.\nStudent: I'm excited! When does it open?\nAdvisor: It opens next Monday, I believe.",
+    "transcript": "Student: Have you seen the new library hours?\nLibrarian: Yes, they changed them to better accommodate students.\nStudent: I think they’re great for late-night studying.\nLibrarian: Absolutely! More students can now use the space when they need it.",
     "questions": [
       {
-        "q": "What is the main topic of the conversation?",
+        "q": "What is the purpose of the new library hours?",
         "options": [
-          "The new library opening",
-          "A group project",
-          "A class schedule",
-          "A sports event"
+          "To accommodate more students",
+          "To reduce staff hours",
+          "To improve library services",
+          "To increase noise levels"
         ],
         "correctIndex": 0,
-        "explain": "這段對話的主題是新的圖書館開幕。"
+        "explain": "新圖書館開放時間的目的在於讓更多學生受益。"
       },
       {
-        "q": "When does the library open?",
+        "q": "How does the student feel about the new hours?",
         "options": [
-          "This Friday",
-          "Next Monday",
-          "Next month",
-          "Tomorrow"
+          "Excited",
+          "Indifferent",
+          "Confused",
+          "Upset"
         ],
-        "correctIndex": 1,
-        "explain": "圖書館在下週一開放。"
+        "correctIndex": 0,
+        "explain": "學生對新開放時間感到興奮。"
       }
     ]
   },
   "announcement": {
-    "transcript": "Attention students! Starting next week, the campus gym will have extended hours. The new schedule will be from 6 AM to 11 PM on weekdays and 8 AM to 10 PM on weekends. We hope this will give you more flexibility for your workouts!",
+    "transcript": "Attention students! Starting next week, the campus gym will have new hours. It will open one hour earlier and close two hours later to better serve you. We hope this encourages more students to engage in fitness activities. Thank you for your attention!",
     "questions": [
       {
-        "q": "What is the announcement about?",
+        "q": "What change is being announced?",
         "options": [
-          "Gym hours change",
-          "Library opening",
-          "Class cancellation",
-          "New student orientation"
+          "Gym hours will be extended",
+          "Library hours will change",
+          "New classes will start",
+          "A sports event is canceled"
         ],
         "correctIndex": 0,
-        "explain": "這個公告是關於健身房營業時間的變更。"
+        "explain": "公告內容是在說健身房的開放時間延長。"
       },
       {
-        "q": "When will the gym open on weekdays?",
+        "q": "When will the new gym hours take effect?",
         "options": [
-          "6 AM",
-          "8 AM",
-          "10 AM",
-          "5 AM"
+          "Next month",
+          "Next week",
+          "Today",
+          "This weekend"
         ],
-        "correctIndex": 0,
-        "explain": "健身房在工作日早上六點開放。"
+        "correctIndex": 1,
+        "explain": "新的健身房開放時間將在下週開始。"
       }
     ]
   },
   "talk": {
-    "transcript": "Today, I want to discuss the concept of ecosystem services. Ecosystem services refer to the benefits that humans derive from natural ecosystems. These services can be categorized into four main types: provisioning services, which include food and water; regulating services, such as flood and disease control; cultural services, which encompass recreational and spiritual benefits; and supporting services, like nutrient cycling and soil formation. Understanding these services is crucial for sustainable development and conservation efforts.",
+    "transcript": "Today, I will discuss the concept of ecosystem services. Ecosystem services are the benefits that humans obtain from natural ecosystems. These include provisioning services like food and water, regulating services such as climate regulation and flood control, cultural services that provide recreational and spiritual benefits, and supporting services like nutrient cycling. Understanding these services is crucial for sustainable development because they are essential for our well-being and the health of our planet. Conservation efforts often focus on preserving these services to ensure that they continue to support both nature and humanity.",
     "questions": [
       {
         "q": "What are ecosystem services?",
         "options": [
-          "Natural disasters",
           "Benefits from ecosystems",
-          "Types of plants",
-          "Animal behavior"
+          "Types of ecosystems",
+          "Human impacts on nature",
+          "Climate change effects"
         ],
-        "correctIndex": 1,
+        "correctIndex": 0,
         "explain": "生態系統服務是指人類從自然生態系統中獲得的好處。"
-      },
-      {
-        "q": "Which of the following is NOT a type of ecosystem service?",
-        "options": [
-          "Provisioning services",
-          "Cultural services",
-          "Economic services",
-          "Regulating services"
-        ],
-        "correctIndex": 2,
-        "explain": "經濟服務不是生態系統服務的類型。"
       },
       {
         "q": "What is an example of a provisioning service?",
         "options": [
-          "Soil formation",
-          "Recreational benefits",
-          "Food and water",
-          "Flood control"
-        ],
-        "correctIndex": 2,
-        "explain": "食物和水是供應服務的例子。"
-      },
-      {
-        "q": "Why is understanding ecosystem services important?",
-        "options": [
-          "For climate change",
-          "For sustainable development",
-          "For building houses",
-          "For studying animals"
+          "Climate regulation",
+          "Food production",
+          "Recreational activities",
+          "Water purification"
         ],
         "correctIndex": 1,
-        "explain": "了解生態系統服務對於可持續發展和保護工作至關重要。"
+        "explain": "提供服務的範例是食物生產。"
+      },
+      {
+        "q": "Why are ecosystem services important?",
+        "options": [
+          "They are not important",
+          "They help in sustainability",
+          "They increase pollution",
+          "They reduce biodiversity"
+        ],
+        "correctIndex": 1,
+        "explain": "生態系統服務對可持續發展至關重要。"
+      },
+      {
+        "q": "What do conservation efforts focus on?",
+        "options": [
+          "Destroying ecosystems",
+          "Preserving ecosystem services",
+          "Increasing pollution",
+          "Reducing natural resources"
+        ],
+        "correctIndex": 1,
+        "explain": "保護工作重點是保護生態系統服務。"
       }
     ]
   }

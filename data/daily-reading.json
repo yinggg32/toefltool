@@ -2,110 +2,107 @@
   "cloze": {
     "segments": [
       {
-        "text": "The theory of evolution explains how species change over time through the process of natural selec"
+        "text": "The carbon cycle is a fundamental process that "
       },
       {
-        "blank": "tion"
+        "blank": "regulates"
       },
       {
-        "text": ". One key mechanism in this process is genetic drift, which refers to random changes in the gene po"
+        "text": " the flow of carbon among different Earth's spheres. This cycle "
       },
       {
-        "blank": "ol"
+        "blank": "involves"
       },
       {
-        "text": "ation of a small group. This can lead to significant evolutionary changes, particularly in isolated popul"
+        "text": " various processes including photosynthesis, respiration, and decomposition. Carbon dioxide is "
       },
       {
-        "blank": "ations."
+        "blank": "absorbed"
       },
       {
-        "text": " Additionally, the concept of adaptive radiation describes how a single ancestral species can diverge into"
+        "text": " by plants during photosynthesis and converted into organic matter. When animals and plants die, "
       },
       {
-        "blank": "multiple"
+        "blank": "decomposers"
       },
       {
-        "text": "species to exploit different ecological niches. This phenomenon is evident in the evolution of the finches on"
-      },
-      {
-        "blank": "the Galapagos"
+        "text": " break down their remains, releasing carbon back into the atmosphere or soil, thus completing the cycle."
       }
     ]
   },
   "academic": {
-    "passage": "The theory of evolution is a fundamental concept in biology. It describes how species evolve over time through mechanisms such as natural selection and genetic drift. Natural selection favors traits that enhance survival, while genetic drift can lead to random evolutionary changes. A common example of adaptive radiation is seen in the Galapagos finches, which evolved from a single ancestor to adapt to various ecological niches. Understanding these processes is crucial for studying biodiversity and the history of life on Earth.",
+    "passage": "The carbon cycle is essential for life on Earth. It involves the movement of carbon through the atmosphere, biosphere, hydrosphere, and lithosphere. Carbon dioxide is taken up by plants during photosynthesis, providing the foundation for the food web. Additionally, the cycle plays a crucial role in regulating the planet's temperature. Disruptions to this cycle can lead to climate change, making it vital for sustainable practices to be adopted.",
     "questions": [
       {
-        "q": "What is the main idea of the passage?",
+        "q": "What is the primary focus of the passage?",
         "options": [
-          "The mechanisms of evolution",
-          "The importance of biodiversity",
-          "The history of life on Earth",
-          "The role of natural selection"
+          "The importance of the carbon cycle",
+          "The process of photosynthesis",
+          "The role of plants in ecosystems",
+          "The effects of climate change"
         ],
         "correctIndex": 0,
-        "explain": "這段文字的主要思想是講述進化的機制，特別是自然選擇和基因漂變。"
+        "explain": "這段文字主要談論碳循環的重要性。"
       },
       {
-        "q": "What does genetic drift refer to?",
+        "q": "Which process is mentioned as part of the carbon cycle?",
         "options": [
-          "The process of natural selection",
-          "Random changes in a gene pool",
-          "The variation of species in an ecosystem",
-          "The adaptation of organisms to their environment"
+          "Photosynthesis",
+          "Nitrogen fixation",
+          "Water evaporation",
+          "Soil erosion"
         ],
-        "correctIndex": 1,
-        "explain": "基因漂變是指基因庫中的隨機變化，這與自然選擇不同。"
+        "correctIndex": 0,
+        "explain": "碳循環中提到的過程包括光合作用。"
       },
       {
-        "q": "What can be inferred about the Galapagos finches?",
+        "q": "What can happen if the carbon cycle is disrupted?",
         "options": [
-          "They have not evolved at all.",
-          "They have a common ancestor.",
-          "They are the only species on the islands.",
-          "They do not adapt to their environment."
+          "Increased biodiversity",
+          "Climate change",
+          "More stable weather patterns",
+          "Lower oxygen levels"
         ],
         "correctIndex": 1,
-        "explain": "可以推斷出，加拉帕戈斯雀類擁有共同的祖先，因為它們是從同一物種演化而來的。"
+        "explain": "如果碳循環受到干擾，可能導致氣候變化。"
       },
       {
-        "q": "What does the term 'adaptive radiation' mean in the context of the passage?",
+        "q": "What does 'biosphere' refer to in the context of the passage?",
         "options": [
-          "A type of genetic mutation",
-          "A process of species divergence",
-          "A method of natural selection",
-          "A specific environment condition"
+          "The layer of gases around Earth",
+          "The part of Earth where life exists",
+          "The process of photosynthesis",
+          "The study of ecosystems"
         ],
         "correctIndex": 1,
-        "explain": "在這段文字中，'適應性輻射'指的是物種為了適應不同的生態環境而產生分化的過程。"
+        "explain": "在文章中，'生物圈'指的是地球上存在生命的部分。"
       }
     ]
   },
   "daily": {
-    "passage": "Attention students: The campus will be holding a career fair on Friday in the Student Center from 10 AM to 4 PM. Various companies will be present to discuss job opportunities and internships. Make sure to bring copies of your resume and dress professionally.",
+    "passage": "Attention all students! The library will have extended hours this week to accommodate midterm exam preparations. From Monday to Friday, the library will be open from 8 AM to 10 PM. Make sure to utilize these hours for your study needs!",
     "questions": [
       {
-        "q": "What day will the career fair take place?",
+        "q": "When will the library be open until during the week?",
         "options": [
-          "Thursday",
-          "Friday",
-          "Saturday",
-          "Sunday"
+          "8 PM",
+          "9 PM",
+          "10 PM",
+          "11 PM"
         ],
-        "correctIndex": 1,
-        "explain": "職業博覽會將在星期五舉行。"
+        "correctIndex": 2,
+        "explain": "本周圖書館的開放時間延長至晚上10點。"
       },
       {
-        "q": "Where will the career fair be held?",
+        "q": "Why are the library hours being extended?",
         "options": [
-          "In the library",
-          "In the Student Center",
-          "In the gym",
-          "In the cafeteria"
+          "For new book arrivals",
+          "To support midterm exam preparations",
+          "Due to student requests",
+          "For a special event"
         ],
         "correctIndex": 1,
-        "explain": "職業博覽會將在學生中心舉行。"
+        "explain": "圖書館的開放時間延長是為了支持期中考試的準備。"
       }
     ]
   }
