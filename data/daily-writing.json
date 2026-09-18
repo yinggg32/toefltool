@@ -3,128 +3,125 @@
     {
       "words": [
         "the",
-        "quick",
-        "brown",
-        "fox",
-        "jumps",
-        "over",
-        "the",
-        "lazy",
-        "dog"
-      ],
-      "display": "The quick brown fox jumps over the lazy dog."
-    },
-    {
-      "words": [
-        "students",
-        "should",
-        "study",
-        "regularly",
-        "to",
-        "achieve",
-        "better",
-        "grades"
-      ],
-      "display": "Students should study regularly to achieve better grades."
-    },
-    {
-      "words": [
-        "the",
-        "environment",
+        "impact",
+        "of",
+        "climate",
+        "change",
+        "on",
+        "biodiversity",
         "is",
-        "important",
-        "for",
-        "our",
-        "future",
-        "survival"
+        "significant"
       ],
-      "display": "The environment is important for our future survival."
+      "display": "The impact of climate change on biodiversity is significant."
     },
     {
       "words": [
-        "language",
-        "learning",
-        "can",
-        "be",
-        "a",
-        "challenging",
-        "yet",
-        "rewarding",
-        "experience"
+        "advanced",
+        "technology",
+        "has",
+        "changed",
+        "the",
+        "way",
+        "we",
+        "communicate"
       ],
-      "display": "Language learning can be a challenging yet rewarding experience."
+      "display": "Advanced technology has changed the way we communicate."
+    },
+    {
+      "words": [
+        "studying",
+        "foreign",
+        "languages",
+        "can",
+        "enhance",
+        "cognitive",
+        "abilities",
+        "significantly"
+      ],
+      "display": "Studying foreign languages can enhance cognitive abilities significantly."
+    },
+    {
+      "words": [
+        "renewable",
+        "energy",
+        "sources",
+        "are",
+        "essential",
+        "for",
+        "a",
+        "sustainable",
+        "future"
+      ],
+      "display": "Renewable energy sources are essential for a sustainable future."
     },
     {
       "words": [
         "participating",
         "in",
-        "extracurricular",
-        "activities",
+        "community",
+        "service",
         "helps",
-        "students",
         "develop",
+        "leadership",
         "skills"
       ],
-      "display": "Participating in extracurricular activities helps students develop skills."
+      "display": "Participating in community service helps develop leadership skills."
     },
     {
       "words": [
+        "government",
+        "policies",
+        "must",
+        "address",
         "the",
-        "research",
-        "paper",
         "needs",
-        "to",
-        "be",
-        "submitted",
-        "by",
-        "next",
-        "week"
+        "of",
+        "all",
+        "citizens"
       ],
-      "display": "The research paper needs to be submitted by next week."
+      "display": "Government policies must address the needs of all citizens."
     },
     {
       "words": [
-        "many",
-        "people",
-        "believe",
-        "that",
-        "technology",
-        "improves",
+        "regular",
+        "exercise",
+        "is",
+        "important",
+        "for",
+        "maintaining",
+        "good",
+        "health"
+      ],
+      "display": "Regular exercise is important for maintaining good health."
+    },
+    {
+      "words": [
+        "effective",
         "communication",
-        "skills"
-      ],
-      "display": "Many people believe that technology improves communication skills."
-    },
-    {
-      "words": [
-        "reading",
-        "fiction",
-        "can",
-        "enhance",
-        "imagination",
-        "and",
-        "empathy",
+        "skills",
+        "are",
+        "crucial",
         "in",
-        "young",
-        "readers"
+        "the",
+        "workplace"
       ],
-      "display": "Reading fiction can enhance imagination and empathy in young readers."
+      "display": "Effective communication skills are crucial in the workplace."
     }
   ],
   "emailPrompts": [
-    "寄信給教授，請求延長論文提交期限，因為個人原因無法按時完成。",
-    "寄信給宿舍辦公室，詢問有關入住手續的問題，並請求查看空房。",
-    "寄信給圖書館，感謝他們提供的資源，並詢問如何延長借書期限。",
-    "寄信給學校社團，表達對加入該社團的興趣，並請求了解更多資訊。",
-    "寄信給客服，反映一個產品的問題，並請求退換貨。",
-    "寄信給學校職業中心，請求安排一次職業輔導會議，以尋找實習機會。"
+    "寄信給教授，說明因病無法參加期中考，詢問補考事宜。",
+    "寄信給宿舍管理處，請求延長入住期限。",
+    "寄信給圖書館，詢問書籍的借閱期限及續借程序。",
+    "寄信給社團負責人，報名參加即將舉行的活動。",
+    "寄信給客服，反映產品的質量問題並要求退貨。",
+    "寄信給導師，請教有關選課的建議。"
   ],
   "discussionPrompts": [
-    "教授問：「社交媒體對人際關係的影響是正面還是負面？」",
-    "教授問：「環保與經濟發展之間的平衡該如何取捨？」",
-    "教授問：「教育體系應該如何應對科技進步帶來的挑戰？」",
-    "教授問：「文化多樣性在全球化過程中是利還是弊？」",
-    "教授問：「網路隱私的保護與個人自由之間的矛盾該如何解決？」",
-    "教授問：「性別平等在工作場所的重要性體現在哪些方面？」"
+    "教授問：「科技的進步對教育的影響是正面還是負面？」",
+    "教授問：「在全球化的背景下，文化多樣性如何得以保護？」",
+    "教授問：「氣候變化對社會經濟發展的挑戰有哪些？」",
+    "教授問：「社交媒體對人際關係的影響是什麼？」",
+    "教授問：「政府應如何處理貧富差距的問題？」",
+    "教授問：「人工智慧的發展對未來就業市場會有什麼影響？」"
   ]
 }

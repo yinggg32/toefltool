@@ -8646,5 +8646,29 @@
     "zh": "賦權",
     "ex": "Empowerment initiatives aim to enhance individuals' control over their lives.",
     "cat": "📰 每日新詞：sociology"
+  },
+  {
+    "word": "meteorite",
+    "pos": "n.",
+    "root": "隕 (yǔn) + fall + 石 (shí) + stone",
+    "zh": "隕石",
+    "ex": "Meteorites are fragments of meteors that survive their passage through the Earth's atmosphere.",
+    "cat": "📰 每日新詞：astronomy and space science"
+  },
+  {
+    "word": "orbiter",
+    "pos": "n.",
+    "root": "軌 (gui) + orbit + 器 (qì) + instrument",
+    "zh": "軌道探測器",
+    "ex": "An orbiter is a spacecraft designed to go into orbit around a celestial body.",
+    "cat": "📰 每日新詞：astronomy and space science"
+  },
+  {
+    "word": "radiotelescope",
+    "pos": "n.",
+    "root": "無 (wú) + radio + 遠 (yuǎn) + far + 視 (shì) + vision + 器 (qì) + instrument",
+    "zh": "射電望遠鏡",
+    "ex": "A radiotelescope detects radio emissions from space, providing insights into cosmic phenomena.",
+    "cat": "📰 每日新詞：astronomy and space science"
   }
 ]

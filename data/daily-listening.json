@@ -3,114 +3,114 @@
     {
       "q": "What do you think about the new library hours?",
       "options": [
-        "I love them!",
-        "They are too late.",
-        "I don't care.",
-        "They should be extended."
+        "I think they are great.",
+        "They should be longer.",
+        "I prefer the old hours.",
+        "I'm not sure about them."
       ],
       "correctIndex": 0
     }
   ],
   "conversation": {
-    "transcript": "Student: Have you seen the new library hours?\nLibrarian: Yes, they changed them to better accommodate students.\nStudent: I think they’re great for late-night studying.\nLibrarian: Absolutely! More students can now use the space when they need it.",
+    "transcript": "Student: Have you seen the new library hours?\nLibrarian: Yes, they've extended them until midnight!\nStudent: That's awesome! Now I can study late.\nLibrarian: Absolutely! It should really help students prepare for exams.",
     "questions": [
       {
-        "q": "What is the purpose of the new library hours?",
+        "q": "What does the librarian think about the new hours?",
         "options": [
-          "To accommodate more students",
-          "To reduce staff hours",
-          "To improve library services",
-          "To increase noise levels"
+          "They are too late.",
+          "They're beneficial for students.",
+          "They should be reduced.",
+          "They are confusing."
         ],
-        "correctIndex": 0,
-        "explain": "新圖書館開放時間的目的在於讓更多學生受益。"
+        "correctIndex": 1,
+        "explain": "圖書館員認為新的開放時間對學生有幫助。"
       },
       {
-        "q": "How does the student feel about the new hours?",
+        "q": "What is the main topic of the conversation?",
         "options": [
-          "Excited",
-          "Indifferent",
-          "Confused",
-          "Upset"
+          "Library book rentals",
+          "Extended library hours",
+          "Exam preparation plans",
+          "Student study habits"
         ],
-        "correctIndex": 0,
-        "explain": "學生對新開放時間感到興奮。"
+        "correctIndex": 1,
+        "explain": "對話的主要主題是延長圖書館的開放時間。"
       }
     ]
   },
   "announcement": {
-    "transcript": "Attention students! Starting next week, the campus gym will have new hours. It will open one hour earlier and close two hours later to better serve you. We hope this encourages more students to engage in fitness activities. Thank you for your attention!",
+    "transcript": "Attention students! Starting next week, the campus gym will have extended hours. It will open at 6 AM and close at 11 PM. This change aims to accommodate all students' schedules better. Thank you for your continued support.",
     "questions": [
       {
-        "q": "What change is being announced?",
+        "q": "What is the purpose of the announcement?",
         "options": [
-          "Gym hours will be extended",
-          "Library hours will change",
-          "New classes will start",
-          "A sports event is canceled"
+          "To introduce new gym equipment",
+          "To inform about extended gym hours",
+          "To discuss gym membership fees",
+          "To promote fitness classes"
         ],
-        "correctIndex": 0,
-        "explain": "公告內容是在說健身房的開放時間延長。"
+        "correctIndex": 1,
+        "explain": "公告的目的是告知學生健身房的開放時間延長。"
       },
       {
-        "q": "When will the new gym hours take effect?",
+        "q": "When will the new gym hours start?",
         "options": [
           "Next month",
           "Next week",
-          "Today",
-          "This weekend"
+          "Tomorrow",
+          "Next semester"
         ],
         "correctIndex": 1,
-        "explain": "新的健身房開放時間將在下週開始。"
+        "explain": "新的健身房開放時間將在下周開始。"
       }
     ]
   },
   "talk": {
-    "transcript": "Today, I will discuss the concept of ecosystem services. Ecosystem services are the benefits that humans obtain from natural ecosystems. These include provisioning services like food and water, regulating services such as climate regulation and flood control, cultural services that provide recreational and spiritual benefits, and supporting services like nutrient cycling. Understanding these services is crucial for sustainable development because they are essential for our well-being and the health of our planet. Conservation efforts often focus on preserving these services to ensure that they continue to support both nature and humanity.",
+    "transcript": "Today, I want to talk about the concept of sustainability. Sustainability refers to meeting our own needs without compromising the ability of future generations to meet their own needs. This idea encompasses environmental protection, economic viability, and social equity. By adopting sustainable practices, we can preserve our planet’s resources, reduce waste, and ensure a healthier ecosystem. For instance, using renewable energy sources is one way to promote sustainability. It helps decrease reliance on fossil fuels and reduces greenhouse gas emissions, contributing to a cleaner environment. Thus, sustainability is not just about conservation; it’s also about creating a balanced lifestyle for all.",
     "questions": [
       {
-        "q": "What are ecosystem services?",
+        "q": "What does sustainability aim to achieve?",
         "options": [
-          "Benefits from ecosystems",
-          "Types of ecosystems",
-          "Human impacts on nature",
-          "Climate change effects"
+          "Improving technology",
+          "Meeting current and future needs",
+          "Maximizing profits",
+          "Reducing population growth"
+        ],
+        "correctIndex": 1,
+        "explain": "可持續性旨在同時滿足當前和未來的需求。"
+      },
+      {
+        "q": "Which practice is suggested to promote sustainability?",
+        "options": [
+          "Using more plastic",
+          "Increasing fossil fuel consumption",
+          "Adopting renewable energy",
+          "Ignoring environmental issues"
+        ],
+        "correctIndex": 2,
+        "explain": "建議採取可再生能源以促進可持續性。"
+      },
+      {
+        "q": "What are the three aspects of sustainability mentioned?",
+        "options": [
+          "Environmental, economic, social",
+          "Political, educational, economic",
+          "Cultural, social, financial",
+          "Technological, ecological, personal"
         ],
         "correctIndex": 0,
-        "explain": "生態系統服務是指人類從自然生態系統中獲得的好處。"
+        "explain": "提到的可持續性的三個方面是環境、經濟和社會。"
       },
       {
-        "q": "What is an example of a provisioning service?",
+        "q": "How does renewable energy contribute to sustainability?",
         "options": [
-          "Climate regulation",
-          "Food production",
-          "Recreational activities",
-          "Water purification"
+          "By increasing pollution",
+          "By lowering energy costs",
+          "By reducing greenhouse gas emissions",
+          "By depleting resources"
         ],
-        "correctIndex": 1,
-        "explain": "提供服務的範例是食物生產。"
-      },
-      {
-        "q": "Why are ecosystem services important?",
-        "options": [
-          "They are not important",
-          "They help in sustainability",
-          "They increase pollution",
-          "They reduce biodiversity"
-        ],
-        "correctIndex": 1,
-        "explain": "生態系統服務對可持續發展至關重要。"
-      },
-      {
-        "q": "What do conservation efforts focus on?",
-        "options": [
-          "Destroying ecosystems",
-          "Preserving ecosystem services",
-          "Increasing pollution",
-          "Reducing natural resources"
-        ],
-        "correctIndex": 1,
-        "explain": "保護工作重點是保護生態系統服務。"
+        "correctIndex": 2,
+        "explain": "可再生能源通過減少溫室氣體排放來促進可持續性。"
       }
     ]
   }

@@ -2,107 +2,107 @@
   "cloze": {
     "segments": [
       {
-        "text": "The carbon cycle is a fundamental process that "
+        "text": "The process of photosynthesis is essential for life on Earth. Plants convert sunlight into energy through this complex "
       },
       {
-        "blank": "regulates"
+        "blank": "reac"
       },
       {
-        "text": " the flow of carbon among different Earth's spheres. This cycle "
+        "text": "tion, which primarily occurs in the chloroplasts. During photosynthesis, carbon dioxide and water are transformed into glucose and oxygen. This "
       },
       {
-        "blank": "involves"
+        "blank": "nour"
       },
       {
-        "text": " various processes including photosynthesis, respiration, and decomposition. Carbon dioxide is "
+        "text": "ishing process supports not only the plant itself but also the entire food chain. In addition to providing energy, photosynthesis plays a vital role in "
       },
       {
-        "blank": "absorbed"
+        "blank": "balance"
       },
       {
-        "text": " by plants during photosynthesis and converted into organic matter. When animals and plants die, "
+        "text": "ing the Earth's atmosphere by consuming carbon dioxide. Furthermore, the oxygen released during this process is crucial for the survival of most living "
       },
       {
-        "blank": "decomposers"
+        "blank": "organ"
       },
       {
-        "text": " break down their remains, releasing carbon back into the atmosphere or soil, thus completing the cycle."
+        "text": "isms. Ultimately, understanding photosynthesis helps scientists address issues such as climate change and food security."
       }
     ]
   },
   "academic": {
-    "passage": "The carbon cycle is essential for life on Earth. It involves the movement of carbon through the atmosphere, biosphere, hydrosphere, and lithosphere. Carbon dioxide is taken up by plants during photosynthesis, providing the foundation for the food web. Additionally, the cycle plays a crucial role in regulating the planet's temperature. Disruptions to this cycle can lead to climate change, making it vital for sustainable practices to be adopted.",
+    "passage": "Photosynthesis is a process used by plants to convert light energy into chemical energy. This transformation involves the absorption of sunlight, which is used to convert carbon dioxide and water into glucose and oxygen. The glucose serves as an energy source for plants and is vital for growth and development. Furthermore, the oxygen released during this process is essential for the survival of most living organisms on Earth. Understanding photosynthesis is crucial for addressing global challenges like climate change and ensuring food security.",
     "questions": [
       {
-        "q": "What is the primary focus of the passage?",
+        "q": "What is the main purpose of photosynthesis?",
         "options": [
-          "The importance of the carbon cycle",
-          "The process of photosynthesis",
-          "The role of plants in ecosystems",
-          "The effects of climate change"
+          "To convert light energy into chemical energy",
+          "To produce carbon dioxide",
+          "To absorb water",
+          "To generate heat"
         ],
         "correctIndex": 0,
-        "explain": "這段文字主要談論碳循環的重要性。"
+        "explain": "這是因為光合作用的主要功能是將光能轉化為化學能。"
       },
       {
-        "q": "Which process is mentioned as part of the carbon cycle?",
+        "q": "What do plants produce during photosynthesis?",
         "options": [
-          "Photosynthesis",
-          "Nitrogen fixation",
-          "Water evaporation",
-          "Soil erosion"
+          "Glucose and oxygen",
+          "Carbon dioxide",
+          "Water",
+          "Heat"
         ],
         "correctIndex": 0,
-        "explain": "碳循環中提到的過程包括光合作用。"
+        "explain": "植物在光合作用中產生葡萄糖和氧氣。"
       },
       {
-        "q": "What can happen if the carbon cycle is disrupted?",
+        "q": "What can be inferred about the relationship between photosynthesis and the food chain?",
         "options": [
-          "Increased biodiversity",
-          "Climate change",
-          "More stable weather patterns",
-          "Lower oxygen levels"
+          "Photosynthesis is not important",
+          "Photosynthesis supports the food chain",
+          "Plants do not depend on photosynthesis",
+          "Oxygen is unnecessary for life"
         ],
         "correctIndex": 1,
-        "explain": "如果碳循環受到干擾，可能導致氣候變化。"
+        "explain": "這表明光合作用支持整個食物鏈，因為植物是食物鏈的基礎。"
       },
       {
-        "q": "What does 'biosphere' refer to in the context of the passage?",
+        "q": "What does the term 'chemical energy' refer to in this context?",
         "options": [
-          "The layer of gases around Earth",
-          "The part of Earth where life exists",
-          "The process of photosynthesis",
-          "The study of ecosystems"
+          "Energy stored in molecules",
+          "Energy from sunlight",
+          "Energy released as heat",
+          "Energy used in respiration"
         ],
-        "correctIndex": 1,
-        "explain": "在文章中，'生物圈'指的是地球上存在生命的部分。"
+        "correctIndex": 0,
+        "explain": "在這個上下文中，'化學能'指的是儲存在分子中的能量。"
       }
     ]
   },
   "daily": {
-    "passage": "Attention all students! The library will have extended hours this week to accommodate midterm exam preparations. From Monday to Friday, the library will be open from 8 AM to 10 PM. Make sure to utilize these hours for your study needs!",
+    "passage": "Attention students: The library will be closed for maintenance this Friday. Please plan accordingly and return any overdue books by Thursday. Thank you for your understanding.",
     "questions": [
       {
-        "q": "When will the library be open until during the week?",
+        "q": "When will the library be closed?",
         "options": [
-          "8 PM",
-          "9 PM",
-          "10 PM",
-          "11 PM"
+          "This Friday",
+          "Next Monday",
+          "This Thursday",
+          "Next weekend"
         ],
-        "correctIndex": 2,
-        "explain": "本周圖書館的開放時間延長至晚上10點。"
+        "correctIndex": 0,
+        "explain": "圖書館將在這個星期五關閉。"
       },
       {
-        "q": "Why are the library hours being extended?",
+        "q": "What should students do with overdue books?",
         "options": [
-          "For new book arrivals",
-          "To support midterm exam preparations",
-          "Due to student requests",
-          "For a special event"
+          "Return them by Thursday",
+          "Keep them until Friday",
+          "Donate them",
+          "Take them to another library"
         ],
-        "correctIndex": 1,
-        "explain": "圖書館的開放時間延長是為了支持期中考試的準備。"
+        "correctIndex": 0,
+        "explain": "學生應該在星期四之前歸還逾期的書籍。"
       }
     ]
   }
