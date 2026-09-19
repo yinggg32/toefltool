@@ -1,116 +1,116 @@
 {
   "chooseResponse": [
     {
-      "q": "What do you think about the new library hours?",
+      "q": "What time is the meeting?",
       "options": [
-        "I think they are great.",
-        "They should be longer.",
-        "I prefer the old hours.",
-        "I'm not sure about them."
+        "At 2 PM",
+        "In the cafeteria",
+        "Tomorrow morning",
+        "I forgot"
       ],
       "correctIndex": 0
     }
   ],
   "conversation": {
-    "transcript": "Student: Have you seen the new library hours?\nLibrarian: Yes, they've extended them until midnight!\nStudent: That's awesome! Now I can study late.\nLibrarian: Absolutely! It should really help students prepare for exams.",
+    "transcript": "Student: Hey, have you heard about the new art exhibition on campus?\nAdvisor: Yes, I have! It's opening next week, right?\nStudent: Exactly! I'm planning to go.\nAdvisor: I recommend going early to avoid the crowd.",
     "questions": [
       {
-        "q": "What does the librarian think about the new hours?",
+        "q": "What is the student planning to do?",
         "options": [
-          "They are too late.",
-          "They're beneficial for students.",
-          "They should be reduced.",
-          "They are confusing."
+          "Visit the exhibition",
+          "Skip the event",
+          "Meet with an advisor",
+          "Study in the library"
         ],
-        "correctIndex": 1,
-        "explain": "圖書館員認為新的開放時間對學生有幫助。"
+        "correctIndex": 0,
+        "explain": "學生計劃參觀展覽。"
       },
       {
-        "q": "What is the main topic of the conversation?",
+        "q": "What does the advisor suggest?",
         "options": [
-          "Library book rentals",
-          "Extended library hours",
-          "Exam preparation plans",
-          "Student study habits"
+          "Go late",
+          "Visit another exhibition",
+          "Go early",
+          "Take a friend"
         ],
-        "correctIndex": 1,
-        "explain": "對話的主要主題是延長圖書館的開放時間。"
+        "correctIndex": 2,
+        "explain": "顧問建議學生早去。"
       }
     ]
   },
   "announcement": {
-    "transcript": "Attention students! Starting next week, the campus gym will have extended hours. It will open at 6 AM and close at 11 PM. This change aims to accommodate all students' schedules better. Thank you for your continued support.",
+    "transcript": "Attention students! The library will be closed for renovations starting next Monday and will reopen in two weeks. Please plan accordingly and return all borrowed materials before this date. Thank you for your understanding.",
     "questions": [
       {
-        "q": "What is the purpose of the announcement?",
+        "q": "Why is the library closing?",
         "options": [
-          "To introduce new gym equipment",
-          "To inform about extended gym hours",
-          "To discuss gym membership fees",
-          "To promote fitness classes"
+          "For staff training",
+          "Due to a holiday",
+          "For renovations",
+          "To expand the collection"
         ],
-        "correctIndex": 1,
-        "explain": "公告的目的是告知學生健身房的開放時間延長。"
+        "correctIndex": 2,
+        "explain": "圖書館因翻新而關閉。"
       },
       {
-        "q": "When will the new gym hours start?",
+        "q": "When will the library reopen?",
         "options": [
-          "Next month",
           "Next week",
-          "Tomorrow",
-          "Next semester"
+          "In two weeks",
+          "At the end of the month",
+          "Tomorrow"
         ],
         "correctIndex": 1,
-        "explain": "新的健身房開放時間將在下周開始。"
+        "explain": "圖書館將在兩週後重新開放。"
       }
     ]
   },
   "talk": {
-    "transcript": "Today, I want to talk about the concept of sustainability. Sustainability refers to meeting our own needs without compromising the ability of future generations to meet their own needs. This idea encompasses environmental protection, economic viability, and social equity. By adopting sustainable practices, we can preserve our planet’s resources, reduce waste, and ensure a healthier ecosystem. For instance, using renewable energy sources is one way to promote sustainability. It helps decrease reliance on fossil fuels and reduces greenhouse gas emissions, contributing to a cleaner environment. Thus, sustainability is not just about conservation; it’s also about creating a balanced lifestyle for all.",
+    "transcript": "Today, we will discuss the concept of sustainable development. Sustainable development refers to meeting the needs of the present without compromising the ability of future generations to meet their own needs. It involves a balanced approach to economic growth, environmental protection, and social equity. By adopting sustainable practices, we can ensure that resources are available for future generations while maintaining a healthy planet. Examples include renewable energy, waste reduction, and sustainable agriculture. Therefore, it is crucial that we prioritize strategies that promote sustainability in our communities and economies.",
     "questions": [
       {
-        "q": "What does sustainability aim to achieve?",
+        "q": "What is sustainable development?",
         "options": [
-          "Improving technology",
-          "Meeting current and future needs",
-          "Maximizing profits",
-          "Reducing population growth"
-        ],
-        "correctIndex": 1,
-        "explain": "可持續性旨在同時滿足當前和未來的需求。"
-      },
-      {
-        "q": "Which practice is suggested to promote sustainability?",
-        "options": [
-          "Using more plastic",
-          "Increasing fossil fuel consumption",
-          "Adopting renewable energy",
+          "Focusing on profit",
+          "Meeting present needs only",
+          "Balancing growth and resources",
           "Ignoring environmental issues"
         ],
         "correctIndex": 2,
-        "explain": "建議採取可再生能源以促進可持續性。"
+        "explain": "可持續發展是平衡增長和資源的概念。"
       },
       {
-        "q": "What are the three aspects of sustainability mentioned?",
+        "q": "What does sustainable development aim to protect?",
         "options": [
-          "Environmental, economic, social",
-          "Political, educational, economic",
-          "Cultural, social, financial",
-          "Technological, ecological, personal"
+          "Only the economy",
+          "Future generations",
+          "Current profits",
+          "Global trade"
         ],
-        "correctIndex": 0,
-        "explain": "提到的可持續性的三個方面是環境、經濟和社會。"
+        "correctIndex": 1,
+        "explain": "可持續發展旨在保護未來世代的需求。"
       },
       {
-        "q": "How does renewable energy contribute to sustainability?",
+        "q": "Which of the following is an example of sustainable practice?",
         "options": [
-          "By increasing pollution",
-          "By lowering energy costs",
-          "By reducing greenhouse gas emissions",
-          "By depleting resources"
+          "Coal mining",
+          "Plastic production",
+          "Renewable energy",
+          "Deforestation"
         ],
         "correctIndex": 2,
-        "explain": "可再生能源通過減少溫室氣體排放來促進可持續性。"
+        "explain": "可再生能源是一種可持續的做法。"
+      },
+      {
+        "q": "Why is sustainability important?",
+        "options": [
+          "It increases costs",
+          "It promotes current consumption",
+          "It protects resources for the future",
+          "It ignores future generations"
+        ],
+        "correctIndex": 2,
+        "explain": "可持續性重要是因為它保護未來的資源。"
       }
     ]
   }

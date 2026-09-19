@@ -2,107 +2,107 @@
   "cloze": {
     "segments": [
       {
-        "text": "The process of photosynthesis is essential for life on Earth. Plants convert sunlight into energy through this complex "
+        "text": "The process of phonetics involves the study of..."
       },
       {
-        "blank": "reac"
+        "blank": "artic"
       },
       {
-        "text": "tion, which primarily occurs in the chloroplasts. During photosynthesis, carbon dioxide and water are transformed into glucose and oxygen. This "
+        "text": "...how sounds are produced, transmitted, and perceived. Phonetics can be divided into three major areas: articulatory, acoustic, and auditory. In..."
       },
       {
-        "blank": "nour"
+        "blank": "articu"
       },
       {
-        "text": "ishing process supports not only the plant itself but also the entire food chain. In addition to providing energy, photosynthesis plays a vital role in "
+        "text": "...lary phonetics, researchers focus on how speech sounds are made using different parts of the vocal tract. On the other hand, acoustic phonetics deals with..."
       },
       {
-        "blank": "balance"
+        "blank": "wave"
       },
       {
-        "text": "ing the Earth's atmosphere by consuming carbon dioxide. Furthermore, the oxygen released during this process is crucial for the survival of most living "
+        "text": "...the physical properties of sound waves, while auditory phonetics examines how listeners perceive these sounds. Overall, phonetics plays a key role in understanding..."
       },
       {
-        "blank": "organ"
+        "blank": "com"
       },
       {
-        "text": "isms. Ultimately, understanding photosynthesis helps scientists address issues such as climate change and food security."
+        "text": "...language and communication, as it provides insights into the nuances of speech."
       }
     ]
   },
   "academic": {
-    "passage": "Photosynthesis is a process used by plants to convert light energy into chemical energy. This transformation involves the absorption of sunlight, which is used to convert carbon dioxide and water into glucose and oxygen. The glucose serves as an energy source for plants and is vital for growth and development. Furthermore, the oxygen released during this process is essential for the survival of most living organisms on Earth. Understanding photosynthesis is crucial for addressing global challenges like climate change and ensuring food security.",
+    "passage": "Phonetics is a branch of linguistics that studies the sounds of human speech. It explores how these sounds are produced, their physical properties, and how they are perceived by listeners. The field is divided into articulatory, acoustic, and auditory phonetics, each focusing on different aspects of sound in communication. Understanding phonetics is essential for linguists, language teachers, and speech therapists, as it helps in analyzing speech patterns and improving language skills.",
     "questions": [
       {
-        "q": "What is the main purpose of photosynthesis?",
+        "q": "What is the main focus of phonetics?",
         "options": [
-          "To convert light energy into chemical energy",
-          "To produce carbon dioxide",
-          "To absorb water",
-          "To generate heat"
+          "The study of speech sounds",
+          "The grammar of languages",
+          "The history of languages",
+          "The writing systems"
         ],
         "correctIndex": 0,
-        "explain": "這是因為光合作用的主要功能是將光能轉化為化學能。"
+        "explain": "此題的答案是語音學的主要研究對象，即語音的研究。"
       },
       {
-        "q": "What do plants produce during photosynthesis?",
+        "q": "Which area of phonetics examines how sounds are produced?",
         "options": [
-          "Glucose and oxygen",
-          "Carbon dioxide",
-          "Water",
-          "Heat"
+          "Auditory phonetics",
+          "Acoustic phonetics",
+          "Articulatory phonetics",
+          "Linguistic phonetics"
         ],
-        "correctIndex": 0,
-        "explain": "植物在光合作用中產生葡萄糖和氧氣。"
+        "correctIndex": 2,
+        "explain": "此題要考查的是語音的產生，正確答案是發音語音學。"
       },
       {
-        "q": "What can be inferred about the relationship between photosynthesis and the food chain?",
+        "q": "What can be inferred about the importance of phonetics?",
         "options": [
-          "Photosynthesis is not important",
-          "Photosynthesis supports the food chain",
-          "Plants do not depend on photosynthesis",
-          "Oxygen is unnecessary for life"
+          "It is only relevant to linguists.",
+          "It is not necessary for language teachers.",
+          "It aids in improving language skills.",
+          "It focuses only on written language."
         ],
-        "correctIndex": 1,
-        "explain": "這表明光合作用支持整個食物鏈，因為植物是食物鏈的基礎。"
+        "correctIndex": 2,
+        "explain": "可以推論出，語音學在改善語言技能方面的重要性。"
       },
       {
-        "q": "What does the term 'chemical energy' refer to in this context?",
+        "q": "What does 'articulatory' refer to in phonetics?",
         "options": [
-          "Energy stored in molecules",
-          "Energy from sunlight",
-          "Energy released as heat",
-          "Energy used in respiration"
+          "The way sounds are perceived",
+          "The physical properties of sound",
+          "How sounds are produced",
+          "The history of sound"
         ],
-        "correctIndex": 0,
-        "explain": "在這個上下文中，'化學能'指的是儲存在分子中的能量。"
+        "correctIndex": 2,
+        "explain": "這個問題問的是'articulatory'在語音學裡的意義，它指的是聲音的產生方式。"
       }
     ]
   },
   "daily": {
-    "passage": "Attention students: The library will be closed for maintenance this Friday. Please plan accordingly and return any overdue books by Thursday. Thank you for your understanding.",
+    "passage": "Attention students! The library will be closed for maintenance this Saturday. Please plan your study time accordingly. We apologize for any inconvenience and thank you for your understanding.",
     "questions": [
       {
-        "q": "When will the library be closed?",
+        "q": "Why will the library be closed this Saturday?",
         "options": [
-          "This Friday",
-          "Next Monday",
-          "This Thursday",
-          "Next weekend"
+          "For a holiday",
+          "For maintenance",
+          "For a special event",
+          "For cleaning"
         ],
-        "correctIndex": 0,
-        "explain": "圖書館將在這個星期五關閉。"
+        "correctIndex": 1,
+        "explain": "圖書館在這個星期六關閉的原因是進行維護。"
       },
       {
-        "q": "What should students do with overdue books?",
+        "q": "What should students do in response to the library closure?",
         "options": [
-          "Return them by Thursday",
-          "Keep them until Friday",
-          "Donate them",
-          "Take them to another library"
+          "Complain to the staff",
+          "Plan their study time",
+          "Visit another library",
+          "Stay home"
         ],
-        "correctIndex": 0,
-        "explain": "學生應該在星期四之前歸還逾期的書籍。"
+        "correctIndex": 1,
+        "explain": "學生應該根據圖書館的關閉來安排他們的學習時間。"
       }
     ]
   }
