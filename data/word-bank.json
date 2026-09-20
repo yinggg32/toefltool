@@ -8686,5 +8686,53 @@
     "zh": "二分法",
     "ex": "A dichotomy between reason and emotion is often discussed in philosophy.",
     "cat": "📰 每日新詞：philosophy"
+  },
+  {
+    "word": "contagion",
+    "pos": "n.",
+    "root": "contag- (接觸) + ion (過程)",
+    "zh": "傳染",
+    "ex": "The rapid spread of contagion in crowded areas highlights the need for effective public health measures.",
+    "cat": "📰 每日新詞：public health"
+  },
+  {
+    "word": "quarantine",
+    "pos": "n./v.",
+    "root": "quarant- (四十) + ine (狀態)",
+    "zh": "隔離",
+    "ex": "Individuals exposed to the virus were placed in quarantine to prevent further transmission.",
+    "cat": "📰 每日新詞：public health"
+  },
+  {
+    "word": "hazard",
+    "pos": "n.",
+    "root": "hazard (危險) + —",
+    "zh": "危險",
+    "ex": "Environmental hazards can significantly impact community health outcomes.",
+    "cat": "📰 每日新詞：public health"
+  },
+  {
+    "word": "safety",
+    "pos": "n.",
+    "root": "safe- (安全) + ty (狀態)",
+    "zh": "安全",
+    "ex": "Food safety regulations are crucial for protecting public health.",
+    "cat": "📰 每日新詞：public health"
+  },
+  {
+    "word": "exercise",
+    "pos": "n./v.",
+    "root": "ex- (出) + erc- (運動) + ise (動詞)",
+    "zh": "運動",
+    "ex": "Regular exercise is essential for maintaining physical and mental health.",
+    "cat": "📰 每日新詞：public health"
+  },
+  {
+    "word": "analysis",
+    "pos": "n.",
+    "root": "analys- (分析) + is (過程)",
+    "zh": "分析",
+    "ex": "Statistical analysis of health data can reveal trends and inform public health strategies.",
+    "cat": "📰 每日新詞：public health"
   }
 ]

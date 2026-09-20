@@ -1,116 +1,116 @@
 {
   "chooseResponse": [
     {
-      "q": "What time is the meeting?",
+      "q": "What do you think about the art exhibit?",
       "options": [
-        "At 2 PM",
-        "In the cafeteria",
-        "Tomorrow morning",
-        "I forgot"
+        "It's amazing!",
+        "I don't like art.",
+        "It's too crowded.",
+        "I haven't seen it."
       ],
       "correctIndex": 0
     }
   ],
   "conversation": {
-    "transcript": "Student: Hey, have you heard about the new art exhibition on campus?\nAdvisor: Yes, I have! It's opening next week, right?\nStudent: Exactly! I'm planning to go.\nAdvisor: I recommend going early to avoid the crowd.",
+    "transcript": "Student: Have you been to the new art exhibit at the gallery?\nAdvisor: Yes, I went last weekend. What did you think of it?\nStudent: I thought it was incredible! The installations were so immersive.\nAdvisor: I completely agree. The use of light and space was really impressive.",
     "questions": [
       {
-        "q": "What is the student planning to do?",
+        "q": "What was the student's opinion about the exhibit?",
         "options": [
-          "Visit the exhibition",
-          "Skip the event",
-          "Meet with an advisor",
-          "Study in the library"
+          "It was boring.",
+          "It was incredible.",
+          "It was too crowded.",
+          "It was too dark."
         ],
-        "correctIndex": 0,
-        "explain": "學生計劃參觀展覽。"
+        "correctIndex": 1,
+        "explain": "學生認為展覽非常精彩。"
       },
       {
-        "q": "What does the advisor suggest?",
+        "q": "When did the advisor visit the exhibit?",
         "options": [
-          "Go late",
-          "Visit another exhibition",
-          "Go early",
-          "Take a friend"
+          "Last month.",
+          "Last weekend.",
+          "This weekend.",
+          "Yesterday."
         ],
-        "correctIndex": 2,
-        "explain": "顧問建議學生早去。"
+        "correctIndex": 1,
+        "explain": "顧問上週末去參觀了展覽。"
       }
     ]
   },
   "announcement": {
-    "transcript": "Attention students! The library will be closed for renovations starting next Monday and will reopen in two weeks. Please plan accordingly and return all borrowed materials before this date. Thank you for your understanding.",
+    "transcript": "Attention all students: the annual art showcase will take place this Saturday in the main hall. Come and support your fellow students' creativity! Admission is free, and refreshments will be provided. We hope to see you there!",
     "questions": [
       {
-        "q": "Why is the library closing?",
+        "q": "What is the event mentioned in the announcement?",
         "options": [
-          "For staff training",
-          "Due to a holiday",
-          "For renovations",
-          "To expand the collection"
-        ],
-        "correctIndex": 2,
-        "explain": "圖書館因翻新而關閉。"
-      },
-      {
-        "q": "When will the library reopen?",
-        "options": [
-          "Next week",
-          "In two weeks",
-          "At the end of the month",
-          "Tomorrow"
+          "A lecture series.",
+          "An art showcase.",
+          "A sports event.",
+          "A concert."
         ],
         "correctIndex": 1,
-        "explain": "圖書館將在兩週後重新開放。"
+        "explain": "公告提到了一個藝術展覽。"
+      },
+      {
+        "q": "When will the event take place?",
+        "options": [
+          "This Friday.",
+          "Next Saturday.",
+          "This Saturday.",
+          "Next Wednesday."
+        ],
+        "correctIndex": 2,
+        "explain": "事件將於本週六舉行。"
       }
     ]
   },
   "talk": {
-    "transcript": "Today, we will discuss the concept of sustainable development. Sustainable development refers to meeting the needs of the present without compromising the ability of future generations to meet their own needs. It involves a balanced approach to economic growth, environmental protection, and social equity. By adopting sustainable practices, we can ensure that resources are available for future generations while maintaining a healthy planet. Examples include renewable energy, waste reduction, and sustainable agriculture. Therefore, it is crucial that we prioritize strategies that promote sustainability in our communities and economies.",
+    "transcript": "Today, I want to discuss the concept of cultural relativism. Cultural relativism is the idea that a person's beliefs, values, and practices should be understood based on that person's own culture, rather than be judged against the criteria of another culture. This perspective encourages tolerance and understanding among different societies. For instance, what may seem unusual in one culture could be a norm in another. By adopting a culturally relativistic view, we can appreciate the diversity of human experiences and practices, leading to greater empathy and communication across cultures.",
     "questions": [
       {
-        "q": "What is sustainable development?",
+        "q": "What is cultural relativism?",
         "options": [
-          "Focusing on profit",
-          "Meeting present needs only",
-          "Balancing growth and resources",
-          "Ignoring environmental issues"
-        ],
-        "correctIndex": 2,
-        "explain": "可持續發展是平衡增長和資源的概念。"
-      },
-      {
-        "q": "What does sustainable development aim to protect?",
-        "options": [
-          "Only the economy",
-          "Future generations",
-          "Current profits",
-          "Global trade"
+          "Judging cultures by one's own standards.",
+          "Understanding cultures within their own context.",
+          "Promoting a single culture over others.",
+          "Ignoring cultural differences."
         ],
         "correctIndex": 1,
-        "explain": "可持續發展旨在保護未來世代的需求。"
+        "explain": "文化相對主義是根據文化本身的背景來理解信仰和價值觀。"
       },
       {
-        "q": "Which of the following is an example of sustainable practice?",
+        "q": "Why is cultural relativism important?",
         "options": [
-          "Coal mining",
-          "Plastic production",
-          "Renewable energy",
-          "Deforestation"
+          "It reduces cultural diversity.",
+          "It helps in promoting one culture.",
+          "It fosters understanding and tolerance.",
+          "It eliminates cultural differences."
         ],
         "correctIndex": 2,
-        "explain": "可再生能源是一種可持續的做法。"
+        "explain": "文化相對主義促進了不同文化之間的理解和包容。"
       },
       {
-        "q": "Why is sustainability important?",
+        "q": "How can cultural relativism affect communication?",
         "options": [
-          "It increases costs",
-          "It promotes current consumption",
-          "It protects resources for the future",
-          "It ignores future generations"
+          "It can create misunderstandings.",
+          "It leads to more empathy across cultures.",
+          "It discourages cultural exchange.",
+          "It makes communication easier."
         ],
-        "correctIndex": 2,
-        "explain": "可持續性重要是因為它保護未來的資源。"
+        "correctIndex": 1,
+        "explain": "文化相對主義有助於促進跨文化的同理心。"
+      },
+      {
+        "q": "What might be a result of adopting a culturally relativistic view?",
+        "options": [
+          "Increased cultural clashes.",
+          "Greater empathy and appreciation.",
+          "More judgment of other cultures.",
+          "Less interest in cultural diversity."
+        ],
+        "correctIndex": 1,
+        "explain": "採用文化相對主義觀點可以增進同理心和欣賞。"
       }
     ]
   }

@@ -2,29 +2,31 @@
   "buildSentences": [
     {
       "words": [
-        "the",
         "students",
+        "study",
+        "hard",
         "to",
-        "the",
-        "library",
-        "go",
-        "every",
-        "afternoon"
+        "achieve",
+        "their",
+        "academic",
+        "goals"
       ],
-      "display": "The students go to the library every afternoon."
+      "display": "Students study hard to achieve their academic goals."
     },
     {
       "words": [
         "the",
-        "professor",
-        "has",
-        "assigned",
-        "a",
-        "new",
         "research",
-        "project"
+        "team",
+        "published",
+        "their",
+        "findings",
+        "in",
+        "a",
+        "prestigious",
+        "journal"
       ],
-      "display": "The professor has assigned a new research project."
+      "display": "The research team published their findings in a prestigious journal."
     },
     {
       "words": [
@@ -32,98 +34,104 @@
         "enjoys",
         "reading",
         "books",
-        "in",
-        "the",
-        "park",
-        "during",
-        "summer"
-      ],
-      "display": "She enjoys reading books in the park during summer."
-    },
-    {
-      "words": [
-        "the",
-        "seminar",
-        "will",
-        "focus",
-        "on",
-        "climate",
-        "change",
+        "about",
+        "science",
         "and",
-        "its",
-        "impact"
+        "history"
       ],
-      "display": "The seminar will focus on climate change and its impact."
+      "display": "She enjoys reading books about science and history."
     },
     {
       "words": [
-        "he",
-        "plans",
-        "to",
-        "study",
-        "abroad",
+        "the",
+        "conference",
+        "will",
+        "be",
+        "held",
         "next",
-        "semester",
+        "month",
         "in",
-        "france"
-      ],
-      "display": "He plans to study abroad next semester in France."
-    },
-    {
-      "words": [
         "the",
-        "team",
-        "is",
-        "preparing",
-        "for",
-        "the",
-        "upcoming",
-        "competition"
+        "main",
+        "auditorium"
       ],
-      "display": "The team is preparing for the upcoming competition."
+      "display": "The conference will be held next month in the main auditorium."
     },
     {
       "words": [
         "students",
         "should",
-        "submit",
-        "their",
-        "assignments",
-        "by",
-        "friday",
-        "evening"
+        "participate",
+        "in",
+        "extracurricular",
+        "activities",
+        "to",
+        "develop",
+        "new",
+        "skills"
       ],
-      "display": "Students should submit their assignments by Friday evening."
+      "display": "Students should participate in extracurricular activities to develop new skills."
     },
     {
       "words": [
         "the",
-        "new",
-        "course",
-        "will",
-        "begin",
-        "on",
-        "monday",
-        "next",
-        "week"
+        "professor",
+        "encouraged",
+        "us",
+        "to",
+        "explore",
+        "different",
+        "perspectives",
+        "during",
+        "discussions"
       ],
-      "display": "The new course will begin on Monday next week."
+      "display": "The professor encouraged us to explore different perspectives during discussions."
+    },
+    {
+      "words": [
+        "she",
+        "plans",
+        "to",
+        "apply",
+        "for",
+        "a",
+        "scholarship",
+        "to",
+        "study",
+        "abroad"
+      ],
+      "display": "She plans to apply for a scholarship to study abroad."
+    },
+    {
+      "words": [
+        "the",
+        "library",
+        "offers",
+        "many",
+        "resources",
+        "for",
+        "students",
+        "to",
+        "conduct",
+        "research"
+      ],
+      "display": "The library offers many resources for students to conduct research."
     }
   ],
   "emailPrompts": [
-    "寄信給教授，請求延長研究報告的截止日期。",
-    "寄信給宿舍辦公室，詢問有關房間安排的問題。",
-    "寄信給圖書館，詢問有關借書的規定。",
-    "寄信給社團，要求加入該社團並詢問活動時間。",
-    "寄信給客戶服務，請求退款並解釋原因。",
-    "寄信給同學，邀請他參加週末的學術研討會。"
+    "寄信給教授，說明因病無法參加期中考，詢問補考事宜。",
+    "寄信給宿舍辦公室，詢問關於修繕請求的進展。",
+    "寄信給圖書館，請求延長借書期限。",
+    "寄信給社團，詢問參加下次活動的方式。",
+    "寄信給客服，詢問訂單狀態並請求更改地址。",
+    "寄信給指導老師，請求建議如何準備即將到來的考試。"
   ],
   "discussionPrompts": [
-    "教授問：「你如何看待科技在教育中的角色？」",
-    "教授問：「社交媒體對人際關係的影響是正面還是負面？」",
-    "教授問：「全球暖化的主要原因是什麼？」",
-    "教授問：「藝術在社會變革中扮演什麼角色？」",
-    "教授問：「你認為政府應該如何應對貧困問題？」",
-    "教授問：「人工智慧的發展對未來工作市場有何影響？」"
+    "教授問：「你認為科技對教育的影響是正面還是負面？」",
+    "教授問：「社會媒體是否促進了人與人之間的聯繫？」",
+    "教授問：「面對氣候變化，哪些措施最為有效？」",
+    "教授問：「文化多樣性對社會發展的重要性為何？」",
+    "教授問：「應該如何平衡經濟發展與環境保護？」",
+    "教授問：「在全球化時代，地方文化的保護是否必要？」"
   ]
 }

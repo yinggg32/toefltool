@@ -2,107 +2,95 @@
   "cloze": {
     "segments": [
       {
-        "text": "The process of phonetics involves the study of..."
+        "text": "The human brain is a remarkably complex organ responsible for a range of functions, including thinking, memory, and sensory perception. It is composed of approximately 86 billion neurons, which communicate through synapses. These connections are not fixed; rather, they undergo a process of plas"
       },
       {
-        "blank": "artic"
+        "blank": "ticity"
       },
       {
-        "text": "...how sounds are produced, transmitted, and perceived. Phonetics can be divided into three major areas: articulatory, acoustic, and auditory. In..."
+        "text": ", allowing the brain to adapt in response to experiences. Neuroplasticity is crucial for learning and recovery from injury. Furthermore, the brain is divided into several regions, each specializing in different activi"
       },
       {
-        "blank": "articu"
+        "blank": "ties."
       },
       {
-        "text": "...lary phonetics, researchers focus on how speech sounds are made using different parts of the vocal tract. On the other hand, acoustic phonetics deals with..."
-      },
-      {
-        "blank": "wave"
-      },
-      {
-        "text": "...the physical properties of sound waves, while auditory phonetics examines how listeners perceive these sounds. Overall, phonetics plays a key role in understanding..."
-      },
-      {
-        "blank": "com"
-      },
-      {
-        "text": "...language and communication, as it provides insights into the nuances of speech."
+        "text": " The cerebral cortex, for instance, is key for higher cognitive functions such as reasoning and complex decision-making. Meanwhile, the limbic system plays a significant role in emotional responses and memory formation."
       }
     ]
   },
   "academic": {
-    "passage": "Phonetics is a branch of linguistics that studies the sounds of human speech. It explores how these sounds are produced, their physical properties, and how they are perceived by listeners. The field is divided into articulatory, acoustic, and auditory phonetics, each focusing on different aspects of sound in communication. Understanding phonetics is essential for linguists, language teachers, and speech therapists, as it helps in analyzing speech patterns and improving language skills.",
+    "passage": "The study of neuroplasticity reveals that the brain is capable of reorganizing itself by forming new neural connections throughout life. This adaptability means that learning new skills or recovering from brain injuries is possible, highlighting the brain's resilience. Research indicates that engaging in mentally stimulating activities can enhance this plasticity, thereby improving cognitive functions and emotional well-being.",
     "questions": [
       {
-        "q": "What is the main focus of phonetics?",
+        "q": "What is the main idea of the passage?",
         "options": [
-          "The study of speech sounds",
-          "The grammar of languages",
-          "The history of languages",
-          "The writing systems"
+          "The human brain can adapt to new experiences.",
+          "Neuroplasticity only occurs in childhood.",
+          "The brain is static and unchanging.",
+          "Neuroplasticity is irrelevant to learning."
         ],
         "correctIndex": 0,
-        "explain": "此題的答案是語音學的主要研究對象，即語音的研究。"
+        "explain": "這段落的主要思想是人類大腦能夠適應新的經驗，即神經可塑性。"
       },
       {
-        "q": "Which area of phonetics examines how sounds are produced?",
+        "q": "What role does the limbic system play?",
         "options": [
-          "Auditory phonetics",
-          "Acoustic phonetics",
-          "Articulatory phonetics",
-          "Linguistic phonetics"
+          "Higher cognitive functions",
+          "Emotional responses",
+          "Motor functions",
+          "Sensory perception"
         ],
-        "correctIndex": 2,
-        "explain": "此題要考查的是語音的產生，正確答案是發音語音學。"
+        "correctIndex": 1,
+        "explain": "邊緣系統在情緒反應中的角色非常重要。"
       },
       {
-        "q": "What can be inferred about the importance of phonetics?",
+        "q": "What can be inferred about engaging in mentally stimulating activities?",
         "options": [
-          "It is only relevant to linguists.",
-          "It is not necessary for language teachers.",
-          "It aids in improving language skills.",
-          "It focuses only on written language."
+          "It has no effect on the brain.",
+          "It can lead to decreased cognitive function.",
+          "It may improve brain plasticity.",
+          "It hinders memory formation."
         ],
         "correctIndex": 2,
-        "explain": "可以推論出，語音學在改善語言技能方面的重要性。"
+        "explain": "進行心理上刺激的活動可能會改善大腦的可塑性。"
       },
       {
-        "q": "What does 'articulatory' refer to in phonetics?",
+        "q": "What does the term 'neuroplasticity' refer to in the passage?",
         "options": [
-          "The way sounds are perceived",
-          "The physical properties of sound",
-          "How sounds are produced",
-          "The history of sound"
+          "The ability of the brain to repair itself.",
+          "The fixed nature of brain connections.",
+          "The inability to learn new information.",
+          "The brain's adaptability to change."
         ],
-        "correctIndex": 2,
-        "explain": "這個問題問的是'articulatory'在語音學裡的意義，它指的是聲音的產生方式。"
+        "correctIndex": 3,
+        "explain": "神經可塑性是指大腦適應變化的能力。"
       }
     ]
   },
   "daily": {
-    "passage": "Attention students! The library will be closed for maintenance this Saturday. Please plan your study time accordingly. We apologize for any inconvenience and thank you for your understanding.",
+    "passage": "Attention all students! The university library will be hosting a workshop on effective research strategies this Friday at 3 PM. Join us to learn tips on how to find and evaluate sources for your academic projects. Refreshments will be provided!",
     "questions": [
       {
-        "q": "Why will the library be closed this Saturday?",
+        "q": "When will the workshop on research strategies take place?",
         "options": [
-          "For a holiday",
-          "For maintenance",
-          "For a special event",
-          "For cleaning"
+          "This Friday at 3 PM",
+          "Next Monday at 3 PM",
+          "This Wednesday at 2 PM",
+          "This Thursday at 5 PM"
         ],
-        "correctIndex": 1,
-        "explain": "圖書館在這個星期六關閉的原因是進行維護。"
+        "correctIndex": 0,
+        "explain": "研討會將在本週五下午3點舉行。"
       },
       {
-        "q": "What should students do in response to the library closure?",
+        "q": "What will be provided during the workshop?",
         "options": [
-          "Complain to the staff",
-          "Plan their study time",
-          "Visit another library",
-          "Stay home"
+          "Books",
+          "Computers",
+          "Refreshments",
+          "Assignments"
         ],
-        "correctIndex": 1,
-        "explain": "學生應該根據圖書館的關閉來安排他們的學習時間。"
+        "correctIndex": 2,
+        "explain": "研討會將提供餐飲。"
       }
     ]
   }
