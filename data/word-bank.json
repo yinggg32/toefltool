@@ -8734,5 +8734,45 @@
     "zh": "分析",
     "ex": "Statistical analysis of health data can reveal trends and inform public health strategies.",
     "cat": "📰 每日新詞：public health"
+  },
+  {
+    "word": "political ideology",
+    "pos": "n.",
+    "root": "政治意識形態—political + ideology (idea system)",
+    "zh": "政治意識形態",
+    "ex": "Political ideology shapes the beliefs and values of individuals and political parties.",
+    "cat": "📰 每日新詞：political science"
+  },
+  {
+    "word": "coup d'état",
+    "pos": "n.",
+    "root": "政變—coup (strike) + d'état (of the state)",
+    "zh": "政變",
+    "ex": "The coup d'état resulted in the abrupt overthrow of the existing government.",
+    "cat": "📰 每日新詞：political science"
+  },
+  {
+    "word": "emergency powers",
+    "pos": "n.",
+    "root": "緊急權力—emergency (urgent situation) + powers (authoritative capacities)",
+    "zh": "緊急權力",
+    "ex": "Emergency powers allow governments to act swiftly in times of crisis.",
+    "cat": "📰 每日新詞：political science"
+  },
+  {
+    "word": "protest",
+    "pos": "n./v.",
+    "root": "抗議—pro (for) + test (to witness)",
+    "zh": "抗議",
+    "ex": "Protests can be a powerful tool for social change and political expression.",
+    "cat": "📰 每日新詞：political science"
+  },
+  {
+    "word": "polarization",
+    "pos": "n.",
+    "root": "兩極化—polar (poles) + -ization",
+    "zh": "兩極化",
+    "ex": "Political polarization can lead to increased conflict and division within society.",
+    "cat": "📰 每日新詞：political science"
   }
 ]

@@ -1,116 +1,116 @@
 {
   "chooseResponse": [
     {
-      "q": "What do you think about the art exhibit?",
+      "q": "Are you ready for the exam?",
       "options": [
-        "It's amazing!",
-        "I don't like art.",
-        "It's too crowded.",
-        "I haven't seen it."
+        "Yes, I studied hard.",
+        "No, I'm still reviewing.",
+        "I don't feel prepared.",
+        "I think I will do well."
       ],
       "correctIndex": 0
     }
   ],
   "conversation": {
-    "transcript": "Student: Have you been to the new art exhibit at the gallery?\nAdvisor: Yes, I went last weekend. What did you think of it?\nStudent: I thought it was incredible! The installations were so immersive.\nAdvisor: I completely agree. The use of light and space was really impressive.",
+    "transcript": "Student: Hey, did you finish the group project?\nProfessor: Yes, we submitted it last night. Did you have any issues?\nStudent: Just a few minor problems with the formatting.\nProfessor: That's common. Did you ask for help with it?",
     "questions": [
       {
-        "q": "What was the student's opinion about the exhibit?",
+        "q": "What did the student struggle with?",
         "options": [
-          "It was boring.",
-          "It was incredible.",
-          "It was too crowded.",
-          "It was too dark."
+          "The content of the project.",
+          "The formatting of the project.",
+          "Finding group members.",
+          "Meeting the deadline."
         ],
         "correctIndex": 1,
-        "explain": "學生認為展覽非常精彩。"
+        "explain": "學生在格式上遇到了一些小問題。"
       },
       {
-        "q": "When did the advisor visit the exhibit?",
+        "q": "What did the professor suggest?",
         "options": [
-          "Last month.",
-          "Last weekend.",
-          "This weekend.",
-          "Yesterday."
+          "To work alone next time.",
+          "To ask for help.",
+          "To change the topic.",
+          "To submit late."
         ],
         "correctIndex": 1,
-        "explain": "顧問上週末去參觀了展覽。"
+        "explain": "教授建議學生尋求幫助。"
       }
     ]
   },
   "announcement": {
-    "transcript": "Attention all students: the annual art showcase will take place this Saturday in the main hall. Come and support your fellow students' creativity! Admission is free, and refreshments will be provided. We hope to see you there!",
+    "transcript": "Attention students! The library will be closed for renovations from May 1st to May 15th. Please plan accordingly and return all borrowed materials before the closure. Thank you for your understanding.",
     "questions": [
       {
-        "q": "What is the event mentioned in the announcement?",
+        "q": "When will the library be closed?",
         "options": [
-          "A lecture series.",
-          "An art showcase.",
-          "A sports event.",
-          "A concert."
+          "From May 1st to May 15th.",
+          "From April 15th to May 1st.",
+          "Only on weekends.",
+          "For the entire month of May."
         ],
-        "correctIndex": 1,
-        "explain": "公告提到了一個藝術展覽。"
+        "correctIndex": 0,
+        "explain": "圖書館將於5月1日至5月15日關閉。"
       },
       {
-        "q": "When will the event take place?",
+        "q": "What should students do before the library closes?",
         "options": [
-          "This Friday.",
-          "Next Saturday.",
-          "This Saturday.",
-          "Next Wednesday."
+          "Return all borrowed materials.",
+          "Get new library cards.",
+          "Prepare for exams.",
+          "Attend a workshop."
         ],
-        "correctIndex": 2,
-        "explain": "事件將於本週六舉行。"
+        "correctIndex": 0,
+        "explain": "學生應在關閉之前歸還所有貸出的資料。"
       }
     ]
   },
   "talk": {
-    "transcript": "Today, I want to discuss the concept of cultural relativism. Cultural relativism is the idea that a person's beliefs, values, and practices should be understood based on that person's own culture, rather than be judged against the criteria of another culture. This perspective encourages tolerance and understanding among different societies. For instance, what may seem unusual in one culture could be a norm in another. By adopting a culturally relativistic view, we can appreciate the diversity of human experiences and practices, leading to greater empathy and communication across cultures.",
+    "transcript": "Today, we will discuss the concept of photosynthesis, which is vital for plant life. Photosynthesis is the process by which green plants convert sunlight into chemical energy. This occurs mainly in the chloroplasts, where chlorophyll captures sunlight. The process takes in carbon dioxide and water, producing glucose and oxygen. This not only feeds the plant but also releases oxygen into the atmosphere, which is essential for most life forms on Earth. Understanding photosynthesis helps us appreciate the importance of plants in our ecosystem.",
     "questions": [
       {
-        "q": "What is cultural relativism?",
+        "q": "What is photosynthesis?",
         "options": [
-          "Judging cultures by one's own standards.",
-          "Understanding cultures within their own context.",
-          "Promoting a single culture over others.",
-          "Ignoring cultural differences."
+          "A way plants reproduce.",
+          "A process to capture sunlight.",
+          "A method of plant respiration.",
+          "A way to store energy."
         ],
         "correctIndex": 1,
-        "explain": "文化相對主義是根據文化本身的背景來理解信仰和價值觀。"
+        "explain": "光合作用是植物將陽光轉化為化學能的過程。"
       },
       {
-        "q": "Why is cultural relativism important?",
+        "q": "Where does photosynthesis primarily occur?",
         "options": [
-          "It reduces cultural diversity.",
-          "It helps in promoting one culture.",
-          "It fosters understanding and tolerance.",
-          "It eliminates cultural differences."
+          "In the roots.",
+          "In the flowers.",
+          "In the leaves.",
+          "In the soil."
         ],
         "correctIndex": 2,
-        "explain": "文化相對主義促進了不同文化之間的理解和包容。"
+        "explain": "光合作用主要在葉片中的葉綠體進行。"
       },
       {
-        "q": "How can cultural relativism affect communication?",
+        "q": "What are the products of photosynthesis?",
         "options": [
-          "It can create misunderstandings.",
-          "It leads to more empathy across cultures.",
-          "It discourages cultural exchange.",
-          "It makes communication easier."
+          "Carbon dioxide and water.",
+          "Glucose and oxygen.",
+          "Sunlight and heat.",
+          "Nitrogen and sugars."
         ],
         "correctIndex": 1,
-        "explain": "文化相對主義有助於促進跨文化的同理心。"
+        "explain": "光合作用的產物是葡萄糖和氧氣。"
       },
       {
-        "q": "What might be a result of adopting a culturally relativistic view?",
+        "q": "Why is photosynthesis important for life on Earth?",
         "options": [
-          "Increased cultural clashes.",
-          "Greater empathy and appreciation.",
-          "More judgment of other cultures.",
-          "Less interest in cultural diversity."
+          "It helps plants grow faster.",
+          "It produces food and oxygen.",
+          "It reduces pollution.",
+          "It helps maintain temperature."
         ],
         "correctIndex": 1,
-        "explain": "採用文化相對主義觀點可以增進同理心和欣賞。"
+        "explain": "光合作用對地球上的生命至關重要，因為它產生食物和氧氣。"
       }
     ]
   }

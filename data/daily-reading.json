@@ -2,95 +2,113 @@
   "cloze": {
     "segments": [
       {
-        "text": "The human brain is a remarkably complex organ responsible for a range of functions, including thinking, memory, and sensory perception. It is composed of approximately 86 billion neurons, which communicate through synapses. These connections are not fixed; rather, they undergo a process of plas"
+        "text": "The concept of osmo"
       },
       {
-        "blank": "ticity"
+        "blank": "regulation"
       },
       {
-        "text": ", allowing the brain to adapt in response to experiences. Neuroplasticity is crucial for learning and recovery from injury. Furthermore, the brain is divided into several regions, each specializing in different activi"
+        "text": "is crucial for maintaining balance in living organisms. This process involves"
       },
       {
-        "blank": "ties."
+        "blank": "water"
       },
       {
-        "text": " The cerebral cortex, for instance, is key for higher cognitive functions such as reasoning and complex decision-making. Meanwhile, the limbic system plays a significant role in emotional responses and memory formation."
+        "text": "and solute transport across cell membranes. In plants, osmo"
+      },
+      {
+        "blank": "regulatory"
+      },
+      {
+        "text": "mechanisms help to manage water loss during transpiration, ensuring that"
+      },
+      {
+        "blank": "photosy"
+      },
+      {
+        "text": "nthesis and nutrient absorption are not compromised. Furthermore, osmotic"
+      },
+      {
+        "blank": "pressure"
+      },
+      {
+        "text": "is vital for cellular turgor, influencing plant structure and stability."
       }
     ]
   },
   "academic": {
-    "passage": "The study of neuroplasticity reveals that the brain is capable of reorganizing itself by forming new neural connections throughout life. This adaptability means that learning new skills or recovering from brain injuries is possible, highlighting the brain's resilience. Research indicates that engaging in mentally stimulating activities can enhance this plasticity, thereby improving cognitive functions and emotional well-being.",
+    "passage": "Osmoregulation is the process by which organisms regulate the balance of water and solutes in their bodies. This is essential for proper physiological function, especially in environments where water availability can vary. For example, freshwater fish actively excrete excess water and retain salts, while marine fish do the opposite. Plants also exhibit osmoregulation; they close their stomata during drought to minimize water loss. Understanding these mechanisms can provide insights into how organisms adapt to their environments and can inform conservation strategies as climate change affects water resources.",
     "questions": [
       {
         "q": "What is the main idea of the passage?",
         "options": [
-          "The human brain can adapt to new experiences.",
-          "Neuroplasticity only occurs in childhood.",
-          "The brain is static and unchanging.",
-          "Neuroplasticity is irrelevant to learning."
+          "Osmoregulation is vital for organisms",
+          "Freshwater and marine fish manage water differently",
+          "Plants regulate stomata to prevent water loss",
+          "Osmoregulation is not important for plants"
         ],
         "correctIndex": 0,
-        "explain": "這段落的主要思想是人類大腦能夠適應新的經驗，即神經可塑性。"
+        "explain": "這篇文章的主題是生物體如何調節水分和溶質的平衡，顯示了調節的重要性。"
       },
       {
-        "q": "What role does the limbic system play?",
+        "q": "What do freshwater fish do to maintain their osmoregulation?",
         "options": [
-          "Higher cognitive functions",
-          "Emotional responses",
-          "Motor functions",
-          "Sensory perception"
-        ],
-        "correctIndex": 1,
-        "explain": "邊緣系統在情緒反應中的角色非常重要。"
-      },
-      {
-        "q": "What can be inferred about engaging in mentally stimulating activities?",
-        "options": [
-          "It has no effect on the brain.",
-          "It can lead to decreased cognitive function.",
-          "It may improve brain plasticity.",
-          "It hinders memory formation."
+          "Excrete excess salts",
+          "Retain water",
+          "Excrete excess water",
+          "Close their stomata"
         ],
         "correctIndex": 2,
-        "explain": "進行心理上刺激的活動可能會改善大腦的可塑性。"
+        "explain": "淡水魚需要排出多餘的水，以保持體內的鹽分平衡。"
       },
       {
-        "q": "What does the term 'neuroplasticity' refer to in the passage?",
+        "q": "What can be inferred about osmoregulation in plants?",
         "options": [
-          "The ability of the brain to repair itself.",
-          "The fixed nature of brain connections.",
-          "The inability to learn new information.",
-          "The brain's adaptability to change."
+          "They do not regulate water",
+          "It is not affected by climate change",
+          "It helps them cope with drought",
+          "All plants have the same osmoregulation methods"
         ],
-        "correctIndex": 3,
-        "explain": "神經可塑性是指大腦適應變化的能力。"
+        "correctIndex": 2,
+        "explain": "植物在乾旱時會關閉氣孔以減少水分流失，這表明它們的調節方法有助於應對乾旱。"
+      },
+      {
+        "q": "What does the term 'turgor' refer to in the passage?",
+        "options": [
+          "Water loss in plants",
+          "The balance of salts",
+          "Cellular pressure from water",
+          "The process of transpiration"
+        ],
+        "correctIndex": 2,
+        "explain": "在這段文字中，'膨壓'指的是水在細胞內的壓力，這對植物的結構和穩定性至關重要。"
       }
     ]
   },
   "daily": {
-    "passage": "Attention all students! The university library will be hosting a workshop on effective research strategies this Friday at 3 PM. Join us to learn tips on how to find and evaluate sources for your academic projects. Refreshments will be provided!",
+    "passage": "Attention students! The university library will be closed for renovations from March 1 to March 15. We apologize for any inconvenience. Please plan ahead and utilize online resources during this time.",
     "questions": [
       {
-        "q": "When will the workshop on research strategies take place?",
+        "q": "When will the library be closed?",
         "options": [
-          "This Friday at 3 PM",
-          "Next Monday at 3 PM",
-          "This Wednesday at 2 PM",
-          "This Thursday at 5 PM"
+          "March 1 to March 15",
+          "March 15 to March 30",
+          "February 28 to March 1",
+          "Open all month"
         ],
         "correctIndex": 0,
-        "explain": "研討會將在本週五下午3點舉行。"
+        "explain": "圖書館將在三月一日至三月十五日關閉。"
       },
       {
-        "q": "What will be provided during the workshop?",
+        "q": "What should students do during the closure?",
         "options": [
-          "Books",
-          "Computers",
-          "Refreshments",
-          "Assignments"
+          "Visit the library",
+          "Use online resources",
+          "Attend classes",
+          "Work in groups"
         ],
-        "correctIndex": 2,
-        "explain": "研討會將提供餐飲。"
+        "correctIndex": 1,
+        "explain": "在閉館期間，學生應該利用在線資源。"
       }
     ]
   }
