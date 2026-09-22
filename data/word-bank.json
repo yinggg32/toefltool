@@ -8774,5 +8774,77 @@
     "zh": "兩極化",
     "ex": "Political polarization can lead to increased conflict and division within society.",
     "cat": "📰 每日新詞：political science"
+  },
+  {
+    "word": "artifacts",
+    "pos": "n.",
+    "root": "art-藝術 + fact-事實",
+    "zh": "文物",
+    "ex": "Archaeologists study artifacts to gain insights into past human behaviors and practices.",
+    "cat": "📰 每日新詞：anthropology"
+  },
+  {
+    "word": "rituals",
+    "pos": "n.",
+    "root": "rit-儀式 + uals-行為",
+    "zh": "儀式",
+    "ex": "Rituals often play a significant role in reinforcing community bonds and cultural identity.",
+    "cat": "📰 每日新詞：anthropology"
+  },
+  {
+    "word": "unilinear",
+    "pos": "adj.",
+    "root": "uni-單一 + linear-線性的",
+    "zh": "單線性的",
+    "ex": "Unilinear models of cultural evolution suggest that all societies progress through the same stages.",
+    "cat": "📰 每日新詞：anthropology"
+  },
+  {
+    "word": "heterogeneity",
+    "pos": "n.",
+    "root": "hetero-異 + geneity-類型",
+    "zh": "異質性",
+    "ex": "Cultural heterogeneity can lead to a rich tapestry of practices and beliefs within a society.",
+    "cat": "📰 每日新詞：anthropology"
+  },
+  {
+    "word": "cultural norms",
+    "pos": "n.",
+    "root": "cultur-文化 + al-的 + norm-規範",
+    "zh": "文化規範",
+    "ex": "Cultural norms shape the behaviors and expectations of individuals within a society.",
+    "cat": "📰 每日新詞：anthropology"
+  },
+  {
+    "word": "acculturation",
+    "pos": "n.",
+    "root": "accultur-適應文化 + ation-過程",
+    "zh": "文化適應",
+    "ex": "Acculturation occurs when individuals adopt the cultural traits of another group.",
+    "cat": "📰 每日新詞：anthropology"
+  },
+  {
+    "word": "diaspora",
+    "pos": "n.",
+    "root": "dia-穿過 + spor-散播",
+    "zh": "散居",
+    "ex": "The diaspora of a community can lead to the spread of its cultural practices worldwide.",
+    "cat": "📰 每日新詞：anthropology"
+  },
+  {
+    "word": "archeology",
+    "pos": "n.",
+    "root": "arche-古代 + ology-學科",
+    "zh": "考古學",
+    "ex": "Archeology provides valuable insights into ancient civilizations through excavation.",
+    "cat": "📰 每日新詞：anthropology"
+  },
+  {
+    "word": "language revitalization",
+    "pos": "n.",
+    "root": "language-語言 + revital-復甦 + ization-過程",
+    "zh": "語言復甦",
+    "ex": "Language revitalization efforts aim to restore endangered languages to everyday use.",
+    "cat": "📰 每日新詞：anthropology"
   }
 ]

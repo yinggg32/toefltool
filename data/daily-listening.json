@@ -1,116 +1,116 @@
 {
   "chooseResponse": [
     {
-      "q": "Are you ready for the exam?",
+      "q": "What time is the seminar starting?",
       "options": [
-        "Yes, I studied hard.",
-        "No, I'm still reviewing.",
-        "I don't feel prepared.",
-        "I think I will do well."
+        "I think it's at 10 AM.",
+        "I don't know.",
+        "Can you remind me?",
+        "Let's check the schedule."
       ],
       "correctIndex": 0
     }
   ],
   "conversation": {
-    "transcript": "Student: Hey, did you finish the group project?\nProfessor: Yes, we submitted it last night. Did you have any issues?\nStudent: Just a few minor problems with the formatting.\nProfessor: That's common. Did you ask for help with it?",
+    "transcript": "Student: Have you registered for the seminar on renewable energy?\nAdvisor: Yes, I did! I think it's going to be really informative.\nStudent: I heard the guest speaker is quite renowned in the field.\nAdvisor: That's right! I'm looking forward to the Q&A session.",
     "questions": [
       {
-        "q": "What did the student struggle with?",
+        "q": "What is the main topic of the seminar?",
         "options": [
-          "The content of the project.",
-          "The formatting of the project.",
-          "Finding group members.",
-          "Meeting the deadline."
+          "Renewable energy",
+          "Climate change",
+          "Technology",
+          "Economics"
         ],
-        "correctIndex": 1,
-        "explain": "學生在格式上遇到了一些小問題。"
+        "correctIndex": 0,
+        "explain": "這個研討會的主要主題是可再生能源。"
       },
       {
-        "q": "What did the professor suggest?",
+        "q": "Who is the guest speaker?",
         "options": [
-          "To work alone next time.",
-          "To ask for help.",
-          "To change the topic.",
-          "To submit late."
+          "A local professor",
+          "A renowned expert",
+          "A student",
+          "An industry professional"
         ],
         "correctIndex": 1,
-        "explain": "教授建議學生尋求幫助。"
+        "explain": "來賓講者是一位著名的專家。"
       }
     ]
   },
   "announcement": {
-    "transcript": "Attention students! The library will be closed for renovations from May 1st to May 15th. Please plan accordingly and return all borrowed materials before the closure. Thank you for your understanding.",
+    "transcript": "Attention students! The Environmental Science Department will host a seminar on renewable energy next Thursday at 10 AM in the main auditorium. All students are encouraged to attend. Don't miss this opportunity to learn from industry experts!",
     "questions": [
       {
-        "q": "When will the library be closed?",
+        "q": "When will the seminar take place?",
         "options": [
-          "From May 1st to May 15th.",
-          "From April 15th to May 1st.",
-          "Only on weekends.",
-          "For the entire month of May."
+          "Next Wednesday",
+          "Next Thursday",
+          "This Saturday",
+          "This Sunday"
         ],
-        "correctIndex": 0,
-        "explain": "圖書館將於5月1日至5月15日關閉。"
+        "correctIndex": 1,
+        "explain": "研討會將在下週四舉行。"
       },
       {
-        "q": "What should students do before the library closes?",
+        "q": "Where is the seminar being held?",
         "options": [
-          "Return all borrowed materials.",
-          "Get new library cards.",
-          "Prepare for exams.",
-          "Attend a workshop."
+          "In the library",
+          "In the main auditorium",
+          "In the science building",
+          "In the student center"
         ],
-        "correctIndex": 0,
-        "explain": "學生應在關閉之前歸還所有貸出的資料。"
+        "correctIndex": 1,
+        "explain": "研討會將在主禮堂舉行。"
       }
     ]
   },
   "talk": {
-    "transcript": "Today, we will discuss the concept of photosynthesis, which is vital for plant life. Photosynthesis is the process by which green plants convert sunlight into chemical energy. This occurs mainly in the chloroplasts, where chlorophyll captures sunlight. The process takes in carbon dioxide and water, producing glucose and oxygen. This not only feeds the plant but also releases oxygen into the atmosphere, which is essential for most life forms on Earth. Understanding photosynthesis helps us appreciate the importance of plants in our ecosystem.",
+    "transcript": "Today, I want to talk about renewable energy, which refers to energy sources that are replenished naturally. Common examples include solar, wind, and hydroelectric power. Unlike fossil fuels, renewable energy sources produce little to no pollution and are essential for reducing our carbon footprint. Countries around the world are investing in these technologies to combat climate change and ensure a sustainable future. The transition to renewables can also create jobs and stimulate economic growth, making it a critical area of development.",
     "questions": [
       {
-        "q": "What is photosynthesis?",
+        "q": "What are renewable energy sources?",
         "options": [
-          "A way plants reproduce.",
-          "A process to capture sunlight.",
-          "A method of plant respiration.",
-          "A way to store energy."
+          "Energy from fossil fuels",
+          "Naturally replenished energy",
+          "Nuclear energy",
+          "Geothermal energy"
         ],
         "correctIndex": 1,
-        "explain": "光合作用是植物將陽光轉化為化學能的過程。"
+        "explain": "可再生能源是指自然補充的能源。"
       },
       {
-        "q": "Where does photosynthesis primarily occur?",
+        "q": "Why are renewable energy sources important?",
         "options": [
-          "In the roots.",
-          "In the flowers.",
-          "In the leaves.",
-          "In the soil."
-        ],
-        "correctIndex": 2,
-        "explain": "光合作用主要在葉片中的葉綠體進行。"
-      },
-      {
-        "q": "What are the products of photosynthesis?",
-        "options": [
-          "Carbon dioxide and water.",
-          "Glucose and oxygen.",
-          "Sunlight and heat.",
-          "Nitrogen and sugars."
+          "They are cheaper than fossil fuels",
+          "They produce no pollution",
+          "They are easier to access",
+          "They can be used forever"
         ],
         "correctIndex": 1,
-        "explain": "光合作用的產物是葡萄糖和氧氣。"
+        "explain": "可再生能源重要是因為它們幾乎不會產生污染。"
       },
       {
-        "q": "Why is photosynthesis important for life on Earth?",
+        "q": "What is one benefit of transitioning to renewable energy?",
         "options": [
-          "It helps plants grow faster.",
-          "It produces food and oxygen.",
-          "It reduces pollution.",
-          "It helps maintain temperature."
+          "It decreases job opportunities",
+          "It can combat climate change",
+          "It increases fossil fuel dependency",
+          "It reduces technology investments"
         ],
         "correctIndex": 1,
-        "explain": "光合作用對地球上的生命至關重要，因為它產生食物和氧氣。"
+        "explain": "轉向可再生能源的好處之一是它可以對抗氣候變化。"
+      },
+      {
+        "q": "Which renewable energy source is mentioned in the talk?",
+        "options": [
+          "Natural gas",
+          "Solar power",
+          "Coal",
+          "Nuclear power"
+        ],
+        "correctIndex": 1,
+        "explain": "演講中提到的可再生能源是太陽能。"
       }
     ]
   }

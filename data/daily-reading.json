@@ -2,113 +2,101 @@
   "cloze": {
     "segments": [
       {
-        "text": "The concept of osmo"
+        "text": "The process of photosynthesis is crucial for plant survival. It involves the conversion of light energy, usually from the sun, into chemical energy. This occurs primarily in the leaves where chlorophyll captures light. During this process, plants take in carbon dioxide from the air and water from the soil. The initial step includes light absorption, which triggers a series of reactions. The end products are glucose, which serves as food, and oxygen, which is released as a byproduct. This cycle is fundamental not only for plants but also for the entire ecosystem, as it provides energy for all living organisms."
       },
       {
-        "blank": "regulation"
+        "blank": "synthesis"
       },
       {
-        "text": "is crucial for maintaining balance in living organisms. This process involves"
+        "text": " In addition to providing food, photosynthesis also plays a vital role in regulating atmospheric gases. It helps maintain the balance of carbon dioxide and oxygen in the atmosphere. Without photosynthesis, aerobic life forms would struggle to survive due to a lack of oxygen and an overabundance of carbon dioxide. Various factors can affect the rate of photosynthesis including light intensity, temperature, and CO2 concentration. Understanding this process is essential for advancements in agriculture and addressing climate change."
       },
       {
-        "blank": "water"
+        "blank": "regu"
       },
       {
-        "text": "and solute transport across cell membranes. In plants, osmo"
+        "text": "Regulating these factors can enhance crop yields and improve food security globally. As researchers study photosynthesis more closely, they explore ways to optimize this process to support sustainable practices. Innovations in agricultural techniques driven by a deeper understanding of how photosynthesis works can lead to more resilient crops, essential for feeding a growing population."
       },
       {
-        "blank": "regulatory"
+        "blank": "innova"
       },
       {
-        "text": "mechanisms help to manage water loss during transpiration, ensuring that"
-      },
-      {
-        "blank": "photosy"
-      },
-      {
-        "text": "nthesis and nutrient absorption are not compromised. Furthermore, osmotic"
-      },
-      {
-        "blank": "pressure"
-      },
-      {
-        "text": "is vital for cellular turgor, influencing plant structure and stability."
+        "text": "Ultimately, the study of photosynthesis not only illuminates the intricacies of plant biology but also underscores the interconnectedness of all life and the importance of conserving our natural environment."
       }
     ]
   },
   "academic": {
-    "passage": "Osmoregulation is the process by which organisms regulate the balance of water and solutes in their bodies. This is essential for proper physiological function, especially in environments where water availability can vary. For example, freshwater fish actively excrete excess water and retain salts, while marine fish do the opposite. Plants also exhibit osmoregulation; they close their stomata during drought to minimize water loss. Understanding these mechanisms can provide insights into how organisms adapt to their environments and can inform conservation strategies as climate change affects water resources.",
+    "passage": "Photosynthesis is the process by which green plants, algae, and some bacteria convert light energy into chemical energy stored in glucose. This process takes place in the chloroplasts and involves two main stages: light-dependent reactions and the Calvin cycle. The light-dependent reactions capture energy from sunlight, while the Calvin cycle uses that energy to synthesize glucose from carbon dioxide and water. Thus, photosynthesis is essential for the survival of life on Earth, as it provides food and oxygen, supporting both plant and animal life.",
     "questions": [
       {
-        "q": "What is the main idea of the passage?",
+        "q": "What is the main purpose of photosynthesis?",
         "options": [
-          "Osmoregulation is vital for organisms",
-          "Freshwater and marine fish manage water differently",
-          "Plants regulate stomata to prevent water loss",
-          "Osmoregulation is not important for plants"
-        ],
-        "correctIndex": 0,
-        "explain": "這篇文章的主題是生物體如何調節水分和溶質的平衡，顯示了調節的重要性。"
-      },
-      {
-        "q": "What do freshwater fish do to maintain their osmoregulation?",
-        "options": [
-          "Excrete excess salts",
-          "Retain water",
-          "Excrete excess water",
-          "Close their stomata"
+          "To capture sunlight",
+          "To produce carbon dioxide",
+          "To convert light energy into chemical energy",
+          "To absorb nutrients"
         ],
         "correctIndex": 2,
-        "explain": "淡水魚需要排出多餘的水，以保持體內的鹽分平衡。"
+        "explain": "光合作用的主要目的是將光能轉換為化學能，這是植物生存的關鍵。"
       },
       {
-        "q": "What can be inferred about osmoregulation in plants?",
+        "q": "Where does photosynthesis occur in plants?",
         "options": [
-          "They do not regulate water",
-          "It is not affected by climate change",
-          "It helps them cope with drought",
-          "All plants have the same osmoregulation methods"
+          "In the roots",
+          "In the stems",
+          "In the leaves",
+          "In the flowers"
         ],
         "correctIndex": 2,
-        "explain": "植物在乾旱時會關閉氣孔以減少水分流失，這表明它們的調節方法有助於應對乾旱。"
+        "explain": "光合作用主要發生在植物的葉子中。"
       },
       {
-        "q": "What does the term 'turgor' refer to in the passage?",
+        "q": "Why is photosynthesis important for animals?",
         "options": [
-          "Water loss in plants",
-          "The balance of salts",
-          "Cellular pressure from water",
-          "The process of transpiration"
+          "It provides shelter",
+          "It produces food and oxygen",
+          "It absorbs carbon dioxide",
+          "It regulates temperature"
         ],
-        "correctIndex": 2,
-        "explain": "在這段文字中，'膨壓'指的是水在細胞內的壓力，這對植物的結構和穩定性至關重要。"
+        "correctIndex": 1,
+        "explain": "光合作用為動物提供食物和氧氣，這對於生物生存至關重要。"
+      },
+      {
+        "q": "What is the role of chloroplasts in photosynthesis?",
+        "options": [
+          "They store water",
+          "They capture light energy",
+          "They transport nutrients",
+          "They release oxygen"
+        ],
+        "correctIndex": 1,
+        "explain": "葉綠體的作用是捕捉光能，這對於光合作用至關重要。"
       }
     ]
   },
   "daily": {
-    "passage": "Attention students! The university library will be closed for renovations from March 1 to March 15. We apologize for any inconvenience. Please plan ahead and utilize online resources during this time.",
+    "passage": "Attention students! The library will be closed for renovations from June 1 to June 15. Please plan accordingly and ensure to borrow any books you need before this date. We apologize for any inconvenience.",
     "questions": [
       {
         "q": "When will the library be closed?",
         "options": [
-          "March 1 to March 15",
-          "March 15 to March 30",
-          "February 28 to March 1",
-          "Open all month"
+          "June 1 to June 15",
+          "July 1 to July 15",
+          "June 15 to June 30",
+          "May 1 to May 15"
         ],
         "correctIndex": 0,
-        "explain": "圖書館將在三月一日至三月十五日關閉。"
+        "explain": "圖書館將在6月1日至15日關閉。"
       },
       {
-        "q": "What should students do during the closure?",
+        "q": "What should students do before the library closes?",
         "options": [
-          "Visit the library",
-          "Use online resources",
-          "Attend classes",
-          "Work in groups"
+          "Return their books",
+          "Borrow books they need",
+          "Attend a workshop",
+          "Join a study group"
         ],
         "correctIndex": 1,
-        "explain": "在閉館期間，學生應該利用在線資源。"
+        "explain": "學生們應在圖書館關閉前借用他們需要的書籍。"
       }
     ]
   }

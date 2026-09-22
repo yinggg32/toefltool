@@ -1,45 +1,45 @@
 {
   "shadowSentences": [
-    "I love to eat pizza on weekends.",
-    "My favorite movie is about friendship.",
-    "I enjoy reading books before bedtime.",
-    "Traveling helps me learn about new cultures.",
-    "Cooking is a great way to relax for me.",
-    "I often go for walks in the park nearby.",
-    "Listening to music can change my mood quickly.",
-    "Gardening has taught me patience and care.",
-    "I think volunteering is important for the community.",
-    "Writing in a journal helps me reflect on my day."
+    "I enjoy reading books in my free time.",
+    "My favorite season is autumn because of the colors.",
+    "I like to cook new recipes on weekends.",
+    "Traveling helps me learn about different cultures.",
+    "I often listen to music while studying or working.",
+    "Hiking in the mountains is one of my favorite activities.",
+    "I usually start my day with a cup of coffee and news.",
+    "Attending live concerts is an exciting experience for me.",
+    "I believe that volunteering can greatly benefit the community.",
+    "Learning a new language opens up many opportunities in life."
   ],
   "interviewScenarios": [
     {
       "topic": "旅行經驗",
       "intro": "You have agreed to take part in a research study about travel experiences.",
       "questions": [
-        "Q1: Can you describe your most memorable travel experience?",
-        "Q2: What challenges did you face while traveling?",
-        "Q3: How do you think travel impacts a person's worldview?",
-        "Q4: What advice would you give to someone planning their first trip?"
+        "Q1: Can you share a memorable trip you have taken?",
+        "Q2: What challenges did you face during that trip?",
+        "Q3: How do you feel travel impacts your perspective on life?",
+        "Q4: What advice would you give someone planning their first trip?"
       ]
     },
     {
       "topic": "運動習慣",
       "intro": "You have agreed to take part in a research study about exercise habits.",
       "questions": [
-        "Q1: What sports or activities do you enjoy the most?",
-        "Q2: Have you ever faced any obstacles in maintaining your exercise routine?",
-        "Q3: In your opinion, how important is regular exercise for health?",
-        "Q4: What tips would you give to someone trying to get fit?"
+        "Q1: What type of exercise do you enjoy the most?",
+        "Q2: Have you ever struggled to maintain a regular workout routine?",
+        "Q3: In your opinion, why is exercise important for health?",
+        "Q4: What tips would you give someone looking to start exercising?"
       ]
     },
     {
-      "topic": "音樂偏好",
+      "topic": "音樂喜好",
       "intro": "You have agreed to take part in a research study about music preferences.",
       "questions": [
-        "Q1: What type of music do you listen to most often?",
-        "Q2: Have you ever been to a concert? What was that like?",
+        "Q1: What kind of music do you like listening to and why?",
+        "Q2: Have you ever been to a concert of your favorite artist?",
         "Q3: How do you think music influences people's emotions?",
-        "Q4: What recommendations do you have for discovering new music?"
+        "Q4: What recommendations would you give for discovering new music?"
       ]
     }
   ]

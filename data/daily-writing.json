@@ -3,124 +3,122 @@
     {
       "words": [
         "students",
-        "should",
-        "study",
-        "regularly",
-        "to",
-        "improve",
+        "must",
+        "submit",
         "their",
-        "grades"
+        "assignments",
+        "by",
+        "the",
+        "deadline"
       ],
-      "display": "Students should study regularly to improve their grades."
+      "display": "Students must submit their assignments by the deadline."
     },
     {
       "words": [
         "the",
-        "researchers",
+        "researcher",
         "discovered",
+        "a",
         "new",
-        "methods",
+        "method",
         "to",
-        "analyze",
-        "data"
+        "analyze"
       ],
-      "display": "The researchers discovered new methods to analyze data."
+      "display": "The researcher discovered a new method to analyze."
     },
     {
       "words": [
+        "climate",
+        "change",
+        "affects",
         "the",
-        "presentation",
-        "was",
-        "informative",
-        "and",
-        "engaging",
-        "for",
-        "the",
-        "audience"
-      ],
-      "display": "The presentation was informative and engaging for the audience."
-    },
-    {
-      "words": [
+        "environment",
+        "in",
         "many",
-        "people",
-        "prefer",
-        "working",
-        "remotely",
-        "due",
-        "to",
-        "flexibility"
+        "ways"
       ],
-      "display": "Many people prefer working remotely due to flexibility."
+      "display": "Climate change affects the environment in many ways."
     },
     {
       "words": [
         "the",
-        "book",
-        "offers",
-        "insightful",
-        "perspectives",
-        "on",
-        "global",
-        "issues"
-      ],
-      "display": "The book offers insightful perspectives on global issues."
-    },
-    {
-      "words": [
-        "environmental",
-        "protection",
-        "is",
-        "essential",
-        "for",
-        "sustainable",
-        "development",
-        "worldwide"
-      ],
-      "display": "Environmental protection is essential for sustainable development worldwide."
-    },
-    {
-      "words": [
+        "professor",
+        "encouraged",
         "students",
-        "should",
-        "collaborate",
-        "on",
-        "projects",
         "to",
-        "enhance",
-        "learning",
-        "experiences"
+        "participate",
+        "in",
+        "discussions"
       ],
-      "display": "Students should collaborate on projects to enhance learning experiences."
+      "display": "The professor encouraged students to participate in discussions."
+    },
+    {
+      "words": [
+        "reading",
+        "books",
+        "improves",
+        "vocabulary",
+        "and",
+        "critical",
+        "thinking",
+        "skills"
+      ],
+      "display": "Reading books improves vocabulary and critical thinking skills."
+    },
+    {
+      "words": [
+        "the",
+        "new",
+        "policy",
+        "will",
+        "impact",
+        "the",
+        "entire",
+        "community"
+      ],
+      "display": "The new policy will impact the entire community."
     },
     {
       "words": [
         "technology",
         "has",
-        "revolutionized",
+        "changed",
         "the",
         "way",
         "we",
         "communicate",
-        "everywhere"
+        "with"
       ],
-      "display": "Technology has revolutionized the way we communicate everywhere."
+      "display": "Technology has changed the way we communicate with."
+    },
+    {
+      "words": [
+        "effective",
+        "time",
+        "management",
+        "is",
+        "essential",
+        "for",
+        "academic",
+        "success"
+      ],
+      "display": "Effective time management is essential for academic success."
     }
   ],
   "emailPrompts": [
-    "寄信給教授，請求延長報告提交期限，因為近期身體健康不佳。",
-    "寄信給宿舍管理處，詢問有關房租的支付方式及截止日期。",
-    "寄信給圖書館，請求延長借書期限，因為需要更多時間閱讀。",
-    "寄信給學校社團，報名參加即將舉行的志願者活動。",
-    "寄信給客服，反映最近購買的商品有瑕疵，並要求退款。",
-    "寄信給導師，詢問關於暑期實習的建議和機會相關信息。"
+    "寄信給教授，詢問有關學期報告的具體要求和截止日期。",
+    "寄信給宿舍辦公室，要求修理水管漏水的問題。",
+    "寄信給圖書館，詢問如何借閱電子書籍。",
+    "寄信給學生活動中心，報名參加即將舉行的社團展覽會。",
+    "寄信給客服，反映產品的質量問題並要求退款。",
+    "寄信給實習導師，提醒其即將到來的實習報告提交期限。"
   ],
   "discussionPrompts": [
-    "教授問：「教育是否應該更加注重技能培養而非理論知識？」",
-    "教授問：「科技進步會對未來的工作市場產生哪些影響？」",
-    "教授問：「社交媒體對青少年的心理健康有何影響？」",
-    "教授問：「應該如何平衡經濟發展與環境保護？」",
-    "教授問：「全球化對文化多樣性有何影響？」",
-    "教授問：「政府應該在教育上投入多少資金才算合理？」"
+    "教授問：「如何看待科技在教育中的角色？」",
+    "教授問：「社會媒體對人際關係的影響是正面還是負面？」",
+    "教授問：「氣候變化的主要原因是什麼？」",
+    "教授問：「文化多樣性對社會發展的重要性？」",
+    "教授問：「人類應該如何應對全球化的挑戰？」",
+    "教授問：「藝術在表達社會問題中的功能和作用？」"
   ]
 }
