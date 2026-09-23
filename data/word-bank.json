@@ -8846,5 +8846,93 @@
     "zh": "語言復甦",
     "ex": "Language revitalization efforts aim to restore endangered languages to everyday use.",
     "cat": "📰 每日新詞：anthropology"
+  },
+  {
+    "word": "climate change",
+    "pos": "n.",
+    "root": "climate（氣候）+change（變化）",
+    "zh": "氣候變化",
+    "ex": "Climate change is affecting weather patterns and sea levels globally.",
+    "cat": "📰 每日新詞：environmental science"
+  },
+  {
+    "word": "pollinator",
+    "pos": "n.",
+    "root": "pollinate（授粉）+or（者）",
+    "zh": "授粉者",
+    "ex": "Pollinators, like bees and butterflies, play a crucial role in food production.",
+    "cat": "📰 每日新詞：environmental science"
+  },
+  {
+    "word": "sustainable practices",
+    "pos": "n.",
+    "root": "sustainable（可持續的）+practices（實踐）",
+    "zh": "可持續實踐",
+    "ex": "Sustainable practices in agriculture help preserve natural resources for future generations.",
+    "cat": "📰 每日新詞：environmental science"
+  },
+  {
+    "word": "recycling",
+    "pos": "n./v.",
+    "root": "re（再次）+cycle（循環）",
+    "zh": "回收",
+    "ex": "Recycling helps reduce waste and conserve natural resources.",
+    "cat": "📰 每日新詞：environmental science"
+  },
+  {
+    "word": "interdependence",
+    "pos": "n.",
+    "root": "inter（互相）+dependence（依賴）",
+    "zh": "相互依賴",
+    "ex": "The interdependence of species is vital for ecosystem health.",
+    "cat": "📰 每日新詞：environmental science"
+  },
+  {
+    "word": "ecosystem balance",
+    "pos": "n.",
+    "root": "ecosystem（生態系統）+balance（平衡）",
+    "zh": "生態系統平衡",
+    "ex": "Maintaining ecosystem balance is critical for biodiversity conservation.",
+    "cat": "📰 每日新詞：environmental science"
+  },
+  {
+    "word": "carbon neutral",
+    "pos": "adj.",
+    "root": "carbon（碳）+neutral（中性）",
+    "zh": "碳中和",
+    "ex": "A carbon neutral approach aims to balance emitted and absorbed carbon.",
+    "cat": "📰 每日新詞：environmental science"
+  },
+  {
+    "word": "soil erosion",
+    "pos": "n.",
+    "root": "soil（土壤）+erosion（侵蝕）",
+    "zh": "土壤侵蝕",
+    "ex": "Soil erosion can lead to decreased agricultural productivity and habitat loss.",
+    "cat": "📰 每日新詞：environmental science"
+  },
+  {
+    "word": "water conservation",
+    "pos": "n.",
+    "root": "water（水）+conservation（保護）",
+    "zh": "水資源保護",
+    "ex": "Water conservation is vital in regions facing drought conditions.",
+    "cat": "📰 每日新詞：environmental science"
+  },
+  {
+    "word": "environmental degradation",
+    "pos": "n.",
+    "root": "environmental（環境的）+degradation（退化）",
+    "zh": "環境退化",
+    "ex": "Environmental degradation threatens the health of our planet and future generations.",
+    "cat": "📰 每日新詞：environmental science"
+  },
+  {
+    "word": "climate mitigation",
+    "pos": "n.",
+    "root": "climate（氣候）+mitigation（減輕）",
+    "zh": "氣候緩解",
+    "ex": "Climate mitigation efforts focus on reducing greenhouse gas emissions.",
+    "cat": "📰 每日新詞：environmental science"
   }
 ]

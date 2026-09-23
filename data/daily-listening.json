@@ -1,116 +1,116 @@
 {
   "chooseResponse": [
     {
-      "q": "What time is the seminar starting?",
+      "q": "What did you think of the lecture?",
       "options": [
-        "I think it's at 10 AM.",
-        "I don't know.",
-        "Can you remind me?",
-        "Let's check the schedule."
+        "It was fascinating!",
+        "I didn't understand it.",
+        "It was too long.",
+        "I fell asleep."
       ],
       "correctIndex": 0
     }
   ],
   "conversation": {
-    "transcript": "Student: Have you registered for the seminar on renewable energy?\nAdvisor: Yes, I did! I think it's going to be really informative.\nStudent: I heard the guest speaker is quite renowned in the field.\nAdvisor: That's right! I'm looking forward to the Q&A session.",
+    "transcript": "Student: Hey, did you attend the workshop on time management?\nAdvisor: Yes, I did! It was really insightful. Did you go?\nStudent: I couldn't make it. What did they cover?\nAdvisor: They discussed various techniques to improve efficiency and balance your schedule.",
     "questions": [
       {
-        "q": "What is the main topic of the seminar?",
+        "q": "What did the workshop focus on?",
         "options": [
-          "Renewable energy",
-          "Climate change",
-          "Technology",
-          "Economics"
+          "Time management techniques",
+          "Study habits",
+          "Career planning",
+          "Financial budgeting"
         ],
         "correctIndex": 0,
-        "explain": "這個研討會的主要主題是可再生能源。"
+        "explain": "這個研討會的重點是時間管理技巧。"
       },
       {
-        "q": "Who is the guest speaker?",
+        "q": "Why couldn't the student attend?",
         "options": [
-          "A local professor",
-          "A renowned expert",
-          "A student",
-          "An industry professional"
+          "They were busy",
+          "They forgot",
+          "They were sick",
+          "They didn't want to go"
         ],
-        "correctIndex": 1,
-        "explain": "來賓講者是一位著名的專家。"
+        "correctIndex": 0,
+        "explain": "學生無法參加是因為他們很忙。"
       }
     ]
   },
   "announcement": {
-    "transcript": "Attention students! The Environmental Science Department will host a seminar on renewable energy next Thursday at 10 AM in the main auditorium. All students are encouraged to attend. Don't miss this opportunity to learn from industry experts!",
+    "transcript": "Attention all students! The library will be closed for maintenance this Saturday from 9 AM to 5 PM. Please make sure to return any books before then to avoid late fees. Thank you for your understanding.",
     "questions": [
       {
-        "q": "When will the seminar take place?",
+        "q": "Why will the library be closed?",
         "options": [
-          "Next Wednesday",
-          "Next Thursday",
-          "This Saturday",
-          "This Sunday"
+          "For maintenance",
+          "For a holiday",
+          "For inventory",
+          "For an event"
         ],
-        "correctIndex": 1,
-        "explain": "研討會將在下週四舉行。"
+        "correctIndex": 0,
+        "explain": "圖書館將因為維護而關閉。"
       },
       {
-        "q": "Where is the seminar being held?",
+        "q": "When should students return their books?",
         "options": [
-          "In the library",
-          "In the main auditorium",
-          "In the science building",
-          "In the student center"
+          "Before Saturday",
+          "After Saturday",
+          "Anytime",
+          "Next week"
         ],
-        "correctIndex": 1,
-        "explain": "研討會將在主禮堂舉行。"
+        "correctIndex": 0,
+        "explain": "學生應在星期六之前歸還書籍。"
       }
     ]
   },
   "talk": {
-    "transcript": "Today, I want to talk about renewable energy, which refers to energy sources that are replenished naturally. Common examples include solar, wind, and hydroelectric power. Unlike fossil fuels, renewable energy sources produce little to no pollution and are essential for reducing our carbon footprint. Countries around the world are investing in these technologies to combat climate change and ensure a sustainable future. The transition to renewables can also create jobs and stimulate economic growth, making it a critical area of development.",
+    "transcript": "Today, I want to talk about renewable energy sources. Renewable energy is derived from natural processes that are constantly replenished. Examples include sunlight, wind, rain, tides, waves, and geothermal heat. This type of energy is crucial in reducing our dependence on fossil fuels and minimizing environmental impact. Solar panels, for instance, convert sunlight into electricity, while wind turbines use wind to generate power. As technology advances, the efficiency of these energy sources continues to improve, making them more viable options for the future. Embracing renewable energy can lead to sustainable growth and help combat climate change.",
     "questions": [
       {
-        "q": "What are renewable energy sources?",
+        "q": "What is renewable energy?",
         "options": [
           "Energy from fossil fuels",
-          "Naturally replenished energy",
-          "Nuclear energy",
-          "Geothermal energy"
+          "Energy that is constantly replenished",
+          "Energy from nuclear sources",
+          "Energy that is always available"
         ],
         "correctIndex": 1,
-        "explain": "可再生能源是指自然補充的能源。"
+        "explain": "可再生能源是指不斷再生的能源。"
       },
       {
-        "q": "Why are renewable energy sources important?",
+        "q": "What are solar panels used for?",
         "options": [
-          "They are cheaper than fossil fuels",
-          "They produce no pollution",
-          "They are easier to access",
-          "They can be used forever"
+          "Heating water",
+          "Generating electricity",
+          "Cooling buildings",
+          "Storing energy"
         ],
         "correctIndex": 1,
-        "explain": "可再生能源重要是因為它們幾乎不會產生污染。"
+        "explain": "太陽能板是用來產生電力的。"
       },
       {
-        "q": "What is one benefit of transitioning to renewable energy?",
+        "q": "What is the main benefit of renewable energy?",
         "options": [
-          "It decreases job opportunities",
-          "It can combat climate change",
-          "It increases fossil fuel dependency",
-          "It reduces technology investments"
+          "It is free",
+          "It reduces environmental impact",
+          "It's more efficient",
+          "It can be stored easily"
         ],
         "correctIndex": 1,
-        "explain": "轉向可再生能源的好處之一是它可以對抗氣候變化。"
+        "explain": "可再生能源的主要好處是減少環境影響。"
       },
       {
-        "q": "Which renewable energy source is mentioned in the talk?",
+        "q": "What does the talk emphasize about the future?",
         "options": [
-          "Natural gas",
-          "Solar power",
-          "Coal",
-          "Nuclear power"
+          "Increasing fossil fuel use",
+          "Advancements in renewable energy technology",
+          "Decreasing energy needs",
+          "Transitioning to nuclear energy"
         ],
         "correctIndex": 1,
-        "explain": "演講中提到的可再生能源是太陽能。"
+        "explain": "這次講座強調可再生能源技術的進步。"
       }
     ]
   }

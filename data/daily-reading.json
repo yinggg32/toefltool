@@ -2,101 +2,104 @@
   "cloze": {
     "segments": [
       {
-        "text": "The process of photosynthesis is crucial for plant survival. It involves the conversion of light energy, usually from the sun, into chemical energy. This occurs primarily in the leaves where chlorophyll captures light. During this process, plants take in carbon dioxide from the air and water from the soil. The initial step includes light absorption, which triggers a series of reactions. The end products are glucose, which serves as food, and oxygen, which is released as a byproduct. This cycle is fundamental not only for plants but also for the entire ecosystem, as it provides energy for all living organisms."
+        "text": "The process of photosynth"
       },
       {
-        "blank": "synthesis"
+        "blank": "esis"
       },
       {
-        "text": " In addition to providing food, photosynthesis also plays a vital role in regulating atmospheric gases. It helps maintain the balance of carbon dioxide and oxygen in the atmosphere. Without photosynthesis, aerobic life forms would struggle to survive due to a lack of oxygen and an overabundance of carbon dioxide. Various factors can affect the rate of photosynthesis including light intensity, temperature, and CO2 concentration. Understanding this process is essential for advancements in agriculture and addressing climate change."
+        "text": " is vital for plant growth. This process allows plants to convert light energy into chemical energy, primarily through the use of chlorophyll. During photosynthesis, plants take in carbon dio"
       },
       {
-        "blank": "regu"
+        "blank": "xide"
       },
       {
-        "text": "Regulating these factors can enhance crop yields and improve food security globally. As researchers study photosynthesis more closely, they explore ways to optimize this process to support sustainable practices. Innovations in agricultural techniques driven by a deeper understanding of how photosynthesis works can lead to more resilient crops, essential for feeding a growing population."
+        "text": " from the air and water from the soil. The chlorophyll absorbs sunlight, facilitating the transformation of these raw materials into glucose and oxygen. This not only provides sustenance for the plants themselves but also contributes significantly to the environm"
       },
       {
-        "blank": "innova"
+        "blank": "ental"
       },
       {
-        "text": "Ultimately, the study of photosynthesis not only illuminates the intricacies of plant biology but also underscores the interconnectedness of all life and the importance of conserving our natural environment."
+        "text": " balance by releasing oxygen into the atmosphere. Furthermore, understanding photosynthesis is crucial for agriculture, as it helps optimize crop yields and enhances food security. As a result, researchers continue to explore ways to improve the efficiency of this essential biological p"
+      },
+      {
+        "blank": "rocess"
       }
     ]
   },
   "academic": {
-    "passage": "Photosynthesis is the process by which green plants, algae, and some bacteria convert light energy into chemical energy stored in glucose. This process takes place in the chloroplasts and involves two main stages: light-dependent reactions and the Calvin cycle. The light-dependent reactions capture energy from sunlight, while the Calvin cycle uses that energy to synthesize glucose from carbon dioxide and water. Thus, photosynthesis is essential for the survival of life on Earth, as it provides food and oxygen, supporting both plant and animal life.",
+    "passage": "Photosynthesis is a fundamental process that occurs in green plants, enabling them to convert light energy into chemical energy. This process is crucial for the survival of plants and plays a significant role in the Earth's ecosystem. By transforming carbon dioxide and water into glucose and oxygen, photosynthesis not only supports plant life but also benefits other organisms that depend on plants for food and oxygen. Ongoing research in this field aims to enhance agricultural productivity and address global food challenges.",
     "questions": [
       {
-        "q": "What is the main purpose of photosynthesis?",
+        "q": "What is the main idea of the passage?",
         "options": [
-          "To capture sunlight",
-          "To produce carbon dioxide",
-          "To convert light energy into chemical energy",
-          "To absorb nutrients"
+          "Photosynthesis is essential for life on Earth.",
+          "Plants release oxygen during photosynthesis.",
+          "Photosynthesis improves agricultural productivity.",
+          "Chlorophyll absorbs sunlight for photosynthesis."
         ],
-        "correctIndex": 2,
-        "explain": "光合作用的主要目的是將光能轉換為化學能，這是植物生存的關鍵。"
+        "correctIndex": 0,
+        "explain": "這段文章的主要思想是光合作用對地球生命的重要性。"
       },
       {
-        "q": "Where does photosynthesis occur in plants?",
+        "q": "What do plants need for photosynthesis?",
         "options": [
-          "In the roots",
-          "In the stems",
-          "In the leaves",
-          "In the flowers"
-        ],
-        "correctIndex": 2,
-        "explain": "光合作用主要發生在植物的葉子中。"
-      },
-      {
-        "q": "Why is photosynthesis important for animals?",
-        "options": [
-          "It provides shelter",
-          "It produces food and oxygen",
-          "It absorbs carbon dioxide",
-          "It regulates temperature"
+          "Carbon dioxide and soil nutrients.",
+          "Sunlight, soil, and carbon dioxide.",
+          "Water and minerals from the soil.",
+          "Oxygen and carbon dioxide."
         ],
         "correctIndex": 1,
-        "explain": "光合作用為動物提供食物和氧氣，這對於生物生存至關重要。"
+        "explain": "植物進行光合作用需要陽光、水和二氧化碳。"
       },
       {
-        "q": "What is the role of chloroplasts in photosynthesis?",
+        "q": "What can be inferred about the importance of photosynthesis?",
         "options": [
-          "They store water",
-          "They capture light energy",
-          "They transport nutrients",
-          "They release oxygen"
+          "It is irrelevant to climate change.",
+          "It is crucial for food security.",
+          "It has no impact on oxygen levels.",
+          "It is only important for plants."
         ],
         "correctIndex": 1,
-        "explain": "葉綠體的作用是捕捉光能，這對於光合作用至關重要。"
+        "explain": "可以推斷光合作用對於糧食安全是至關重要的。"
+      },
+      {
+        "q": "What does the term 'chlorophyll' refer to in the passage?",
+        "options": [
+          "A type of plant nutrient.",
+          "A pigment necessary for photosynthesis.",
+          "The main byproduct of photosynthesis.",
+          "A process of plant growth."
+        ],
+        "correctIndex": 1,
+        "explain": "在文章中，'葉綠素'指的是進行光合作用所需的顏色素。"
       }
     ]
   },
   "daily": {
-    "passage": "Attention students! The library will be closed for renovations from June 1 to June 15. Please plan accordingly and ensure to borrow any books you need before this date. We apologize for any inconvenience.",
+    "passage": "Attention students: The library will be closed for renovations from November 1 to November 15. Please plan your study sessions accordingly and take advantage of online resources during this time.",
     "questions": [
       {
         "q": "When will the library be closed?",
         "options": [
-          "June 1 to June 15",
-          "July 1 to July 15",
-          "June 15 to June 30",
-          "May 1 to May 15"
-        ],
-        "correctIndex": 0,
-        "explain": "圖書館將在6月1日至15日關閉。"
-      },
-      {
-        "q": "What should students do before the library closes?",
-        "options": [
-          "Return their books",
-          "Borrow books they need",
-          "Attend a workshop",
-          "Join a study group"
+          "From October 1 to October 15.",
+          "From November 1 to November 15.",
+          "From December 1 to December 15.",
+          "From November 15 to November 30."
         ],
         "correctIndex": 1,
-        "explain": "學生們應在圖書館關閉前借用他們需要的書籍。"
+        "explain": "圖書館將在11月1日至11月15日關閉。"
+      },
+      {
+        "q": "What should students do during the closure?",
+        "options": [
+          "Visit other libraries nearby.",
+          "Use online resources.",
+          "Take a break from studying.",
+          "Attend library workshops."
+        ],
+        "correctIndex": 1,
+        "explain": "學生在關閉期間應利用在線資源。"
       }
     ]
   }
