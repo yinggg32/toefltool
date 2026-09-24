@@ -3,114 +3,114 @@
     {
       "q": "What did you think of the lecture?",
       "options": [
-        "It was fascinating!",
+        "It was very interesting.",
         "I didn't understand it.",
-        "It was too long.",
-        "I fell asleep."
+        "I didn't like it.",
+        "It was too long."
       ],
       "correctIndex": 0
     }
   ],
   "conversation": {
-    "transcript": "Student: Hey, did you attend the workshop on time management?\nAdvisor: Yes, I did! It was really insightful. Did you go?\nStudent: I couldn't make it. What did they cover?\nAdvisor: They discussed various techniques to improve efficiency and balance your schedule.",
+    "transcript": "Student: Hey, did you finish the group project for history class?\nProfessor: Not yet, but I'm almost done. How about you?\nStudent: I'm still waiting for feedback from my teammates.\nProfessor: Have you tried reaching out to them?",
     "questions": [
       {
-        "q": "What did the workshop focus on?",
+        "q": "What is the student waiting for?",
         "options": [
-          "Time management techniques",
-          "Study habits",
-          "Career planning",
-          "Financial budgeting"
+          "Feedback from teammates.",
+          "A response from the professor.",
+          "Help with the project.",
+          "A deadline extension."
         ],
         "correctIndex": 0,
-        "explain": "這個研討會的重點是時間管理技巧。"
+        "explain": "學生在等待來自隊友的反饋。"
       },
       {
-        "q": "Why couldn't the student attend?",
+        "q": "What is the professor's suggestion?",
         "options": [
-          "They were busy",
-          "They forgot",
-          "They were sick",
-          "They didn't want to go"
+          "To speak with the professor.",
+          "To reach out to teammates.",
+          "To finish the project alone.",
+          "To ask for more time."
         ],
-        "correctIndex": 0,
-        "explain": "學生無法參加是因為他們很忙。"
+        "correctIndex": 1,
+        "explain": "教授建議學生聯繫隊友。"
       }
     ]
   },
   "announcement": {
-    "transcript": "Attention all students! The library will be closed for maintenance this Saturday from 9 AM to 5 PM. Please make sure to return any books before then to avoid late fees. Thank you for your understanding.",
+    "transcript": "Attention students! The library will be closing early today at 5 PM due to maintenance work. Please make sure to gather your materials before then. Thank you for your understanding.",
     "questions": [
       {
-        "q": "Why will the library be closed?",
+        "q": "Why is the library closing early?",
         "options": [
-          "For maintenance",
-          "For a holiday",
-          "For inventory",
-          "For an event"
+          "For a special event.",
+          "Due to maintenance work.",
+          "Because of a holiday.",
+          "For a staff meeting."
         ],
-        "correctIndex": 0,
-        "explain": "圖書館將因為維護而關閉。"
+        "correctIndex": 1,
+        "explain": "圖書館因為維護工作而提前關閉。"
       },
       {
-        "q": "When should students return their books?",
+        "q": "What time will the library close today?",
         "options": [
-          "Before Saturday",
-          "After Saturday",
-          "Anytime",
-          "Next week"
+          "4 PM",
+          "5 PM",
+          "6 PM",
+          "7 PM"
         ],
-        "correctIndex": 0,
-        "explain": "學生應在星期六之前歸還書籍。"
+        "correctIndex": 1,
+        "explain": "圖書館今天下午5點關閉。"
       }
     ]
   },
   "talk": {
-    "transcript": "Today, I want to talk about renewable energy sources. Renewable energy is derived from natural processes that are constantly replenished. Examples include sunlight, wind, rain, tides, waves, and geothermal heat. This type of energy is crucial in reducing our dependence on fossil fuels and minimizing environmental impact. Solar panels, for instance, convert sunlight into electricity, while wind turbines use wind to generate power. As technology advances, the efficiency of these energy sources continues to improve, making them more viable options for the future. Embracing renewable energy can lead to sustainable growth and help combat climate change.",
+    "transcript": "Today, I want to discuss the concept of 'cognitive dissonance'. This is a psychological theory that describes the discomfort experienced when holding two or more conflicting beliefs or values. For instance, if a person values health but smokes, they may experience dissonance between their actions and beliefs. To reduce this discomfort, they might quit smoking or change their belief about smoking's impact on health. Understanding cognitive dissonance can help us recognize why we sometimes justify questionable behaviors or make changes to align our actions with our values.",
     "questions": [
       {
-        "q": "What is renewable energy?",
+        "q": "What is cognitive dissonance?",
         "options": [
-          "Energy from fossil fuels",
-          "Energy that is constantly replenished",
-          "Energy from nuclear sources",
-          "Energy that is always available"
+          "A theory about group behavior.",
+          "A type of mental illness.",
+          "The discomfort from conflicting beliefs.",
+          "A method for studying psychology."
         ],
-        "correctIndex": 1,
-        "explain": "可再生能源是指不斷再生的能源。"
+        "correctIndex": 2,
+        "explain": "認知失調是來自於衝突信念的痛苦。"
       },
       {
-        "q": "What are solar panels used for?",
+        "q": "What example is given in the talk?",
         "options": [
-          "Heating water",
-          "Generating electricity",
-          "Cooling buildings",
-          "Storing energy"
+          "A person who exercises regularly.",
+          "A person who smokes despite valuing health.",
+          "A student who studies hard.",
+          "A researcher who changes topics."
         ],
         "correctIndex": 1,
-        "explain": "太陽能板是用來產生電力的。"
+        "explain": "例子是抽煙者與健康價值觀之間的衝突。"
       },
       {
-        "q": "What is the main benefit of renewable energy?",
+        "q": "How might someone reduce cognitive dissonance?",
         "options": [
-          "It is free",
-          "It reduces environmental impact",
-          "It's more efficient",
-          "It can be stored easily"
+          "By ignoring their beliefs.",
+          "By changing their actions or beliefs.",
+          "By discussing it with friends.",
+          "By studying psychology."
         ],
         "correctIndex": 1,
-        "explain": "可再生能源的主要好處是減少環境影響。"
+        "explain": "通過改變行為或信念來減少認知失調。"
       },
       {
-        "q": "What does the talk emphasize about the future?",
+        "q": "What can understanding cognitive dissonance help us do?",
         "options": [
-          "Increasing fossil fuel use",
-          "Advancements in renewable energy technology",
-          "Decreasing energy needs",
-          "Transitioning to nuclear energy"
+          "Justify our behaviors.",
+          "Ignore our beliefs.",
+          "Change our values.",
+          "Study psychology more effectively."
         ],
-        "correctIndex": 1,
-        "explain": "這次講座強調可再生能源技術的進步。"
+        "correctIndex": 0,
+        "explain": "理解認知失調可以幫助我們為行為辯護。"
       }
     ]
   }

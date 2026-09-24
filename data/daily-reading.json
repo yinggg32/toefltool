@@ -2,104 +2,113 @@
   "cloze": {
     "segments": [
       {
-        "text": "The process of photosynth"
+        "text": "The process of photosynthesis is essential for plant life, as it converts sunlight into energy. This complex "
       },
       {
-        "blank": "esis"
+        "blank": "reac"
       },
       {
-        "text": " is vital for plant growth. This process allows plants to convert light energy into chemical energy, primarily through the use of chlorophyll. During photosynthesis, plants take in carbon dio"
+        "text": "tion involves several key components, including chlorophyll, which absorbs light, and carbon dioxide from the air. In "
       },
       {
-        "blank": "xide"
+        "blank": "addit"
       },
       {
-        "text": " from the air and water from the soil. The chlorophyll absorbs sunlight, facilitating the transformation of these raw materials into glucose and oxygen. This not only provides sustenance for the plants themselves but also contributes significantly to the environm"
+        "text": "ion to light and carbon dioxide, water is also required for the process. The overall result of photosynthesis is the "
       },
       {
-        "blank": "ental"
+        "blank": "produ"
       },
       {
-        "text": " balance by releasing oxygen into the atmosphere. Furthermore, understanding photosynthesis is crucial for agriculture, as it helps optimize crop yields and enhances food security. As a result, researchers continue to explore ways to improve the efficiency of this essential biological p"
+        "text": "ction of glucose, which serves as food for the plant, and oxygen, which is released into the atmosphere. This cycle "
       },
       {
-        "blank": "rocess"
+        "blank": "suppl"
+      },
+      {
+        "text": "ies energy not only to plants but also to animals and humans that rely on plants for sustenance. Understanding photosynthesis is crucial for advancements in "
+      },
+      {
+        "blank": "agricu"
+      },
+      {
+        "text": "lture and environmental science."
       }
     ]
   },
   "academic": {
-    "passage": "Photosynthesis is a fundamental process that occurs in green plants, enabling them to convert light energy into chemical energy. This process is crucial for the survival of plants and plays a significant role in the Earth's ecosystem. By transforming carbon dioxide and water into glucose and oxygen, photosynthesis not only supports plant life but also benefits other organisms that depend on plants for food and oxygen. Ongoing research in this field aims to enhance agricultural productivity and address global food challenges.",
+    "passage": "Photosynthesis is a biochemical process used by plants, algae, and some bacteria to convert light energy into chemical energy. This occurs in chloroplasts where chlorophyll captures sunlight, and water and carbon dioxide are utilized to synthesize glucose. Oxygen is released as a byproduct. The significance of photosynthesis extends beyond plant survival; it is fundamental in maintaining the Earth's atmospheric balance and providing energy for nearly all living organisms.",
     "questions": [
       {
         "q": "What is the main idea of the passage?",
         "options": [
-          "Photosynthesis is essential for life on Earth.",
-          "Plants release oxygen during photosynthesis.",
-          "Photosynthesis improves agricultural productivity.",
-          "Chlorophyll absorbs sunlight for photosynthesis."
+          "Photosynthesis is important for life on Earth.",
+          "Chlorophyll captures sunlight during photosynthesis.",
+          "Only plants can perform photosynthesis.",
+          "Oxygen is a byproduct of photosynthesis."
         ],
         "correctIndex": 0,
-        "explain": "這段文章的主要思想是光合作用對地球生命的重要性。"
+        "explain": "本文的主旨在於說明光合作用對地球生命的重要性。"
       },
       {
-        "q": "What do plants need for photosynthesis?",
+        "q": "Where does photosynthesis occur?",
         "options": [
-          "Carbon dioxide and soil nutrients.",
-          "Sunlight, soil, and carbon dioxide.",
-          "Water and minerals from the soil.",
-          "Oxygen and carbon dioxide."
+          "In the mitochondria",
+          "In the chloroplasts",
+          "In the cytoplasm",
+          "In the nucleus"
         ],
         "correctIndex": 1,
-        "explain": "植物進行光合作用需要陽光、水和二氧化碳。"
+        "explain": "光合作用發生在葉綠體中，這是植物細胞內的細胞器。"
       },
       {
-        "q": "What can be inferred about the importance of photosynthesis?",
+        "q": "What can be inferred about the role of photosynthesis for animals?",
         "options": [
-          "It is irrelevant to climate change.",
-          "It is crucial for food security.",
-          "It has no impact on oxygen levels.",
-          "It is only important for plants."
+          "Animals do not rely on plants.",
+          "Animals consume plants for energy.",
+          "Animals produce oxygen for plants.",
+          "Photosynthesis is unnecessary for animal life."
         ],
         "correctIndex": 1,
-        "explain": "可以推斷光合作用對於糧食安全是至關重要的。"
+        "explain": "由於植物是動物的食物來源，因此動物依賴光合作用所產生的能量。"
       },
       {
-        "q": "What does the term 'chlorophyll' refer to in the passage?",
+        "q": "What does the word 'biochemical' most likely refer to in this context?",
         "options": [
-          "A type of plant nutrient.",
-          "A pigment necessary for photosynthesis.",
-          "The main byproduct of photosynthesis.",
-          "A process of plant growth."
+          "Living organisms",
+          "Chemical processes",
+          "Artificial substances",
+          "Plant structures"
         ],
         "correctIndex": 1,
-        "explain": "在文章中，'葉綠素'指的是進行光合作用所需的顏色素。"
+        "explain": "在這個上下文中，'生化' 指的是與化學過程相關的生物過程。"
       }
     ]
   },
   "daily": {
-    "passage": "Attention students: The library will be closed for renovations from November 1 to November 15. Please plan your study sessions accordingly and take advantage of online resources during this time.",
+    "passage": "Attention all students! The library will have extended hours during exam week. From Monday to Friday, the library will be open from 8 AM to midnight. Please take advantage of this opportunity to study and prepare for your exams.",
     "questions": [
       {
-        "q": "When will the library be closed?",
+        "q": "When will the library have extended hours?",
         "options": [
-          "From October 1 to October 15.",
-          "From November 1 to November 15.",
-          "From December 1 to December 15.",
-          "From November 15 to November 30."
+          "During the weekends",
+          "During exam week",
+          "All year round",
+          "Only in summer"
         ],
         "correctIndex": 1,
-        "explain": "圖書館將在11月1日至11月15日關閉。"
+        "explain": "圖書館的延長開放時間僅在考試周期間。"
       },
       {
-        "q": "What should students do during the closure?",
+        "q": "What is the closing time of the library during extended hours?",
         "options": [
-          "Visit other libraries nearby.",
-          "Use online resources.",
-          "Take a break from studying.",
-          "Attend library workshops."
+          "10 PM",
+          "11 PM",
+          "Midnight",
+          "9 PM"
         ],
-        "correctIndex": 1,
-        "explain": "學生在關閉期間應利用在線資源。"
+        "correctIndex": 2,
+        "explain": "在延長開放時間內，圖書館的關閉時間為午夜。"
       }
     ]
   }
