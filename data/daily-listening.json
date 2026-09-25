@@ -1,116 +1,116 @@
 {
   "chooseResponse": [
     {
-      "q": "What did you think of the lecture?",
+      "q": "How do you feel about the new library?",
       "options": [
-        "It was very interesting.",
-        "I didn't understand it.",
-        "I didn't like it.",
-        "It was too long."
+        "It's amazing!",
+        "I don't like it.",
+        "It's too big.",
+        "I haven't visited yet."
       ],
       "correctIndex": 0
     }
   ],
   "conversation": {
-    "transcript": "Student: Hey, did you finish the group project for history class?\nProfessor: Not yet, but I'm almost done. How about you?\nStudent: I'm still waiting for feedback from my teammates.\nProfessor: Have you tried reaching out to them?",
+    "transcript": "Student: Have you checked out the new library yet?\nAdvisor: Yes, I went there last week. It's really impressive!\nStudent: I heard they have a lot of new technology.\nAdvisor: Absolutely! They have virtual reality stations and soundproof study rooms.",
     "questions": [
       {
-        "q": "What is the student waiting for?",
+        "q": "What did the advisor think of the new library?",
         "options": [
-          "Feedback from teammates.",
-          "A response from the professor.",
-          "Help with the project.",
-          "A deadline extension."
+          "It's impressive.",
+          "It's too small.",
+          "It's outdated.",
+          "It's too noisy."
         ],
         "correctIndex": 0,
-        "explain": "學生在等待來自隊友的反饋。"
+        "explain": "顧問認為新圖書館很令人印象深刻。"
       },
       {
-        "q": "What is the professor's suggestion?",
+        "q": "What feature did the advisor mention?",
         "options": [
-          "To speak with the professor.",
-          "To reach out to teammates.",
-          "To finish the project alone.",
-          "To ask for more time."
+          "New books.",
+          "Study groups.",
+          "Virtual reality stations.",
+          "Cafeteria food."
         ],
-        "correctIndex": 1,
-        "explain": "教授建議學生聯繫隊友。"
+        "correctIndex": 2,
+        "explain": "顧問提到有虛擬實境站。"
       }
     ]
   },
   "announcement": {
-    "transcript": "Attention students! The library will be closing early today at 5 PM due to maintenance work. Please make sure to gather your materials before then. Thank you for your understanding.",
+    "transcript": "Attention students: The campus gym will be closed for renovations starting next Monday and will reopen in four weeks. We apologize for any inconvenience this may cause. Remember to check your email for updates.",
     "questions": [
       {
-        "q": "Why is the library closing early?",
+        "q": "When will the gym be closed?",
         "options": [
-          "For a special event.",
-          "Due to maintenance work.",
-          "Because of a holiday.",
-          "For a staff meeting."
+          "This Friday.",
+          "Next Monday.",
+          "In two weeks.",
+          "Next month."
         ],
         "correctIndex": 1,
-        "explain": "圖書館因為維護工作而提前關閉。"
+        "explain": "健身房將於下週一關閉。"
       },
       {
-        "q": "What time will the library close today?",
+        "q": "How long will the renovations take?",
         "options": [
-          "4 PM",
-          "5 PM",
-          "6 PM",
-          "7 PM"
+          "Two weeks.",
+          "Three weeks.",
+          "Four weeks.",
+          "One month."
         ],
-        "correctIndex": 1,
-        "explain": "圖書館今天下午5點關閉。"
+        "correctIndex": 2,
+        "explain": "翻修將持續四週。"
       }
     ]
   },
   "talk": {
-    "transcript": "Today, I want to discuss the concept of 'cognitive dissonance'. This is a psychological theory that describes the discomfort experienced when holding two or more conflicting beliefs or values. For instance, if a person values health but smokes, they may experience dissonance between their actions and beliefs. To reduce this discomfort, they might quit smoking or change their belief about smoking's impact on health. Understanding cognitive dissonance can help us recognize why we sometimes justify questionable behaviors or make changes to align our actions with our values.",
+    "transcript": "Today, I will explain the concept of renewable energy. Renewable energy comes from natural sources that replenish themselves, such as sunlight, wind, and water. These energy sources are sustainable and can be used repeatedly without the risk of depletion. Solar panels convert sunlight into electricity, while wind turbines harness wind power. Hydropower utilizes flowing water to generate energy. Transitioning to renewable energy is essential for reducing greenhouse gas emissions and combating climate change.",
     "questions": [
       {
-        "q": "What is cognitive dissonance?",
+        "q": "What is renewable energy?",
         "options": [
-          "A theory about group behavior.",
-          "A type of mental illness.",
-          "The discomfort from conflicting beliefs.",
-          "A method for studying psychology."
+          "Energy from fossil fuels.",
+          "Energy from natural sources.",
+          "Energy that is always expensive.",
+          "Energy from nuclear power."
+        ],
+        "correctIndex": 1,
+        "explain": "可再生能源來自自然來源。"
+      },
+      {
+        "q": "What do solar panels do?",
+        "options": [
+          "Store water.",
+          "Convert sunlight into electricity.",
+          "Create wind.",
+          "Generate heat from coal."
+        ],
+        "correctIndex": 1,
+        "explain": "太陽能電池板將陽光轉換為電力。"
+      },
+      {
+        "q": "Why is renewable energy important?",
+        "options": [
+          "It's cheaper than fossil fuels.",
+          "It can reduce greenhouse gases.",
+          "It is easier to use.",
+          "It requires less maintenance."
+        ],
+        "correctIndex": 1,
+        "explain": "可再生能源有助於減少溫室氣體。"
+      },
+      {
+        "q": "Which renewable energy source uses flowing water?",
+        "options": [
+          "Solar power.",
+          "Wind power.",
+          "Hydropower.",
+          "Geothermal energy."
         ],
         "correctIndex": 2,
-        "explain": "認知失調是來自於衝突信念的痛苦。"
-      },
-      {
-        "q": "What example is given in the talk?",
-        "options": [
-          "A person who exercises regularly.",
-          "A person who smokes despite valuing health.",
-          "A student who studies hard.",
-          "A researcher who changes topics."
-        ],
-        "correctIndex": 1,
-        "explain": "例子是抽煙者與健康價值觀之間的衝突。"
-      },
-      {
-        "q": "How might someone reduce cognitive dissonance?",
-        "options": [
-          "By ignoring their beliefs.",
-          "By changing their actions or beliefs.",
-          "By discussing it with friends.",
-          "By studying psychology."
-        ],
-        "correctIndex": 1,
-        "explain": "通過改變行為或信念來減少認知失調。"
-      },
-      {
-        "q": "What can understanding cognitive dissonance help us do?",
-        "options": [
-          "Justify our behaviors.",
-          "Ignore our beliefs.",
-          "Change our values.",
-          "Study psychology more effectively."
-        ],
-        "correctIndex": 0,
-        "explain": "理解認知失調可以幫助我們為行為辯護。"
+        "explain": "水力發電使用流動的水。"
       }
     ]
   }

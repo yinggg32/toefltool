@@ -2,113 +2,107 @@
   "cloze": {
     "segments": [
       {
-        "text": "The process of photosynthesis is essential for plant life, as it converts sunlight into energy. This complex "
+        "text": "The theory of relativity, developed by Albert Einstein, fundamentally changed our understanding of space and time. According to this theory, the fabric of spac"
       },
       {
-        "blank": "reac"
+        "blank": "e-time"
       },
       {
-        "text": "tion involves several key components, including chlorophyll, which absorbs light, and carbon dioxide from the air. In "
+        "text": " is intertwined with the presence of mass. This means that massive objects like planets and stars can warp the spac"
       },
       {
-        "blank": "addit"
+        "blank": "e-time"
       },
       {
-        "text": "ion to light and carbon dioxide, water is also required for the process. The overall result of photosynthesis is the "
+        "text": " around them. Consequently, time can pass at different rates depending on the gravitational field one is in. For example, a clock on Earth will tick slightly s"
       },
       {
-        "blank": "produ"
+        "blank": "lower"
       },
       {
-        "text": "ction of glucose, which serves as food for the plant, and oxygen, which is released into the atmosphere. This cycle "
+        "text": " than a clock in orbit. This phenomenon has been confirmed through various experiments, demonstrating the profound implications of relativity on our comprehens"
       },
       {
-        "blank": "suppl"
+        "blank": "ion"
       },
       {
-        "text": "ies energy not only to plants but also to animals and humans that rely on plants for sustenance. Understanding photosynthesis is crucial for advancements in "
-      },
-      {
-        "blank": "agricu"
-      },
-      {
-        "text": "lture and environmental science."
+        "text": " of the universe. As scientists continue to explore the universe, these principles remain critical in the study of astrophysics and cosmology."
       }
     ]
   },
   "academic": {
-    "passage": "Photosynthesis is a biochemical process used by plants, algae, and some bacteria to convert light energy into chemical energy. This occurs in chloroplasts where chlorophyll captures sunlight, and water and carbon dioxide are utilized to synthesize glucose. Oxygen is released as a byproduct. The significance of photosynthesis extends beyond plant survival; it is fundamental in maintaining the Earth's atmospheric balance and providing energy for nearly all living organisms.",
+    "passage": "The theory of relativity, proposed by Albert Einstein, revolutionized physics by introducing concepts that challenged traditional notions of space and time. It posits that time and space are not absolute; rather, they are relative and affected by mass and speed. This insight has led to numerous advancements in physics, including understanding gravity's role in shaping the universe. The implications of relativity extend beyond theoretical physics, influencing technologies such as GPS, which must account for relativistic effects to ensure accuracy.",
     "questions": [
       {
         "q": "What is the main idea of the passage?",
         "options": [
-          "Photosynthesis is important for life on Earth.",
-          "Chlorophyll captures sunlight during photosynthesis.",
-          "Only plants can perform photosynthesis.",
-          "Oxygen is a byproduct of photosynthesis."
+          "The theory of relativity has practical applications in technology.",
+          "Albert Einstein developed the theory of relativity.",
+          "Time and space are not absolute according to relativity.",
+          "Relativity has influenced advancements in astrophysics."
+        ],
+        "correctIndex": 2,
+        "explain": "這段文字的主題是相對論中的時間和空間不是絕對的，這是相對論的重要觀點。"
+      },
+      {
+        "q": "What practical application of relativity is mentioned in the passage?",
+        "options": [
+          "Understanding black holes.",
+          "Improving telecommunications.",
+          "GPS technology.",
+          "Astronomical observations."
+        ],
+        "correctIndex": 2,
+        "explain": "文中提到 GPS 技術必須考慮到相對論效應，以確保準確性。"
+      },
+      {
+        "q": "What can be inferred about the impact of relativity on technology?",
+        "options": [
+          "It is irrelevant to modern technology.",
+          "It enhances the precision of navigation systems.",
+          "It complicates the design of satellites.",
+          "It has no effect on our daily lives."
+        ],
+        "correctIndex": 1,
+        "explain": "相對論的原則對導航系統的精確性至關重要，這表明它對技術有重要影響。"
+      },
+      {
+        "q": "What does the term 'absolute' refer to in the context of the passage?",
+        "options": [
+          "Something that is unchanging and universal.",
+          "A measurement of time without any variables.",
+          "The speed of light as a constant.",
+          "A principle that is often challenged."
         ],
         "correctIndex": 0,
-        "explain": "本文的主旨在於說明光合作用對地球生命的重要性。"
-      },
-      {
-        "q": "Where does photosynthesis occur?",
-        "options": [
-          "In the mitochondria",
-          "In the chloroplasts",
-          "In the cytoplasm",
-          "In the nucleus"
-        ],
-        "correctIndex": 1,
-        "explain": "光合作用發生在葉綠體中，這是植物細胞內的細胞器。"
-      },
-      {
-        "q": "What can be inferred about the role of photosynthesis for animals?",
-        "options": [
-          "Animals do not rely on plants.",
-          "Animals consume plants for energy.",
-          "Animals produce oxygen for plants.",
-          "Photosynthesis is unnecessary for animal life."
-        ],
-        "correctIndex": 1,
-        "explain": "由於植物是動物的食物來源，因此動物依賴光合作用所產生的能量。"
-      },
-      {
-        "q": "What does the word 'biochemical' most likely refer to in this context?",
-        "options": [
-          "Living organisms",
-          "Chemical processes",
-          "Artificial substances",
-          "Plant structures"
-        ],
-        "correctIndex": 1,
-        "explain": "在這個上下文中，'生化' 指的是與化學過程相關的生物過程。"
+        "explain": "在文中，'absolute' 指的是不變且普遍的概念，這與相對論的觀點形成對比。"
       }
     ]
   },
   "daily": {
-    "passage": "Attention all students! The library will have extended hours during exam week. From Monday to Friday, the library will be open from 8 AM to midnight. Please take advantage of this opportunity to study and prepare for your exams.",
+    "passage": "Attention students! The campus library will be closed for maintenance this Saturday. Please plan to complete your studies before then. We apologize for any inconvenience caused and appreciate your understanding.",
     "questions": [
       {
-        "q": "When will the library have extended hours?",
+        "q": "When will the campus library be closed?",
         "options": [
-          "During the weekends",
-          "During exam week",
-          "All year round",
-          "Only in summer"
+          "This Saturday.",
+          "Next Monday.",
+          "Today.",
+          "Tomorrow."
         ],
-        "correctIndex": 1,
-        "explain": "圖書館的延長開放時間僅在考試周期間。"
+        "correctIndex": 0,
+        "explain": "根據公告，校園圖書館將在本週六關閉。"
       },
       {
-        "q": "What is the closing time of the library during extended hours?",
+        "q": "Why will the library be closed?",
         "options": [
-          "10 PM",
-          "11 PM",
-          "Midnight",
-          "9 PM"
+          "For a holiday.",
+          "For maintenance.",
+          "For renovations.",
+          "For staff training."
         ],
-        "correctIndex": 2,
-        "explain": "在延長開放時間內，圖書館的關閉時間為午夜。"
+        "correctIndex": 1,
+        "explain": "圖書館將因為維護工作而關閉。"
       }
     ]
   }
