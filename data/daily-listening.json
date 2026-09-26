@@ -1,116 +1,116 @@
 {
   "chooseResponse": [
     {
-      "q": "How do you feel about the new library?",
+      "q": "What did you think of the lecture?",
       "options": [
-        "It's amazing!",
-        "I don't like it.",
-        "It's too big.",
-        "I haven't visited yet."
+        "It was enlightening.",
+        "I didn't understand it.",
+        "It was too long.",
+        "It was boring."
       ],
       "correctIndex": 0
     }
   ],
   "conversation": {
-    "transcript": "Student: Have you checked out the new library yet?\nAdvisor: Yes, I went there last week. It's really impressive!\nStudent: I heard they have a lot of new technology.\nAdvisor: Absolutely! They have virtual reality stations and soundproof study rooms.",
+    "transcript": "Student: Hey, have you heard about the new study group for biology?\nAdvisor: Yes, I think it's a great idea! Are you planning to join?\nStudent: I might, but I'm not sure if I can keep up with the material.\nAdvisor: Don't worry; it's designed for all levels. You should give it a try!",
     "questions": [
       {
-        "q": "What did the advisor think of the new library?",
+        "q": "What is the student unsure about?",
         "options": [
-          "It's impressive.",
-          "It's too small.",
-          "It's outdated.",
-          "It's too noisy."
+          "Joining the study group.",
+          "Finding the location.",
+          "Understanding the material.",
+          "Making new friends."
         ],
         "correctIndex": 0,
-        "explain": "顧問認為新圖書館很令人印象深刻。"
+        "explain": "學生對於加入學習小組感到不確定。"
       },
       {
-        "q": "What feature did the advisor mention?",
+        "q": "What does the advisor encourage the student to do?",
         "options": [
-          "New books.",
-          "Study groups.",
-          "Virtual reality stations.",
-          "Cafeteria food."
+          "Join the group.",
+          "Study alone.",
+          "Talk to the professor.",
+          "Skip the class."
         ],
-        "correctIndex": 2,
-        "explain": "顧問提到有虛擬實境站。"
+        "correctIndex": 0,
+        "explain": "顧問鼓勵學生加入這個小組。"
       }
     ]
   },
   "announcement": {
-    "transcript": "Attention students: The campus gym will be closed for renovations starting next Monday and will reopen in four weeks. We apologize for any inconvenience this may cause. Remember to check your email for updates.",
+    "transcript": "Attention students! The annual science fair will take place this Saturday in the main hall. All participants must register by Thursday. Don't miss this opportunity to showcase your projects and innovations!",
     "questions": [
       {
-        "q": "When will the gym be closed?",
+        "q": "When is the science fair scheduled?",
         "options": [
-          "This Friday.",
+          "This Saturday.",
           "Next Monday.",
-          "In two weeks.",
-          "Next month."
+          "Tomorrow.",
+          "This Friday."
         ],
-        "correctIndex": 1,
-        "explain": "健身房將於下週一關閉。"
+        "correctIndex": 0,
+        "explain": "科學博覽會定於本週六舉行。"
       },
       {
-        "q": "How long will the renovations take?",
+        "q": "What must participants do by Thursday?",
         "options": [
-          "Two weeks.",
-          "Three weeks.",
-          "Four weeks.",
-          "One month."
+          "Bring materials.",
+          "Register for the fair.",
+          "Prepare a presentation.",
+          "Invite friends."
         ],
-        "correctIndex": 2,
-        "explain": "翻修將持續四週。"
+        "correctIndex": 1,
+        "explain": "參與者必須在週四之前註冊。"
       }
     ]
   },
   "talk": {
-    "transcript": "Today, I will explain the concept of renewable energy. Renewable energy comes from natural sources that replenish themselves, such as sunlight, wind, and water. These energy sources are sustainable and can be used repeatedly without the risk of depletion. Solar panels convert sunlight into electricity, while wind turbines harness wind power. Hydropower utilizes flowing water to generate energy. Transitioning to renewable energy is essential for reducing greenhouse gas emissions and combating climate change.",
+    "transcript": "Today, we will discuss the concept of photosynthesis. This process occurs in plants, algae, and some bacteria, allowing them to convert light energy into chemical energy. During photosynthesis, plants take in carbon dioxide from the air and water from the soil, using sunlight to create glucose, which serves as food. Oxygen is released as a byproduct, making this process crucial for life on Earth.",
     "questions": [
       {
-        "q": "What is renewable energy?",
+        "q": "What is primarily produced during photosynthesis?",
         "options": [
-          "Energy from fossil fuels.",
-          "Energy from natural sources.",
-          "Energy that is always expensive.",
-          "Energy from nuclear power."
+          "Glucose.",
+          "Carbon dioxide.",
+          "Sunlight.",
+          "Oxygen."
         ],
-        "correctIndex": 1,
-        "explain": "可再生能源來自自然來源。"
+        "correctIndex": 0,
+        "explain": "光合作用的主要產物是葡萄糖。"
       },
       {
-        "q": "What do solar panels do?",
+        "q": "What do plants absorb to perform photosynthesis?",
         "options": [
-          "Store water.",
-          "Convert sunlight into electricity.",
-          "Create wind.",
-          "Generate heat from coal."
+          "Carbon dioxide and sunlight.",
+          "Water and glucose.",
+          "Oxygen and carbon dioxide.",
+          "Sugar and minerals."
         ],
-        "correctIndex": 1,
-        "explain": "太陽能電池板將陽光轉換為電力。"
+        "correctIndex": 0,
+        "explain": "植物在進行光合作用時吸收二氧化碳和陽光。"
       },
       {
-        "q": "Why is renewable energy important?",
+        "q": "What role does sunlight play in photosynthesis?",
         "options": [
-          "It's cheaper than fossil fuels.",
-          "It can reduce greenhouse gases.",
-          "It is easier to use.",
-          "It requires less maintenance."
+          "It provides energy.",
+          "It absorbs carbon dioxide.",
+          "It creates glucose.",
+          "It cools the plant."
         ],
-        "correctIndex": 1,
-        "explain": "可再生能源有助於減少溫室氣體。"
+        "correctIndex": 0,
+        "explain": "陽光提供能量以進行光合作用。"
       },
       {
-        "q": "Which renewable energy source uses flowing water?",
+        "q": "Why is photosynthesis important for life on Earth?",
         "options": [
-          "Solar power.",
-          "Wind power.",
-          "Hydropower.",
-          "Geothermal energy."
+          "It produces oxygen.",
+          "It prevents soil erosion.",
+          "It helps plants grow taller.",
+          "It attracts insects."
         ],
-        "correctIndex": 2,
-        "explain": "水力發電使用流動的水。"
+        "correctIndex": 0,
+        "explain": "光合作用對地球生命的重要性在於它產生氧氣。"
       }
     ]
   }

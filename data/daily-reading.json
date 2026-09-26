@@ -2,107 +2,101 @@
   "cloze": {
     "segments": [
       {
-        "text": "The theory of relativity, developed by Albert Einstein, fundamentally changed our understanding of space and time. According to this theory, the fabric of spac"
+        "text": "The concept of genetic d"
       },
       {
-        "blank": "e-time"
+        "blank": "iversity"
       },
       {
-        "text": " is intertwined with the presence of mass. This means that massive objects like planets and stars can warp the spac"
+        "text": " is crucial in understanding how species evolve. Genetic diversity refers to the total number of genetic characteristics in the genetic makeup of a species. It enables populations to adapt to changing environments and can lead to greater resilience against diseases. For example, higher genetic d"
       },
       {
-        "blank": "e-time"
+        "blank": "iversity"
       },
       {
-        "text": " around them. Consequently, time can pass at different rates depending on the gravitational field one is in. For example, a clock on Earth will tick slightly s"
+        "text": " in plants can improve agricultural yields. This diversity is often enhanced through mechanisms like mutation and sexual reproduction, which introduce new genetic material into the gene pool. Therefore, a loss of genetic d"
       },
       {
-        "blank": "lower"
+        "blank": "iversity"
       },
       {
-        "text": " than a clock in orbit. This phenomenon has been confirmed through various experiments, demonstrating the profound implications of relativity on our comprehens"
-      },
-      {
-        "blank": "ion"
-      },
-      {
-        "text": " of the universe. As scientists continue to explore the universe, these principles remain critical in the study of astrophysics and cosmology."
+        "text": " can threaten the survival of species, making it important for conservation efforts to maintain healthy populations with a wide range of genetic variations."
       }
     ]
   },
   "academic": {
-    "passage": "The theory of relativity, proposed by Albert Einstein, revolutionized physics by introducing concepts that challenged traditional notions of space and time. It posits that time and space are not absolute; rather, they are relative and affected by mass and speed. This insight has led to numerous advancements in physics, including understanding gravity's role in shaping the universe. The implications of relativity extend beyond theoretical physics, influencing technologies such as GPS, which must account for relativistic effects to ensure accuracy.",
+    "passage": "Genetic diversity is fundamental to the survival of species. It encompasses the variety of genes within a population, providing resilience to environmental changes and diseases. Populations with high genetic diversity can adapt more readily to changes, ensuring their survival. Conservation strategies often focus on maintaining this diversity through habitat protection and breeding programs. Without it, species face increased extinction risks. Understanding genetic diversity helps inform conservation policies and practices, making it a vital area of study in biodiversity research.",
     "questions": [
       {
         "q": "What is the main idea of the passage?",
         "options": [
-          "The theory of relativity has practical applications in technology.",
-          "Albert Einstein developed the theory of relativity.",
-          "Time and space are not absolute according to relativity.",
-          "Relativity has influenced advancements in astrophysics."
-        ],
-        "correctIndex": 2,
-        "explain": "這段文字的主題是相對論中的時間和空間不是絕對的，這是相對論的重要觀點。"
-      },
-      {
-        "q": "What practical application of relativity is mentioned in the passage?",
-        "options": [
-          "Understanding black holes.",
-          "Improving telecommunications.",
-          "GPS technology.",
-          "Astronomical observations."
-        ],
-        "correctIndex": 2,
-        "explain": "文中提到 GPS 技術必須考慮到相對論效應，以確保準確性。"
-      },
-      {
-        "q": "What can be inferred about the impact of relativity on technology?",
-        "options": [
-          "It is irrelevant to modern technology.",
-          "It enhances the precision of navigation systems.",
-          "It complicates the design of satellites.",
-          "It has no effect on our daily lives."
-        ],
-        "correctIndex": 1,
-        "explain": "相對論的原則對導航系統的精確性至關重要，這表明它對技術有重要影響。"
-      },
-      {
-        "q": "What does the term 'absolute' refer to in the context of the passage?",
-        "options": [
-          "Something that is unchanging and universal.",
-          "A measurement of time without any variables.",
-          "The speed of light as a constant.",
-          "A principle that is often challenged."
+          "Genetic diversity is vital for species survival.",
+          "Conservation efforts can be harmful.",
+          "Species adapt through behavioral changes.",
+          "Genetic diversity has little impact on evolution."
         ],
         "correctIndex": 0,
-        "explain": "在文中，'absolute' 指的是不變且普遍的概念，這與相對論的觀點形成對比。"
+        "explain": "這段文的主旨是強調基因多樣性對物種生存的重要性。"
+      },
+      {
+        "q": "What role does genetic diversity play according to the passage?",
+        "options": [
+          "It decreases extinction rates.",
+          "It enhances adaptability to changes.",
+          "It has no impact on adaptation.",
+          "It leads to increased mutation rates."
+        ],
+        "correctIndex": 1,
+        "explain": "基因多樣性增強了物種對環境變化的適應能力。"
+      },
+      {
+        "q": "What can be inferred about species with low genetic diversity?",
+        "options": [
+          "They are more resilient to change.",
+          "They are likely to go extinct.",
+          "They adapt quickly to new environments.",
+          "They are unaffected by diseases."
+        ],
+        "correctIndex": 1,
+        "explain": "基因多樣性低的物種可能面臨更高的滅絕風險。"
+      },
+      {
+        "q": "What does the term 'conservation strategies' refer to?",
+        "options": [
+          "Methods to increase genetic mutation.",
+          "Efforts to protect and maintain biodiversity.",
+          "Techniques for observing species behavior.",
+          "Policies to promote urban development."
+        ],
+        "correctIndex": 1,
+        "explain": "保護策略是指為保護和維持生物多樣性而採取的努力。"
       }
     ]
   },
   "daily": {
-    "passage": "Attention students! The campus library will be closed for maintenance this Saturday. Please plan to complete your studies before then. We apologize for any inconvenience caused and appreciate your understanding.",
+    "passage": "Attention students: The library will be closed for maintenance this Saturday from 9 AM to 5 PM. Please plan accordingly and return any borrowed materials before this time. Thank you for your understanding.",
     "questions": [
       {
-        "q": "When will the campus library be closed?",
+        "q": "When will the library be closed?",
         "options": [
-          "This Saturday.",
-          "Next Monday.",
-          "Today.",
-          "Tomorrow."
+          "This Saturday from 9 AM to 5 PM.",
+          "Next Monday from 9 AM to 5 PM.",
+          "This Friday from 8 AM to 4 PM.",
+          "Next Saturday from 10 AM to 6 PM."
         ],
         "correctIndex": 0,
-        "explain": "根據公告，校園圖書館將在本週六關閉。"
+        "explain": "圖書館將在這個星期六的上午9點到下午5點關閉。"
       },
       {
-        "q": "Why will the library be closed?",
+        "q": "What should students do regarding borrowed materials?",
         "options": [
-          "For a holiday.",
-          "For maintenance.",
-          "For renovations.",
-          "For staff training."
+          "Return them after the closing time.",
+          "Return them before the library closes.",
+          "Keep them until next week.",
+          "Renew them online."
         ],
         "correctIndex": 1,
-        "explain": "圖書館將因為維護工作而關閉。"
+        "explain": "學生應在圖書館關閉之前歸還借出的資料。"
       }
     ]
   }
