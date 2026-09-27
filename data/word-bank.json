@@ -8958,5 +8958,45 @@
     "zh": "以用戶為中心的",
     "ex": "User-centered design improves the overall experience of digital products.",
     "cat": "📰 每日新詞：technology and innovation"
+  },
+  {
+    "word": "emperor",
+    "pos": "n.",
+    "root": "imper-命令 + -or 人",
+    "zh": "皇帝，帝王",
+    "ex": "The emperor instituted reforms to modernize the empire.",
+    "cat": "📰 每日新詞：history"
+  },
+  {
+    "word": "nation-state",
+    "pos": "n.",
+    "root": "nation-國家 + state-狀態",
+    "zh": "民族國家",
+    "ex": "The concept of the nation-state emerged in the early modern period.",
+    "cat": "📰 每日新詞：history"
+  },
+  {
+    "word": "exile",
+    "pos": "n./v.",
+    "root": "ex-外 + ile-去",
+    "zh": "流亡，放逐",
+    "ex": "He lived in exile for many years after the political coup.",
+    "cat": "📰 每日新詞：history"
+  },
+  {
+    "word": "stratigraphy",
+    "pos": "n.",
+    "root": "strati-層 + -graphy 寫作",
+    "zh": "地層學",
+    "ex": "Stratigraphy is essential for understanding the geological history of an area.",
+    "cat": "📰 每日新詞：history"
+  },
+  {
+    "word": "anarchy",
+    "pos": "n.",
+    "root": "an-無 + archy-統治",
+    "zh": "無政府狀態",
+    "ex": "The country descended into anarchy after the collapse of the government.",
+    "cat": "📰 每日新詞：history"
   }
 ]

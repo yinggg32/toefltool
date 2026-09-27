@@ -1,116 +1,116 @@
 {
   "chooseResponse": [
     {
-      "q": "What did you think of the lecture?",
+      "q": "What time is the meeting?",
       "options": [
-        "It was enlightening.",
-        "I didn't understand it.",
-        "It was too long.",
-        "It was boring."
+        "At 3 PM.",
+        "I didn't schedule it.",
+        "It's in another room.",
+        "Let's cancel it."
       ],
       "correctIndex": 0
     }
   ],
   "conversation": {
-    "transcript": "Student: Hey, have you heard about the new study group for biology?\nAdvisor: Yes, I think it's a great idea! Are you planning to join?\nStudent: I might, but I'm not sure if I can keep up with the material.\nAdvisor: Don't worry; it's designed for all levels. You should give it a try!",
+    "transcript": "Student: Hey, have you heard about the new study group?\nAdvisor: Yes, I just got the email about it. Have you signed up?\nStudent: Not yet, but I think I will. Do you think it's helpful?\nAdvisor: Definitely! It can really boost your understanding of the material.",
     "questions": [
       {
-        "q": "What is the student unsure about?",
+        "q": "What is the main topic of the conversation?",
         "options": [
-          "Joining the study group.",
-          "Finding the location.",
-          "Understanding the material.",
-          "Making new friends."
+          "A study group",
+          "A class schedule",
+          "An exam date",
+          "A project deadline"
         ],
         "correctIndex": 0,
-        "explain": "學生對於加入學習小組感到不確定。"
+        "explain": "這段對話的主要話題是學習小組。"
       },
       {
-        "q": "What does the advisor encourage the student to do?",
+        "q": "What advice does the advisor give?",
         "options": [
-          "Join the group.",
-          "Study alone.",
-          "Talk to the professor.",
-          "Skip the class."
+          "To avoid the study group",
+          "To join the study group",
+          "To talk to the professor",
+          "To study alone"
         ],
-        "correctIndex": 0,
-        "explain": "顧問鼓勵學生加入這個小組。"
+        "correctIndex": 1,
+        "explain": "顧問建議學生加入學習小組。"
       }
     ]
   },
   "announcement": {
-    "transcript": "Attention students! The annual science fair will take place this Saturday in the main hall. All participants must register by Thursday. Don't miss this opportunity to showcase your projects and innovations!",
+    "transcript": "Attention students: The library will be closed this Saturday for maintenance. Please make sure to check out any books you need before then. We apologize for any inconvenience this may cause and appreciate your understanding.",
     "questions": [
       {
-        "q": "When is the science fair scheduled?",
+        "q": "Why will the library be closed?",
         "options": [
-          "This Saturday.",
-          "Next Monday.",
-          "Tomorrow.",
-          "This Friday."
-        ],
-        "correctIndex": 0,
-        "explain": "科學博覽會定於本週六舉行。"
-      },
-      {
-        "q": "What must participants do by Thursday?",
-        "options": [
-          "Bring materials.",
-          "Register for the fair.",
-          "Prepare a presentation.",
-          "Invite friends."
+          "For events",
+          "For maintenance",
+          "For renovations",
+          "For cleaning"
         ],
         "correctIndex": 1,
-        "explain": "參與者必須在週四之前註冊。"
+        "explain": "圖書館關閉的原因是維修。"
+      },
+      {
+        "q": "When will the library be closed?",
+        "options": [
+          "This Friday",
+          "This Saturday",
+          "Next Monday",
+          "Next Saturday"
+        ],
+        "correctIndex": 1,
+        "explain": "圖書館將於本週六關閉。"
       }
     ]
   },
   "talk": {
-    "transcript": "Today, we will discuss the concept of photosynthesis. This process occurs in plants, algae, and some bacteria, allowing them to convert light energy into chemical energy. During photosynthesis, plants take in carbon dioxide from the air and water from the soil, using sunlight to create glucose, which serves as food. Oxygen is released as a byproduct, making this process crucial for life on Earth.",
+    "transcript": "Today, we will discuss the concept of renewable energy. Renewable energy comes from sources that are naturally replenished, like sunlight, wind, and water. Unlike fossil fuels, renewable energy is sustainable and reduces greenhouse gas emissions. This makes it an essential part of combating climate change. Technologies such as solar panels and wind turbines harness these energy sources to provide electricity, heat, and transportation fuels. As the world faces environmental challenges, transitioning to renewable energy is crucial for a sustainable future.",
     "questions": [
       {
-        "q": "What is primarily produced during photosynthesis?",
+        "q": "What is renewable energy?",
         "options": [
-          "Glucose.",
-          "Carbon dioxide.",
-          "Sunlight.",
-          "Oxygen."
+          "Energy from fossil fuels",
+          "Sustainable energy sources",
+          "Energy that is always available",
+          "Nuclear energy"
         ],
-        "correctIndex": 0,
-        "explain": "光合作用的主要產物是葡萄糖。"
+        "correctIndex": 1,
+        "explain": "可再生能源是可持續的能源來源。"
       },
       {
-        "q": "What do plants absorb to perform photosynthesis?",
+        "q": "Why is renewable energy important?",
         "options": [
-          "Carbon dioxide and sunlight.",
-          "Water and glucose.",
-          "Oxygen and carbon dioxide.",
-          "Sugar and minerals."
+          "It uses more fossil fuels",
+          "It increases emissions",
+          "It combats climate change",
+          "It is more expensive"
         ],
-        "correctIndex": 0,
-        "explain": "植物在進行光合作用時吸收二氧化碳和陽光。"
+        "correctIndex": 2,
+        "explain": "可再生能源對抗氣候變化非常重要。"
       },
       {
-        "q": "What role does sunlight play in photosynthesis?",
+        "q": "Which of the following is a source of renewable energy?",
         "options": [
-          "It provides energy.",
-          "It absorbs carbon dioxide.",
-          "It creates glucose.",
-          "It cools the plant."
+          "Natural gas",
+          "Solar power",
+          "Coal",
+          "Nuclear power"
         ],
-        "correctIndex": 0,
-        "explain": "陽光提供能量以進行光合作用。"
+        "correctIndex": 1,
+        "explain": "太陽能是一種可再生能源的來源。"
       },
       {
-        "q": "Why is photosynthesis important for life on Earth?",
+        "q": "What technologies are mentioned for harnessing renewable energy?",
         "options": [
-          "It produces oxygen.",
-          "It prevents soil erosion.",
-          "It helps plants grow taller.",
-          "It attracts insects."
+          "Wind turbines and solar panels",
+          "Coal plants",
+          "Natural gas equipment",
+          "Hydraulic systems"
         ],
         "correctIndex": 0,
-        "explain": "光合作用對地球生命的重要性在於它產生氧氣。"
+        "explain": "提到的技術是風力渦輪機和太陽能板。"
       }
     ]
   }

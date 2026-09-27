@@ -1,45 +1,45 @@
 {
   "shadowSentences": [
-    "I love reading books in my free time.",
-    "The weather is really nice today, isn't it?",
-    "I enjoy cooking different recipes on weekends.",
-    "My favorite movie is something I can watch again.",
-    "Traveling to new places always brings me joy.",
-    "I often listen to music while I work or study.",
-    "Learning a new language can be quite challenging.",
-    "Going for a walk helps me clear my mind and relax.",
-    "I think volunteering is a great way to give back to the community.",
-    "Building strong relationships with friends and family is important for happiness."
+    "I enjoy reading books in my free time.",
+    "The weather is perfect for a picnic today.",
+    "Traveling to new places opens your mind.",
+    "Cooking new recipes can be a fun challenge.",
+    "Watching movies with friends is always enjoyable.",
+    "Learning a new language takes time and effort.",
+    "Gardening helps me relax after a long day.",
+    "Listening to music can boost your mood significantly.",
+    "Volunteering in the community is a rewarding experience.",
+    "Finding a hobby you love can greatly improve your life."
   ],
   "interviewScenarios": [
     {
-      "topic": "飲食習慣",
-      "intro": "You have agreed to take part in a research study about dietary habits.",
+      "topic": "旅行經歷",
+      "intro": "You have agreed to take part in a research study about travel experiences.",
       "questions": [
-        "Q1: What are some of your favorite meals to eat?",
-        "Q2: Have you ever faced any challenges maintaining a healthy diet?",
-        "Q3: In your opinion, how important is it to eat healthy food?",
-        "Q4: What advice would you give someone trying to improve their diet?"
+        "Q1: Can you tell me about a memorable trip you took?",
+        "Q2: What challenges did you face while traveling?",
+        "Q3: How do you think travel affects our perspective on life?",
+        "Q4: What advice would you give someone planning their first trip?"
       ]
     },
     {
-      "topic": "休閒活動",
-      "intro": "You have agreed to take part in a research study about leisure activities.",
+      "topic": "運動習慣",
+      "intro": "You have agreed to take part in a research study about exercise habits.",
       "questions": [
-        "Q1: What do you enjoy doing in your spare time?",
-        "Q2: Have you ever struggled to find time for your hobbies?",
-        "Q3: How do you think leisure activities affect our well-being?",
-        "Q4: What suggestions do you have for someone looking to start a new hobby?"
+        "Q1: What types of exercise do you enjoy the most?",
+        "Q2: Have you ever struggled to maintain a workout routine?",
+        "Q3: In your opinion, how important is regular exercise for health?",
+        "Q4: What tips would you offer to someone starting a new fitness journey?"
       ]
     },
     {
-      "topic": "環保意識",
-      "intro": "You have agreed to take part in a research study about environmental awareness.",
+      "topic": "音樂欣賞",
+      "intro": "You have agreed to take part in a research study about music appreciation.",
       "questions": [
-        "Q1: What actions do you take to be environmentally friendly?",
-        "Q2: Have you encountered any difficulties in living sustainably?",
-        "Q3: What is your view on the importance of protecting the environment?",
-        "Q4: What recommendations would you give to someone wanting to adopt a greener lifestyle?"
+        "Q1: What kind of music do you listen to regularly?",
+        "Q2: Have you ever attended a live music concert, and how was it?",
+        "Q3: Why do you think music is significant in our lives?",
+        "Q4: What recommendations do you have for someone exploring new music genres?"
       ]
     }
   ]
