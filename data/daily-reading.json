@@ -2,110 +2,107 @@
   "cloze": {
     "segments": [
       {
-        "text": "The theory of e"
+        "text": "The process of photosynthesis is essential for plants, converting sunlight into energy. Chlorophyll, the green pigment found in plants, plays a crucial role in this pr"
       },
       {
-        "blank": "volution"
+        "blank": "ocess"
       },
       {
-        "text": " explains how species adapt to their environments over time. This process occurs through natural se"
+        "text": ". During photosynthesis, carbon dioxide from the air and water from the soil are absorbed by the plant. In the presence of sunlight, these components are transformed into gla"
       },
       {
-        "blank": "lection"
+        "blank": "ucose"
       },
       {
-        "text": ", where individuals with advantageous traits are more likely to survive and reproduce. Genetic variations in a population are crucial for evol"
+        "text": ", which serves as food for the plant. Oxygen is released as a byproduct, contributing to the atmosphere. This entire cycle is vital for life on Earth, as it supports ec"
       },
       {
-        "blank": "ution"
+        "blank": "osystems"
       },
       {
-        "text": ". Over generations, these variations can lead to the emergence of new species. This mechanism has been observed in various organisms, including p"
+        "text": ", providing energy for various organisms. Furthermore, understanding photosynthesis can lead to advancements in agricultural practices and renewable energy sources, highlighting its im"
       },
       {
-        "blank": "lants"
+        "blank": "portance"
       },
       {
-        "text": " and animals, demonstrating the dynamic nature of life. The study of evolution offers insights into biodiversity and informs conservation ef"
-      },
-      {
-        "blank": "forts"
+        "text": ". Researchers continue to study this process to find ways to enhance crop yield and sustainability."
       }
     ]
   },
   "academic": {
-    "passage": "The theory of evolution, first formulated by Charles Darwin, describes the process by which species undergo changes over time through natural selection. Organisms that possess traits favorable for their environment are better equipped to survive and reproduce. This leads to the gradual development of new species and explains the diversity of life on Earth. The understanding of evolution not only sheds light on biological processes but also has significant implications for fields such as medicine, ecology, and conservation.",
+    "passage": "Photosynthesis is a biochemical process utilized by plants to convert light energy into chemical energy. During this process, plants absorb carbon dioxide and water, using sunlight to produce glucose and oxygen. This cycle not only aids in plant growth but also plays a significant role in the Earth's ecosystem by providing oxygen. Understanding how photosynthesis works can help improve agricultural practices and promote sustainability.",
     "questions": [
       {
         "q": "What is the main idea of the passage?",
         "options": [
-          "The theory of evolution explains the diversity of life.",
-          "Natural selection is the process by which species change.",
-          "Charles Darwin first formulated the theory of evolution.",
-          "The passage discusses the implications of evolution."
+          "Photosynthesis is important for plant growth.",
+          "Photosynthesis produces glucose and oxygen.",
+          "Chlorophyll absorbs sunlight.",
+          "Photosynthesis aids in agriculture."
         ],
         "correctIndex": 0,
-        "explain": "這段文字的主題是進化理論如何解釋生命的多樣性。"
+        "explain": "此段落的主要論點是光合作用對植物生長的重要性。"
       },
       {
-        "q": "Who first formulated the theory of evolution?",
+        "q": "What do plants absorb during photosynthesis?",
         "options": [
-          "Albert Einstein",
-          "Charles Darwin",
-          "Isaac Newton",
-          "Gregor Mendel"
+          "Nutrients from the soil.",
+          "Carbon dioxide and water.",
+          "Sunlight only.",
+          "Oxygen from the air."
         ],
         "correctIndex": 1,
-        "explain": "查爾斯·達爾文是進化理論的創始人。"
+        "explain": "植物在光合作用過程中吸收二氧化碳和水。"
       },
       {
-        "q": "What can be inferred about species without advantageous traits?",
+        "q": "Why is understanding photosynthesis significant for agriculture?",
         "options": [
-          "They are more likely to survive.",
-          "They may struggle to reproduce.",
-          "They contribute to biodiversity.",
-          "They evolve faster."
+          "It helps reduce carbon emissions.",
+          "It leads to better crop yields and sustainability.",
+          "It decreases the need for sunlight.",
+          "It eliminates the need for water."
         ],
         "correctIndex": 1,
-        "explain": "沒有優勢特徵的物種可能會面臨生存和繁殖的困難。"
+        "explain": "了解光合作用對於改善農作物產量和可持續性至關重要。"
       },
       {
-        "q": "What does 'natural selection' mean in the context of the passage?",
+        "q": "What does the term 'biochemical process' refer to in the context of the passage?",
         "options": [
-          "The process by which organisms choose their mates.",
-          "The mechanism that causes species to become extinct.",
-          "The survival of organisms with favorable traits.",
-          "The creation of new species in a lab."
+          "A process involving chemical reactions in living organisms.",
+          "A method of energy production in machines.",
+          "A physical change in plant structure.",
+          "A process that occurs only in animals."
         ],
-        "correctIndex": 2,
-        "explain": "在文中，自然選擇是指那些擁有有利特徵的生物存活下來的過程。"
+        "correctIndex": 0,
+        "explain": "在此上下文中，'生化過程'指的是在生物體內發生的化學反應。"
       }
     ]
   },
   "daily": {
-    "passage": "Attention students! The library will be closed for maintenance on Saturday from 9 AM to 5 PM. Please plan accordingly and return your books before this time.",
+    "passage": "Attention students: The library will be closed for renovations from March 1 to March 15. Please plan your study sessions accordingly. We apologize for the inconvenience and thank you for your understanding.",
     "questions": [
       {
         "q": "When will the library be closed?",
         "options": [
-          "Friday all day",
-          "Saturday from 9 AM to 5 PM",
-          "Sunday afternoon",
-          "Monday morning"
+          "From February 1 to February 15.",
+          "From March 1 to March 15.",
+          "From April 1 to April 15.",
+          "From May 1 to May 15."
         ],
         "correctIndex": 1,
-        "explain": "圖書館將在星期六上午9點至下午5點關閉。"
+        "explain": "圖書館將於3月1日至3月15日關閉。"
       },
       {
-        "q": "What should students do before Saturday?",
+        "q": "What should students do regarding their study sessions?",
         "options": [
-          "Borrow more books",
-          "Return their books",
-          "Study in the library",
-          "Attend a workshop"
+          "They should ignore the closure.",
+          "They need to plan accordingly.",
+          "They can still use the library.",
+          "They should find other places to study."
         ],
         "correctIndex": 1,
-        "explain": "學生應在星期六之前歸還圖書。"
+        "explain": "學生應該根據圖書館關閉的時間來計劃他們的學習時間。"
       }
     ]
   }

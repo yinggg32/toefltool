@@ -1,116 +1,116 @@
 {
   "chooseResponse": [
     {
-      "q": "What time is the meeting?",
+      "q": "What should I do about my lost book?",
       "options": [
-        "At 3 PM.",
-        "I didn't schedule it.",
-        "It's in another room.",
-        "Let's cancel it."
+        "Ask the library staff",
+        "Buy a new one",
+        "Check online",
+        "Leave it alone"
       ],
       "correctIndex": 0
     }
   ],
   "conversation": {
-    "transcript": "Student: Hey, have you heard about the new study group?\nAdvisor: Yes, I just got the email about it. Have you signed up?\nStudent: Not yet, but I think I will. Do you think it's helpful?\nAdvisor: Definitely! It can really boost your understanding of the material.",
+    "transcript": "Student: Hey, I can't find my biology textbook anywhere!  \nAdvisor: Have you checked the library? They might have a copy.  \nStudent: Yeah, but I think I left it in the cafeteria.  \nAdvisor: You should ask the library staff if they found it.  \nStudent: Great idea! I'll do that right now.",
     "questions": [
       {
-        "q": "What is the main topic of the conversation?",
+        "q": "Where did the student last see the textbook?",
         "options": [
-          "A study group",
-          "A class schedule",
-          "An exam date",
-          "A project deadline"
-        ],
-        "correctIndex": 0,
-        "explain": "這段對話的主要話題是學習小組。"
-      },
-      {
-        "q": "What advice does the advisor give?",
-        "options": [
-          "To avoid the study group",
-          "To join the study group",
-          "To talk to the professor",
-          "To study alone"
+          "In the library",
+          "In the cafeteria",
+          "At home",
+          "In the classroom"
         ],
         "correctIndex": 1,
-        "explain": "顧問建議學生加入學習小組。"
+        "explain": "學生上次在自助餐廳看到教科書。"
+      },
+      {
+        "q": "What does the advisor suggest?",
+        "options": [
+          "To buy a new book",
+          "To ask library staff",
+          "To check online",
+          "To leave it alone"
+        ],
+        "correctIndex": 1,
+        "explain": "顧問建議學生詢問圖書館工作人員。"
       }
     ]
   },
   "announcement": {
-    "transcript": "Attention students: The library will be closed this Saturday for maintenance. Please make sure to check out any books you need before then. We apologize for any inconvenience this may cause and appreciate your understanding.",
+    "transcript": "Attention students! The annual Spring Festival will be held this Saturday on the campus lawn. There will be food, games, and live music. Bring your friends and enjoy the festivities! For more information, check the student portal.",
     "questions": [
       {
-        "q": "Why will the library be closed?",
+        "q": "What is happening this Saturday?",
         "options": [
-          "For events",
-          "For maintenance",
-          "For renovations",
-          "For cleaning"
+          "A exam",
+          "A Spring Festival",
+          "A class trip",
+          "A guest lecture"
         ],
         "correctIndex": 1,
-        "explain": "圖書館關閉的原因是維修。"
+        "explain": "本週六將舉辦春季節慶。"
       },
       {
-        "q": "When will the library be closed?",
+        "q": "Where will the Spring Festival take place?",
         "options": [
-          "This Friday",
-          "This Saturday",
-          "Next Monday",
-          "Next Saturday"
+          "In the cafeteria",
+          "On the campus lawn",
+          "In the gym",
+          "At the library"
         ],
         "correctIndex": 1,
-        "explain": "圖書館將於本週六關閉。"
+        "explain": "春季節慶將在校園草坪上舉行。"
       }
     ]
   },
   "talk": {
-    "transcript": "Today, we will discuss the concept of renewable energy. Renewable energy comes from sources that are naturally replenished, like sunlight, wind, and water. Unlike fossil fuels, renewable energy is sustainable and reduces greenhouse gas emissions. This makes it an essential part of combating climate change. Technologies such as solar panels and wind turbines harness these energy sources to provide electricity, heat, and transportation fuels. As the world faces environmental challenges, transitioning to renewable energy is crucial for a sustainable future.",
+    "transcript": "Today, we're going to discuss the concept of renewable energy. Renewable energy comes from sources that are naturally replenished. This includes solar energy, wind energy, and hydroelectric power. Each of these sources has its own advantages, such as sustainability and low environmental impact. For example, solar panels convert sunlight into electricity, while wind turbines use wind to generate power. As we face climate change, understanding and utilizing renewable energy is essential for a sustainable future.",
     "questions": [
       {
         "q": "What is renewable energy?",
         "options": [
           "Energy from fossil fuels",
-          "Sustainable energy sources",
-          "Energy that is always available",
-          "Nuclear energy"
+          "Energy from natural sources",
+          "Energy from nuclear power",
+          "Energy from coal"
         ],
         "correctIndex": 1,
-        "explain": "可再生能源是可持續的能源來源。"
+        "explain": "可再生能源是來自自然來源的能源。"
+      },
+      {
+        "q": "Which source of energy uses sunlight?",
+        "options": [
+          "Wind energy",
+          "Hydroelectric power",
+          "Solar energy",
+          "Coal energy"
+        ],
+        "correctIndex": 2,
+        "explain": "太陽能是利用陽光的能源。"
+      },
+      {
+        "q": "What is a benefit of renewable energy?",
+        "options": [
+          "High cost",
+          "Environmental impact",
+          "Sustainability",
+          "Limited availability"
+        ],
+        "correctIndex": 2,
+        "explain": "可再生能源的好處是可持續性。"
       },
       {
         "q": "Why is renewable energy important?",
         "options": [
-          "It uses more fossil fuels",
-          "It increases emissions",
-          "It combats climate change",
-          "It is more expensive"
+          "To increase pollution",
+          "To waste resources",
+          "To combat climate change",
+          "To rely on fossil fuels"
         ],
         "correctIndex": 2,
         "explain": "可再生能源對抗氣候變化非常重要。"
-      },
-      {
-        "q": "Which of the following is a source of renewable energy?",
-        "options": [
-          "Natural gas",
-          "Solar power",
-          "Coal",
-          "Nuclear power"
-        ],
-        "correctIndex": 1,
-        "explain": "太陽能是一種可再生能源的來源。"
-      },
-      {
-        "q": "What technologies are mentioned for harnessing renewable energy?",
-        "options": [
-          "Wind turbines and solar panels",
-          "Coal plants",
-          "Natural gas equipment",
-          "Hydraulic systems"
-        ],
-        "correctIndex": 0,
-        "explain": "提到的技術是風力渦輪機和太陽能板。"
       }
     ]
   }

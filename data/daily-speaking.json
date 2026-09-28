@@ -1,45 +1,45 @@
 {
   "shadowSentences": [
-    "I enjoy reading books in my free time.",
-    "The weather is perfect for a picnic today.",
-    "Traveling to new places opens your mind.",
-    "Cooking new recipes can be a fun challenge.",
-    "Watching movies with friends is always enjoyable.",
-    "Learning a new language takes time and effort.",
-    "Gardening helps me relax after a long day.",
-    "Listening to music can boost your mood significantly.",
-    "Volunteering in the community is a rewarding experience.",
-    "Finding a hobby you love can greatly improve your life."
+    "The sun sets in the west.",
+    "I enjoy reading mystery novels.",
+    "Cooking helps me relax after work.",
+    "Traveling opens your mind to new cultures.",
+    "Listening to music can boost your mood.",
+    "A walk in nature is good for your health.",
+    "Many people prefer online shopping these days.",
+    "Learning a new language can be challenging yet rewarding.",
+    "Volunteering in your community can create a positive impact.",
+    "Keeping a journal can help you reflect on your thoughts and feelings."
   ],
   "interviewScenarios": [
     {
-      "topic": "旅行經歷",
+      "topic": "旅行經驗",
       "intro": "You have agreed to take part in a research study about travel experiences.",
       "questions": [
-        "Q1: Can you tell me about a memorable trip you took?",
-        "Q2: What challenges did you face while traveling?",
-        "Q3: How do you think travel affects our perspective on life?",
-        "Q4: What advice would you give someone planning their first trip?"
+        "Q1: Can you share a memorable travel experience you've had?",
+        "Q2: What challenges did you face during that trip?",
+        "Q3: How do you feel travel impacts personal growth?",
+        "Q4: What advice would you give to someone planning their first trip?"
       ]
     },
     {
       "topic": "運動習慣",
       "intro": "You have agreed to take part in a research study about exercise habits.",
       "questions": [
-        "Q1: What types of exercise do you enjoy the most?",
-        "Q2: Have you ever struggled to maintain a workout routine?",
-        "Q3: In your opinion, how important is regular exercise for health?",
-        "Q4: What tips would you offer to someone starting a new fitness journey?"
+        "Q1: What type of exercise do you enjoy the most?",
+        "Q2: Have you ever struggled to stay motivated to exercise?",
+        "Q3: In your opinion, why is regular exercise important?",
+        "Q4: What tips would you give to someone new to working out?"
       ]
     },
     {
-      "topic": "音樂欣賞",
-      "intro": "You have agreed to take part in a research study about music appreciation.",
+      "topic": "網路購物",
+      "intro": "You have agreed to take part in a research study about online shopping.",
       "questions": [
-        "Q1: What kind of music do you listen to regularly?",
-        "Q2: Have you ever attended a live music concert, and how was it?",
-        "Q3: Why do you think music is significant in our lives?",
-        "Q4: What recommendations do you have for someone exploring new music genres?"
+        "Q1: How often do you shop online, and what do you usually buy?",
+        "Q2: Have you ever had a negative experience while shopping online?",
+        "Q3: What do you think are the pros and cons of online shopping?",
+        "Q4: What recommendations would you give to someone who is hesitant about online shopping?"
       ]
     }
   ]
