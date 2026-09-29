@@ -9006,5 +9006,61 @@
     "zh": "語境化",
     "ex": "Contextualization is crucial for interpreting the meanings of utterances in conversation.",
     "cat": "📰 每日新詞：linguistics"
+  },
+  {
+    "word": "balance",
+    "pos": "n./v.",
+    "root": "平衡—balance",
+    "zh": "平衡；均衡",
+    "ex": "The architect achieved a perfect balance between form and function in the design.",
+    "cat": "📰 每日新詞：art and architecture"
+  },
+  {
+    "word": "contrast",
+    "pos": "n./v.",
+    "root": "對比—contrast",
+    "zh": "對比；對照",
+    "ex": "The contrast between the old and new buildings highlights the city's architectural evolution.",
+    "cat": "📰 每日新詞：art and architecture"
+  },
+  {
+    "word": "decoration",
+    "pos": "n.",
+    "root": "裝飾—decorate",
+    "zh": "裝飾；裝飾品",
+    "ex": "The decoration of the cathedral includes intricate stained glass windows.",
+    "cat": "📰 每日新詞：art and architecture"
+  },
+  {
+    "word": "element",
+    "pos": "n.",
+    "root": "元素—element",
+    "zh": "元素；要素",
+    "ex": "Light is a crucial element in the appreciation of visual art.",
+    "cat": "📰 每日新詞：art and architecture"
+  },
+  {
+    "word": "expression",
+    "pos": "n.",
+    "root": "表達—express",
+    "zh": "表達；表現",
+    "ex": "Art serves as a powerful expression of human emotion.",
+    "cat": "📰 每日新詞：art and architecture"
+  },
+  {
+    "word": "ambiance",
+    "pos": "n.",
+    "root": "氛圍—ambiance",
+    "zh": "氛圍；情調",
+    "ex": "The ambiance of the gallery enhances the viewer's experience.",
+    "cat": "📰 每日新詞：art and architecture"
+  },
+  {
+    "word": "context",
+    "pos": "n.",
+    "root": "上下文—context",
+    "zh": "背景；上下文",
+    "ex": "Understanding the historical context of the artwork is essential for interpretation.",
+    "cat": "📰 每日新詞：art and architecture"
   }
 ]

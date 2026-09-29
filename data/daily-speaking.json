@@ -1,45 +1,45 @@
 {
   "shadowSentences": [
-    "The sun sets in the west.",
-    "I enjoy reading mystery novels.",
-    "Cooking helps me relax after work.",
-    "Traveling opens your mind to new cultures.",
-    "Listening to music can boost your mood.",
-    "A walk in nature is good for your health.",
-    "Many people prefer online shopping these days.",
-    "Learning a new language can be challenging yet rewarding.",
-    "Volunteering in your community can create a positive impact.",
-    "Keeping a journal can help you reflect on your thoughts and feelings."
+    "I enjoy reading books every day.",
+    "My favorite hobby is painting landscapes.",
+    "Traveling teaches us about different cultures.",
+    "Cooking new dishes can be a fun experience.",
+    "Listening to music helps me relax after work.",
+    "Gardening is a great way to spend time outdoors.",
+    "Volunteering in my community brings me joy.",
+    "Learning a new language opens many opportunities.",
+    "Exercising regularly improves both physical and mental health.",
+    "Exploring local events helps me connect with my neighbors."
   ],
   "interviewScenarios": [
     {
-      "topic": "旅行經驗",
-      "intro": "You have agreed to take part in a research study about travel experiences.",
+      "topic": "健康飲食",
+      "intro": "You have agreed to take part in a research study about healthy eating habits.",
       "questions": [
-        "Q1: Can you share a memorable travel experience you've had?",
-        "Q2: What challenges did you face during that trip?",
-        "Q3: How do you feel travel impacts personal growth?",
-        "Q4: What advice would you give to someone planning their first trip?"
+        "Q1: Can you describe your daily eating habits?",
+        "Q2: What challenges do you face when trying to eat healthy?",
+        "Q3: How important do you think healthy eating is for overall well-being?",
+        "Q4: What advice would you give to someone wanting to improve their diet?"
       ]
     },
     {
-      "topic": "運動習慣",
-      "intro": "You have agreed to take part in a research study about exercise habits.",
+      "topic": "戶外活動",
+      "intro": "You have agreed to take part in a research study about outdoor activities.",
       "questions": [
-        "Q1: What type of exercise do you enjoy the most?",
-        "Q2: Have you ever struggled to stay motivated to exercise?",
-        "Q3: In your opinion, why is regular exercise important?",
-        "Q4: What tips would you give to someone new to working out?"
+        "Q1: What outdoor activities do you enjoy the most?",
+        "Q2: Have you ever faced any difficulties when participating in outdoor activities?",
+        "Q3: In your opinion, why are outdoor activities important for people?",
+        "Q4: What suggestions would you make for someone new to outdoor activities?"
       ]
     },
     {
-      "topic": "網路購物",
-      "intro": "You have agreed to take part in a research study about online shopping.",
+      "topic": "職場人際關係",
+      "intro": "You have agreed to take part in a research study about workplace relationships.",
       "questions": [
-        "Q1: How often do you shop online, and what do you usually buy?",
-        "Q2: Have you ever had a negative experience while shopping online?",
-        "Q3: What do you think are the pros and cons of online shopping?",
-        "Q4: What recommendations would you give to someone who is hesitant about online shopping?"
+        "Q1: How would you describe your relationships with your coworkers?",
+        "Q2: What challenges have you encountered in building workplace relationships?",
+        "Q3: How do you think good relationships at work impact productivity?",
+        "Q4: What tips can you offer for improving relationships with colleagues?"
       ]
     }
   ]

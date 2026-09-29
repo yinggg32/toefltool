@@ -1,116 +1,116 @@
 {
   "chooseResponse": [
     {
-      "q": "What should I do about my lost book?",
+      "q": "What did you think of the lecture?",
       "options": [
-        "Ask the library staff",
-        "Buy a new one",
-        "Check online",
-        "Leave it alone"
+        "It was interesting!",
+        "I didn't like it.",
+        "I want more details.",
+        "It was confusing."
       ],
       "correctIndex": 0
     }
   ],
   "conversation": {
-    "transcript": "Student: Hey, I can't find my biology textbook anywhere!  \nAdvisor: Have you checked the library? They might have a copy.  \nStudent: Yeah, but I think I left it in the cafeteria.  \nAdvisor: You should ask the library staff if they found it.  \nStudent: Great idea! I'll do that right now.",
+    "transcript": "Student: Did you attend the guest lecture on environmental science?\nProfessor: Yes, I found it very insightful. What did you think about it?\nStudent: I thought it was great, especially the part about renewable energy.\nProfessor: I agree! It's such an important topic in today's world.",
     "questions": [
       {
-        "q": "Where did the student last see the textbook?",
+        "q": "What did the student think of the lecture?",
         "options": [
-          "In the library",
-          "In the cafeteria",
-          "At home",
-          "In the classroom"
+          "It was boring.",
+          "It was great.",
+          "It was too long.",
+          "It was irrelevant."
         ],
         "correctIndex": 1,
-        "explain": "學生上次在自助餐廳看到教科書。"
+        "explain": "學生認為這場講座很棒。"
       },
       {
-        "q": "What does the advisor suggest?",
+        "q": "What topic did the professor and student discuss?",
         "options": [
-          "To buy a new book",
-          "To ask library staff",
-          "To check online",
-          "To leave it alone"
+          "History of art.",
+          "Renewable energy.",
+          "Mathematics.",
+          "Psychology."
         ],
         "correctIndex": 1,
-        "explain": "顧問建議學生詢問圖書館工作人員。"
+        "explain": "他們討論了可再生能源。"
       }
     ]
   },
   "announcement": {
-    "transcript": "Attention students! The annual Spring Festival will be held this Saturday on the campus lawn. There will be food, games, and live music. Bring your friends and enjoy the festivities! For more information, check the student portal.",
+    "transcript": "Attention students! The library will be closed for renovations starting next Monday. It is expected to reopen in two weeks. Please make sure to check out any materials you need before then. Thank you for your understanding!",
     "questions": [
       {
-        "q": "What is happening this Saturday?",
+        "q": "When will the library close?",
         "options": [
-          "A exam",
-          "A Spring Festival",
-          "A class trip",
-          "A guest lecture"
+          "Next Friday.",
+          "Next Monday.",
+          "This Friday.",
+          "In two weeks."
         ],
         "correctIndex": 1,
-        "explain": "本週六將舉辦春季節慶。"
+        "explain": "圖書館將在下星期一關閉。"
       },
       {
-        "q": "Where will the Spring Festival take place?",
+        "q": "How long will the library be closed?",
         "options": [
-          "In the cafeteria",
-          "On the campus lawn",
-          "In the gym",
-          "At the library"
+          "One week.",
+          "Two weeks.",
+          "Three weeks.",
+          "A month."
         ],
         "correctIndex": 1,
-        "explain": "春季節慶將在校園草坪上舉行。"
+        "explain": "圖書館預計會關閉兩週。"
       }
     ]
   },
   "talk": {
-    "transcript": "Today, we're going to discuss the concept of renewable energy. Renewable energy comes from sources that are naturally replenished. This includes solar energy, wind energy, and hydroelectric power. Each of these sources has its own advantages, such as sustainability and low environmental impact. For example, solar panels convert sunlight into electricity, while wind turbines use wind to generate power. As we face climate change, understanding and utilizing renewable energy is essential for a sustainable future.",
+    "transcript": "Today, we will discuss the concept of ecological footprints. An ecological footprint measures the environmental impact of an individual or community, quantifying how much nature we use to support our lifestyle. It includes factors like energy consumption, waste production, and resource use. By calculating our ecological footprints, we can understand our contributions to environmental issues, such as climate change and habitat destruction. Reducing our footprint can involve simple actions like recycling, conserving water, and choosing sustainable products. It is important for everyone to be aware of their ecological impact and work towards a more sustainable future.",
     "questions": [
       {
-        "q": "What is renewable energy?",
+        "q": "What is an ecological footprint?",
         "options": [
-          "Energy from fossil fuels",
-          "Energy from natural sources",
-          "Energy from nuclear power",
-          "Energy from coal"
+          "A measurement of financial assets.",
+          "A measure of environmental impact.",
+          "A type of social behavior.",
+          "A calculation of academic performance."
         ],
         "correctIndex": 1,
-        "explain": "可再生能源是來自自然來源的能源。"
+        "explain": "生態足跡是衡量環境影響的指標。"
       },
       {
-        "q": "Which source of energy uses sunlight?",
+        "q": "What factors are included in the ecological footprint?",
         "options": [
-          "Wind energy",
-          "Hydroelectric power",
-          "Solar energy",
-          "Coal energy"
+          "Only carbon emissions.",
+          "Energy consumption and waste production.",
+          "Only water usage.",
+          "Travel distances."
         ],
-        "correctIndex": 2,
-        "explain": "太陽能是利用陽光的能源。"
+        "correctIndex": 1,
+        "explain": "包括能源消耗和廢物產生等因素。"
       },
       {
-        "q": "What is a benefit of renewable energy?",
+        "q": "How can individuals reduce their ecological footprint?",
         "options": [
-          "High cost",
-          "Environmental impact",
-          "Sustainability",
-          "Limited availability"
+          "By spending more money.",
+          "By recycling and conserving water.",
+          "By using more plastic.",
+          "By traveling more often."
         ],
-        "correctIndex": 2,
-        "explain": "可再生能源的好處是可持續性。"
+        "correctIndex": 1,
+        "explain": "透過回收和節約用水來減少生態足跡。"
       },
       {
-        "q": "Why is renewable energy important?",
+        "q": "Why is it important to be aware of ecological footprints?",
         "options": [
-          "To increase pollution",
-          "To waste resources",
-          "To combat climate change",
-          "To rely on fossil fuels"
+          "To improve academic grades.",
+          "To understand environmental issues.",
+          "To increase social interactions.",
+          "To gain financial benefits."
         ],
-        "correctIndex": 2,
-        "explain": "可再生能源對抗氣候變化非常重要。"
+        "correctIndex": 1,
+        "explain": "了解生態足跡對環境問題的重要性。"
       }
     ]
   }
