@@ -2,145 +2,123 @@
   "buildSentences": [
     {
       "words": [
+        "students",
+        "study",
+        "hard",
+        "to",
+        "achieve",
+        "their",
+        "academic",
+        "goals"
+      ],
+      "display": "Students study hard to achieve their academic goals."
+    },
+    {
+      "words": [
         "the",
+        "environmental",
         "impact",
         "of",
-        "climate",
-        "change",
-        "on",
-        "global",
-        "food",
-        "security"
-      ],
-      "display": "The impact of climate change on global food security."
-    },
-    {
-      "words": [
-        "the",
-        "importance",
-        "of",
-        "learning",
-        "multiple",
-        "languages",
-        "in",
-        "a",
-        "globalized",
-        "world"
-      ],
-      "display": "The importance of learning multiple languages in a globalized world."
-    },
-    {
-      "words": [
-        "technology",
-        "has",
-        "greatly",
-        "influenced",
-        "the",
-        "way",
-        "we",
-        "communicate",
-        "today"
-      ],
-      "display": "Technology has greatly influenced the way we communicate today."
-    },
-    {
-      "words": [
-        "students",
-        "should",
-        "participate",
-        "in",
-        "extracurricular",
+        "human",
         "activities",
-        "to",
-        "enhance",
-        "their",
-        "social",
-        "skills"
+        "is",
+        "significant"
       ],
-      "display": "Students should participate in extracurricular activities to enhance their social skills."
+      "display": "The environmental impact of human activities is significant."
     },
     {
       "words": [
-        "renewable",
-        "energy",
-        "sources",
+        "reading",
+        "a",
+        "variety",
+        "of",
+        "books",
+        "can",
+        "enhance",
+        "vocabulary"
+      ],
+      "display": "Reading a variety of books can enhance vocabulary."
+    },
+    {
+      "words": [
+        "communication",
+        "skills",
         "are",
         "essential",
         "for",
-        "sustainable",
-        "development",
+        "success",
         "in",
-        "the",
-        "future"
+        "business"
       ],
-      "display": "Renewable energy sources are essential for sustainable development in the future."
+      "display": "Communication skills are essential for success in business."
     },
     {
       "words": [
         "the",
-        "role",
+        "results",
         "of",
-        "art",
-        "in",
-        "society",
-        "can",
-        "be",
-        "seen",
-        "through",
-        "various",
-        "expressions"
+        "the",
+        "experiment",
+        "confirmed",
+        "the",
+        "hypothesis"
       ],
-      "display": "The role of art in society can be seen through various expressions."
+      "display": "The results of the experiment confirmed the hypothesis."
     },
     {
       "words": [
-        "volunteering",
-        "can",
-        "help",
-        "students",
-        "develop",
-        "leadership",
-        "skills",
-        "and",
-        "gain",
-        "real",
-        "world",
-        "experience"
+        "many",
+        "people",
+        "believe",
+        "that",
+        "technology",
+        "improves",
+        "our",
+        "lives"
       ],
-      "display": "Volunteering can help students develop leadership skills and gain real world experience."
+      "display": "Many people believe that technology improves our lives."
     },
     {
       "words": [
-        "the",
-        "advancements",
-        "in",
-        "medicine",
-        "have",
-        "significantly",
-        "improved",
-        "patients",
-        "lives",
-        "over",
-        "the",
-        "years"
+        "exercising",
+        "regularly",
+        "can",
+        "lead",
+        "to",
+        "better",
+        "mental",
+        "health"
       ],
-      "display": "The advancements in medicine have significantly improved patients' lives over the years."
+      "display": "Exercising regularly can lead to better mental health."
+    },
+    {
+      "words": [
+        "cultural",
+        "exchange",
+        "programs",
+        "promote",
+        "understanding",
+        "between",
+        "nations",
+        "globally"
+      ],
+      "display": "Cultural exchange programs promote understanding between nations globally."
     }
   ],
   "emailPrompts": [
-    "寄信給宿舍辦公室，詢問租約續約的手續。",
-    "寄信給圖書館，請求延長書籍的歸還期限。",
-    "寄信給學校社團，表達參加新成員說明會的意願。",
-    "寄信給顧客服務，反映最近購買商品的不良體驗。",
-    "寄信給教授，請教課堂上不懂的內容。",
-    "寄信給學校行政部門，詢問獎學金申請的流程。"
+    "寄信給教授，請教有關期末報告的要求和截止日期。",
+    "寄信給宿舍辦公室，反映公共區域的衛生問題，希望改善。",
+    "寄信給圖書館，詢問新書的上架時間和借閱政策。",
+    "寄信給學生會，表達希望能舉辦文化交流活動的想法。",
+    "寄信給客服，投訴最近購買的產品有品質問題，請求退貨。",
+    "寄信給校園健身中心，詢問健身課程的時間表和報名方式。"
   ],
   "discussionPrompts": [
-    "教授問：「科技的進步對人際關係有何影響？」",
-    "教授問：「如何看待大學教育的費用與其帶來的收益？」",
-    "教授問：「社交媒體是否對青少年心理健康有負面影響？」",
-    "教授問：「全球化對本土文化的影響是正面還是負面？」",
-    "教授問：「氣候變遷應該優先由哪些國家解決？」",
-    "教授問：「人工智慧的發展是否會取代人類工作？」"
+    "教授問：「你認為科技對人際關係的影響是正面的還是負面的？」",
+    "教授問：「在學術界，是否應該強調實用技能而非純理論？」",
+    "教授問：「如何看待全球暖化對經濟的影響？」",
+    "教授問：「社交媒體對青少年心理健康的影響是什麼？」",
+    "教授問：「文化多樣性在現代社會中的重要性體現在哪些方面？」",
+    "教授問：「教育體系應如何應對日益增長的科技需求？」"
   ]
 }

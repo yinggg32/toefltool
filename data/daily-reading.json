@@ -2,113 +2,107 @@
   "cloze": {
     "segments": [
       {
-        "text": "The concept of ecolo"
+        "text": "The human brain is a complex organ that plays a critical role in controlling various body functions and processing information. One of the primary functions of the brain is to manage the body's "
       },
       {
-        "blank": "gy"
+        "blank": "hormo"
       },
       {
-        "text": " plays a vital role in understanding the relationships between organisms and their environments. It examines how biotic and abiotic factors "
+        "text": "s, which are chemical messengers that regulate numerous processes, including mood, growth, and metabolism. The brain communicates with the rest of the body through the "
       },
       {
-        "blank": "inter"
+        "blank": "nerv"
       },
       {
-        "text": "act to shape ecosystems. For instance, the availability of nutrients and water influences plant "
+        "text": "ous system, which includes the spinal cord and a network of neurons. An essential aspect of brain function is its ability to adapt, or "
       },
       {
-        "blank": "gro"
+        "blank": "neuropl"
       },
       {
-        "text": "wth, which in turn affects herbivores. Moreover, the study of ecological succession reveals how communities "
+        "text": "asticity, which allows it to change and reorganize itself in response to new experiences. Additionally, the brain is divided into several regions, each responsible for specific tasks, such as "
       },
       {
-        "blank": "evo"
+        "blank": "cogni"
       },
       {
-        "text": "lve over time, adapting to changes such as climate variations or human impact. Understanding these processes is essential for "
-      },
-      {
-        "blank": "con"
-      },
-      {
-        "text": "servation efforts aimed at preserving biodiversity."
+        "text": "tion, emotion, and memory. Understanding how the brain works is vital for advancing medical therapies and enhancing cognitive function."
       }
     ]
   },
   "academic": {
-    "passage": "Ecology is the branch of biology that studies the interactions between organisms and their environment. It encompasses various levels of biological organization, from individuals to populations, communities, and ecosystems. Understanding these interactions is crucial for effective environmental management and conservation. By examining the relationships between species and their habitats, ecologists can identify factors that contribute to ecosystem stability and resilience. This knowledge aids in addressing environmental issues such as habitat destruction and climate change.",
+    "passage": "The human brain is a remarkably intricate organ responsible for various functions, including thought processing, emotional regulation, and motor coordination. Its complexity arises from the interplay of different regions, each specialized for distinct tasks. For instance, the prefrontal cortex is critical for decision-making, while the amygdala plays a role in emotional responses. Moreover, the brain exhibits neuroplasticity, allowing it to adapt to new experiences and environments. This adaptability is essential for learning and recovery from injuries. Understanding the brain's functions not only deepens our knowledge of human behavior but also informs medical practices related to mental health and neurological disorders.",
     "questions": [
       {
-        "q": "What is the main focus of the passage?",
+        "q": "What is the main idea of the passage?",
         "options": [
-          "Interactions between organisms and their environment",
-          "The history of biological studies",
-          "Different levels of biological organization",
-          "Practical applications of ecological research"
+          "The brain is critical for various functions",
+          "Neuroplasticity is the most important aspect of the brain",
+          "Each region of the brain has a different function",
+          "The brain's complexity makes it hard to study"
         ],
         "correctIndex": 0,
-        "explain": "這段文字的重點是有關生物與其環境之間的互動。"
+        "explain": "本文的主要思想是大腦對各種功能至關重要。"
       },
       {
-        "q": "What is one application of ecological studies mentioned?",
+        "q": "Which part of the brain is responsible for decision-making?",
         "options": [
-          "Identifying species",
-          "Forecasting weather patterns",
-          "Addressing environmental issues",
-          "Studying human evolution"
+          "Amygdala",
+          "Prefrontal cortex",
+          "Hippocampus",
+          "Cerebellum"
         ],
-        "correctIndex": 2,
-        "explain": "提到的應用是解決環境問題，顯示生態學的實際重要性。"
+        "correctIndex": 1,
+        "explain": "前額葉皮層是負責決策的部分。"
       },
       {
-        "q": "What can be inferred about the role of ecologists?",
+        "q": "What can be inferred about neuroplasticity?",
         "options": [
-          "They only study animals.",
-          "They focus exclusively on theoretical concepts.",
-          "They contribute to environmental management.",
-          "They do not interact with communities."
+          "It only occurs in childhood",
+          "It is essential for recovery from injuries",
+          "It makes the brain weaker",
+          "It has no impact on learning"
         ],
-        "correctIndex": 2,
-        "explain": "可以推斷生態學家對環境管理的貢獻是至關重要的。"
+        "correctIndex": 1,
+        "explain": "神經可塑性對於從傷害中恢復是必不可少的。"
       },
       {
-        "q": "What does the term 'resilience' in the passage likely mean?",
+        "q": "What does the term 'neuroplasticity' refer to?",
         "options": [
-          "Strength to recover",
-          "Failure to adapt",
-          "Lack of diversity",
-          "Growth rate of species"
+          "The brain's ability to grow in size",
+          "The brain's ability to adapt and reorganize",
+          "The brain's inability to change",
+          "The brain's structure during childhood"
         ],
-        "correctIndex": 0,
-        "explain": "在這段文字中，'resilience' 的意思是能夠恢復的能力。"
+        "correctIndex": 1,
+        "explain": "神經可塑性是指大腦的適應和重新組織能力。"
       }
     ]
   },
   "daily": {
-    "passage": "Attention students! The library will be closed for maintenance this weekend. Please plan your study schedule accordingly. We apologize for any inconvenience this may cause and appreciate your understanding.",
+    "passage": "Attention students! The campus library will be closed for maintenance this weekend, starting Friday at 5 PM and reopening on Monday at 9 AM. Please plan your study sessions accordingly.",
     "questions": [
+      {
+        "q": "When will the library reopen?",
+        "options": [
+          "Friday at 5 PM",
+          "Saturday at 9 AM",
+          "Sunday at 9 AM",
+          "Monday at 9 AM"
+        ],
+        "correctIndex": 3,
+        "explain": "圖書館在星期一早上9點重新開放。"
+      },
       {
         "q": "Why will the library be closed?",
         "options": [
-          "For new book arrivals",
-          "For maintenance",
           "For a special event",
-          "For staff training"
+          "For maintenance",
+          "For inventory",
+          "For holiday"
         ],
         "correctIndex": 1,
-        "explain": "圖書館因維護工作而關閉。"
-      },
-      {
-        "q": "When will the library be closed?",
-        "options": [
-          "Next week",
-          "This weekend",
-          "Tonight",
-          "All month"
-        ],
-        "correctIndex": 1,
-        "explain": "圖書館將在這個週末關閉。"
+        "explain": "圖書館因維護而關閉。"
       }
     ]
   }

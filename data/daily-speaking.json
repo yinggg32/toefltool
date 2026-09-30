@@ -1,45 +1,45 @@
 {
   "shadowSentences": [
-    "I enjoy reading books every day.",
-    "My favorite hobby is painting landscapes.",
-    "Traveling teaches us about different cultures.",
-    "Cooking new dishes can be a fun experience.",
-    "Listening to music helps me relax after work.",
-    "Gardening is a great way to spend time outdoors.",
-    "Volunteering in my community brings me joy.",
-    "Learning a new language opens many opportunities.",
-    "Exercising regularly improves both physical and mental health.",
-    "Exploring local events helps me connect with my neighbors."
+    "I will call you tomorrow.",
+    "The weather is nice today.",
+    "Can you help me with this?",
+    "She enjoys reading books at night.",
+    "They often play soccer in the park.",
+    "I bought a new bicycle last week.",
+    "He likes to travel to different countries.",
+    "Cooking can be a fun and rewarding hobby.",
+    "Many people prefer online shopping over going to stores.",
+    "Learning a new language opens many doors for you."
   ],
   "interviewScenarios": [
     {
-      "topic": "健康飲食",
-      "intro": "You have agreed to take part in a research study about healthy eating habits.",
+      "topic": "學習習慣",
+      "intro": "You have agreed to take part in a research study about study habits.",
       "questions": [
-        "Q1: Can you describe your daily eating habits?",
-        "Q2: What challenges do you face when trying to eat healthy?",
-        "Q3: How important do you think healthy eating is for overall well-being?",
-        "Q4: What advice would you give to someone wanting to improve their diet?"
+        "Q1: Can you describe your study habits during school?",
+        "Q2: What challenges do you face when trying to study effectively?",
+        "Q3: In your opinion, what makes a study habit effective?",
+        "Q4: What advice would you give to someone struggling with their study habits?"
       ]
     },
     {
-      "topic": "戶外活動",
-      "intro": "You have agreed to take part in a research study about outdoor activities.",
+      "topic": "運動與健康",
+      "intro": "You have agreed to take part in a research study about exercise and health.",
       "questions": [
-        "Q1: What outdoor activities do you enjoy the most?",
-        "Q2: Have you ever faced any difficulties when participating in outdoor activities?",
-        "Q3: In your opinion, why are outdoor activities important for people?",
-        "Q4: What suggestions would you make for someone new to outdoor activities?"
+        "Q1: What types of exercise do you enjoy the most?",
+        "Q2: Have you ever faced any obstacles to staying active?",
+        "Q3: How important do you believe exercise is for overall health?",
+        "Q4: What tips would you give someone who wants to start exercising?"
       ]
     },
     {
-      "topic": "職場人際關係",
-      "intro": "You have agreed to take part in a research study about workplace relationships.",
+      "topic": "志願服務",
+      "intro": "You have agreed to take part in a research study about volunteering.",
       "questions": [
-        "Q1: How would you describe your relationships with your coworkers?",
-        "Q2: What challenges have you encountered in building workplace relationships?",
-        "Q3: How do you think good relationships at work impact productivity?",
-        "Q4: What tips can you offer for improving relationships with colleagues?"
+        "Q1: Have you ever volunteered for a community service project?",
+        "Q2: What difficulties did you encounter while volunteering?",
+        "Q3: Why do you think volunteering is valuable for individuals and communities?",
+        "Q4: What encouragement would you offer to someone considering volunteering?"
       ]
     }
   ]
