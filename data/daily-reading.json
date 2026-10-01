@@ -2,107 +2,113 @@
   "cloze": {
     "segments": [
       {
-        "text": "The human brain is a complex organ that plays a critical role in controlling various body functions and processing information. One of the primary functions of the brain is to manage the body's "
+        "text": "The concept of the electromagneti"
       },
       {
-        "blank": "hormo"
+        "blank": "c field"
       },
       {
-        "text": "s, which are chemical messengers that regulate numerous processes, including mood, growth, and metabolism. The brain communicates with the rest of the body through the "
+        "text": " is fundamental to understanding how electric currents interact with magne"
       },
       {
-        "blank": "nerv"
+        "blank": "tic forces."
       },
       {
-        "text": "ous system, which includes the spinal cord and a network of neurons. An essential aspect of brain function is its ability to adapt, or "
+        "text": " In essence, when an electric current flows through a wire, it creates a magne"
       },
       {
-        "blank": "neuropl"
+        "blank": "tic field around it."
       },
       {
-        "text": "asticity, which allows it to change and reorganize itself in response to new experiences. Additionally, the brain is divided into several regions, each responsible for specific tasks, such as "
+        "text": " This field can exert forces on other currents or on magnetic materials, enabling a var"
       },
       {
-        "blank": "cogni"
+        "blank": "iety of applications."
       },
       {
-        "text": "tion, emotion, and memory. Understanding how the brain works is vital for advancing medical therapies and enhancing cognitive function."
+        "text": " Devices such as electric motors, generators, and transformers rely on this principle to fu"
+      },
+      {
+        "blank": "nction efficiently."
+      },
+      {
+        "text": " Understanding the behavior of electromagnetic fields not only aids in technological advancements but also enhances our grasp of natural phenomena."
       }
     ]
   },
   "academic": {
-    "passage": "The human brain is a remarkably intricate organ responsible for various functions, including thought processing, emotional regulation, and motor coordination. Its complexity arises from the interplay of different regions, each specialized for distinct tasks. For instance, the prefrontal cortex is critical for decision-making, while the amygdala plays a role in emotional responses. Moreover, the brain exhibits neuroplasticity, allowing it to adapt to new experiences and environments. This adaptability is essential for learning and recovery from injuries. Understanding the brain's functions not only deepens our knowledge of human behavior but also informs medical practices related to mental health and neurological disorders.",
+    "passage": "The study of electromagnetism is crucial for modern physics. It explores the interaction between electric charges and magnetic fields, which is fundamental in various technologies. Applications range from electric motors to wireless communication systems, highlighting its importance in engineering and daily life. By understanding these principles, scientists can innovate and improve existing technologies, making electromagnetism a vital area of research in contemporary science.",
     "questions": [
       {
-        "q": "What is the main idea of the passage?",
+        "q": "What is the main focus of the passage?",
         "options": [
-          "The brain is critical for various functions",
-          "Neuroplasticity is the most important aspect of the brain",
-          "Each region of the brain has a different function",
-          "The brain's complexity makes it hard to study"
+          "The importance of electromagnetism",
+          "The history of electric motors",
+          "Applications of electric currents",
+          "The interaction of light and electricity"
         ],
         "correctIndex": 0,
-        "explain": "本文的主要思想是大腦對各種功能至關重要。"
+        "explain": "這段文字的重點是電磁學的重要性，特別是在現代技術中的應用。"
       },
       {
-        "q": "Which part of the brain is responsible for decision-making?",
+        "q": "Which technology mentioned in the passage relies on electromagnetism?",
         "options": [
-          "Amygdala",
-          "Prefrontal cortex",
-          "Hippocampus",
-          "Cerebellum"
+          "Solar panels",
+          "Electric motors",
+          "Batteries",
+          "Incandescent bulbs"
         ],
         "correctIndex": 1,
-        "explain": "前額葉皮層是負責決策的部分。"
+        "explain": "電動馬達依賴電磁學的原理來運作。"
       },
       {
-        "q": "What can be inferred about neuroplasticity?",
+        "q": "What can be inferred about the role of electromagnetism in technology?",
         "options": [
-          "It only occurs in childhood",
-          "It is essential for recovery from injuries",
-          "It makes the brain weaker",
-          "It has no impact on learning"
+          "It is outdated and no longer relevant.",
+          "It is essential for innovation and improvement.",
+          "It only applies to theoretical concepts.",
+          "It is only relevant in specific fields."
         ],
         "correctIndex": 1,
-        "explain": "神經可塑性對於從傷害中恢復是必不可少的。"
+        "explain": "從文章中可以推斷，電磁學在技術創新和改進中扮演著至關重要的角色。"
       },
       {
-        "q": "What does the term 'neuroplasticity' refer to?",
+        "q": "What does the term 'electromagnetism' refer to in the context of the passage?",
         "options": [
-          "The brain's ability to grow in size",
-          "The brain's ability to adapt and reorganize",
-          "The brain's inability to change",
-          "The brain's structure during childhood"
+          "The study of light waves.",
+          "The interaction between electric and magnetic fields.",
+          "The process of electrical charging.",
+          "The design of electronic circuits."
         ],
         "correctIndex": 1,
-        "explain": "神經可塑性是指大腦的適應和重新組織能力。"
+        "explain": "在這段文字的上下文中，電磁學指的是電與磁場之間的相互作用。"
       }
     ]
   },
   "daily": {
-    "passage": "Attention students! The campus library will be closed for maintenance this weekend, starting Friday at 5 PM and reopening on Monday at 9 AM. Please plan your study sessions accordingly.",
+    "passage": "Attention all students! The library will be closed for renovations starting next Monday. Please make arrangements to return books and utilize other study spaces on campus during this time. We appreciate your understanding.",
     "questions": [
       {
-        "q": "When will the library reopen?",
+        "q": "When will the library be closed?",
         "options": [
-          "Friday at 5 PM",
-          "Saturday at 9 AM",
-          "Sunday at 9 AM",
-          "Monday at 9 AM"
+          "Next Monday",
+          "Next Friday",
+          "This Wednesday",
+          "Tomorrow"
         ],
-        "correctIndex": 3,
-        "explain": "圖書館在星期一早上9點重新開放。"
+        "correctIndex": 0,
+        "explain": "圖書館將從下星期一開始關閉。"
       },
       {
-        "q": "Why will the library be closed?",
+        "q": "What should students do before the library closes?",
         "options": [
-          "For a special event",
-          "For maintenance",
-          "For inventory",
-          "For holiday"
+          "Borrow more books",
+          "Return books",
+          "Attend workshops",
+          "Study in the library"
         ],
         "correctIndex": 1,
-        "explain": "圖書館因維護而關閉。"
+        "explain": "學生應該在圖書館關閉之前還書。"
       }
     ]
   }

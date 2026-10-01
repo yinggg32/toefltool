@@ -1,116 +1,116 @@
 {
   "chooseResponse": [
     {
-      "q": "What did you think of the lecture?",
+      "q": "What is your favorite type of music?",
       "options": [
-        "It was interesting!",
-        "I didn't like it.",
-        "I want more details.",
-        "It was confusing."
+        "I love classical music.",
+        "I don't like music.",
+        "I play the guitar.",
+        "I prefer pop music."
       ],
       "correctIndex": 0
     }
   ],
   "conversation": {
-    "transcript": "Student: Did you attend the guest lecture on environmental science?\nProfessor: Yes, I found it very insightful. What did you think about it?\nStudent: I thought it was great, especially the part about renewable energy.\nProfessor: I agree! It's such an important topic in today's world.",
+    "transcript": "Student: Hey, do you know where the library is?\nAdvisor: Yeah, it's just down the hall on the left.\nStudent: Thanks! Do they have study rooms there?\nAdvisor: Yes, they do, but you need to reserve one in advance.",
     "questions": [
       {
-        "q": "What did the student think of the lecture?",
+        "q": "Where is the library?",
         "options": [
-          "It was boring.",
-          "It was great.",
-          "It was too long.",
-          "It was irrelevant."
+          "Down the hall on the left.",
+          "Next to the gym.",
+          "In the basement.",
+          "On the first floor."
         ],
-        "correctIndex": 1,
-        "explain": "學生認為這場講座很棒。"
+        "correctIndex": 0,
+        "explain": "圖書館在走廊的左邊。"
       },
       {
-        "q": "What topic did the professor and student discuss?",
+        "q": "What do you need to use the study rooms?",
         "options": [
-          "History of art.",
-          "Renewable energy.",
-          "Mathematics.",
-          "Psychology."
+          "A library card.",
+          "Advance reservation.",
+          "A student ID.",
+          "A book."
         ],
         "correctIndex": 1,
-        "explain": "他們討論了可再生能源。"
+        "explain": "使用學習室需要提前預約。"
       }
     ]
   },
   "announcement": {
-    "transcript": "Attention students! The library will be closed for renovations starting next Monday. It is expected to reopen in two weeks. Please make sure to check out any materials you need before then. Thank you for your understanding!",
+    "transcript": "Attention students! The campus health fair will take place this Saturday from 10 AM to 3 PM in the Student Union. There will be free health screenings, wellness workshops, and giveaways. Don't miss this chance to learn more about your health!",
     "questions": [
       {
-        "q": "When will the library close?",
+        "q": "What is the event about?",
         "options": [
-          "Next Friday.",
-          "Next Monday.",
-          "This Friday.",
-          "In two weeks."
+          "A job fair.",
+          "A health fair.",
+          "A sports event.",
+          "A music festival."
         ],
         "correctIndex": 1,
-        "explain": "圖書館將在下星期一關閉。"
+        "explain": "這是一個健康博覽會。"
       },
       {
-        "q": "How long will the library be closed?",
+        "q": "When will the health fair occur?",
         "options": [
-          "One week.",
-          "Two weeks.",
-          "Three weeks.",
-          "A month."
+          "Next Monday.",
+          "This Saturday.",
+          "Next Saturday.",
+          "Tomorrow."
         ],
         "correctIndex": 1,
-        "explain": "圖書館預計會關閉兩週。"
+        "explain": "健康博覽會在這個星期六舉行。"
       }
     ]
   },
   "talk": {
-    "transcript": "Today, we will discuss the concept of ecological footprints. An ecological footprint measures the environmental impact of an individual or community, quantifying how much nature we use to support our lifestyle. It includes factors like energy consumption, waste production, and resource use. By calculating our ecological footprints, we can understand our contributions to environmental issues, such as climate change and habitat destruction. Reducing our footprint can involve simple actions like recycling, conserving water, and choosing sustainable products. It is important for everyone to be aware of their ecological impact and work towards a more sustainable future.",
+    "transcript": "Today, we're going to discuss the concept of biodiversity. Biodiversity refers to the variety of life found on Earth, including different species of plants, animals, and microorganisms. It's crucial for ecosystem stability, and it provides us with food, clean air, and water. High biodiversity can lead to healthier ecosystems that are more resilient to changes like climate change or human activity. However, biodiversity is currently threatened by habitat loss, pollution, and climate change. Protecting it is essential for maintaining the balance of our environment.",
     "questions": [
       {
-        "q": "What is an ecological footprint?",
+        "q": "What does biodiversity refer to?",
         "options": [
-          "A measurement of financial assets.",
-          "A measure of environmental impact.",
-          "A type of social behavior.",
-          "A calculation of academic performance."
+          "The variety of weather patterns.",
+          "The variety of life on Earth.",
+          "The variety of cultural practices.",
+          "The variety of climates."
         ],
         "correctIndex": 1,
-        "explain": "生態足跡是衡量環境影響的指標。"
+        "explain": "生物多樣性指的是地球上生命的多樣性。"
       },
       {
-        "q": "What factors are included in the ecological footprint?",
+        "q": "Why is biodiversity important?",
         "options": [
-          "Only carbon emissions.",
-          "Energy consumption and waste production.",
-          "Only water usage.",
-          "Travel distances."
+          "It increases pollution.",
+          "It lowers food production.",
+          "It provides ecosystem stability.",
+          "It reduces clean water supply."
         ],
-        "correctIndex": 1,
-        "explain": "包括能源消耗和廢物產生等因素。"
+        "correctIndex": 2,
+        "explain": "生物多樣性對生態系統穩定性至關重要。"
       },
       {
-        "q": "How can individuals reduce their ecological footprint?",
+        "q": "What are some threats to biodiversity?",
         "options": [
-          "By spending more money.",
-          "By recycling and conserving water.",
+          "Habitat loss and pollution.",
+          "Increased rainfall.",
+          "More wildlife.",
+          "Greater food variety."
+        ],
+        "correctIndex": 0,
+        "explain": "生物多樣性受到棲息地喪失和污染的威脅。"
+      },
+      {
+        "q": "How can we protect biodiversity?",
+        "options": [
           "By using more plastic.",
-          "By traveling more often."
+          "By increasing habitat destruction.",
+          "By promoting conservation efforts.",
+          "By ignoring environmental issues."
         ],
-        "correctIndex": 1,
-        "explain": "透過回收和節約用水來減少生態足跡。"
-      },
-      {
-        "q": "Why is it important to be aware of ecological footprints?",
-        "options": [
-          "To improve academic grades.",
-          "To understand environmental issues.",
-          "To increase social interactions.",
-          "To gain financial benefits."
-        ],
-        "correctIndex": 1,
-        "explain": "了解生態足跡對環境問題的重要性。"
+        "correctIndex": 2,
+        "explain": "我們可以通過促進保護措施來保護生物多樣性。"
       }
     ]
   }

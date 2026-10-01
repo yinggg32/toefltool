@@ -2,123 +2,128 @@
   "buildSentences": [
     {
       "words": [
+        "the",
         "students",
-        "study",
-        "hard",
-        "to",
-        "achieve",
-        "their",
-        "academic",
-        "goals"
-      ],
-      "display": "Students study hard to achieve their academic goals."
-    },
-    {
-      "words": [
+        "enjoyed",
         "the",
-        "environmental",
-        "impact",
-        "of",
-        "human",
-        "activities",
-        "is",
-        "significant"
+        "guest",
+        "lecture",
+        "on",
+        "climate",
+        "change"
       ],
-      "display": "The environmental impact of human activities is significant."
+      "display": "The students enjoyed the guest lecture on climate change."
     },
     {
       "words": [
-        "reading",
-        "a",
-        "variety",
-        "of",
-        "books",
-        "can",
-        "enhance",
-        "vocabulary"
-      ],
-      "display": "Reading a variety of books can enhance vocabulary."
-    },
-    {
-      "words": [
-        "communication",
-        "skills",
-        "are",
-        "essential",
+        "she",
+        "has",
+        "been",
+        "studying",
+        "biology",
         "for",
-        "success",
-        "in",
-        "business"
+        "three",
+        "years"
       ],
-      "display": "Communication skills are essential for success in business."
+      "display": "She has been studying biology for three years."
     },
     {
       "words": [
         "the",
-        "results",
-        "of",
-        "the",
-        "experiment",
-        "confirmed",
-        "the",
-        "hypothesis"
+        "research",
+        "study",
+        "provided",
+        "valuable",
+        "insights",
+        "into",
+        "sustainable",
+        "farming"
       ],
-      "display": "The results of the experiment confirmed the hypothesis."
+      "display": "The research study provided valuable insights into sustainable farming."
     },
     {
       "words": [
-        "many",
-        "people",
-        "believe",
-        "that",
-        "technology",
-        "improves",
-        "our",
-        "lives"
-      ],
-      "display": "Many people believe that technology improves our lives."
-    },
-    {
-      "words": [
-        "exercising",
-        "regularly",
-        "can",
-        "lead",
+        "he",
+        "plans",
         "to",
-        "better",
-        "mental",
-        "health"
+        "attend",
+        "the",
+        "conference",
+        "next",
+        "month"
       ],
-      "display": "Exercising regularly can lead to better mental health."
+      "display": "He plans to attend the conference next month."
     },
     {
       "words": [
-        "cultural",
-        "exchange",
-        "programs",
-        "promote",
-        "understanding",
-        "between",
-        "nations",
-        "globally"
+        "the",
+        "team",
+        "worked",
+        "tirelessly",
+        "to",
+        "meet",
+        "the",
+        "project",
+        "deadline"
       ],
-      "display": "Cultural exchange programs promote understanding between nations globally."
+      "display": "The team worked tirelessly to meet the project deadline."
+    },
+    {
+      "words": [
+        "they",
+        "argued",
+        "that",
+        "education",
+        "is",
+        "the",
+        "key",
+        "to",
+        "success"
+      ],
+      "display": "They argued that education is the key to success."
+    },
+    {
+      "words": [
+        "the",
+        "library",
+        "will",
+        "be",
+        "closed",
+        "for",
+        "renovations",
+        "next",
+        "week"
+      ],
+      "display": "The library will be closed for renovations next week."
+    },
+    {
+      "words": [
+        "after",
+        "the",
+        "presentation",
+        "he",
+        "felt",
+        "relieved",
+        "and",
+        "satisfied"
+      ],
+      "display": "After the presentation he felt relieved and satisfied."
     }
   ],
   "emailPrompts": [
-    "寄信給教授，請教有關期末報告的要求和截止日期。",
-    "寄信給宿舍辦公室，反映公共區域的衛生問題，希望改善。",
-    "寄信給圖書館，詢問新書的上架時間和借閱政策。",
-    "寄信給學生會，表達希望能舉辦文化交流活動的想法。",
-    "寄信給客服，投訴最近購買的產品有品質問題，請求退貨。",
-    "寄信給校園健身中心，詢問健身課程的時間表和報名方式。"
+    "寄信給教授，請求延長提交論文的期限，因為近期生病。",
+    "發送電子郵件給宿舍辦公室，詢問有關房租支付的問題。",
+    "寫信給圖書館，建議增加更多的學術資源和書籍。",
+    "寄信給社團，表達對參加下個活動的興趣，並詢問詳細信息。",
+    "寫信給客戶服務，反映最近購買產品的問題，要求退款。",
+    "寄信給學校的職業輔導中心，請求安排職業諮詢會議。"
   ],
   "discussionPrompts": [
-    "教授問：「你認為科技對人際關係的影響是正面的還是負面的？」",
-    "教授問：「在學術界，是否應該強調實用技能而非純理論？」",
-    "教授問：「如何看待全球暖化對經濟的影響？」",
-    "教授問：「社交媒體對青少年心理健康的影響是什麼？」",
-    "教授問：「文化多樣性在現代社會中的重要性體現在哪些方面？」",
-    "教授問：「教育體系應如何應對日益增長的科技需求？」"
+    "教授問：「你認為科技對教育的影響是正面還是負面？」",
+    "教授問：「社交媒體在現代社會中扮演什麼樣的角色？」",
+    "教授問：「討論全球變暖的潛在解決方案有哪些？」",
+    "教授問：「文化差異如何影響國際商業合作？」",
+    "教授問：「你覺得藝術在社會變革中重要嗎？」",
+    "教授問：「在當今社會中，倫理與科學研究的關係如何？」"
   ]
 }

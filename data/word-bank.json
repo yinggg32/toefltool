@@ -9062,5 +9062,29 @@
     "zh": "背景；上下文",
     "ex": "Understanding the historical context of the artwork is essential for interpretation.",
     "cat": "📰 每日新詞：art and architecture"
+  },
+  {
+    "word": "anomaly",
+    "pos": "n.",
+    "root": "異常 (anomaly) + —",
+    "zh": "異常",
+    "ex": "An anomaly in social patterns can prompt further investigation into underlying causes.",
+    "cat": "📰 每日新詞：sociology"
+  },
+  {
+    "word": "frustration",
+    "pos": "n.",
+    "root": "挫折 (frustrate) + —",
+    "zh": "挫折",
+    "ex": "Frustration can arise from perceived social injustices and inequalities.",
+    "cat": "📰 每日新詞：sociology"
+  },
+  {
+    "word": "inclusion",
+    "pos": "n.",
+    "root": "包容 (include) + 化 (ion)",
+    "zh": "包容性",
+    "ex": "Inclusion efforts aim to ensure that all members of society have equal opportunities.",
+    "cat": "📰 每日新詞：sociology"
   }
 ]
