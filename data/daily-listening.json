@@ -1,116 +1,116 @@
 {
   "chooseResponse": [
     {
-      "q": "What is your favorite type of music?",
+      "q": "What time is the meeting?",
       "options": [
-        "I love classical music.",
-        "I don't like music.",
-        "I play the guitar.",
-        "I prefer pop music."
+        "At 3 PM.",
+        "In the library.",
+        "On the main campus.",
+        "With the professor."
       ],
       "correctIndex": 0
     }
   ],
   "conversation": {
-    "transcript": "Student: Hey, do you know where the library is?\nAdvisor: Yeah, it's just down the hall on the left.\nStudent: Thanks! Do they have study rooms there?\nAdvisor: Yes, they do, but you need to reserve one in advance.",
+    "transcript": "Student: Hey, do you know where the student council meeting is today?\nAdvisor: Yes, it's in the conference room on the second floor.\nStudent: Thanks! What time does it start?\nAdvisor: It starts at 3 PM, but you should arrive a bit early to get a good seat.",
     "questions": [
       {
-        "q": "Where is the library?",
+        "q": "Where is the meeting taking place?",
         "options": [
-          "Down the hall on the left.",
-          "Next to the gym.",
-          "In the basement.",
-          "On the first floor."
+          "In the library.",
+          "In the cafeteria.",
+          "In the conference room.",
+          "In the gym."
         ],
-        "correctIndex": 0,
-        "explain": "圖書館在走廊的左邊。"
+        "correctIndex": 2,
+        "explain": "會議在會議室舉行。"
       },
       {
-        "q": "What do you need to use the study rooms?",
+        "q": "What time should the student arrive?",
         "options": [
-          "A library card.",
-          "Advance reservation.",
-          "A student ID.",
-          "A book."
+          "At 2 PM.",
+          "At 3 PM.",
+          "A bit early.",
+          "Right on time."
         ],
-        "correctIndex": 1,
-        "explain": "使用學習室需要提前預約。"
+        "correctIndex": 2,
+        "explain": "學生應該早到一點。"
       }
     ]
   },
   "announcement": {
-    "transcript": "Attention students! The campus health fair will take place this Saturday from 10 AM to 3 PM in the Student Union. There will be free health screenings, wellness workshops, and giveaways. Don't miss this chance to learn more about your health!",
+    "transcript": "Attention students, please be reminded that the fall semester registration period ends this Friday. Make sure you have completed all necessary forms and payments to avoid any late fees. If you have questions, visit the registration office during business hours.",
     "questions": [
       {
-        "q": "What is the event about?",
+        "q": "When does registration end?",
         "options": [
-          "A job fair.",
-          "A health fair.",
-          "A sports event.",
-          "A music festival."
+          "This Monday.",
+          "This Friday.",
+          "Next Friday.",
+          "Next month."
         ],
         "correctIndex": 1,
-        "explain": "這是一個健康博覽會。"
+        "explain": "註冊截止日期是這個星期五。"
       },
       {
-        "q": "When will the health fair occur?",
+        "q": "Where can students ask questions about registration?",
         "options": [
-          "Next Monday.",
-          "This Saturday.",
-          "Next Saturday.",
-          "Tomorrow."
+          "In the library.",
+          "At the gym.",
+          "In the registration office.",
+          "Online."
         ],
-        "correctIndex": 1,
-        "explain": "健康博覽會在這個星期六舉行。"
+        "correctIndex": 2,
+        "explain": "學生可以在註冊辦公室詢問問題。"
       }
     ]
   },
   "talk": {
-    "transcript": "Today, we're going to discuss the concept of biodiversity. Biodiversity refers to the variety of life found on Earth, including different species of plants, animals, and microorganisms. It's crucial for ecosystem stability, and it provides us with food, clean air, and water. High biodiversity can lead to healthier ecosystems that are more resilient to changes like climate change or human activity. However, biodiversity is currently threatened by habitat loss, pollution, and climate change. Protecting it is essential for maintaining the balance of our environment.",
+    "transcript": "Today, we'll discuss renewable energy sources. Renewable energy comes from natural processes that are replenished constantly. These include solar, wind, hydro, and geothermal energy. Unlike fossil fuels, which can deplete over time, renewable energy sources offer a sustainable way to generate power without harming the environment. The adoption of renewable energy is crucial in combating climate change, reducing greenhouse gas emissions, and ensuring a stable energy supply for the future. By investing in these technologies, we can create a cleaner and more sustainable world.",
     "questions": [
       {
-        "q": "What does biodiversity refer to?",
+        "q": "What is renewable energy?",
         "options": [
-          "The variety of weather patterns.",
-          "The variety of life on Earth.",
-          "The variety of cultural practices.",
-          "The variety of climates."
+          "Energy from fossil fuels.",
+          "Energy that is constantly replenished.",
+          "Energy that harms the environment.",
+          "Energy that is non-renewable."
         ],
         "correctIndex": 1,
-        "explain": "生物多樣性指的是地球上生命的多樣性。"
+        "explain": "可再生能源是持續補充的能源。"
       },
       {
-        "q": "Why is biodiversity important?",
+        "q": "Why is renewable energy important?",
         "options": [
-          "It increases pollution.",
-          "It lowers food production.",
-          "It provides ecosystem stability.",
-          "It reduces clean water supply."
+          "It creates pollution.",
+          "It is not sustainable.",
+          "It helps combat climate change.",
+          "It depletes natural resources."
         ],
         "correctIndex": 2,
-        "explain": "生物多樣性對生態系統穩定性至關重要。"
+        "explain": "可再生能源有助於應對氣候變化。"
       },
       {
-        "q": "What are some threats to biodiversity?",
+        "q": "Which of the following is not a renewable energy source?",
         "options": [
-          "Habitat loss and pollution.",
-          "Increased rainfall.",
-          "More wildlife.",
-          "Greater food variety."
+          "Solar energy.",
+          "Wind energy.",
+          "Fossil fuels.",
+          "Hydro energy."
+        ],
+        "correctIndex": 2,
+        "explain": "化石燃料不是可再生能源。"
+      },
+      {
+        "q": "What can renewable energy help reduce?",
+        "options": [
+          "Greenhouse gas emissions.",
+          "Natural disasters.",
+          "Energy consumption.",
+          "Raw material use."
         ],
         "correctIndex": 0,
-        "explain": "生物多樣性受到棲息地喪失和污染的威脅。"
-      },
-      {
-        "q": "How can we protect biodiversity?",
-        "options": [
-          "By using more plastic.",
-          "By increasing habitat destruction.",
-          "By promoting conservation efforts.",
-          "By ignoring environmental issues."
-        ],
-        "correctIndex": 2,
-        "explain": "我們可以通過促進保護措施來保護生物多樣性。"
+        "explain": "可再生能源可以幫助減少溫室氣體排放。"
       }
     ]
   }

@@ -2,113 +2,101 @@
   "cloze": {
     "segments": [
       {
-        "text": "The concept of the electromagneti"
+        "text": "The process of photosynthesis is vital for life on Earth, as it converts sunlight into energy. Plants, algae, and some bacteria are capable of this remarkable proce"
       },
       {
-        "blank": "c field"
+        "blank": "ss"
       },
       {
-        "text": " is fundamental to understanding how electric currents interact with magne"
+        "text": ", which involves several steps. First, chlorophyll captures light energy, which is then used to convert carbon dioxide and water into glucose. The oxygen produced is a byproduct of this reax"
       },
       {
-        "blank": "tic forces."
+        "blank": "tion."
       },
       {
-        "text": " In essence, when an electric current flows through a wire, it creates a magne"
+        "text": " Notably, photosynthesis occurs primarily in the leaves of plants, where specialized cells contain chloroplasts. These organelles are crucial for the absorption of light and the subsequent energy tr"
       },
       {
-        "blank": "tic field around it."
+        "blank": "ansfer."
       },
       {
-        "text": " This field can exert forces on other currents or on magnetic materials, enabling a var"
-      },
-      {
-        "blank": "iety of applications."
-      },
-      {
-        "text": " Devices such as electric motors, generators, and transformers rely on this principle to fu"
-      },
-      {
-        "blank": "nction efficiently."
-      },
-      {
-        "text": " Understanding the behavior of electromagnetic fields not only aids in technological advancements but also enhances our grasp of natural phenomena."
+        "text": " Understanding photosynthesis is essential for various fields, including agriculture and environmental science, as it helps explain how plants grow and contribute to the globe's oxygen supply."
       }
     ]
   },
   "academic": {
-    "passage": "The study of electromagnetism is crucial for modern physics. It explores the interaction between electric charges and magnetic fields, which is fundamental in various technologies. Applications range from electric motors to wireless communication systems, highlighting its importance in engineering and daily life. By understanding these principles, scientists can innovate and improve existing technologies, making electromagnetism a vital area of research in contemporary science.",
+    "passage": "Photosynthesis is a fundamental biological process that allows organisms to convert light energy into chemical energy. Through this process, plants and some microorganisms synthesize their own food using sunlight, carbon dioxide, and water. The significance of photosynthesis extends beyond just providing energy for plants; it is also crucial for life on Earth as it produces oxygen, which is essential for the survival of most living organisms. Furthermore, it plays a vital role in regulating atmospheric carbon dioxide levels, thus influencing climate patterns.",
     "questions": [
       {
-        "q": "What is the main focus of the passage?",
+        "q": "What is the main idea of the passage?",
         "options": [
-          "The importance of electromagnetism",
-          "The history of electric motors",
-          "Applications of electric currents",
-          "The interaction of light and electricity"
+          "Photosynthesis is essential for life on Earth.",
+          "Plants need water to grow.",
+          "Photosynthesis occurs in the roots of plants.",
+          "Only some organisms perform photosynthesis."
         ],
         "correctIndex": 0,
-        "explain": "這段文字的重點是電磁學的重要性，特別是在現代技術中的應用。"
+        "explain": "這段文字的主題是光合作用對地球生命的重要性。"
       },
       {
-        "q": "Which technology mentioned in the passage relies on electromagnetism?",
+        "q": "What do plants synthesize during photosynthesis?",
         "options": [
-          "Solar panels",
-          "Electric motors",
-          "Batteries",
-          "Incandescent bulbs"
+          "Carbon dioxide",
+          "Glucose",
+          "Nitrogen",
+          "Oxygen"
         ],
         "correctIndex": 1,
-        "explain": "電動馬達依賴電磁學的原理來運作。"
+        "explain": "植物在光合作用中合成葡萄糖，這是它們的食物。"
       },
       {
-        "q": "What can be inferred about the role of electromagnetism in technology?",
+        "q": "What can be inferred about the relationship between photosynthesis and climate?",
         "options": [
-          "It is outdated and no longer relevant.",
-          "It is essential for innovation and improvement.",
-          "It only applies to theoretical concepts.",
-          "It is only relevant in specific fields."
+          "Photosynthesis has no impact on climate.",
+          "Photosynthesis reduces carbon dioxide in the atmosphere.",
+          "Photosynthesis only affects plant growth.",
+          "Climate change prevents photosynthesis."
         ],
         "correctIndex": 1,
-        "explain": "從文章中可以推斷，電磁學在技術創新和改進中扮演著至關重要的角色。"
+        "explain": "這段文字暗示光合作用有助於減少大氣中的二氧化碳，從而影響氣候。"
       },
       {
-        "q": "What does the term 'electromagnetism' refer to in the context of the passage?",
+        "q": "What does the term 'organisms' refer to in the passage?",
         "options": [
-          "The study of light waves.",
-          "The interaction between electric and magnetic fields.",
-          "The process of electrical charging.",
-          "The design of electronic circuits."
+          "Only plants",
+          "Only animals",
+          "Living beings including plants and animals",
+          "Non-living things"
         ],
-        "correctIndex": 1,
-        "explain": "在這段文字的上下文中，電磁學指的是電與磁場之間的相互作用。"
+        "correctIndex": 2,
+        "explain": "在這段文字中，“生物體”是指包括植物和動物在內的所有生物。"
       }
     ]
   },
   "daily": {
-    "passage": "Attention all students! The library will be closed for renovations starting next Monday. Please make arrangements to return books and utilize other study spaces on campus during this time. We appreciate your understanding.",
+    "passage": "Attention students! The library will be closed for renovations from September 1st to September 15th. Please make sure to return any books before the closure. Thank you for your understanding!",
     "questions": [
       {
-        "q": "When will the library be closed?",
+        "q": "When will the library be closed for renovations?",
         "options": [
-          "Next Monday",
-          "Next Friday",
-          "This Wednesday",
-          "Tomorrow"
+          "From August 1st to August 15th.",
+          "From September 1st to September 15th.",
+          "From October 1st to October 15th.",
+          "It will not close."
         ],
-        "correctIndex": 0,
-        "explain": "圖書館將從下星期一開始關閉。"
+        "correctIndex": 1,
+        "explain": "圖書館將於9月1日至9月15日關閉進行整修。"
       },
       {
         "q": "What should students do before the library closes?",
         "options": [
-          "Borrow more books",
-          "Return books",
-          "Attend workshops",
-          "Study in the library"
+          "Borrow more books.",
+          "Return any books.",
+          "Read in the library.",
+          "Attend a workshop."
         ],
         "correctIndex": 1,
-        "explain": "學生應該在圖書館關閉之前還書。"
+        "explain": "學生應在圖書館關閉之前歸還任何書籍。"
       }
     ]
   }

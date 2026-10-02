@@ -3,127 +3,135 @@
     {
       "words": [
         "the",
+        "data",
+        "from",
+        "the",
+        "experiment",
+        "was",
+        "analyzed",
+        "carefully"
+      ],
+      "display": "The data from the experiment was analyzed carefully."
+    },
+    {
+      "words": [
         "students",
-        "enjoyed",
-        "the",
-        "guest",
-        "lecture",
-        "on",
-        "climate",
-        "change"
-      ],
-      "display": "The students enjoyed the guest lecture on climate change."
-    },
-    {
-      "words": [
-        "she",
-        "has",
-        "been",
-        "studying",
-        "biology",
-        "for",
-        "three",
-        "years"
-      ],
-      "display": "She has been studying biology for three years."
-    },
-    {
-      "words": [
-        "the",
-        "research",
-        "study",
-        "provided",
-        "valuable",
-        "insights",
-        "into",
-        "sustainable",
-        "farming"
-      ],
-      "display": "The research study provided valuable insights into sustainable farming."
-    },
-    {
-      "words": [
-        "he",
-        "plans",
+        "are",
+        "encouraged",
         "to",
-        "attend",
+        "participate",
+        "in",
+        "community",
+        "service"
+      ],
+      "display": "Students are encouraged to participate in community service."
+    },
+    {
+      "words": [
         "the",
-        "conference",
+        "report",
+        "needs",
+        "to",
+        "be",
+        "submitted",
+        "by",
+        "friday"
+      ],
+      "display": "The report needs to be submitted by Friday."
+    },
+    {
+      "words": [
+        "the",
+        "new",
+        "policy",
+        "will",
+        "affect",
+        "all",
+        "employees",
+        "starting",
         "next",
         "month"
       ],
-      "display": "He plans to attend the conference next month."
+      "display": "The new policy will affect all employees starting next month."
+    },
+    {
+      "words": [
+        "it",
+        "is",
+        "important",
+        "to",
+        "review",
+        "the",
+        "course",
+        "material",
+        "before",
+        "the",
+        "exam"
+      ],
+      "display": "It is important to review the course material before the exam."
+    },
+    {
+      "words": [
+        "the",
+        "presentation",
+        "was",
+        "well",
+        "received",
+        "by",
+        "the",
+        "audience",
+        "and",
+        "the",
+        "feedback",
+        "was",
+        "positive"
+      ],
+      "display": "The presentation was well received by the audience and the feedback was positive."
+    },
+    {
+      "words": [
+        "participating",
+        "in",
+        "discussions",
+        "helps",
+        "to",
+        "develop",
+        "critical",
+        "thinking",
+        "skills"
+      ],
+      "display": "Participating in discussions helps to develop critical thinking skills."
     },
     {
       "words": [
         "the",
         "team",
-        "worked",
-        "tirelessly",
+        "decided",
         "to",
-        "meet",
+        "postpone",
         "the",
-        "project",
-        "deadline"
-      ],
-      "display": "The team worked tirelessly to meet the project deadline."
-    },
-    {
-      "words": [
-        "they",
-        "argued",
-        "that",
-        "education",
-        "is",
-        "the",
-        "key",
-        "to",
-        "success"
-      ],
-      "display": "They argued that education is the key to success."
-    },
-    {
-      "words": [
-        "the",
-        "library",
-        "will",
-        "be",
-        "closed",
-        "for",
-        "renovations",
+        "meeting",
+        "until",
         "next",
         "week"
       ],
-      "display": "The library will be closed for renovations next week."
-    },
-    {
-      "words": [
-        "after",
-        "the",
-        "presentation",
-        "he",
-        "felt",
-        "relieved",
-        "and",
-        "satisfied"
-      ],
-      "display": "After the presentation he felt relieved and satisfied."
+      "display": "The team decided to postpone the meeting until next week."
     }
   ],
   "emailPrompts": [
-    "寄信給教授，請求延長提交論文的期限，因為近期生病。",
-    "發送電子郵件給宿舍辦公室，詢問有關房租支付的問題。",
-    "寫信給圖書館，建議增加更多的學術資源和書籍。",
-    "寄信給社團，表達對參加下個活動的興趣，並詢問詳細信息。",
-    "寫信給客戶服務，反映最近購買產品的問題，要求退款。",
-    "寄信給學校的職業輔導中心，請求安排職業諮詢會議。"
+    "寄信給教授，詢問關於期末報告的主題與要求。",
+    "寄信給宿舍辦公室，請求更換房間的手續與可用的選項。",
+    "寄信給圖書館，詢問如何延長借書的期限。",
+    "寄信給社團，表達希望參加即將舉行的活動。",
+    "寄信給客服，反映產品的瑕疵並要求退貨。",
+    "寄信給導師，請求討論學業進步與未來計畫。"
   ],
   "discussionPrompts": [
-    "教授問：「你認為科技對教育的影響是正面還是負面？」",
-    "教授問：「社交媒體在現代社會中扮演什麼樣的角色？」",
-    "教授問：「討論全球變暖的潛在解決方案有哪些？」",
-    "教授問：「文化差異如何影響國際商業合作？」",
-    "教授問：「你覺得藝術在社會變革中重要嗎？」",
-    "教授問：「在當今社會中，倫理與科學研究的關係如何？」"
+    "教授問：「您認為科技對社會的影響是正面還是負面？」",
+    "教授問：「全球暖化的主要原因是什麼？」",
+    "教授問：「社交媒體對人際關係的影響是什麼？」",
+    "教授問：「政府應該如何處理貧困問題？」",
+    "教授問：「教育改革的必要性與挑戰有哪些？」",
+    "教授問：「您支持或反對大學生應該參加實習嗎？為什麼？」"
   ]
 }
