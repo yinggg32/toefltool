@@ -9102,5 +9102,53 @@
     "zh": "可變的",
     "ex": "Variable stars change in brightness over time due to pulsations.",
     "cat": "📰 每日新詞：astronomy and space science"
+  },
+  {
+    "word": "dogma",
+    "pos": "n.",
+    "root": "—",
+    "zh": "教條",
+    "ex": "Philosophical dogma can restrict critical thinking and open inquiry.",
+    "cat": "📰 每日新詞：philosophy"
+  },
+  {
+    "word": "allegory",
+    "pos": "n.",
+    "root": "alleg-說明 + -ory名詞",
+    "zh": "寓言",
+    "ex": "An allegory conveys deeper philosophical meanings through symbolic figures.",
+    "cat": "📰 每日新詞：philosophy"
+  },
+  {
+    "word": "scepticism",
+    "pos": "n.",
+    "root": "scept-懷疑 + -icism主義",
+    "zh": "懷疑論",
+    "ex": "Scepticism challenges the validity of certain knowledge claims.",
+    "cat": "📰 每日新詞：philosophy"
+  },
+  {
+    "word": "libertarianism",
+    "pos": "n.",
+    "root": "libert-自由 + -arian主義 + -ism主義",
+    "zh": "自由意志主義",
+    "ex": "Libertarianism advocates for individual liberty and minimal government intervention.",
+    "cat": "📰 每日新詞：philosophy"
+  },
+  {
+    "word": "moralism",
+    "pos": "n.",
+    "root": "moral-道德 + -ism主義",
+    "zh": "道德主義",
+    "ex": "Moralism can lead to rigid ethical standards.",
+    "cat": "📰 每日新詞：philosophy"
+  },
+  {
+    "word": "rationality",
+    "pos": "n.",
+    "root": "rational-理性 + -ity名詞",
+    "zh": "理性",
+    "ex": "Rationality is often contrasted with emotional decision-making.",
+    "cat": "📰 每日新詞：philosophy"
   }
 ]

@@ -1,116 +1,116 @@
 {
   "chooseResponse": [
     {
-      "q": "What time is the meeting?",
+      "q": "Did you finish the assignment?",
       "options": [
-        "At 3 PM.",
-        "In the library.",
-        "On the main campus.",
-        "With the professor."
+        "Yes, I did.",
+        "Not yet, almost done.",
+        "I forgot about it.",
+        "I'm working on it now."
       ],
       "correctIndex": 0
     }
   ],
   "conversation": {
-    "transcript": "Student: Hey, do you know where the student council meeting is today?\nAdvisor: Yes, it's in the conference room on the second floor.\nStudent: Thanks! What time does it start?\nAdvisor: It starts at 3 PM, but you should arrive a bit early to get a good seat.",
+    "transcript": "Student: Hey, have you heard about the new study group for calculus?\nAdvisor: Yes, I think it's a great idea. Are you planning to join?\nStudent: I am, but I’m a bit worried about the time commitments.\nAdvisor: That’s understandable. They usually meet twice a week for an hour.",
     "questions": [
       {
-        "q": "Where is the meeting taking place?",
+        "q": "What is the purpose of the study group?",
         "options": [
-          "In the library.",
-          "In the cafeteria.",
-          "In the conference room.",
-          "In the gym."
+          "To prepare for exams",
+          "To discuss calculus concepts",
+          "To socialize",
+          "To review homework"
         ],
-        "correctIndex": 2,
-        "explain": "會議在會議室舉行。"
+        "correctIndex": 1,
+        "explain": "這個學習小組的目的是討論微積分的概念。"
       },
       {
-        "q": "What time should the student arrive?",
+        "q": "How often does the study group meet?",
         "options": [
-          "At 2 PM.",
-          "At 3 PM.",
-          "A bit early.",
-          "Right on time."
+          "Once a week",
+          "Twice a week",
+          "Every day",
+          "Only before exams"
         ],
-        "correctIndex": 2,
-        "explain": "學生應該早到一點。"
+        "correctIndex": 1,
+        "explain": "學習小組每週見面兩次。"
       }
     ]
   },
   "announcement": {
-    "transcript": "Attention students, please be reminded that the fall semester registration period ends this Friday. Make sure you have completed all necessary forms and payments to avoid any late fees. If you have questions, visit the registration office during business hours.",
+    "transcript": "Attention students: The library will have extended hours during finals week. Starting next Monday, the library will open at 8 AM and close at midnight. Please take advantage of this time to study and prepare for your exams.",
     "questions": [
       {
-        "q": "When does registration end?",
+        "q": "What will the library's new hours be?",
         "options": [
-          "This Monday.",
-          "This Friday.",
-          "Next Friday.",
-          "Next month."
+          "8 AM to 10 PM",
+          "8 AM to midnight",
+          "All day",
+          "Closed on weekends"
         ],
         "correctIndex": 1,
-        "explain": "註冊截止日期是這個星期五。"
+        "explain": "圖書館的新開放時間是早上八點到午夜。"
       },
       {
-        "q": "Where can students ask questions about registration?",
+        "q": "When do the extended hours start?",
         "options": [
-          "In the library.",
-          "At the gym.",
-          "In the registration office.",
-          "Online."
+          "Next Monday",
+          "This Friday",
+          "Next Wednesday",
+          "Tomorrow"
         ],
-        "correctIndex": 2,
-        "explain": "學生可以在註冊辦公室詢問問題。"
+        "correctIndex": 0,
+        "explain": "延長的開放時間從下週一開始。"
       }
     ]
   },
   "talk": {
-    "transcript": "Today, we'll discuss renewable energy sources. Renewable energy comes from natural processes that are replenished constantly. These include solar, wind, hydro, and geothermal energy. Unlike fossil fuels, which can deplete over time, renewable energy sources offer a sustainable way to generate power without harming the environment. The adoption of renewable energy is crucial in combating climate change, reducing greenhouse gas emissions, and ensuring a stable energy supply for the future. By investing in these technologies, we can create a cleaner and more sustainable world.",
+    "transcript": "Today, I want to talk about the process of photosynthesis. Photosynthesis is the way that plants convert light energy into chemical energy. This occurs mainly in the leaves, where chlorophyll captures sunlight. The process uses carbon dioxide from the air and water from the soil to produce glucose and oxygen. Glucose serves as energy for the plant, while oxygen is released into the atmosphere, benefiting all living organisms. Understanding photosynthesis is crucial because it is the foundation of the food chain and plays a significant role in our ecosystem.",
     "questions": [
       {
-        "q": "What is renewable energy?",
+        "q": "What is the main function of photosynthesis?",
         "options": [
-          "Energy from fossil fuels.",
-          "Energy that is constantly replenished.",
-          "Energy that harms the environment.",
-          "Energy that is non-renewable."
-        ],
-        "correctIndex": 1,
-        "explain": "可再生能源是持續補充的能源。"
-      },
-      {
-        "q": "Why is renewable energy important?",
-        "options": [
-          "It creates pollution.",
-          "It is not sustainable.",
-          "It helps combat climate change.",
-          "It depletes natural resources."
-        ],
-        "correctIndex": 2,
-        "explain": "可再生能源有助於應對氣候變化。"
-      },
-      {
-        "q": "Which of the following is not a renewable energy source?",
-        "options": [
-          "Solar energy.",
-          "Wind energy.",
-          "Fossil fuels.",
-          "Hydro energy."
-        ],
-        "correctIndex": 2,
-        "explain": "化石燃料不是可再生能源。"
-      },
-      {
-        "q": "What can renewable energy help reduce?",
-        "options": [
-          "Greenhouse gas emissions.",
-          "Natural disasters.",
-          "Energy consumption.",
-          "Raw material use."
+          "To produce glucose",
+          "To absorb oxygen",
+          "To release carbon dioxide",
+          "To capture light energy"
         ],
         "correctIndex": 0,
-        "explain": "可再生能源可以幫助減少溫室氣體排放。"
+        "explain": "光合作用的主要功能是產生葡萄糖。"
+      },
+      {
+        "q": "Where does photosynthesis primarily occur?",
+        "options": [
+          "In the roots",
+          "In the flowers",
+          "In the leaves",
+          "In the stems"
+        ],
+        "correctIndex": 2,
+        "explain": "光合作用主要發生在葉片中。"
+      },
+      {
+        "q": "What do plants use from the air during photosynthesis?",
+        "options": [
+          "Water",
+          "Nutrients",
+          "Carbon dioxide",
+          "Sunlight"
+        ],
+        "correctIndex": 2,
+        "explain": "植物在光合作用中使用空氣中的二氧化碳。"
+      },
+      {
+        "q": "What is a by-product of photosynthesis?",
+        "options": [
+          "Glucose",
+          "Carbon dioxide",
+          "Oxygen",
+          "Light energy"
+        ],
+        "correctIndex": 2,
+        "explain": "光合作用的副產品是氧氣。"
       }
     ]
   }

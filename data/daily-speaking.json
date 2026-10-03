@@ -1,45 +1,45 @@
 {
   "shadowSentences": [
-    "I love to read books every evening.",
-    "My favorite season is autumn because of the colors.",
-    "I enjoy hiking in the mountains during the summer.",
-    "Cooking new recipes is a fun way to spend my weekend.",
-    "I often listen to music while I work or study.",
-    "Traveling to new places helps me learn about different cultures.",
-    "I think it's important to stay active and exercise regularly.",
-    "Spending time with friends makes me feel happy and relaxed.",
-    "Gardening teaches me patience and the joy of nurturing plants.",
-    "Learning a new language opens up many opportunities in life."
+    "I enjoy reading books every evening.",
+    "Cooking is my favorite way to relax.",
+    "I often listen to music while studying.",
+    "Friends help me stay motivated in life.",
+    "Traveling to new places opens my mind.",
+    "I prefer outdoor activities over indoor ones.",
+    "Learning a new language can be challenging but rewarding.",
+    "Volunteering in my community has been a great experience for me.",
+    "Taking breaks during study sessions improves my focus and productivity.",
+    "Exploring different cultures through food has enriched my life significantly."
   ],
   "interviewScenarios": [
     {
-      "topic": "旅游经验",
+      "topic": "旅行體驗",
       "intro": "You have agreed to take part in a research study about travel experiences.",
       "questions": [
-        "Q1: Can you share a memorable trip you have taken?",
-        "Q2: What challenges did you face while traveling?",
-        "Q3: How do you feel travel impacts personal growth?",
-        "Q4: What advice would you give someone planning their first trip?"
+        "Q1: Can you share a memorable trip you’ve taken?",
+        "Q2: What were some challenges you faced during that trip?",
+        "Q3: How do you think travel impacts a person's perspective on life?",
+        "Q4: What advice would you give someone planning their first trip abroad?"
       ]
     },
     {
-      "topic": "志愿者活动",
-      "intro": "You have agreed to take part in a research study about volunteering.",
+      "topic": "電影的影響",
+      "intro": "You have agreed to take part in a research study about the impact of movies.",
       "questions": [
-        "Q1: Have you ever participated in a volunteer project?",
-        "Q2: What difficulties did you encounter while volunteering?",
-        "Q3: Why do you think volunteering is important for communities?",
-        "Q4: What recommendations would you make for new volunteers?"
+        "Q1: What is your favorite movie and why do you like it?",
+        "Q2: How do you think movies reflect society or culture?",
+        "Q3: In your opinion, how can films influence people's beliefs or behaviors?",
+        "Q4: What type of movies would you recommend for someone looking to learn about different cultures?"
       ]
     },
     {
-      "topic": "健康饮食",
-      "intro": "You have agreed to take part in a research study about healthy eating.",
+      "topic": "健康生活方式",
+      "intro": "You have agreed to take part in a research study about healthy lifestyles.",
       "questions": [
-        "Q1: What does a typical healthy meal look like for you?",
-        "Q2: What challenges do you face in maintaining a healthy diet?",
-        "Q3: Why do you believe healthy eating is essential?",
-        "Q4: What tips would you offer someone trying to eat healthier?"
+        "Q1: What healthy habits do you practice in your daily life?",
+        "Q2: What obstacles do you encounter when trying to maintain these habits?",
+        "Q3: Why do you believe a healthy lifestyle is important?",
+        "Q4: What tips would you offer to someone wanting to improve their health?"
       ]
     }
   ]
