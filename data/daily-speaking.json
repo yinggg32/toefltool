@@ -1,45 +1,45 @@
 {
   "shadowSentences": [
-    "I enjoy reading books every evening.",
-    "Cooking is my favorite way to relax.",
-    "I often listen to music while studying.",
-    "Friends help me stay motivated in life.",
-    "Traveling to new places opens my mind.",
-    "I prefer outdoor activities over indoor ones.",
-    "Learning a new language can be challenging but rewarding.",
-    "Volunteering in my community has been a great experience for me.",
-    "Taking breaks during study sessions improves my focus and productivity.",
-    "Exploring different cultures through food has enriched my life significantly."
+    "I enjoy reading books in my free time.",
+    "My favorite food is pizza with extra cheese.",
+    "I often go for a walk after dinner.",
+    "Traveling to new places is always exciting for me.",
+    "I like to listen to music while I study.",
+    "My best friend has a really great sense of humor.",
+    "I take an online course to improve my language skills.",
+    "Baking cookies on weekends is a fun activity for my family.",
+    "I often volunteer at a local animal shelter during summer.",
+    "Learning a new skill can be challenging but rewarding."
   ],
   "interviewScenarios": [
     {
-      "topic": "旅行體驗",
+      "topic": "運動習慣",
+      "intro": "You have agreed to take part in a research study about exercise habits.",
+      "questions": [
+        "Q1: Can you describe your current exercise routine?",
+        "Q2: What challenges do you face when trying to stay active?",
+        "Q3: How important do you think exercise is for a healthy lifestyle?",
+        "Q4: What advice would you give someone who wants to start exercising?"
+      ]
+    },
+    {
+      "topic": "飲食習慣",
+      "intro": "You have agreed to take part in a research study about eating habits.",
+      "questions": [
+        "Q1: What does a typical meal look like for you?",
+        "Q2: What challenges do you encounter when trying to eat healthy?",
+        "Q3: How do you feel about the impact of diet on health?",
+        "Q4: What tips would you suggest for someone wanting to eat better?"
+      ]
+    },
+    {
+      "topic": "旅遊經驗",
       "intro": "You have agreed to take part in a research study about travel experiences.",
       "questions": [
-        "Q1: Can you share a memorable trip you’ve taken?",
-        "Q2: What were some challenges you faced during that trip?",
-        "Q3: How do you think travel impacts a person's perspective on life?",
-        "Q4: What advice would you give someone planning their first trip abroad?"
-      ]
-    },
-    {
-      "topic": "電影的影響",
-      "intro": "You have agreed to take part in a research study about the impact of movies.",
-      "questions": [
-        "Q1: What is your favorite movie and why do you like it?",
-        "Q2: How do you think movies reflect society or culture?",
-        "Q3: In your opinion, how can films influence people's beliefs or behaviors?",
-        "Q4: What type of movies would you recommend for someone looking to learn about different cultures?"
-      ]
-    },
-    {
-      "topic": "健康生活方式",
-      "intro": "You have agreed to take part in a research study about healthy lifestyles.",
-      "questions": [
-        "Q1: What healthy habits do you practice in your daily life?",
-        "Q2: What obstacles do you encounter when trying to maintain these habits?",
-        "Q3: Why do you believe a healthy lifestyle is important?",
-        "Q4: What tips would you offer to someone wanting to improve their health?"
+        "Q1: Can you share your most memorable travel experience?",
+        "Q2: What difficulties have you faced while traveling?",
+        "Q3: In your opinion, what makes a good travel destination?",
+        "Q4: What recommendations would you give to someone planning a trip?"
       ]
     }
   ]

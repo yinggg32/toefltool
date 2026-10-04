@@ -1,116 +1,116 @@
 {
   "chooseResponse": [
     {
-      "q": "Did you finish the assignment?",
+      "q": "What time is the meeting?",
       "options": [
-        "Yes, I did.",
-        "Not yet, almost done.",
-        "I forgot about it.",
-        "I'm working on it now."
+        "It's at 3 PM.",
+        "I don't know.",
+        "Can you remind me?",
+        "Let's check the schedule."
       ],
       "correctIndex": 0
     }
   ],
   "conversation": {
-    "transcript": "Student: Hey, have you heard about the new study group for calculus?\nAdvisor: Yes, I think it's a great idea. Are you planning to join?\nStudent: I am, but I’m a bit worried about the time commitments.\nAdvisor: That’s understandable. They usually meet twice a week for an hour.",
+    "transcript": "Student: Hey, did you hear about the guest speaker next week?\nAdvisor: Yes, I did! It's going to be really interesting.\nStudent: What topic is the speaker discussing?\nAdvisor: They're going to talk about renewable energy technologies.",
     "questions": [
       {
-        "q": "What is the purpose of the study group?",
+        "q": "What is the main topic of the guest speaker?",
         "options": [
-          "To prepare for exams",
-          "To discuss calculus concepts",
-          "To socialize",
-          "To review homework"
+          "Climate change",
+          "Renewable energy technologies",
+          "Artificial intelligence",
+          "Space exploration"
         ],
         "correctIndex": 1,
-        "explain": "這個學習小組的目的是討論微積分的概念。"
+        "explain": "這位講者的主題是可再生能源技術。"
       },
       {
-        "q": "How often does the study group meet?",
+        "q": "When is the guest speaker scheduled?",
         "options": [
-          "Once a week",
-          "Twice a week",
-          "Every day",
-          "Only before exams"
+          "Next week",
+          "This weekend",
+          "Next month",
+          "Tomorrow"
         ],
-        "correctIndex": 1,
-        "explain": "學習小組每週見面兩次。"
+        "correctIndex": 0,
+        "explain": "這位講者的時間是在下週。"
       }
     ]
   },
   "announcement": {
-    "transcript": "Attention students: The library will have extended hours during finals week. Starting next Monday, the library will open at 8 AM and close at midnight. Please take advantage of this time to study and prepare for your exams.",
+    "transcript": "Attention students! The library will be hosting a special event on Friday from 1 PM to 4 PM, focusing on digital literacy. We encourage everyone to attend and enhance your skills with the latest online tools.",
     "questions": [
       {
-        "q": "What will the library's new hours be?",
+        "q": "What is the focus of the event at the library?",
         "options": [
-          "8 AM to 10 PM",
-          "8 AM to midnight",
-          "All day",
-          "Closed on weekends"
-        ],
-        "correctIndex": 1,
-        "explain": "圖書館的新開放時間是早上八點到午夜。"
-      },
-      {
-        "q": "When do the extended hours start?",
-        "options": [
-          "Next Monday",
-          "This Friday",
-          "Next Wednesday",
-          "Tomorrow"
+          "Digital literacy",
+          "Creative writing",
+          "Research methods",
+          "Art history"
         ],
         "correctIndex": 0,
-        "explain": "延長的開放時間從下週一開始。"
+        "explain": "這個活動的重點是數位素養。"
+      },
+      {
+        "q": "When will the event take place?",
+        "options": [
+          "Monday",
+          "Friday",
+          "Saturday",
+          "Next week"
+        ],
+        "correctIndex": 1,
+        "explain": "活動將在星期五舉行。"
       }
     ]
   },
   "talk": {
-    "transcript": "Today, I want to talk about the process of photosynthesis. Photosynthesis is the way that plants convert light energy into chemical energy. This occurs mainly in the leaves, where chlorophyll captures sunlight. The process uses carbon dioxide from the air and water from the soil to produce glucose and oxygen. Glucose serves as energy for the plant, while oxygen is released into the atmosphere, benefiting all living organisms. Understanding photosynthesis is crucial because it is the foundation of the food chain and plays a significant role in our ecosystem.",
+    "transcript": "Today, we'll explore the concept of biomimicry, which is the design and production of materials, structures, and systems inspired by nature. For example, Velcro was inspired by how burrs attach to animal fur. By studying nature's models, we can create more sustainable and efficient technologies. This approach not only helps in innovation but also promotes environmental responsibility. Companies are increasingly looking to nature for solutions to complex problems, from energy efficiency to material durability.",
     "questions": [
       {
-        "q": "What is the main function of photosynthesis?",
+        "q": "What is biomimicry?",
         "options": [
-          "To produce glucose",
-          "To absorb oxygen",
-          "To release carbon dioxide",
-          "To capture light energy"
+          "Studying animal behavior",
+          "Design inspired by nature",
+          "A type of environmental policy",
+          "A new technology method"
         ],
-        "correctIndex": 0,
-        "explain": "光合作用的主要功能是產生葡萄糖。"
+        "correctIndex": 1,
+        "explain": "生物仿造是指從自然中獲取靈感進行設計。"
       },
       {
-        "q": "Where does photosynthesis primarily occur?",
+        "q": "What is one example mentioned in the talk?",
         "options": [
-          "In the roots",
-          "In the flowers",
-          "In the leaves",
-          "In the stems"
+          "Solar panels",
+          "Velcro",
+          "Hydraulic systems",
+          "Wind turbines"
         ],
-        "correctIndex": 2,
-        "explain": "光合作用主要發生在葉片中。"
+        "correctIndex": 1,
+        "explain": "提到的例子是魔鬼氈（Velcro）。"
       },
       {
-        "q": "What do plants use from the air during photosynthesis?",
+        "q": "What is a benefit of biomimicry?",
         "options": [
-          "Water",
-          "Nutrients",
-          "Carbon dioxide",
-          "Sunlight"
+          "It increases costs",
+          "It reduces innovation",
+          "It promotes environmental responsibility",
+          "It limits technology"
         ],
         "correctIndex": 2,
-        "explain": "植物在光合作用中使用空氣中的二氧化碳。"
+        "explain": "生物仿造有助於促進環境責任。"
       },
       {
-        "q": "What is a by-product of photosynthesis?",
+        "q": "How are companies using biomimicry?",
         "options": [
-          "Glucose",
-          "Carbon dioxide",
-          "Oxygen",
-          "Light energy"
+          "To study animal behavior",
+          "To create more sustainable technologies",
+          "To increase labor costs",
+          "To avoid natural materials"
         ],
-        "correctIndex": 2,
-        "explain": "光合作用的副產品是氧氣。"
+        "correctIndex": 1,
+        "explain": "公司正在利用生物仿造來創造更可持續的科技。"
       }
     ]
   }

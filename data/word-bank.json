@@ -9150,5 +9150,53 @@
     "zh": "理性",
     "ex": "Rationality is often contrasted with emotional decision-making.",
     "cat": "📰 每日新詞：philosophy"
+  },
+  {
+    "word": "evaluation",
+    "pos": "n.",
+    "root": "e-外 + valu評估 + ation行為",
+    "zh": "評估",
+    "ex": "Evaluation of public health programs helps determine their effectiveness and efficiency.",
+    "cat": "📰 每日新詞：public health"
+  },
+  {
+    "word": "mental",
+    "pos": "adj.",
+    "root": "ment心智 + al形容詞",
+    "zh": "心理的",
+    "ex": "Mental health is an integral part of overall public health.",
+    "cat": "📰 每日新詞：public health"
+  },
+  {
+    "word": "healthful",
+    "pos": "adj.",
+    "root": "health健康 + ful充滿的",
+    "zh": "有益健康的",
+    "ex": "Healthful eating habits contribute to the prevention of chronic diseases.",
+    "cat": "📰 每日新詞：public health"
+  },
+  {
+    "word": "technology",
+    "pos": "n.",
+    "root": "tech技術 + ology學科",
+    "zh": "科技",
+    "ex": "The use of technology in public health can enhance data collection and analysis.",
+    "cat": "📰 每日新詞：public health"
+  },
+  {
+    "word": "responsibility",
+    "pos": "n.",
+    "root": "respond回應 + ibility能力",
+    "zh": "責任",
+    "ex": "Public health professionals have a responsibility to inform the community about health risks.",
+    "cat": "📰 每日新詞：public health"
+  },
+  {
+    "word": "community-based",
+    "pos": "adj.",
+    "root": "community社區 + based基於",
+    "zh": "基於社區的",
+    "ex": "Community-based health programs are effective in addressing local health issues.",
+    "cat": "📰 每日新詞：public health"
   }
 ]
