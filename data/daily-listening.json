@@ -1,116 +1,116 @@
 {
   "chooseResponse": [
     {
-      "q": "What time is the meeting?",
+      "q": "What did you think of the lecture?",
       "options": [
-        "It's at 3 PM.",
-        "I don't know.",
-        "Can you remind me?",
-        "Let's check the schedule."
+        "It was interesting!",
+        "I didn't like it.",
+        "It was too long.",
+        "I want to learn more."
       ],
       "correctIndex": 0
     }
   ],
   "conversation": {
-    "transcript": "Student: Hey, did you hear about the guest speaker next week?\nAdvisor: Yes, I did! It's going to be really interesting.\nStudent: What topic is the speaker discussing?\nAdvisor: They're going to talk about renewable energy technologies.",
+    "transcript": "Student: Hey, have you started your research project?\nProfessor: Yes, I have. It's on environmental science.\nStudent: That sounds cool! What aspect are you focusing on?\nProfessor: I'm looking into renewable energy sources specifically.",
     "questions": [
       {
-        "q": "What is the main topic of the guest speaker?",
+        "q": "What is the student's main concern?",
         "options": [
-          "Climate change",
-          "Renewable energy technologies",
-          "Artificial intelligence",
-          "Space exploration"
-        ],
-        "correctIndex": 1,
-        "explain": "這位講者的主題是可再生能源技術。"
-      },
-      {
-        "q": "When is the guest speaker scheduled?",
-        "options": [
-          "Next week",
-          "This weekend",
-          "Next month",
-          "Tomorrow"
+          "The project topic",
+          "The professor's resources",
+          "The project deadline",
+          "The energy sources"
         ],
         "correctIndex": 0,
-        "explain": "這位講者的時間是在下週。"
+        "explain": "學生最關心的是專題的主題。"
+      },
+      {
+        "q": "What is the professor researching?",
+        "options": [
+          "Climate change",
+          "Renewable energy sources",
+          "Pollution effects",
+          "Wildlife conservation"
+        ],
+        "correctIndex": 1,
+        "explain": "教授正在研究可再生能源的來源。"
       }
     ]
   },
   "announcement": {
-    "transcript": "Attention students! The library will be hosting a special event on Friday from 1 PM to 4 PM, focusing on digital literacy. We encourage everyone to attend and enhance your skills with the latest online tools.",
+    "transcript": "Attention students, the library will be closed this Saturday for maintenance. Please plan your study time accordingly and make sure to check out any materials you may need beforehand. Thank you for your understanding.",
     "questions": [
       {
-        "q": "What is the focus of the event at the library?",
+        "q": "Why will the library be closed?",
         "options": [
-          "Digital literacy",
-          "Creative writing",
-          "Research methods",
-          "Art history"
-        ],
-        "correctIndex": 0,
-        "explain": "這個活動的重點是數位素養。"
-      },
-      {
-        "q": "When will the event take place?",
-        "options": [
-          "Monday",
-          "Friday",
-          "Saturday",
-          "Next week"
+          "For a holiday",
+          "For maintenance",
+          "For a new collection",
+          "For staff training"
         ],
         "correctIndex": 1,
-        "explain": "活動將在星期五舉行。"
+        "explain": "圖書館將因為維修而關閉。"
+      },
+      {
+        "q": "What should students do before Saturday?",
+        "options": [
+          "Return their books",
+          "Check out materials",
+          "Attend a seminar",
+          "Prepare for exams"
+        ],
+        "correctIndex": 1,
+        "explain": "學生應該在星期六之前借出所需的材料。"
       }
     ]
   },
   "talk": {
-    "transcript": "Today, we'll explore the concept of biomimicry, which is the design and production of materials, structures, and systems inspired by nature. For example, Velcro was inspired by how burrs attach to animal fur. By studying nature's models, we can create more sustainable and efficient technologies. This approach not only helps in innovation but also promotes environmental responsibility. Companies are increasingly looking to nature for solutions to complex problems, from energy efficiency to material durability.",
+    "transcript": "Today, I want to discuss the importance of biodiversity in ecosystems. Biodiversity refers to the variety of life found in a particular habitat or ecosystem, and it plays a crucial role in maintaining the balance of our environment. Diverse ecosystems are more resilient to changes, such as climate change or disease outbreaks, because they can better adapt and recover. Additionally, biodiversity contributes to human health and well-being by providing resources like food, medicine, and clean air. Protecting biodiversity is essential for sustaining life on Earth.",
     "questions": [
       {
-        "q": "What is biomimicry?",
+        "q": "What does biodiversity refer to?",
         "options": [
-          "Studying animal behavior",
-          "Design inspired by nature",
-          "A type of environmental policy",
-          "A new technology method"
+          "The number of species",
+          "The variety of life",
+          "The health of ecosystems",
+          "The climate changes"
         ],
         "correctIndex": 1,
-        "explain": "生物仿造是指從自然中獲取靈感進行設計。"
+        "explain": "生物多樣性指的是生態系統中生命的多樣性。"
       },
       {
-        "q": "What is one example mentioned in the talk?",
+        "q": "Why are diverse ecosystems important?",
         "options": [
-          "Solar panels",
-          "Velcro",
-          "Hydraulic systems",
-          "Wind turbines"
-        ],
-        "correctIndex": 1,
-        "explain": "提到的例子是魔鬼氈（Velcro）。"
-      },
-      {
-        "q": "What is a benefit of biomimicry?",
-        "options": [
-          "It increases costs",
-          "It reduces innovation",
-          "It promotes environmental responsibility",
-          "It limits technology"
+          "They are easier to study",
+          "They offer more resources",
+          "They are more resilient to changes",
+          "They require less maintenance"
         ],
         "correctIndex": 2,
-        "explain": "生物仿造有助於促進環境責任。"
+        "explain": "多樣化的生態系統對變化更具韌性。"
       },
       {
-        "q": "How are companies using biomimicry?",
+        "q": "What does biodiversity provide to humans?",
         "options": [
-          "To study animal behavior",
-          "To create more sustainable technologies",
-          "To increase labor costs",
-          "To avoid natural materials"
+          "Only food",
+          "Only medicine",
+          "Resources like food and medicine",
+          "Aesthetic value only"
         ],
-        "correctIndex": 1,
-        "explain": "公司正在利用生物仿造來創造更可持續的科技。"
+        "correctIndex": 2,
+        "explain": "生物多樣性為人類提供食物和藥物等資源。"
+      },
+      {
+        "q": "What is necessary for sustaining life on Earth?",
+        "options": [
+          "Industrial growth",
+          "Technological advancements",
+          "Protecting biodiversity",
+          "Urban development"
+        ],
+        "correctIndex": 2,
+        "explain": "保護生物多樣性對於支持地球上的生命是必需的。"
       }
     ]
   }

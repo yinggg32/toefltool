@@ -2,107 +2,95 @@
   "cloze": {
     "segments": [
       {
-        "text": "The theory of relativity fundamentally changed our understanding of space and "
+        "text": "The theory of relativity, developed by Albert Einstei"
       },
       {
-        "blank": "time"
+        "blank": "n",
+        "text": ", revolutionized our understanding of space and time. It is divided into two parts: special relativity and general relativity. Special relativity, introduced in 1905, focuses on the physics of objects moving at constant speeds, particularly those close to the speed of light. It asserts that time and space are interwoven into a single continuum called spac"
       },
       {
-        "text": ". Proposed by Albert Einstein in the early 20th century, it consists of two main components: special relativity and general relativity. Special relativity introduced the concept that the laws of physics are the same for all "
+        "blank": "etime",
+        "text": ". General relativity, published in 1915, expands on this by incorporating gravity, describing it not as a force, but as a curvature of spacetime caused by mass. This groundbreaking concept has had profound implications in the field of cosmology, influencing how we perceive black holes and the expan"
       },
       {
-        "blank": "observ"
-      },
-      {
-        "text": "ers, regardless of their relative motion. This led to the famous equation E=mc², highlighting the equivalence of mass and energy. General relativity, on the other hand, extends the principle to include "
-      },
-      {
-        "blank": "gravit"
-      },
-      {
-        "text": "ational effects, describing gravity as the curvature of space-time caused by mass. Together, these theories not only revolutionized physics but also had profound implications for our understanding of the universe, influencing areas such as cosmology and "
-      },
-      {
-        "blank": "astroph"
-      },
-      {
-        "text": "ysics."
+        "blank": "sion",
+        "text": ", of the universe."
       }
     ]
   },
   "academic": {
-    "passage": "The theory of relativity fundamentally changed our understanding of space and time. Proposed by Albert Einstein in the early 20th century, it consists of two main components: special relativity and general relativity. Special relativity introduced the concept that the laws of physics are the same for all observers, regardless of their relative motion. This led to the famous equation E=mc², highlighting the equivalence of mass and energy. General relativity, on the other hand, extends the principle to include gravitational effects, describing gravity as the curvature of space-time caused by mass. Together, these theories not only revolutionized physics but also had profound implications for our understanding of the universe, influencing areas such as cosmology and astrophysics.",
+    "passage": "The theory of relativity, formulated by Albert Einstein, transformed scientific views on space and time. It comprises two main aspects: special relativity, which addresses objects moving at constant velocities, and general relativity, which includes the effects of gravity. The implications of this theory are vast, especially in understanding cosmic phenomena such as black holes.",
     "questions": [
       {
         "q": "What is the main idea of the passage?",
         "options": [
-          "The impact of relativity on modern physics.",
-          "The history of physics before Einstein.",
-          "Different theories of motion.",
-          "Einstein's life and achievements."
+          "The development of the theory of relativity",
+          "The history of Einstein's life",
+          "The impact of gravity on time",
+          "The definition of spacetime"
         ],
         "correctIndex": 0,
-        "explain": "這段文字的主旨是相對論對現代物理學的影響。"
+        "explain": "這段文字主要講述了相對論的發展及其對科學的影響。"
       },
       {
-        "q": "What equation is introduced in special relativity?",
+        "q": "In which year was special relativity introduced?",
         "options": [
-          "F=ma",
-          "E=mc²",
-          "a²+b²=c²",
-          "P=IV"
+          "1905",
+          "1915",
+          "1920",
+          "1930"
         ],
-        "correctIndex": 1,
-        "explain": "在特殊相對論中，引入了著名的方程式E=mc²。"
+        "correctIndex": 0,
+        "explain": "特別相對論於1905年提出。"
       },
       {
-        "q": "What inference can be made about general relativity?",
+        "q": "What can be inferred about the relationship between mass and gravity?",
         "options": [
-          "It is simpler than special relativity.",
-          "It is unrelated to gravity.",
-          "It extends the principles of special relativity.",
-          "It was proposed after special relativity."
+          "Mass does not affect gravity.",
+          "Gravity is a force created by mass.",
+          "Mass causes spacetime to curve.",
+          "Gravity is unrelated to mass."
         ],
         "correctIndex": 2,
-        "explain": "可以推斷出一般相對論擴展了特殊相對論的原則。"
+        "explain": "可以推斷出質量會導致時空的彎曲，這是廣義相對論的核心概念。"
       },
       {
-        "q": "What does the term 'mass' refer to in the passage?",
+        "q": "What does the term 'spacetime' refer to?",
         "options": [
-          "Weight",
-          "Matter in a physical object",
-          "Energy",
-          "Force"
+          "A single continuum of space and time",
+          "A separate concept for space",
+          "A force in the universe",
+          "A type of black hole"
         ],
-        "correctIndex": 1,
-        "explain": "在這段文字中，質量指的是物體中的物質。"
+        "correctIndex": 0,
+        "explain": "'時空'這個術語指的是空間和時間的綜合體，這是相對論的基本概念之一。"
       }
     ]
   },
   "daily": {
-    "passage": "Attention students: There will be a campus-wide event next Friday at 5 PM in the main hall. Join us for an evening of activities, food, and prizes! Don’t miss the chance to meet new friends and enjoy some fun.",
+    "passage": "Attention students: The library will be closed for renovations from May 1 to May 15. Please plan accordingly and make use of the online resources during this period.",
     "questions": [
       {
-        "q": "What time will the campus-wide event start?",
+        "q": "When will the library be closed?",
         "options": [
-          "3 PM",
-          "4 PM",
-          "5 PM",
-          "6 PM"
+          "From May 1 to May 15",
+          "From May 15 to May 30",
+          "From April 25 to May 5",
+          "From May 5 to May 10"
         ],
-        "correctIndex": 2,
-        "explain": "活動將在下午5點開始。"
+        "correctIndex": 0,
+        "explain": "圖書館將於5月1日至5月15日關閉。"
       },
       {
-        "q": "What will be offered at the campus event?",
+        "q": "What should students use during the library closure?",
         "options": [
-          "Only food",
-          "Only prizes",
-          "Activities, food, and prizes",
-          "A guest speaker"
+          "Printed books",
+          "Online resources",
+          "Study rooms",
+          "Group study sessions"
         ],
-        "correctIndex": 2,
-        "explain": "活動將提供活動、美食和獎品。"
+        "correctIndex": 1,
+        "explain": "在圖書館關閉期間，學生應使用在線資源。"
       }
     ]
   }

@@ -2,120 +2,126 @@
   "buildSentences": [
     {
       "words": [
-        "to",
         "the",
-        "meeting",
-        "attend",
-        "i",
-        "will",
-        "tomorrow",
-        "at",
-        "nine"
-      ],
-      "display": "I will attend the meeting tomorrow at nine."
-    },
-    {
-      "words": [
-        "studying",
-        "important",
-        "for",
-        "is",
-        "language",
-        "learning"
-      ],
-      "display": "Studying is important for language learning."
-    },
-    {
-      "words": [
+        "quick",
+        "brown",
+        "fox",
+        "jumps",
+        "over",
         "the",
-        "project",
-        "deadline",
-        "is",
-        "extended",
-        "next",
-        "week"
+        "lazy",
+        "dog"
       ],
-      "display": "The project deadline is extended next week."
+      "display": "The quick brown fox jumps over the lazy dog."
     },
     {
       "words": [
-        "best",
-        "to",
-        "it",
-        "is",
-        "believe",
-        "hard",
-        "achieve",
-        "success"
-      ],
-      "display": "It is best to believe hard to achieve success."
-    },
-    {
-      "words": [
-        "the",
-        "needs",
-        "team",
-        "to",
-        "improve",
-        "communication",
-        "strategies"
-      ],
-      "display": "The team needs to improve communication strategies."
-    },
-    {
-      "words": [
-        "recommend",
-        "i",
-        "you",
-        "this",
-        "book",
-        "to",
-        "read",
-        "highly"
-      ],
-      "display": "I highly recommend you to read this book."
-    },
-    {
-      "words": [
-        "the",
-        "researcher",
-        "presented",
-        "new",
-        "findings",
-        "at",
-        "the",
-        "conference"
-      ],
-      "display": "The researcher presented new findings at the conference."
-    },
-    {
-      "words": [
-        "for",
-        "benefits",
+        "students",
+        "should",
+        "take",
+        "care",
         "of",
-        "exercise",
-        "discuss",
-        "we",
-        "the",
-        "class"
+        "their",
+        "health",
+        "seriously"
       ],
-      "display": "We discuss the benefits of exercise for the class."
+      "display": "Students should take care of their health seriously."
+    },
+    {
+      "words": [
+        "the",
+        "environment",
+        "is",
+        "affected",
+        "by",
+        "human",
+        "activities",
+        "greatly"
+      ],
+      "display": "The environment is affected by human activities greatly."
+    },
+    {
+      "words": [
+        "many",
+        "people",
+        "prefer",
+        "to",
+        "work",
+        "from",
+        "home",
+        "nowadays"
+      ],
+      "display": "Many people prefer to work from home nowadays."
+    },
+    {
+      "words": [
+        "reading",
+        "books",
+        "can",
+        "improve",
+        "your",
+        "vocabulary",
+        "and",
+        "knowledge"
+      ],
+      "display": "Reading books can improve your vocabulary and knowledge."
+    },
+    {
+      "words": [
+        "global",
+        "warming",
+        "is",
+        "a",
+        "serious",
+        "issue",
+        "that",
+        "needs",
+        "attention"
+      ],
+      "display": "Global warming is a serious issue that needs attention."
+    },
+    {
+      "words": [
+        "technology",
+        "has",
+        "changed",
+        "the",
+        "way",
+        "we",
+        "communicate",
+        "dramatically"
+      ],
+      "display": "Technology has changed the way we communicate dramatically."
+    },
+    {
+      "words": [
+        "traveling",
+        "can",
+        "broaden",
+        "your",
+        "perspective",
+        "and",
+        "understanding",
+        "of",
+        "cultures"
+      ],
+      "display": "Traveling can broaden your perspective and understanding of cultures."
     }
   ],
   "emailPrompts": [
-    "寄信給宿舍辦公室，詢問如何申請更換宿舍房間。",
-    "寄信給圖書館，請求延長借書期限。",
-    "寄信給社團主席，報名參加下星期的活動。",
-    "寄信給客服，詢問產品的退貨政策。",
-    "寄信給教授，請教有關期末報告的題目。",
-    "寄信給學校行政部門，詢問獎學金的申請截止日期。"
+    "寄信給教授，詢問即將到來的期末考試的準備建議。",
+    "寄信給宿舍管理辦公室，請求更換房間的原因。",
+    "寄信給圖書館，詢問將要舉辦的書籍展覽的詳細信息。",
+    "寄信給學生會，表達對即將舉行的活動的建議和意見。",
+    "寄信給客服，反映最近購買的產品存在問題，要求退貨。",
+    "寄信給班主任，請求對即將到來的學術會議的參加要求提供幫助。"
   ],
   "discussionPrompts": [
-    "教授問：「你認為科技對於人際關係的影響是正面還是負面？」",
-    "教授問：「在全球化的世界中，文化多樣性如何被維護？」",
-    "教授問：「社會媒體能否改善公共參與，為什麼？」",
-    "教授問：「環境保護與經濟發展之間的平衡應該如何取得？」",
-    "教授問：「你認為教育公平的重要性何在？」",
-    "教授問：「在當今社會，藝術的角色是什麼？」"
+    "教授問：「科技對教育的影響有哪些正面與負面影響？」",
+    "教授問：「文化交流在全球化中的重要性是什麼？」",
+    "教授問：「環境保護與經濟發展之間的平衡該如何實現？」",
+    "教授問：「社交媒體對人際關係的影響是正面還是負面？」",
+    "教授問：「哪種學習方式最能激發學生的創造力？」",
+    "教授問：「應該如何看待基因編輯技術的倫理問題？」"
   ]
 }

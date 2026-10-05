@@ -9198,5 +9198,61 @@
     "zh": "基於社區的",
     "ex": "Community-based health programs are effective in addressing local health issues.",
     "cat": "📰 每日新詞：public health"
+  },
+  {
+    "word": "politician",
+    "pos": "n.",
+    "root": "政治家 (zhèngzhìjiā) + politician",
+    "zh": "政治人物",
+    "ex": "A skilled politician understands the nuances of public opinion and media.",
+    "cat": "📰 每日新詞：political science"
+  },
+  {
+    "word": "vote",
+    "pos": "v./n.",
+    "root": "投票 (tóupiào) + vote",
+    "zh": "投票",
+    "ex": "Every citizen has the right to vote in democratic elections.",
+    "cat": "📰 每日新詞：political science"
+  },
+  {
+    "word": "theocracy",
+    "pos": "n.",
+    "root": "神權政治 (shénquán zhèngzhì) + theocracy",
+    "zh": "神權政治",
+    "ex": "A theocracy is a system of government in which priests rule in the name of a deity.",
+    "cat": "📰 每日新詞：political science"
+  },
+  {
+    "word": "separation of powers",
+    "pos": "n.",
+    "root": "權力分立 (quánlì fēnlì) + separation of powers",
+    "zh": "權力分立",
+    "ex": "The separation of powers is a fundamental principle in democratic governance.",
+    "cat": "📰 每日新詞：political science"
+  },
+  {
+    "word": "conservatism",
+    "pos": "n.",
+    "root": "保守主義 (bǎoshǒu zhǔyì) + conservatism",
+    "zh": "保守主義",
+    "ex": "Conservatism advocates for preserving traditional institutions and values.",
+    "cat": "📰 每日新詞：political science"
+  },
+  {
+    "word": "utopia",
+    "pos": "n.",
+    "root": "烏托邦 (wūtuōbāng) + utopia",
+    "zh": "烏托邦",
+    "ex": "The concept of utopia reflects humanity's desire for a perfect society.",
+    "cat": "📰 每日新詞：political science"
+  },
+  {
+    "word": "repression",
+    "pos": "n.",
+    "root": "壓制 (yāzhì) + repression",
+    "zh": "壓制",
+    "ex": "Political repression can lead to widespread discontent and unrest.",
+    "cat": "📰 每日新詞：political science"
   }
 ]
