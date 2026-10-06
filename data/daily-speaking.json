@@ -1,45 +1,45 @@
 {
   "shadowSentences": [
-    "She loves to read every evening.",
-    "I often cook dinner for my family.",
-    "He enjoys hiking in the mountains every weekend.",
-    "They traveled to Japan last summer for vacation.",
-    "My favorite hobby is painting landscapes in watercolors.",
-    "We always celebrate birthdays with a big party at home.",
-    "I usually go jogging in the park early in the morning.",
-    "Learning a new language can be challenging but rewarding.",
-    "Visiting new cities helps me learn about different cultures and cuisines.",
-    "Taking care of a pet teaches responsibility and compassion in life."
+    "I like to read books at night.",
+    "My favorite season is autumn every year.",
+    "I enjoy cooking new recipes on weekends.",
+    "Going for walks helps me clear my mind sometimes.",
+    "I often listen to music while I work.",
+    "Traveling brings me joy and new experiences.",
+    "I prefer coffee over tea in the morning.",
+    "Spending time outdoors is important for my well-being.",
+    "I usually plan my vacations well in advance every year.",
+    "Trying different cuisines from around the world is exciting."
   ],
   "interviewScenarios": [
     {
-      "topic": "旅行計畫",
+      "topic": "旅行計劃",
       "intro": "You have agreed to take part in a research study about travel planning.",
       "questions": [
-        "Q1: Can you describe your last travel experience?",
-        "Q2: What challenges did you face while planning that trip?",
-        "Q3: How important is travel to you in your life?",
-        "Q4: What advice would you give someone planning their first trip?"
+        "Q1: What was your last travel experience like?",
+        "Q2: What challenges do you face when planning a trip?",
+        "Q3: How important do you think travel is for personal growth?",
+        "Q4: What advice would you give to someone planning their first trip?"
       ]
     },
     {
       "topic": "健康飲食",
       "intro": "You have agreed to take part in a research study about healthy eating.",
       "questions": [
-        "Q1: What does a typical meal look like for you?",
-        "Q2: Have you encountered any difficulties in maintaining a healthy diet?",
-        "Q3: In your opinion, why is healthy eating important?",
-        "Q4: What tips would you offer to someone wanting to eat healthier?"
+        "Q1: How do you usually maintain a healthy diet?",
+        "Q2: What are some difficulties you encounter with healthy eating?",
+        "Q3: Why do you think healthy eating is essential for everyone?",
+        "Q4: What tips would you offer to someone trying to eat healthier?"
       ]
     },
     {
-      "topic": "環保習慣",
-      "intro": "You have agreed to take part in a research study about eco-friendly habits.",
+      "topic": "運動習慣",
+      "intro": "You have agreed to take part in a research study about exercise habits.",
       "questions": [
-        "Q1: What eco-friendly practices do you follow at home?",
-        "Q2: Have you faced any obstacles in adopting more sustainable habits?",
-        "Q3: How do you feel about the importance of environmental protection?",
-        "Q4: What suggestions would you give to someone wanting to be more eco-conscious?"
+        "Q1: What type of exercise do you enjoy the most?",
+        "Q2: What challenges do you face in sticking to a workout routine?",
+        "Q3: In your opinion, how does exercise benefit mental health?",
+        "Q4: What recommendations do you have for someone starting to exercise?"
       ]
     }
   ]

@@ -2,95 +2,107 @@
   "cloze": {
     "segments": [
       {
-        "text": "The theory of relativity, developed by Albert Einstei"
+        "text": "The process of photosynthesis is essential for plant life, enabling them to convert light energy into chemical energy. This process begins when chlorophyll, the green pigment in leaves, absorbs sunlight. The absorbed light energy then excites electrons, leading to a series of reactions. During these reactions, carbon dioxide from the atmosphere is combined with water taken up by the roots to produce glucose. Furthermore, this process releases oxygen as a byproduct, which is crucial for the survival of most living organisms. Thus, photosynthesis not only fuels plant growth but also sustains life on Earth."
       },
       {
-        "blank": "n",
-        "text": ", revolutionized our understanding of space and time. It is divided into two parts: special relativity and general relativity. Special relativity, introduced in 1905, focuses on the physics of objects moving at constant speeds, particularly those close to the speed of light. It asserts that time and space are interwoven into a single continuum called spac"
+        "blank": "pho"
       },
       {
-        "blank": "etime",
-        "text": ". General relativity, published in 1915, expands on this by incorporating gravity, describing it not as a force, but as a curvature of spacetime caused by mass. This groundbreaking concept has had profound implications in the field of cosmology, influencing how we perceive black holes and the expan"
+        "text": "tosynthesis is a fundamental process that supports life."
       },
       {
-        "blank": "sion",
-        "text": ", of the universe."
+        "blank": "synthesize"
+      },
+      {
+        "text": "s and transforms light energy."
+      },
+      {
+        "blank": "gl"
+      },
+      {
+        "text": "ucose serves as energy storage for plants."
+      },
+      {
+        "blank": "xy"
+      },
+      {
+        "text": "gen is vital for respiration in animals."
       }
     ]
   },
   "academic": {
-    "passage": "The theory of relativity, formulated by Albert Einstein, transformed scientific views on space and time. It comprises two main aspects: special relativity, which addresses objects moving at constant velocities, and general relativity, which includes the effects of gravity. The implications of this theory are vast, especially in understanding cosmic phenomena such as black holes.",
+    "passage": "Photosynthesis is a process used by plants to convert light energy into chemical energy in the form of glucose. It involves chlorophyll, which captures sunlight, and the conversion of carbon dioxide and water into glucose and oxygen. The oxygen produced is released into the atmosphere, essential for the survival of aerobic organisms. This process occurs primarily in the chloroplasts of plant cells and is crucial for maintaining the energy balance in ecosystems.",
     "questions": [
       {
         "q": "What is the main idea of the passage?",
         "options": [
-          "The development of the theory of relativity",
-          "The history of Einstein's life",
-          "The impact of gravity on time",
-          "The definition of spacetime"
+          "Photosynthesis is vital for ecosystem energy balance.",
+          "Chlorophyll is the only pigment involved in photosynthesis.",
+          "Glucose is the primary product of photosynthesis.",
+          "Photosynthesis occurs in all living organisms."
         ],
         "correctIndex": 0,
-        "explain": "這段文字主要講述了相對論的發展及其對科學的影響。"
+        "explain": "本段的主要概念是光合作用對於生態系統的能量平衡至關重要。"
       },
       {
-        "q": "In which year was special relativity introduced?",
+        "q": "Which of the following is a product of the photosynthesis process?",
         "options": [
-          "1905",
-          "1915",
-          "1920",
-          "1930"
+          "Carbon Dioxide",
+          "Glucose",
+          "Chlorophyll",
+          "Water"
         ],
-        "correctIndex": 0,
-        "explain": "特別相對論於1905年提出。"
+        "correctIndex": 1,
+        "explain": "光合作用的產物是葡萄糖，這是植物儲存能量的方式。"
       },
       {
-        "q": "What can be inferred about the relationship between mass and gravity?",
+        "q": "What can be inferred about the role of oxygen in the ecosystem?",
         "options": [
-          "Mass does not affect gravity.",
-          "Gravity is a force created by mass.",
-          "Mass causes spacetime to curve.",
-          "Gravity is unrelated to mass."
+          "Oxygen is not important for plants.",
+          "Oxygen is a waste product for plants.",
+          "Oxygen is essential for the survival of aerobic organisms.",
+          "Oxygen is produced only during the day."
         ],
         "correctIndex": 2,
-        "explain": "可以推斷出質量會導致時空的彎曲，這是廣義相對論的核心概念。"
+        "explain": "氧氣對於需氧生物的生存至關重要，這是本段中提到的。"
       },
       {
-        "q": "What does the term 'spacetime' refer to?",
+        "q": "What does the term 'chloroplast' refer to in this passage?",
         "options": [
-          "A single continuum of space and time",
-          "A separate concept for space",
-          "A force in the universe",
-          "A type of black hole"
+          "A type of pigment.",
+          "An organelle in plant cells.",
+          "A chemical reaction.",
+          "A source of light energy."
         ],
-        "correctIndex": 0,
-        "explain": "'時空'這個術語指的是空間和時間的綜合體，這是相對論的基本概念之一。"
+        "correctIndex": 1,
+        "explain": "'葉綠體'是指植物細胞中的一種細胞器，負責進行光合作用。"
       }
     ]
   },
   "daily": {
-    "passage": "Attention students: The library will be closed for renovations from May 1 to May 15. Please plan accordingly and make use of the online resources during this period.",
+    "passage": "Attention students: The library will be closed for maintenance this Friday from 8 AM to 4 PM. Please plan to return your books before then. Thank you for your understanding.",
     "questions": [
       {
-        "q": "When will the library be closed?",
+        "q": "When will the library be closed for maintenance?",
         "options": [
-          "From May 1 to May 15",
-          "From May 15 to May 30",
-          "From April 25 to May 5",
-          "From May 5 to May 10"
-        ],
-        "correctIndex": 0,
-        "explain": "圖書館將於5月1日至5月15日關閉。"
-      },
-      {
-        "q": "What should students use during the library closure?",
-        "options": [
-          "Printed books",
-          "Online resources",
-          "Study rooms",
-          "Group study sessions"
+          "Thursday",
+          "Friday",
+          "Saturday",
+          "Sunday"
         ],
         "correctIndex": 1,
-        "explain": "在圖書館關閉期間，學生應使用在線資源。"
+        "explain": "圖書館將於週五關閉進行維護。"
+      },
+      {
+        "q": "What should students do before Friday?",
+        "options": [
+          "Return their books",
+          "Study in the library",
+          "Attend a meeting",
+          "Go to the cafeteria"
+        ],
+        "correctIndex": 0,
+        "explain": "學生應在週五之前歸還書籍。"
       }
     ]
   }

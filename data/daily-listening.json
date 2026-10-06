@@ -1,116 +1,116 @@
 {
   "chooseResponse": [
     {
-      "q": "What did you think of the lecture?",
+      "q": "What time does the library close today?",
       "options": [
-        "It was interesting!",
-        "I didn't like it.",
-        "It was too long.",
-        "I want to learn more."
+        "At 8 PM",
+        "At 10 PM",
+        "At 6 PM",
+        "At 5 PM"
       ],
       "correctIndex": 0
     }
   ],
   "conversation": {
-    "transcript": "Student: Hey, have you started your research project?\nProfessor: Yes, I have. It's on environmental science.\nStudent: That sounds cool! What aspect are you focusing on?\nProfessor: I'm looking into renewable energy sources specifically.",
+    "transcript": "Student: Hey, do you know when the library is open?\nAdvisor: I believe it closes at 8 PM today. Why do you need to go there?\nStudent: I want to finish my research paper.\nAdvisor: That sounds important. Have you started working on it yet?",
     "questions": [
       {
-        "q": "What is the student's main concern?",
+        "q": "Why does the student need to go to the library?",
         "options": [
-          "The project topic",
-          "The professor's resources",
-          "The project deadline",
-          "The energy sources"
-        ],
-        "correctIndex": 0,
-        "explain": "學生最關心的是專題的主題。"
-      },
-      {
-        "q": "What is the professor researching?",
-        "options": [
-          "Climate change",
-          "Renewable energy sources",
-          "Pollution effects",
-          "Wildlife conservation"
+          "To meet a friend",
+          "To finish a research paper",
+          "To study for an exam",
+          "To attend a workshop"
         ],
         "correctIndex": 1,
-        "explain": "教授正在研究可再生能源的來源。"
+        "explain": "學生需要去圖書館是為了完成研究論文。"
+      },
+      {
+        "q": "What time does the library close today?",
+        "options": [
+          "At 8 PM",
+          "At 10 PM",
+          "At 6 PM",
+          "At 5 PM"
+        ],
+        "correctIndex": 0,
+        "explain": "圖書館今天晚上八點關閉。"
       }
     ]
   },
   "announcement": {
-    "transcript": "Attention students, the library will be closed this Saturday for maintenance. Please plan your study time accordingly and make sure to check out any materials you may need beforehand. Thank you for your understanding.",
+    "transcript": "Attention students! The annual campus art fair will take place this Saturday from 10 AM to 5 PM in the student center. Enjoy artwork from local artists, live music, and refreshments. Don't miss this opportunity to support our community!\n",
     "questions": [
       {
-        "q": "Why will the library be closed?",
+        "q": "When is the campus art fair scheduled?",
         "options": [
-          "For a holiday",
-          "For maintenance",
-          "For a new collection",
-          "For staff training"
+          "This Friday",
+          "This Saturday",
+          "Next Saturday",
+          "This Sunday"
         ],
         "correctIndex": 1,
-        "explain": "圖書館將因為維修而關閉。"
+        "explain": "校園藝術展將於本週六舉行。"
       },
       {
-        "q": "What should students do before Saturday?",
+        "q": "Where will the art fair be held?",
         "options": [
-          "Return their books",
-          "Check out materials",
-          "Attend a seminar",
-          "Prepare for exams"
+          "In the library",
+          "In the student center",
+          "At the gym",
+          "In the auditorium"
         ],
         "correctIndex": 1,
-        "explain": "學生應該在星期六之前借出所需的材料。"
+        "explain": "藝術展將在學生中心舉行。"
       }
     ]
   },
   "talk": {
-    "transcript": "Today, I want to discuss the importance of biodiversity in ecosystems. Biodiversity refers to the variety of life found in a particular habitat or ecosystem, and it plays a crucial role in maintaining the balance of our environment. Diverse ecosystems are more resilient to changes, such as climate change or disease outbreaks, because they can better adapt and recover. Additionally, biodiversity contributes to human health and well-being by providing resources like food, medicine, and clean air. Protecting biodiversity is essential for sustaining life on Earth.",
+    "transcript": "Today, we're going to discuss the concept of photosynthesis, a vital process for life on Earth. Photosynthesis occurs in plants, algae, and some bacteria, converting light energy into chemical energy. During this process, carbon dioxide and water are transformed into glucose and oxygen, enabling plants to grow and release oxygen for us to breathe. The overall equation for photosynthesis can be simplified as carbon dioxide plus water plus light energy equals glucose plus oxygen. This process is essential not only for plant life but also for sustaining the entire ecosystem.",
     "questions": [
       {
-        "q": "What does biodiversity refer to?",
+        "q": "What is photosynthesis?",
         "options": [
-          "The number of species",
-          "The variety of life",
-          "The health of ecosystems",
-          "The climate changes"
+          "A process of cellular respiration",
+          "A method of plant growth",
+          "A process converting light to chemical energy",
+          "A way to produce energy in animals"
+        ],
+        "correctIndex": 2,
+        "explain": "光合作用是將光能轉換為化學能的過程。"
+      },
+      {
+        "q": "What do plants need for photosynthesis?",
+        "options": [
+          "Soil and minerals",
+          "Water and sunlight",
+          "Air and nutrients",
+          "Fertilizers and carbon"
         ],
         "correctIndex": 1,
-        "explain": "生物多樣性指的是生態系統中生命的多樣性。"
+        "explain": "植物需要水和陽光來進行光合作用。"
       },
       {
-        "q": "Why are diverse ecosystems important?",
+        "q": "What do plants produce during photosynthesis?",
         "options": [
-          "They are easier to study",
-          "They offer more resources",
-          "They are more resilient to changes",
-          "They require less maintenance"
+          "Carbon dioxide",
+          "Nitrogen",
+          "Glucose and oxygen",
+          "Heat energy"
         ],
         "correctIndex": 2,
-        "explain": "多樣化的生態系統對變化更具韌性。"
+        "explain": "植物在光合作用中產生葡萄糖和氧氣。"
       },
       {
-        "q": "What does biodiversity provide to humans?",
+        "q": "Why is photosynthesis important?",
         "options": [
-          "Only food",
-          "Only medicine",
-          "Resources like food and medicine",
-          "Aesthetic value only"
+          "It provides food for animals",
+          "It helps plants grow",
+          "It produces oxygen",
+          "All of the above"
         ],
-        "correctIndex": 2,
-        "explain": "生物多樣性為人類提供食物和藥物等資源。"
-      },
-      {
-        "q": "What is necessary for sustaining life on Earth?",
-        "options": [
-          "Industrial growth",
-          "Technological advancements",
-          "Protecting biodiversity",
-          "Urban development"
-        ],
-        "correctIndex": 2,
-        "explain": "保護生物多樣性對於支持地球上的生命是必需的。"
+        "correctIndex": 3,
+        "explain": "光合作用對於生態系統中的所有生物都非常重要。"
       }
     ]
   }

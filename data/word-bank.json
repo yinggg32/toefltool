@@ -9254,5 +9254,29 @@
     "zh": "壓制",
     "ex": "Political repression can lead to widespread discontent and unrest.",
     "cat": "📰 每日新詞：political science"
+  },
+  {
+    "word": "social fabric",
+    "pos": "n.",
+    "root": "social-社會的 + fabric-結構",
+    "zh": "社會結構",
+    "ex": "The social fabric of a community is woven from its shared values and traditions.",
+    "cat": "📰 每日新詞：anthropology"
+  },
+  {
+    "word": "cultural symbolism",
+    "pos": "n.",
+    "root": "cultur-文化 + al-的 + symbol-符號 + ism-主義",
+    "zh": "文化象徵",
+    "ex": "Cultural symbolism can reveal deeper meanings behind everyday practices.",
+    "cat": "📰 每日新詞：anthropology"
+  },
+  {
+    "word": "cross-cultural",
+    "pos": "adj.",
+    "root": "cross-跨越 + cultural-文化的",
+    "zh": "跨文化的",
+    "ex": "Cross-cultural studies can highlight both similarities and differences among societies.",
+    "cat": "📰 每日新詞：anthropology"
   }
 ]

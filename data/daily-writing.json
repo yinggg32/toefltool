@@ -3,125 +3,133 @@
     {
       "words": [
         "the",
-        "quick",
-        "brown",
-        "fox",
-        "jumps",
-        "over",
-        "the",
-        "lazy",
-        "dog"
+        "students",
+        "are",
+        "learning",
+        "about",
+        "environmental",
+        "issues",
+        "in",
+        "class"
       ],
-      "display": "The quick brown fox jumps over the lazy dog."
+      "display": "The students are learning about environmental issues in class."
+    },
+    {
+      "words": [
+        "she",
+        "wants",
+        "to",
+        "travel",
+        "to",
+        "three",
+        "different",
+        "countries",
+        "next",
+        "year"
+      ],
+      "display": "She wants to travel to three different countries next year."
+    },
+    {
+      "words": [
+        "the",
+        "researchers",
+        "published",
+        "their",
+        "findings",
+        "in",
+        "an",
+        "international",
+        "journal"
+      ],
+      "display": "The researchers published their findings in an international journal."
+    },
+    {
+      "words": [
+        "the",
+        "library",
+        "will",
+        "be",
+        "closed",
+        "for",
+        "renovation",
+        "next",
+        "month"
+      ],
+      "display": "The library will be closed for renovation next month."
+    },
+    {
+      "words": [
+        "he",
+        "is",
+        "preparing",
+        "for",
+        "his",
+        "final",
+        "exams",
+        "this",
+        "week"
+      ],
+      "display": "He is preparing for his final exams this week."
+    },
+    {
+      "words": [
+        "the",
+        "club",
+        "meets",
+        "every",
+        "friday",
+        "to",
+        "discuss",
+        "new",
+        "projects"
+      ],
+      "display": "The club meets every Friday to discuss new projects."
     },
     {
       "words": [
         "students",
         "should",
-        "take",
-        "care",
-        "of",
+        "submit",
         "their",
-        "health",
-        "seriously"
-      ],
-      "display": "Students should take care of their health seriously."
-    },
-    {
-      "words": [
-        "the",
-        "environment",
-        "is",
-        "affected",
+        "assignments",
         "by",
-        "human",
-        "activities",
-        "greatly"
-      ],
-      "display": "The environment is affected by human activities greatly."
-    },
-    {
-      "words": [
-        "many",
-        "people",
-        "prefer",
-        "to",
-        "work",
-        "from",
-        "home",
-        "nowadays"
-      ],
-      "display": "Many people prefer to work from home nowadays."
-    },
-    {
-      "words": [
-        "reading",
-        "books",
-        "can",
-        "improve",
-        "your",
-        "vocabulary",
-        "and",
-        "knowledge"
-      ],
-      "display": "Reading books can improve your vocabulary and knowledge."
-    },
-    {
-      "words": [
-        "global",
-        "warming",
-        "is",
-        "a",
-        "serious",
-        "issue",
-        "that",
-        "needs",
-        "attention"
-      ],
-      "display": "Global warming is a serious issue that needs attention."
-    },
-    {
-      "words": [
-        "technology",
-        "has",
-        "changed",
         "the",
-        "way",
-        "we",
-        "communicate",
-        "dramatically"
+        "end",
+        "of",
+        "the",
+        "week"
       ],
-      "display": "Technology has changed the way we communicate dramatically."
+      "display": "Students should submit their assignments by the end of the week."
     },
     {
       "words": [
-        "traveling",
-        "can",
-        "broaden",
-        "your",
-        "perspective",
-        "and",
-        "understanding",
-        "of",
-        "cultures"
+        "the",
+        "professor",
+        "encourages",
+        "students",
+        "to",
+        "participate",
+        "in",
+        "class",
+        "discussions"
       ],
-      "display": "Traveling can broaden your perspective and understanding of cultures."
+      "display": "The professor encourages students to participate in class discussions."
     }
   ],
   "emailPrompts": [
-    "寄信給教授，詢問即將到來的期末考試的準備建議。",
-    "寄信給宿舍管理辦公室，請求更換房間的原因。",
-    "寄信給圖書館，詢問將要舉辦的書籍展覽的詳細信息。",
-    "寄信給學生會，表達對即將舉行的活動的建議和意見。",
-    "寄信給客服，反映最近購買的產品存在問題，要求退貨。",
-    "寄信給班主任，請求對即將到來的學術會議的參加要求提供幫助。"
+    "寄信給教授，請求延長報告提交期限。",
+    "寄信給宿舍辦公室，詢問房間的維修進度。",
+    "寄信給圖書館，詢問是否可以借閱電子書。",
+    "寄信給學生社團，表達參加下次會議的意願。",
+    "寄信給客服，詢問訂單的運送狀態。",
+    "寄信給會計部，請求提供最新的財務報告。"
   ],
   "discussionPrompts": [
-    "教授問：「科技對教育的影響有哪些正面與負面影響？」",
-    "教授問：「文化交流在全球化中的重要性是什麼？」",
-    "教授問：「環境保護與經濟發展之間的平衡該如何實現？」",
-    "教授問：「社交媒體對人際關係的影響是正面還是負面？」",
-    "教授問：「哪種學習方式最能激發學生的創造力？」",
-    "教授問：「應該如何看待基因編輯技術的倫理問題？」"
+    "教授問：「你認為科技對教育的影響是正面還是負面？」",
+    "教授問：「如何看待全球暖化對經濟的影響？」",
+    "教授問：「社交媒體是否增強了人與人之間的聯繫？」",
+    "教授問：「環保與經濟發展之間可以找到平衡嗎？」",
+    "教授問：「你認為大學應該如何應對學生心理健康問題？」",
+    "教授問：「在網路時代，新聞的可信度該如何評估？」"
   ]
 }
