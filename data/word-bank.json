@@ -9278,5 +9278,61 @@
     "zh": "跨文化的",
     "ex": "Cross-cultural studies can highlight both similarities and differences among societies.",
     "cat": "📰 每日新詞：anthropology"
+  },
+  {
+    "word": "ecological",
+    "pos": "adj.",
+    "root": "eco生態 + logical邏輯的",
+    "zh": "生態的",
+    "ex": "Ecological studies help us understand the intricate relationships within ecosystems.",
+    "cat": "📰 每日新詞：environmental science"
+  },
+  {
+    "word": "biodiversity loss",
+    "pos": "n.",
+    "root": "biodiversity生物多樣性 + loss喪失",
+    "zh": "生物多樣性喪失",
+    "ex": "Biodiversity loss can disrupt ecosystems and diminish their resilience.",
+    "cat": "📰 每日新詞：environmental science"
+  },
+  {
+    "word": "wilderness",
+    "pos": "n.",
+    "root": "wild-野生的 + erness名詞後綴",
+    "zh": "荒野",
+    "ex": "The preservation of wilderness areas is essential for conserving biodiversity.",
+    "cat": "📰 每日新詞：environmental science"
+  },
+  {
+    "word": "resource depletion",
+    "pos": "n.",
+    "root": "resource資源 + depletion耗盡",
+    "zh": "資源耗盡",
+    "ex": "Resource depletion can have serious implications for future generations.",
+    "cat": "📰 每日新詞：environmental science"
+  },
+  {
+    "word": "ecotourism",
+    "pos": "n.",
+    "root": "eco生態 + tourism旅遊",
+    "zh": "生態旅遊",
+    "ex": "Ecotourism promotes conservation while providing economic benefits to local communities.",
+    "cat": "📰 每日新詞：environmental science"
+  },
+  {
+    "word": "geothermal energy",
+    "pos": "n.",
+    "root": "geo-地球 + thermal熱的 + energy能源",
+    "zh": "地熱能",
+    "ex": "Geothermal energy is a sustainable source of power derived from the Earth's heat.",
+    "cat": "📰 每日新詞：environmental science"
+  },
+  {
+    "word": "chemical runoff",
+    "pos": "n.",
+    "root": "chemical化學的 + runoff流出",
+    "zh": "化學流失",
+    "ex": "Chemical runoff from agriculture can contaminate local water supplies.",
+    "cat": "📰 每日新詞：environmental science"
   }
 ]

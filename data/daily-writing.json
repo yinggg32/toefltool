@@ -3,133 +3,131 @@
     {
       "words": [
         "the",
-        "students",
-        "are",
-        "learning",
-        "about",
-        "environmental",
-        "issues",
-        "in",
-        "class"
-      ],
-      "display": "The students are learning about environmental issues in class."
-    },
-    {
-      "words": [
-        "she",
-        "wants",
-        "to",
-        "travel",
-        "to",
-        "three",
-        "different",
-        "countries",
-        "next",
-        "year"
-      ],
-      "display": "She wants to travel to three different countries next year."
-    },
-    {
-      "words": [
-        "the",
-        "researchers",
-        "published",
-        "their",
-        "findings",
-        "in",
-        "an",
-        "international",
-        "journal"
-      ],
-      "display": "The researchers published their findings in an international journal."
-    },
-    {
-      "words": [
-        "the",
-        "library",
-        "will",
-        "be",
-        "closed",
+        "important",
+        "data",
         "for",
-        "renovation",
-        "next",
-        "month"
-      ],
-      "display": "The library will be closed for renovation next month."
-    },
-    {
-      "words": [
-        "he",
-        "is",
-        "preparing",
-        "for",
-        "his",
-        "final",
-        "exams",
-        "this",
-        "week"
-      ],
-      "display": "He is preparing for his final exams this week."
-    },
-    {
-      "words": [
         "the",
-        "club",
-        "meets",
-        "every",
-        "friday",
-        "to",
-        "discuss",
-        "new",
-        "projects"
+        "research",
+        "project",
+        "was",
+        "collected"
       ],
-      "display": "The club meets every Friday to discuss new projects."
+      "display": "The important data for the research project was collected."
     },
     {
       "words": [
         "students",
         "should",
-        "submit",
+        "practice",
         "their",
-        "assignments",
+        "speaking",
+        "skills",
+        "in",
+        "english"
+      ],
+      "display": "Students should practice their speaking skills in English."
+    },
+    {
+      "words": [
+        "the",
+        "novel",
         "by",
         "the",
-        "end",
+        "famous",
+        "author",
+        "was",
+        "published",
+        "last",
+        "year"
+      ],
+      "display": "The novel by the famous author was published last year."
+    },
+    {
+      "words": [
+        "attending",
+        "the",
+        "conference",
+        "will",
+        "help",
+        "me",
+        "expand",
+        "my",
+        "network"
+      ],
+      "display": "Attending the conference will help me expand my network."
+    },
+    {
+      "words": [
+        "the",
+        "results",
         "of",
         "the",
-        "week"
+        "experiment",
+        "were",
+        "unexpected",
+        "and",
+        "intriguing"
       ],
-      "display": "Students should submit their assignments by the end of the week."
+      "display": "The results of the experiment were unexpected and intriguing."
+    },
+    {
+      "words": [
+        "we",
+        "plan",
+        "to",
+        "organize",
+        "a",
+        "workshop",
+        "on",
+        "sustainable",
+        "practices"
+      ],
+      "display": "We plan to organize a workshop on sustainable practices."
     },
     {
       "words": [
         "the",
         "professor",
-        "encourages",
+        "encouraged",
         "students",
         "to",
-        "participate",
+        "engage",
         "in",
-        "class",
-        "discussions"
+        "critical",
+        "thinking"
       ],
-      "display": "The professor encourages students to participate in class discussions."
+      "display": "The professor encouraged students to engage in critical thinking."
+    },
+    {
+      "words": [
+        "the",
+        "university",
+        "is",
+        "launching",
+        "a",
+        "new",
+        "program",
+        "in",
+        "data",
+        "science"
+      ],
+      "display": "The university is launching a new program in data science."
     }
   ],
   "emailPrompts": [
-    "寄信給教授，請求延長報告提交期限。",
-    "寄信給宿舍辦公室，詢問房間的維修進度。",
-    "寄信給圖書館，詢問是否可以借閱電子書。",
-    "寄信給學生社團，表達參加下次會議的意願。",
-    "寄信給客服，詢問訂單的運送狀態。",
-    "寄信給會計部，請求提供最新的財務報告。"
+    "寄信給教授，詢問有關課程的問題，並請教額外的學習資源。",
+    "寄信給宿舍辦公室，報告水管漏水的情況，請求維修。",
+    "寄信給圖書館，詢問如何續借書籍的流程。",
+    "寄信給社團負責人，表達對參加社團活動的興趣，並詢問加入的條件。",
+    "寄信給客服，反映最近在購物過程中的問題，請求協助解決。",
+    "寄信給學校的職業發展中心，請求安排職業諮詢的時間。"
   ],
   "discussionPrompts": [
-    "教授問：「你認為科技對教育的影響是正面還是負面？」",
-    "教授問：「如何看待全球暖化對經濟的影響？」",
-    "教授問：「社交媒體是否增強了人與人之間的聯繫？」",
-    "教授問：「環保與經濟發展之間可以找到平衡嗎？」",
-    "教授問：「你認為大學應該如何應對學生心理健康問題？」",
-    "教授問：「在網路時代，新聞的可信度該如何評估？」"
+    "教授問：「在當今社會中，科技對教育的影響是好是壞？」",
+    "教授問：「文化多樣性對於社會和諧的重要性是什麼？」",
+    "教授問：「在全球化的背景下，如何保護本土文化？」",
+    "教授問：「社會媒體是否在促進或阻礙人際關係的發展？」",
+    "教授問：「政府應該如何平衡經濟發展與環境保護？」",
+    "教授問：「人工智慧的發展會對未來工作市場造成什麼影響？」"
   ]
 }

@@ -1,116 +1,116 @@
 {
   "chooseResponse": [
     {
-      "q": "What time does the library close today?",
+      "q": "What did you think of the lecture?",
       "options": [
-        "At 8 PM",
-        "At 10 PM",
-        "At 6 PM",
-        "At 5 PM"
+        "It was interesting.",
+        "I didn't understand.",
+        "It was too long.",
+        "I fell asleep."
       ],
       "correctIndex": 0
     }
   ],
   "conversation": {
-    "transcript": "Student: Hey, do you know when the library is open?\nAdvisor: I believe it closes at 8 PM today. Why do you need to go there?\nStudent: I want to finish my research paper.\nAdvisor: That sounds important. Have you started working on it yet?",
+    "transcript": "Student: Hey, did you go to the art exhibition last night?\nProfessor: I did! It was quite impressive. What about you?\nStudent: I couldn't make it. What was the highlight?\nProfessor: There was a stunning installation by a local artist.",
     "questions": [
       {
-        "q": "Why does the student need to go to the library?",
+        "q": "What did the student miss?",
         "options": [
-          "To meet a friend",
-          "To finish a research paper",
-          "To study for an exam",
-          "To attend a workshop"
-        ],
-        "correctIndex": 1,
-        "explain": "學生需要去圖書館是為了完成研究論文。"
-      },
-      {
-        "q": "What time does the library close today?",
-        "options": [
-          "At 8 PM",
-          "At 10 PM",
-          "At 6 PM",
-          "At 5 PM"
+          "The art exhibition.",
+          "A lecture.",
+          "A sports event.",
+          "A club meeting."
         ],
         "correctIndex": 0,
-        "explain": "圖書館今天晚上八點關閉。"
+        "explain": "學生錯過了藝術展覽。"
+      },
+      {
+        "q": "Who created the stunning installation?",
+        "options": [
+          "A famous artist.",
+          "A local artist.",
+          "The professor.",
+          "A student."
+        ],
+        "correctIndex": 1,
+        "explain": "令人驚嘆的裝置是由當地藝術家創作的。"
       }
     ]
   },
   "announcement": {
-    "transcript": "Attention students! The annual campus art fair will take place this Saturday from 10 AM to 5 PM in the student center. Enjoy artwork from local artists, live music, and refreshments. Don't miss this opportunity to support our community!\n",
+    "transcript": "Attention students, the university library will be closing early at 5 PM today for maintenance. We apologize for any inconvenience this may cause. Please make sure to gather all your materials before then. Thank you for your understanding.",
     "questions": [
       {
-        "q": "When is the campus art fair scheduled?",
+        "q": "Why will the library close early?",
         "options": [
-          "This Friday",
-          "This Saturday",
-          "Next Saturday",
-          "This Sunday"
+          "For a holiday.",
+          "For maintenance.",
+          "For a meeting.",
+          "For cleaning."
         ],
         "correctIndex": 1,
-        "explain": "校園藝術展將於本週六舉行。"
+        "explain": "圖書館提前關閉是因為維護。"
       },
       {
-        "q": "Where will the art fair be held?",
+        "q": "What time will the library close?",
         "options": [
-          "In the library",
-          "In the student center",
-          "At the gym",
-          "In the auditorium"
+          "6 PM.",
+          "5 PM.",
+          "4 PM.",
+          "7 PM."
         ],
         "correctIndex": 1,
-        "explain": "藝術展將在學生中心舉行。"
+        "explain": "圖書館將在下午5點關閉。"
       }
     ]
   },
   "talk": {
-    "transcript": "Today, we're going to discuss the concept of photosynthesis, a vital process for life on Earth. Photosynthesis occurs in plants, algae, and some bacteria, converting light energy into chemical energy. During this process, carbon dioxide and water are transformed into glucose and oxygen, enabling plants to grow and release oxygen for us to breathe. The overall equation for photosynthesis can be simplified as carbon dioxide plus water plus light energy equals glucose plus oxygen. This process is essential not only for plant life but also for sustaining the entire ecosystem.",
+    "transcript": "Today, I will discuss the concept of biodiversity. Biodiversity refers to the variety of life in a particular habitat or ecosystem. It includes the diversity of species, genetic differences within those species, and the ecosystems they form. High biodiversity is crucial for ecosystem resilience, providing services like pollination, pest control, and climate regulation. Unfortunately, human activities such as deforestation and pollution are threatening biodiversity. Conservation efforts are essential to preserve the health of our planet and ensure that diverse ecosystems continue to thrive.",
     "questions": [
       {
-        "q": "What is photosynthesis?",
+        "q": "What is biodiversity?",
         "options": [
-          "A process of cellular respiration",
-          "A method of plant growth",
-          "A process converting light to chemical energy",
-          "A way to produce energy in animals"
+          "Variety of life.",
+          "Only animal species.",
+          "Plant varieties only.",
+          "Ecosystem stability."
         ],
-        "correctIndex": 2,
-        "explain": "光合作用是將光能轉換為化學能的過程。"
+        "correctIndex": 0,
+        "explain": "生物多樣性是指某個棲息地或生態系統中的生命多樣性。"
       },
       {
-        "q": "What do plants need for photosynthesis?",
+        "q": "Why is high biodiversity important?",
         "options": [
-          "Soil and minerals",
-          "Water and sunlight",
-          "Air and nutrients",
-          "Fertilizers and carbon"
+          "For scientific research.",
+          "For entertainment.",
+          "For ecosystem resilience.",
+          "For agriculture."
+        ],
+        "correctIndex": 2,
+        "explain": "高生物多樣性對生態系統的韌性至關重要。"
+      },
+      {
+        "q": "What threatens biodiversity?",
+        "options": [
+          "Increased rainfall.",
+          "Human activities.",
+          "More wildlife reserves.",
+          "Natural disasters."
         ],
         "correctIndex": 1,
-        "explain": "植物需要水和陽光來進行光合作用。"
+        "explain": "人類活動如森林砍伐和污染威脅著生物多樣性。"
       },
       {
-        "q": "What do plants produce during photosynthesis?",
+        "q": "What are conservation efforts aimed at?",
         "options": [
-          "Carbon dioxide",
-          "Nitrogen",
-          "Glucose and oxygen",
-          "Heat energy"
+          "Increasing pollution.",
+          "Enhancing ecosystems.",
+          "Preserving biodiversity.",
+          "Promoting tourism."
         ],
         "correctIndex": 2,
-        "explain": "植物在光合作用中產生葡萄糖和氧氣。"
-      },
-      {
-        "q": "Why is photosynthesis important?",
-        "options": [
-          "It provides food for animals",
-          "It helps plants grow",
-          "It produces oxygen",
-          "All of the above"
-        ],
-        "correctIndex": 3,
-        "explain": "光合作用對於生態系統中的所有生物都非常重要。"
+        "explain": "保護工作旨在保護生物多樣性。"
       }
     ]
   }
