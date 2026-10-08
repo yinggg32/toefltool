@@ -9334,5 +9334,37 @@
     "zh": "化學流失",
     "ex": "Chemical runoff from agriculture can contaminate local water supplies.",
     "cat": "📰 每日新詞：environmental science"
+  },
+  {
+    "word": "production",
+    "pos": "n./v.",
+    "root": "生產—production",
+    "zh": "生產",
+    "ex": "The production of goods is affected by consumer demand.",
+    "cat": "📰 每日新詞：economics"
+  },
+  {
+    "word": "value",
+    "pos": "n./v.",
+    "root": "價值—value",
+    "zh": "價值",
+    "ex": "Value is often determined by market demand.",
+    "cat": "📰 每日新詞：economics"
+  },
+  {
+    "word": "transaction",
+    "pos": "n.",
+    "root": "交易—transaction",
+    "zh": "交易",
+    "ex": "Each transaction in the economy has implications for supply and demand.",
+    "cat": "📰 每日新詞：economics"
+  },
+  {
+    "word": "volatility",
+    "pos": "n.",
+    "root": "波動性—volatility",
+    "zh": "波動性",
+    "ex": "Market volatility can create uncertainty for investors.",
+    "cat": "📰 每日新詞：economics"
   }
 ]

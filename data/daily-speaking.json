@@ -1,45 +1,45 @@
 {
   "shadowSentences": [
-    "I like to read books.",
-    "The weather is quite nice today.",
-    "Can you please pass the salt?",
-    "I enjoy cooking new recipes on weekends.",
-    "Traveling can be a great way to learn.",
-    "My favorite season is autumn because of the colors.",
-    "I often listen to music while studying or working.",
-    "Exercising regularly is important for maintaining good health.",
-    "I love trying different cuisines when I visit new places.",
-    "Learning a new language can open many doors in life."
+    "I enjoy reading books in my free time.",
+    "The sun sets beautifully over the ocean.",
+    "Cooking can be a fun and rewarding hobby.",
+    "Traveling to new places broadens your perspective.",
+    "Listening to music helps me relax after a long day.",
+    "Joining a club is a great way to meet people.",
+    "Exercising regularly improves both physical and mental health.",
+    "Learning a new language can be challenging but fun.",
+    "Volunteering in the community can bring great satisfaction.",
+    "Spending time outdoors boosts my mood and energy levels."
   ],
   "interviewScenarios": [
     {
-      "topic": "旅行的好處",
-      "intro": "You have agreed to take part in a research study about the benefits of travel.",
+      "topic": "運動習慣",
+      "intro": "You have agreed to take part in a research study about exercise habits.",
       "questions": [
-        "Q1: Can you share a memorable experience from your travels?",
-        "Q2: What challenges have you faced while traveling?",
-        "Q3: In your opinion, how does travel influence personal growth?",
-        "Q4: What advice would you give to someone planning their first trip?"
+        "Q1: Can you share your personal experience with regular exercise?",
+        "Q2: What challenges have you faced in maintaining a workout routine?",
+        "Q3: What do you think are the benefits of exercising regularly?",
+        "Q4: What advice would you give someone starting an exercise program?"
       ]
     },
     {
-      "topic": "音樂的影響",
-      "intro": "You have agreed to take part in a research study about the impact of music on our lives.",
+      "topic": "飲食習慣",
+      "intro": "You have agreed to take part in a research study about eating habits.",
       "questions": [
-        "Q1: How has music played a role in your daily routine?",
-        "Q2: What are some challenges you think people face when choosing music?",
-        "Q3: Do you believe music can affect our emotions? Why or why not?",
-        "Q4: What recommendations do you have for someone looking to explore new music genres?"
+        "Q1: What do you usually eat for breakfast?",
+        "Q2: How do you balance healthy eating with convenience?",
+        "Q3: In your opinion, how important is diet for overall health?",
+        "Q4: What tips can you share for maintaining a balanced diet?"
       ]
     },
     {
-      "topic": "閱讀習慣",
-      "intro": "You have agreed to take part in a research study about reading habits.",
+      "topic": "旅行計劃",
+      "intro": "You have agreed to take part in a research study about travel planning.",
       "questions": [
-        "Q1: What types of books do you enjoy reading the most?",
-        "Q2: Have you ever found it difficult to find time to read? How did you manage?",
-        "Q3: Why do you think reading is important in today’s digital age?",
-        "Q4: What tips would you give someone who wants to read more regularly?"
+        "Q1: What is your favorite travel destination and why?",
+        "Q2: What challenges do you encounter when planning a trip?",
+        "Q3: How do you feel about traveling alone versus with others?",
+        "Q4: What advice would you give someone planning their first trip?"
       ]
     }
   ]

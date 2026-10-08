@@ -2,87 +2,42 @@
   "buildSentences": [
     {
       "words": [
-        "the",
-        "important",
-        "data",
-        "for",
-        "the",
-        "research",
-        "project",
-        "was",
-        "collected"
-      ],
-      "display": "The important data for the research project was collected."
-    },
-    {
-      "words": [
         "students",
-        "should",
-        "practice",
-        "their",
-        "speaking",
-        "skills",
-        "in",
-        "english"
+        "often",
+        "face",
+        "challenges",
+        "when",
+        "studying",
+        "for",
+        "exams"
       ],
-      "display": "Students should practice their speaking skills in English."
+      "display": "Students often face challenges when studying for exams."
     },
     {
       "words": [
         "the",
-        "novel",
-        "by",
-        "the",
-        "famous",
-        "author",
-        "was",
-        "published",
-        "last",
-        "year"
-      ],
-      "display": "The novel by the famous author was published last year."
-    },
-    {
-      "words": [
-        "attending",
-        "the",
-        "conference",
-        "will",
-        "help",
-        "me",
-        "expand",
-        "my",
-        "network"
-      ],
-      "display": "Attending the conference will help me expand my network."
-    },
-    {
-      "words": [
-        "the",
-        "results",
-        "of",
-        "the",
-        "experiment",
-        "were",
-        "unexpected",
-        "and",
-        "intriguing"
-      ],
-      "display": "The results of the experiment were unexpected and intriguing."
-    },
-    {
-      "words": [
-        "we",
-        "plan",
+        "new",
+        "library",
+        "has",
+        "many",
+        "resources",
         "to",
-        "organize",
-        "a",
-        "workshop",
-        "on",
-        "sustainable",
-        "practices"
+        "help"
       ],
-      "display": "We plan to organize a workshop on sustainable practices."
+      "display": "The new library has many resources to help."
+    },
+    {
+      "words": [
+        "participating",
+        "in",
+        "clubs",
+        "can",
+        "enhance",
+        "the",
+        "college",
+        "experience"
+      ],
+      "display": "Participating in clubs can enhance the college experience."
     },
     {
       "words": [
@@ -91,43 +46,79 @@
         "encouraged",
         "students",
         "to",
-        "engage",
-        "in",
-        "critical",
-        "thinking"
+        "explore",
+        "different",
+        "perspectives"
       ],
-      "display": "The professor encouraged students to engage in critical thinking."
+      "display": "The professor encouraged students to explore different perspectives."
+    },
+    {
+      "words": [
+        "working",
+        "in",
+        "groups",
+        "can",
+        "improve",
+        "communication",
+        "skills",
+        "and"
+      ],
+      "display": "Working in groups can improve communication skills and."
     },
     {
       "words": [
         "the",
-        "university",
-        "is",
-        "launching",
+        "research",
+        "findings",
+        "demonstrated",
         "a",
-        "new",
-        "program",
-        "in",
-        "data",
-        "science"
+        "strong",
+        "link",
+        "between"
       ],
-      "display": "The university is launching a new program in data science."
+      "display": "The research findings demonstrated a strong link between."
+    },
+    {
+      "words": [
+        "discussing",
+        "ideas",
+        "with",
+        "peers",
+        "can",
+        "lead",
+        "to",
+        "deeper"
+      ],
+      "display": "Discussing ideas with peers can lead to deeper."
+    },
+    {
+      "words": [
+        "developing",
+        "time",
+        "management",
+        "skills",
+        "is",
+        "important",
+        "for",
+        "academic"
+      ],
+      "display": "Developing time management skills is important for academic."
     }
   ],
   "emailPrompts": [
-    "寄信給教授，詢問有關課程的問題，並請教額外的學習資源。",
-    "寄信給宿舍辦公室，報告水管漏水的情況，請求維修。",
-    "寄信給圖書館，詢問如何續借書籍的流程。",
-    "寄信給社團負責人，表達對參加社團活動的興趣，並詢問加入的條件。",
-    "寄信給客服，反映最近在購物過程中的問題，請求協助解決。",
-    "寄信給學校的職業發展中心，請求安排職業諮詢的時間。"
+    "寄信給教授，說明因病無法參加期中考，詢問補考事宜。",
+    "發信給宿舍辦公室，詢問關於房間維修的進度。",
+    "寄信給圖書館，請求延長書籍的歸還期限。",
+    "寫信給社團負責人，請求加入該社團並詢問活動詳情。",
+    "寄信給客服，反映最近購物的問題並要求退款。",
+    "發信給校園活動中心，詢問即將舉行的講座的具體時間。"
   ],
   "discussionPrompts": [
-    "教授問：「在當今社會中，科技對教育的影響是好是壞？」",
-    "教授問：「文化多樣性對於社會和諧的重要性是什麼？」",
-    "教授問：「在全球化的背景下，如何保護本土文化？」",
-    "教授問：「社會媒體是否在促進或阻礙人際關係的發展？」",
-    "教授問：「政府應該如何平衡經濟發展與環境保護？」",
-    "教授問：「人工智慧的發展會對未來工作市場造成什麼影響？」"
+    "教授問：「你認為科技對人際關係的影響是正面還是負面？」",
+    "教授問：「在全球化的背景下，文化保存的重要性如何？」",
+    "教授問：「如何看待在線學習對傳統教育模式的挑戰？」",
+    "教授問：「氣候變化的解決方案應該優先考慮哪些方面？」",
+    "教授問：「社交媒體對青少年心理健康的影響有哪些？」",
+    "教授問：「未來的工作場所應該如何適應人工智慧的發展？」"
   ]
 }

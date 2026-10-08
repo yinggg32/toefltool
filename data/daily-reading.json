@@ -2,101 +2,119 @@
   "cloze": {
     "segments": [
       {
-        "text": "The process of photosynthesis is essential for the survival of most life on Earth. In plants, it occurs primarily in the chloroplasts, where sunlight is converted into chemical energy. The primary reactants for this process are water and carbon di"
+        "text": "The concept of a "
       },
       {
-        "blank": "oxide"
+        "blank": "theo"
       },
       {
-        "text": ", which are transformed during the reaction. Sunlight provides the energy necessary for the conversion, resulting in glucose and oxygen as byproducts. This transformation not only sustains the plant but also contributes to the overall "
+        "text": "ry is fundamental in "
       },
       {
-        "blank": "energy"
+        "blank": "mathe"
       },
       {
-        "text": " flow in ecosystems. The glucose produced serves as an energy source for the plant and can be used by other organisms when they consume the plant. Additionally, the oxygen released is vital for the survival of most living "
+        "text": "matics. A theory is a "
       },
       {
-        "blank": "creatures"
+        "blank": "well-f"
       },
       {
-        "text": ", including humans. Thus, photosynthesis is a crucial process that greatly influences life on Earth."
+        "text": "ounded explanation of a set of "
+      },
+      {
+        "blank": "observ"
+      },
+      {
+        "text": "ations or phenomena. To "
+      },
+      {
+        "blank": "valid"
+      },
+      {
+        "text": "ate a theory, scientists must conduct experiments and gather data to ensure its "
+      },
+      {
+        "blank": "applic"
+      },
+      {
+        "text": "ability in various contexts."
       }
     ]
   },
   "academic": {
-    "passage": "Photosynthesis is the process by which green plants, algae, and some bacteria convert light energy into chemical energy, stored as glucose. This process is critical for life as it provides the primary energy source for nearly all organisms. During photosynthesis, carbon dioxide and water are used, and oxygen is released as a byproduct, making it essential for maintaining atmospheric balance. The efficiency of photosynthesis can vary based on factors like light intensity, carbon dioxide concentration, and temperature.",
+    "passage": "Mathematical theories play a crucial role in the development of scientific understanding. A theory provides a framework for explaining observations and making predictions. For instance, the theory of relativity allows physicists to understand gravitational effects on time and space. The validation of a theory requires rigorous testing through experiments and peer review. This process ensures that a theory is not only sound but also applicable across different scenarios, thereby enhancing our comprehension of the universe.",
     "questions": [
       {
-        "q": "What is the main purpose of photosynthesis?",
+        "q": "What is the main purpose of a mathematical theory?",
         "options": [
-          "To convert light energy into chemical energy",
-          "To produce water and carbon dioxide",
-          "To store energy in the form of oxygen",
-          "To maintain atmospheric balance"
+          "To explain observations",
+          "To conduct experiments",
+          "To validate data",
+          "To create predictions"
         ],
         "correctIndex": 0,
-        "explain": "這是正確的，因為光合作用的主要目的是將光能轉換為化學能。"
+        "explain": "數學理論的主要目的是解釋觀察結果。"
       },
       {
-        "q": "What do plants produce during photosynthesis?",
+        "q": "Which theory is mentioned in the passage?",
         "options": [
-          "Oxygen and glucose",
-          "Carbon dioxide and glucose",
-          "Water and sunlight",
-          "Nitrogen and oxygen"
-        ],
-        "correctIndex": 0,
-        "explain": "正確，植物在光合作用中產生氧氣和葡萄糖。"
-      },
-      {
-        "q": "What can be inferred about the importance of photosynthesis for humans?",
-        "options": [
-          "Humans rely on the oxygen produced by plants",
-          "Humans can perform photosynthesis",
-          "Photosynthesis decreases oxygen levels",
-          "Humans do not need photosynthesis"
-        ],
-        "correctIndex": 0,
-        "explain": "推論是人類依賴植物產生的氧氣，這表明光合作用對人類至關重要。"
-      },
-      {
-        "q": "What does the term 'byproduct' refer to in the context of photosynthesis?",
-        "options": [
-          "A main product of the process",
-          "A secondary result of the process",
-          "A reactant needed for the process",
-          "A factor affecting the process"
+          "Theory of everything",
+          "Theory of relativity",
+          "Quantum theory",
+          "Normal distribution"
         ],
         "correctIndex": 1,
-        "explain": "‘副產品’指的是過程中的次要結果，在光合作用中指氧氣的釋放。"
+        "explain": "文章提到的理論是相對論。"
+      },
+      {
+        "q": "What can be inferred about the validation of theories?",
+        "options": [
+          "It is optional and not necessary",
+          "It must be done through experiments",
+          "It only requires peer review",
+          "It is quick and easy"
+        ],
+        "correctIndex": 1,
+        "explain": "關於理論的驗證可以推斷出，這一定要通過實驗進行。"
+      },
+      {
+        "q": "What does the word 'rigorous' in the passage most likely mean?",
+        "options": [
+          "Strict and demanding",
+          "Simple and easy",
+          "Random and careless",
+          "Casual and relaxed"
+        ],
+        "correctIndex": 0,
+        "explain": "在文章中，'rigorous' 的意思是嚴格和要求高。"
       }
     ]
   },
   "daily": {
-    "passage": "Attention students! The university library will be closed for maintenance this weekend. Please plan your study schedule accordingly. Normal hours will resume on Monday. Thank you for your understanding.",
+    "passage": "Attention all students! The library will be closed for renovations from next Monday through Friday. Please plan accordingly and ensure you have all necessary materials before this period. We apologize for any inconvenience caused.",
     "questions": [
       {
-        "q": "When will the university library reopen?",
+        "q": "When will the library be closed?",
         "options": [
-          "Today",
-          "Tomorrow",
-          "Monday",
-          "Next week"
+          "Next Monday",
+          "Next Friday",
+          "Next Monday to Friday",
+          "This weekend"
         ],
         "correctIndex": 2,
-        "explain": "正確，圖書館將在星期一恢復正常開放。"
+        "explain": "圖書館將在下週一至週五關閉。"
       },
       {
-        "q": "Why is the library closing this weekend?",
+        "q": "Why is the library closing?",
         "options": [
-          "For cleaning",
-          "For maintenance",
-          "For a festival",
-          "For a holiday"
+          "For staff training",
+          "For renovations",
+          "Due to a holiday",
+          "For inventory"
         ],
         "correctIndex": 1,
-        "explain": "正確，圖書館在這個週末因為維護而關閉。"
+        "explain": "圖書館關閉的原因是進行翻修。"
       }
     ]
   }

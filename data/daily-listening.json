@@ -1,116 +1,116 @@
 {
   "chooseResponse": [
     {
-      "q": "What did you think of the lecture?",
+      "q": "What time is the study group meeting?",
       "options": [
-        "It was interesting.",
-        "I didn't understand.",
-        "It was too long.",
-        "I fell asleep."
+        "At 3 PM in the library.",
+        "I'm not sure about that.",
+        "It's canceled for today.",
+        "I don't think anyone will show up."
       ],
       "correctIndex": 0
     }
   ],
   "conversation": {
-    "transcript": "Student: Hey, did you go to the art exhibition last night?\nProfessor: I did! It was quite impressive. What about you?\nStudent: I couldn't make it. What was the highlight?\nProfessor: There was a stunning installation by a local artist.",
+    "transcript": "Student: Hey, do you know when the study group meets this week?\nAdvisor: Yes, it's scheduled for Wednesday at 3 PM.\nStudent: Great! Where will it be?\nAdvisor: It will be in the library's study room.",
     "questions": [
       {
-        "q": "What did the student miss?",
+        "q": "What day is the study group meeting?",
         "options": [
-          "The art exhibition.",
-          "A lecture.",
-          "A sports event.",
-          "A club meeting."
+          "Monday",
+          "Tuesday",
+          "Wednesday",
+          "Thursday"
         ],
-        "correctIndex": 0,
-        "explain": "學生錯過了藝術展覽。"
+        "correctIndex": 2,
+        "explain": "學習小組在星期三開會。"
       },
       {
-        "q": "Who created the stunning installation?",
+        "q": "Where will the study group meet?",
         "options": [
-          "A famous artist.",
-          "A local artist.",
-          "The professor.",
-          "A student."
+          "In the cafeteria",
+          "In the library",
+          "In the dorm",
+          "In the classroom"
         ],
         "correctIndex": 1,
-        "explain": "令人驚嘆的裝置是由當地藝術家創作的。"
+        "explain": "學習小組在圖書館的學習室開會。"
       }
     ]
   },
   "announcement": {
-    "transcript": "Attention students, the university library will be closing early at 5 PM today for maintenance. We apologize for any inconvenience this may cause. Please make sure to gather all your materials before then. Thank you for your understanding.",
+    "transcript": "Attention students! The campus will be hosting a health fair this Saturday from 10 AM to 3 PM in the student union. There will be free screenings, health education booths, and fitness demonstrations. Don’t miss this opportunity to learn more about your health!",
     "questions": [
       {
-        "q": "Why will the library close early?",
+        "q": "When will the health fair take place?",
         "options": [
-          "For a holiday.",
-          "For maintenance.",
-          "For a meeting.",
-          "For cleaning."
+          "This Friday",
+          "This Saturday",
+          "Next Monday",
+          "Next Saturday"
         ],
         "correctIndex": 1,
-        "explain": "圖書館提前關閉是因為維護。"
+        "explain": "健康博覽會將在本週六舉行。"
       },
       {
-        "q": "What time will the library close?",
+        "q": "Where is the health fair being held?",
         "options": [
-          "6 PM.",
-          "5 PM.",
-          "4 PM.",
-          "7 PM."
+          "In the gym",
+          "In the library",
+          "In the student union",
+          "In the park"
         ],
-        "correctIndex": 1,
-        "explain": "圖書館將在下午5點關閉。"
+        "correctIndex": 2,
+        "explain": "健康博覽會在學生會舉行。"
       }
     ]
   },
   "talk": {
-    "transcript": "Today, I will discuss the concept of biodiversity. Biodiversity refers to the variety of life in a particular habitat or ecosystem. It includes the diversity of species, genetic differences within those species, and the ecosystems they form. High biodiversity is crucial for ecosystem resilience, providing services like pollination, pest control, and climate regulation. Unfortunately, human activities such as deforestation and pollution are threatening biodiversity. Conservation efforts are essential to preserve the health of our planet and ensure that diverse ecosystems continue to thrive.",
+    "transcript": "Today, I will discuss renewable energy sources, specifically solar energy. Solar energy is harnessed from sunlight using photovoltaic cells. These cells convert sunlight directly into electricity, making it a clean and sustainable energy source. The use of solar energy reduces reliance on fossil fuels, which are limited and environmentally harmful. Additionally, solar panels can be installed on homes and buildings, providing energy directly where it's needed. As technology improves, solar energy becomes more efficient and affordable, making it an increasingly popular choice for both individuals and businesses.",
     "questions": [
       {
-        "q": "What is biodiversity?",
+        "q": "What is the main topic of the talk?",
         "options": [
-          "Variety of life.",
-          "Only animal species.",
-          "Plant varieties only.",
-          "Ecosystem stability."
-        ],
-        "correctIndex": 0,
-        "explain": "生物多樣性是指某個棲息地或生態系統中的生命多樣性。"
-      },
-      {
-        "q": "Why is high biodiversity important?",
-        "options": [
-          "For scientific research.",
-          "For entertainment.",
-          "For ecosystem resilience.",
-          "For agriculture."
+          "Wind energy",
+          "Hydropower",
+          "Solar energy",
+          "Nuclear energy"
         ],
         "correctIndex": 2,
-        "explain": "高生物多樣性對生態系統的韌性至關重要。"
+        "explain": "這次演講的主要主題是太陽能。"
       },
       {
-        "q": "What threatens biodiversity?",
+        "q": "How do photovoltaic cells function?",
         "options": [
-          "Increased rainfall.",
-          "Human activities.",
-          "More wildlife reserves.",
-          "Natural disasters."
+          "They store electricity",
+          "They convert sunlight into electricity",
+          "They produce heat",
+          "They generate wind energy"
         ],
         "correctIndex": 1,
-        "explain": "人類活動如森林砍伐和污染威脅著生物多樣性。"
+        "explain": "光伏電池將陽光直接轉換為電力。"
       },
       {
-        "q": "What are conservation efforts aimed at?",
+        "q": "Why is solar energy considered sustainable?",
         "options": [
-          "Increasing pollution.",
-          "Enhancing ecosystems.",
-          "Preserving biodiversity.",
-          "Promoting tourism."
+          "It uses fossil fuels",
+          "It relies on limited resources",
+          "It harnesses sunlight",
+          "It is highly polluting"
         ],
         "correctIndex": 2,
-        "explain": "保護工作旨在保護生物多樣性。"
+        "explain": "太陽能被認為是可持續的，因為它利用陽光。"
+      },
+      {
+        "q": "What benefit does solar energy provide to homes?",
+        "options": [
+          "It increases energy costs",
+          "It requires large amounts of land",
+          "It provides energy directly where needed",
+          "It creates greenhouse gases"
+        ],
+        "correctIndex": 2,
+        "explain": "太陽能能直接為家庭提供所需的能源。"
       }
     ]
   }
