@@ -2,42 +2,74 @@
   "buildSentences": [
     {
       "words": [
-        "students",
-        "often",
-        "face",
-        "challenges",
-        "when",
-        "studying",
-        "for",
-        "exams"
-      ],
-      "display": "Students often face challenges when studying for exams."
-    },
-    {
-      "words": [
         "the",
-        "new",
-        "library",
-        "has",
-        "many",
-        "resources",
+        "research",
+        "team",
+        "submitted",
+        "their",
+        "findings",
         "to",
-        "help"
+        "the",
+        "journal"
       ],
-      "display": "The new library has many resources to help."
+      "display": "The research team submitted their findings to the journal."
     },
     {
       "words": [
-        "participating",
-        "in",
-        "clubs",
-        "can",
-        "enhance",
+        "students",
+        "should",
+        "review",
         "the",
-        "college",
-        "experience"
+        "material",
+        "before",
+        "the",
+        "exam"
       ],
-      "display": "Participating in clubs can enhance the college experience."
+      "display": "Students should review the material before the exam."
+    },
+    {
+      "words": [
+        "climate",
+        "change",
+        "is",
+        "a",
+        "global",
+        "issue",
+        "that",
+        "requires",
+        "immediate",
+        "action"
+      ],
+      "display": "Climate change is a global issue that requires immediate action."
+    },
+    {
+      "words": [
+        "the",
+        "library",
+        "will",
+        "be",
+        "closed",
+        "for",
+        "renovation",
+        "next",
+        "month"
+      ],
+      "display": "The library will be closed for renovation next month."
+    },
+    {
+      "words": [
+        "please",
+        "submit",
+        "your",
+        "assignments",
+        "by",
+        "the",
+        "end",
+        "of",
+        "the",
+        "week"
+      ],
+      "display": "Please submit your assignments by the end of the week."
     },
     {
       "words": [
@@ -46,79 +78,57 @@
         "encouraged",
         "students",
         "to",
-        "explore",
-        "different",
-        "perspectives"
+        "participate",
+        "in",
+        "the",
+        "research",
+        "project"
       ],
-      "display": "The professor encouraged students to explore different perspectives."
+      "display": "The professor encouraged students to participate in the research project."
     },
     {
       "words": [
-        "working",
-        "in",
-        "groups",
-        "can",
-        "improve",
-        "communication",
-        "skills",
-        "and"
+        "attending",
+        "regularly",
+        "scheduled",
+        "lectures",
+        "is",
+        "important",
+        "for",
+        "academic",
+        "success"
       ],
-      "display": "Working in groups can improve communication skills and."
+      "display": "Attending regularly scheduled lectures is important for academic success."
     },
     {
       "words": [
         "the",
-        "research",
-        "findings",
-        "demonstrated",
-        "a",
-        "strong",
-        "link",
-        "between"
-      ],
-      "display": "The research findings demonstrated a strong link between."
-    },
-    {
-      "words": [
-        "discussing",
-        "ideas",
-        "with",
-        "peers",
-        "can",
-        "lead",
+        "university",
+        "offers",
+        "various",
+        "resources",
         "to",
-        "deeper"
+        "support",
+        "student",
+        "wellbeing"
       ],
-      "display": "Discussing ideas with peers can lead to deeper."
-    },
-    {
-      "words": [
-        "developing",
-        "time",
-        "management",
-        "skills",
-        "is",
-        "important",
-        "for",
-        "academic"
-      ],
-      "display": "Developing time management skills is important for academic."
+      "display": "The university offers various resources to support student wellbeing."
     }
   ],
   "emailPrompts": [
-    "寄信給教授，說明因病無法參加期中考，詢問補考事宜。",
-    "發信給宿舍辦公室，詢問關於房間維修的進度。",
-    "寄信給圖書館，請求延長書籍的歸還期限。",
-    "寫信給社團負責人，請求加入該社團並詢問活動詳情。",
-    "寄信給客服，反映最近購物的問題並要求退款。",
-    "發信給校園活動中心，詢問即將舉行的講座的具體時間。"
+    "寄信給教授，詢問有關期末報告的具體要求與截止日期。",
+    "寄信給宿舍辦公室，請求修理宿舍內的水管問題。",
+    "寄信給圖書館，詢問書籍的借閱期限及續借流程。",
+    "寄信給社團負責人，表達參加即將舉行的社團活動的意願。",
+    "寄信給客服部門，反映最近一次購物的問題與要求退款。",
+    "寄信給導師，請求安排一次學業諮詢的會議。"
   ],
   "discussionPrompts": [
-    "教授問：「你認為科技對人際關係的影響是正面還是負面？」",
-    "教授問：「在全球化的背景下，文化保存的重要性如何？」",
-    "教授問：「如何看待在線學習對傳統教育模式的挑戰？」",
-    "教授問：「氣候變化的解決方案應該優先考慮哪些方面？」",
-    "教授問：「社交媒體對青少年心理健康的影響有哪些？」",
-    "教授問：「未來的工作場所應該如何適應人工智慧的發展？」"
+    "教授問：「如何看待人工智慧對未來工作的影響？」",
+    "教授問：「社交媒體是否促進了人際關係的發展？」",
+    "教授問：「在當今社會中，環保與經濟發展之間的平衡應如何取得？」",
+    "教授問：「文化多樣性對現代社會的重要性是什麼？」",
+    "教授問：「技術在教育中的使用對學習成效有何影響？」",
+    "教授問：「政府應該如何應對氣候變化帶來的挑戰？」"
   ]
 }

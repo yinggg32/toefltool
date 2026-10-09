@@ -2,119 +2,107 @@
   "cloze": {
     "segments": [
       {
-        "text": "The concept of a "
+        "text": "The process of photosynthesis is essential for plant lif"
       },
       {
-        "blank": "theo"
+        "blank": "e and"
       },
       {
-        "text": "ry is fundamental in "
+        "text": " occurs in the chloroplasts of plant cells. During this process, plants absorb sunlight and"
       },
       {
-        "blank": "mathe"
+        "blank": " convert"
       },
       {
-        "text": "matics. A theory is a "
+        "text": " it into chemical energy. This energy is stored in the form of glucose, which plants use as a"
       },
       {
-        "blank": "well-f"
+        "blank": " fuel to"
       },
       {
-        "text": "ounded explanation of a set of "
+        "text": " grow and develop. In addition, photosynthesis plays a crucial role in the Earth's ecosystem by"
       },
       {
-        "blank": "observ"
+        "blank": " producing"
       },
       {
-        "text": "ations or phenomena. To "
-      },
-      {
-        "blank": "valid"
-      },
-      {
-        "text": "ate a theory, scientists must conduct experiments and gather data to ensure its "
-      },
-      {
-        "blank": "applic"
-      },
-      {
-        "text": "ability in various contexts."
+        "text": " oxygen as a byproduct, which is vital for the survival of most living organisms."
       }
     ]
   },
   "academic": {
-    "passage": "Mathematical theories play a crucial role in the development of scientific understanding. A theory provides a framework for explaining observations and making predictions. For instance, the theory of relativity allows physicists to understand gravitational effects on time and space. The validation of a theory requires rigorous testing through experiments and peer review. This process ensures that a theory is not only sound but also applicable across different scenarios, thereby enhancing our comprehension of the universe.",
+    "passage": "Photosynthesis is the biochemical process by which green plants, algae, and some bacteria convert light energy into chemical energy stored in glucose. This process takes place in the chloroplasts, where chlorophyll captures sunlight. The overall reaction can be summarized as carbon dioxide and water, in the presence of light, yielding glucose and oxygen. Photosynthesis is crucial for the survival of life on Earth as it forms the foundation of food chains and provides oxygen necessary for most life forms, supporting both terrestrial and aquatic ecosystems.",
     "questions": [
       {
-        "q": "What is the main purpose of a mathematical theory?",
+        "q": "What is the main purpose of photosynthesis?",
         "options": [
-          "To explain observations",
-          "To conduct experiments",
-          "To validate data",
-          "To create predictions"
+          "To convert light energy into chemical energy",
+          "To absorb carbon dioxide",
+          "To produce glucose only",
+          "To release oxygen"
         ],
         "correctIndex": 0,
-        "explain": "數學理論的主要目的是解釋觀察結果。"
+        "explain": "光合作用的主要目的是將光能轉換為化學能，儲存在葡萄糖中。"
       },
       {
-        "q": "Which theory is mentioned in the passage?",
+        "q": "Where does photosynthesis take place?",
         "options": [
-          "Theory of everything",
-          "Theory of relativity",
-          "Quantum theory",
-          "Normal distribution"
+          "In the mitochondria",
+          "In the chloroplasts",
+          "In the nucleus",
+          "In the cytoplasm"
         ],
         "correctIndex": 1,
-        "explain": "文章提到的理論是相對論。"
+        "explain": "光合作用發生在葉綠體中，這是植物細胞的特殊結構。"
       },
       {
-        "q": "What can be inferred about the validation of theories?",
+        "q": "What can be inferred about the role of chlorophyll?",
         "options": [
-          "It is optional and not necessary",
-          "It must be done through experiments",
-          "It only requires peer review",
-          "It is quick and easy"
-        ],
-        "correctIndex": 1,
-        "explain": "關於理論的驗證可以推斷出，這一定要通過實驗進行。"
-      },
-      {
-        "q": "What does the word 'rigorous' in the passage most likely mean?",
-        "options": [
-          "Strict and demanding",
-          "Simple and easy",
-          "Random and careless",
-          "Casual and relaxed"
+          "It absorbs sunlight",
+          "It produces glucose",
+          "It releases carbon dioxide",
+          "It protects the plant"
         ],
         "correctIndex": 0,
-        "explain": "在文章中，'rigorous' 的意思是嚴格和要求高。"
+        "explain": "葉綠素的角色是吸收陽光，從而使光合作用得以進行。"
+      },
+      {
+        "q": "What does the term 'glucose' refer to in the passage?",
+        "options": [
+          "A type of oxygen",
+          "A form of energy storage",
+          "A byproduct of photosynthesis",
+          "A carbon compound"
+        ],
+        "correctIndex": 1,
+        "explain": "在文中，'葡萄糖'指的是植物儲存能量的形式。"
       }
     ]
   },
   "daily": {
-    "passage": "Attention all students! The library will be closed for renovations from next Monday through Friday. Please plan accordingly and ensure you have all necessary materials before this period. We apologize for any inconvenience caused.",
+    "passage": "Attention students: The library will be closed for maintenance on Saturday from 9 AM to 5 PM. Please plan accordingly and return any borrowed materials before this time. Thank you for your understanding.",
     "questions": [
       {
         "q": "When will the library be closed?",
         "options": [
-          "Next Monday",
-          "Next Friday",
-          "Next Monday to Friday",
-          "This weekend"
-        ],
-        "correctIndex": 2,
-        "explain": "圖書館將在下週一至週五關閉。"
-      },
-      {
-        "q": "Why is the library closing?",
-        "options": [
-          "For staff training",
-          "For renovations",
-          "Due to a holiday",
-          "For inventory"
+          "Friday",
+          "Saturday",
+          "Sunday",
+          "Monday"
         ],
         "correctIndex": 1,
-        "explain": "圖書館關閉的原因是進行翻修。"
+        "explain": "圖書館將在星期六關閉，維護時間為早上九點至下午五點。"
+      },
+      {
+        "q": "What should students do before the library closes?",
+        "options": [
+          "Borrow more materials",
+          "Attend a workshop",
+          "Return borrowed materials",
+          "Study in the library"
+        ],
+        "correctIndex": 2,
+        "explain": "學生應在圖書館關閉前歸還借出的材料。"
       }
     ]
   }

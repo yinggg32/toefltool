@@ -1,45 +1,45 @@
 {
   "shadowSentences": [
-    "I enjoy reading books in my free time.",
-    "The sun sets beautifully over the ocean.",
-    "Cooking can be a fun and rewarding hobby.",
-    "Traveling to new places broadens your perspective.",
-    "Listening to music helps me relax after a long day.",
-    "Joining a club is a great way to meet people.",
-    "Exercising regularly improves both physical and mental health.",
-    "Learning a new language can be challenging but fun.",
-    "Volunteering in the community can bring great satisfaction.",
-    "Spending time outdoors boosts my mood and energy levels."
+    "I love reading books in my free time.",
+    "He enjoys cooking new recipes on weekends.",
+    "They went hiking in the mountains last summer.",
+    "We should try that new Italian restaurant downtown.",
+    "She often listens to music while studying for exams.",
+    "My friends and I regularly play games online together.",
+    "Traveling to new places always brings me joy and excitement.",
+    "Learning a new language can be challenging yet rewarding.",
+    "Participating in community events helps build great connections.",
+    "Volunteering at the local shelter has changed my perspective on life."
   ],
   "interviewScenarios": [
     {
-      "topic": "運動習慣",
-      "intro": "You have agreed to take part in a research study about exercise habits.",
+      "topic": "旅行",
+      "intro": "You have agreed to take part in a research study about travel experiences.",
       "questions": [
-        "Q1: Can you share your personal experience with regular exercise?",
-        "Q2: What challenges have you faced in maintaining a workout routine?",
-        "Q3: What do you think are the benefits of exercising regularly?",
-        "Q4: What advice would you give someone starting an exercise program?"
+        "Q1: Can you share a memorable travel experience you have had?",
+        "Q2: What challenges did you face while traveling?",
+        "Q3: How do you feel about the impact of travel on personal growth?",
+        "Q4: What advice would you give to someone planning their first trip?"
       ]
     },
     {
       "topic": "飲食習慣",
       "intro": "You have agreed to take part in a research study about eating habits.",
       "questions": [
-        "Q1: What do you usually eat for breakfast?",
-        "Q2: How do you balance healthy eating with convenience?",
-        "Q3: In your opinion, how important is diet for overall health?",
-        "Q4: What tips can you share for maintaining a balanced diet?"
+        "Q1: What are some of your favorite meals to prepare at home?",
+        "Q2: Have you ever struggled with maintaining a healthy diet?",
+        "Q3: In your opinion, how important is nutrition in our daily lives?",
+        "Q4: What tips would you give someone trying to eat healthier?"
       ]
     },
     {
-      "topic": "旅行計劃",
-      "intro": "You have agreed to take part in a research study about travel planning.",
+      "topic": "運動和健身",
+      "intro": "You have agreed to take part in a research study about exercise and fitness.",
       "questions": [
-        "Q1: What is your favorite travel destination and why?",
-        "Q2: What challenges do you encounter when planning a trip?",
-        "Q3: How do you feel about traveling alone versus with others?",
-        "Q4: What advice would you give someone planning their first trip?"
+        "Q1: What types of physical activities do you enjoy the most?",
+        "Q2: Have you faced any obstacles in your fitness journey?",
+        "Q3: Why do you think regular exercise is important for health?",
+        "Q4: What recommendations would you make for someone starting a workout routine?"
       ]
     }
   ]

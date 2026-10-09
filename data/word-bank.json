@@ -9366,5 +9366,45 @@
     "zh": "波動性",
     "ex": "Market volatility can create uncertainty for investors.",
     "cat": "📰 每日新詞：economics"
+  },
+  {
+    "word": "attention",
+    "pos": "n.",
+    "root": "注意—attention",
+    "zh": "注意",
+    "ex": "Attention is a limited resource that can affect learning outcomes.",
+    "cat": "📰 每日新詞：psychology"
+  },
+  {
+    "word": "illusion",
+    "pos": "n.",
+    "root": "幻覺—illusion",
+    "zh": "幻覺",
+    "ex": "Illusions reveal the complexities of human perception.",
+    "cat": "📰 每日新詞：psychology"
+  },
+  {
+    "word": "memory",
+    "pos": "n.",
+    "root": "記憶—memory",
+    "zh": "記憶",
+    "ex": "Memory plays a critical role in learning and information retention.",
+    "cat": "📰 每日新詞：psychology"
+  },
+  {
+    "word": "conditioning",
+    "pos": "n.",
+    "root": "條件作用—conditioning",
+    "zh": "條件作用",
+    "ex": "Classical conditioning is a fundamental concept in behavioral psychology.",
+    "cat": "📰 每日新詞：psychology"
+  },
+  {
+    "word": "paradigm",
+    "pos": "n.",
+    "root": "範式—paradigm",
+    "zh": "範式",
+    "ex": "A paradigm shift in psychology can lead to new approaches in treatment.",
+    "cat": "📰 每日新詞：psychology"
   }
 ]
