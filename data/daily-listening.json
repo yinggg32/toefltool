@@ -1,116 +1,116 @@
 {
   "chooseResponse": [
     {
-      "q": "What time is the concert tonight?",
+      "q": "What time is the meeting?",
       "options": [
-        "I think it's at 7 PM.",
-        "Can I help you with that?",
-        "What concert are you talking about?",
-        "Where is it being held?"
+        "At 10 AM.",
+        "In the library.",
+        "Next week.",
+        "With the professor."
       ],
       "correctIndex": 0
     }
   ],
   "conversation": {
-    "transcript": "Student: Hi, do you have the time for the concert tonight?\nAdvisor: Yes, it starts at 7 PM. Are you going?\nStudent: Yes, I am! I can't wait to see the band.\nAdvisor: They are supposed to be really good live!",
+    "transcript": "Student: Hi, I heard there's an art exhibition this weekend. \nAdvisor: Yes, it's at the gallery downtown. Have you been there before? \nStudent: No, I haven't. What's special about it? \nAdvisor: They're showcasing local artists and their unique styles. It's a great opportunity to explore new talent.",
     "questions": [
       {
-        "q": "What time does the concert start?",
+        "q": "Where is the art exhibition?",
         "options": [
-          "6 PM",
-          "7 PM",
-          "8 PM",
-          "9 PM"
+          "At the campus.",
+          "In the downtown gallery.",
+          "In the city park.",
+          "At the community center."
         ],
         "correctIndex": 1,
-        "explain": "音樂會在晚上7點開始。"
+        "explain": "藝術展覽在市中心的畫廊。"
       },
       {
-        "q": "What does the student think about the concert?",
+        "q": "What is the exhibition showcasing?",
         "options": [
-          "It's boring.",
-          "It's exciting.",
-          "I don't know.",
-          "I won't go."
+          "Famous artists.",
+          "Local artists.",
+          "Ancient art.",
+          "Photography."
         ],
         "correctIndex": 1,
-        "explain": "學生覺得音樂會很令人興奮。"
+        "explain": "展覽展示本地藝術家的作品。"
       }
     ]
   },
   "announcement": {
-    "transcript": "Attention all students: The annual Arts Festival will be held this Saturday in the campus square. There will be live performances, art exhibits, and food stalls. Join us for a day of creativity and fun!",
+    "transcript": "Attention students: The annual cultural festival will take place this Saturday from 10 AM to 5 PM in the student union. There will be food, performances, and various activities. Please come out and support our diverse community!",
     "questions": [
       {
-        "q": "When is the Arts Festival?",
+        "q": "What day is the cultural festival?",
         "options": [
-          "This Friday",
-          "This Saturday",
-          "Next Saturday",
-          "Next Sunday"
+          "Friday.",
+          "Saturday.",
+          "Sunday.",
+          "Monday."
         ],
         "correctIndex": 1,
-        "explain": "藝術節將在本週六舉行。"
+        "explain": "文化節在星期六舉行。"
       },
       {
-        "q": "What will be featured at the festival?",
+        "q": "What can students expect at the festival?",
         "options": [
-          "Sports events",
-          "Art exhibits",
-          "Science projects",
-          "Book readings"
+          "Only food.",
+          "Performances and activities.",
+          "Workshops only.",
+          "Art displays."
         ],
         "correctIndex": 1,
-        "explain": "將會有藝術展覽。"
+        "explain": "學生可以期待表演和各種活動。"
       }
     ]
   },
   "talk": {
-    "transcript": "Today, we'll explore the concept of sustainable development. This term refers to meeting our present needs without compromising the ability of future generations to meet theirs. It encompasses environmental preservation, economic growth, and social equity. By promoting sustainable practices, we can ensure a healthier planet and a fairer society. For example, using renewable energy sources reduces our carbon footprint. Additionally, supporting local economies boosts community resilience. Understanding sustainable development is crucial for anyone interested in creating positive change in their communities.",
+    "transcript": "Today, I want to discuss the concept of renewable energy. Renewable energy comes from natural sources that are continuously replenished, such as sunlight, wind, and water. Unlike fossil fuels, which take millions of years to form and can deplete over time, renewable energy sources are sustainable. For instance, solar panels harness sunlight to generate electricity, while wind turbines convert wind into energy. The use of renewable energy is essential for reducing greenhouse gas emissions and combating climate change. Transitioning to these energy sources can also create jobs and boost the economy.",
     "questions": [
       {
-        "q": "What does sustainable development aim to achieve?",
+        "q": "What is renewable energy?",
         "options": [
-          "Immediate profit",
-          "Future needs",
-          "Higher efficiency",
-          "More technology"
+          "Energy from fossils.",
+          "Energy from natural sources.",
+          "Energy from nuclear power.",
+          "Energy from coal."
         ],
         "correctIndex": 1,
-        "explain": "可持續發展旨在滿足未來的需求。"
+        "explain": "可再生能源來自自然來源。"
       },
       {
-        "q": "What is one example of sustainable practice mentioned?",
+        "q": "Why is renewable energy important?",
         "options": [
-          "Using fossil fuels",
-          "Promoting local markets",
-          "Increasing waste",
-          "Limiting education"
+          "It is cheaper.",
+          "It reduces emissions.",
+          "It uses more fossil fuels.",
+          "It is less reliable."
         ],
         "correctIndex": 1,
-        "explain": "使用可再生能源是其中一個可持續實踐的例子。"
+        "explain": "可再生能源對減少溫室氣體排放很重要。"
       },
       {
-        "q": "Why is sustainable development important?",
+        "q": "What do solar panels do?",
         "options": [
-          "To have more resources",
-          "To create positive change",
-          "To avoid regulations",
-          "To increase competition"
+          "Harness wind energy.",
+          "Store electricity.",
+          "Generate electricity from sunlight.",
+          "Convert water into energy."
         ],
-        "correctIndex": 1,
-        "explain": "可持續發展對於創造積極的變化非常重要。"
+        "correctIndex": 2,
+        "explain": "太陽能電池板從陽光中發電。"
       },
       {
-        "q": "Which of the following is NOT part of sustainable development?",
+        "q": "What can transitioning to renewable energy create?",
         "options": [
-          "Environmental preservation",
-          "Economic growth",
-          "Social equity",
-          "Immediate consumption"
+          "More pollution.",
+          "Less energy.",
+          "Jobs and economic growth.",
+          "Fewer resources."
         ],
-        "correctIndex": 3,
-        "explain": "立即消費並不是可持續發展的一部分。"
+        "correctIndex": 2,
+        "explain": "轉向可再生能源可以創造就業機會和經濟增長。"
       }
     ]
   }

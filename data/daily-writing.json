@@ -3,73 +3,67 @@
     {
       "words": [
         "the",
-        "research",
-        "team",
+        "students",
         "submitted",
         "their",
-        "findings",
-        "to",
-        "the",
-        "journal"
-      ],
-      "display": "The research team submitted their findings to the journal."
-    },
-    {
-      "words": [
-        "students",
-        "should",
-        "review",
-        "the",
-        "material",
+        "assignments",
         "before",
         "the",
-        "exam"
+        "deadline"
       ],
-      "display": "Students should review the material before the exam."
+      "display": "The students submitted their assignments before the deadline."
     },
     {
       "words": [
-        "climate",
-        "change",
-        "is",
-        "a",
-        "global",
-        "issue",
-        "that",
-        "requires",
-        "immediate",
-        "action"
+        "he",
+        "plans",
+        "to",
+        "travel",
+        "to",
+        "europe",
+        "next",
+        "summer"
       ],
-      "display": "Climate change is a global issue that requires immediate action."
+      "display": "He plans to travel to Europe next summer."
     },
     {
       "words": [
         "the",
-        "library",
-        "will",
-        "be",
-        "closed",
+        "researchers",
+        "discovered",
+        "a",
+        "new",
+        "method",
         "for",
-        "renovation",
-        "next",
-        "month"
+        "analyzing"
       ],
-      "display": "The library will be closed for renovation next month."
+      "display": "The researchers discovered a new method for analyzing."
     },
     {
       "words": [
-        "please",
-        "submit",
-        "your",
-        "assignments",
+        "the",
+        "presentation",
+        "was",
+        "well",
+        "received",
         "by",
         "the",
-        "end",
-        "of",
-        "the",
-        "week"
+        "audience"
       ],
-      "display": "Please submit your assignments by the end of the week."
+      "display": "The presentation was well received by the audience."
+    },
+    {
+      "words": [
+        "she",
+        "wrote",
+        "a",
+        "detailed",
+        "report",
+        "on",
+        "the",
+        "experiment"
+      ],
+      "display": "She wrote a detailed report on the experiment."
     },
     {
       "words": [
@@ -80,55 +74,52 @@
         "to",
         "participate",
         "in",
-        "the",
-        "research",
-        "project"
+        "discussions"
       ],
-      "display": "The professor encouraged students to participate in the research project."
+      "display": "The professor encouraged students to participate in discussions."
     },
     {
       "words": [
-        "attending",
-        "regularly",
-        "scheduled",
-        "lectures",
-        "is",
-        "important",
-        "for",
-        "academic",
-        "success"
+        "they",
+        "will",
+        "organize",
+        "a",
+        "conference",
+        "in",
+        "the",
+        "spring"
       ],
-      "display": "Attending regularly scheduled lectures is important for academic success."
+      "display": "They will organize a conference in the spring."
     },
     {
       "words": [
-        "the",
-        "university",
-        "offers",
-        "various",
-        "resources",
+        "we",
+        "need",
         "to",
-        "support",
-        "student",
-        "wellbeing"
+        "review",
+        "the",
+        "material",
+        "before",
+        "the",
+        "final"
       ],
-      "display": "The university offers various resources to support student wellbeing."
+      "display": "We need to review the material before the final."
     }
   ],
   "emailPrompts": [
-    "寄信給教授，詢問有關期末報告的具體要求與截止日期。",
-    "寄信給宿舍辦公室，請求修理宿舍內的水管問題。",
-    "寄信給圖書館，詢問書籍的借閱期限及續借流程。",
-    "寄信給社團負責人，表達參加即將舉行的社團活動的意願。",
-    "寄信給客服部門，反映最近一次購物的問題與要求退款。",
-    "寄信給導師，請求安排一次學業諮詢的會議。"
+    "寄信給圖書館，詢問關於借書的期限和罰款政策。",
+    "寄信給宿舍辦公室，請求更換房間因為噪音問題。",
+    "寄信給社團負責人，表達希望參加下個月的活動。",
+    "寄信給客戶服務，反映最近在訂購產品時遇到的問題。",
+    "寄信給教授，請求延長報告的截止日期。",
+    "寄信給實習單位，確認面試的時間和地點。"
   ],
   "discussionPrompts": [
-    "教授問：「如何看待人工智慧對未來工作的影響？」",
-    "教授問：「社交媒體是否促進了人際關係的發展？」",
-    "教授問：「在當今社會中，環保與經濟發展之間的平衡應如何取得？」",
-    "教授問：「文化多樣性對現代社會的重要性是什麼？」",
-    "教授問：「技術在教育中的使用對學習成效有何影響？」",
-    "教授問：「政府應該如何應對氣候變化帶來的挑戰？」"
+    "教授問：「我們應該如何看待社交媒體對青少年的影響？」",
+    "教授問：「全球暖化是否是一個值得擔憂的問題？」",
+    "教授問：「科技進步對人類生活的正面與負面影響為何？」",
+    "教授問：「藝術在教育中的重要性是什麼？」",
+    "教授問：「我們應該如何應對日益嚴重的心理健康問題？」",
+    "教授問：「文化多樣性對社會發展有何影響？」"
   ]
 }
