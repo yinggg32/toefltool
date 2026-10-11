@@ -2,124 +2,123 @@
   "buildSentences": [
     {
       "words": [
+        "books",
         "the",
-        "students",
-        "submitted",
-        "their",
-        "assignments",
-        "before",
-        "the",
-        "deadline"
-      ],
-      "display": "The students submitted their assignments before the deadline."
-    },
-    {
-      "words": [
-        "he",
-        "plans",
-        "to",
-        "travel",
-        "to",
-        "europe",
-        "next",
-        "summer"
-      ],
-      "display": "He plans to travel to Europe next summer."
-    },
-    {
-      "words": [
-        "the",
-        "researchers",
-        "discovered",
-        "a",
-        "new",
-        "method",
-        "for",
-        "analyzing"
-      ],
-      "display": "The researchers discovered a new method for analyzing."
-    },
-    {
-      "words": [
-        "the",
-        "presentation",
-        "was",
-        "well",
-        "received",
-        "by",
-        "the",
-        "audience"
-      ],
-      "display": "The presentation was well received by the audience."
-    },
-    {
-      "words": [
-        "she",
-        "wrote",
-        "a",
-        "detailed",
-        "report",
+        "library",
+        "in",
+        "are",
         "on",
         "the",
-        "experiment"
+        "shelves"
       ],
-      "display": "She wrote a detailed report on the experiment."
+      "display": "The books are on the shelves in the library."
+    },
+    {
+      "words": [
+        "the",
+        "students",
+        "to",
+        "discuss",
+        "issues",
+        "have",
+        "the",
+        "opportunity"
+      ],
+      "display": "The students have the opportunity to discuss issues."
+    },
+    {
+      "words": [
+        "enjoy",
+        "students",
+        "the",
+        "field",
+        "trip",
+        "to",
+        "the",
+        "museum"
+      ],
+      "display": "Students enjoy the field trip to the museum."
     },
     {
       "words": [
         "the",
         "professor",
-        "encouraged",
-        "students",
-        "to",
-        "participate",
-        "in",
-        "discussions"
-      ],
-      "display": "The professor encouraged students to participate in discussions."
-    },
-    {
-      "words": [
-        "they",
-        "will",
-        "organize",
         "a",
-        "conference",
-        "in",
-        "the",
-        "spring"
+        "lecture",
+        "on",
+        "scheduled",
+        "has",
+        "Monday"
       ],
-      "display": "They will organize a conference in the spring."
+      "display": "The professor has a lecture scheduled on Monday."
     },
     {
       "words": [
-        "we",
-        "need",
         "to",
-        "review",
         "the",
-        "material",
-        "before",
+        "project",
+        "completed",
         "the",
-        "final"
+        "students",
+        "need",
+        "submit"
       ],
-      "display": "We need to review the material before the final."
+      "display": "The students need to submit the completed project."
+    },
+    {
+      "words": [
+        "feedback",
+        "the",
+        "to",
+        "provide",
+        "will",
+        "professor",
+        "the",
+        "students"
+      ],
+      "display": "The professor will provide feedback to the students."
+    },
+    {
+      "words": [
+        "the",
+        "meeting",
+        "at",
+        "scheduled",
+        "be",
+        "to",
+        "will",
+        "afternoon"
+      ],
+      "display": "The meeting will be scheduled at the afternoon."
+    },
+    {
+      "words": [
+        "the",
+        "research",
+        "students",
+        "are",
+        "conducting",
+        "on",
+        "environmental",
+        "issues"
+      ],
+      "display": "Students are conducting research on environmental issues."
     }
   ],
   "emailPrompts": [
-    "寄信給圖書館，詢問關於借書的期限和罰款政策。",
-    "寄信給宿舍辦公室，請求更換房間因為噪音問題。",
-    "寄信給社團負責人，表達希望參加下個月的活動。",
-    "寄信給客戶服務，反映最近在訂購產品時遇到的問題。",
-    "寄信給教授，請求延長報告的截止日期。",
-    "寄信給實習單位，確認面試的時間和地點。"
+    "寄信給教授，詢問關於期末報告的具體要求。",
+    "向宿舍辦公室反映水管漏水的問題，請求修理。",
+    "寫信給圖書館管理員，查詢延長書籍歸還期限的可能性。",
+    "給社團主席發送郵件，申請參加即將舉行的社團活動。",
+    "寫信給顧客服務，反映購買商品後遇到的問題並要求退款。",
+    "寄信給導師，請教關於選課的建議和指導。"
   ],
   "discussionPrompts": [
-    "教授問：「我們應該如何看待社交媒體對青少年的影響？」",
-    "教授問：「全球暖化是否是一個值得擔憂的問題？」",
-    "教授問：「科技進步對人類生活的正面與負面影響為何？」",
-    "教授問：「藝術在教育中的重要性是什麼？」",
-    "教授問：「我們應該如何應對日益嚴重的心理健康問題？」",
-    "教授問：「文化多樣性對社會發展有何影響？」"
+    "教授問：「你認為科技對教育的影響是正面還是負面？」",
+    "教授問：「如何看待全球暖化對國家安全的影響？」",
+    "教授問：「社交媒體對人際關係的影響有哪些？」",
+    "教授問：「應該如何有效預防青少年犯罪？」",
+    "教授問：「文化多樣性對社會發展的重要性是什麼？」",
+    "教授問：「你怎麼看待人工智慧在未來工作的角色？」"
   ]
 }

@@ -9414,5 +9414,77 @@
     "zh": "生物工程",
     "ex": "Bioengineering holds promise for advancements in medical treatments and therapies.",
     "cat": "📰 每日新詞：technology and innovation"
+  },
+  {
+    "word": "monarchy",
+    "pos": "n.",
+    "root": "君主制 — monarch+y",
+    "zh": "君主制",
+    "ex": "The monarchy has played a significant role in shaping the political landscape of the country.",
+    "cat": "📰 每日新詞：history"
+  },
+  {
+    "word": "archive",
+    "pos": "n./v.",
+    "root": "档案 — arch+ive",
+    "zh": "档案",
+    "ex": "The archives contain invaluable documents that shed light on the historical period.",
+    "cat": "📰 每日新詞：history"
+  },
+  {
+    "word": "expedition",
+    "pos": "n.",
+    "root": "探险 — ex+pedition",
+    "zh": "探险",
+    "ex": "The expedition to the Arctic was undertaken to study climate change and its effects.",
+    "cat": "📰 每日新詞：history"
+  },
+  {
+    "word": "hereditary",
+    "pos": "adj.",
+    "root": "世袭的 — hered+itary",
+    "zh": "世袭的",
+    "ex": "Many monarchies are hereditary, passing power from one generation to the next.",
+    "cat": "📰 每日新詞：history"
+  },
+  {
+    "word": "testament",
+    "pos": "n.",
+    "root": "遗嘱 — testament",
+    "zh": "遗嘱",
+    "ex": "The historical testament of the period reveals much about the values of society.",
+    "cat": "📰 每日新詞：history"
+  },
+  {
+    "word": "revise",
+    "pos": "v.",
+    "root": "修订 — re+vise",
+    "zh": "修订",
+    "ex": "Historians often revise their interpretations based on new evidence and perspectives.",
+    "cat": "📰 每日新詞：history"
+  },
+  {
+    "word": "thesis",
+    "pos": "n.",
+    "root": "论点 — the+sis",
+    "zh": "论点",
+    "ex": "Her thesis on the causes of the war was well-received by her peers.",
+    "cat": "📰 每日新詞：history"
+  },
+  {
+    "word": "interpreter",
+    "pos": "n.",
+    "root": "翻译 — inter+preter",
+    "zh": "翻译",
+    "ex": "An interpreter is essential for understanding historical documents in foreign languages.",
+    "cat": "📰 每日新詞：history"
+  },
+  {
+    "word": "testimony",
+    "pos": "n.",
+    "root": "证词 — testi+mony",
+    "zh": "证词",
+    "ex": "Witness testimony can provide crucial evidence in understanding historical events.",
+    "cat": "📰 每日新詞：history"
   }
 ]

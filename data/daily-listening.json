@@ -1,116 +1,116 @@
 {
   "chooseResponse": [
     {
-      "q": "What time is the meeting?",
+      "q": "What do you think of this book?",
       "options": [
-        "At 10 AM.",
-        "In the library.",
-        "Next week.",
-        "With the professor."
+        "It's amazing!",
+        "I haven't read it.",
+        "It's boring.",
+        "I love its cover."
       ],
       "correctIndex": 0
     }
   ],
   "conversation": {
-    "transcript": "Student: Hi, I heard there's an art exhibition this weekend. \nAdvisor: Yes, it's at the gallery downtown. Have you been there before? \nStudent: No, I haven't. What's special about it? \nAdvisor: They're showcasing local artists and their unique styles. It's a great opportunity to explore new talent.",
+    "transcript": "Student: Hey, did you finish reading that new novel?\nProfessor: Yes, I just wrapped it up last night.\nStudent: What did you think of the ending?\nProfessor: I found it quite surprising, actually!",
     "questions": [
       {
-        "q": "Where is the art exhibition?",
+        "q": "What was the professor's reaction to the ending?",
         "options": [
-          "At the campus.",
-          "In the downtown gallery.",
-          "In the city park.",
-          "At the community center."
+          "It was predictable.",
+          "It was surprising.",
+          "It was disappointing.",
+          "It was confusing."
         ],
         "correctIndex": 1,
-        "explain": "藝術展覽在市中心的畫廊。"
+        "explain": "教授對結局的反應是驚訝的。"
       },
       {
-        "q": "What is the exhibition showcasing?",
+        "q": "When did the professor finish the novel?",
         "options": [
-          "Famous artists.",
-          "Local artists.",
-          "Ancient art.",
-          "Photography."
+          "Last week.",
+          "Last night.",
+          "This morning.",
+          "Yesterday."
         ],
         "correctIndex": 1,
-        "explain": "展覽展示本地藝術家的作品。"
+        "explain": "教授是昨晚完成小說的。"
       }
     ]
   },
   "announcement": {
-    "transcript": "Attention students: The annual cultural festival will take place this Saturday from 10 AM to 5 PM in the student union. There will be food, performances, and various activities. Please come out and support our diverse community!",
+    "transcript": "Attention students: The library will be closed this Saturday for maintenance. We apologize for any inconvenience this may cause. Normal hours will resume on Sunday. Thank you for your understanding.",
     "questions": [
       {
-        "q": "What day is the cultural festival?",
+        "q": "Why will the library be closed?",
         "options": [
-          "Friday.",
-          "Saturday.",
-          "Sunday.",
-          "Monday."
+          "For a holiday.",
+          "For maintenance.",
+          "For inventory.",
+          "For an event."
         ],
         "correctIndex": 1,
-        "explain": "文化節在星期六舉行。"
+        "explain": "圖書館將因維護而關閉。"
       },
       {
-        "q": "What can students expect at the festival?",
+        "q": "When will the library reopen?",
         "options": [
-          "Only food.",
-          "Performances and activities.",
-          "Workshops only.",
-          "Art displays."
+          "Saturday.",
+          "Sunday.",
+          "Monday.",
+          "Friday."
         ],
         "correctIndex": 1,
-        "explain": "學生可以期待表演和各種活動。"
+        "explain": "圖書館將在星期日恢復正常開放。"
       }
     ]
   },
   "talk": {
-    "transcript": "Today, I want to discuss the concept of renewable energy. Renewable energy comes from natural sources that are continuously replenished, such as sunlight, wind, and water. Unlike fossil fuels, which take millions of years to form and can deplete over time, renewable energy sources are sustainable. For instance, solar panels harness sunlight to generate electricity, while wind turbines convert wind into energy. The use of renewable energy is essential for reducing greenhouse gas emissions and combating climate change. Transitioning to these energy sources can also create jobs and boost the economy.",
+    "transcript": "Today, we're going to discuss the concept of renewable energy. Renewable energy comes from sources that are naturally replenished, such as sunlight, wind, rain, and geothermal heat. Unlike fossil fuels, which are limited and can harm the environment, renewable energy sources are sustainable and have a much lower environmental impact. As technology advances, the efficiency of renewable energy systems continues to improve, making them a viable alternative to traditional energy sources. This shift not only helps reduce carbon emissions but also fosters energy independence and security.",
     "questions": [
       {
         "q": "What is renewable energy?",
         "options": [
-          "Energy from fossils.",
+          "Energy from fossil fuels.",
           "Energy from natural sources.",
-          "Energy from nuclear power.",
-          "Energy from coal."
+          "Energy that is produced artificially.",
+          "Energy that cannot be used."
         ],
         "correctIndex": 1,
-        "explain": "可再生能源來自自然來源。"
+        "explain": "可再生能源是來自自然來源的能源。"
       },
       {
-        "q": "Why is renewable energy important?",
+        "q": "What is a benefit of renewable energy?",
         "options": [
-          "It is cheaper.",
-          "It reduces emissions.",
-          "It uses more fossil fuels.",
-          "It is less reliable."
-        ],
-        "correctIndex": 1,
-        "explain": "可再生能源對減少溫室氣體排放很重要。"
-      },
-      {
-        "q": "What do solar panels do?",
-        "options": [
-          "Harness wind energy.",
-          "Store electricity.",
-          "Generate electricity from sunlight.",
-          "Convert water into energy."
+          "It is limited in availability.",
+          "It harms the environment.",
+          "It reduces carbon emissions.",
+          "It is expensive to produce."
         ],
         "correctIndex": 2,
-        "explain": "太陽能電池板從陽光中發電。"
+        "explain": "可再生能源有助於減少碳排放。"
       },
       {
-        "q": "What can transitioning to renewable energy create?",
+        "q": "What is mentioned as a renewable energy source?",
         "options": [
-          "More pollution.",
-          "Less energy.",
-          "Jobs and economic growth.",
-          "Fewer resources."
+          "Natural gas.",
+          "Coal.",
+          "Sunlight.",
+          "Nuclear energy."
         ],
         "correctIndex": 2,
-        "explain": "轉向可再生能源可以創造就業機會和經濟增長。"
+        "explain": "陽光被提到作為可再生能源的一種來源。"
+      },
+      {
+        "q": "How does technology affect renewable energy?",
+        "options": [
+          "It makes it less efficient.",
+          "It has no effect.",
+          "It improves efficiency.",
+          "It increases costs."
+        ],
+        "correctIndex": 2,
+        "explain": "科技使可再生能源系統的效率提高。"
       }
     ]
   }

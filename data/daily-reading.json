@@ -2,107 +2,84 @@
   "cloze": {
     "segments": [
       {
-        "text": "The process of photosynthesis is essential for plant lif"
-      },
-      {
-        "blank": "e and"
-      },
-      {
-        "text": " occurs in the chloroplasts of plant cells. During this process, plants absorb sunlight and"
-      },
-      {
-        "blank": " convert"
-      },
-      {
-        "text": " it into chemical energy. This energy is stored in the form of glucose, which plants use as a"
-      },
-      {
-        "blank": " fuel to"
-      },
-      {
-        "text": " grow and develop. In addition, photosynthesis plays a crucial role in the Earth's ecosystem by"
-      },
-      {
-        "blank": " producing"
-      },
-      {
-        "text": " oxygen as a byproduct, which is vital for the survival of most living organisms."
+        "text": "The process of human evolution is a complex and gradual phenomenon that has occurred over millions of years. It involves the transition from early hominins to modern Homo sapiens, marked by significant changes in anatomy, behavior, and tool use. One major factor in this evolution was the development of larger b",
+        "blank": "rains, which allowed for advanced cognitive functions. As these early humans migrated out of Africa, they encountered diverse environments and challenges, leading to different adaptations. Genetic studies suggest that interbreeding occurred between modern humans and other hominin species, such as Neanderthals. This exchange of genes has contributed to the biological diversity seen in contemporary human populations. The study of fossils and artifacts provides insights into the lifestyles, diets, and social structures of our ancestors, enhancing our understanding of what it means to be human."
       }
     ]
   },
   "academic": {
-    "passage": "Photosynthesis is the biochemical process by which green plants, algae, and some bacteria convert light energy into chemical energy stored in glucose. This process takes place in the chloroplasts, where chlorophyll captures sunlight. The overall reaction can be summarized as carbon dioxide and water, in the presence of light, yielding glucose and oxygen. Photosynthesis is crucial for the survival of life on Earth as it forms the foundation of food chains and provides oxygen necessary for most life forms, supporting both terrestrial and aquatic ecosystems.",
+    "passage": "Human evolution is a complex process that spans millions of years, highlighting the transition from early hominins to modern humans. Significant anatomical and behavioral changes marked this evolution, particularly the growth of larger brains which facilitated advanced thinking. Migration patterns out of Africa led to diverse adaptations, influenced by environmental challenges. Genetic interactions with Neanderthals further diversified our gene pool, illustrating the intricate web of human ancestry. Fossil records and artifacts shed light on the lives of early humans, providing a deeper understanding of human nature and development.",
     "questions": [
       {
-        "q": "What is the main purpose of photosynthesis?",
+        "q": "What is the main idea of the passage?",
         "options": [
-          "To convert light energy into chemical energy",
-          "To absorb carbon dioxide",
-          "To produce glucose only",
-          "To release oxygen"
+          "The process of human evolution is complex and spans millions of years.",
+          "Migration patterns out of Africa were the only development in human evolution.",
+          "Human evolution was solely influenced by environmental changes.",
+          "The study of fossils is the only way to understand human evolution."
         ],
         "correctIndex": 0,
-        "explain": "光合作用的主要目的是將光能轉換為化學能，儲存在葡萄糖中。"
+        "explain": "這段文字主要講述人類演化是一個複雜的過程，持續了數百萬年。"
       },
       {
-        "q": "Where does photosynthesis take place?",
+        "q": "What significant change is noted in early humans?",
         "options": [
-          "In the mitochondria",
-          "In the chloroplasts",
-          "In the nucleus",
-          "In the cytoplasm"
-        ],
-        "correctIndex": 1,
-        "explain": "光合作用發生在葉綠體中，這是植物細胞的特殊結構。"
-      },
-      {
-        "q": "What can be inferred about the role of chlorophyll?",
-        "options": [
-          "It absorbs sunlight",
-          "It produces glucose",
-          "It releases carbon dioxide",
-          "It protects the plant"
+          "The development of larger brains.",
+          "The ability to fly.",
+          "The use of fire.",
+          "The creation of art."
         ],
         "correctIndex": 0,
-        "explain": "葉綠素的角色是吸收陽光，從而使光合作用得以進行。"
+        "explain": "早期人類的一個重要變化是大腦的發展。"
       },
       {
-        "q": "What does the term 'glucose' refer to in the passage?",
+        "q": "What can be inferred about the interaction with Neanderthals?",
         "options": [
-          "A type of oxygen",
-          "A form of energy storage",
-          "A byproduct of photosynthesis",
-          "A carbon compound"
+          "It had no impact on human evolution.",
+          "It contributed to genetic diversity.",
+          "It led to the extinction of Homo sapiens.",
+          "It was limited to Africa."
         ],
         "correctIndex": 1,
-        "explain": "在文中，'葡萄糖'指的是植物儲存能量的形式。"
+        "explain": "與尼安德塔人的互動增加了基因多樣性，這是人類演化的重要部分。"
+      },
+      {
+        "q": "What does the term 'hominins' refer to in the context of this passage?",
+        "options": [
+          "A type of tool used by early humans.",
+          "A group of ancient human ancestors.",
+          "A modern human species.",
+          "A species of animal."
+        ],
+        "correctIndex": 1,
+        "explain": "在這段文字中，'hominins'指的是古代人類的祖先。"
       }
     ]
   },
   "daily": {
-    "passage": "Attention students: The library will be closed for maintenance on Saturday from 9 AM to 5 PM. Please plan accordingly and return any borrowed materials before this time. Thank you for your understanding.",
+    "passage": "Attention students! The library will be closed for renovations from May 1 to May 15. During this time, please return all books and materials before the deadline. We appreciate your understanding and look forward to providing a better space for study after the renovations are complete.",
     "questions": [
       {
         "q": "When will the library be closed?",
         "options": [
-          "Friday",
-          "Saturday",
-          "Sunday",
-          "Monday"
+          "From May 1 to May 15.",
+          "From June 1 to June 15.",
+          "All summer long.",
+          "Only on weekends."
         ],
-        "correctIndex": 1,
-        "explain": "圖書館將在星期六關閉，維護時間為早上九點至下午五點。"
+        "correctIndex": 0,
+        "explain": "圖書館將在5月1日至5月15日關閉。"
       },
       {
         "q": "What should students do before the library closes?",
         "options": [
-          "Borrow more materials",
-          "Attend a workshop",
-          "Return borrowed materials",
-          "Study in the library"
+          "Borrow more books.",
+          "Return all books and materials.",
+          "Start new projects.",
+          "Ignore the notice."
         ],
-        "correctIndex": 2,
-        "explain": "學生應在圖書館關閉前歸還借出的材料。"
+        "correctIndex": 1,
+        "explain": "學生們應該在圖書館關閉前歸還所有書籍和材料。"
       }
     ]
   }
