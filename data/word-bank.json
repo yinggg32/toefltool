@@ -9486,5 +9486,37 @@
     "zh": "证词",
     "ex": "Witness testimony can provide crucial evidence in understanding historical events.",
     "cat": "📰 每日新詞：history"
+  },
+  {
+    "word": "elliptical",
+    "pos": "adj.",
+    "root": "省略—elliptical",
+    "zh": "省略的",
+    "ex": "Elliptical constructions often omit parts of sentences that can be inferred from context.",
+    "cat": "📰 每日新詞：linguistics"
+  },
+  {
+    "word": "analogy",
+    "pos": "n.",
+    "root": "類比—analogy",
+    "zh": "類比",
+    "ex": "Analogy is often used in language to explain complex concepts by comparing them to more familiar ones.",
+    "cat": "📰 每日新詞：linguistics"
+  },
+  {
+    "word": "realia",
+    "pos": "n.",
+    "root": "實物—realia",
+    "zh": "實物",
+    "ex": "Realia are real-life objects used in teaching to enhance language learning.",
+    "cat": "📰 每日新詞：linguistics"
+  },
+  {
+    "word": "corpus",
+    "pos": "n.",
+    "root": "語料庫—corpus",
+    "zh": "語料庫",
+    "ex": "A corpus is a large collection of written or spoken texts used for linguistic analysis.",
+    "cat": "📰 每日新詞：linguistics"
   }
 ]

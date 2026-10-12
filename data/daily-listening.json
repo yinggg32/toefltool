@@ -1,116 +1,116 @@
 {
   "chooseResponse": [
     {
-      "q": "What do you think of this book?",
+      "q": "Did you finish your history project?",
       "options": [
-        "It's amazing!",
-        "I haven't read it.",
-        "It's boring.",
-        "I love its cover."
+        "Yes, I did.",
+        "No, not yet.",
+        "I need more time.",
+        "It was challenging."
       ],
       "correctIndex": 0
     }
   ],
   "conversation": {
-    "transcript": "Student: Hey, did you finish reading that new novel?\nProfessor: Yes, I just wrapped it up last night.\nStudent: What did you think of the ending?\nProfessor: I found it quite surprising, actually!",
+    "transcript": "Student: Hey, have you talked to Professor Smith about the group project?\nAdvisor: Not yet, but I plan to do it this week.\nStudent: I think we should ask her for some guidance.\nAdvisor: That's a good idea! It will help us stay on track.",
     "questions": [
       {
-        "q": "What was the professor's reaction to the ending?",
+        "q": "What is the main topic of the conversation?",
         "options": [
-          "It was predictable.",
-          "It was surprising.",
-          "It was disappointing.",
-          "It was confusing."
+          "A group project",
+          "A class schedule",
+          "A professor's office hours",
+          "A study group"
         ],
-        "correctIndex": 1,
-        "explain": "教授對結局的反應是驚訝的。"
+        "correctIndex": 0,
+        "explain": "對話的主要主題是關於一個小組專案。"
       },
       {
-        "q": "When did the professor finish the novel?",
+        "q": "What does the student suggest?",
         "options": [
-          "Last week.",
-          "Last night.",
-          "This morning.",
-          "Yesterday."
+          "To meet with the professor",
+          "To change project topics",
+          "To work alone",
+          "To extend the deadline"
         ],
-        "correctIndex": 1,
-        "explain": "教授是昨晚完成小說的。"
+        "correctIndex": 0,
+        "explain": "學生建議與教授見面以獲得指導。"
       }
     ]
   },
   "announcement": {
-    "transcript": "Attention students: The library will be closed this Saturday for maintenance. We apologize for any inconvenience this may cause. Normal hours will resume on Sunday. Thank you for your understanding.",
+    "transcript": "Attention students! The library will be closed for renovations starting next Monday. Please return any books by the end of this week to avoid fines. We apologize for the inconvenience and thank you for your understanding.",
     "questions": [
       {
         "q": "Why will the library be closed?",
         "options": [
-          "For a holiday.",
-          "For maintenance.",
-          "For inventory.",
-          "For an event."
+          "For staff training",
+          "For renovations",
+          "For inventory check",
+          "For a special event"
         ],
         "correctIndex": 1,
-        "explain": "圖書館將因維護而關閉。"
+        "explain": "圖書館關閉是因為正在進行翻修。"
       },
       {
-        "q": "When will the library reopen?",
+        "q": "What should students do by the end of this week?",
         "options": [
-          "Saturday.",
-          "Sunday.",
-          "Monday.",
-          "Friday."
+          "Borrow new books",
+          "Return any books",
+          "Join a workshop",
+          "Find a study group"
         ],
         "correctIndex": 1,
-        "explain": "圖書館將在星期日恢復正常開放。"
+        "explain": "學生應在本週結束前歸還所有書籍。"
       }
     ]
   },
   "talk": {
-    "transcript": "Today, we're going to discuss the concept of renewable energy. Renewable energy comes from sources that are naturally replenished, such as sunlight, wind, rain, and geothermal heat. Unlike fossil fuels, which are limited and can harm the environment, renewable energy sources are sustainable and have a much lower environmental impact. As technology advances, the efficiency of renewable energy systems continues to improve, making them a viable alternative to traditional energy sources. This shift not only helps reduce carbon emissions but also fosters energy independence and security.",
+    "transcript": "Today, I will discuss the concept of 'sustainability.' Sustainability refers to the ability to meet our present needs without compromising the ability of future generations to meet theirs. It encompasses various dimensions, including environmental, social, and economic aspects. For instance, sustainable practices in agriculture can help preserve natural resources while ensuring food security. Additionally, sustainability encourages us to consider the long-term impacts of our actions. By adopting sustainable habits, we can contribute to a healthier planet and a more equitable society.",
     "questions": [
       {
-        "q": "What is renewable energy?",
+        "q": "What does sustainability mean?",
         "options": [
-          "Energy from fossil fuels.",
-          "Energy from natural sources.",
-          "Energy that is produced artificially.",
-          "Energy that cannot be used."
+          "Meeting future needs",
+          "Preserving natural resources",
+          "Improving economic growth",
+          "Reducing pollution"
+        ],
+        "correctIndex": 0,
+        "explain": "可持續性是指滿足當前需求而不妨礙未來需求。"
+      },
+      {
+        "q": "Which area is NOT mentioned as part of sustainability?",
+        "options": [
+          "Social",
+          "Environmental",
+          "Technological",
+          "Economic"
+        ],
+        "correctIndex": 2,
+        "explain": "講座中沒有提到技術領域。"
+      },
+      {
+        "q": "What is one example of sustainable practice mentioned?",
+        "options": [
+          "Reducing waste",
+          "Sustainable agriculture",
+          "Using fossil fuels",
+          "Increasing consumption"
         ],
         "correctIndex": 1,
-        "explain": "可再生能源是來自自然來源的能源。"
+        "explain": "講座中提到的可持續實踐之一是可持續農業。"
       },
       {
-        "q": "What is a benefit of renewable energy?",
+        "q": "What is the ultimate goal of sustainability?",
         "options": [
-          "It is limited in availability.",
-          "It harms the environment.",
-          "It reduces carbon emissions.",
-          "It is expensive to produce."
+          "Maximizing resources",
+          "Ensuring long-term impacts",
+          "Creating instant solutions",
+          "Encouraging competition"
         ],
-        "correctIndex": 2,
-        "explain": "可再生能源有助於減少碳排放。"
-      },
-      {
-        "q": "What is mentioned as a renewable energy source?",
-        "options": [
-          "Natural gas.",
-          "Coal.",
-          "Sunlight.",
-          "Nuclear energy."
-        ],
-        "correctIndex": 2,
-        "explain": "陽光被提到作為可再生能源的一種來源。"
-      },
-      {
-        "q": "How does technology affect renewable energy?",
-        "options": [
-          "It makes it less efficient.",
-          "It has no effect.",
-          "It improves efficiency.",
-          "It increases costs."
-        ],
-        "correctIndex": 2,
-        "explain": "科技使可再生能源系統的效率提高。"
+        "correctIndex": 1,
+        "explain": "可持續性的最終目標是確保長期影響。"
       }
     ]
   }

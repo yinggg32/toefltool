@@ -1,45 +1,45 @@
 {
   "shadowSentences": [
-    "I enjoy reading books every evening.",
+    "The sun is shining brightly today.",
+    "I enjoy reading books in my free time.",
     "My favorite season is autumn because of the colors.",
-    "Walking in the park helps me relax and clear my mind.",
-    "Cooking new recipes is a fun activity I often do.",
-    "Traveling to new places expands my understanding of different cultures.",
-    "Listening to music while studying helps me concentrate better.",
-    "I love visiting art galleries to admire different styles of painting.",
-    "Gardening is a rewarding hobby that allows me to connect with nature.",
-    "Volunteering at the local shelter has taught me the value of community service.",
-    "Learning a new language opens up opportunities for personal and professional growth."
+    "Cooking new recipes is a fun activity for me.",
+    "I often take walks in the park near my house.",
+    "Learning a new language can be challenging yet rewarding.",
+    "Traveling to new places helps broaden your perspective.",
+    "Listening to music while studying can improve concentration.",
+    "Spending time with friends helps reduce stress and anxiety.",
+    "Having a hobby can enhance your happiness and well-being."
   ],
   "interviewScenarios": [
     {
-      "topic": "旅行計劃",
-      "intro": "You have agreed to take part in a research study about travel planning.",
-      "questions": [
-        "Q1: Can you share your last travel experience?",
-        "Q2: What challenges did you face while planning that trip?",
-        "Q3: How important do you think travel is for personal growth?",
-        "Q4: What advice would you give someone planning their first trip?"
-      ]
-    },
-    {
-      "topic": "音樂欣賞",
-      "intro": "You have agreed to take part in a research study about music appreciation.",
-      "questions": [
-        "Q1: What type of music do you enjoy the most?",
-        "Q2: Have you ever been to a live concert? How was that experience?",
-        "Q3: In your opinion, how does music influence our emotions?",
-        "Q4: What recommendations would you give for discovering new music?"
-      ]
-    },
-    {
       "topic": "運動習慣",
-      "intro": "You have agreed to take part in a research study about sports habits.",
+      "intro": "You have agreed to take part in a research study about exercise habits.",
       "questions": [
-        "Q1: What sports or physical activities do you regularly engage in?",
-        "Q2: What obstacles have you encountered when trying to stay active?",
-        "Q3: How do you believe regular exercise impacts daily life?",
-        "Q4: What tips would you offer to someone who wants to start exercising?"
+        "Q1: Can you tell me about your exercise routine?",
+        "Q2: What challenges do you face in maintaining a regular exercise schedule?",
+        "Q3: How do you think exercise impacts your overall well-being?",
+        "Q4: What advice would you give to someone trying to start exercising?"
+      ]
+    },
+    {
+      "topic": "飲食習慣",
+      "intro": "You have agreed to take part in a research study about dietary habits.",
+      "questions": [
+        "Q1: What does a typical day of meals look like for you?",
+        "Q2: Do you find it difficult to eat healthy when busy?",
+        "Q3: What is your opinion on the importance of a balanced diet?",
+        "Q4: What tips would you offer for someone wanting to improve their eating habits?"
+      ]
+    },
+    {
+      "topic": "志願者活動",
+      "intro": "You have agreed to take part in a research study about volunteering activities.",
+      "questions": [
+        "Q1: Have you ever participated in any volunteer work?",
+        "Q2: What challenges did you encounter while volunteering?",
+        "Q3: How do you feel volunteering impacts the community?",
+        "Q4: What recommendations would you give to someone interested in volunteering?"
       ]
     }
   ]

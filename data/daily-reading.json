@@ -2,84 +2,104 @@
   "cloze": {
     "segments": [
       {
-        "text": "The process of human evolution is a complex and gradual phenomenon that has occurred over millions of years. It involves the transition from early hominins to modern Homo sapiens, marked by significant changes in anatomy, behavior, and tool use. One major factor in this evolution was the development of larger b",
-        "blank": "rains, which allowed for advanced cognitive functions. As these early humans migrated out of Africa, they encountered diverse environments and challenges, leading to different adaptations. Genetic studies suggest that interbreeding occurred between modern humans and other hominin species, such as Neanderthals. This exchange of genes has contributed to the biological diversity seen in contemporary human populations. The study of fossils and artifacts provides insights into the lifestyles, diets, and social structures of our ancestors, enhancing our understanding of what it means to be human."
+        "text": "The human brain is a complex organ that governs many functions. One crucial aspect is its ability to pl",
+        "blank": "an"
+      },
+      {
+        "text": "ning and decision-making. Recent studies show that the brain's prefrontal cortex plays a vital role in these pro",
+        "blank": "cesses."
+      },
+      {
+        "text": " Furthermore, the brain utilizes both short-term and long-term memory to store information. Long-term memory is an e",
+        "blank": "ssential"
+      },
+      {
+        "text": " component for learning new skills. Researchers have found that the process of encoding information is influenced by ne",
+        "blank": "uro"
+      },
+      {
+        "text": "transmitters, which facilitate communication between neurons. Understanding the intricacies of brain function has im",
+        "blank": "plications"
+      },
+      {
+        "text": " for various fields, including psychology and education. By studying how the brain processes information, we can improve le",
+        "blank": "arning"
       }
     ]
   },
   "academic": {
-    "passage": "Human evolution is a complex process that spans millions of years, highlighting the transition from early hominins to modern humans. Significant anatomical and behavioral changes marked this evolution, particularly the growth of larger brains which facilitated advanced thinking. Migration patterns out of Africa led to diverse adaptations, influenced by environmental challenges. Genetic interactions with Neanderthals further diversified our gene pool, illustrating the intricate web of human ancestry. Fossil records and artifacts shed light on the lives of early humans, providing a deeper understanding of human nature and development.",
+    "passage": "The study of the human brain has evolved significantly in recent decades. Researchers have identified various regions responsible for specific functions, including memory, emotion, and decision-making. The prefrontal cortex, in particular, is essential for high-level cognitive processes. Continued exploration in this field aims to unravel the complexities of brain activity and enhance strategies for education and mental health.",
     "questions": [
       {
-        "q": "What is the main idea of the passage?",
+        "q": "What is the main focus of the passage?",
         "options": [
-          "The process of human evolution is complex and spans millions of years.",
-          "Migration patterns out of Africa were the only development in human evolution.",
-          "Human evolution was solely influenced by environmental changes.",
-          "The study of fossils is the only way to understand human evolution."
+          "The evolution of brain studies",
+          "Regions of the brain",
+          "Impact of brain studies",
+          "Mental health strategies"
         ],
         "correctIndex": 0,
-        "explain": "這段文字主要講述人類演化是一個複雜的過程，持續了數百萬年。"
+        "explain": "本段落主要討論人腦研究的演變，特別是其功能及影響。"
       },
       {
-        "q": "What significant change is noted in early humans?",
+        "q": "Which area of the brain is highlighted for its role in cognitive processes?",
         "options": [
-          "The development of larger brains.",
-          "The ability to fly.",
-          "The use of fire.",
-          "The creation of art."
+          "Amygdala",
+          "Cerebellum",
+          "Prefrontal cortex",
+          "Hippocampus"
         ],
-        "correctIndex": 0,
-        "explain": "早期人類的一個重要變化是大腦的發展。"
+        "correctIndex": 2,
+        "explain": "前額葉皮質在高層次認知過程中起著重要作用。"
       },
       {
-        "q": "What can be inferred about the interaction with Neanderthals?",
+        "q": "What can be inferred about the future of brain research?",
         "options": [
-          "It had no impact on human evolution.",
-          "It contributed to genetic diversity.",
-          "It led to the extinction of Homo sapiens.",
-          "It was limited to Africa."
+          "It will focus on physical health.",
+          "It will stop advancing.",
+          "It will enhance education and mental health.",
+          "It will ignore emotional aspects."
         ],
-        "correctIndex": 1,
-        "explain": "與尼安德塔人的互動增加了基因多樣性，這是人類演化的重要部分。"
+        "correctIndex": 2,
+        "explain": "未來的研究將致力於改善教育和心理健康策略。"
       },
       {
-        "q": "What does the term 'hominins' refer to in the context of this passage?",
+        "q": "What does the term 'cognitive processes' refer to?",
         "options": [
-          "A type of tool used by early humans.",
-          "A group of ancient human ancestors.",
-          "A modern human species.",
-          "A species of animal."
+          "Physical movements",
+          "Emotional responses",
+          "Mental activities",
+          "Social interactions"
         ],
-        "correctIndex": 1,
-        "explain": "在這段文字中，'hominins'指的是古代人類的祖先。"
+        "correctIndex": 2,
+        "explain": "認知過程是指與思考、理解和學習有關的心理活動。"
       }
     ]
   },
   "daily": {
-    "passage": "Attention students! The library will be closed for renovations from May 1 to May 15. During this time, please return all books and materials before the deadline. We appreciate your understanding and look forward to providing a better space for study after the renovations are complete.",
+    "passage": "Attention students: The library will be closed for renovations from July 10th to August 5th. Please plan accordingly and return all materials by July 1st to avoid fines.",
     "questions": [
       {
         "q": "When will the library be closed?",
         "options": [
-          "From May 1 to May 15.",
-          "From June 1 to June 15.",
-          "All summer long.",
-          "Only on weekends."
-        ],
-        "correctIndex": 0,
-        "explain": "圖書館將在5月1日至5月15日關閉。"
-      },
-      {
-        "q": "What should students do before the library closes?",
-        "options": [
-          "Borrow more books.",
-          "Return all books and materials.",
-          "Start new projects.",
-          "Ignore the notice."
+          "July 1st to July 10th",
+          "July 10th to August 5th",
+          "August 1st to August 5th",
+          "July 20th to August 5th"
         ],
         "correctIndex": 1,
-        "explain": "學生們應該在圖書館關閉前歸還所有書籍和材料。"
+        "explain": "圖書館將在7月10日到8月5日關閉。"
+      },
+      {
+        "q": "What should students do before July 1st?",
+        "options": [
+          "Return materials",
+          "Visit the library",
+          "Start new projects",
+          "Sign up for events"
+        ],
+        "correctIndex": 0,
+        "explain": "學生需在7月1日前歸還所有資料以避免罰款。"
       }
     ]
   }
