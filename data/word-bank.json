@@ -9518,5 +9518,37 @@
     "zh": "語料庫",
     "ex": "A corpus is a large collection of written or spoken texts used for linguistic analysis.",
     "cat": "📰 每日新詞：linguistics"
+  },
+  {
+    "word": "aestheticism",
+    "pos": "n.",
+    "root": "美學主義 — aestheticism",
+    "zh": "美學主義",
+    "ex": "Aestheticism emphasizes the importance of beauty in art and design.",
+    "cat": "📰 每日新詞：art and architecture"
+  },
+  {
+    "word": "exemplar",
+    "pos": "n.",
+    "root": "榜樣 — exemplar",
+    "zh": "典範",
+    "ex": "The building is an exemplar of modern sustainable architecture.",
+    "cat": "📰 每日新詞：art and architecture"
+  },
+  {
+    "word": "sculptural",
+    "pos": "adj.",
+    "root": "雕塑 — sculptural",
+    "zh": "雕塑的",
+    "ex": "The sculptural elements of the installation invite viewers to interact.",
+    "cat": "📰 每日新詞：art and architecture"
+  },
+  {
+    "word": "workmanship",
+    "pos": "n.",
+    "root": "工藝 — workmanship",
+    "zh": "工藝；技術",
+    "ex": "The high level of workmanship in the furniture reflects the artisan's skill.",
+    "cat": "📰 每日新詞：art and architecture"
   }
 ]

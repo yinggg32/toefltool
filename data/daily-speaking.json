@@ -1,45 +1,45 @@
 {
   "shadowSentences": [
-    "The sun is shining brightly today.",
     "I enjoy reading books in my free time.",
-    "My favorite season is autumn because of the colors.",
-    "Cooking new recipes is a fun activity for me.",
-    "I often take walks in the park near my house.",
-    "Learning a new language can be challenging yet rewarding.",
-    "Traveling to new places helps broaden your perspective.",
-    "Listening to music while studying can improve concentration.",
-    "Spending time with friends helps reduce stress and anxiety.",
-    "Having a hobby can enhance your happiness and well-being."
+    "My favorite season is spring because of the flowers.",
+    "Cooking is a fun way to explore new flavors.",
+    "I like to take evening walks to relax after work.",
+    "Traveling to new countries helps me learn about cultures.",
+    "Listening to music can improve my mood and focus.",
+    "Gardening gives me a sense of peace and accomplishment.",
+    "Painting allows me to express my feelings creatively.",
+    "I often play board games with my friends on weekends.",
+    "Volunteering in the community is a rewarding experience that helps others."
   ],
   "interviewScenarios": [
     {
-      "topic": "運動習慣",
-      "intro": "You have agreed to take part in a research study about exercise habits.",
+      "topic": "休閒愛好",
+      "intro": "You have agreed to take part in a research study about hobbies.",
       "questions": [
-        "Q1: Can you tell me about your exercise routine?",
-        "Q2: What challenges do you face in maintaining a regular exercise schedule?",
-        "Q3: How do you think exercise impacts your overall well-being?",
-        "Q4: What advice would you give to someone trying to start exercising?"
+        "Q1: What hobbies do you enjoy in your free time?",
+        "Q2: Have you ever faced challenges while pursuing your hobbies?",
+        "Q3: How important do you think hobbies are for personal development?",
+        "Q4: What advice would you give someone looking to start a new hobby?"
       ]
     },
     {
-      "topic": "飲食習慣",
-      "intro": "You have agreed to take part in a research study about dietary habits.",
+      "topic": "音樂的影響",
+      "intro": "You have agreed to take part in a research study about the impact of music.",
       "questions": [
-        "Q1: What does a typical day of meals look like for you?",
-        "Q2: Do you find it difficult to eat healthy when busy?",
-        "Q3: What is your opinion on the importance of a balanced diet?",
-        "Q4: What tips would you offer for someone wanting to improve their eating habits?"
+        "Q1: What type of music do you enjoy listening to?",
+        "Q2: How does music affect your mood or emotions?",
+        "Q3: In your opinion, can music help in learning or studying?",
+        "Q4: What recommendations would you give for someone trying to choose music for focus?"
       ]
     },
     {
-      "topic": "志願者活動",
-      "intro": "You have agreed to take part in a research study about volunteering activities.",
+      "topic": "電影和電視",
+      "intro": "You have agreed to take part in a research study about films and television.",
       "questions": [
-        "Q1: Have you ever participated in any volunteer work?",
-        "Q2: What challenges did you encounter while volunteering?",
-        "Q3: How do you feel volunteering impacts the community?",
-        "Q4: What recommendations would you give to someone interested in volunteering?"
+        "Q1: What is your favorite movie or TV show?",
+        "Q2: Have you ever been disappointed by a film or show you anticipated?",
+        "Q3: How do you think films influence society or culture?",
+        "Q4: What tips would you offer for someone looking for a good movie to watch?"
       ]
     }
   ]

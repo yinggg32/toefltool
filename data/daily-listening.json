@@ -1,116 +1,116 @@
 {
   "chooseResponse": [
     {
-      "q": "Did you finish your history project?",
+      "q": "What's the best way to study for finals?",
       "options": [
-        "Yes, I did.",
-        "No, not yet.",
-        "I need more time.",
-        "It was challenging."
+        "Join a study group",
+        "Watch TV",
+        "Go to bed early",
+        "Eat snacks"
       ],
       "correctIndex": 0
     }
   ],
   "conversation": {
-    "transcript": "Student: Hey, have you talked to Professor Smith about the group project?\nAdvisor: Not yet, but I plan to do it this week.\nStudent: I think we should ask her for some guidance.\nAdvisor: That's a good idea! It will help us stay on track.",
+    "transcript": "Student: Hey, have you started studying for finals?\nAdvisor: Yes, I have. I joined a study group. How about you?\nStudent: Not yet. I’m feeling a bit overwhelmed.\nAdvisor: That’s understandable. Maybe you should consider joining a group too.",
     "questions": [
       {
-        "q": "What is the main topic of the conversation?",
+        "q": "What did the student express?",
         "options": [
-          "A group project",
-          "A class schedule",
-          "A professor's office hours",
-          "A study group"
+          "Excitement about finals",
+          "Feeling overwhelmed",
+          "Confidence in studying",
+          "Indifference towards studying"
         ],
-        "correctIndex": 0,
-        "explain": "對話的主要主題是關於一個小組專案。"
+        "correctIndex": 1,
+        "explain": "學生表示感到不知所措。"
       },
       {
-        "q": "What does the student suggest?",
+        "q": "What does the advisor suggest?",
         "options": [
-          "To meet with the professor",
-          "To change project topics",
-          "To work alone",
-          "To extend the deadline"
+          "Study alone",
+          "Join a study group",
+          "Skip finals",
+          "Take a break"
         ],
-        "correctIndex": 0,
-        "explain": "學生建議與教授見面以獲得指導。"
+        "correctIndex": 1,
+        "explain": "顧問建議加入學習小組。"
       }
     ]
   },
   "announcement": {
-    "transcript": "Attention students! The library will be closed for renovations starting next Monday. Please return any books by the end of this week to avoid fines. We apologize for the inconvenience and thank you for your understanding.",
+    "transcript": "Attention students! The library will extend its hours during finals week. It will remain open until midnight from Monday to Thursday. Don't miss this opportunity to study in a quieter environment!",
     "questions": [
       {
-        "q": "Why will the library be closed?",
+        "q": "When will the library stay open late?",
         "options": [
-          "For staff training",
-          "For renovations",
-          "For inventory check",
-          "For a special event"
+          "Only on weekends",
+          "Every day",
+          "Monday to Thursday",
+          "All week"
         ],
-        "correctIndex": 1,
-        "explain": "圖書館關閉是因為正在進行翻修。"
+        "correctIndex": 2,
+        "explain": "圖書館週一到週四將延長開放時間。"
       },
       {
-        "q": "What should students do by the end of this week?",
+        "q": "Why is the library extending its hours?",
         "options": [
-          "Borrow new books",
-          "Return any books",
-          "Join a workshop",
-          "Find a study group"
+          "For regular maintenance",
+          "To help students study",
+          "To reduce noise",
+          "To host events"
         ],
         "correctIndex": 1,
-        "explain": "學生應在本週結束前歸還所有書籍。"
+        "explain": "圖書館延長開放時間是為了幫助學生學習。"
       }
     ]
   },
   "talk": {
-    "transcript": "Today, I will discuss the concept of 'sustainability.' Sustainability refers to the ability to meet our present needs without compromising the ability of future generations to meet theirs. It encompasses various dimensions, including environmental, social, and economic aspects. For instance, sustainable practices in agriculture can help preserve natural resources while ensuring food security. Additionally, sustainability encourages us to consider the long-term impacts of our actions. By adopting sustainable habits, we can contribute to a healthier planet and a more equitable society.",
+    "transcript": "Today, we will discuss renewable energy sources. Renewable energy is derived from natural processes that are replenished constantly. Examples include solar power, wind energy, and hydropower. These resources are sustainable and can significantly reduce our reliance on fossil fuels. Transitioning to renewable energy not only helps mitigate climate change but also promotes energy security and job creation in new industries. As technology advances, the efficiency and affordability of these sources continue to improve, making them more accessible for widespread use.",
     "questions": [
       {
-        "q": "What does sustainability mean?",
+        "q": "What is renewable energy sourced from?",
         "options": [
-          "Meeting future needs",
-          "Preserving natural resources",
-          "Improving economic growth",
-          "Reducing pollution"
+          "Fossil fuels",
+          "Natural processes",
+          "Nuclear reactions",
+          "Chemical reactions"
+        ],
+        "correctIndex": 1,
+        "explain": "可再生能源來自自然過程。"
+      },
+      {
+        "q": "What is one advantage of renewable energy?",
+        "options": [
+          "It increases fossil fuel use",
+          "It helps mitigate climate change",
+          "It is more expensive than fossil fuels",
+          "It requires no technology"
+        ],
+        "correctIndex": 1,
+        "explain": "可再生能源的優點之一是有助於減緩氣候變化。"
+      },
+      {
+        "q": "Which of the following is NOT a renewable energy source?",
+        "options": [
+          "Solar power",
+          "Wind energy",
+          "Hydropower",
+          "Natural gas"
+        ],
+        "correctIndex": 3,
+        "explain": "天然氣不是可再生能源。"
+      },
+      {
+        "q": "How is the efficiency of renewable energy improving?",
+        "options": [
+          "Through technological advancements",
+          "By reducing costs only",
+          "By limiting its use",
+          "By increasing pollution"
         ],
         "correctIndex": 0,
-        "explain": "可持續性是指滿足當前需求而不妨礙未來需求。"
-      },
-      {
-        "q": "Which area is NOT mentioned as part of sustainability?",
-        "options": [
-          "Social",
-          "Environmental",
-          "Technological",
-          "Economic"
-        ],
-        "correctIndex": 2,
-        "explain": "講座中沒有提到技術領域。"
-      },
-      {
-        "q": "What is one example of sustainable practice mentioned?",
-        "options": [
-          "Reducing waste",
-          "Sustainable agriculture",
-          "Using fossil fuels",
-          "Increasing consumption"
-        ],
-        "correctIndex": 1,
-        "explain": "講座中提到的可持續實踐之一是可持續農業。"
-      },
-      {
-        "q": "What is the ultimate goal of sustainability?",
-        "options": [
-          "Maximizing resources",
-          "Ensuring long-term impacts",
-          "Creating instant solutions",
-          "Encouraging competition"
-        ],
-        "correctIndex": 1,
-        "explain": "可持續性的最終目標是確保長期影響。"
+        "explain": "可再生能源的效率透過技術進步而改善。"
       }
     ]
   }
