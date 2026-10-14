@@ -3,15 +3,16 @@
     {
       "words": [
         "the",
-        "researcher",
-        "conducted",
-        "a",
+        "research",
         "study",
-        "on",
-        "climate",
-        "change"
+        "analyzed",
+        "data",
+        "collected",
+        "over",
+        "five",
+        "years"
       ],
-      "display": "The researcher conducted a study on climate change."
+      "display": "The research study analyzed data collected over five years."
     },
     {
       "words": [
@@ -19,109 +20,116 @@
         "should",
         "participate",
         "in",
-        "group",
-        "discussions",
+        "extracurricular",
+        "activities",
         "to",
-        "improve"
+        "enhance",
+        "their",
+        "learning"
       ],
-      "display": "Students should participate in group discussions to improve."
+      "display": "Students should participate in extracurricular activities to enhance their learning."
+    },
+    {
+      "words": [
+        "the",
+        "presentation",
+        "will",
+        "focus",
+        "on",
+        "the",
+        "importance",
+        "of",
+        "sustainable",
+        "practices"
+      ],
+      "display": "The presentation will focus on the importance of sustainable practices."
     },
     {
       "words": [
         "reading",
         "books",
+        "in",
+        "multiple",
+        "languages",
         "can",
-        "enhance",
-        "your",
-        "vocabulary",
-        "and",
-        "comprehension"
+        "improve",
+        "cognitive",
+        "skills"
       ],
-      "display": "Reading books can enhance your vocabulary and comprehension."
-    },
-    {
-      "words": [
-        "the",
-        "project",
-        "deadline",
-        "has",
-        "been",
-        "moved",
-        "to",
-        "next",
-        "week"
-      ],
-      "display": "The project deadline has been moved to next week."
+      "display": "Reading books in multiple languages can improve cognitive skills."
     },
     {
       "words": [
         "the",
         "professor",
         "encouraged",
-        "the",
-        "students",
+        "us",
         "to",
-        "ask",
-        "questions"
+        "explore",
+        "different",
+        "theories",
+        "in",
+        "our",
+        "field"
       ],
-      "display": "The professor encouraged the students to ask questions."
+      "display": "The professor encouraged us to explore different theories in our field."
     },
     {
       "words": [
-        "a",
-        "good",
-        "work-life",
-        "balance",
+        "effective",
+        "communication",
         "is",
         "essential",
         "for",
-        "mental",
-        "health"
+        "success",
+        "in",
+        "any",
+        "profession"
       ],
-      "display": "A good work-life balance is essential for mental health."
+      "display": "Effective communication is essential for success in any profession."
     },
     {
       "words": [
-        "volunteering",
-        "can",
-        "help",
-        "build",
-        "stronger",
-        "community",
-        "connections",
+        "environmental",
+        "conservation",
+        "efforts",
+        "require",
+        "collaboration",
+        "among",
+        "various",
+        "stakeholders"
+      ],
+      "display": "Environmental conservation efforts require collaboration among various stakeholders."
+    },
+    {
+      "words": [
+        "the",
+        "scientific",
+        "method",
+        "involves",
+        "hypothesis",
+        "testing",
         "and",
-        "relationships"
+        "conclusion",
+        "drawing"
       ],
-      "display": "Volunteering can help build stronger community connections and relationships."
-    },
-    {
-      "words": [
-        "attending",
-        "lectures",
-        "regularly",
-        "is",
-        "important",
-        "for",
-        "academic",
-        "success"
-      ],
-      "display": "Attending lectures regularly is important for academic success."
+      "display": "The scientific method involves hypothesis testing and conclusion drawing."
     }
   ],
   "emailPrompts": [
-    "寄信給教授，詢問有關期末報告的指導方針。",
-    "寄信給宿舍管理辦公室，申請更換房間。",
-    "寄信給圖書館，詢問如何註冊借書卡。",
-    "寄信給學生活動俱樂部，表達參加社交活動的興趣。",
-    "寄信給客戶服務部門，反映商品的質量問題。",
-    "寄信給實習主管，確認即將開始的實習安排。"
+    "寄信給宿舍辦公室，詢問關於換宿的手續和規定。",
+    "寄信給圖書館，請求延長借書期限並解釋原因。",
+    "寄信給社團顧問，表達希望參加即將舉行的工作坊。",
+    "寄信給學校教授，詢問有關課程的進一步資料。",
+    "寄信給客戶服務部，反映最近的購物體驗並提出建議。",
+    "寄信給校友會，詢問有關即將舉行的校友聚會的細節。"
   ],
   "discussionPrompts": [
-    "教授問：「你認為科技對教育的影響是正面還是負面？」",
-    "教授問：「社會媒體是否削弱了人與人之間的面對面交流？」",
-    "教授問：「應該如何處理氣候變化帶來的全球挑戰？」",
-    "教授問：「在當今社會中，藝術和科學的角色有何不同？」",
-    "教授問：「你認為心理健康問題應該如何在校園內被更多重視？」",
-    "教授問：「全球化對當地文化的影響是什麼？」"
+    "教授問：「如何看待科技對現代社會的影響？」",
+    "教授問：「你認為教育體系中應該加入哪些新元素？」",
+    "教授問：「文化差異如何影響國際商務溝通？」",
+    "教授問：「社交媒體對人際關係的影響是正面還是負面？」",
+    "教授問：「在未來的工作環境中，遠程辦公的優缺點是什麼？」",
+    "教授問：「面對氣候變遷，我們應該採取哪些行動？」"
   ]
 }

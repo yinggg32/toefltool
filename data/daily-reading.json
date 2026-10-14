@@ -2,104 +2,104 @@
   "cloze": {
     "segments": [
       {
-        "text": "The human brain is a complex organ that governs many functions. One crucial aspect is its ability to pl",
-        "blank": "an"
+        "text": "The phenomenon of photosynthesis is vital to life on Earth. This process occurs primarily in plants, where carbon dioxide and water are converted into glucose and oxygen using sunlight. During this process, chlorophyll, a green pigment found in plant cells, plays a crucial role in absorbing light energy. The overall chemical equation for photosynthesis can be summarized as: 6CO₂ + 6H₂O + light energy → C₆H₁₂O₆ + 6O₂. This transformation not only supports plant growth but also contributes to the atmospheric balance of oxygen and carbon dioxide, which is essential for all aerobic organisms. Moreover, photosynthesis helps to sustain various ecosystems by providing the primary source of energy for many food chains. Therefore, understanding this process is critical for both ecological studies and agricultural practices."
       },
       {
-        "text": "ning and decision-making. Recent studies show that the brain's prefrontal cortex plays a vital role in these pro",
-        "blank": "cesses."
+        "blank": "cys",
+        "text": "the"
       },
       {
-        "text": " Furthermore, the brain utilizes both short-term and long-term memory to store information. Long-term memory is an e",
-        "blank": "ssential"
+        "text": "-sis is a fundamental biological process that enables plants to produce their own food. By absorbing sunlight, plants can convert"
       },
       {
-        "text": " component for learning new skills. Researchers have found that the process of encoding information is influenced by ne",
-        "blank": "uro"
+        "blank": "mole",
+        "text": "cul"
       },
       {
-        "text": "transmitters, which facilitate communication between neurons. Understanding the intricacies of brain function has im",
-        "blank": "plications"
+        "text": "es into energy-rich compounds. This process also has significant implications for the global carbon cycle."
       },
       {
-        "text": " for various fields, including psychology and education. By studying how the brain processes information, we can improve le",
-        "blank": "arning"
+        "blank": "sust",
+        "text": "ai"
+      },
+      {
+        "text": "nability of ecosystems, as it supports various forms of life. In summary, photosynthesis is a cornerstone of life on Earth."
       }
     ]
   },
   "academic": {
-    "passage": "The study of the human brain has evolved significantly in recent decades. Researchers have identified various regions responsible for specific functions, including memory, emotion, and decision-making. The prefrontal cortex, in particular, is essential for high-level cognitive processes. Continued exploration in this field aims to unravel the complexities of brain activity and enhance strategies for education and mental health.",
+    "passage": "Photosynthesis is a crucial process in which green plants, algae, and some bacteria convert light energy into chemical energy stored in glucose. This transformation occurs in chloroplasts, where chlorophyll captures sunlight. The general equation of photosynthesis indicates that carbon dioxide and water are the primary inputs, while glucose and oxygen are the outputs. This process not only provides energy for the plants themselves but also releases oxygen into the atmosphere, supporting aerobic life forms. Understanding photosynthesis is essential for fields like ecology and agriculture, as it underpins the food chain and ecosystem dynamics.",
     "questions": [
       {
-        "q": "What is the main focus of the passage?",
+        "q": "What is the main idea of the passage?",
         "options": [
-          "The evolution of brain studies",
-          "Regions of the brain",
-          "Impact of brain studies",
-          "Mental health strategies"
+          "Photosynthesis supports life on Earth.",
+          "Chlorophyll captures sunlight.",
+          "Plants produce glucose.",
+          "Oxygen is released during photosynthesis."
         ],
         "correctIndex": 0,
-        "explain": "本段落主要討論人腦研究的演變，特別是其功能及影響。"
+        "explain": "這段文字的主要思想是光合作用支持地球上的生命。"
       },
       {
-        "q": "Which area of the brain is highlighted for its role in cognitive processes?",
+        "q": "Where does photosynthesis primarily occur?",
         "options": [
-          "Amygdala",
-          "Cerebellum",
-          "Prefrontal cortex",
-          "Hippocampus"
+          "In the roots of plants.",
+          "In chloroplasts of green plants.",
+          "In animal cells.",
+          "In the soil."
         ],
-        "correctIndex": 2,
-        "explain": "前額葉皮質在高層次認知過程中起著重要作用。"
+        "correctIndex": 1,
+        "explain": "光合作用主要在綠色植物的葉綠體中進行。"
       },
       {
-        "q": "What can be inferred about the future of brain research?",
+        "q": "What can be inferred about the role of oxygen produced in photosynthesis?",
         "options": [
-          "It will focus on physical health.",
-          "It will stop advancing.",
-          "It will enhance education and mental health.",
-          "It will ignore emotional aspects."
+          "It is not important for life.",
+          "It is necessary for aerobic organisms.",
+          "It decreases atmospheric carbon dioxide.",
+          "It is only used by plants."
         ],
-        "correctIndex": 2,
-        "explain": "未來的研究將致力於改善教育和心理健康策略。"
+        "correctIndex": 1,
+        "explain": "氧氣是光合作用的副產品，對需氧生物來說是必需的。"
       },
       {
-        "q": "What does the term 'cognitive processes' refer to?",
+        "q": "What does the term 'chlorophyll' refer to in the passage?",
         "options": [
-          "Physical movements",
-          "Emotional responses",
-          "Mental activities",
-          "Social interactions"
+          "A type of plant.",
+          "A pigment that captures sunlight.",
+          "A chemical produced by bacteria.",
+          "A form of glucose."
         ],
-        "correctIndex": 2,
-        "explain": "認知過程是指與思考、理解和學習有關的心理活動。"
+        "correctIndex": 1,
+        "explain": "葉綠素是在光合作用中捕捉陽光的顏色素。"
       }
     ]
   },
   "daily": {
-    "passage": "Attention students: The library will be closed for renovations from July 10th to August 5th. Please plan accordingly and return all materials by July 1st to avoid fines.",
+    "passage": "Attention students: The library will be closed this Friday for maintenance. Please plan accordingly and return any books before the deadline. We apologize for any inconvenience this may cause.",
     "questions": [
       {
-        "q": "When will the library be closed?",
+        "q": "On what day will the library be closed?",
         "options": [
-          "July 1st to July 10th",
-          "July 10th to August 5th",
-          "August 1st to August 5th",
-          "July 20th to August 5th"
+          "Thursday",
+          "Friday",
+          "Saturday",
+          "Sunday"
         ],
         "correctIndex": 1,
-        "explain": "圖書館將在7月10日到8月5日關閉。"
+        "explain": "圖書館將在星期五關閉。"
       },
       {
-        "q": "What should students do before July 1st?",
+        "q": "What should students do before the library closes?",
         "options": [
-          "Return materials",
-          "Visit the library",
-          "Start new projects",
-          "Sign up for events"
+          "Borrow more books.",
+          "Return any books.",
+          "Study in the library.",
+          "Attend a meeting."
         ],
-        "correctIndex": 0,
-        "explain": "學生需在7月1日前歸還所有資料以避免罰款。"
+        "correctIndex": 1,
+        "explain": "學生應在圖書館關閉之前歸還任何書籍。"
       }
     ]
   }

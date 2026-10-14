@@ -1,116 +1,116 @@
 {
   "chooseResponse": [
     {
-      "q": "What's the best way to study for finals?",
+      "q": "What should I do about my housing problem?",
       "options": [
-        "Join a study group",
-        "Watch TV",
-        "Go to bed early",
-        "Eat snacks"
+        "Talk to the housing office.",
+        "Ignore it for now.",
+        "Ask my friends for help.",
+        "Move out immediately."
       ],
       "correctIndex": 0
     }
   ],
   "conversation": {
-    "transcript": "Student: Hey, have you started studying for finals?\nAdvisor: Yes, I have. I joined a study group. How about you?\nStudent: Not yet. I’m feeling a bit overwhelmed.\nAdvisor: That’s understandable. Maybe you should consider joining a group too.",
+    "transcript": "Student: Hi, I need some advice about my housing situation.\nAdvisor: Sure, what's going on?\nStudent: My roommate is moving out, and I’m worried about finding someone new.\nAdvisor: Have you thought about reaching out to the housing office for assistance?",
     "questions": [
       {
-        "q": "What did the student express?",
+        "q": "What is the student's main concern?",
         "options": [
-          "Excitement about finals",
-          "Feeling overwhelmed",
-          "Confidence in studying",
-          "Indifference towards studying"
+          "Finding a new roommate.",
+          "Moving out immediately.",
+          "Getting a different apartment.",
+          "Changing schools."
         ],
-        "correctIndex": 1,
-        "explain": "學生表示感到不知所措。"
+        "correctIndex": 0,
+        "explain": "學生主要擔心的是找到新的室友。"
       },
       {
         "q": "What does the advisor suggest?",
         "options": [
-          "Study alone",
-          "Join a study group",
-          "Skip finals",
-          "Take a break"
+          "Ignore the problem.",
+          "Contact the housing office.",
+          "Look for a new apartment.",
+          "Ask friends to move in."
         ],
         "correctIndex": 1,
-        "explain": "顧問建議加入學習小組。"
+        "explain": "顧問建議學生聯繫住房辦公室。"
       }
     ]
   },
   "announcement": {
-    "transcript": "Attention students! The library will extend its hours during finals week. It will remain open until midnight from Monday to Thursday. Don't miss this opportunity to study in a quieter environment!",
+    "transcript": "Attention students: The library will be closed for renovations starting next Monday and will reopen in two weeks. Please make sure to borrow any materials you need before then. Thank you for your understanding.",
     "questions": [
       {
-        "q": "When will the library stay open late?",
+        "q": "When will the library close?",
         "options": [
-          "Only on weekends",
-          "Every day",
-          "Monday to Thursday",
-          "All week"
-        ],
-        "correctIndex": 2,
-        "explain": "圖書館週一到週四將延長開放時間。"
-      },
-      {
-        "q": "Why is the library extending its hours?",
-        "options": [
-          "For regular maintenance",
-          "To help students study",
-          "To reduce noise",
-          "To host events"
+          "This Friday.",
+          "Next Monday.",
+          "In two weeks.",
+          "Today."
         ],
         "correctIndex": 1,
-        "explain": "圖書館延長開放時間是為了幫助學生學習。"
+        "explain": "圖書館將在下週一關閉。"
+      },
+      {
+        "q": "How long will the renovations last?",
+        "options": [
+          "One week.",
+          "Two weeks.",
+          "Three weeks.",
+          "Indefinitely."
+        ],
+        "correctIndex": 1,
+        "explain": "翻新將持續兩週。"
       }
     ]
   },
   "talk": {
-    "transcript": "Today, we will discuss renewable energy sources. Renewable energy is derived from natural processes that are replenished constantly. Examples include solar power, wind energy, and hydropower. These resources are sustainable and can significantly reduce our reliance on fossil fuels. Transitioning to renewable energy not only helps mitigate climate change but also promotes energy security and job creation in new industries. As technology advances, the efficiency and affordability of these sources continue to improve, making them more accessible for widespread use.",
+    "transcript": "Today, we will discuss the concept of cultural relativism. Cultural relativism is the idea that a person's beliefs and practices should be understood based on that person's own culture, rather than be judged against the criteria of another culture. This approach promotes understanding and tolerance among diverse cultures. For instance, what may seem strange or inappropriate in one culture could be perfectly acceptable in another. By adopting a culturally relativistic perspective, we can appreciate the richness of different practices without imposing our own values. It is essential for fostering global dialogue and reducing ethnocentrism.",
     "questions": [
       {
-        "q": "What is renewable energy sourced from?",
+        "q": "What is cultural relativism?",
         "options": [
-          "Fossil fuels",
-          "Natural processes",
-          "Nuclear reactions",
-          "Chemical reactions"
+          "Judging cultures by a single standard.",
+          "Understanding cultures based on their own context.",
+          "Promoting one culture over another.",
+          "Rejecting all cultural practices."
         ],
         "correctIndex": 1,
-        "explain": "可再生能源來自自然過程。"
+        "explain": "文化相對主義是根據文化的背景來理解信仰和習俗。"
       },
       {
-        "q": "What is one advantage of renewable energy?",
+        "q": "Why is cultural relativism important?",
         "options": [
-          "It increases fossil fuel use",
-          "It helps mitigate climate change",
-          "It is more expensive than fossil fuels",
-          "It requires no technology"
+          "It encourages conflict.",
+          "It helps in understanding diverse practices.",
+          "It promotes cultural superiority.",
+          "It limits cultural exchange."
         ],
         "correctIndex": 1,
-        "explain": "可再生能源的優點之一是有助於減緩氣候變化。"
+        "explain": "文化相對主義幫助理解不同的文化實踐。"
       },
       {
-        "q": "Which of the following is NOT a renewable energy source?",
+        "q": "What does the speaker suggest about ethnocentrism?",
         "options": [
-          "Solar power",
-          "Wind energy",
-          "Hydropower",
-          "Natural gas"
+          "It is beneficial for societies.",
+          "It should be eliminated for better understanding.",
+          "It is a universal value.",
+          "It promotes cultural diversity."
         ],
-        "correctIndex": 3,
-        "explain": "天然氣不是可再生能源。"
+        "correctIndex": 1,
+        "explain": "演講者建議應消除民族中心主義以促進更好的理解。"
       },
       {
-        "q": "How is the efficiency of renewable energy improving?",
+        "q": "What example is given to illustrate cultural relativism?",
         "options": [
-          "Through technological advancements",
-          "By reducing costs only",
-          "By limiting its use",
-          "By increasing pollution"
+          "All cultures celebrate the same holidays.",
+          "Different cultures have unique rituals.",
+          "Some cultures have no traditions at all.",
+          "All practices are equally valued."
         ],
-        "correctIndex": 0,
-        "explain": "可再生能源的效率透過技術進步而改善。"
+        "correctIndex": 1,
+        "explain": "不同文化有其獨特的儀式，這說明了文化相對主義的概念。"
       }
     ]
   }

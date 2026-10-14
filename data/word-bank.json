@@ -9550,5 +9550,37 @@
     "zh": "工藝；技術",
     "ex": "The high level of workmanship in the furniture reflects the artisan's skill.",
     "cat": "📰 每日新詞：art and architecture"
+  },
+  {
+    "word": "algae",
+    "pos": "n.",
+    "root": "—",
+    "zh": "藻類",
+    "ex": "Algae are vital to aquatic ecosystems as primary producers.",
+    "cat": "📰 每日新詞：biology"
+  },
+  {
+    "word": "microscope",
+    "pos": "n.",
+    "root": "micro—微小，scope—觀察",
+    "zh": "顯微鏡",
+    "ex": "A microscope allows scientists to observe cells and microorganisms.",
+    "cat": "📰 每日新詞：biology"
+  },
+  {
+    "word": "phenotype",
+    "pos": "n.",
+    "root": "phen—顯示，type—類型",
+    "zh": "表型",
+    "ex": "The phenotype of an organism is influenced by both its genotype and environmental factors.",
+    "cat": "📰 每日新詞：biology"
+  },
+  {
+    "word": "viability",
+    "pos": "n.",
+    "root": "viable—可行的，ity—狀態",
+    "zh": "生存能力",
+    "ex": "The viability of seeds is crucial for successful plant reproduction.",
+    "cat": "📰 每日新詞：biology"
   }
 ]
