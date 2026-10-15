@@ -3,133 +3,130 @@
     {
       "words": [
         "the",
-        "research",
-        "study",
-        "analyzed",
-        "data",
-        "collected",
-        "over",
-        "five",
-        "years"
-      ],
-      "display": "The research study analyzed data collected over five years."
-    },
-    {
-      "words": [
         "students",
-        "should",
-        "participate",
-        "in",
-        "extracurricular",
-        "activities",
-        "to",
-        "enhance",
-        "their",
-        "learning"
-      ],
-      "display": "Students should participate in extracurricular activities to enhance their learning."
-    },
-    {
-      "words": [
-        "the",
-        "presentation",
         "will",
-        "focus",
-        "on",
+        "meet",
+        "tomorrow",
+        "to",
+        "discuss",
         "the",
-        "importance",
-        "of",
-        "sustainable",
-        "practices"
+        "project"
       ],
-      "display": "The presentation will focus on the importance of sustainable practices."
+      "display": "The students will meet tomorrow to discuss the project."
     },
     {
       "words": [
-        "reading",
-        "books",
-        "in",
-        "multiple",
-        "languages",
-        "can",
-        "improve",
-        "cognitive",
-        "skills"
+        "she",
+        "had",
+        "never",
+        "seen",
+        "such",
+        "a",
+        "beautiful",
+        "sunset"
       ],
-      "display": "Reading books in multiple languages can improve cognitive skills."
+      "display": "She had never seen such a beautiful sunset."
+    },
+    {
+      "words": [
+        "the",
+        "research",
+        "team",
+        "published",
+        "their",
+        "findings",
+        "in",
+        "the",
+        "journal"
+      ],
+      "display": "The research team published their findings in the journal."
+    },
+    {
+      "words": [
+        "it",
+        "is",
+        "important",
+        "to",
+        "stay",
+        "focused",
+        "on",
+        "your",
+        "goals"
+      ],
+      "display": "It is important to stay focused on your goals."
+    },
+    {
+      "words": [
+        "the",
+        "library",
+        "will",
+        "be",
+        "closed",
+        "for",
+        "renovations",
+        "next",
+        "month"
+      ],
+      "display": "The library will be closed for renovations next month."
+    },
+    {
+      "words": [
+        "they",
+        "decided",
+        "to",
+        "organize",
+        "the",
+        "event",
+        "in",
+        "the",
+        "park"
+      ],
+      "display": "They decided to organize the event in the park."
     },
     {
       "words": [
         "the",
         "professor",
         "encouraged",
-        "us",
+        "students",
         "to",
-        "explore",
-        "different",
-        "theories",
-        "in",
-        "our",
-        "field"
+        "ask",
+        "questions",
+        "during",
+        "lectures"
       ],
-      "display": "The professor encouraged us to explore different theories in our field."
+      "display": "The professor encouraged students to ask questions during lectures."
     },
     {
       "words": [
-        "effective",
-        "communication",
-        "is",
-        "essential",
-        "for",
-        "success",
-        "in",
-        "any",
-        "profession"
-      ],
-      "display": "Effective communication is essential for success in any profession."
-    },
-    {
-      "words": [
-        "environmental",
-        "conservation",
-        "efforts",
-        "require",
-        "collaboration",
-        "among",
-        "various",
-        "stakeholders"
-      ],
-      "display": "Environmental conservation efforts require collaboration among various stakeholders."
-    },
-    {
-      "words": [
+        "after",
         "the",
-        "scientific",
-        "method",
-        "involves",
-        "hypothesis",
-        "testing",
-        "and",
-        "conclusion",
-        "drawing"
+        "meeting",
+        "everyone",
+        "felt",
+        "more",
+        "confident",
+        "about",
+        "the",
+        "project"
       ],
-      "display": "The scientific method involves hypothesis testing and conclusion drawing."
+      "display": "After the meeting everyone felt more confident about the project."
     }
   ],
   "emailPrompts": [
-    "寄信給宿舍辦公室，詢問關於換宿的手續和規定。",
-    "寄信給圖書館，請求延長借書期限並解釋原因。",
-    "寄信給社團顧問，表達希望參加即將舉行的工作坊。",
-    "寄信給學校教授，詢問有關課程的進一步資料。",
-    "寄信給客戶服務部，反映最近的購物體驗並提出建議。",
-    "寄信給校友會，詢問有關即將舉行的校友聚會的細節。"
+    "寄信給宿舍辦公室，詢問關於延遲付款的後果。",
+    "寄信給圖書館，請求延長書籍的借用期限。",
+    "寄信給學生會，詢問如何加入即將舉辦的俱樂部活動。",
+    "寄信給教授，請求補充課堂上未能理解的內容。",
+    "寄信給客服，反映最近購買商品的質量問題。",
+    "寄信給系主任，詢問申請獎學金的要求和截止日期。"
   ],
   "discussionPrompts": [
-    "教授問：「如何看待科技對現代社會的影響？」",
-    "教授問：「你認為教育體系中應該加入哪些新元素？」",
-    "教授問：「文化差異如何影響國際商務溝通？」",
-    "教授問：「社交媒體對人際關係的影響是正面還是負面？」",
-    "教授問：「在未來的工作環境中，遠程辦公的優缺點是什麼？」",
-    "教授問：「面對氣候變遷，我們應該採取哪些行動？」"
+    "教授問：「你認為科技對於教育的影響是正面還是負面的？」",
+    "教授問：「如何看待社會媒體對青少年心理健康的影響？」",
+    "教授問：「全球暖化的主要原因是什麼，該如何解決？」",
+    "教授問：「在多元文化社會中，如何維護文化身份？」",
+    "教授問：「人類是否應該進一步探索太空，還是應該專注於地球問題？」",
+    "教授問：「你認為藝術在當代社會中的角色是什麼？」"
   ]
 }

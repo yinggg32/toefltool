@@ -1,45 +1,45 @@
 {
   "shadowSentences": [
-    "I love to read books.",
-    "My favorite season is autumn.",
-    "I enjoy cooking new recipes.",
-    "Traveling opens your mind to new cultures.",
-    "Exercise is important for both health and happiness.",
-    "Listening to music can improve your mood.",
-    "Learning a new language takes time and patience.",
-    "Spending time outdoors helps relieve stress and anxiety.",
-    "Volunteering in the community brings people together for good causes.",
-    "Effective communication is key to building strong relationships."
+    "I like to read books every day.",
+    "My favorite season is autumn because of the colors.",
+    "Traveling to new places makes me feel alive.",
+    "I enjoy cooking new recipes during weekends.",
+    "Listening to music helps me relax after work.",
+    "Spending time with friends brings me joy and laughter.",
+    "I usually go for a walk in the evening after dinner.",
+    "Taking photographs allows me to capture beautiful moments.",
+    "Learning a new language can be challenging but rewarding.",
+    "Volunteering at the local shelter has been a fulfilling experience for me."
   ],
   "interviewScenarios": [
     {
-      "topic": "旅行經驗",
-      "intro": "You have agreed to take part in a research study about travel experiences.",
+      "topic": "旅行計畫",
+      "intro": "You have agreed to take part in a research study about travel planning.",
       "questions": [
-        "Q1: Can you tell me about a memorable trip you took?",
-        "Q2: What challenges did you face while traveling?",
-        "Q3: How do you feel travel impacts personal growth?",
-        "Q4: What advice would you give to someone planning their first trip?"
+        "Q1: Can you tell me about a memorable trip you’ve taken?",
+        "Q2: What challenges did you face while planning that trip?",
+        "Q3: How do you feel about the importance of travel in personal growth?",
+        "Q4: What advice would you give someone planning their first trip?"
       ]
     },
     {
-      "topic": "音樂影響",
-      "intro": "You have agreed to take part in a research study about the influence of music.",
+      "topic": "運動習慣",
+      "intro": "You have agreed to take part in a research study about exercise habits.",
       "questions": [
-        "Q1: How has music played a role in your life?",
-        "Q2: Have you ever faced difficulties finding music you enjoy?",
-        "Q3: What do you think music says about culture?",
-        "Q4: What recommendations do you have for someone looking to explore new music genres?"
+        "Q1: What sports or activities do you enjoy doing?",
+        "Q2: Have you ever faced any obstacles in maintaining a regular exercise routine?",
+        "Q3: In your opinion, how important is physical fitness in daily life?",
+        "Q4: What tips would you offer to someone trying to get started with exercise?"
       ]
     },
     {
       "topic": "環保意識",
       "intro": "You have agreed to take part in a research study about environmental awareness.",
       "questions": [
-        "Q1: Can you share an experience that made you more environmentally conscious?",
-        "Q2: What challenges do you think people face in being eco-friendly?",
-        "Q3: How important do you think it is to protect the environment?",
-        "Q4: What steps can individuals take to live a more sustainable lifestyle?"
+        "Q1: Can you describe a time when you participated in an eco-friendly activity?",
+        "Q2: What challenges do you think people face in adopting green habits?",
+        "Q3: How do you view the role of individuals in combating climate change?",
+        "Q4: What actions can people take to reduce their environmental impact?"
       ]
     }
   ]

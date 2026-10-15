@@ -2,104 +2,107 @@
   "cloze": {
     "segments": [
       {
-        "text": "The phenomenon of photosynthesis is vital to life on Earth. This process occurs primarily in plants, where carbon dioxide and water are converted into glucose and oxygen using sunlight. During this process, chlorophyll, a green pigment found in plant cells, plays a crucial role in absorbing light energy. The overall chemical equation for photosynthesis can be summarized as: 6CO₂ + 6H₂O + light energy → C₆H₁₂O₆ + 6O₂. This transformation not only supports plant growth but also contributes to the atmospheric balance of oxygen and carbon dioxide, which is essential for all aerobic organisms. Moreover, photosynthesis helps to sustain various ecosystems by providing the primary source of energy for many food chains. Therefore, understanding this process is critical for both ecological studies and agricultural practices."
+        "text": "The human brain is a complex organ responsible for a myriad of functions, including "
       },
       {
-        "blank": "cys",
-        "text": "the"
+        "blank": "cognitive"
       },
       {
-        "text": "-sis is a fundamental biological process that enables plants to produce their own food. By absorbing sunlight, plants can convert"
+        "text": ", emotional regulation, and motor control. It consists of different regions, each with specific functions. The cerebral cortex, for instance, is involved in "
       },
       {
-        "blank": "mole",
-        "text": "cul"
+        "blank": "highe"
       },
       {
-        "text": "es into energy-rich compounds. This process also has significant implications for the global carbon cycle."
+        "text": "r-order functions such as reasoning and problem-solving. The brain also contains structures like the limbic system, which plays a crucial role in "
       },
       {
-        "blank": "sust",
-        "text": "ai"
+        "blank": "emo"
       },
       {
-        "text": "nability of ecosystems, as it supports various forms of life. In summary, photosynthesis is a cornerstone of life on Earth."
+        "text": "tion and memory. Additionally, the brain is remarkably adaptive, capable of rewiring itself in response to learning and experience. This property, known as neuroplasticity, allows for "
+      },
+      {
+        "blank": "adap"
+      },
+      {
+        "text": "tation and recovery from injuries. Understanding the brain's functions and its adaptability is essential for advances in fields such as psychology and medicine."
       }
     ]
   },
   "academic": {
-    "passage": "Photosynthesis is a crucial process in which green plants, algae, and some bacteria convert light energy into chemical energy stored in glucose. This transformation occurs in chloroplasts, where chlorophyll captures sunlight. The general equation of photosynthesis indicates that carbon dioxide and water are the primary inputs, while glucose and oxygen are the outputs. This process not only provides energy for the plants themselves but also releases oxygen into the atmosphere, supporting aerobic life forms. Understanding photosynthesis is essential for fields like ecology and agriculture, as it underpins the food chain and ecosystem dynamics.",
+    "passage": "The study of the human brain has evolved significantly over the past century. Early neuroanatomists laid the groundwork for understanding brain structures. Today, researchers utilize advanced imaging techniques, like MRI and PET scans, to observe brain activity in real time. This progress has profound implications for treating neurological disorders, enhancing cognitive abilities, and understanding human behavior. As research continues, the potential for breakthroughs in brain science remains vast, promising to unlock the mysteries of consciousness and intelligence.",
     "questions": [
       {
-        "q": "What is the main idea of the passage?",
+        "q": "What is the main focus of the passage?",
         "options": [
-          "Photosynthesis supports life on Earth.",
-          "Chlorophyll captures sunlight.",
-          "Plants produce glucose.",
-          "Oxygen is released during photosynthesis."
+          "The evolution of brain study",
+          "Techniques used in brain research",
+          "The structure of the human brain",
+          "Applications of brain research"
         ],
         "correctIndex": 0,
-        "explain": "這段文字的主要思想是光合作用支持地球上的生命。"
+        "explain": "這段文字主要關注人類大腦研究的演變，從早期的研究到現代的進展。"
       },
       {
-        "q": "Where does photosynthesis primarily occur?",
+        "q": "Which technique is mentioned as being used to observe brain activity?",
         "options": [
-          "In the roots of plants.",
-          "In chloroplasts of green plants.",
-          "In animal cells.",
-          "In the soil."
+          "EEG",
+          "CT scan",
+          "MRI",
+          "X-ray"
         ],
-        "correctIndex": 1,
-        "explain": "光合作用主要在綠色植物的葉綠體中進行。"
+        "correctIndex": 2,
+        "explain": "文中提到使用MRI技術來實時觀察大腦活動。"
       },
       {
-        "q": "What can be inferred about the role of oxygen produced in photosynthesis?",
+        "q": "What can be inferred about future brain research?",
         "options": [
-          "It is not important for life.",
-          "It is necessary for aerobic organisms.",
-          "It decreases atmospheric carbon dioxide.",
-          "It is only used by plants."
+          "It will remain stagnant.",
+          "It will become less important.",
+          "It has the potential for significant breakthroughs.",
+          "It will focus only on neurological disorders."
         ],
-        "correctIndex": 1,
-        "explain": "氧氣是光合作用的副產品，對需氧生物來說是必需的。"
+        "correctIndex": 2,
+        "explain": "可以推斷出，隨著研究的進行，大腦科學的突破潛力是巨大的。"
       },
       {
-        "q": "What does the term 'chlorophyll' refer to in the passage?",
+        "q": "What does the term 'neuroanatomists' refer to in the passage?",
         "options": [
-          "A type of plant.",
-          "A pigment that captures sunlight.",
-          "A chemical produced by bacteria.",
-          "A form of glucose."
+          "Experts in brain surgery",
+          "Researchers studying brain structure",
+          "Doctors specializing in mental health",
+          "Scientists focusing on cognitive behavior"
         ],
         "correctIndex": 1,
-        "explain": "葉綠素是在光合作用中捕捉陽光的顏色素。"
+        "explain": "'neuroanatomists'是指研究大腦結構的研究人員。"
       }
     ]
   },
   "daily": {
-    "passage": "Attention students: The library will be closed this Friday for maintenance. Please plan accordingly and return any books before the deadline. We apologize for any inconvenience this may cause.",
+    "passage": "Attention all students: The library will be closed for maintenance on Friday, March 10th. Please plan your study sessions accordingly. We apologize for any inconvenience this may cause. Thank you for your understanding!",
     "questions": [
       {
-        "q": "On what day will the library be closed?",
+        "q": "When will the library be closed?",
         "options": [
-          "Thursday",
-          "Friday",
-          "Saturday",
-          "Sunday"
+          "March 1st",
+          "March 10th",
+          "March 15th",
+          "March 20th"
         ],
         "correctIndex": 1,
-        "explain": "圖書館將在星期五關閉。"
+        "explain": "圖書館將於3月10日關閉。"
       },
       {
-        "q": "What should students do before the library closes?",
+        "q": "What is the reason for the library closure?",
         "options": [
-          "Borrow more books.",
-          "Return any books.",
-          "Study in the library.",
-          "Attend a meeting."
+          "Exam preparations",
+          "Maintenance work",
+          "Staff training",
+          "Special event"
         ],
         "correctIndex": 1,
-        "explain": "學生應在圖書館關閉之前歸還任何書籍。"
+        "explain": "圖書館關閉的原因是進行維護工作。"
       }
     ]
   }
