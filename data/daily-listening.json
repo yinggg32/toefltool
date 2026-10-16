@@ -1,116 +1,116 @@
 {
   "chooseResponse": [
     {
-      "q": "What do you think about the new library hours?",
+      "q": "What time does the library open?",
       "options": [
-        "They're great!",
-        "I don't like them.",
-        "I haven't noticed.",
-        "I think it's too late."
+        "At 8 AM",
+        "At 9 AM",
+        "At 10 AM",
+        "At 7 AM"
       ],
       "correctIndex": 0
     }
   ],
   "conversation": {
-    "transcript": "Student: Have you checked out the new study rooms in the library?\nAdvisor: Yes, I just saw them yesterday! They look really nice.\nStudent: I heard they have soundproof walls.\nAdvisor: That's true! It'll be perfect for group study sessions.",
+    "transcript": "Student: Hi, do you know when the library opens?\nAdvisor: Yes, it opens at 8 AM during the week.\nStudent: And what about weekends?\nAdvisor: On weekends, it opens a bit later, at 10 AM.",
     "questions": [
       {
-        "q": "What did the student ask about?",
+        "q": "What time does the library open on weekdays?",
         "options": [
-          "The new study rooms",
-          "Library opening hours",
-          "Books availability",
-          "Computer access"
+          "8 AM",
+          "9 AM",
+          "10 AM",
+          "7 AM"
         ],
         "correctIndex": 0,
-        "explain": "學生問的是關於新的自習室。"
+        "explain": "圖書館在工作日的開放時間是早上8點。"
       },
       {
-        "q": "What is a feature of the new study rooms?",
+        "q": "What is the weekend opening time?",
         "options": [
-          "They are very large.",
-          "They have soundproof walls.",
-          "They are open 24/7.",
-          "They have free snacks."
+          "8 AM",
+          "9 AM",
+          "10 AM",
+          "7 AM"
         ],
-        "correctIndex": 1,
-        "explain": "新自習室的特點是有隔音牆。"
+        "correctIndex": 2,
+        "explain": "周末的開放時間是早上10點。"
       }
     ]
   },
   "announcement": {
-    "transcript": "Attention students! The campus gym will be undergoing renovations starting next week. All facilities will be closed for two months. We apologize for the inconvenience and thank you for your understanding. Please check the website for updates on reopening dates.",
+    "transcript": "Attention all students: The campus health services will hold a vaccination clinic this Friday from 1 PM to 5 PM in the student union. Please bring your student ID and any necessary medical records.",
     "questions": [
       {
-        "q": "What will happen to the gym next week?",
+        "q": "When will the vaccination clinic be held?",
         "options": [
-          "It will open later.",
-          "It will be renovated.",
-          "It will have new classes.",
-          "It will change locations."
+          "This Friday",
+          "Next Monday",
+          "This Saturday",
+          "Next Wednesday"
         ],
-        "correctIndex": 1,
-        "explain": "健身房將於下週進行翻修。"
+        "correctIndex": 0,
+        "explain": "疫苗接種診所將在本週五舉行。"
       },
       {
-        "q": "How long will the gym be closed?",
+        "q": "Where is the vaccination clinic located?",
         "options": [
-          "One week",
-          "Two weeks",
-          "One month",
-          "Two months"
+          "Library",
+          "Gym",
+          "Student union",
+          "Cafeteria"
         ],
-        "correctIndex": 3,
-        "explain": "健身房將關閉兩個月。"
+        "correctIndex": 2,
+        "explain": "疫苗接種診所位於學生會館。"
       }
     ]
   },
   "talk": {
-    "transcript": "Today, I want to talk about renewable energy sources. These are energy sources that are naturally replenished, such as solar, wind, and hydroelectric power. Unlike fossil fuels, renewable sources have a significantly lower environmental impact. They help reduce greenhouse gas emissions and are crucial for sustainable development. For example, solar panels convert sunlight into electricity, while wind turbines harness wind energy to generate power. Investing in renewable energy not only helps combat climate change but also supports economic growth by creating jobs in new technologies.",
+    "transcript": "Today, I want to discuss the importance of biodiversity. Biodiversity refers to the variety of life on Earth, including species diversity, ecosystem diversity, and genetic diversity. It is essential for ecosystem resilience, providing food, clean air, and water, and supporting the essential processes of life. Loss of biodiversity can lead to ecosystem collapse, affecting human health and economies. Therefore, preserving biodiversity is critical to maintaining the balance of natural systems and ensuring sustainable development for future generations.",
     "questions": [
       {
-        "q": "What are renewable energy sources?",
+        "q": "What does biodiversity refer to?",
         "options": [
-          "Energy from fossil fuels",
-          "Energy that is replenished naturally",
-          "Energy from nuclear reactors",
-          "Energy from coal"
+          "Variety of life",
+          "Ecosystem destruction",
+          "Species extinction",
+          "Natural disasters"
         ],
-        "correctIndex": 1,
-        "explain": "可再生能源是指自然補充的能源。"
+        "correctIndex": 0,
+        "explain": "生物多樣性是指地球上生命的多樣性。"
       },
       {
-        "q": "Why are renewable energy sources important?",
+        "q": "Why is biodiversity important?",
         "options": [
-          "They are cheaper than fossil fuels.",
-          "They have a lower environmental impact.",
-          "They are easier to store.",
-          "They are available everywhere."
-        ],
-        "correctIndex": 1,
-        "explain": "可再生能源對環境的影響較小。"
-      },
-      {
-        "q": "What is one example of renewable energy mentioned?",
-        "options": [
-          "Coal",
-          "Natural gas",
-          "Solar energy",
-          "Nuclear power"
+          "For recreation",
+          "For aesthetic value",
+          "For ecosystem resilience",
+          "For urban development"
         ],
         "correctIndex": 2,
-        "explain": "提到的可再生能源例子是太陽能。"
+        "explain": "生物多樣性對生態系統的韌性至關重要。"
       },
       {
-        "q": "How can renewable energy impact the economy?",
+        "q": "What can loss of biodiversity lead to?",
         "options": [
-          "By increasing energy prices.",
-          "By creating jobs in new technologies.",
-          "By reducing electricity consumption.",
-          "By lowering tax rates."
+          "Economic growth",
+          "Ecosystem collapse",
+          "Human development",
+          "Scientific research"
         ],
         "correctIndex": 1,
-        "explain": "可再生能源可以通過創造新技術的工作來影響經濟。"
+        "explain": "生物多樣性的喪失可能導致生態系統崩潰。"
+      },
+      {
+        "q": "What is necessary for sustainable development?",
+        "options": [
+          "Preserving biodiversity",
+          "Increasing pollution",
+          "Urban expansion",
+          "Reducing resources"
+        ],
+        "correctIndex": 0,
+        "explain": "維持可持續發展需要保護生物多樣性。"
       }
     ]
   }

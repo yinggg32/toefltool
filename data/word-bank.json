@@ -9582,5 +9582,29 @@
     "zh": "生存能力",
     "ex": "The viability of seeds is crucial for successful plant reproduction.",
     "cat": "📰 每日新詞：biology"
+  },
+  {
+    "word": "gravitational",
+    "pos": "adj.",
+    "root": "gravitas 重力 + -ational 形容詞後綴",
+    "zh": "重力的",
+    "ex": "Gravitational forces play a crucial role in the movement of planets.",
+    "cat": "📰 每日新詞：astronomy and space science"
+  },
+  {
+    "word": "luminous",
+    "pos": "adj.",
+    "root": "lumens 光 + -ous 形容詞後綴",
+    "zh": "發光的",
+    "ex": "Luminous objects in the night sky include stars and planets.",
+    "cat": "📰 每日新詞：astronomy and space science"
+  },
+  {
+    "word": "telescopic",
+    "pos": "adj.",
+    "root": "teleskopos 遠視 + -ic 形容詞後綴",
+    "zh": "望遠鏡的",
+    "ex": "Telescopic observations have greatly enhanced our understanding of distant galaxies.",
+    "cat": "📰 每日新詞：astronomy and space science"
   }
 ]

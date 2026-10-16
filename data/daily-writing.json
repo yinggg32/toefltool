@@ -4,129 +4,122 @@
       "words": [
         "the",
         "students",
-        "will",
-        "meet",
-        "tomorrow",
-        "to",
-        "discuss",
-        "the",
-        "project"
-      ],
-      "display": "The students will meet tomorrow to discuss the project."
-    },
-    {
-      "words": [
-        "she",
-        "had",
-        "never",
-        "seen",
-        "such",
-        "a",
-        "beautiful",
-        "sunset"
-      ],
-      "display": "She had never seen such a beautiful sunset."
-    },
-    {
-      "words": [
-        "the",
-        "research",
-        "team",
-        "published",
+        "completed",
         "their",
-        "findings",
-        "in",
+        "assignments",
+        "before",
         "the",
-        "journal"
+        "deadline"
       ],
-      "display": "The research team published their findings in the journal."
-    },
-    {
-      "words": [
-        "it",
-        "is",
-        "important",
-        "to",
-        "stay",
-        "focused",
-        "on",
-        "your",
-        "goals"
-      ],
-      "display": "It is important to stay focused on your goals."
-    },
-    {
-      "words": [
-        "the",
-        "library",
-        "will",
-        "be",
-        "closed",
-        "for",
-        "renovations",
-        "next",
-        "month"
-      ],
-      "display": "The library will be closed for renovations next month."
-    },
-    {
-      "words": [
-        "they",
-        "decided",
-        "to",
-        "organize",
-        "the",
-        "event",
-        "in",
-        "the",
-        "park"
-      ],
-      "display": "They decided to organize the event in the park."
+      "display": "The students completed their assignments before the deadline."
     },
     {
       "words": [
         "the",
         "professor",
-        "encouraged",
-        "students",
-        "to",
-        "ask",
-        "questions",
-        "during",
-        "lectures"
+        "explained",
+        "the",
+        "importance",
+        "of",
+        "research",
+        "methods"
       ],
-      "display": "The professor encouraged students to ask questions during lectures."
+      "display": "The professor explained the importance of research methods."
     },
     {
       "words": [
-        "after",
+        "many",
+        "people",
+        "believe",
+        "that",
+        "exercise",
+        "is",
+        "beneficial",
+        "for",
+        "health"
+      ],
+      "display": "Many people believe that exercise is beneficial for health."
+    },
+    {
+      "words": [
         "the",
-        "meeting",
-        "everyone",
-        "felt",
-        "more",
-        "confident",
-        "about",
+        "book",
+        "discusses",
+        "various",
+        "aspects",
+        "of",
+        "climate",
+        "change"
+      ],
+      "display": "The book discusses various aspects of climate change."
+    },
+    {
+      "words": [
+        "students",
+        "should",
+        "practice",
+        "writing",
+        "to",
+        "improve",
+        "their",
+        "skills"
+      ],
+      "display": "Students should practice writing to improve their skills."
+    },
+    {
+      "words": [
+        "the",
+        "team",
+        "worked",
+        "hard",
+        "to",
+        "complete",
         "the",
         "project"
       ],
-      "display": "After the meeting everyone felt more confident about the project."
+      "display": "The team worked hard to complete the project."
+    },
+    {
+      "words": [
+        "researchers",
+        "found",
+        "that",
+        "sleep",
+        "is",
+        "essential",
+        "for",
+        "learning"
+      ],
+      "display": "Researchers found that sleep is essential for learning."
+    },
+    {
+      "words": [
+        "the",
+        "conference",
+        "will",
+        "cover",
+        "various",
+        "topics",
+        "in",
+        "science"
+      ],
+      "display": "The conference will cover various topics in science."
     }
   ],
   "emailPrompts": [
-    "寄信給宿舍辦公室，詢問關於延遲付款的後果。",
-    "寄信給圖書館，請求延長書籍的借用期限。",
-    "寄信給學生會，詢問如何加入即將舉辦的俱樂部活動。",
-    "寄信給教授，請求補充課堂上未能理解的內容。",
-    "寄信給客服，反映最近購買商品的質量問題。",
-    "寄信給系主任，詢問申請獎學金的要求和截止日期。"
+    "寄信給教授，請求延長論文提交的截止日期，因為需要更多時間研究。",
+    "寄信給宿舍辦公室，詢問有關房間分配的問題。",
+    "寄信給圖書館，反映某本書缺少的問題，並請求更新。",
+    "寄信給社團，表達希望參加下週的會議並詢問相關資訊。",
+    "寄信給客戶服務，反映購物過程中遇到的問題，並要求協助。",
+    "寄信給學校行政部門，詢問獎學金申請的截止日期和要求。"
   ],
   "discussionPrompts": [
-    "教授問：「你認為科技對於教育的影響是正面還是負面的？」",
-    "教授問：「如何看待社會媒體對青少年心理健康的影響？」",
-    "教授問：「全球暖化的主要原因是什麼，該如何解決？」",
-    "教授問：「在多元文化社會中，如何維護文化身份？」",
-    "教授問：「人類是否應該進一步探索太空，還是應該專注於地球問題？」",
-    "教授問：「你認為藝術在當代社會中的角色是什麼？」"
+    "教授問：「在當今社會，社交媒體對人際關係的影響是正面還是負面？」",
+    "教授問：「科技進步是否使我們變得更加孤獨？」",
+    "教授問：「環保措施應優先考慮經濟發展還是生態保護？」",
+    "教授問：「應不應該在學校教授性教育，這樣的課程能帶來什麼好處？」",
+    "教授問：「在多元文化社會中，如何維護本土文化的傳承？」",
+    "教授問：「人們對於人工智慧的依賴會對未來職場造成什麼影響？」"
   ]
 }

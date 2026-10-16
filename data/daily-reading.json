@@ -2,104 +2,116 @@
   "cloze": {
     "segments": [
       {
-        "text": "The human brain is a complex organ responsible for a myriad of functions, including "
+        "text": "The process of photosynthesis is essential for the survival of plants. It occurs primarily in the leaves, where chlorophyll absorbs sunlight. The energy from sunlight initiates a series of chemical reactions that convert carbon dioxide and water into glucose and oxygen. This process not only provides energy for the plant itself but also releases oxygen into the atmosphere, which is vital for the survival of most living organisms. The equation for photosynthesis can be summarized as follows: carbon dioxide plus water, in the presence of sunlight, produces glucose plus oxygen. Understanding this process is crucial for various fields, including agriculture, environmental science, and bioengineering. As researchers explore ways to enhance photosynthetic efficiency, they aim to improve crop yields and develop sustainable practices. The role of photosynthesis in the global carbon cycle is also a key area of study, as it helps regulate atmospheric carbon levels and combat climate change."
       },
       {
-        "blank": "cognitive"
+        "blank": "synthesis"
       },
       {
-        "text": ", emotional regulation, and motor control. It consists of different regions, each with specific functions. The cerebral cortex, for instance, is involved in "
+        "text": "is a complex biological process that converts... "
       },
       {
-        "blank": "highe"
+        "blank": "gluco"
       },
       {
-        "text": "r-order functions such as reasoning and problem-solving. The brain also contains structures like the limbic system, which plays a crucial role in "
+        "text": "se and oxygen. The significance of this..."
       },
       {
-        "blank": "emo"
+        "blank": "chlor"
       },
       {
-        "text": "tion and memory. Additionally, the brain is remarkably adaptive, capable of rewiring itself in response to learning and experience. This property, known as neuroplasticity, allows for "
+        "text": "ophyll is paramount, as it captures... "
       },
       {
-        "blank": "adap"
+        "blank": "atmos"
       },
       {
-        "text": "tation and recovery from injuries. Understanding the brain's functions and its adaptability is essential for advances in fields such as psychology and medicine."
+        "text": "pheric carbon levels. In the context of..."
+      },
+      {
+        "blank": "bioeng"
+      },
+      {
+        "text": "ineering, innovative techniques are being... "
+      },
+      {
+        "blank": "agricu"
+      },
+      {
+        "text": "ltural practices to enhance..."
       }
     ]
   },
   "academic": {
-    "passage": "The study of the human brain has evolved significantly over the past century. Early neuroanatomists laid the groundwork for understanding brain structures. Today, researchers utilize advanced imaging techniques, like MRI and PET scans, to observe brain activity in real time. This progress has profound implications for treating neurological disorders, enhancing cognitive abilities, and understanding human behavior. As research continues, the potential for breakthroughs in brain science remains vast, promising to unlock the mysteries of consciousness and intelligence.",
+    "passage": "Photosynthesis is a critical process in which green plants, algae, and some bacteria convert light energy into chemical energy. This conversion occurs in chloroplasts, where chlorophyll absorbs sunlight. The main products of photosynthesis are glucose, which serves as energy for plants, and oxygen, which is released as a byproduct. Understanding photosynthesis is essential due to its role in the food chain and its impact on the global carbon cycle, helping to mitigate climate change by reducing carbon dioxide levels in the atmosphere.",
     "questions": [
       {
-        "q": "What is the main focus of the passage?",
+        "q": "What is the primary role of photosynthesis?",
         "options": [
-          "The evolution of brain study",
-          "Techniques used in brain research",
-          "The structure of the human brain",
-          "Applications of brain research"
+          "To convert light energy into chemical energy",
+          "To absorb carbon dioxide from the atmosphere",
+          "To produce carbon dioxide for respiration",
+          "To release energy for plant growth"
         ],
         "correctIndex": 0,
-        "explain": "這段文字主要關注人類大腦研究的演變，從早期的研究到現代的進展。"
+        "explain": "光合作用的主要功能是將光能轉化為化學能，這是植物生存的基礎。"
       },
       {
-        "q": "Which technique is mentioned as being used to observe brain activity?",
+        "q": "What are the main products of photosynthesis?",
         "options": [
-          "EEG",
-          "CT scan",
-          "MRI",
-          "X-ray"
-        ],
-        "correctIndex": 2,
-        "explain": "文中提到使用MRI技術來實時觀察大腦活動。"
-      },
-      {
-        "q": "What can be inferred about future brain research?",
-        "options": [
-          "It will remain stagnant.",
-          "It will become less important.",
-          "It has the potential for significant breakthroughs.",
-          "It will focus only on neurological disorders."
-        ],
-        "correctIndex": 2,
-        "explain": "可以推斷出，隨著研究的進行，大腦科學的突破潛力是巨大的。"
-      },
-      {
-        "q": "What does the term 'neuroanatomists' refer to in the passage?",
-        "options": [
-          "Experts in brain surgery",
-          "Researchers studying brain structure",
-          "Doctors specializing in mental health",
-          "Scientists focusing on cognitive behavior"
+          "Oxygen and carbon dioxide",
+          "Glucose and oxygen",
+          "Water and carbon monoxide",
+          "Light energy and glucose"
         ],
         "correctIndex": 1,
-        "explain": "'neuroanatomists'是指研究大腦結構的研究人員。"
+        "explain": "光合作用的主要產物是葡萄糖和氧氣，這是植物生長所必需的。"
+      },
+      {
+        "q": "Why is photosynthesis important in the context of climate change?",
+        "options": [
+          "It increases carbon dioxide levels",
+          "It produces greenhouse gases",
+          "It helps reduce carbon dioxide levels",
+          "It generates heat for the environment"
+        ],
+        "correctIndex": 2,
+        "explain": "光合作用能降低大氣中的二氧化碳水平，有助於減緩氣候變化的影響。"
+      },
+      {
+        "q": "What role does chlorophyll play in photosynthesis?",
+        "options": [
+          "It produces glucose",
+          "It absorbs sunlight",
+          "It releases oxygen",
+          "It converts carbon dioxide"
+        ],
+        "correctIndex": 1,
+        "explain": "葉綠素的作用是吸收陽光，這是進行光合作用的第一步。"
       }
     ]
   },
   "daily": {
-    "passage": "Attention all students: The library will be closed for maintenance on Friday, March 10th. Please plan your study sessions accordingly. We apologize for any inconvenience this may cause. Thank you for your understanding!",
+    "passage": "Attention students! The library will be closed for maintenance on Saturday from 9 AM to 3 PM. Please plan your study sessions accordingly. Thank you for your understanding.",
     "questions": [
       {
         "q": "When will the library be closed?",
         "options": [
-          "March 1st",
-          "March 10th",
-          "March 15th",
-          "March 20th"
+          "Saturday from 9 AM to 3 PM",
+          "Friday all day",
+          "Saturday evening",
+          "Sunday morning"
         ],
-        "correctIndex": 1,
-        "explain": "圖書館將於3月10日關閉。"
+        "correctIndex": 0,
+        "explain": "圖書館將在星期六上午九點到下午三點關閉，因此要提前安排學習時間。"
       },
       {
         "q": "What is the reason for the library closure?",
         "options": [
-          "Exam preparations",
-          "Maintenance work",
           "Staff training",
-          "Special event"
+          "Maintenance",
+          "Event preparation",
+          "Inventory check"
         ],
         "correctIndex": 1,
         "explain": "圖書館關閉的原因是進行維護工作。"
