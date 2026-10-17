@@ -1,45 +1,45 @@
 {
   "shadowSentences": [
-    "I love reading books before bedtime.",
-    "The weather is perfect for a picnic today.",
-    "My favorite meal is homemade spaghetti and meatballs.",
-    "Traveling to new places helps me learn about cultures.",
-    "I often listen to music while studying for exams.",
-    "Baking cookies with my family is always a fun activity.",
-    "Exploring different cuisines is one of my passions.",
-    "Playing sports keeps me active and healthy every week.",
-    "I enjoy volunteering at the local animal shelter on weekends.",
-    "Learning a new language opens many doors for communication."
+    "I love reading books in my free time.",
+    "My favorite season is autumn because of the colors.",
+    "Cooking new recipes brings me joy and satisfaction.",
+    "I enjoy hiking in the mountains during the weekends.",
+    "Listening to music helps me relax after a long day.",
+    "Traveling to new places expands my understanding of cultures.",
+    "Gardening teaches me patience and the importance of care.",
+    "Volunteer work in my community has been very rewarding.",
+    "Photography allows me to capture beautiful moments in life.",
+    "Writing in my journal helps me reflect on my personal growth."
   ],
   "interviewScenarios": [
     {
-      "topic": "旅行經驗",
-      "intro": "You have agreed to take part in a research study about travel experiences.",
+      "topic": "旅行計劃",
+      "intro": "You have agreed to take part in a research study about travel planning.",
       "questions": [
         "Q1: Can you share a memorable travel experience you've had?",
-        "Q2: What challenges do you often face when traveling?",
-        "Q3: How do you feel travel impacts your perspective on life?",
-        "Q4: What advice would you give to someone planning their first trip?"
+        "Q2: What challenges do you often face when planning a trip?",
+        "Q3: How important do you think travel is for personal development?",
+        "Q4: What advice would you give someone planning their first big trip?"
       ]
     },
     {
-      "topic": "環保生活",
-      "intro": "You have agreed to take part in a research study about eco-friendly living.",
+      "topic": "運動習慣",
+      "intro": "You have agreed to take part in a research study about exercise habits.",
       "questions": [
-        "Q1: What steps do you take to live a more eco-friendly lifestyle?",
-        "Q2: What are some common challenges people face in going green?",
-        "Q3: Why do you think eco-consciousness is important today?",
-        "Q4: What tips would you offer to someone wanting to reduce their carbon footprint?"
+        "Q1: What types of exercise do you enjoy the most?",
+        "Q2: Have you faced any obstacles in maintaining a consistent exercise routine?",
+        "Q3: In your opinion, how does regular exercise impact mental health?",
+        "Q4: What tips would you give to someone who wants to start exercising?"
       ]
     },
     {
-      "topic": "藝術欣賞",
-      "intro": "You have agreed to take part in a research study about appreciating art.",
+      "topic": "藝術與創意",
+      "intro": "You have agreed to take part in a research study about art and creativity.",
       "questions": [
-        "Q1: Can you describe an artwork that has deeply moved you?",
-        "Q2: What difficulties do individuals encounter in understanding art?",
-        "Q3: How do you think art influences society and culture?",
-        "Q4: What suggestions would you give to someone new to appreciating art?"
+        "Q1: Can you describe a creative project you have worked on?",
+        "Q2: What obstacles do you encounter when trying to be creative?",
+        "Q3: How do you think art influences society today?",
+        "Q4: What recommendations would you make for fostering creativity in others?"
       ]
     }
   ]

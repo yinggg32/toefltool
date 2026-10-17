@@ -1,116 +1,116 @@
 {
   "chooseResponse": [
     {
-      "q": "What time does the library open?",
+      "q": "What do you think about the new library hours?",
       "options": [
-        "At 8 AM",
-        "At 9 AM",
-        "At 10 AM",
-        "At 7 AM"
+        "I think it's great.",
+        "They should extend them.",
+        "I don't really care.",
+        "It's confusing."
       ],
       "correctIndex": 0
     }
   ],
   "conversation": {
-    "transcript": "Student: Hi, do you know when the library opens?\nAdvisor: Yes, it opens at 8 AM during the week.\nStudent: And what about weekends?\nAdvisor: On weekends, it opens a bit later, at 10 AM.",
+    "transcript": "Student: Have you heard about the new library hours?\nAdvisor: Yes, they’re open later now, right?\nStudent: Exactly! I think it’s really helpful for students.\nAdvisor: I agree, especially for those who study late at night.",
     "questions": [
       {
-        "q": "What time does the library open on weekdays?",
+        "q": "What is the main topic of the conversation?",
         "options": [
-          "8 AM",
-          "9 AM",
-          "10 AM",
-          "7 AM"
+          "Library hours",
+          "Study habits",
+          "Student advice",
+          "Night classes"
         ],
         "correctIndex": 0,
-        "explain": "圖書館在工作日的開放時間是早上8點。"
+        "explain": "這段對話的主要主題是圖書館的開放時間。"
       },
       {
-        "q": "What is the weekend opening time?",
+        "q": "How does the student feel about the library hours?",
         "options": [
-          "8 AM",
-          "9 AM",
-          "10 AM",
-          "7 AM"
+          "They dislike them.",
+          "They are indifferent.",
+          "They like them.",
+          "They are confused."
         ],
         "correctIndex": 2,
-        "explain": "周末的開放時間是早上10點。"
+        "explain": "學生對圖書館開放時間的看法是正面的。"
       }
     ]
   },
   "announcement": {
-    "transcript": "Attention all students: The campus health services will hold a vaccination clinic this Friday from 1 PM to 5 PM in the student union. Please bring your student ID and any necessary medical records.",
+    "transcript": "Attention all students: Starting next week, the campus gym will have extended hours on weekends. It will be open from 8 AM to 10 PM on Saturdays and Sundays. We hope these new hours will help you integrate fitness into your busy schedules. Thank you.",
     "questions": [
       {
-        "q": "When will the vaccination clinic be held?",
+        "q": "When will the gym be open on weekends?",
         "options": [
-          "This Friday",
-          "Next Monday",
-          "This Saturday",
-          "Next Wednesday"
+          "8 AM to 10 PM",
+          "9 AM to 8 PM",
+          "10 AM to 9 PM",
+          "7 AM to 11 PM"
         ],
         "correctIndex": 0,
-        "explain": "疫苗接種診所將在本週五舉行。"
+        "explain": "健身房在周末的開放時間是早上8點到晚上10點。"
       },
       {
-        "q": "Where is the vaccination clinic located?",
+        "q": "What is the purpose of the new gym hours?",
         "options": [
-          "Library",
-          "Gym",
-          "Student union",
-          "Cafeteria"
+          "To reduce crowding",
+          "To allow more fitness time",
+          "To change the gym location",
+          "To increase membership fees"
         ],
-        "correctIndex": 2,
-        "explain": "疫苗接種診所位於學生會館。"
+        "correctIndex": 1,
+        "explain": "新健身房的開放時間是為了讓學生有更多時間進行健身。"
       }
     ]
   },
   "talk": {
-    "transcript": "Today, I want to discuss the importance of biodiversity. Biodiversity refers to the variety of life on Earth, including species diversity, ecosystem diversity, and genetic diversity. It is essential for ecosystem resilience, providing food, clean air, and water, and supporting the essential processes of life. Loss of biodiversity can lead to ecosystem collapse, affecting human health and economies. Therefore, preserving biodiversity is critical to maintaining the balance of natural systems and ensuring sustainable development for future generations.",
+    "transcript": "Today, I’ll discuss the concept of ecosystem services. Ecosystem services are the benefits that humans receive from natural ecosystems. These include provisioning services like food and water, regulating services such as climate regulation and flood control, cultural services related to recreation and aesthetic enjoyment, and supporting services that maintain the conditions for life on Earth. Understanding these services is crucial for environmental management and conservation strategies. Protecting ecosystems helps ensure that these services continue to support human health and well-being.",
     "questions": [
       {
-        "q": "What does biodiversity refer to?",
+        "q": "What are ecosystem services?",
         "options": [
-          "Variety of life",
-          "Ecosystem destruction",
-          "Species extinction",
-          "Natural disasters"
+          "Benefits from natural ecosystems",
+          "Human activities",
+          "Types of ecosystems",
+          "Animal behaviors"
         ],
         "correctIndex": 0,
-        "explain": "生物多樣性是指地球上生命的多樣性。"
+        "explain": "生態系統服務是人類從自然生態系統中獲得的好處。"
       },
       {
-        "q": "Why is biodiversity important?",
+        "q": "Which service relates to food and water?",
         "options": [
-          "For recreation",
-          "For aesthetic value",
-          "For ecosystem resilience",
-          "For urban development"
-        ],
-        "correctIndex": 2,
-        "explain": "生物多樣性對生態系統的韌性至關重要。"
-      },
-      {
-        "q": "What can loss of biodiversity lead to?",
-        "options": [
-          "Economic growth",
-          "Ecosystem collapse",
-          "Human development",
-          "Scientific research"
+          "Cultural",
+          "Provisioning",
+          "Regulating",
+          "Supporting"
         ],
         "correctIndex": 1,
-        "explain": "生物多樣性的喪失可能導致生態系統崩潰。"
+        "explain": "與食物和水有關的服務是供給服務。"
       },
       {
-        "q": "What is necessary for sustainable development?",
+        "q": "Why is understanding ecosystem services important?",
         "options": [
-          "Preserving biodiversity",
-          "Increasing pollution",
-          "Urban expansion",
-          "Reducing resources"
+          "For personal health",
+          "For environmental management",
+          "For economic growth",
+          "For leisure activities"
         ],
-        "correctIndex": 0,
-        "explain": "維持可持續發展需要保護生物多樣性。"
+        "correctIndex": 1,
+        "explain": "了解生態系統服務對環境管理和保護策略至關重要。"
+      },
+      {
+        "q": "What is an example of a regulating service?",
+        "options": [
+          "Biodiversity",
+          "Pollination",
+          "Climate regulation",
+          "Water supply"
+        ],
+        "correctIndex": 2,
+        "explain": "氣候調節是一個調節服務的例子。"
       }
     ]
   }

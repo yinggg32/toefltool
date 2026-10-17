@@ -9606,5 +9606,45 @@
     "zh": "望遠鏡的",
     "ex": "Telescopic observations have greatly enhanced our understanding of distant galaxies.",
     "cat": "📰 每日新詞：astronomy and space science"
+  },
+  {
+    "word": "logos",
+    "pos": "n.",
+    "root": "——",
+    "zh": "理性、道理",
+    "ex": "In ancient philosophy, logos refers to the principle of order and knowledge.",
+    "cat": "📰 每日新詞：philosophy"
+  },
+  {
+    "word": "pantheism",
+    "pos": "n.",
+    "root": "pan (all) + theos (god)",
+    "zh": "泛神論",
+    "ex": "Pantheism equates god with the universe and nature.",
+    "cat": "📰 每日新詞：philosophy"
+  },
+  {
+    "word": "categorical",
+    "pos": "adj.",
+    "root": "categorical (of categories)",
+    "zh": "絕對的",
+    "ex": "Categorical imperatives are central to Kant's moral philosophy.",
+    "cat": "📰 每日新詞：philosophy"
+  },
+  {
+    "word": "transcendental",
+    "pos": "adj.",
+    "root": "transcendere (to climb beyond)",
+    "zh": "超越的",
+    "ex": "Transcendental philosophy seeks to understand the conditions of possibility for experience.",
+    "cat": "📰 每日新詞：philosophy"
+  },
+  {
+    "word": "conjecture",
+    "pos": "n./v.",
+    "root": "conjectura (guess)",
+    "zh": "推測",
+    "ex": "Philosophers often deal with conjectures about the nature of existence.",
+    "cat": "📰 每日新詞：philosophy"
   }
 ]

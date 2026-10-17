@@ -3,123 +3,126 @@
     {
       "words": [
         "the",
+        "researcher",
+        "analyzed",
+        "data",
+        "from",
+        "the",
+        "experiment",
+        "carefully"
+      ],
+      "display": "The researcher analyzed data from the experiment carefully."
+    },
+    {
+      "words": [
+        "in",
+        "the",
+        "morning",
         "students",
-        "completed",
-        "their",
-        "assignments",
-        "before",
+        "attend",
+        "lectures",
+        "at",
         "the",
-        "deadline"
+        "university"
       ],
-      "display": "The students completed their assignments before the deadline."
-    },
-    {
-      "words": [
-        "the",
-        "professor",
-        "explained",
-        "the",
-        "importance",
-        "of",
-        "research",
-        "methods"
-      ],
-      "display": "The professor explained the importance of research methods."
-    },
-    {
-      "words": [
-        "many",
-        "people",
-        "believe",
-        "that",
-        "exercise",
-        "is",
-        "beneficial",
-        "for",
-        "health"
-      ],
-      "display": "Many people believe that exercise is beneficial for health."
+      "display": "In the morning, students attend lectures at the university."
     },
     {
       "words": [
         "the",
         "book",
-        "discusses",
-        "various",
-        "aspects",
-        "of",
+        "provides",
+        "insightful",
+        "information",
+        "on",
         "climate",
         "change"
       ],
-      "display": "The book discusses various aspects of climate change."
+      "display": "The book provides insightful information on climate change."
+    },
+    {
+      "words": [
+        "she",
+        "plans",
+        "to",
+        "travel",
+        "to",
+        "three",
+        "different",
+        "countries"
+      ],
+      "display": "She plans to travel to three different countries."
+    },
+    {
+      "words": [
+        "this",
+        "study",
+        "highlights",
+        "the",
+        "importance",
+        "of",
+        "biodiversity",
+        "in",
+        "ecosystems"
+      ],
+      "display": "This study highlights the importance of biodiversity in ecosystems."
     },
     {
       "words": [
         "students",
         "should",
-        "practice",
-        "writing",
+        "participate",
+        "in",
+        "group",
+        "discussions",
         "to",
-        "improve",
-        "their",
-        "skills"
-      ],
-      "display": "Students should practice writing to improve their skills."
-    },
-    {
-      "words": [
-        "the",
-        "team",
-        "worked",
-        "hard",
-        "to",
-        "complete",
-        "the",
-        "project"
-      ],
-      "display": "The team worked hard to complete the project."
-    },
-    {
-      "words": [
-        "researchers",
-        "found",
-        "that",
-        "sleep",
-        "is",
-        "essential",
-        "for",
+        "enhance",
         "learning"
       ],
-      "display": "Researchers found that sleep is essential for learning."
+      "display": "Students should participate in group discussions to enhance learning."
     },
     {
       "words": [
         "the",
-        "conference",
-        "will",
-        "cover",
-        "various",
-        "topics",
-        "in",
-        "science"
+        "professor",
+        "encouraged",
+        "students",
+        "to",
+        "explore",
+        "new",
+        "research",
+        "topics"
       ],
-      "display": "The conference will cover various topics in science."
+      "display": "The professor encouraged students to explore new research topics."
+    },
+    {
+      "words": [
+        "technology",
+        "has",
+        "significantly",
+        "changed",
+        "the",
+        "way",
+        "we",
+        "communicate"
+      ],
+      "display": "Technology has significantly changed the way we communicate."
     }
   ],
   "emailPrompts": [
-    "寄信給教授，請求延長論文提交的截止日期，因為需要更多時間研究。",
-    "寄信給宿舍辦公室，詢問有關房間分配的問題。",
-    "寄信給圖書館，反映某本書缺少的問題，並請求更新。",
-    "寄信給社團，表達希望參加下週的會議並詢問相關資訊。",
-    "寄信給客戶服務，反映購物過程中遇到的問題，並要求協助。",
-    "寄信給學校行政部門，詢問獎學金申請的截止日期和要求。"
+    "寄信給教授，詢問有關期末報告的提交期限。",
+    "寄信給宿舍辦公室，反映宿舍內的設施問題。",
+    "寄信給圖書館，要求延長借書期限。",
+    "寄信給學生會，詢問加入社團的流程。",
+    "寄信給客服，查詢訂單的配送狀態。",
+    "寄信給導師，請教有關學術指導的問題。"
   ],
   "discussionPrompts": [
-    "教授問：「在當今社會，社交媒體對人際關係的影響是正面還是負面？」",
-    "教授問：「科技進步是否使我們變得更加孤獨？」",
-    "教授問：「環保措施應優先考慮經濟發展還是生態保護？」",
-    "教授問：「應不應該在學校教授性教育，這樣的課程能帶來什麼好處？」",
-    "教授問：「在多元文化社會中，如何維護本土文化的傳承？」",
-    "教授問：「人們對於人工智慧的依賴會對未來職場造成什麼影響？」"
+    "教授問：「在數位時代，傳統媒體是否仍然重要？」",
+    "教授問：「氣候變遷對社會的影響是什麼？」",
+    "教授問：「人工智慧將如何改變未來的工作市場？」",
+    "教授問：「在線學習是否能替代面對面的教學？」",
+    "教授問：「社交媒體對人際關係的影響是正面還是負面？」",
+    "教授問：「科技在教育中的角色應該是什麼？」"
   ]
 }

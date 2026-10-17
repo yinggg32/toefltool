@@ -2,119 +2,101 @@
   "cloze": {
     "segments": [
       {
-        "text": "The process of photosynthesis is essential for the survival of plants. It occurs primarily in the leaves, where chlorophyll absorbs sunlight. The energy from sunlight initiates a series of chemical reactions that convert carbon dioxide and water into glucose and oxygen. This process not only provides energy for the plant itself but also releases oxygen into the atmosphere, which is vital for the survival of most living organisms. The equation for photosynthesis can be summarized as follows: carbon dioxide plus water, in the presence of sunlight, produces glucose plus oxygen. Understanding this process is crucial for various fields, including agriculture, environmental science, and bioengineering. As researchers explore ways to enhance photosynthetic efficiency, they aim to improve crop yields and develop sustainable practices. The role of photosynthesis in the global carbon cycle is also a key area of study, as it helps regulate atmospheric carbon levels and combat climate change."
+        "text": "The process of th"
       },
       {
-        "blank": "synthesis"
+        "blank": "ermal"
       },
       {
-        "text": "is a complex biological process that converts... "
+        "text": "convection is essential in understanding how heat is transferred in various environments. When a fluid is heated, it becomes less dense, causing it to rise. As it rises, it cools and descends, creating a continuous circulation. This c"
       },
       {
-        "blank": "gluco"
+        "blank": "ycle"
       },
       {
-        "text": "se and oxygen. The significance of this..."
+        "text": " is vital in climatic systems and influences weather patterns. For example, in the atmosphere, warm air rises and cool air descends, which can lead to the formation of clouds. The overall effect of thermal convection can be observed in ocean currents, where w"
       },
       {
-        "blank": "chlor"
+        "blank": "ater"
       },
       {
-        "text": "ophyll is paramount, as it captures... "
-      },
-      {
-        "blank": "atmos"
-      },
-      {
-        "text": "pheric carbon levels. In the context of..."
-      },
-      {
-        "blank": "bioeng"
-      },
-      {
-        "text": "ineering, innovative techniques are being... "
-      },
-      {
-        "blank": "agricu"
-      },
-      {
-        "text": "ltural practices to enhance..."
+        "text": " from the equator travels to the poles, redistributing heat. Understanding thermal convection helps scientists predict changes in weather and climate, thus providing insights into natural phenomena and aiding in future climate modeling."
       }
     ]
   },
   "academic": {
-    "passage": "Photosynthesis is a critical process in which green plants, algae, and some bacteria convert light energy into chemical energy. This conversion occurs in chloroplasts, where chlorophyll absorbs sunlight. The main products of photosynthesis are glucose, which serves as energy for plants, and oxygen, which is released as a byproduct. Understanding photosynthesis is essential due to its role in the food chain and its impact on the global carbon cycle, helping to mitigate climate change by reducing carbon dioxide levels in the atmosphere.",
+    "passage": "Thermal convection plays a pivotal role in heat transfer within fluids. When fluids are heated, they become less dense and rise, while cooler, denser fluids sink. This circulation creates a cycle that affects weather patterns and ocean currents. For instance, warm air rising from the Earth's surface can lead to cloud formation and precipitation. In oceans, warm water from the equator moves toward the poles, redistributing heat. Studying thermal convection enhances our understanding of climate dynamics and helps predict environmental changes.",
     "questions": [
       {
-        "q": "What is the primary role of photosynthesis?",
+        "q": "What is the main idea of the passage?",
         "options": [
-          "To convert light energy into chemical energy",
-          "To absorb carbon dioxide from the atmosphere",
-          "To produce carbon dioxide for respiration",
-          "To release energy for plant growth"
+          "Thermal convection is important for heat transfer.",
+          "Cold air is denser than warm air.",
+          "Ocean currents only flow from the north to south.",
+          "Cloud formation is unrelated to temperature."
         ],
         "correctIndex": 0,
-        "explain": "光合作用的主要功能是將光能轉化為化學能，這是植物生存的基礎。"
+        "explain": "文中強調熱對流在熱傳遞中的重要性，並闡述其對氣候和天氣模式的影響。"
       },
       {
-        "q": "What are the main products of photosynthesis?",
+        "q": "What happens to a fluid when it is heated?",
         "options": [
-          "Oxygen and carbon dioxide",
-          "Glucose and oxygen",
-          "Water and carbon monoxide",
-          "Light energy and glucose"
+          "It becomes denser and sinks.",
+          "It rises and becomes less dense.",
+          "It remains at the same density.",
+          "It evaporates immediately."
         ],
         "correctIndex": 1,
-        "explain": "光合作用的主要產物是葡萄糖和氧氣，這是植物生長所必需的。"
+        "explain": "當流體加熱時，根據文中說明，它會變得不那麼密集並上升。"
       },
       {
-        "q": "Why is photosynthesis important in the context of climate change?",
+        "q": "What inference can be made about thermal convection?",
         "options": [
-          "It increases carbon dioxide levels",
-          "It produces greenhouse gases",
-          "It helps reduce carbon dioxide levels",
-          "It generates heat for the environment"
+          "It only occurs in the ocean.",
+          "It has no effect on weather patterns.",
+          "It is essential for understanding climate changes.",
+          "It only happens in warm climates."
         ],
         "correctIndex": 2,
-        "explain": "光合作用能降低大氣中的二氧化碳水平，有助於減緩氣候變化的影響。"
+        "explain": "文中提到熱對流對於理解氣候變化至關重要，因此可以推斷它在這方面的作用。"
       },
       {
-        "q": "What role does chlorophyll play in photosynthesis?",
+        "q": "What does 'redistributing' mean in the context of the passage?",
         "options": [
-          "It produces glucose",
-          "It absorbs sunlight",
-          "It releases oxygen",
-          "It converts carbon dioxide"
+          "To create new heat sources.",
+          "To move heat from one place to another.",
+          "To eliminate heat entirely.",
+          "To store heat indefinitely."
         ],
         "correctIndex": 1,
-        "explain": "葉綠素的作用是吸收陽光，這是進行光合作用的第一步。"
+        "explain": "在文中，'redistributing'指的是將熱量從一個地方移動到另一個地方。"
       }
     ]
   },
   "daily": {
-    "passage": "Attention students! The library will be closed for maintenance on Saturday from 9 AM to 3 PM. Please plan your study sessions accordingly. Thank you for your understanding.",
+    "passage": "Attention students! The library will be closed for maintenance from October 15 to October 20. Please plan your study schedule accordingly. We apologize for any inconvenience this may cause.",
     "questions": [
       {
         "q": "When will the library be closed?",
         "options": [
-          "Saturday from 9 AM to 3 PM",
-          "Friday all day",
-          "Saturday evening",
-          "Sunday morning"
-        ],
-        "correctIndex": 0,
-        "explain": "圖書館將在星期六上午九點到下午三點關閉，因此要提前安排學習時間。"
-      },
-      {
-        "q": "What is the reason for the library closure?",
-        "options": [
-          "Staff training",
-          "Maintenance",
-          "Event preparation",
-          "Inventory check"
+          "From October 1 to October 5.",
+          "From October 15 to October 20.",
+          "From October 10 to October 15.",
+          "From October 20 to October 25."
         ],
         "correctIndex": 1,
-        "explain": "圖書館關閉的原因是進行維護工作。"
+        "explain": "根據公告，圖書館將於10月15日至10月20日關閉。"
+      },
+      {
+        "q": "What should students do in response to the library closure?",
+        "options": [
+          "Ignore the closure.",
+          "Plan their study schedule accordingly.",
+          "Visit the library during the closure.",
+          "Request an extension on assignments."
+        ],
+        "correctIndex": 1,
+        "explain": "學生應該根據圖書館的關閉計畫他們的學習時間表。"
       }
     ]
   }
