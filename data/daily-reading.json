@@ -2,101 +2,107 @@
   "cloze": {
     "segments": [
       {
-        "text": "The process of th"
+        "text": "The study of linguistics examines how languages evolve and change over time. One significant aspect is the way language is influenced by socio-"
       },
       {
-        "blank": "ermal"
+        "blank": "linguistic"
       },
       {
-        "text": "convection is essential in understanding how heat is transferred in various environments. When a fluid is heated, it becomes less dense, causing it to rise. As it rises, it cools and descends, creating a continuous circulation. This c"
+        "text": " factors. Languages can drastically shift due to contact with other cultures, leading to the creation of new dialects or even entirely new "
       },
       {
-        "blank": "ycle"
+        "blank": "languages"
       },
       {
-        "text": " is vital in climatic systems and influences weather patterns. For example, in the atmosphere, warm air rises and cool air descends, which can lead to the formation of clouds. The overall effect of thermal convection can be observed in ocean currents, where w"
+        "text": ". Furthermore, historical events such as colonization often leave a lasting impact on the language spoken in a region. For instance, the influence of the British "
       },
       {
-        "blank": "ater"
+        "blank": "empire"
       },
       {
-        "text": " from the equator travels to the poles, redistributing heat. Understanding thermal convection helps scientists predict changes in weather and climate, thus providing insights into natural phenomena and aiding in future climate modeling."
+        "text": " on various parts of the world introduced English into many societies. In contrast, the preservation of indigenous languages is vital for maintaining cultural identity and knowledge."
+      },
+      {
+        "blank": "pres"
+      },
+      {
+        "text": "ervation is not only necessary for these languages but also enriches our understanding of human communication."
       }
     ]
   },
   "academic": {
-    "passage": "Thermal convection plays a pivotal role in heat transfer within fluids. When fluids are heated, they become less dense and rise, while cooler, denser fluids sink. This circulation creates a cycle that affects weather patterns and ocean currents. For instance, warm air rising from the Earth's surface can lead to cloud formation and precipitation. In oceans, warm water from the equator moves toward the poles, redistributing heat. Studying thermal convection enhances our understanding of climate dynamics and helps predict environmental changes.",
+    "passage": "Linguistics is the scientific study of language, its structure, development, and the variations that arise within it. It encompasses various subfields such as syntax, semantics, and phonetics, each focusing on different aspects of language. Syntax deals with sentence structure, while semantics is concerned with meaning. Phonetics studies sounds and how they are produced. Understanding these components helps linguists analyze how languages function and how they evolve over time, influenced by social and environmental factors.",
     "questions": [
       {
-        "q": "What is the main idea of the passage?",
+        "q": "What is the primary focus of linguistics?",
         "options": [
-          "Thermal convection is important for heat transfer.",
-          "Cold air is denser than warm air.",
-          "Ocean currents only flow from the north to south.",
-          "Cloud formation is unrelated to temperature."
+          "The study of language",
+          "The history of literature",
+          "The analysis of culture",
+          "The development of technology"
         ],
         "correctIndex": 0,
-        "explain": "文中強調熱對流在熱傳遞中的重要性，並闡述其對氣候和天氣模式的影響。"
+        "explain": "語言學的主要焦點是研究語言本身及其結構。"
       },
       {
-        "q": "What happens to a fluid when it is heated?",
+        "q": "Which subfield of linguistics focuses on sentence structure?",
         "options": [
-          "It becomes denser and sinks.",
-          "It rises and becomes less dense.",
-          "It remains at the same density.",
-          "It evaporates immediately."
+          "Phonetics",
+          "Syntax",
+          "Semantics",
+          "Morphology"
         ],
         "correctIndex": 1,
-        "explain": "當流體加熱時，根據文中說明，它會變得不那麼密集並上升。"
+        "explain": "句法學專注於句子的結構。"
       },
       {
-        "q": "What inference can be made about thermal convection?",
+        "q": "What can be inferred about the relationship between language and society?",
         "options": [
-          "It only occurs in the ocean.",
-          "It has no effect on weather patterns.",
-          "It is essential for understanding climate changes.",
-          "It only happens in warm climates."
+          "Language remains unchanged over time",
+          "Languages do not influence each other",
+          "Social factors can alter language",
+          "Language is only about grammar"
         ],
         "correctIndex": 2,
-        "explain": "文中提到熱對流對於理解氣候變化至關重要，因此可以推斷它在這方面的作用。"
+        "explain": "社會因素可以改變語言，語言的演變常受到社會影響。"
       },
       {
-        "q": "What does 'redistributing' mean in the context of the passage?",
+        "q": "What does the term 'phonetics' refer to?",
         "options": [
-          "To create new heat sources.",
-          "To move heat from one place to another.",
-          "To eliminate heat entirely.",
-          "To store heat indefinitely."
+          "The study of meaning",
+          "The analysis of sounds",
+          "The structure of sentences",
+          "The development of languages"
         ],
         "correctIndex": 1,
-        "explain": "在文中，'redistributing'指的是將熱量從一個地方移動到另一個地方。"
+        "explain": "音位學是關於聲音及其產生的研究。"
       }
     ]
   },
   "daily": {
-    "passage": "Attention students! The library will be closed for maintenance from October 15 to October 20. Please plan your study schedule accordingly. We apologize for any inconvenience this may cause.",
+    "passage": "Attention students: The library will be closed for maintenance this Friday from 9 AM to 3 PM. We apologize for any inconvenience this may cause. Please plan your study time accordingly. Thank you for your understanding.",
     "questions": [
       {
         "q": "When will the library be closed?",
         "options": [
-          "From October 1 to October 5.",
-          "From October 15 to October 20.",
-          "From October 10 to October 15.",
-          "From October 20 to October 25."
+          "This Thursday",
+          "This Friday",
+          "Next Monday",
+          "Next weekend"
         ],
         "correctIndex": 1,
-        "explain": "根據公告，圖書館將於10月15日至10月20日關閉。"
+        "explain": "圖書館將於本週五關閉。"
       },
       {
-        "q": "What should students do in response to the library closure?",
+        "q": "What should students do in response to the closure?",
         "options": [
-          "Ignore the closure.",
-          "Plan their study schedule accordingly.",
-          "Visit the library during the closure.",
-          "Request an extension on assignments."
+          "Ignore the notice",
+          "Plan their study time",
+          "Complain to the staff",
+          "Come to the library as usual"
         ],
         "correctIndex": 1,
-        "explain": "學生應該根據圖書館的關閉計畫他們的學習時間表。"
+        "explain": "學生應根據通知安排自己的學習時間。"
       }
     ]
   }

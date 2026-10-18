@@ -1,116 +1,116 @@
 {
   "chooseResponse": [
     {
-      "q": "What do you think about the new library hours?",
+      "q": "What time is the event tomorrow?",
       "options": [
-        "I think it's great.",
-        "They should extend them.",
-        "I don't really care.",
-        "It's confusing."
+        "At noon.",
+        "I don't know.",
+        "It's canceled.",
+        "Let's go!"
       ],
       "correctIndex": 0
     }
   ],
   "conversation": {
-    "transcript": "Student: Have you heard about the new library hours?\nAdvisor: Yes, they’re open later now, right?\nStudent: Exactly! I think it’s really helpful for students.\nAdvisor: I agree, especially for those who study late at night.",
+    "transcript": "Student: Hey, did you hear about the art exhibition opening tomorrow?\nAdvisor: Yes, I did! Are you planning to attend?\nStudent: Absolutely! I can't wait to see the new artworks.\nAdvisor: That's great! It starts at noon, right?",
     "questions": [
       {
         "q": "What is the main topic of the conversation?",
         "options": [
-          "Library hours",
-          "Study habits",
-          "Student advice",
-          "Night classes"
+          "An art exhibition.",
+          "A music concert.",
+          "A sports event.",
+          "A lecture series."
         ],
         "correctIndex": 0,
-        "explain": "這段對話的主要主題是圖書館的開放時間。"
+        "explain": "這段對話主要是關於藝術展覽。"
       },
       {
-        "q": "How does the student feel about the library hours?",
+        "q": "What time does the exhibition start?",
         "options": [
-          "They dislike them.",
-          "They are indifferent.",
-          "They like them.",
-          "They are confused."
+          "At 10 AM.",
+          "At noon.",
+          "At 2 PM.",
+          "At 5 PM."
         ],
-        "correctIndex": 2,
-        "explain": "學生對圖書館開放時間的看法是正面的。"
+        "correctIndex": 1,
+        "explain": "展覽明天中午12點開始。"
       }
     ]
   },
   "announcement": {
-    "transcript": "Attention all students: Starting next week, the campus gym will have extended hours on weekends. It will be open from 8 AM to 10 PM on Saturdays and Sundays. We hope these new hours will help you integrate fitness into your busy schedules. Thank you.",
+    "transcript": "Attention all students! The campus library will be hosting a special event this Friday at 3 PM featuring a guest speaker from the art department. Everyone is welcome to join us for an engaging discussion on contemporary art. Don’t miss it!",
     "questions": [
       {
-        "q": "When will the gym be open on weekends?",
+        "q": "Who is the guest speaker?",
         "options": [
-          "8 AM to 10 PM",
-          "9 AM to 8 PM",
-          "10 AM to 9 PM",
-          "7 AM to 11 PM"
-        ],
-        "correctIndex": 0,
-        "explain": "健身房在周末的開放時間是早上8點到晚上10點。"
-      },
-      {
-        "q": "What is the purpose of the new gym hours?",
-        "options": [
-          "To reduce crowding",
-          "To allow more fitness time",
-          "To change the gym location",
-          "To increase membership fees"
+          "A scientist.",
+          "An artist.",
+          "A musician.",
+          "A writer."
         ],
         "correctIndex": 1,
-        "explain": "新健身房的開放時間是為了讓學生有更多時間進行健身。"
+        "explain": "特邀嘉賓是藝術系的講者。"
+      },
+      {
+        "q": "When will the event take place?",
+        "options": [
+          "This Thursday.",
+          "This Friday.",
+          "Next Monday.",
+          "Next Wednesday."
+        ],
+        "correctIndex": 1,
+        "explain": "活動將在這個星期五舉行。"
       }
     ]
   },
   "talk": {
-    "transcript": "Today, I’ll discuss the concept of ecosystem services. Ecosystem services are the benefits that humans receive from natural ecosystems. These include provisioning services like food and water, regulating services such as climate regulation and flood control, cultural services related to recreation and aesthetic enjoyment, and supporting services that maintain the conditions for life on Earth. Understanding these services is crucial for environmental management and conservation strategies. Protecting ecosystems helps ensure that these services continue to support human health and well-being.",
+    "transcript": "Today, we'll discuss the concept of cultural relativism in anthropology. Cultural relativism is the idea that a person's beliefs and practices should be understood based on that person's own culture, rather than be judged against the criteria of another culture. This perspective encourages respect and understanding of different cultures and emphasizes that no culture is superior to another. Anthropologists use this concept to study societies without bias and to appreciate the diversity of human experiences. Understanding cultural relativism is essential in today’s globalized world, as it fosters tolerance and promotes peaceful coexistence among different cultures.",
     "questions": [
       {
-        "q": "What are ecosystem services?",
+        "q": "What does cultural relativism emphasize?",
         "options": [
-          "Benefits from natural ecosystems",
-          "Human activities",
-          "Types of ecosystems",
-          "Animal behaviors"
-        ],
-        "correctIndex": 0,
-        "explain": "生態系統服務是人類從自然生態系統中獲得的好處。"
-      },
-      {
-        "q": "Which service relates to food and water?",
-        "options": [
-          "Cultural",
-          "Provisioning",
-          "Regulating",
-          "Supporting"
+          "Cultural superiority.",
+          "Cultural diversity.",
+          "Cultural uniformity.",
+          "Cultural conflicts."
         ],
         "correctIndex": 1,
-        "explain": "與食物和水有關的服務是供給服務。"
+        "explain": "文化相對主義強調文化的多樣性。"
       },
       {
-        "q": "Why is understanding ecosystem services important?",
+        "q": "Who uses cultural relativism in their studies?",
         "options": [
-          "For personal health",
-          "For environmental management",
-          "For economic growth",
-          "For leisure activities"
-        ],
-        "correctIndex": 1,
-        "explain": "了解生態系統服務對環境管理和保護策略至關重要。"
-      },
-      {
-        "q": "What is an example of a regulating service?",
-        "options": [
-          "Biodiversity",
-          "Pollination",
-          "Climate regulation",
-          "Water supply"
+          "Psychologists.",
+          "Sociologists.",
+          "Anthropologists.",
+          "Historians."
         ],
         "correctIndex": 2,
-        "explain": "氣候調節是一個調節服務的例子。"
+        "explain": "人類學家在研究中使用文化相對主義。"
+      },
+      {
+        "q": "Why is understanding cultural relativism important?",
+        "options": [
+          "To promote cultural conflict.",
+          "To appreciate cultural differences.",
+          "To establish cultural dominance.",
+          "To ignore cultural diversity."
+        ],
+        "correctIndex": 1,
+        "explain": "理解文化相對主義對於欣賞文化差異很重要。"
+      },
+      {
+        "q": "What does cultural relativism encourage?",
+        "options": [
+          "Judgment of cultures.",
+          "Respect for different cultures.",
+          "Uniformity in cultures.",
+          "Disregard for cultural practices."
+        ],
+        "correctIndex": 1,
+        "explain": "文化相對主義鼓勵尊重不同的文化。"
       }
     ]
   }
