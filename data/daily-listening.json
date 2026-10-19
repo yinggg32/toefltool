@@ -1,116 +1,116 @@
 {
   "chooseResponse": [
     {
-      "q": "What time is the event tomorrow?",
+      "q": "What time is the club meeting?",
       "options": [
-        "At noon.",
-        "I don't know.",
-        "It's canceled.",
-        "Let's go!"
+        "I think it's at 5 PM.",
+        "I'm not sure about that.",
+        "Can you remind me later?",
+        "Let's check the website."
       ],
       "correctIndex": 0
     }
   ],
   "conversation": {
-    "transcript": "Student: Hey, did you hear about the art exhibition opening tomorrow?\nAdvisor: Yes, I did! Are you planning to attend?\nStudent: Absolutely! I can't wait to see the new artworks.\nAdvisor: That's great! It starts at noon, right?",
+    "transcript": "Student: Hey, do you know when the environmental club meets?\nAdvisor: Yes, they meet every Thursday at 5 PM.\nStudent: Great! And where do they usually gather?\nAdvisor: In the student center's conference room.",
     "questions": [
       {
-        "q": "What is the main topic of the conversation?",
+        "q": "What day does the environmental club meet?",
         "options": [
-          "An art exhibition.",
-          "A music concert.",
-          "A sports event.",
-          "A lecture series."
+          "Monday",
+          "Wednesday",
+          "Thursday",
+          "Friday"
         ],
-        "correctIndex": 0,
-        "explain": "這段對話主要是關於藝術展覽。"
+        "correctIndex": 2,
+        "explain": "環保俱樂部在星期四開會。"
       },
       {
-        "q": "What time does the exhibition start?",
+        "q": "Where does the club gather?",
         "options": [
-          "At 10 AM.",
-          "At noon.",
-          "At 2 PM.",
-          "At 5 PM."
+          "Library",
+          "Student center's conference room",
+          "Cafeteria",
+          "Outdoor field"
         ],
         "correctIndex": 1,
-        "explain": "展覽明天中午12點開始。"
+        "explain": "俱樂部在學生中心的會議室集合。"
       }
     ]
   },
   "announcement": {
-    "transcript": "Attention all students! The campus library will be hosting a special event this Friday at 3 PM featuring a guest speaker from the art department. Everyone is welcome to join us for an engaging discussion on contemporary art. Don’t miss it!",
+    "transcript": "Attention students! The library will be closed for renovations starting next week. Please make sure to check out any materials you need before then. We expect to reopen in four weeks. Thank you for your understanding.",
     "questions": [
       {
-        "q": "Who is the guest speaker?",
+        "q": "When will the library close?",
         "options": [
-          "A scientist.",
-          "An artist.",
-          "A musician.",
-          "A writer."
+          "Next month",
+          "Next week",
+          "Tomorrow",
+          "In a few days"
         ],
         "correctIndex": 1,
-        "explain": "特邀嘉賓是藝術系的講者。"
+        "explain": "圖書館下星期開始關閉。"
       },
       {
-        "q": "When will the event take place?",
+        "q": "How long will the renovations take?",
         "options": [
-          "This Thursday.",
-          "This Friday.",
-          "Next Monday.",
-          "Next Wednesday."
+          "Two weeks",
+          "Three weeks",
+          "Four weeks",
+          "Five weeks"
         ],
-        "correctIndex": 1,
-        "explain": "活動將在這個星期五舉行。"
+        "correctIndex": 2,
+        "explain": "改建預計需要四個星期。"
       }
     ]
   },
   "talk": {
-    "transcript": "Today, we'll discuss the concept of cultural relativism in anthropology. Cultural relativism is the idea that a person's beliefs and practices should be understood based on that person's own culture, rather than be judged against the criteria of another culture. This perspective encourages respect and understanding of different cultures and emphasizes that no culture is superior to another. Anthropologists use this concept to study societies without bias and to appreciate the diversity of human experiences. Understanding cultural relativism is essential in today’s globalized world, as it fosters tolerance and promotes peaceful coexistence among different cultures.",
+    "transcript": "Today, we're going to discuss the concept of 'cognitive dissonance.' This psychological theory explains the discomfort we feel when holding conflicting beliefs or attitudes. For instance, if someone values healthy eating but regularly eats junk food, they might experience cognitive dissonance. This discomfort often motivates individuals to change their beliefs or behaviors to restore harmony. It can lead to various outcomes, such as justifying their actions, changing their eating habits, or even altering their beliefs about health. Understanding cognitive dissonance helps us comprehend how we make decisions and rationalize our behavior in daily life.",
     "questions": [
       {
-        "q": "What does cultural relativism emphasize?",
+        "q": "What is cognitive dissonance?",
         "options": [
-          "Cultural superiority.",
-          "Cultural diversity.",
-          "Cultural uniformity.",
-          "Cultural conflicts."
+          "A type of food craving",
+          "A psychological conflict",
+          "A method of teaching",
+          "A group therapy technique"
         ],
         "correctIndex": 1,
-        "explain": "文化相對主義強調文化的多樣性。"
+        "explain": "認知失調是心理衝突的一種。"
       },
       {
-        "q": "Who uses cultural relativism in their studies?",
+        "q": "What might someone do when feeling cognitive dissonance?",
         "options": [
-          "Psychologists.",
-          "Sociologists.",
-          "Anthropologists.",
-          "Historians."
+          "Ignore the conflict",
+          "Change their beliefs",
+          "Seek therapy",
+          "All of the above"
+        ],
+        "correctIndex": 3,
+        "explain": "感受到認知失調時，人們可能會忽視衝突、改變信念等。"
+      },
+      {
+        "q": "What triggers cognitive dissonance?",
+        "options": [
+          "Confidence",
+          "Harmony",
+          "Conflicting beliefs",
+          "Group support"
         ],
         "correctIndex": 2,
-        "explain": "人類學家在研究中使用文化相對主義。"
+        "explain": "衝突的信念會觸發認知失調。"
       },
       {
-        "q": "Why is understanding cultural relativism important?",
+        "q": "Why is understanding cognitive dissonance important?",
         "options": [
-          "To promote cultural conflict.",
-          "To appreciate cultural differences.",
-          "To establish cultural dominance.",
-          "To ignore cultural diversity."
+          "To improve memory",
+          "To comprehend decision-making",
+          "To analyze dreams",
+          "To enhance physical health"
         ],
         "correctIndex": 1,
-        "explain": "理解文化相對主義對於欣賞文化差異很重要。"
-      },
-      {
-        "q": "What does cultural relativism encourage?",
-        "options": [
-          "Judgment of cultures.",
-          "Respect for different cultures.",
-          "Uniformity in cultures.",
-          "Disregard for cultural practices."
-        ],
-        "correctIndex": 1,
-        "explain": "文化相對主義鼓勵尊重不同的文化。"
+        "explain": "理解認知失調有助於理解決策過程。"
       }
     ]
   }

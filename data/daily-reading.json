@@ -2,107 +2,101 @@
   "cloze": {
     "segments": [
       {
-        "text": "The study of linguistics examines how languages evolve and change over time. One significant aspect is the way language is influenced by socio-"
+        "text": "The process of photosynthesis is vital for life on Earth. Plants convert carbon dioxide, water, and sunlight into glucose and oxygen. This proce"
       },
       {
-        "blank": "linguistic"
+        "blank": "ss"
       },
       {
-        "text": " factors. Languages can drastically shift due to contact with other cultures, leading to the creation of new dialects or even entirely new "
+        "text": " is not only essential for providing energy but also plays a critical role in maintaining atmospheric balance. During photosynthesis, plants absorb sunlight through chlorophyll, which is found in their leaves. The energy absorbed is used to drive the chemi"
       },
       {
-        "blank": "languages"
+        "blank": "cal"
       },
       {
-        "text": ". Furthermore, historical events such as colonization often leave a lasting impact on the language spoken in a region. For instance, the influence of the British "
+        "text": " reactions that transform the inputs into energy-rich compounds. The oxygen generated is released as a byproduct, contributing to the air we breathe. Understanding this process helps scientists address issues related to climate change, as plants can seque"
       },
       {
-        "blank": "empire"
+        "blank": "str"
       },
       {
-        "text": " on various parts of the world introduced English into many societies. In contrast, the preservation of indigenous languages is vital for maintaining cultural identity and knowledge."
-      },
-      {
-        "blank": "pres"
-      },
-      {
-        "text": "ervation is not only necessary for these languages but also enriches our understanding of human communication."
+        "text": "ate carbon dioxide from the atmosphere. Overall, photosynthesis is a remarkable biological process that sustains life."
       }
     ]
   },
   "academic": {
-    "passage": "Linguistics is the scientific study of language, its structure, development, and the variations that arise within it. It encompasses various subfields such as syntax, semantics, and phonetics, each focusing on different aspects of language. Syntax deals with sentence structure, while semantics is concerned with meaning. Phonetics studies sounds and how they are produced. Understanding these components helps linguists analyze how languages function and how they evolve over time, influenced by social and environmental factors.",
+    "passage": "Photosynthesis is the process by which green plants, algae, and some bacteria convert light energy into chemical energy stored in glucose. This process is crucial for life on Earth, as it provides oxygen and organic compounds. Through photosynthesis, carbon dioxide and water are transformed into glucose and oxygen, facilitating energy transfer in ecosystems. The efficiency of photosynthesis can be impacted by factors such as light intensity, temperature, and carbon dioxide concentration. Understanding these variables is essential for improving agricultural practices and addressing environmental challenges.",
     "questions": [
       {
-        "q": "What is the primary focus of linguistics?",
+        "q": "What is the main purpose of photosynthesis?",
         "options": [
-          "The study of language",
-          "The history of literature",
-          "The analysis of culture",
-          "The development of technology"
+          "To convert light energy into chemical energy",
+          "To produce carbon dioxide",
+          "To absorb water",
+          "To create heat"
         ],
         "correctIndex": 0,
-        "explain": "語言學的主要焦點是研究語言本身及其結構。"
+        "explain": "光合作用的主要目的是將光能轉換成化學能。"
       },
       {
-        "q": "Which subfield of linguistics focuses on sentence structure?",
+        "q": "Which organisms are primarily involved in photosynthesis?",
         "options": [
-          "Phonetics",
-          "Syntax",
-          "Semantics",
-          "Morphology"
-        ],
-        "correctIndex": 1,
-        "explain": "句法學專注於句子的結構。"
-      },
-      {
-        "q": "What can be inferred about the relationship between language and society?",
-        "options": [
-          "Language remains unchanged over time",
-          "Languages do not influence each other",
-          "Social factors can alter language",
-          "Language is only about grammar"
+          "Animals",
+          "Fungi",
+          "Plants and algae",
+          "Bacteria only"
         ],
         "correctIndex": 2,
-        "explain": "社會因素可以改變語言，語言的演變常受到社會影響。"
+        "explain": "進行光合作用的主要生物是植物和藻類。"
       },
       {
-        "q": "What does the term 'phonetics' refer to?",
+        "q": "What can be inferred about the impact of light intensity on photosynthesis?",
         "options": [
-          "The study of meaning",
-          "The analysis of sounds",
-          "The structure of sentences",
-          "The development of languages"
+          "It has no effect",
+          "It can enhance the process",
+          "It decreases efficiency",
+          "It only affects bacteria"
         ],
         "correctIndex": 1,
-        "explain": "音位學是關於聲音及其產生的研究。"
+        "explain": "光強度會影響光合作用的效率，較高的光強度通常能增強此過程。"
+      },
+      {
+        "q": "What does the term 'organic compounds' refer to in the context of photosynthesis?",
+        "options": [
+          "Inorganic materials",
+          "Living matter",
+          "Carbon-containing molecules",
+          "Energy from sunlight"
+        ],
+        "correctIndex": 2,
+        "explain": "有機化合物是指含碳分子的物質，這些物質在光合作用中生成。"
       }
     ]
   },
   "daily": {
-    "passage": "Attention students: The library will be closed for maintenance this Friday from 9 AM to 3 PM. We apologize for any inconvenience this may cause. Please plan your study time accordingly. Thank you for your understanding.",
+    "passage": "Attention Students: The library will be closed for maintenance this Saturday from 8 AM to 5 PM. We apologize for any inconvenience this may cause. Please plan to return any books before then.",
     "questions": [
       {
         "q": "When will the library be closed?",
         "options": [
-          "This Thursday",
-          "This Friday",
-          "Next Monday",
-          "Next weekend"
+          "Saturday",
+          "Sunday",
+          "Friday",
+          "Monday"
         ],
-        "correctIndex": 1,
-        "explain": "圖書館將於本週五關閉。"
+        "correctIndex": 0,
+        "explain": "公告中提到圖書館將於星期六關閉。"
       },
       {
-        "q": "What should students do in response to the closure?",
+        "q": "What should students do before the library closure?",
         "options": [
-          "Ignore the notice",
-          "Plan their study time",
-          "Complain to the staff",
-          "Come to the library as usual"
+          "Visit the library",
+          "Return books",
+          "Study at home",
+          "Attend a meeting"
         ],
         "correctIndex": 1,
-        "explain": "學生應根據通知安排自己的學習時間。"
+        "explain": "學生需要在關閉之前歸還書籍。"
       }
     ]
   }

@@ -9654,5 +9654,69 @@
     "zh": "暴露",
     "ex": "Exposure to pollutants can have detrimental effects on health.",
     "cat": "📰 每日新詞：public health"
+  },
+  {
+    "word": "partisan",
+    "pos": "adj./n.",
+    "root": "part (部分) + isan (派系的)",
+    "zh": "黨派的",
+    "ex": "Partisan politics can lead to significant polarization within a society.",
+    "cat": "📰 每日新詞：political science"
+  },
+  {
+    "word": "bipartisan",
+    "pos": "adj.",
+    "root": "bi (雙) + partisan (黨派的)",
+    "zh": "兩黨的",
+    "ex": "A bipartisan effort is necessary to pass the proposed legislation.",
+    "cat": "📰 每日新詞：political science"
+  },
+  {
+    "word": "propaganda",
+    "pos": "n.",
+    "root": "pro (支持) + paganda (傳播)",
+    "zh": "宣傳",
+    "ex": "Propaganda is often used to manipulate public opinion during elections.",
+    "cat": "📰 每日新詞：political science"
+  },
+  {
+    "word": "coup",
+    "pos": "n.",
+    "root": "—",
+    "zh": "政變",
+    "ex": "The coup resulted in the abrupt change of government.",
+    "cat": "📰 每日新詞：political science"
+  },
+  {
+    "word": "negotiation",
+    "pos": "n.",
+    "root": "negotiate (談判) + ion (行為)",
+    "zh": "談判",
+    "ex": "Negotiation plays a key role in conflict resolution between nations.",
+    "cat": "📰 每日新詞：political science"
+  },
+  {
+    "word": "alignment",
+    "pos": "n.",
+    "root": "align (對齊) + ment (狀態)",
+    "zh": "對齊",
+    "ex": "Political alignment can influence voting behavior and party loyalty.",
+    "cat": "📰 每日新詞：political science"
+  },
+  {
+    "word": "legislator",
+    "pos": "n.",
+    "root": "legis (法律) + lator (做者)",
+    "zh": "立法者",
+    "ex": "Legislators are responsible for drafting and enacting laws.",
+    "cat": "📰 每日新詞：political science"
+  },
+  {
+    "word": "preamble",
+    "pos": "n.",
+    "root": "pre (之前) + amble (走)",
+    "zh": "前言",
+    "ex": "The preamble of the constitution outlines the fundamental principles of governance.",
+    "cat": "📰 每日新詞：political science"
   }
 ]

@@ -4,143 +4,135 @@
       "words": [
         "the",
         "students",
-        "to",
-        "submit",
+        "in",
+        "the",
+        "library",
+        "are",
+        "preparing",
+        "for",
         "their",
-        "assignments",
-        "by",
-        "friday"
+        "exams"
       ],
-      "display": "The students need to submit their assignments by Friday."
-    },
-    {
-      "words": [
-        "the",
-        "increase",
-        "of",
-        "online",
-        "classes",
-        "has",
-        "affected",
-        "student",
-        "engagement"
-      ],
-      "display": "The increase of online classes has affected student engagement."
-    },
-    {
-      "words": [
-        "she",
-        "was",
-        "not",
-        "feeling",
-        "well",
-        "so",
-        "she",
-        "decided",
-        "to",
-        "take",
-        "the",
-        "day",
-        "off"
-      ],
-      "display": "She was not feeling well so she decided to take the day off."
-    },
-    {
-      "words": [
-        "the",
-        "conference",
-        "on",
-        "sustainable",
-        "energy",
-        "will",
-        "take",
-        "place",
-        "next",
-        "month"
-      ],
-      "display": "The conference on sustainable energy will take place next month."
-    },
-    {
-      "words": [
-        "many",
-        "students",
-        "prefer",
-        "group",
-        "projects",
-        "to",
-        "individual",
-        "assignments",
-        "because",
-        "of",
-        "collaboration"
-      ],
-      "display": "Many students prefer group projects to individual assignments because of collaboration."
+      "display": "The students in the library are preparing for their exams."
     },
     {
       "words": [
         "the",
         "new",
-        "library",
-        "hours",
+        "policy",
         "will",
         "be",
-        "posted",
-        "on",
+        "implemented",
+        "next",
+        "month"
+      ],
+      "display": "The new policy will be implemented next month."
+    },
+    {
+      "words": [
+        "we",
+        "need",
+        "to",
+        "submit",
         "the",
-        "website",
+        "report",
+        "by",
+        "friday",
+        "afternoon"
+      ],
+      "display": "We need to submit the report by Friday afternoon."
+    },
+    {
+      "words": [
+        "the",
+        "team",
+        "won",
+        "the",
+        "championship",
+        "after",
+        "a",
+        "hard",
+        "fought",
+        "season"
+      ],
+      "display": "The team won the championship after a hard fought season."
+    },
+    {
+      "words": [
+        "she",
+        "decided",
+        "to",
+        "join",
+        "the",
+        "volunteer",
+        "program",
+        "to",
+        "help",
+        "the",
+        "community"
+      ],
+      "display": "She decided to join the volunteer program to help the community."
+    },
+    {
+      "words": [
+        "the",
+        "conference",
+        "will",
+        "be",
+        "held",
+        "in",
+        "the",
+        "main",
+        "auditorium",
         "next",
         "week"
       ],
-      "display": "The new library hours will be posted on the website next week."
+      "display": "The conference will be held in the main auditorium next week."
     },
     {
       "words": [
-        "he",
-        "has",
-        "been",
-        "working",
-        "on",
-        "his",
-        "thesis",
-        "for",
-        "over",
-        "a",
-        "year",
-        "now"
+        "during",
+        "the",
+        "meeting",
+        "they",
+        "discussed",
+        "the",
+        "importance",
+        "of",
+        "sustainability"
       ],
-      "display": "He has been working on his thesis for over a year now."
+      "display": "During the meeting they discussed the importance of sustainability."
     },
     {
       "words": [
         "the",
-        "professor",
-        "encouraged",
-        "students",
-        "to",
-        "explore",
-        "different",
-        "perspectives",
-        "in",
+        "researchers",
+        "published",
         "their",
-        "essays"
+        "findings",
+        "in",
+        "a",
+        "renowned",
+        "scientific",
+        "journal"
       ],
-      "display": "The professor encouraged students to explore different perspectives in their essays."
+      "display": "The researchers published their findings in a renowned scientific journal."
     }
   ],
   "emailPrompts": [
-    "寄信給宿舍辦公室，詢問關於更換房間的流程及必要文件。",
-    "寄信給圖書館，請求延長借書期限，因為需要更多時間閱讀。",
-    "寄信給俱樂部主席，表達希望加入俱樂部並詢問相關事宜。",
-    "寄信給客戶服務部，反映最近購買的產品有問題，請求處理。",
-    "寄信給教授，請教有關期末報告的具體要求及格式。",
-    "寄信給校友會，表達希望參與即將舉辦的校友聚會。"
+    "寄信給圖書館，詢問延長書籍歸還期限的可能性。",
+    "寄信給宿舍辦公室，請求更換房間的原因。",
+    "寄信給學生會，表達對即將舉行的活動的意見和建議。",
+    "寄信給教授，請教有關即將到來的課程考試的問題。",
+    "寄信給客戶服務部，反映最近購買產品的問題。",
+    "寄信給研究小組，詢問有關會議的日程安排和議題。"
   ],
   "discussionPrompts": [
-    "教授問：「你認為科技對教育的影響是正面還是負面？」",
-    "教授問：「社交媒體對年輕人心理健康的影響是什麼？」",
-    "教授問：「應該如何平衡工作與生活？」",
-    "教授問：「環境保護與經濟發展之間的衝突，該如何解決？」",
-    "教授問：「文化多樣性對社會的貢獻為何？」",
-    "教授問：「在全球化的背景下，地方文化是否會消失？」"
+    "教授問：「在當今社會中，科技的發展對人際關係有何影響？」",
+    "教授問：「環保措施是否應該優先於經濟增長？」",
+    "教授問：「大學教育的價值是什麼，是否仍然重要？」",
+    "教授問：「全球化對文化多樣性有何影響？」",
+    "教授問：「社交媒體對年輕人的心理健康有何影響？」",
+    "教授問：「人工智慧的快速發展對未來職業市場有何啟示？」"
   ]
 }
