@@ -2,101 +2,107 @@
   "cloze": {
     "segments": [
       {
-        "text": "The process of photosynthesis is vital for life on Earth. Plants convert carbon dioxide, water, and sunlight into glucose and oxygen. This proce"
+        "text": "One fascinating topic in biology is the process of do"
       },
       {
-        "blank": "ss"
+        "blank": "mestic"
       },
       {
-        "text": " is not only essential for providing energy but also plays a critical role in maintaining atmospheric balance. During photosynthesis, plants absorb sunlight through chlorophyll, which is found in their leaves. The energy absorbed is used to drive the chemi"
+        "text": "ation, which has shaped the relationship between humans and animals. This phenomenon is often seen in how dogs evolved from wild wolves through selective bree"
       },
       {
-        "blank": "cal"
+        "blank": "ding."
       },
       {
-        "text": " reactions that transform the inputs into energy-rich compounds. The oxygen generated is released as a byproduct, contributing to the air we breathe. Understanding this process helps scientists address issues related to climate change, as plants can seque"
+        "text": " Understanding this transformation involves studying the behavioral and genetic changes that occurred over thousands of years. It also highlights the mutual benefits of this rela"
       },
       {
-        "blank": "str"
+        "blank": "tionship."
       },
       {
-        "text": "ate carbon dioxide from the atmosphere. Overall, photosynthesis is a remarkable biological process that sustains life."
+        "text": " Animals provided companionship and assistance, while humans offered food and she"
+      },
+      {
+        "blank": "lter."
+      },
+      {
+        "text": " This interdependent bond continues to influence how we interact with various species today."
       }
     ]
   },
   "academic": {
-    "passage": "Photosynthesis is the process by which green plants, algae, and some bacteria convert light energy into chemical energy stored in glucose. This process is crucial for life on Earth, as it provides oxygen and organic compounds. Through photosynthesis, carbon dioxide and water are transformed into glucose and oxygen, facilitating energy transfer in ecosystems. The efficiency of photosynthesis can be impacted by factors such as light intensity, temperature, and carbon dioxide concentration. Understanding these variables is essential for improving agricultural practices and addressing environmental challenges.",
+    "passage": "The study of dog domestication reveals insights into animal behavior and human interaction. Dogs descended from wolves, and this process involved selective breeding for traits that favored companionship and obedience. Researchers analyze fossil records, genetic data, and behavioral traits to understand how domestication affected dogs' physical and social characteristics. This relationship shows a clear example of co-evolution, where both species adapted to benefit each other. The impact of domestication can still be seen in modern dog breeds, which exhibit a wide range of behaviors and appearances shaped by human preference and environment.",
     "questions": [
       {
-        "q": "What is the main purpose of photosynthesis?",
+        "q": "What is the main idea of the passage?",
         "options": [
-          "To convert light energy into chemical energy",
-          "To produce carbon dioxide",
-          "To absorb water",
-          "To create heat"
+          "The relationship between dogs and humans is important.",
+          "Dogs have not changed much since their domestication.",
+          "Selective breeding has no impact on dog behavior.",
+          "Fossil records provide limited information about dogs."
         ],
         "correctIndex": 0,
-        "explain": "光合作用的主要目的是將光能轉換成化學能。"
+        "explain": "這篇文章主要講述了狗和人類之間的重要關係。"
       },
       {
-        "q": "Which organisms are primarily involved in photosynthesis?",
+        "q": "What method do researchers use to study domestication?",
         "options": [
-          "Animals",
-          "Fungi",
-          "Plants and algae",
-          "Bacteria only"
-        ],
-        "correctIndex": 2,
-        "explain": "進行光合作用的主要生物是植物和藻類。"
-      },
-      {
-        "q": "What can be inferred about the impact of light intensity on photosynthesis?",
-        "options": [
-          "It has no effect",
-          "It can enhance the process",
-          "It decreases efficiency",
-          "It only affects bacteria"
+          "Surveys of dog owners",
+          "Fossil records and genetic data",
+          "Observations of wild wolves",
+          "Interviews with breeders"
         ],
         "correctIndex": 1,
-        "explain": "光強度會影響光合作用的效率，較高的光強度通常能增強此過程。"
+        "explain": "研究人員利用化石記錄和基因數據來研究馴化過程。"
       },
       {
-        "q": "What does the term 'organic compounds' refer to in the context of photosynthesis?",
+        "q": "What inference can be made about the relationship between dogs and humans?",
         "options": [
-          "Inorganic materials",
-          "Living matter",
-          "Carbon-containing molecules",
-          "Energy from sunlight"
+          "Humans have always treated dogs poorly.",
+          "Dogs were only domesticated for work purposes.",
+          "Both species have evolved to benefit each other.",
+          "Domestication has made dogs less intelligent."
         ],
         "correctIndex": 2,
-        "explain": "有機化合物是指含碳分子的物質，這些物質在光合作用中生成。"
+        "explain": "可以推斷，狗和人類兩個物種的進化都是為了彼此受益。"
+      },
+      {
+        "q": "What does 'co-evolution' refer to in this context?",
+        "options": [
+          "Dogs and wolves evolving separately",
+          "Humans and dogs adapting together",
+          "The evolution of different breeds",
+          "Changes in dog diets over time"
+        ],
+        "correctIndex": 1,
+        "explain": "在這個語境中，'共同進化'指的是人類和狗的適應和演變。"
       }
     ]
   },
   "daily": {
-    "passage": "Attention Students: The library will be closed for maintenance this Saturday from 8 AM to 5 PM. We apologize for any inconvenience this may cause. Please plan to return any books before then.",
+    "passage": "Attention students: The campus library will be closed for renovations from November 1st to November 15th. Please plan your study schedule accordingly. We apologize for any inconvenience caused and appreciate your understanding.",
     "questions": [
       {
         "q": "When will the library be closed?",
         "options": [
-          "Saturday",
-          "Sunday",
-          "Friday",
-          "Monday"
-        ],
-        "correctIndex": 0,
-        "explain": "公告中提到圖書館將於星期六關閉。"
-      },
-      {
-        "q": "What should students do before the library closure?",
-        "options": [
-          "Visit the library",
-          "Return books",
-          "Study at home",
-          "Attend a meeting"
+          "From October 1st to October 15th",
+          "From November 1st to November 15th",
+          "From December 1st to December 15th",
+          "From January 1st to January 15th"
         ],
         "correctIndex": 1,
-        "explain": "學生需要在關閉之前歸還書籍。"
+        "explain": "圖書館將於十一月一日至十一月十五日關閉。"
+      },
+      {
+        "q": "What should students do regarding their study schedule?",
+        "options": [
+          "Study less during renovations",
+          "Plan their schedule accordingly",
+          "Avoid the library entirely",
+          "Use online resources only"
+        ],
+        "correctIndex": 1,
+        "explain": "學生應根據圖書館的關閉時間來計劃他們的學習時間表。"
       }
     ]
   }

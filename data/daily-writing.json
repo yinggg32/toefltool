@@ -4,135 +4,126 @@
       "words": [
         "the",
         "students",
-        "in",
-        "the",
-        "library",
-        "are",
-        "preparing",
-        "for",
-        "their",
-        "exams"
-      ],
-      "display": "The students in the library are preparing for their exams."
-    },
-    {
-      "words": [
-        "the",
-        "new",
-        "policy",
-        "will",
-        "be",
-        "implemented",
-        "next",
-        "month"
-      ],
-      "display": "The new policy will be implemented next month."
-    },
-    {
-      "words": [
-        "we",
-        "need",
         "to",
         "submit",
+        "their",
+        "assignments",
+        "before",
         "the",
-        "report",
-        "by",
-        "friday",
-        "afternoon"
+        "deadline"
       ],
-      "display": "We need to submit the report by Friday afternoon."
+      "display": "The students need to submit their assignments before the deadline."
+    },
+    {
+      "words": [
+        "the",
+        "researcher",
+        "conducted",
+        "a",
+        "study",
+        "on",
+        "climate",
+        "change"
+      ],
+      "display": "The researcher conducted a study on climate change."
     },
     {
       "words": [
         "the",
         "team",
-        "won",
-        "the",
-        "championship",
-        "after",
-        "a",
-        "hard",
-        "fought",
-        "season"
-      ],
-      "display": "The team won the championship after a hard fought season."
-    },
-    {
-      "words": [
-        "she",
-        "decided",
-        "to",
-        "join",
-        "the",
-        "volunteer",
-        "program",
-        "to",
-        "help",
-        "the",
-        "community"
-      ],
-      "display": "She decided to join the volunteer program to help the community."
-    },
-    {
-      "words": [
-        "the",
-        "conference",
         "will",
-        "be",
-        "held",
-        "in",
-        "the",
-        "main",
-        "auditorium",
-        "next",
-        "week"
-      ],
-      "display": "The conference will be held in the main auditorium next week."
-    },
-    {
-      "words": [
-        "during",
-        "the",
-        "meeting",
-        "they",
-        "discussed",
-        "the",
-        "importance",
-        "of",
-        "sustainability"
-      ],
-      "display": "During the meeting they discussed the importance of sustainability."
-    },
-    {
-      "words": [
-        "the",
-        "researchers",
-        "published",
+        "present",
         "their",
         "findings",
-        "in",
-        "a",
-        "renowned",
-        "scientific",
-        "journal"
+        "at",
+        "the",
+        "conference"
       ],
-      "display": "The researchers published their findings in a renowned scientific journal."
+      "display": "The team will present their findings at the conference."
+    },
+    {
+      "words": [
+        "after",
+        "the",
+        "meeting",
+        "the",
+        "participants",
+        "shared",
+        "their",
+        "thoughts"
+      ],
+      "display": "After the meeting, the participants shared their thoughts."
+    },
+    {
+      "words": [
+        "learning",
+        "new",
+        "languages",
+        "can",
+        "be",
+        "both",
+        "challenging",
+        "and",
+        "rewarding"
+      ],
+      "display": "Learning new languages can be both challenging and rewarding."
+    },
+    {
+      "words": [
+        "many",
+        "students",
+        "prefer",
+        "online",
+        "classes",
+        "for",
+        "their",
+        "flexibility"
+      ],
+      "display": "Many students prefer online classes for their flexibility."
+    },
+    {
+      "words": [
+        "the",
+        "professor",
+        "encouraged",
+        "students",
+        "to",
+        "explore",
+        "different",
+        "perspectives"
+      ],
+      "display": "The professor encouraged students to explore different perspectives."
+    },
+    {
+      "words": [
+        "the",
+        "library",
+        "will",
+        "be",
+        "closed",
+        "for",
+        "renovations",
+        "until",
+        "next",
+        "month"
+      ],
+      "display": "The library will be closed for renovations until next month."
     }
   ],
   "emailPrompts": [
-    "寄信給圖書館，詢問延長書籍歸還期限的可能性。",
-    "寄信給宿舍辦公室，請求更換房間的原因。",
-    "寄信給學生會，表達對即將舉行的活動的意見和建議。",
-    "寄信給教授，請教有關即將到來的課程考試的問題。",
-    "寄信給客戶服務部，反映最近購買產品的問題。",
-    "寄信給研究小組，詢問有關會議的日程安排和議題。"
+    "寄信給教授，請求延長報告的截止日期，因為遇到困難。",
+    "寄信給宿舍辦公室，詢問關於訪客的規定和時間限制。",
+    "寄信給圖書館，請求借書的延長時間，因為書籍對於研究很重要。",
+    "寄信給學生社團，詢問如何加入並參與即將舉行的活動。",
+    "寄信給客服，詢問如何退換一件不滿意的商品。",
+    "寄信給導師，請教關於學期末考試的準備建議。"
   ],
   "discussionPrompts": [
-    "教授問：「在當今社會中，科技的發展對人際關係有何影響？」",
-    "教授問：「環保措施是否應該優先於經濟增長？」",
-    "教授問：「大學教育的價值是什麼，是否仍然重要？」",
-    "教授問：「全球化對文化多樣性有何影響？」",
-    "教授問：「社交媒體對年輕人的心理健康有何影響？」",
-    "教授問：「人工智慧的快速發展對未來職業市場有何啟示？」"
+    "教授問：「你認為在當今社會中，科技對教育的影響是正面還是負面？」",
+    "教授問：「在全球化的背景下，文化多樣性如何影響社會發展？」",
+    "教授問：「是否應該對社交媒體的使用設立年齡限制？為什麼？」",
+    "教授問：「你認為政府在應對氣候變化方面應扮演什麼角色？」",
+    "教授問：「社會應該如何處理貧困和不平等問題？」",
+    "教授問：「在道德和法律之間，你認為哪一個更重要，為什麼？」"
   ]
 }

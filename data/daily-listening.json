@@ -1,116 +1,116 @@
 {
   "chooseResponse": [
     {
-      "q": "What time is the club meeting?",
+      "q": "What do you think about the new policy?",
       "options": [
-        "I think it's at 5 PM.",
-        "I'm not sure about that.",
-        "Can you remind me later?",
-        "Let's check the website."
+        "It's great!",
+        "I don't care.",
+        "It's confusing.",
+        "I disagree."
       ],
       "correctIndex": 0
     }
   ],
   "conversation": {
-    "transcript": "Student: Hey, do you know when the environmental club meets?\nAdvisor: Yes, they meet every Thursday at 5 PM.\nStudent: Great! And where do they usually gather?\nAdvisor: In the student center's conference room.",
+    "transcript": "Student: Have you read the new library policy?\nAdvisor: Yes, I have. What do you think about it?\nStudent: I think it could be better organized.\nAdvisor: I agree, it seems a bit overwhelming for new students.",
     "questions": [
       {
-        "q": "What day does the environmental club meet?",
+        "q": "What is the student's opinion about the policy?",
         "options": [
-          "Monday",
-          "Wednesday",
-          "Thursday",
-          "Friday"
-        ],
-        "correctIndex": 2,
-        "explain": "環保俱樂部在星期四開會。"
-      },
-      {
-        "q": "Where does the club gather?",
-        "options": [
-          "Library",
-          "Student center's conference room",
-          "Cafeteria",
-          "Outdoor field"
+          "It's well organized.",
+          "It's confusing.",
+          "It's very helpful.",
+          "It's unnecessary."
         ],
         "correctIndex": 1,
-        "explain": "俱樂部在學生中心的會議室集合。"
+        "explain": "學生認為這項政策有點混亂。"
+      },
+      {
+        "q": "How does the advisor feel about the policy?",
+        "options": [
+          "They disagree with it.",
+          "They find it helpful.",
+          "They agree it's overwhelming.",
+          "They haven't read it."
+        ],
+        "correctIndex": 2,
+        "explain": "顧問同意這項政策對新生來說有點壓力。"
       }
     ]
   },
   "announcement": {
-    "transcript": "Attention students! The library will be closed for renovations starting next week. Please make sure to check out any materials you need before then. We expect to reopen in four weeks. Thank you for your understanding.",
+    "transcript": "Attention students! The library will be closed for renovations from April 1st to April 15th. Please plan your study time accordingly and check out any materials you may need in advance. Thank you for your understanding.",
     "questions": [
       {
-        "q": "When will the library close?",
+        "q": "When will the library be closed?",
         "options": [
-          "Next month",
-          "Next week",
-          "Tomorrow",
-          "In a few days"
+          "March 1 to March 15.",
+          "April 1 to April 15.",
+          "April 1 to April 30.",
+          "May 1 to May 15."
         ],
         "correctIndex": 1,
-        "explain": "圖書館下星期開始關閉。"
+        "explain": "圖書館將於四月一日至四月十五日關閉。"
       },
       {
-        "q": "How long will the renovations take?",
+        "q": "What should students do before the closing?",
         "options": [
-          "Two weeks",
-          "Three weeks",
-          "Four weeks",
-          "Five weeks"
+          "Return all books.",
+          "Check out materials.",
+          "Skip studying.",
+          "Wait until it reopens."
         ],
-        "correctIndex": 2,
-        "explain": "改建預計需要四個星期。"
+        "correctIndex": 1,
+        "explain": "學生應在關閉之前借閱所需的資料。"
       }
     ]
   },
   "talk": {
-    "transcript": "Today, we're going to discuss the concept of 'cognitive dissonance.' This psychological theory explains the discomfort we feel when holding conflicting beliefs or attitudes. For instance, if someone values healthy eating but regularly eats junk food, they might experience cognitive dissonance. This discomfort often motivates individuals to change their beliefs or behaviors to restore harmony. It can lead to various outcomes, such as justifying their actions, changing their eating habits, or even altering their beliefs about health. Understanding cognitive dissonance helps us comprehend how we make decisions and rationalize our behavior in daily life.",
+    "transcript": "Today, we'll discuss the concept of cognitive dissonance. This psychological phenomenon occurs when a person experiences discomfort due to holding two conflicting beliefs or values. For instance, if someone values health but smokes, they may feel uneasy about their behavior. This discomfort often leads individuals to change their beliefs or behaviors to create consistency. It can also result in rationalizing their actions to reduce the dissonance. Understanding cognitive dissonance is crucial for recognizing how people justify their choices and maintain their self-image.",
     "questions": [
       {
         "q": "What is cognitive dissonance?",
         "options": [
-          "A type of food craving",
-          "A psychological conflict",
-          "A method of teaching",
-          "A group therapy technique"
+          "A conflict of beliefs.",
+          "A type of memory.",
+          "A research method.",
+          "A social behavior."
+        ],
+        "correctIndex": 0,
+        "explain": "認知失調是指信念之間的衝突。"
+      },
+      {
+        "q": "What example is given for cognitive dissonance?",
+        "options": [
+          "Eating junk food.",
+          "Valuing health but smoking.",
+          "Studying for exams.",
+          "Exercising regularly."
         ],
         "correctIndex": 1,
-        "explain": "認知失調是心理衝突的一種。"
+        "explain": "舉的例子是重視健康但吸煙。"
       },
       {
-        "q": "What might someone do when feeling cognitive dissonance?",
+        "q": "What do people often do to resolve cognitive dissonance?",
         "options": [
-          "Ignore the conflict",
-          "Change their beliefs",
-          "Seek therapy",
-          "All of the above"
+          "Ignore their feelings.",
+          "Change their beliefs or behaviors.",
+          "Avoid the situation.",
+          "Seek therapy."
         ],
-        "correctIndex": 3,
-        "explain": "感受到認知失調時，人們可能會忽視衝突、改變信念等。"
-      },
-      {
-        "q": "What triggers cognitive dissonance?",
-        "options": [
-          "Confidence",
-          "Harmony",
-          "Conflicting beliefs",
-          "Group support"
-        ],
-        "correctIndex": 2,
-        "explain": "衝突的信念會觸發認知失調。"
+        "correctIndex": 1,
+        "explain": "人們經常改變自己的信念或行為來解決認知失調。"
       },
       {
         "q": "Why is understanding cognitive dissonance important?",
         "options": [
-          "To improve memory",
-          "To comprehend decision-making",
-          "To analyze dreams",
-          "To enhance physical health"
+          "It helps in learning.",
+          "It explains social trends.",
+          "It shows how people justify choices.",
+          "It relates to memory retention."
         ],
-        "correctIndex": 1,
-        "explain": "理解認知失調有助於理解決策過程。"
+        "correctIndex": 2,
+        "explain": "理解認知失調有助於認識人們如何為自己的選擇辯護。"
       }
     ]
   }

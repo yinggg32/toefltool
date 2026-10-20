@@ -9718,5 +9718,45 @@
     "zh": "前言",
     "ex": "The preamble of the constitution outlines the fundamental principles of governance.",
     "cat": "📰 每日新詞：political science"
+  },
+  {
+    "word": "archaeological",
+    "pos": "adj.",
+    "root": "archaeo-古代+logy學科+ical形容詞",
+    "zh": "考古的",
+    "ex": "Archaeological findings provide valuable insights into the practices and beliefs of ancient civilizations.",
+    "cat": "📰 每日新詞：anthropology"
+  },
+  {
+    "word": "etic",
+    "pos": "n.",
+    "root": "et-外部+ic形容詞",
+    "zh": "外部觀點",
+    "ex": "Etic approaches analyze cultures from an outsider's perspective, often leading to comparative studies.",
+    "cat": "📰 每日新詞：anthropology"
+  },
+  {
+    "word": "prehistory",
+    "pos": "n.",
+    "root": "pre-前+hist-歷史+ory名詞",
+    "zh": "史前時期",
+    "ex": "Prehistory studies human activity before the advent of written records.",
+    "cat": "📰 每日新詞：anthropology"
+  },
+  {
+    "word": "social construct",
+    "pos": "n.",
+    "root": "social-社會+construct-建構",
+    "zh": "社會建構",
+    "ex": "Many aspects of identity, such as race and gender, are understood as social constructs rather than biological facts.",
+    "cat": "📰 每日新詞：anthropology"
+  },
+  {
+    "word": "ritualistic",
+    "pos": "adj.",
+    "root": "ritual-儀式+istic形容詞",
+    "zh": "儀式性的",
+    "ex": "Ritualistic practices often serve to reinforce social bonds and cultural continuity.",
+    "cat": "📰 每日新詞：anthropology"
   }
 ]

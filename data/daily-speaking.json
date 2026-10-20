@@ -1,45 +1,45 @@
 {
   "shadowSentences": [
-    "I enjoy reading books every night.",
-    "Listening to music helps me relax.",
-    "My favorite hobby is painting landscapes.",
-    "Traveling opens up new perspectives on life.",
-    "Cooking new recipes is both fun and rewarding.",
-    "I like to go jogging in the early morning.",
-    "Spending time with friends improves my mood.",
-    "Volunteering at the local shelter is very fulfilling.",
-    "Learning a new language can be challenging but exciting.",
-    "Gardening teaches patience and gives a sense of accomplishment."
+    "I love to read books every evening.",
+    "My favorite season is spring when flowers bloom.",
+    "Traveling to new places enriches my life greatly.",
+    "Cooking new recipes can be both fun and challenging.",
+    "I enjoy watching movies with my friends on weekends.",
+    "Hiking in the mountains is an amazing way to relax.",
+    "Listening to music helps me focus when studying.",
+    "Playing sports teaches teamwork and discipline in life.",
+    "Volunteering at local shelters can make a big difference.",
+    "Learning a new language opens doors to many cultures."
   ],
   "interviewScenarios": [
     {
-      "topic": "旅行經驗",
-      "intro": "You have agreed to take part in a research study about travel experiences.",
+      "topic": "旅行計劃",
+      "intro": "You have agreed to take part in a research study about travel planning.",
       "questions": [
-        "Q1: Can you share a memorable travel experience you had?",
-        "Q2: What challenges did you face during this trip?",
-        "Q3: How do you feel travel impacts personal growth?",
+        "Q1: What is your favorite travel destination and why?",
+        "Q2: What challenges do you face when planning a trip?",
+        "Q3: In your opinion, what makes a successful travel experience?",
         "Q4: What advice would you give someone planning their first trip?"
       ]
     },
     {
       "topic": "運動習慣",
-      "intro": "You have agreed to participate in a study about sports and exercise habits.",
+      "intro": "You have agreed to take part in a research study about exercise habits.",
       "questions": [
-        "Q1: What type of sports do you enjoy playing?",
-        "Q2: Have you ever faced any obstacles in maintaining your fitness?",
-        "Q3: In your opinion, why is regular exercise important?",
-        "Q4: What tips would you give to someone starting a workout routine?"
+        "Q1: Can you describe your regular exercise routine?",
+        "Q2: What obstacles do you encounter when trying to stay active?",
+        "Q3: How important do you think exercise is for overall health?",
+        "Q4: What tips would you offer to someone starting to exercise?"
       ]
     },
     {
-      "topic": "環保意識",
-      "intro": "You have agreed to take part in a research study about environmental awareness.",
+      "topic": "飲食習慣",
+      "intro": "You have agreed to take part in a research study about eating habits.",
       "questions": [
-        "Q1: Can you describe a time when you helped the environment?",
-        "Q2: What difficulties do people face when trying to be eco-friendly?",
-        "Q3: What is your view on the current state of environmental issues?",
-        "Q4: How can individuals make a positive impact on the environment?"
+        "Q1: What do you typically eat for breakfast?",
+        "Q2: How do your eating habits change when you are busy?",
+        "Q3: What is your opinion on healthy eating versus convenience food?",
+        "Q4: What recommendations would you give to someone wanting to eat healthier?"
       ]
     }
   ]
