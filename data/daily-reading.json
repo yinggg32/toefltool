@@ -2,107 +2,107 @@
   "cloze": {
     "segments": [
       {
-        "text": "One fascinating topic in biology is the process of do"
+        "text": "The concept of artificial intell"
       },
       {
-        "blank": "mestic"
+        "blank": "igence"
       },
       {
-        "text": "ation, which has shaped the relationship between humans and animals. This phenomenon is often seen in how dogs evolved from wild wolves through selective bree"
+        "text": " has transformed various industries, enabling machines to perform tasks that typically require human cognition. This technology relies heavily on da"
       },
       {
-        "blank": "ding."
+        "blank": "ta"
       },
       {
-        "text": " Understanding this transformation involves studying the behavioral and genetic changes that occurred over thousands of years. It also highlights the mutual benefits of this rela"
+        "text": " analysis, allowing systems to learn from patterns and make predictions. One of the most significant applications is in the field of medi"
       },
       {
-        "blank": "tionship."
+        "blank": "cine"
       },
       {
-        "text": " Animals provided companionship and assistance, while humans offered food and she"
+        "text": ", where AI assists in diagnosing diseases with remarkable accuracy. However, the ethical implications of such advancements raise concerns about p"
       },
       {
-        "blank": "lter."
+        "blank": "rivacy"
       },
       {
-        "text": " This interdependent bond continues to influence how we interact with various species today."
+        "text": ", accountability, and the potential for job displacement in the workforce."
       }
     ]
   },
   "academic": {
-    "passage": "The study of dog domestication reveals insights into animal behavior and human interaction. Dogs descended from wolves, and this process involved selective breeding for traits that favored companionship and obedience. Researchers analyze fossil records, genetic data, and behavioral traits to understand how domestication affected dogs' physical and social characteristics. This relationship shows a clear example of co-evolution, where both species adapted to benefit each other. The impact of domestication can still be seen in modern dog breeds, which exhibit a wide range of behaviors and appearances shaped by human preference and environment.",
+    "passage": "Artificial intelligence (AI) has rapidly evolved in recent years, impacting numerous fields such as healthcare, finance, and transportation. By analyzing large datasets, AI systems can identify trends, optimize processes, and enhance decision-making. In healthcare, for instance, AI tools assist in diagnosing illnesses and predicting patient outcomes, thus improving overall treatment efficiency. However, the rise of AI also introduces ethical questions regarding privacy, bias in algorithms, and the potential for job displacement. As AI continues to integrate into daily life, it is crucial to address these challenges to ensure its benefits are equitably distributed.",
     "questions": [
       {
         "q": "What is the main idea of the passage?",
         "options": [
-          "The relationship between dogs and humans is important.",
-          "Dogs have not changed much since their domestication.",
-          "Selective breeding has no impact on dog behavior.",
-          "Fossil records provide limited information about dogs."
+          "The impact of AI on various fields",
+          "AI's ethical implications",
+          "How AI is used in healthcare",
+          "AI's evolution over time"
         ],
         "correctIndex": 0,
-        "explain": "這篇文章主要講述了狗和人類之間的重要關係。"
+        "explain": "這段文字的主要思想是人工智能對各個領域的影響。"
       },
       {
-        "q": "What method do researchers use to study domestication?",
+        "q": "How does AI contribute to healthcare?",
         "options": [
-          "Surveys of dog owners",
-          "Fossil records and genetic data",
-          "Observations of wild wolves",
-          "Interviews with breeders"
+          "By replacing doctors entirely",
+          "By improving treatment efficiency",
+          "By eliminating medical errors",
+          "By increasing patient data privacy"
         ],
         "correctIndex": 1,
-        "explain": "研究人員利用化石記錄和基因數據來研究馴化過程。"
+        "explain": "AI在醫療領域的貢獻是提高治療效率。"
       },
       {
-        "q": "What inference can be made about the relationship between dogs and humans?",
+        "q": "What can be inferred about the ethical implications of AI?",
         "options": [
-          "Humans have always treated dogs poorly.",
-          "Dogs were only domesticated for work purposes.",
-          "Both species have evolved to benefit each other.",
-          "Domestication has made dogs less intelligent."
+          "They are largely positive",
+          "They are minimal and manageable",
+          "They raise significant concerns",
+          "They only affect technology companies"
         ],
         "correctIndex": 2,
-        "explain": "可以推斷，狗和人類兩個物種的進化都是為了彼此受益。"
+        "explain": "可以推斷，人工智能的倫理影響引起了重大關注。"
       },
       {
-        "q": "What does 'co-evolution' refer to in this context?",
+        "q": "What does the term 'datasets' refer to in the context of the passage?",
         "options": [
-          "Dogs and wolves evolving separately",
-          "Humans and dogs adapting together",
-          "The evolution of different breeds",
-          "Changes in dog diets over time"
+          "Organizations that collect data",
+          "Statistics about AI performance",
+          "Collections of data used for analysis",
+          "Types of algorithms used in AI"
         ],
-        "correctIndex": 1,
-        "explain": "在這個語境中，'共同進化'指的是人類和狗的適應和演變。"
+        "correctIndex": 2,
+        "explain": "在文中，'datasets'指的是用於分析的數據集合。"
       }
     ]
   },
   "daily": {
-    "passage": "Attention students: The campus library will be closed for renovations from November 1st to November 15th. Please plan your study schedule accordingly. We apologize for any inconvenience caused and appreciate your understanding.",
+    "passage": "Attention students: The university library will extend its hours during finals week. From Monday to Friday, the library will be open from 8 AM to midnight to accommodate your studying needs. Please plan accordingly.",
     "questions": [
       {
-        "q": "When will the library be closed?",
+        "q": "What new hours will the library have during finals week?",
         "options": [
-          "From October 1st to October 15th",
-          "From November 1st to November 15th",
-          "From December 1st to December 15th",
-          "From January 1st to January 15th"
+          "8 AM to 6 PM",
+          "8 AM to 10 PM",
+          "8 AM to midnight",
+          "24 hours"
         ],
-        "correctIndex": 1,
-        "explain": "圖書館將於十一月一日至十一月十五日關閉。"
+        "correctIndex": 2,
+        "explain": "圖書館在期末考周的開放時間是早上8點到午夜。"
       },
       {
-        "q": "What should students do regarding their study schedule?",
+        "q": "When will the extended hours be in effect?",
         "options": [
-          "Study less during renovations",
-          "Plan their schedule accordingly",
-          "Avoid the library entirely",
-          "Use online resources only"
+          "Only on weekends",
+          "Monday to Friday",
+          "All week",
+          "Only during exams"
         ],
         "correctIndex": 1,
-        "explain": "學生應根據圖書館的關閉時間來計劃他們的學習時間表。"
+        "explain": "延長的開放時間從星期一到星期五生效。"
       }
     ]
   }

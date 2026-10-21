@@ -2,128 +2,132 @@
   "buildSentences": [
     {
       "words": [
-        "the",
         "students",
-        "to",
+        "should",
         "submit",
         "their",
         "assignments",
-        "before",
+        "by",
         "the",
         "deadline"
       ],
-      "display": "The students need to submit their assignments before the deadline."
+      "display": "Students should submit their assignments by the deadline."
     },
     {
       "words": [
         "the",
-        "researcher",
-        "conducted",
-        "a",
-        "study",
-        "on",
+        "impact",
+        "of",
         "climate",
-        "change"
+        "change",
+        "on",
+        "global",
+        "ecosystems"
       ],
-      "display": "The researcher conducted a study on climate change."
+      "display": "The impact of climate change on global ecosystems."
     },
     {
       "words": [
-        "the",
-        "team",
-        "will",
-        "present",
-        "their",
-        "findings",
-        "at",
-        "the",
-        "conference"
-      ],
-      "display": "The team will present their findings at the conference."
-    },
-    {
-      "words": [
-        "after",
-        "the",
-        "meeting",
-        "the",
-        "participants",
-        "shared",
-        "their",
-        "thoughts"
-      ],
-      "display": "After the meeting, the participants shared their thoughts."
-    },
-    {
-      "words": [
-        "learning",
-        "new",
-        "languages",
-        "can",
-        "be",
-        "both",
-        "challenging",
-        "and",
-        "rewarding"
-      ],
-      "display": "Learning new languages can be both challenging and rewarding."
-    },
-    {
-      "words": [
-        "many",
-        "students",
-        "prefer",
-        "online",
-        "classes",
+        "reading",
+        "is",
+        "essential",
         "for",
-        "their",
-        "flexibility"
+        "academic",
+        "success",
+        "and",
+        "personal",
+        "growth"
       ],
-      "display": "Many students prefer online classes for their flexibility."
+      "display": "Reading is essential for academic success and personal growth."
+    },
+    {
+      "words": [
+        "the",
+        "university",
+        "offers",
+        "various",
+        "resources",
+        "to",
+        "support",
+        "student",
+        "wellbeing"
+      ],
+      "display": "The university offers various resources to support student wellbeing."
+    },
+    {
+      "words": [
+        "participating",
+        "in",
+        "extracurricular",
+        "activities",
+        "can",
+        "enhance",
+        "the",
+        "college",
+        "experience"
+      ],
+      "display": "Participating in extracurricular activities can enhance the college experience."
+    },
+    {
+      "words": [
+        "students",
+        "are",
+        "encouraged",
+        "to",
+        "form",
+        "study",
+        "groups",
+        "to",
+        "improve",
+        "learning"
+      ],
+      "display": "Students are encouraged to form study groups to improve learning."
     },
     {
       "words": [
         "the",
         "professor",
-        "encouraged",
-        "students",
-        "to",
-        "explore",
-        "different",
-        "perspectives"
+        "will",
+        "hold",
+        "office",
+        "hours",
+        "every",
+        "week",
+        "for",
+        "student",
+        "consultation"
       ],
-      "display": "The professor encouraged students to explore different perspectives."
+      "display": "The professor will hold office hours every week for student consultation."
     },
     {
       "words": [
+        "effective",
+        "communication",
+        "skills",
+        "are",
+        "crucial",
+        "in",
         "the",
-        "library",
-        "will",
-        "be",
-        "closed",
-        "for",
-        "renovations",
-        "until",
-        "next",
-        "month"
+        "workplace",
+        "today"
       ],
-      "display": "The library will be closed for renovations until next month."
+      "display": "Effective communication skills are crucial in the workplace today."
     }
   ],
   "emailPrompts": [
-    "寄信給教授，請求延長報告的截止日期，因為遇到困難。",
-    "寄信給宿舍辦公室，詢問關於訪客的規定和時間限制。",
-    "寄信給圖書館，請求借書的延長時間，因為書籍對於研究很重要。",
-    "寄信給學生社團，詢問如何加入並參與即將舉行的活動。",
-    "寄信給客服，詢問如何退換一件不滿意的商品。",
-    "寄信給導師，請教關於學期末考試的準備建議。"
+    "寄信給教授，說明因病無法參加期中考，詢問補考事宜。",
+    "寄信給宿舍管理員，請求更換房間因為有噪音問題。",
+    "寄信給圖書館，詢問關於書籍延遲歸還的罰款。",
+    "寄信給社團會長，表達想要參加社團的興趣。",
+    "寄信給客戶服務，詢問產品保修的詳細信息。",
+    "寄信給導師，請求關於課程作業的進一步指導。"
   ],
   "discussionPrompts": [
-    "教授問：「你認為在當今社會中，科技對教育的影響是正面還是負面？」",
-    "教授問：「在全球化的背景下，文化多樣性如何影響社會發展？」",
-    "教授問：「是否應該對社交媒體的使用設立年齡限制？為什麼？」",
-    "教授問：「你認為政府在應對氣候變化方面應扮演什麼角色？」",
-    "教授問：「社會應該如何處理貧困和不平等問題？」",
-    "教授問：「在道德和法律之間，你認為哪一個更重要，為什麼？」"
+    "教授問：「科技進步是否對人類社會造成了更多的好處還是壞處？」",
+    "教授問：「全球化對本地文化的影響是正面還是負面？」",
+    "教授問：「應該如何平衡環境保護與經濟發展之間的關係？」",
+    "教授問：「學校應該重視哪種學科以準備學生面對未來挑戰？」",
+    "教授問：「社交媒體對青少年心理健康的影響是什麼？」",
+    "教授問：「政府是否應該對大學學費進行管制？」"
   ]
 }

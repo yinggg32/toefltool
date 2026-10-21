@@ -1,116 +1,116 @@
 {
   "chooseResponse": [
     {
-      "q": "What do you think about the new policy?",
+      "q": "What did you think of the movie?",
       "options": [
-        "It's great!",
-        "I don't care.",
-        "It's confusing.",
-        "I disagree."
+        "It was amazing!",
+        "I didn't like it.",
+        "It was too long.",
+        "The actors were great."
       ],
       "correctIndex": 0
     }
   ],
   "conversation": {
-    "transcript": "Student: Have you read the new library policy?\nAdvisor: Yes, I have. What do you think about it?\nStudent: I think it could be better organized.\nAdvisor: I agree, it seems a bit overwhelming for new students.",
+    "transcript": "Student: Hey, did you see the new movie that came out last weekend?\nAdvisor: Yes, I did! What did you think of it?\nStudent: I thought it was incredible! The special effects were stunning.\nAdvisor: I agree! The storyline was a bit predictable, though.",
     "questions": [
       {
-        "q": "What is the student's opinion about the policy?",
+        "q": "What is the student's opinion of the movie?",
         "options": [
-          "It's well organized.",
-          "It's confusing.",
-          "It's very helpful.",
-          "It's unnecessary."
+          "They loved it.",
+          "They hated it.",
+          "They found it boring.",
+          "They were confused."
         ],
-        "correctIndex": 1,
-        "explain": "學生認為這項政策有點混亂。"
+        "correctIndex": 0,
+        "explain": "學生對這部電影的評價是正面的，表示非常喜歡。"
       },
       {
-        "q": "How does the advisor feel about the policy?",
+        "q": "What does the advisor think about the storyline?",
         "options": [
-          "They disagree with it.",
-          "They find it helpful.",
-          "They agree it's overwhelming.",
-          "They haven't read it."
+          "It was original.",
+          "It was predictable.",
+          "It was too complicated.",
+          "It was boring."
         ],
-        "correctIndex": 2,
-        "explain": "顧問同意這項政策對新生來說有點壓力。"
+        "correctIndex": 1,
+        "explain": "顧問認為劇情有些可預測，這是他對電影的一個看法。"
       }
     ]
   },
   "announcement": {
-    "transcript": "Attention students! The library will be closed for renovations from April 1st to April 15th. Please plan your study time accordingly and check out any materials you may need in advance. Thank you for your understanding.",
+    "transcript": "Attention students! The annual Spring Festival will be held on March 15th in the main courtyard. There will be food, games, and live performances. Make sure to bring your friends and enjoy a day of fun and entertainment. We hope to see everyone there!",
     "questions": [
       {
-        "q": "When will the library be closed?",
+        "q": "What is the date of the Spring Festival?",
         "options": [
-          "March 1 to March 15.",
-          "April 1 to April 15.",
-          "April 1 to April 30.",
-          "May 1 to May 15."
+          "March 15th",
+          "April 1st",
+          "May 10th",
+          "June 20th"
         ],
-        "correctIndex": 1,
-        "explain": "圖書館將於四月一日至四月十五日關閉。"
+        "correctIndex": 0,
+        "explain": "春季慶典的日期是三月十五日。"
       },
       {
-        "q": "What should students do before the closing?",
+        "q": "What activities will be available at the festival?",
         "options": [
-          "Return all books.",
-          "Check out materials.",
-          "Skip studying.",
-          "Wait until it reopens."
+          "Only food stalls.",
+          "Only games.",
+          "Food, games, and performances.",
+          "No activities planned."
         ],
-        "correctIndex": 1,
-        "explain": "學生應在關閉之前借閱所需的資料。"
+        "correctIndex": 2,
+        "explain": "慶典將包括食物、遊戲和現場表演等多種活動。"
       }
     ]
   },
   "talk": {
-    "transcript": "Today, we'll discuss the concept of cognitive dissonance. This psychological phenomenon occurs when a person experiences discomfort due to holding two conflicting beliefs or values. For instance, if someone values health but smokes, they may feel uneasy about their behavior. This discomfort often leads individuals to change their beliefs or behaviors to create consistency. It can also result in rationalizing their actions to reduce the dissonance. Understanding cognitive dissonance is crucial for recognizing how people justify their choices and maintain their self-image.",
+    "transcript": "Today, we will discuss the concept of sustainability. Sustainability refers to meeting our own needs without compromising the ability of future generations to meet theirs. It involves three main pillars: environmental protection, social equity, and economic viability. By adopting sustainable practices, we can ensure that resources are available for future use. This includes using renewable energy, reducing waste, and supporting fair trade. Implementing these practices not only helps the planet but also fosters a better society. As we move forward, it is crucial to incorporate sustainability into our daily lives and decision-making processes.",
     "questions": [
       {
-        "q": "What is cognitive dissonance?",
+        "q": "What does sustainability aim to achieve?",
         "options": [
-          "A conflict of beliefs.",
-          "A type of memory.",
-          "A research method.",
-          "A social behavior."
+          "Protect future generations' needs.",
+          "Increase economic inequality.",
+          "Deplete natural resources.",
+          "Focus only on social issues."
         ],
         "correctIndex": 0,
-        "explain": "認知失調是指信念之間的衝突。"
+        "explain": "可持續性旨在滿足我們的需求，同時不妨礙未來世代的需求。"
       },
       {
-        "q": "What example is given for cognitive dissonance?",
+        "q": "Which of the following is NOT one of the three main pillars of sustainability?",
         "options": [
-          "Eating junk food.",
-          "Valuing health but smoking.",
-          "Studying for exams.",
-          "Exercising regularly."
+          "Environmental protection",
+          "Social equity",
+          "Economic viability",
+          "Technological advancement"
+        ],
+        "correctIndex": 3,
+        "explain": "技術進步不是可持續性的三大支柱之一。"
+      },
+      {
+        "q": "What is one example of a sustainable practice mentioned?",
+        "options": [
+          "Using fossil fuels.",
+          "Reducing waste.",
+          "Increasing plastic use.",
+          "Ignoring social equity."
         ],
         "correctIndex": 1,
-        "explain": "舉的例子是重視健康但吸煙。"
+        "explain": "減少浪費是講座中提到的一個可持續做法。"
       },
       {
-        "q": "What do people often do to resolve cognitive dissonance?",
+        "q": "Why is it important to incorporate sustainability into daily life?",
         "options": [
-          "Ignore their feelings.",
-          "Change their beliefs or behaviors.",
-          "Avoid the situation.",
-          "Seek therapy."
-        ],
-        "correctIndex": 1,
-        "explain": "人們經常改變自己的信念或行為來解決認知失調。"
-      },
-      {
-        "q": "Why is understanding cognitive dissonance important?",
-        "options": [
-          "It helps in learning.",
-          "It explains social trends.",
-          "It shows how people justify choices.",
-          "It relates to memory retention."
+          "To improve only economic status.",
+          "To ignore future needs.",
+          "To ensure resource availability for the future.",
+          "To focus on individual gain."
         ],
         "correctIndex": 2,
-        "explain": "理解認知失調有助於認識人們如何為自己的選擇辯護。"
+        "explain": "將可持續性融入日常生活是為了確保未來資源的可用性。"
       }
     ]
   }

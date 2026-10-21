@@ -9758,5 +9758,85 @@
     "zh": "儀式性的",
     "ex": "Ritualistic practices often serve to reinforce social bonds and cultural continuity.",
     "cat": "📰 每日新詞：anthropology"
+  },
+  {
+    "word": "emissions",
+    "pos": "n.",
+    "root": "emit排放 + -ion名詞後綴",
+    "zh": "排放物",
+    "ex": "Vehicle emissions are a major source of air pollution.",
+    "cat": "📰 每日新詞：environmental science"
+  },
+  {
+    "word": "overfishing",
+    "pos": "n.",
+    "root": "over-過度 + fish捕魚",
+    "zh": "過度捕魚",
+    "ex": "Overfishing threatens the sustainability of marine ecosystems.",
+    "cat": "📰 每日新詞：environmental science"
+  },
+  {
+    "word": "fertilizer",
+    "pos": "n.",
+    "root": "fertil-使肥沃 + -izer使者",
+    "zh": "肥料",
+    "ex": "Chemical fertilizers can enhance crop yields but may harm the environment.",
+    "cat": "📰 每日新詞：environmental science"
+  },
+  {
+    "word": "invasive species",
+    "pos": "n.",
+    "root": "invasive入侵的 + species物種",
+    "zh": "入侵物種",
+    "ex": "Invasive species can disrupt local ecosystems and threaten native species.",
+    "cat": "📰 每日新詞：environmental science"
+  },
+  {
+    "word": "thermal pollution",
+    "pos": "n.",
+    "root": "thermal熱的 + pollution污染",
+    "zh": "熱污染",
+    "ex": "Thermal pollution can harm aquatic ecosystems by altering water temperatures.",
+    "cat": "📰 每日新詞：environmental science"
+  },
+  {
+    "word": "nitrogen cycle",
+    "pos": "n.",
+    "root": "nitrogen氮 + cycle循環",
+    "zh": "氮循環",
+    "ex": "The nitrogen cycle is essential for maintaining soil fertility.",
+    "cat": "📰 每日新詞：environmental science"
+  },
+  {
+    "word": "species extinction",
+    "pos": "n.",
+    "root": "species物種 + extinction滅絕",
+    "zh": "物種滅絕",
+    "ex": "Species extinction can lead to irreversible loss of biodiversity.",
+    "cat": "📰 每日新詞：environmental science"
+  },
+  {
+    "word": "organic farming",
+    "pos": "n.",
+    "root": "organic有機的 + farming農業",
+    "zh": "有機農業",
+    "ex": "Organic farming practices promote soil health and reduce chemical use.",
+    "cat": "📰 每日新詞：environmental science"
+  },
+  {
+    "word": "ecosystem resilience",
+    "pos": "n.",
+    "root": "ecosystem生態系統 + resilience韌性",
+    "zh": "生態系統韌性",
+    "ex": "Ecosystem resilience is critical in the face of environmental disturbances.",
+    "cat": "📰 每日新詞：environmental science"
+  },
+  {
+    "word": "water scarcity",
+    "pos": "n.",
+    "root": "water水 + scarcity稀缺",
+    "zh": "水資源短缺",
+    "ex": "Water scarcity poses a significant challenge to global food security.",
+    "cat": "📰 每日新詞：environmental science"
   }
 ]
