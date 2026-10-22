@@ -1,45 +1,45 @@
 {
   "shadowSentences": [
-    "I enjoy reading books on weekends.",
-    "The weather is perfect for a picnic today.",
-    "My favorite hobby is painting landscapes.",
-    "I often cook new recipes for dinner.",
-    "Traveling to new places is always exciting.",
-    "I like to listen to music while studying.",
-    "Walking in the park helps me relax after work.",
-    "Learning a new language can be challenging yet rewarding.",
-    "I believe exercise is essential for a healthy lifestyle.",
-    "Volunteering in my community has taught me valuable lessons."
+    "I enjoy reading books every evening.",
+    "My favorite holiday is Thanksgiving with family.",
+    "On weekends, I like to explore new parks.",
+    "I often cook dinner and try new recipes.",
+    "Traveling to new countries is always exciting for me.",
+    "Listening to music helps me relax after a busy day.",
+    "I enjoy volunteering and helping my local community.",
+    "Attending live music events brings me so much joy each year.",
+    "I love learning about different cultures through their food and traditions.",
+    "Finding time for hobbies is essential for maintaining a balanced life."
   ],
   "interviewScenarios": [
     {
-      "topic": "旅行計畫",
-      "intro": "You have agreed to take part in a research study about travel planning.",
+      "topic": "旅遊經驗",
+      "intro": "You have agreed to take part in a research study about travel experiences.",
       "questions": [
-        "Q1: What is your favorite travel destination and why?",
-        "Q2: What challenges do you face when planning a trip?",
-        "Q3: How important is it to you to plan every detail of a trip?",
-        "Q4: What advice would you give someone who is planning their first trip?"
+        "Q1: Can you share a memorable travel experience you had recently?",
+        "Q2: What challenges did you face while traveling to that destination?",
+        "Q3: How do you think travel impacts a person's perspective on life?",
+        "Q4: What advice would you give to someone planning their first trip abroad?"
       ]
     },
     {
-      "topic": "音樂品味",
-      "intro": "You have agreed to take part in a research study about music preferences.",
+      "topic": "環保行為",
+      "intro": "You have agreed to take part in a research study about eco-friendly behaviors.",
       "questions": [
-        "Q1: What type of music do you enjoy listening to most?",
-        "Q2: Have you ever attended a live concert, and what was it like?",
-        "Q3: How do you think music impacts our emotions?",
-        "Q4: What recommendations would you give to someone exploring new music?"
+        "Q1: What eco-friendly practices do you follow in your daily life?",
+        "Q2: Have you encountered any difficulties in adopting these practices?",
+        "Q3: Why do you believe it is important to live sustainably?",
+        "Q4: What suggestions do you have for someone looking to become more environmentally friendly?"
       ]
     },
     {
-      "topic": "志願服務",
-      "intro": "You have agreed to take part in a research study about volunteer work.",
+      "topic": "學習新技能",
+      "intro": "You have agreed to take part in a research study about learning new skills.",
       "questions": [
-        "Q1: What motivated you to start volunteering?",
-        "Q2: What challenges have you faced while volunteering?",
-        "Q3: In your opinion, how does volunteering benefit the community?",
-        "Q4: What suggestions do you have for someone considering volunteering?"
+        "Q1: What new skill have you recently learned, and what motivated you?",
+        "Q2: What obstacles did you face while trying to master this skill?",
+        "Q3: How do you think learning new skills can benefit personal growth?",
+        "Q4: What tips would you offer to someone who wants to learn a new skill effectively?"
       ]
     }
   ]

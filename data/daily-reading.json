@@ -2,107 +2,101 @@
   "cloze": {
     "segments": [
       {
-        "text": "The concept of artificial intell"
+        "text": "The process of photosynthesis is essential for plant life, where sunlight is converted into chemical energy. It begins when light strikes the chlorophyll in leaves, leading to the absorption of carbon diox"
       },
       {
-        "blank": "igence"
+        "blank": "ide"
       },
       {
-        "text": " has transformed various industries, enabling machines to perform tasks that typically require human cognition. This technology relies heavily on da"
+        "text": ". During this reaction, water is also absorbed from the soil and split into hydrogen and oxygen. The hydrogen combines with carbon dioxide to form glucose, a sugar that serves as the primary food for plants. At the same time, oxygen is re"
       },
       {
-        "blank": "ta"
+        "blank": "leased"
       },
       {
-        "text": " analysis, allowing systems to learn from patterns and make predictions. One of the most significant applications is in the field of medi"
+        "text": " into the atmosphere as a byproduct, which is crucial for the survival of most living organisms on Earth. This entire cycle contributes to the energy flow in ecosystems and plays a significant role in the carbon cycl"
       },
       {
-        "blank": "cine"
+        "blank": "e."
       },
       {
-        "text": ", where AI assists in diagnosing diseases with remarkable accuracy. However, the ethical implications of such advancements raise concerns about p"
-      },
-      {
-        "blank": "rivacy"
-      },
-      {
-        "text": ", accountability, and the potential for job displacement in the workforce."
+        "text": " Moreover, photosynthesis affects the climate by influencing levels of carbon dioxide in the atmosphere, thus impacting global temperature and weather patterns."
       }
     ]
   },
   "academic": {
-    "passage": "Artificial intelligence (AI) has rapidly evolved in recent years, impacting numerous fields such as healthcare, finance, and transportation. By analyzing large datasets, AI systems can identify trends, optimize processes, and enhance decision-making. In healthcare, for instance, AI tools assist in diagnosing illnesses and predicting patient outcomes, thus improving overall treatment efficiency. However, the rise of AI also introduces ethical questions regarding privacy, bias in algorithms, and the potential for job displacement. As AI continues to integrate into daily life, it is crucial to address these challenges to ensure its benefits are equitably distributed.",
+    "passage": "Photosynthesis is a process used by plants to convert light energy into chemical energy, specifically glucose. This process occurs primarily in the chloroplasts of plant cells, where chlorophyll captures sunlight. The importance of photosynthesis extends beyond just plant life; it produces oxygen, which is vital for the respiration of most organisms. In summary, photosynthesis not only fuels plant growth but also supports life on Earth.",
     "questions": [
       {
         "q": "What is the main idea of the passage?",
         "options": [
-          "The impact of AI on various fields",
-          "AI's ethical implications",
-          "How AI is used in healthcare",
-          "AI's evolution over time"
+          "Photosynthesis is crucial for life on Earth.",
+          "Chlorophyll captures sunlight.",
+          "Photosynthesis occurs in the chloroplasts.",
+          "Plant growth is independent of photosynthesis."
         ],
         "correctIndex": 0,
-        "explain": "這段文字的主要思想是人工智能對各個領域的影響。"
+        "explain": "這段文字的主旨是光合作用對地球生命的重要性。"
       },
       {
-        "q": "How does AI contribute to healthcare?",
+        "q": "Where does photosynthesis primarily occur?",
         "options": [
-          "By replacing doctors entirely",
-          "By improving treatment efficiency",
-          "By eliminating medical errors",
-          "By increasing patient data privacy"
-        ],
-        "correctIndex": 1,
-        "explain": "AI在醫療領域的貢獻是提高治療效率。"
-      },
-      {
-        "q": "What can be inferred about the ethical implications of AI?",
-        "options": [
-          "They are largely positive",
-          "They are minimal and manageable",
-          "They raise significant concerns",
-          "They only affect technology companies"
+          "In the leaves.",
+          "In the roots.",
+          "In the chloroplasts.",
+          "In the soil."
         ],
         "correctIndex": 2,
-        "explain": "可以推斷，人工智能的倫理影響引起了重大關注。"
+        "explain": "光合作用主要在葉綠體中進行。"
       },
       {
-        "q": "What does the term 'datasets' refer to in the context of the passage?",
+        "q": "What can be inferred about oxygen's role in photosynthesis?",
         "options": [
-          "Organizations that collect data",
-          "Statistics about AI performance",
-          "Collections of data used for analysis",
-          "Types of algorithms used in AI"
+          "It is the main product of photosynthesis.",
+          "It is used by plants for energy.",
+          "It has no significance to photosynthesis.",
+          "It is detrimental to plant growth."
+        ],
+        "correctIndex": 0,
+        "explain": "氧氣是光合作用的主要產物，對於大多數生物的生存至關重要。"
+      },
+      {
+        "q": "What does the term 'chlorophyll' refer to in the passage?",
+        "options": [
+          "A type of soil.",
+          "Plant food.",
+          "A pigment in plants.",
+          "An energy source."
         ],
         "correctIndex": 2,
-        "explain": "在文中，'datasets'指的是用於分析的數據集合。"
+        "explain": "在這段文字中，'葉綠素'指的是植物中的一種顏色素。"
       }
     ]
   },
   "daily": {
-    "passage": "Attention students: The university library will extend its hours during finals week. From Monday to Friday, the library will be open from 8 AM to midnight to accommodate your studying needs. Please plan accordingly.",
+    "passage": "Attention students! The university library will be closed for maintenance from November 1 to November 5. Please plan your study time accordingly and return all borrowed materials before the closing date.",
     "questions": [
       {
-        "q": "What new hours will the library have during finals week?",
+        "q": "When will the library be closed?",
         "options": [
-          "8 AM to 6 PM",
-          "8 AM to 10 PM",
-          "8 AM to midnight",
-          "24 hours"
+          "From November 1 to November 5.",
+          "From October 30 to November 3.",
+          "Only on November 1.",
+          "Throughout the month of November."
         ],
-        "correctIndex": 2,
-        "explain": "圖書館在期末考周的開放時間是早上8點到午夜。"
+        "correctIndex": 0,
+        "explain": "圖書館將於11月1日至11月5日關閉。"
       },
       {
-        "q": "When will the extended hours be in effect?",
+        "q": "What should students do before the library closes?",
         "options": [
-          "Only on weekends",
-          "Monday to Friday",
-          "All week",
-          "Only during exams"
+          "Start new projects.",
+          "Return borrowed materials.",
+          "Use the library for group work.",
+          "Plan for exams."
         ],
         "correctIndex": 1,
-        "explain": "延長的開放時間從星期一到星期五生效。"
+        "explain": "學生應在圖書館關閉之前歸還借用的資料。"
       }
     ]
   }

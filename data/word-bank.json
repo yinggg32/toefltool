@@ -9838,5 +9838,61 @@
     "zh": "水資源短缺",
     "ex": "Water scarcity poses a significant challenge to global food security.",
     "cat": "📰 每日新詞：environmental science"
+  },
+  {
+    "word": "expenditure",
+    "pos": "n.",
+    "root": "支出—expenditure",
+    "zh": "支出",
+    "ex": "Government expenditure on infrastructure can boost economic activity.",
+    "cat": "📰 每日新詞：economics"
+  },
+  {
+    "word": "employ",
+    "pos": "v.",
+    "root": "雇用—employ",
+    "zh": "雇用",
+    "ex": "Employing more workers can lead to increased productivity.",
+    "cat": "📰 每日新詞：economics"
+  },
+  {
+    "word": "asset",
+    "pos": "n.",
+    "root": "資產—asset",
+    "zh": "資產",
+    "ex": "Real estate is considered a valuable asset in economic terms.",
+    "cat": "📰 每日新詞：economics"
+  },
+  {
+    "word": "liability",
+    "pos": "n.",
+    "root": "負債—liability",
+    "zh": "負債",
+    "ex": "Liabilities must be managed carefully to maintain financial health.",
+    "cat": "📰 每日新詞：economics"
+  },
+  {
+    "word": "demand-pull",
+    "pos": "adj.",
+    "root": "需求拉動—demand-pull",
+    "zh": "需求拉動",
+    "ex": "Demand-pull inflation occurs when demand exceeds supply.",
+    "cat": "📰 每日新詞：economics"
+  },
+  {
+    "word": "cost-benefit",
+    "pos": "adj.",
+    "root": "成本效益—cost-benefit",
+    "zh": "成本效益",
+    "ex": "A cost-benefit analysis can help determine the viability of a project.",
+    "cat": "📰 每日新詞：economics"
+  },
+  {
+    "word": "utilize",
+    "pos": "v.",
+    "root": "利用—utilize",
+    "zh": "利用",
+    "ex": "Economists aim to utilize resources efficiently to maximize output.",
+    "cat": "📰 每日新詞：economics"
   }
 ]

@@ -1,116 +1,116 @@
 {
   "chooseResponse": [
     {
-      "q": "What did you think of the movie?",
+      "q": "What did you think of the lecture?",
       "options": [
-        "It was amazing!",
-        "I didn't like it.",
-        "It was too long.",
-        "The actors were great."
+        "It was very informative.",
+        "Not much interesting.",
+        "I didn't understand it.",
+        "It was too long."
       ],
       "correctIndex": 0
     }
   ],
   "conversation": {
-    "transcript": "Student: Hey, did you see the new movie that came out last weekend?\nAdvisor: Yes, I did! What did you think of it?\nStudent: I thought it was incredible! The special effects were stunning.\nAdvisor: I agree! The storyline was a bit predictable, though.",
+    "transcript": "Student: Hey, did you go to the art exhibition last night?\nAdvisor: Yes, I did! It was really impressive. What about you?\nStudent: I couldn't make it. What was your favorite piece?\nAdvisor: There was a stunning painting of a sunset. The colors were so vibrant!",
     "questions": [
       {
-        "q": "What is the student's opinion of the movie?",
+        "q": "What did the student miss?",
         "options": [
-          "They loved it.",
-          "They hated it.",
-          "They found it boring.",
-          "They were confused."
-        ],
-        "correctIndex": 0,
-        "explain": "學生對這部電影的評價是正面的，表示非常喜歡。"
-      },
-      {
-        "q": "What does the advisor think about the storyline?",
-        "options": [
-          "It was original.",
-          "It was predictable.",
-          "It was too complicated.",
-          "It was boring."
+          "A movie premiere.",
+          "An art exhibition.",
+          "A concert.",
+          "A lecture."
         ],
         "correctIndex": 1,
-        "explain": "顧問認為劇情有些可預測，這是他對電影的一個看法。"
+        "explain": "學生錯過了一個藝術展覽。"
+      },
+      {
+        "q": "What impressed the advisor about the exhibition?",
+        "options": [
+          "The sculptures were large.",
+          "The sunset painting's colors.",
+          "The number of visitors.",
+          "The entry fee was low."
+        ],
+        "correctIndex": 1,
+        "explain": "顧問對展覽的日落畫作的顏色印象深刻。"
       }
     ]
   },
   "announcement": {
-    "transcript": "Attention students! The annual Spring Festival will be held on March 15th in the main courtyard. There will be food, games, and live performances. Make sure to bring your friends and enjoy a day of fun and entertainment. We hope to see everyone there!",
+    "transcript": "Attention students: The campus library will be closing early today at 4 PM for maintenance. Please plan your studies accordingly and make sure to borrow any materials you need before then. Thank you for your understanding.",
     "questions": [
       {
-        "q": "What is the date of the Spring Festival?",
+        "q": "Why is the library closing early?",
         "options": [
-          "March 15th",
-          "April 1st",
-          "May 10th",
-          "June 20th"
+          "For a special event.",
+          "For maintenance work.",
+          "Due to weather conditions.",
+          "For an inventory check."
         ],
-        "correctIndex": 0,
-        "explain": "春季慶典的日期是三月十五日。"
+        "correctIndex": 1,
+        "explain": "圖書館因維護工作而提前關閉。"
       },
       {
-        "q": "What activities will be available at the festival?",
+        "q": "What time will the library close today?",
         "options": [
-          "Only food stalls.",
-          "Only games.",
-          "Food, games, and performances.",
-          "No activities planned."
+          "5 PM",
+          "6 PM",
+          "4 PM",
+          "3 PM"
         ],
         "correctIndex": 2,
-        "explain": "慶典將包括食物、遊戲和現場表演等多種活動。"
+        "explain": "圖書館今天將於下午4點關閉。"
       }
     ]
   },
   "talk": {
-    "transcript": "Today, we will discuss the concept of sustainability. Sustainability refers to meeting our own needs without compromising the ability of future generations to meet theirs. It involves three main pillars: environmental protection, social equity, and economic viability. By adopting sustainable practices, we can ensure that resources are available for future use. This includes using renewable energy, reducing waste, and supporting fair trade. Implementing these practices not only helps the planet but also fosters a better society. As we move forward, it is crucial to incorporate sustainability into our daily lives and decision-making processes.",
+    "transcript": "Today, we will explore the concept of biomimicry. Biomimicry is an innovative approach to design and engineering that looks at nature's models, systems, and processes to inspire solutions to human challenges. For example, architects might study termite mounds for energy-efficient building designs, while engineers could look at how lotus leaves repel water to create self-cleaning surfaces. This approach not only promotes sustainability but also encourages us to learn from the wisdom of nature, leading to more efficient, effective solutions. By observing and emulating natural processes, we can develop technologies that align with ecological principles, ensuring a healthier planet for future generations.",
     "questions": [
       {
-        "q": "What does sustainability aim to achieve?",
+        "q": "What is biomimicry primarily focused on?",
         "options": [
-          "Protect future generations' needs.",
-          "Increase economic inequality.",
-          "Deplete natural resources.",
-          "Focus only on social issues."
-        ],
-        "correctIndex": 0,
-        "explain": "可持續性旨在滿足我們的需求，同時不妨礙未來世代的需求。"
-      },
-      {
-        "q": "Which of the following is NOT one of the three main pillars of sustainability?",
-        "options": [
-          "Environmental protection",
-          "Social equity",
-          "Economic viability",
-          "Technological advancement"
-        ],
-        "correctIndex": 3,
-        "explain": "技術進步不是可持續性的三大支柱之一。"
-      },
-      {
-        "q": "What is one example of a sustainable practice mentioned?",
-        "options": [
-          "Using fossil fuels.",
-          "Reducing waste.",
-          "Increasing plastic use.",
-          "Ignoring social equity."
-        ],
-        "correctIndex": 1,
-        "explain": "減少浪費是講座中提到的一個可持續做法。"
-      },
-      {
-        "q": "Why is it important to incorporate sustainability into daily life?",
-        "options": [
-          "To improve only economic status.",
-          "To ignore future needs.",
-          "To ensure resource availability for the future.",
-          "To focus on individual gain."
+          "Studying human behavior.",
+          "Creating digital technologies.",
+          "Observing and emulating nature.",
+          "Developing new languages."
         ],
         "correctIndex": 2,
-        "explain": "將可持續性融入日常生活是為了確保未來資源的可用性。"
+        "explain": "生物模仿主要集中於觀察和模仿自然。"
+      },
+      {
+        "q": "What can architects learn from termite mounds?",
+        "options": [
+          "How to build taller structures.",
+          "Energy-efficient building designs.",
+          "Decorative patterns for buildings.",
+          "How to attract tourists."
+        ],
+        "correctIndex": 1,
+        "explain": "建築師可以從白蟻丘中學習到節能建築設計。"
+      },
+      {
+        "q": "What does biomimicry encourage us to learn from?",
+        "options": [
+          "Technology advancements.",
+          "The wisdom of nature.",
+          "Human creativity.",
+          "Historical events."
+        ],
+        "correctIndex": 1,
+        "explain": "生物模仿鼓勵我們向自然的智慧學習。"
+      },
+      {
+        "q": "What is one benefit of biomimicry mentioned?",
+        "options": [
+          "It reduces costs significantly.",
+          "It promotes sustainability.",
+          "It enhances entertainment value.",
+          "It simplifies technology."
+        ],
+        "correctIndex": 1,
+        "explain": "生物模仿促進了可持續發展。"
       }
     ]
   }
