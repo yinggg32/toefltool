@@ -9894,5 +9894,29 @@
     "zh": "利用",
     "ex": "Economists aim to utilize resources efficiently to maximize output.",
     "cat": "📰 每日新詞：economics"
+  },
+  {
+    "word": "emotional intelligence",
+    "pos": "n.",
+    "root": "emotion-情感, al-的, intelligence智力",
+    "zh": "情緒智力",
+    "ex": "Emotional intelligence is essential for effective interpersonal communication.",
+    "cat": "📰 每日新詞：psychology"
+  },
+  {
+    "word": "cognitive therapy",
+    "pos": "n.",
+    "root": "cogn-認知, -itive形容詞, therapy療法",
+    "zh": "認知療法",
+    "ex": "Cognitive therapy focuses on changing maladaptive thinking patterns.",
+    "cat": "📰 每日新詞：psychology"
+  },
+  {
+    "word": "mindfulness",
+    "pos": "n.",
+    "root": "mind-心智, -fulness狀態",
+    "zh": "正念",
+    "ex": "Mindfulness practices can enhance psychological well-being and reduce stress.",
+    "cat": "📰 每日新詞：psychology"
   }
 ]

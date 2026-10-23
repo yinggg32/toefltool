@@ -1,45 +1,45 @@
 {
   "shadowSentences": [
-    "I enjoy reading books every evening.",
-    "My favorite holiday is Thanksgiving with family.",
-    "On weekends, I like to explore new parks.",
-    "I often cook dinner and try new recipes.",
-    "Traveling to new countries is always exciting for me.",
-    "Listening to music helps me relax after a busy day.",
-    "I enjoy volunteering and helping my local community.",
-    "Attending live music events brings me so much joy each year.",
-    "I love learning about different cultures through their food and traditions.",
-    "Finding time for hobbies is essential for maintaining a balanced life."
+    "I enjoy reading books in my free time.",
+    "The weather today is quite nice and sunny.",
+    "My favorite sport to play with friends is soccer.",
+    "Cooking new recipes can be very exciting and fun.",
+    "Traveling to new places always broadens my perspective.",
+    "Listening to music helps me relax after a long day.",
+    "Exercising regularly is important for maintaining good health.",
+    "Volunteering in my community gives me a sense of purpose.",
+    "Taking online courses can greatly enhance your skills and knowledge.",
+    "Participating in group discussions improves your ability to communicate effectively."
   ],
   "interviewScenarios": [
     {
-      "topic": "旅遊經驗",
-      "intro": "You have agreed to take part in a research study about travel experiences.",
+      "topic": "學習語言",
+      "intro": "You have agreed to take part in a research study about learning languages.",
       "questions": [
-        "Q1: Can you share a memorable travel experience you had recently?",
-        "Q2: What challenges did you face while traveling to that destination?",
-        "Q3: How do you think travel impacts a person's perspective on life?",
-        "Q4: What advice would you give to someone planning their first trip abroad?"
+        "Q1: What languages have you learned or are currently learning?",
+        "Q2: What challenges have you faced while learning a new language?",
+        "Q3: In your opinion, what is the best way to learn a language?",
+        "Q4: What advice would you give to someone starting to learn a new language?"
       ]
     },
     {
       "topic": "環保行為",
       "intro": "You have agreed to take part in a research study about eco-friendly behaviors.",
       "questions": [
-        "Q1: What eco-friendly practices do you follow in your daily life?",
-        "Q2: Have you encountered any difficulties in adopting these practices?",
-        "Q3: Why do you believe it is important to live sustainably?",
-        "Q4: What suggestions do you have for someone looking to become more environmentally friendly?"
+        "Q1: What eco-friendly habits do you practice in your daily life?",
+        "Q2: Have you encountered any difficulties in maintaining those habits?",
+        "Q3: How important do you think it is to be environmentally conscious?",
+        "Q4: What suggestions would you give to others wanting to adopt eco-friendly practices?"
       ]
     },
     {
-      "topic": "學習新技能",
-      "intro": "You have agreed to take part in a research study about learning new skills.",
+      "topic": "運動習慣",
+      "intro": "You have agreed to take part in a research study about exercise habits.",
       "questions": [
-        "Q1: What new skill have you recently learned, and what motivated you?",
-        "Q2: What obstacles did you face while trying to master this skill?",
-        "Q3: How do you think learning new skills can benefit personal growth?",
-        "Q4: What tips would you offer to someone who wants to learn a new skill effectively?"
+        "Q1: What kinds of exercise do you enjoy doing most?",
+        "Q2: What barriers do you face when trying to stay active?",
+        "Q3: Why do you think physical fitness is important for everyone?",
+        "Q4: What tips can you provide for someone looking to develop a regular exercise routine?"
       ]
     }
   ]

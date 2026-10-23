@@ -1,116 +1,116 @@
 {
   "chooseResponse": [
     {
-      "q": "What did you think of the lecture?",
+      "q": "What's the best way to study for finals?",
       "options": [
-        "It was very informative.",
-        "Not much interesting.",
-        "I didn't understand it.",
-        "It was too long."
+        "Start early and review notes",
+        "Just cram the night before",
+        "Only study in groups",
+        "Take lots of breaks"
       ],
       "correctIndex": 0
     }
   ],
   "conversation": {
-    "transcript": "Student: Hey, did you go to the art exhibition last night?\nAdvisor: Yes, I did! It was really impressive. What about you?\nStudent: I couldn't make it. What was your favorite piece?\nAdvisor: There was a stunning painting of a sunset. The colors were so vibrant!",
+    "transcript": "Student: Hey, have you thought about what you're doing for finals? \nAdvisor: Yeah, I’m planning to start studying next week. What about you? \nStudent: I haven’t really figured it out yet. I might just wait until the last minute. \nAdvisor: I wouldn’t recommend that. Starting early helps a lot.",
     "questions": [
       {
-        "q": "What did the student miss?",
+        "q": "What does the advisor suggest?",
         "options": [
-          "A movie premiere.",
-          "An art exhibition.",
-          "A concert.",
-          "A lecture."
+          "Start studying early",
+          "Cram the night before",
+          "Study only in groups",
+          "Take breaks during studying"
         ],
-        "correctIndex": 1,
-        "explain": "學生錯過了一個藝術展覽。"
+        "correctIndex": 0,
+        "explain": "顧問建議早點開始準備考試。"
       },
       {
-        "q": "What impressed the advisor about the exhibition?",
+        "q": "How does the student feel about studying?",
         "options": [
-          "The sculptures were large.",
-          "The sunset painting's colors.",
-          "The number of visitors.",
-          "The entry fee was low."
+          "Confident",
+          "Indecisive",
+          "Excited",
+          "Overwhelmed"
         ],
         "correctIndex": 1,
-        "explain": "顧問對展覽的日落畫作的顏色印象深刻。"
+        "explain": "學生對於學習感到不確定。"
       }
     ]
   },
   "announcement": {
-    "transcript": "Attention students: The campus library will be closing early today at 4 PM for maintenance. Please plan your studies accordingly and make sure to borrow any materials you need before then. Thank you for your understanding.",
+    "transcript": "Attention all students: The library will be open extended hours during finals week, from 8 AM to midnight. Please take advantage of this time to study and prepare for your exams. We wish you the best of luck!",
     "questions": [
       {
-        "q": "Why is the library closing early?",
+        "q": "When will the library be open?",
         "options": [
-          "For a special event.",
-          "For maintenance work.",
-          "Due to weather conditions.",
-          "For an inventory check."
+          "8 AM to midnight",
+          "9 AM to 10 PM",
+          "8 AM to 10 PM",
+          "All night"
         ],
-        "correctIndex": 1,
-        "explain": "圖書館因維護工作而提前關閉。"
+        "correctIndex": 0,
+        "explain": "圖書館在期末考週的開放時間是早上八點到午夜。"
       },
       {
-        "q": "What time will the library close today?",
+        "q": "What is the purpose of the announcement?",
         "options": [
-          "5 PM",
-          "6 PM",
-          "4 PM",
-          "3 PM"
+          "To inform about library hours",
+          "To announce a new library policy",
+          "To promote a study group",
+          "To introduce new staff"
         ],
-        "correctIndex": 2,
-        "explain": "圖書館今天將於下午4點關閉。"
+        "correctIndex": 0,
+        "explain": "公告是為了通知學生圖書館的開放時間。"
       }
     ]
   },
   "talk": {
-    "transcript": "Today, we will explore the concept of biomimicry. Biomimicry is an innovative approach to design and engineering that looks at nature's models, systems, and processes to inspire solutions to human challenges. For example, architects might study termite mounds for energy-efficient building designs, while engineers could look at how lotus leaves repel water to create self-cleaning surfaces. This approach not only promotes sustainability but also encourages us to learn from the wisdom of nature, leading to more efficient, effective solutions. By observing and emulating natural processes, we can develop technologies that align with ecological principles, ensuring a healthier planet for future generations.",
+    "transcript": "Today, I want to discuss the concept of photosynthesis. Photosynthesis is the process by which green plants and some other organisms convert light energy into chemical energy. This typically occurs in the chloroplasts of plant cells, where sunlight is absorbed by chlorophyll. During this process, plants take in carbon dioxide from the air and water from the soil, and through a series of reactions, they produce glucose and oxygen. This is not only vital for the plants themselves but also essential for life on Earth, as it provides oxygen for us to breathe and food for many organisms.",
     "questions": [
       {
-        "q": "What is biomimicry primarily focused on?",
+        "q": "What is photosynthesis?",
         "options": [
-          "Studying human behavior.",
-          "Creating digital technologies.",
-          "Observing and emulating nature.",
-          "Developing new languages."
+          "A process of energy conversion",
+          "A type of cellular respiration",
+          "A method of plant reproduction",
+          "A form of animal digestion"
+        ],
+        "correctIndex": 0,
+        "explain": "光合作用是將光能轉換為化學能的過程。"
+      },
+      {
+        "q": "Where does photosynthesis occur?",
+        "options": [
+          "In the roots",
+          "In the chloroplasts",
+          "In the soil",
+          "In the flowers"
+        ],
+        "correctIndex": 1,
+        "explain": "光合作用發生在植物細胞的葉綠體中。"
+      },
+      {
+        "q": "What do plants produce during photosynthesis?",
+        "options": [
+          "Carbon dioxide and glucose",
+          "Oxygen and glucose",
+          "Water and oxygen",
+          "Nitrogen and glucose"
+        ],
+        "correctIndex": 1,
+        "explain": "植物在光合作用中產生葡萄糖和氧氣。"
+      },
+      {
+        "q": "Why is photosynthesis important?",
+        "options": [
+          "It provides energy for animals",
+          "It creates soil nutrients",
+          "It produces food and oxygen",
+          "It prevents soil erosion"
         ],
         "correctIndex": 2,
-        "explain": "生物模仿主要集中於觀察和模仿自然。"
-      },
-      {
-        "q": "What can architects learn from termite mounds?",
-        "options": [
-          "How to build taller structures.",
-          "Energy-efficient building designs.",
-          "Decorative patterns for buildings.",
-          "How to attract tourists."
-        ],
-        "correctIndex": 1,
-        "explain": "建築師可以從白蟻丘中學習到節能建築設計。"
-      },
-      {
-        "q": "What does biomimicry encourage us to learn from?",
-        "options": [
-          "Technology advancements.",
-          "The wisdom of nature.",
-          "Human creativity.",
-          "Historical events."
-        ],
-        "correctIndex": 1,
-        "explain": "生物模仿鼓勵我們向自然的智慧學習。"
-      },
-      {
-        "q": "What is one benefit of biomimicry mentioned?",
-        "options": [
-          "It reduces costs significantly.",
-          "It promotes sustainability.",
-          "It enhances entertainment value.",
-          "It simplifies technology."
-        ],
-        "correctIndex": 1,
-        "explain": "生物模仿促進了可持續發展。"
+        "explain": "光合作用對於生命至關重要，因為它提供食物和氧氣。"
       }
     ]
   }

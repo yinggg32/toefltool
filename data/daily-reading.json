@@ -2,101 +2,113 @@
   "cloze": {
     "segments": [
       {
-        "text": "The process of photosynthesis is essential for plant life, where sunlight is converted into chemical energy. It begins when light strikes the chlorophyll in leaves, leading to the absorption of carbon diox"
+        "text": "The human brain is a highly complex organ that plays a crucial role in "
       },
       {
-        "blank": "ide"
+        "blank": "cognitive"
       },
       {
-        "text": ". During this reaction, water is also absorbed from the soil and split into hydrogen and oxygen. The hydrogen combines with carbon dioxide to form glucose, a sugar that serves as the primary food for plants. At the same time, oxygen is re"
+        "text": "functioning. It consists of billions of neurons, which communicate through electrical "
       },
       {
-        "blank": "leased"
+        "blank": "impul"
       },
       {
-        "text": " into the atmosphere as a byproduct, which is crucial for the survival of most living organisms on Earth. This entire cycle contributes to the energy flow in ecosystems and plays a significant role in the carbon cycl"
+        "text": "ses. One of the fascinating aspects of the brain is its ability to "
       },
       {
-        "blank": "e."
+        "blank": "plasti"
       },
       {
-        "text": " Moreover, photosynthesis affects the climate by influencing levels of carbon dioxide in the atmosphere, thus impacting global temperature and weather patterns."
+        "text": "city, which refers to the brain's capacity to adapt and reorganize itself. This is essential for "
+      },
+      {
+        "blank": "learni"
+      },
+      {
+        "text": "ng new skills and recovering from injuries. Neuroplasticity occurs throughout a person's life and is influenced by "
+      },
+      {
+        "blank": "environ"
+      },
+      {
+        "text": "mental factors. Research suggests that engaging in challenging activities can enhance brain health."
       }
     ]
   },
   "academic": {
-    "passage": "Photosynthesis is a process used by plants to convert light energy into chemical energy, specifically glucose. This process occurs primarily in the chloroplasts of plant cells, where chlorophyll captures sunlight. The importance of photosynthesis extends beyond just plant life; it produces oxygen, which is vital for the respiration of most organisms. In summary, photosynthesis not only fuels plant growth but also supports life on Earth.",
+    "passage": "The study of neuroplasticity explores how the brain changes in response to learning experiences and injuries. It highlights that the brain is not static but rather dynamic, capable of forming new connections. For instance, when individuals practice a skill repeatedly, such as playing a musical instrument, their brain structure can alter to accommodate this new information. Such findings have significant implications for rehabilitation after brain injuries, suggesting that targeted cognitive exercises can aid recovery. Overall, neuroplasticity emphasizes the importance of lifelong learning and mental activity for maintaining cognitive health.",
     "questions": [
       {
         "q": "What is the main idea of the passage?",
         "options": [
-          "Photosynthesis is crucial for life on Earth.",
-          "Chlorophyll captures sunlight.",
-          "Photosynthesis occurs in the chloroplasts.",
-          "Plant growth is independent of photosynthesis."
+          "Neuroplasticity enables the brain to adapt and change.",
+          "Neuroplasticity is only relevant for brain injuries.",
+          "The brain does not change over time.",
+          "Playing instruments is the best way to improve intelligence."
         ],
         "correctIndex": 0,
-        "explain": "這段文字的主旨是光合作用對地球生命的重要性。"
+        "explain": "這段文字的主要概念是神經可塑性使大腦能夠適應和改變。"
       },
       {
-        "q": "Where does photosynthesis primarily occur?",
+        "q": "What can influence neuroplasticity according to the passage?",
         "options": [
-          "In the leaves.",
-          "In the roots.",
-          "In the chloroplasts.",
-          "In the soil."
+          "Genetic factors only.",
+          "Environmental and cognitive factors.",
+          "Age as a sole factor.",
+          "Physical exercise exclusively."
         ],
-        "correctIndex": 2,
-        "explain": "光合作用主要在葉綠體中進行。"
+        "correctIndex": 1,
+        "explain": "文中提到環境和認知因素會影響神經可塑性。"
       },
       {
-        "q": "What can be inferred about oxygen's role in photosynthesis?",
+        "q": "What can be inferred about lifelong learning from the passage?",
         "options": [
-          "It is the main product of photosynthesis.",
-          "It is used by plants for energy.",
-          "It has no significance to photosynthesis.",
-          "It is detrimental to plant growth."
+          "It is unnecessary for brain health.",
+          "It contributes positively to cognitive health.",
+          "It only matters during childhood.",
+          "It leads to brain deterioration."
         ],
-        "correctIndex": 0,
-        "explain": "氧氣是光合作用的主要產物，對於大多數生物的生存至關重要。"
+        "correctIndex": 1,
+        "explain": "可以推測，終身學習對於保持認知健康是有正面貢獻的。"
       },
       {
-        "q": "What does the term 'chlorophyll' refer to in the passage?",
+        "q": "What does the term 'neuroplasticity' refer to in the context of the passage?",
         "options": [
-          "A type of soil.",
-          "Plant food.",
-          "A pigment in plants.",
-          "An energy source."
+          "The brain's ability to remain unchanged.",
+          "The brain's capacity to adapt and reorganize.",
+          "The brain's structure after injury.",
+          "The brain's dependency on genetic factors."
         ],
-        "correctIndex": 2,
-        "explain": "在這段文字中，'葉綠素'指的是植物中的一種顏色素。"
+        "correctIndex": 1,
+        "explain": "在這段文字中，'神經可塑性'指的是大腦的適應和重組能力。"
       }
     ]
   },
   "daily": {
-    "passage": "Attention students! The university library will be closed for maintenance from November 1 to November 5. Please plan your study time accordingly and return all borrowed materials before the closing date.",
+    "passage": "Attention students: The campus library will be closed for maintenance from Monday to Wednesday next week. Please plan accordingly and check online resources during this time.",
     "questions": [
       {
         "q": "When will the library be closed?",
         "options": [
-          "From November 1 to November 5.",
-          "From October 30 to November 3.",
-          "Only on November 1.",
-          "Throughout the month of November."
+          "From Monday to Wednesday next week.",
+          "Only on Monday next week.",
+          "From Wednesday to Friday next week.",
+          "Throughout the entire month."
         ],
         "correctIndex": 0,
-        "explain": "圖書館將於11月1日至11月5日關閉。"
+        "explain": "公告中指出圖書館將在下週的星期一到星期三關閉。"
       },
       {
-        "q": "What should students do before the library closes?",
+        "q": "What should students do during the closure?",
         "options": [
-          "Start new projects.",
-          "Return borrowed materials.",
-          "Use the library for group work.",
-          "Plan for exams."
+          "Visit other campuses.",
+          "Check online resources.",
+          "Attend classes in the library.",
+          "Ignore the closure."
         ],
         "correctIndex": 1,
-        "explain": "學生應在圖書館關閉之前歸還借用的資料。"
+        "explain": "公告建議學生在閉館期間查閱線上資源。"
       }
     ]
   }
