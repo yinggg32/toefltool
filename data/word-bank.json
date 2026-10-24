@@ -9918,5 +9918,37 @@
     "zh": "正念",
     "ex": "Mindfulness practices can enhance psychological well-being and reduce stress.",
     "cat": "📰 每日新詞：psychology"
+  },
+  {
+    "word": "data-driven",
+    "pos": "adj.",
+    "root": "data—數據，driven—驅動的",
+    "zh": "數據驅動的",
+    "ex": "Data-driven decision-making improves organizational effectiveness.",
+    "cat": "📰 每日新詞：technology and innovation"
+  },
+  {
+    "word": "modular",
+    "pos": "adj.",
+    "root": "modul-—模塊",
+    "zh": "模塊化的",
+    "ex": "Modular design allows for flexibility in technology development.",
+    "cat": "📰 每日新詞：technology and innovation"
+  },
+  {
+    "word": "augmented",
+    "pos": "adj.",
+    "root": "augment—增強",
+    "zh": "增強的",
+    "ex": "Augmented reality applications are changing the way we interact with the world.",
+    "cat": "📰 每日新詞：technology and innovation"
+  },
+  {
+    "word": "cyberspace",
+    "pos": "n.",
+    "root": "cyber-—網路，space—空間",
+    "zh": "網路空間",
+    "ex": "Cyberspace has become a crucial domain for communication.",
+    "cat": "📰 每日新詞：technology and innovation"
   }
 ]

@@ -1,116 +1,116 @@
 {
   "chooseResponse": [
     {
-      "q": "What's the best way to study for finals?",
+      "q": "Would you like to join the study group?",
       "options": [
-        "Start early and review notes",
-        "Just cram the night before",
-        "Only study in groups",
-        "Take lots of breaks"
+        "Sure, that sounds great!",
+        "No, I have other plans.",
+        "Maybe next time.",
+        "I need to think about it."
       ],
       "correctIndex": 0
     }
   ],
   "conversation": {
-    "transcript": "Student: Hey, have you thought about what you're doing for finals? \nAdvisor: Yeah, I’m planning to start studying next week. What about you? \nStudent: I haven’t really figured it out yet. I might just wait until the last minute. \nAdvisor: I wouldn’t recommend that. Starting early helps a lot.",
+    "transcript": "Student: Hey, did you hear about the guest lecture this Friday?\nAdvisor: Yes, I did! It's on environmental sustainability, right?\nStudent: Exactly! I think it will be really interesting.\nAdvisor: I agree. Are you planning to attend?",
     "questions": [
       {
-        "q": "What does the advisor suggest?",
+        "q": "What is the topic of the guest lecture?",
         "options": [
-          "Start studying early",
-          "Cram the night before",
-          "Study only in groups",
-          "Take breaks during studying"
+          "Environmental sustainability",
+          "Computer programming",
+          "Art history",
+          "Quantum physics"
         ],
         "correctIndex": 0,
-        "explain": "顧問建議早點開始準備考試。"
+        "explain": "這次講座的主題是環境可持續性。"
       },
       {
-        "q": "How does the student feel about studying?",
+        "q": "When is the guest lecture scheduled?",
         "options": [
-          "Confident",
-          "Indecisive",
-          "Excited",
-          "Overwhelmed"
+          "This Thursday",
+          "Next Monday",
+          "This Friday",
+          "Next Wednesday"
         ],
-        "correctIndex": 1,
-        "explain": "學生對於學習感到不確定。"
+        "correctIndex": 2,
+        "explain": "講座定於本週五舉行。"
       }
     ]
   },
   "announcement": {
-    "transcript": "Attention all students: The library will be open extended hours during finals week, from 8 AM to midnight. Please take advantage of this time to study and prepare for your exams. We wish you the best of luck!",
+    "transcript": "Attention students! The library will be closed this Saturday for maintenance. Please plan accordingly and make sure to check out any materials you need before then. Thank you for your understanding.",
     "questions": [
       {
-        "q": "When will the library be open?",
+        "q": "Why will the library be closed?",
         "options": [
-          "8 AM to midnight",
-          "9 AM to 10 PM",
-          "8 AM to 10 PM",
-          "All night"
+          "For a special event",
+          "For maintenance",
+          "For renovations",
+          "For inventory"
         ],
-        "correctIndex": 0,
-        "explain": "圖書館在期末考週的開放時間是早上八點到午夜。"
+        "correctIndex": 1,
+        "explain": "圖書館將於本週六關閉以進行維護。"
       },
       {
-        "q": "What is the purpose of the announcement?",
+        "q": "When should students check out materials?",
         "options": [
-          "To inform about library hours",
-          "To announce a new library policy",
-          "To promote a study group",
-          "To introduce new staff"
+          "Before Saturday",
+          "After Saturday",
+          "On Friday only",
+          "Anytime next week"
         ],
         "correctIndex": 0,
-        "explain": "公告是為了通知學生圖書館的開放時間。"
+        "explain": "學生應在週六之前借出需要的材料。"
       }
     ]
   },
   "talk": {
-    "transcript": "Today, I want to discuss the concept of photosynthesis. Photosynthesis is the process by which green plants and some other organisms convert light energy into chemical energy. This typically occurs in the chloroplasts of plant cells, where sunlight is absorbed by chlorophyll. During this process, plants take in carbon dioxide from the air and water from the soil, and through a series of reactions, they produce glucose and oxygen. This is not only vital for the plants themselves but also essential for life on Earth, as it provides oxygen for us to breathe and food for many organisms.",
+    "transcript": "Today, we will discuss the concept of cultural relativism. This idea suggests that a person's beliefs and practices should be understood based on their own culture, rather than be judged against the criteria of another culture. Cultural relativism promotes understanding and tolerance among different societies. For instance, what is considered polite in one culture may be seen as rude in another. By acknowledging these differences, we can foster better communication and reduce cultural misunderstandings. Understanding cultural relativism is essential for anyone working in diverse environments, as it shapes how we interact with others.",
     "questions": [
       {
-        "q": "What is photosynthesis?",
+        "q": "What does cultural relativism emphasize?",
         "options": [
-          "A process of energy conversion",
-          "A type of cellular respiration",
-          "A method of plant reproduction",
-          "A form of animal digestion"
-        ],
-        "correctIndex": 0,
-        "explain": "光合作用是將光能轉換為化學能的過程。"
-      },
-      {
-        "q": "Where does photosynthesis occur?",
-        "options": [
-          "In the roots",
-          "In the chloroplasts",
-          "In the soil",
-          "In the flowers"
+          "Judging cultures against one another",
+          "Understanding cultures in their own context",
+          "Ignoring cultural differences",
+          "Promoting one culture over others"
         ],
         "correctIndex": 1,
-        "explain": "光合作用發生在植物細胞的葉綠體中。"
+        "explain": "文化相對主義強調在自己的文化背景下理解文化。"
       },
       {
-        "q": "What do plants produce during photosynthesis?",
+        "q": "Why is cultural relativism important?",
         "options": [
-          "Carbon dioxide and glucose",
-          "Oxygen and glucose",
-          "Water and oxygen",
-          "Nitrogen and glucose"
-        ],
-        "correctIndex": 1,
-        "explain": "植物在光合作用中產生葡萄糖和氧氣。"
-      },
-      {
-        "q": "Why is photosynthesis important?",
-        "options": [
-          "It provides energy for animals",
-          "It creates soil nutrients",
-          "It produces food and oxygen",
-          "It prevents soil erosion"
+          "It leads to cultural dominance",
+          "It encourages cultural misunderstandings",
+          "It fosters understanding and tolerance",
+          "It simplifies cultural interactions"
         ],
         "correctIndex": 2,
-        "explain": "光合作用對於生命至關重要，因為它提供食物和氧氣。"
+        "explain": "文化相對主義促進了不同社會之間的理解和包容。"
+      },
+      {
+        "q": "What example is given to illustrate cultural differences?",
+        "options": [
+          "Language barriers",
+          "Food preferences",
+          "Politeness norms",
+          "Fashion trends"
+        ],
+        "correctIndex": 2,
+        "explain": "用於說明文化差異的例子是禮貌的標準。"
+      },
+      {
+        "q": "Who can benefit from understanding cultural relativism?",
+        "options": [
+          "Only anthropologists",
+          "Anyone in diverse environments",
+          "Only students studying culture",
+          "Only travelers"
+        ],
+        "correctIndex": 1,
+        "explain": "任何在多元環境中工作的人都能受益於理解文化相對主義。"
       }
     ]
   }

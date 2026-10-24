@@ -1,45 +1,45 @@
 {
   "shadowSentences": [
-    "I enjoy reading books in my free time.",
-    "The weather today is quite nice and sunny.",
-    "My favorite sport to play with friends is soccer.",
-    "Cooking new recipes can be very exciting and fun.",
-    "Traveling to new places always broadens my perspective.",
-    "Listening to music helps me relax after a long day.",
-    "Exercising regularly is important for maintaining good health.",
-    "Volunteering in my community gives me a sense of purpose.",
-    "Taking online courses can greatly enhance your skills and knowledge.",
-    "Participating in group discussions improves your ability to communicate effectively."
+    "I enjoy reading books every evening.",
+    "The weather is beautiful today, isn't it?",
+    "Eating healthy food is important for everyone.",
+    "I prefer tea over coffee in the morning.",
+    "Walking in the park helps me relax after work.",
+    "Traveling to new places opens your mind to culture.",
+    "Spending time with friends brings joy to my life.",
+    "Having a hobby can improve your mental health significantly.",
+    "Playing a musical instrument can be a rewarding experience.",
+    "Learning a new language can broaden your job opportunities."
   ],
   "interviewScenarios": [
     {
-      "topic": "學習語言",
-      "intro": "You have agreed to take part in a research study about learning languages.",
+      "topic": "旅行計劃",
+      "intro": "You have agreed to take part in a research study about travel planning.",
       "questions": [
-        "Q1: What languages have you learned or are currently learning?",
-        "Q2: What challenges have you faced while learning a new language?",
-        "Q3: In your opinion, what is the best way to learn a language?",
-        "Q4: What advice would you give to someone starting to learn a new language?"
-      ]
-    },
-    {
-      "topic": "環保行為",
-      "intro": "You have agreed to take part in a research study about eco-friendly behaviors.",
-      "questions": [
-        "Q1: What eco-friendly habits do you practice in your daily life?",
-        "Q2: Have you encountered any difficulties in maintaining those habits?",
-        "Q3: How important do you think it is to be environmentally conscious?",
-        "Q4: What suggestions would you give to others wanting to adopt eco-friendly practices?"
+        "Q1: What is your favorite place you have traveled to?",
+        "Q2: What challenges do you face when planning a trip?",
+        "Q3: How important do you think travel is for personal growth?",
+        "Q4: What advice would you give someone planning their first trip?"
       ]
     },
     {
       "topic": "運動習慣",
       "intro": "You have agreed to take part in a research study about exercise habits.",
       "questions": [
-        "Q1: What kinds of exercise do you enjoy doing most?",
-        "Q2: What barriers do you face when trying to stay active?",
-        "Q3: Why do you think physical fitness is important for everyone?",
-        "Q4: What tips can you provide for someone looking to develop a regular exercise routine?"
+        "Q1: What type of exercise do you enjoy the most?",
+        "Q2: What obstacles do you encounter when trying to stay active?",
+        "Q3: Why do you think maintaining a regular exercise routine is important?",
+        "Q4: What tips would you suggest to someone starting a new fitness journey?"
+      ]
+    },
+    {
+      "topic": "環保意識",
+      "intro": "You have agreed to take part in a research study about environmental awareness.",
+      "questions": [
+        "Q1: Can you share a personal experience related to environmental conservation?",
+        "Q2: What challenges do people face when trying to be more eco-friendly?",
+        "Q3: In your opinion, how effective are current environmental initiatives?",
+        "Q4: What recommendations would you make to someone wanting to live more sustainably?"
       ]
     }
   ]

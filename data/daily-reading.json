@@ -2,113 +2,107 @@
   "cloze": {
     "segments": [
       {
-        "text": "The human brain is a highly complex organ that plays a crucial role in "
+        "text": "The process of photosynthe"
       },
       {
-        "blank": "cognitive"
+        "blank": "sis"
       },
       {
-        "text": "functioning. It consists of billions of neurons, which communicate through electrical "
+        "text": " is essential for life on Earth. Plants convert sunlight into chemical energy, releasing oxyge"
       },
       {
-        "blank": "impul"
+        "blank": "n"
       },
       {
-        "text": "ses. One of the fascinating aspects of the brain is its ability to "
+        "text": ". This process occurs mainly in the chloroplasts, where chlorophyll captures light energy. Through a series of biochemical reactio"
       },
       {
-        "blank": "plasti"
+        "blank": "ns"
       },
       {
-        "text": "city, which refers to the brain's capacity to adapt and reorganize itself. This is essential for "
+        "text": ", carbon dioxide and water are transformed into glucose. The importance of photosynthesis cannot be overstated; it provides the foundation for the food chai"
       },
       {
-        "blank": "learni"
+        "blank": "n"
       },
       {
-        "text": "ng new skills and recovering from injuries. Neuroplasticity occurs throughout a person's life and is influenced by "
-      },
-      {
-        "blank": "environ"
-      },
-      {
-        "text": "mental factors. Research suggests that engaging in challenging activities can enhance brain health."
+        "text": ", supporting both terrestrial and aquatic ecosystems."
       }
     ]
   },
   "academic": {
-    "passage": "The study of neuroplasticity explores how the brain changes in response to learning experiences and injuries. It highlights that the brain is not static but rather dynamic, capable of forming new connections. For instance, when individuals practice a skill repeatedly, such as playing a musical instrument, their brain structure can alter to accommodate this new information. Such findings have significant implications for rehabilitation after brain injuries, suggesting that targeted cognitive exercises can aid recovery. Overall, neuroplasticity emphasizes the importance of lifelong learning and mental activity for maintaining cognitive health.",
+    "passage": "Photosynthesis is the process by which green plants, algae, and some bacteria convert light energy into chemical energy stored in glucose. This transformation occurs mainly in the chloroplasts of plant cells, utilizing sunlight, carbon dioxide, and water. The byproduct of this process is oxygen, which is essential for the survival of most living organisms. Photosynthesis is critical as it forms the base of the food chain, supporting both terrestrial and aquatic life forms.",
     "questions": [
       {
         "q": "What is the main idea of the passage?",
         "options": [
-          "Neuroplasticity enables the brain to adapt and change.",
-          "Neuroplasticity is only relevant for brain injuries.",
-          "The brain does not change over time.",
-          "Playing instruments is the best way to improve intelligence."
+          "Photosynthesis is crucial for life on Earth.",
+          "Chlorophyll captures sunlight.",
+          "Oxygen is a byproduct of photosynthesis.",
+          "Plants need water for photosynthesis."
         ],
         "correctIndex": 0,
-        "explain": "這段文字的主要概念是神經可塑性使大腦能夠適應和改變。"
+        "explain": "這段文字的主旨是光合作用對生命的重要性。"
       },
       {
-        "q": "What can influence neuroplasticity according to the passage?",
+        "q": "Where does photosynthesis primarily occur?",
         "options": [
-          "Genetic factors only.",
-          "Environmental and cognitive factors.",
-          "Age as a sole factor.",
-          "Physical exercise exclusively."
+          "In the roots of plants.",
+          "In the chloroplasts.",
+          "In the soil.",
+          "In the water."
         ],
         "correctIndex": 1,
-        "explain": "文中提到環境和認知因素會影響神經可塑性。"
+        "explain": "光合作用主要發生在植物的葉綠體中。"
       },
       {
-        "q": "What can be inferred about lifelong learning from the passage?",
+        "q": "What can be inferred about the role of photosynthesis in ecosystems?",
         "options": [
-          "It is unnecessary for brain health.",
-          "It contributes positively to cognitive health.",
-          "It only matters during childhood.",
-          "It leads to brain deterioration."
+          "It is not important for aquatic life.",
+          "It supports the food chain.",
+          "It reduces plant growth.",
+          "It only benefits land animals."
         ],
         "correctIndex": 1,
-        "explain": "可以推測，終身學習對於保持認知健康是有正面貢獻的。"
+        "explain": "可以推斷，光合作用支持食物鏈，對生態系統非常重要。"
       },
       {
-        "q": "What does the term 'neuroplasticity' refer to in the context of the passage?",
+        "q": "What does the word 'byproduct' in the passage mean?",
         "options": [
-          "The brain's ability to remain unchanged.",
-          "The brain's capacity to adapt and reorganize.",
-          "The brain's structure after injury.",
-          "The brain's dependency on genetic factors."
+          "A product that is not intended.",
+          "A primary product.",
+          "An essential item.",
+          "A harmful substance."
         ],
-        "correctIndex": 1,
-        "explain": "在這段文字中，'神經可塑性'指的是大腦的適應和重組能力。"
+        "correctIndex": 0,
+        "explain": "'byproduct' 指的是非主要意圖的產物，在此文中是指光合作用的副產品。"
       }
     ]
   },
   "daily": {
-    "passage": "Attention students: The campus library will be closed for maintenance from Monday to Wednesday next week. Please plan accordingly and check online resources during this time.",
+    "passage": "Attention students: The library will be closed for maintenance this Saturday. Please plan your visits accordingly and return any borrowed materials before then.",
     "questions": [
       {
         "q": "When will the library be closed?",
         "options": [
-          "From Monday to Wednesday next week.",
-          "Only on Monday next week.",
-          "From Wednesday to Friday next week.",
-          "Throughout the entire month."
+          "This Saturday.",
+          "Next Monday.",
+          "Today.",
+          "Tomorrow."
         ],
         "correctIndex": 0,
-        "explain": "公告中指出圖書館將在下週的星期一到星期三關閉。"
+        "explain": "圖書館將於本週六關閉。"
       },
       {
-        "q": "What should students do during the closure?",
+        "q": "What should students do with borrowed materials?",
         "options": [
-          "Visit other campuses.",
-          "Check online resources.",
-          "Attend classes in the library.",
-          "Ignore the closure."
+          "Return them after Saturday.",
+          "Keep them longer.",
+          "Return them before Saturday.",
+          "Do nothing."
         ],
-        "correctIndex": 1,
-        "explain": "公告建議學生在閉館期間查閱線上資源。"
+        "correctIndex": 2,
+        "explain": "學生應在週六之前歸還借用的材料。"
       }
     ]
   }
