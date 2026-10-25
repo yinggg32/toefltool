@@ -1,24 +1,24 @@
 {
   "shadowSentences": [
-    "I enjoy reading books every evening.",
-    "The weather is beautiful today, isn't it?",
-    "Eating healthy food is important for everyone.",
-    "I prefer tea over coffee in the morning.",
-    "Walking in the park helps me relax after work.",
-    "Traveling to new places opens your mind to culture.",
-    "Spending time with friends brings joy to my life.",
-    "Having a hobby can improve your mental health significantly.",
-    "Playing a musical instrument can be a rewarding experience.",
-    "Learning a new language can broaden your job opportunities."
+    "I enjoy reading books in my free time.",
+    "Traveling can teach you many valuable lessons.",
+    "Cooking at home is often healthier than eating out.",
+    "Listening to music helps me focus while studying.",
+    "Taking a walk in nature is refreshing and calming.",
+    "Volunteering can provide a sense of purpose and community.",
+    "Learning a new language opens up many opportunities for you.",
+    "Maintaining a balanced diet is important for your health.",
+    "Exploring different cultures can broaden your perspective on life.",
+    "Finding a hobby you love can greatly enhance your daily routine."
   ],
   "interviewScenarios": [
     {
-      "topic": "旅行計劃",
-      "intro": "You have agreed to take part in a research study about travel planning.",
+      "topic": "旅遊經驗",
+      "intro": "You have agreed to take part in a research study about travel experiences.",
       "questions": [
-        "Q1: What is your favorite place you have traveled to?",
-        "Q2: What challenges do you face when planning a trip?",
-        "Q3: How important do you think travel is for personal growth?",
+        "Q1: Can you describe a memorable trip you have taken?",
+        "Q2: What challenges did you face while traveling?",
+        "Q3: How do you feel about the impact of travel on personal growth?",
         "Q4: What advice would you give someone planning their first trip?"
       ]
     },
@@ -26,20 +26,20 @@
       "topic": "運動習慣",
       "intro": "You have agreed to take part in a research study about exercise habits.",
       "questions": [
-        "Q1: What type of exercise do you enjoy the most?",
-        "Q2: What obstacles do you encounter when trying to stay active?",
-        "Q3: Why do you think maintaining a regular exercise routine is important?",
-        "Q4: What tips would you suggest to someone starting a new fitness journey?"
+        "Q1: What types of exercise do you enjoy the most?",
+        "Q2: Have you ever struggled to stay motivated to work out?",
+        "Q3: In your opinion, how important is regular exercise for overall health?",
+        "Q4: What tips would you give someone trying to start an exercise routine?"
       ]
     },
     {
-      "topic": "環保意識",
-      "intro": "You have agreed to take part in a research study about environmental awareness.",
+      "topic": "藝術愛好",
+      "intro": "You have agreed to take part in a research study about artistic hobbies.",
       "questions": [
-        "Q1: Can you share a personal experience related to environmental conservation?",
-        "Q2: What challenges do people face when trying to be more eco-friendly?",
-        "Q3: In your opinion, how effective are current environmental initiatives?",
-        "Q4: What recommendations would you make to someone wanting to live more sustainably?"
+        "Q1: What artistic hobbies do you engage in regularly?",
+        "Q2: Have you faced any difficulties while pursuing your art?",
+        "Q3: What do you think is the value of engaging in creative activities?",
+        "Q4: How would you encourage someone to start exploring their artistic side?"
       ]
     }
   ]

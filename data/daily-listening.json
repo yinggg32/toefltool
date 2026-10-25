@@ -1,116 +1,116 @@
 {
   "chooseResponse": [
     {
-      "q": "Would you like to join the study group?",
+      "q": "What did you think of the lecture?",
       "options": [
-        "Sure, that sounds great!",
-        "No, I have other plans.",
-        "Maybe next time.",
-        "I need to think about it."
+        "It was really interesting!",
+        "I didn't understand much.",
+        "It was too long.",
+        "It could be better."
       ],
       "correctIndex": 0
     }
   ],
   "conversation": {
-    "transcript": "Student: Hey, did you hear about the guest lecture this Friday?\nAdvisor: Yes, I did! It's on environmental sustainability, right?\nStudent: Exactly! I think it will be really interesting.\nAdvisor: I agree. Are you planning to attend?",
+    "transcript": "Student: Hey, did you attend the workshop on public speaking?\nAdvisor: Yes, I did. It was very informative! How about you?\nStudent: I missed it. What did they cover?\nAdvisor: They discussed techniques for engaging an audience and managing anxiety.",
     "questions": [
       {
-        "q": "What is the topic of the guest lecture?",
+        "q": "What was the student asking about?",
         "options": [
-          "Environmental sustainability",
-          "Computer programming",
-          "Art history",
-          "Quantum physics"
+          "A public speaking workshop",
+          "A writing seminar",
+          "A science lecture",
+          "A math class"
         ],
         "correctIndex": 0,
-        "explain": "這次講座的主題是環境可持續性。"
+        "explain": "學生在詢問有關公共演講工作坊的事宜。"
       },
       {
-        "q": "When is the guest lecture scheduled?",
+        "q": "What did the advisor think of the workshop?",
         "options": [
-          "This Thursday",
-          "Next Monday",
-          "This Friday",
-          "Next Wednesday"
+          "It was boring.",
+          "It was informative.",
+          "It was too short.",
+          "It was confusing."
         ],
-        "correctIndex": 2,
-        "explain": "講座定於本週五舉行。"
+        "correctIndex": 1,
+        "explain": "顧問認為工作坊內容很有資訊價值。"
       }
     ]
   },
   "announcement": {
-    "transcript": "Attention students! The library will be closed this Saturday for maintenance. Please plan accordingly and make sure to check out any materials you need before then. Thank you for your understanding.",
+    "transcript": "Attention students: The library will be closing early today at 5 PM due to maintenance work. Please make sure to check out any materials you need before then. Thank you for your understanding.",
     "questions": [
       {
-        "q": "Why will the library be closed?",
+        "q": "Why is the library closing early?",
         "options": [
+          "For a holiday",
+          "For maintenance work",
           "For a special event",
-          "For maintenance",
-          "For renovations",
-          "For inventory"
+          "For staff training"
         ],
         "correctIndex": 1,
-        "explain": "圖書館將於本週六關閉以進行維護。"
+        "explain": "圖書館因維修工作而提前關閉。"
       },
       {
-        "q": "When should students check out materials?",
+        "q": "What time will the library close?",
         "options": [
-          "Before Saturday",
-          "After Saturday",
-          "On Friday only",
-          "Anytime next week"
+          "4 PM",
+          "5 PM",
+          "6 PM",
+          "7 PM"
         ],
-        "correctIndex": 0,
-        "explain": "學生應在週六之前借出需要的材料。"
+        "correctIndex": 1,
+        "explain": "圖書館將在下午5點關閉。"
       }
     ]
   },
   "talk": {
-    "transcript": "Today, we will discuss the concept of cultural relativism. This idea suggests that a person's beliefs and practices should be understood based on their own culture, rather than be judged against the criteria of another culture. Cultural relativism promotes understanding and tolerance among different societies. For instance, what is considered polite in one culture may be seen as rude in another. By acknowledging these differences, we can foster better communication and reduce cultural misunderstandings. Understanding cultural relativism is essential for anyone working in diverse environments, as it shapes how we interact with others.",
+    "transcript": "Today, we will discuss the concept of biodiversity. Biodiversity refers to the variety of life in a particular habitat or ecosystem. It includes the diversity of species, genetic variations, and the ecosystems themselves. A high level of biodiversity is crucial because it enhances ecosystem productivity and resilience. For example, diverse ecosystems can better withstand environmental changes and provide vital services, such as clean air and water. Conservation efforts are necessary to protect biodiversity, as human activities like deforestation and pollution are threatening many species.",
     "questions": [
       {
-        "q": "What does cultural relativism emphasize?",
+        "q": "What does biodiversity refer to?",
         "options": [
-          "Judging cultures against one another",
-          "Understanding cultures in their own context",
-          "Ignoring cultural differences",
-          "Promoting one culture over others"
+          "The number of ecosystems",
+          "The variety of life",
+          "The number of species",
+          "The genetic mutations"
         ],
         "correctIndex": 1,
-        "explain": "文化相對主義強調在自己的文化背景下理解文化。"
+        "explain": "生物多樣性指的是生活在特定棲息地或生態系統中的生命多樣性。"
       },
       {
-        "q": "Why is cultural relativism important?",
+        "q": "Why is biodiversity important?",
         "options": [
-          "It leads to cultural dominance",
-          "It encourages cultural misunderstandings",
-          "It fosters understanding and tolerance",
-          "It simplifies cultural interactions"
-        ],
-        "correctIndex": 2,
-        "explain": "文化相對主義促進了不同社會之間的理解和包容。"
-      },
-      {
-        "q": "What example is given to illustrate cultural differences?",
-        "options": [
-          "Language barriers",
-          "Food preferences",
-          "Politeness norms",
-          "Fashion trends"
-        ],
-        "correctIndex": 2,
-        "explain": "用於說明文化差異的例子是禮貌的標準。"
-      },
-      {
-        "q": "Who can benefit from understanding cultural relativism?",
-        "options": [
-          "Only anthropologists",
-          "Anyone in diverse environments",
-          "Only students studying culture",
-          "Only travelers"
+          "It decreases ecosystem productivity.",
+          "It helps with environmental changes.",
+          "It eliminates species.",
+          "It reduces genetic variation."
         ],
         "correctIndex": 1,
-        "explain": "任何在多元環境中工作的人都能受益於理解文化相對主義。"
+        "explain": "生物多樣性增加生態系統的生產力和韌性。"
+      },
+      {
+        "q": "What threatens biodiversity according to the talk?",
+        "options": [
+          "Climate change",
+          "Natural disasters",
+          "Human activities",
+          "Overpopulation"
+        ],
+        "correctIndex": 2,
+        "explain": "人類的活動，如砍伐森林和污染，正在威脅許多物種。"
+      },
+      {
+        "q": "What services do diverse ecosystems provide?",
+        "options": [
+          "Only food supplies",
+          "Only recreational areas",
+          "Only tourism",
+          "Clean air and water"
+        ],
+        "correctIndex": 3,
+        "explain": "多樣化的生態系統提供清潔的空氣和水等重要服務。"
       }
     ]
   }

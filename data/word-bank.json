@@ -9950,5 +9950,45 @@
     "zh": "網路空間",
     "ex": "Cyberspace has become a crucial domain for communication.",
     "cat": "📰 每日新詞：technology and innovation"
+  },
+  {
+    "word": "era",
+    "pos": "n.",
+    "root": "—",
+    "zh": "时代",
+    "ex": "The Victorian era is known for its distinctive cultural and social norms.",
+    "cat": "📰 每日新詞：history"
+  },
+  {
+    "word": "provenance",
+    "pos": "n.",
+    "root": "pro-向前 + ven-来 + -ance 名词后缀",
+    "zh": "出处",
+    "ex": "The provenance of the painting was traced back to a prominent artist of the 18th century.",
+    "cat": "📰 每日新詞：history"
+  },
+  {
+    "word": "establishment",
+    "pos": "n.",
+    "root": "establish-建立 + -ment 行为",
+    "zh": "建立",
+    "ex": "The establishment of the university was a significant event in the history of education.",
+    "cat": "📰 每日新詞：history"
+  },
+  {
+    "word": "parliament",
+    "pos": "n.",
+    "root": "parl-说话 + -ament 表示状态",
+    "zh": "议会",
+    "ex": "The parliament played a crucial role in shaping the laws of the nation.",
+    "cat": "📰 每日新詞：history"
+  },
+  {
+    "word": "revolt",
+    "pos": "n./v.",
+    "root": "re-再次 + volt-转动",
+    "zh": "叛乱/反抗",
+    "ex": "The revolt against oppressive regimes often leads to significant social change.",
+    "cat": "📰 每日新詞：history"
   }
 ]

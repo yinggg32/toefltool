@@ -2,107 +2,104 @@
   "cloze": {
     "segments": [
       {
-        "text": "The process of photosynthe"
+        "text": "The process of photosynthesis is essential for plants. It begins when chlorophyll absorbs sunlight, leading to the conversion of carbon dioxide and water into glucose and oxygen. During this process, the light energy is transformed into chemical energy, which is stored in the form of glucose. This energy not only sustains the plant but also serves as a vital source of food for many organisms. Furthermore, photosynthesis plays a critical role in maintaining the Earth's atmosphere. Without it, the levels of carbon dioxide would rise significantly, leading to adverse environmental effects. The overall impact of this phenomenon is evident in various ecosystems."
       },
       {
         "blank": "sis"
       },
       {
-        "text": " is essential for life on Earth. Plants convert sunlight into chemical energy, releasing oxyge"
+        "text": "The role of chlorophyll is to absorb light, specifically in the blue and red wavelengths, which are most effective for this process. Plants can convert approximately 1% of the solar energy they receive into chemical energy through photosynthesis."
       },
       {
-        "blank": "n"
+        "blank": "lue"
       },
       {
-        "text": ". This process occurs mainly in the chloroplasts, where chlorophyll captures light energy. Through a series of biochemical reactio"
+        "text": "Additionally, the byproduct of oxygen released during photosynthesis is crucial for the survival of aerobic organisms. It is this symbiotic relationship that sustains life on our planet."
       },
       {
-        "blank": "ns"
+        "blank": "o"
       },
       {
-        "text": ", carbon dioxide and water are transformed into glucose. The importance of photosynthesis cannot be overstated; it provides the foundation for the food chai"
+        "text": "In summary, photosynthesis not only supports plant life but also contributes to the overall balance of ecosystems by regulating atmospheric gases."
       },
       {
-        "blank": "n"
-      },
-      {
-        "text": ", supporting both terrestrial and aquatic ecosystems."
+        "blank": "e"
       }
     ]
   },
   "academic": {
-    "passage": "Photosynthesis is the process by which green plants, algae, and some bacteria convert light energy into chemical energy stored in glucose. This transformation occurs mainly in the chloroplasts of plant cells, utilizing sunlight, carbon dioxide, and water. The byproduct of this process is oxygen, which is essential for the survival of most living organisms. Photosynthesis is critical as it forms the base of the food chain, supporting both terrestrial and aquatic life forms.",
+    "passage": "Photosynthesis is the process by which green plants, algae, and some bacteria convert light energy into chemical energy. This is achieved by absorbing sunlight through chlorophyll, leading to the transformation of carbon dioxide and water into glucose and oxygen. The glucose serves as food for the plant, while the oxygen is released into the atmosphere, supporting aerobic life forms. This process is fundamental to life on Earth, influencing various ecosystems and maintaining atmospheric balance.",
     "questions": [
       {
-        "q": "What is the main idea of the passage?",
+        "q": "What is the main purpose of photosynthesis?",
         "options": [
-          "Photosynthesis is crucial for life on Earth.",
-          "Chlorophyll captures sunlight.",
-          "Oxygen is a byproduct of photosynthesis.",
-          "Plants need water for photosynthesis."
+          "To produce glucose and oxygen",
+          "To absorb carbon dioxide",
+          "To release carbon monoxide",
+          "To capture sunlight"
         ],
         "correctIndex": 0,
-        "explain": "這段文字的主旨是光合作用對生命的重要性。"
+        "explain": "照片合成的主要目的是產生葡萄糖和氧氣。"
       },
       {
-        "q": "Where does photosynthesis primarily occur?",
+        "q": "What role does chlorophyll play in photosynthesis?",
         "options": [
-          "In the roots of plants.",
-          "In the chloroplasts.",
-          "In the soil.",
-          "In the water."
-        ],
-        "correctIndex": 1,
-        "explain": "光合作用主要發生在植物的葉綠體中。"
-      },
-      {
-        "q": "What can be inferred about the role of photosynthesis in ecosystems?",
-        "options": [
-          "It is not important for aquatic life.",
-          "It supports the food chain.",
-          "It reduces plant growth.",
-          "It only benefits land animals."
-        ],
-        "correctIndex": 1,
-        "explain": "可以推斷，光合作用支持食物鏈，對生態系統非常重要。"
-      },
-      {
-        "q": "What does the word 'byproduct' in the passage mean?",
-        "options": [
-          "A product that is not intended.",
-          "A primary product.",
-          "An essential item.",
-          "A harmful substance."
+          "It absorbs sunlight",
+          "It releases carbon dioxide",
+          "It produces glucose",
+          "It stores energy"
         ],
         "correctIndex": 0,
-        "explain": "'byproduct' 指的是非主要意圖的產物，在此文中是指光合作用的副產品。"
+        "explain": "葉綠素在光合作用中吸收陽光。"
+      },
+      {
+        "q": "Why is oxygen released during photosynthesis important?",
+        "options": [
+          "It helps plants grow",
+          "It supports aerobic organisms",
+          "It increases carbon dioxide levels",
+          "It reduces sunlight absorption"
+        ],
+        "correctIndex": 1,
+        "explain": "光合作用中釋放的氧氣對需氧生物的生存至關重要。"
+      },
+      {
+        "q": "What does the term 'chlorophyll' refer to?",
+        "options": [
+          "A type of enzyme",
+          "A green pigment in plants",
+          "A process of energy conversion",
+          "A form of carbon dioxide"
+        ],
+        "correctIndex": 1,
+        "explain": "'葉綠素'是指植物中的一種綠色顏料。"
       }
     ]
   },
   "daily": {
-    "passage": "Attention students: The library will be closed for maintenance this Saturday. Please plan your visits accordingly and return any borrowed materials before then.",
+    "passage": "Attention Students: The library will be closed for renovations from March 1st to March 15th. Please plan accordingly and return any books before this date. Thank you for your understanding.",
     "questions": [
       {
         "q": "When will the library be closed?",
         "options": [
-          "This Saturday.",
-          "Next Monday.",
-          "Today.",
-          "Tomorrow."
+          "March 1st to March 15th",
+          "March 1st to March 10th",
+          "March 5th to March 15th",
+          "March 1st to March 20th"
         ],
         "correctIndex": 0,
-        "explain": "圖書館將於本週六關閉。"
+        "explain": "圖書館將於三月一日至三月十五日關閉。"
       },
       {
-        "q": "What should students do with borrowed materials?",
+        "q": "What should students do before the library closes?",
         "options": [
-          "Return them after Saturday.",
-          "Keep them longer.",
-          "Return them before Saturday.",
-          "Do nothing."
+          "Return any books",
+          "Check out new books",
+          "Study in the library",
+          "Attend a workshop"
         ],
-        "correctIndex": 2,
-        "explain": "學生應在週六之前歸還借用的材料。"
+        "correctIndex": 0,
+        "explain": "學生在圖書館關閉前應歸還所有書籍。"
       }
     ]
   }
