@@ -9990,5 +9990,29 @@
     "zh": "叛乱/反抗",
     "ex": "The revolt against oppressive regimes often leads to significant social change.",
     "cat": "📰 每日新詞：history"
+  },
+  {
+    "word": "lexeme",
+    "pos": "n.",
+    "root": "詞元+lexical",
+    "zh": "詞元",
+    "ex": "A lexeme is an abstract unit of meaning that underlies a set of related words.",
+    "cat": "📰 每日新詞：linguistics"
+  },
+  {
+    "word": "pragmatic marker",
+    "pos": "n.",
+    "root": "語用標記+marker",
+    "zh": "語用標記",
+    "ex": "Pragmatic markers help convey the speaker's attitude or stance.",
+    "cat": "📰 每日新詞：linguistics"
+  },
+  {
+    "word": "intonation contour",
+    "pos": "n.",
+    "root": "語調輪廓+intonation",
+    "zh": "語調輪廓",
+    "ex": "The intonation contour of a sentence can indicate whether it is a statement or a question.",
+    "cat": "📰 每日新詞：linguistics"
   }
 ]

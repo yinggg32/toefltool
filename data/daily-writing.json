@@ -4,133 +4,125 @@
       "words": [
         "the",
         "students",
-        "completed",
+        "to",
         "the",
-        "assignment",
-        "before",
-        "the",
-        "deadline"
+        "library",
+        "went",
+        "after",
+        "lunch"
       ],
-      "display": "The students completed the assignment before the deadline."
+      "display": "The students went to the library after lunch."
+    },
+    {
+      "words": [
+        "the",
+        "research",
+        "conducted",
+        "by",
+        "the",
+        "professor",
+        "was",
+        "innovative"
+      ],
+      "display": "The research conducted by the professor was innovative."
+    },
+    {
+      "words": [
+        "many",
+        "people",
+        "participated",
+        "in",
+        "the",
+        "community",
+        "event",
+        "last",
+        "week"
+      ],
+      "display": "Many people participated in the community event last week."
     },
     {
       "words": [
         "she",
         "decided",
         "to",
-        "join",
-        "the",
-        "art",
-        "club",
+        "study",
+        "abroad",
         "for",
-        "the",
-        "upcoming",
+        "a",
         "semester"
       ],
-      "display": "She decided to join the art club for the upcoming semester."
+      "display": "She decided to study abroad for a semester."
     },
     {
       "words": [
         "the",
-        "research",
         "team",
-        "is",
-        "analyzing",
-        "the",
-        "data",
-        "from",
-        "the",
-        "experiment"
-      ],
-      "display": "The research team is analyzing the data from the experiment."
-    },
-    {
-      "words": [
-        "please",
-        "read",
-        "the",
-        "instructions",
-        "carefully",
-        "before",
-        "starting",
-        "the",
-        "test"
-      ],
-      "display": "Please read the instructions carefully before starting the test."
-    },
-    {
-      "words": [
-        "the",
-        "library",
-        "will",
-        "be",
-        "closed",
-        "for",
-        "renovations",
-        "next",
-        "month"
-      ],
-      "display": "The library will be closed for renovations next month."
-    },
-    {
-      "words": [
-        "students",
-        "are",
-        "encouraged",
+        "worked",
+        "hard",
         "to",
-        "participate",
-        "in",
+        "complete",
         "the",
-        "upcoming",
-        "volunteer",
-        "event"
+        "project",
+        "on",
+        "time"
       ],
-      "display": "Students are encouraged to participate in the upcoming volunteer event."
+      "display": "The team worked hard to complete the project on time."
     },
     {
       "words": [
         "the",
-        "presentation",
-        "provided",
-        "valuable",
-        "insights",
-        "into",
-        "the",
-        "research",
-        "findings"
-      ],
-      "display": "The presentation provided valuable insights into the research findings."
-    },
-    {
-      "words": [
-        "the",
-        "university",
-        "offers",
-        "several",
-        "scholarships",
-        "for",
-        "incoming",
+        "new",
+        "policy",
+        "will",
+        "benefit",
         "students",
-        "each",
-        "year"
+        "and",
+        "faculty"
       ],
-      "display": "The university offers several scholarships for incoming students each year."
+      "display": "The new policy will benefit students and faculty."
+    },
+    {
+      "words": [
+        "he",
+        "enjoys",
+        "playing",
+        "soccer",
+        "with",
+        "friends",
+        "on",
+        "the",
+        "weekends"
+      ],
+      "display": "He enjoys playing soccer with friends on the weekends."
+    },
+    {
+      "words": [
+        "the",
+        "book",
+        "that",
+        "he",
+        "recommended",
+        "was",
+        "very",
+        "insightful"
+      ],
+      "display": "The book that he recommended was very insightful."
     }
   ],
   "emailPrompts": [
-    "寄信給宿舍管理辦公室，詢問沒有收到包裹的原因。",
-    "寄信給圖書館，請求延長圖書的歸還期限。",
-    "寄信給社團負責人，報名參加下個月的社團活動。",
-    "寄信給教授，請假並詢問作業的補交時間。",
-    "寄信給客服，反映最近購買商品的問題並請求退貨。",
-    "寄信給實習協調員，詢問實習工作的具體內容和要求。"
+    "寄信給教授，請求延遲提交報告的期限，因為手頭有其他學業壓力。",
+    "寄信給宿舍管理員，反映宿舍內的水管漏水問題，請求儘速修理。",
+    "寄信給圖書館，詢問延長借書期限的程序，因為需要更多時間閱讀。",
+    "寄信給學生會，表達加入校園志工團隊的興趣，詢問入隊的條件。",
+    "寄信給客服，反映最近購買的商品有瑕疵，請求退貨或更換。",
+    "寄信給導師，感謝他在課程中提供的指導，並分享我學習的心得。"
   ],
   "discussionPrompts": [
-    "教授問：「你認為社交媒體對青少年心理健康的影響是正面的還是負面的？」",
-    "教授問：「在環境保護方面，個人行動與政府政策的效果哪一個更重要？」",
-    "教授問：「你如何看待大學教育對職業發展的影響？」",
-    "教授問：「全球化對文化多樣性有何影響？」",
-    "教授問：「科技的發展是否使人類的社交能力減弱？」",
-    "教授問：「學校是否應該推動學生參與社會服務？為什麼？」"
+    "教授問：「你認為社交媒體對青少年心理健康的影響是正面還是負面？」",
+    "教授問：「應該如何平衡科技發展與環境保護之間的矛盾？」",
+    "教授問：「在大學裡，學術自由與學術責任之間應如何取得平衡？」",
+    "教授問：「性別平等在職場中的重要性如何影響企業表現？」",
+    "教授問：「應該如何應對全球氣候變化帶來的挑戰？」",
+    "教授問：「文化多樣性對於社會發展的影響有哪些？」"
   ]
 }

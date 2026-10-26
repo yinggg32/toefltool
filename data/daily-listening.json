@@ -1,116 +1,116 @@
 {
   "chooseResponse": [
     {
-      "q": "What did you think of the lecture?",
+      "q": "What do you think about the new cafe?",
       "options": [
-        "It was really interesting!",
-        "I didn't understand much.",
-        "It was too long.",
-        "It could be better."
+        "It's amazing!",
+        "I don't like coffee.",
+        "Too expensive!",
+        "I love the pastries."
       ],
       "correctIndex": 0
     }
   ],
   "conversation": {
-    "transcript": "Student: Hey, did you attend the workshop on public speaking?\nAdvisor: Yes, I did. It was very informative! How about you?\nStudent: I missed it. What did they cover?\nAdvisor: They discussed techniques for engaging an audience and managing anxiety.",
+    "transcript": "Student: Have you tried the new cafe on campus?\nAdvisor: Yes, I went there yesterday. What did you think of it?\nStudent: I loved the atmosphere, but the prices were a bit high.\nAdvisor: I agree, but I think the quality makes it worth it.",
     "questions": [
       {
-        "q": "What was the student asking about?",
+        "q": "What did the student think of the cafe's prices?",
         "options": [
-          "A public speaking workshop",
-          "A writing seminar",
-          "A science lecture",
-          "A math class"
+          "They were too high.",
+          "They were reasonable.",
+          "They were low.",
+          "They were average."
         ],
         "correctIndex": 0,
-        "explain": "學生在詢問有關公共演講工作坊的事宜。"
+        "explain": "學生認為咖啡館的價格過高。"
       },
       {
-        "q": "What did the advisor think of the workshop?",
+        "q": "What was the advisor's opinion about the cafe's quality?",
         "options": [
-          "It was boring.",
-          "It was informative.",
-          "It was too short.",
-          "It was confusing."
+          "It was poor.",
+          "It was average.",
+          "It was worth the price.",
+          "It was terrible."
         ],
-        "correctIndex": 1,
-        "explain": "顧問認為工作坊內容很有資訊價值。"
+        "correctIndex": 2,
+        "explain": "顧問認為質量值得那個價格。"
       }
     ]
   },
   "announcement": {
-    "transcript": "Attention students: The library will be closing early today at 5 PM due to maintenance work. Please make sure to check out any materials you need before then. Thank you for your understanding.",
+    "transcript": "Attention students, the library will be closing early today at 5 PM instead of the usual 8 PM. Please make sure to finish your work in time. Thank you for your understanding.",
     "questions": [
+      {
+        "q": "What time will the library close today?",
+        "options": [
+          "5 PM",
+          "6 PM",
+          "8 PM",
+          "7 PM"
+        ],
+        "correctIndex": 0,
+        "explain": "今天圖書館將在下午5點關閉。"
+      },
       {
         "q": "Why is the library closing early?",
         "options": [
-          "For a holiday",
-          "For maintenance work",
-          "For a special event",
-          "For staff training"
+          "A special event.",
+          "Maintenance work.",
+          "Staff meeting.",
+          "Public holiday."
         ],
-        "correctIndex": 1,
-        "explain": "圖書館因維修工作而提前關閉。"
-      },
-      {
-        "q": "What time will the library close?",
-        "options": [
-          "4 PM",
-          "5 PM",
-          "6 PM",
-          "7 PM"
-        ],
-        "correctIndex": 1,
-        "explain": "圖書館將在下午5點關閉。"
+        "correctIndex": 0,
+        "explain": "因為有一個特別事件。"
       }
     ]
   },
   "talk": {
-    "transcript": "Today, we will discuss the concept of biodiversity. Biodiversity refers to the variety of life in a particular habitat or ecosystem. It includes the diversity of species, genetic variations, and the ecosystems themselves. A high level of biodiversity is crucial because it enhances ecosystem productivity and resilience. For example, diverse ecosystems can better withstand environmental changes and provide vital services, such as clean air and water. Conservation efforts are necessary to protect biodiversity, as human activities like deforestation and pollution are threatening many species.",
+    "transcript": "Today, I want to discuss renewable energy sources, which are vital for reducing our carbon footprint. Solar energy, for example, harnesses sunlight and converts it into electricity. Wind energy utilizes turbines to generate power from wind. Both sources are sustainable and have a lower environmental impact compared to fossil fuels. Not only do they help mitigate climate change, but they also offer energy independence. As technology advances, we will likely see even more efficient methods of harnessing these renewable energies.",
     "questions": [
       {
-        "q": "What does biodiversity refer to?",
+        "q": "What is a benefit of renewable energy sources?",
         "options": [
-          "The number of ecosystems",
-          "The variety of life",
-          "The number of species",
-          "The genetic mutations"
+          "They are expensive.",
+          "They reduce carbon footprint.",
+          "They increase pollution.",
+          "They depend on fossil fuels."
         ],
         "correctIndex": 1,
-        "explain": "生物多樣性指的是生活在特定棲息地或生態系統中的生命多樣性。"
+        "explain": "可再生能源可以減少碳足跡。"
       },
       {
-        "q": "Why is biodiversity important?",
+        "q": "Which energy source uses sunlight?",
         "options": [
-          "It decreases ecosystem productivity.",
-          "It helps with environmental changes.",
-          "It eliminates species.",
-          "It reduces genetic variation."
-        ],
-        "correctIndex": 1,
-        "explain": "生物多樣性增加生態系統的生產力和韌性。"
-      },
-      {
-        "q": "What threatens biodiversity according to the talk?",
-        "options": [
-          "Climate change",
-          "Natural disasters",
-          "Human activities",
-          "Overpopulation"
+          "Wind energy",
+          "Nuclear energy",
+          "Solar energy",
+          "Hydropower"
         ],
         "correctIndex": 2,
-        "explain": "人類的活動，如砍伐森林和污染，正在威脅許多物種。"
+        "explain": "使用陽光的能源是太陽能。"
       },
       {
-        "q": "What services do diverse ecosystems provide?",
+        "q": "What does wind energy use to generate power?",
         "options": [
-          "Only food supplies",
-          "Only recreational areas",
-          "Only tourism",
-          "Clean air and water"
+          "Solar panels",
+          "Turbines",
+          "Batteries",
+          "Coal"
         ],
-        "correctIndex": 3,
-        "explain": "多樣化的生態系統提供清潔的空氣和水等重要服務。"
+        "correctIndex": 1,
+        "explain": "風能使用渦輪機來發電。"
+      },
+      {
+        "q": "What is suggested for the future of renewable energy?",
+        "options": [
+          "Less efficient methods.",
+          "More fossil fuels.",
+          "More efficient methods.",
+          "Stopping research."
+        ],
+        "correctIndex": 2,
+        "explain": "建議未來會有更高效的可再生能源利用方法。"
       }
     ]
   }
