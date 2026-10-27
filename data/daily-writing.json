@@ -3,126 +3,127 @@
     {
       "words": [
         "the",
-        "students",
-        "to",
-        "the",
-        "library",
-        "went",
-        "after",
-        "lunch"
-      ],
-      "display": "The students went to the library after lunch."
-    },
-    {
-      "words": [
-        "the",
-        "research",
-        "conducted",
-        "by",
-        "the",
-        "professor",
-        "was",
-        "innovative"
-      ],
-      "display": "The research conducted by the professor was innovative."
-    },
-    {
-      "words": [
-        "many",
-        "people",
-        "participated",
-        "in",
-        "the",
-        "community",
-        "event",
-        "last",
-        "week"
-      ],
-      "display": "Many people participated in the community event last week."
-    },
-    {
-      "words": [
-        "she",
-        "decided",
-        "to",
-        "study",
-        "abroad",
+        "scientific",
+        "method",
+        "is",
+        "essential",
         "for",
-        "a",
-        "semester"
+        "conducting",
+        "research"
       ],
-      "display": "She decided to study abroad for a semester."
+      "display": "The scientific method is essential for conducting research."
+    },
+    {
+      "words": [
+        "in",
+        "today's",
+        "digital",
+        "age",
+        "communication",
+        "has",
+        "changed",
+        "dramatically"
+      ],
+      "display": "In today's digital age, communication has changed dramatically."
     },
     {
       "words": [
         "the",
-        "team",
-        "worked",
-        "hard",
+        "importance",
+        "of",
+        "biodiversity",
+        "cannot",
+        "be",
+        "overstated",
         "to",
-        "complete",
-        "the",
-        "project",
-        "on",
-        "time"
+        "ecosystems"
       ],
-      "display": "The team worked hard to complete the project on time."
+      "display": "The importance of biodiversity cannot be overstated to ecosystems."
     },
     {
       "words": [
-        "the",
+        "learning",
+        "a",
         "new",
-        "policy",
-        "will",
-        "benefit",
-        "students",
+        "language",
+        "opens",
+        "doors",
+        "to",
+        "many",
+        "opportunities"
+      ],
+      "display": "Learning a new language opens doors to many opportunities."
+    },
+    {
+      "words": [
+        "the",
+        "effects",
+        "of",
+        "climate",
+        "change",
+        "are",
+        "visible",
+        "across",
+        "the",
+        "globe"
+      ],
+      "display": "The effects of climate change are visible across the globe."
+    },
+    {
+      "words": [
+        "reading",
+        "books",
+        "can",
+        "enhance",
+        "critical",
+        "thinking",
         "and",
-        "faculty"
+        "creativity"
       ],
-      "display": "The new policy will benefit students and faculty."
+      "display": "Reading books can enhance critical thinking and creativity."
     },
     {
       "words": [
-        "he",
-        "enjoys",
-        "playing",
-        "soccer",
-        "with",
-        "friends",
-        "on",
+        "technology",
+        "has",
+        "revolutionized",
         "the",
-        "weekends"
+        "way",
+        "we",
+        "access",
+        "information"
       ],
-      "display": "He enjoys playing soccer with friends on the weekends."
+      "display": "Technology has revolutionized the way we access information."
     },
     {
       "words": [
-        "the",
-        "book",
-        "that",
-        "he",
-        "recommended",
-        "was",
-        "very",
-        "insightful"
+        "participating",
+        "in",
+        "community",
+        "service",
+        "fosters",
+        "a",
+        "sense",
+        "of",
+        "belonging"
       ],
-      "display": "The book that he recommended was very insightful."
+      "display": "Participating in community service fosters a sense of belonging."
     }
   ],
   "emailPrompts": [
-    "寄信給教授，請求延遲提交報告的期限，因為手頭有其他學業壓力。",
-    "寄信給宿舍管理員，反映宿舍內的水管漏水問題，請求儘速修理。",
-    "寄信給圖書館，詢問延長借書期限的程序，因為需要更多時間閱讀。",
-    "寄信給學生會，表達加入校園志工團隊的興趣，詢問入隊的條件。",
-    "寄信給客服，反映最近購買的商品有瑕疵，請求退貨或更換。",
-    "寄信給導師，感謝他在課程中提供的指導，並分享我學習的心得。"
+    "寄信給教授，詢問是否可以延遲提交報告的截止日期。",
+    "寄信給宿舍辦公室，報告房間的水管漏水問題。",
+    "寄信給圖書館，詢問如何續借書籍的流程。",
+    "寄信給社團主席，表達對參加即將到來的活動的興趣。",
+    "寄信給客服，反映最近購買商品的質量問題。",
+    "寄信給同學，邀請他參加即將舉行的學術研討會。"
   ],
   "discussionPrompts": [
-    "教授問：「你認為社交媒體對青少年心理健康的影響是正面還是負面？」",
-    "教授問：「應該如何平衡科技發展與環境保護之間的矛盾？」",
-    "教授問：「在大學裡，學術自由與學術責任之間應如何取得平衡？」",
-    "教授問：「性別平等在職場中的重要性如何影響企業表現？」",
-    "教授問：「應該如何應對全球氣候變化帶來的挑戰？」",
-    "教授問：「文化多樣性對於社會發展的影響有哪些？」"
+    "教授問：「社交媒體對年輕人心理健康的影響是什麼？」",
+    "教授問：「是否應該將人工智能納入教育體系？」",
+    "教授問：「在全球化背景下，文化保護的重要性如何？」",
+    "教授問：「可再生能源是否能完全取代化石燃料？」",
+    "教授問：「科技進步對社會結構的影響是正面還是負面？」",
+    "教授問：「公平貿易對全球經濟的影響有哪些？」"
   ]
 }

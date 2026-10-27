@@ -1,45 +1,45 @@
 {
   "shadowSentences": [
-    "I enjoy reading books in my free time.",
-    "My favorite season is autumn because of the colors.",
-    "I often go for walks in the park near my house.",
-    "Cooking new recipes is something I find really fun.",
-    "Traveling to different countries broadens my perspective.",
-    "Listening to music helps me relax after a long day.",
-    "I believe that learning a new language is very rewarding.",
-    "Spending time with family creates lasting memories together.",
-    "I think volunteering in the community is important for everyone.",
-    "Gardening is a wonderful hobby that connects us to nature."
+    "I love to read books at night.",
+    "The weather is really nice today.",
+    "She enjoys cooking new recipes each weekend.",
+    "He plays soccer with friends every Saturday.",
+    "They went hiking in the mountains last summer.",
+    "My favorite movie is a classic from the '90s.",
+    "I like to explore new places when I travel.",
+    "Taking care of plants can be very rewarding.",
+    "Learning a new language opens many doors for you.",
+    "Finding a balance between work and play is essential for happiness."
   ],
   "interviewScenarios": [
     {
       "topic": "旅行經驗",
       "intro": "You have agreed to take part in a research study about travel experiences.",
       "questions": [
-        "Q1: Can you tell me about a memorable trip you took?",
+        "Q1: Can you share a memorable travel experience you've had?",
         "Q2: What challenges did you face while traveling?",
-        "Q3: How do you feel travel impacts your life?",
+        "Q3: How do you feel travel impacts people's lives?",
         "Q4: What advice would you give to someone planning their first trip?"
       ]
     },
     {
-      "topic": "音樂的重要性",
-      "intro": "You have agreed to take part in a research study about the importance of music.",
+      "topic": "環保意識",
+      "intro": "You have agreed to take part in a research study about environmental awareness.",
       "questions": [
-        "Q1: What role has music played in your life?",
-        "Q2: Have you ever faced any difficulties in learning an instrument?",
-        "Q3: Why do you think music is so influential in our culture?",
-        "Q4: What tips would you give to someone wanting to get into music?"
+        "Q1: What is your personal experience with environmental issues?",
+        "Q2: Have you faced any challenges in living a sustainable lifestyle?",
+        "Q3: What is your opinion on the importance of protecting the environment?",
+        "Q4: What recommendations do you have for others to promote sustainability?"
       ]
     },
     {
-      "topic": "環保行為",
-      "intro": "You have agreed to take part in a research study about environmental behaviors.",
+      "topic": "運動習慣",
+      "intro": "You have agreed to take part in a research study about exercise habits.",
       "questions": [
-        "Q1: What eco-friendly habits do you practice regularly?",
-        "Q2: Have you encountered any challenges in living sustainably?",
-        "Q3: What is your opinion on the importance of environmental protection?",
-        "Q4: What suggestions would you make for someone wanting to be more eco-conscious?"
+        "Q1: How often do you exercise and what activities do you enjoy?",
+        "Q2: What obstacles have you encountered in maintaining your exercise routine?",
+        "Q3: Why do you believe exercise is important for health?",
+        "Q4: What tips can you offer to someone trying to start an exercise habit?"
       ]
     }
   ]

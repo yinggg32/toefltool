@@ -1,116 +1,116 @@
 {
   "chooseResponse": [
     {
-      "q": "What do you think about the new cafe?",
+      "q": "What are your plans for the weekend?",
       "options": [
-        "It's amazing!",
-        "I don't like coffee.",
-        "Too expensive!",
-        "I love the pastries."
+        "I'm going hiking.",
+        "I will study all weekend.",
+        "I have no plans yet.",
+        "I'm visiting my family."
       ],
       "correctIndex": 0
     }
   ],
   "conversation": {
-    "transcript": "Student: Have you tried the new cafe on campus?\nAdvisor: Yes, I went there yesterday. What did you think of it?\nStudent: I loved the atmosphere, but the prices were a bit high.\nAdvisor: I agree, but I think the quality makes it worth it.",
+    "transcript": "Student: Hey, do you know where the new art exhibit is?\nAdvisor: Yes, it's at the downtown gallery. Have you been there before?\nStudent: No, I haven't. What type of art do they display?\nAdvisor: They focus on contemporary artists, mostly local talent.",
     "questions": [
       {
-        "q": "What did the student think of the cafe's prices?",
+        "q": "Where is the new art exhibit located?",
         "options": [
-          "They were too high.",
-          "They were reasonable.",
-          "They were low.",
-          "They were average."
+          "On campus.",
+          "At the downtown gallery.",
+          "In the city park.",
+          "At the museum."
         ],
-        "correctIndex": 0,
-        "explain": "學生認為咖啡館的價格過高。"
+        "correctIndex": 1,
+        "explain": "新的藝術展覽位於市中心的畫廊。"
       },
       {
-        "q": "What was the advisor's opinion about the cafe's quality?",
+        "q": "What type of art does the exhibit feature?",
         "options": [
-          "It was poor.",
-          "It was average.",
-          "It was worth the price.",
-          "It was terrible."
+          "Classical art.",
+          "Local contemporary art.",
+          "Photography only.",
+          "Sculptures only."
         ],
-        "correctIndex": 2,
-        "explain": "顧問認為質量值得那個價格。"
+        "correctIndex": 1,
+        "explain": "該展覽以當代藝術家為主，主要是本地人才的作品。"
       }
     ]
   },
   "announcement": {
-    "transcript": "Attention students, the library will be closing early today at 5 PM instead of the usual 8 PM. Please make sure to finish your work in time. Thank you for your understanding.",
+    "transcript": "Attention students! The library will be closing early today at 5 PM due to maintenance. Please plan to finish your studies accordingly. Thank you for your understanding.",
     "questions": [
       {
-        "q": "What time will the library close today?",
+        "q": "Why is the library closing early today?",
         "options": [
-          "5 PM",
-          "6 PM",
-          "8 PM",
-          "7 PM"
+          "For a special event.",
+          "Due to maintenance.",
+          "For staff training.",
+          "To restock supplies."
         ],
-        "correctIndex": 0,
-        "explain": "今天圖書館將在下午5點關閉。"
+        "correctIndex": 1,
+        "explain": "圖書館今天因為維護工作而提早關閉。"
       },
       {
-        "q": "Why is the library closing early?",
+        "q": "What time will the library close?",
         "options": [
-          "A special event.",
-          "Maintenance work.",
-          "Staff meeting.",
-          "Public holiday."
+          "At 4 PM.",
+          "At 5 PM.",
+          "At 6 PM.",
+          "At 7 PM."
         ],
-        "correctIndex": 0,
-        "explain": "因為有一個特別事件。"
+        "correctIndex": 1,
+        "explain": "圖書館將於下午五點關閉。"
       }
     ]
   },
   "talk": {
-    "transcript": "Today, I want to discuss renewable energy sources, which are vital for reducing our carbon footprint. Solar energy, for example, harnesses sunlight and converts it into electricity. Wind energy utilizes turbines to generate power from wind. Both sources are sustainable and have a lower environmental impact compared to fossil fuels. Not only do they help mitigate climate change, but they also offer energy independence. As technology advances, we will likely see even more efficient methods of harnessing these renewable energies.",
+    "transcript": "Today, I will explain the concept of sustainability. Sustainability refers to practices that meet our current needs without compromising the ability of future generations to meet their own needs. This involves balancing economic growth, environmental care, and social well-being. For example, using renewable energy sources like solar or wind reduces our reliance on fossil fuels, which is essential for minimizing environmental impact. Additionally, sustainable agriculture can help maintain healthy ecosystems while providing food for the population. Overall, the goal of sustainability is to create systems that support long-term ecological balance.",
     "questions": [
       {
-        "q": "What is a benefit of renewable energy sources?",
+        "q": "What does sustainability aim to achieve?",
         "options": [
-          "They are expensive.",
-          "They reduce carbon footprint.",
-          "They increase pollution.",
-          "They depend on fossil fuels."
+          "Immediate profit.",
+          "Long-term ecological balance.",
+          "Short-term resource use.",
+          "Increased consumption."
         ],
         "correctIndex": 1,
-        "explain": "可再生能源可以減少碳足跡。"
+        "explain": "可持續性旨在實現長期的生態平衡。"
       },
       {
-        "q": "Which energy source uses sunlight?",
+        "q": "Which energy sources are mentioned as sustainable?",
         "options": [
-          "Wind energy",
-          "Nuclear energy",
-          "Solar energy",
-          "Hydropower"
+          "Coal and oil.",
+          "Natural gas.",
+          "Solar and wind.",
+          "Nuclear energy."
         ],
         "correctIndex": 2,
-        "explain": "使用陽光的能源是太陽能。"
+        "explain": "提到的可持續能源來源為太陽能和風能。"
       },
       {
-        "q": "What does wind energy use to generate power?",
+        "q": "What is one benefit of sustainable agriculture?",
         "options": [
-          "Solar panels",
-          "Turbines",
-          "Batteries",
-          "Coal"
+          "Higher chemical use.",
+          "Loss of biodiversity.",
+          "Maintaining healthy ecosystems.",
+          "Decreased food production."
+        ],
+        "correctIndex": 2,
+        "explain": "可持續農業的好處之一是維持健康的生態系統。"
+      },
+      {
+        "q": "Why is reducing reliance on fossil fuels important?",
+        "options": [
+          "To increase pollution.",
+          "To minimize environmental impact.",
+          "To maximize energy use.",
+          "To reduce costs."
         ],
         "correctIndex": 1,
-        "explain": "風能使用渦輪機來發電。"
-      },
-      {
-        "q": "What is suggested for the future of renewable energy?",
-        "options": [
-          "Less efficient methods.",
-          "More fossil fuels.",
-          "More efficient methods.",
-          "Stopping research."
-        ],
-        "correctIndex": 2,
-        "explain": "建議未來會有更高效的可再生能源利用方法。"
+        "explain": "減少對化石燃料的依賴對於最小化環境影響至關重要。"
       }
     ]
   }

@@ -2,87 +2,104 @@
   "cloze": {
     "segments": [
       {
-        "text": "The theory of relativity, developed by Albert Einstein, revolutionized our understanding of time and space. It consists of two parts: special relativity and general relativity. Special relativity, introduced in 1905, addresses the behavior of objects moving at constant speeds, particularly those approaching the speed of light. This theory leads to the conclusion that time is not a constant, resulting in time dilatation, where time 'slo",
-        "blank": "ws"
+        "text": "The study of ancient civilizations often involves examining their art, architecture, and daily life. One such civilization is the Mesopotamians, who are credited with inventing writ"
       },
       {
-        "text": " for fast-moving objects. General relativity, published in 1915, further expands on these ideas by introducing gravity as a curvature of spacetime caused by mass. This means that massive objects like planets and stars can change the path of light, leading to phenomena such as lensing effects. Therefore, relativity not only changed how we perceive the universe but also had profound implications for fields such as astrophysics and cosmology."
+        "blank": "ing"
+      },
+      {
+        "text": " and creating one of the first known legal codes. Their society was highly advanced, with significant contributions to mathematics, astronomy, and agricul"
+      },
+      {
+        "blank": "ture."
+      },
+      {
+        "text": " They developed a complex irrigation system that allowed them to thrive in a arid land. The influence of Mesopotamian culture can still be seen in modern le"
+      },
+      {
+        "blank": "gal"
+      },
+      {
+        "text": " systems and agricultural practices. Understanding their achievements helps us appreciate the foundations of contemporary civi"
+      },
+      {
+        "blank": "lization."
       }
     ]
   },
   "academic": {
-    "passage": "The process of photosynthesis is crucial for life on Earth. Plants, algae, and some bacteria convert sunlight into chemical energy, producing oxygen as a byproduct. This process occurs mainly in the chloroplasts of plant cells, where chlorophyll captures light energy. The overall reaction can be summarized by the equation: carbon dioxide + water + light energy → glucose + oxygen. Photosynthesis not only sustains plants but also supports the entire food chain, making it an essential ecological function.",
+    "passage": "The study of ancient civilizations often reveals significant insights into human development. Mesopotamia, known as the cradle of civilization, contributed immensely to various fields including mathematics and law. Their innovations in irrigation transformed agriculture, allowing societies to flourish. This early civilization's achievements not only shaped their own society but also laid the groundwork for future cultures. A deeper understanding of such civilizations is crucial in grasping the complexities of modern human achievements.",
     "questions": [
       {
-        "q": "What is the main purpose of photosynthesis?",
+        "q": "What is the main idea of the passage?",
         "options": [
-          "To produce glucose and oxygen",
-          "To absorb carbon dioxide",
-          "To release energy",
-          "To capture sunlight"
+          "The contributions of Mesopotamia to various fields.",
+          "The history of ancient civilizations in general.",
+          "The agricultural practices of modern societies.",
+          "The role of art in Mesopotamian culture."
         ],
         "correctIndex": 0,
-        "explain": "光合作用的主要目的是將光能轉換為化學能，產生葡萄糖和氧氣。"
+        "explain": "這段話的主要意思是美索不達米亞對多個領域的貢獻，包括數學和法律。"
       },
       {
-        "q": "Where does photosynthesis primarily occur?",
+        "q": "Which field did the Mesopotamians NOT contribute to, according to the passage?",
         "options": [
-          "In the roots",
-          "In the chloroplasts",
-          "In the mitochondria",
-          "In the cytoplasm"
+          "Mathematics",
+          "Astronomy",
+          "Literature",
+          "Medicine"
+        ],
+        "correctIndex": 3,
+        "explain": "根據文本，美索不達米亞人在數學、天文學和法律方面做出了貢獻，但沒有提到醫學。"
+      },
+      {
+        "q": "What can be inferred about the impact of Mesopotamian culture?",
+        "options": [
+          "It is irrelevant to modern civilization.",
+          "It laid important foundations for future cultures.",
+          "It was isolated from other civilizations.",
+          "It only influenced agricultural practices."
         ],
         "correctIndex": 1,
-        "explain": "光合作用主要發生在植物細胞的葉綠體中。"
+        "explain": "可以推斷，美索不達米亞文化為未來的文化奠定了重要的基礎，因為它的成就影響了當代文明。"
       },
       {
-        "q": "What can be inferred about the role of photosynthesis in the ecosystem?",
+        "q": "What does the term 'cradle of civilization' refer to?",
         "options": [
-          "It decreases oxygen levels",
-          "It is not important for survival",
-          "It supports the food chain",
-          "It harms plant life"
+          "A modern agricultural practice.",
+          "An ancient civilization's innovations.",
+          "The beginning of human history.",
+          "A geographical location."
         ],
         "correctIndex": 2,
-        "explain": "從生態系統的角度看，光合作用支持整個食物鏈，對生態系統至關重要。"
-      },
-      {
-        "q": "What does the term 'chlorophyll' refer to in the passage?",
-        "options": [
-          "A type of plant",
-          "A pigment in plants",
-          "A process of energy conversion",
-          "A byproduct of photosynthesis"
-        ],
-        "correctIndex": 1,
-        "explain": "在本文中，'葉綠素'指的是植物中捕捉光能的顏色素。"
+        "explain": "'文明的搖籃'一詞指的是人類歷史的開始，特別是早期文明的發展。"
       }
     ]
   },
   "daily": {
-    "passage": "Attention students! The library will be closed for renovations from May 1 to May 15. Please plan accordingly and return any borrowed materials before April 30. Thank you for your understanding!",
+    "passage": "Attention students! The annual campus clean-up day will take place this Saturday. Volunteers are needed to help with landscaping and waste removal. Snacks and drinks will be provided. Join us in keeping our campus beautiful!",
     "questions": [
       {
-        "q": "When will the library be closed?",
+        "q": "When is the campus clean-up day scheduled?",
         "options": [
-          "From April 1 to April 15",
-          "From May 1 to May 15",
-          "From May 15 to May 30",
-          "From April 30 to May 1"
+          "Next Saturday",
+          "This Saturday",
+          "Tomorrow",
+          "Next week"
         ],
         "correctIndex": 1,
-        "explain": "圖書館將於5月1日至5月15日關閉進行翻新。"
+        "explain": "通告中提到清理日是安排在本週六。"
       },
       {
-        "q": "What should students do with borrowed materials?",
+        "q": "What will be provided for volunteers during the event?",
         "options": [
-          "Return them on May 1",
-          "Renew them online",
-          "Return them before April 30",
-          "Keep them until the library reopens"
+          "Free lunch",
+          "Snacks and drinks",
+          "T-shirts",
+          "Gift cards"
         ],
-        "correctIndex": 2,
-        "explain": "學生需要在4月30日之前歸還借用的材料。"
+        "correctIndex": 1,
+        "explain": "志願者在活動期間將獲得小吃和飲料。"
       }
     ]
   }
