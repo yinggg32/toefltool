@@ -1,116 +1,116 @@
 {
   "chooseResponse": [
     {
-      "q": "What are your plans for the weekend?",
+      "q": "What do you think about the new library hours?",
       "options": [
-        "I'm going hiking.",
-        "I will study all weekend.",
-        "I have no plans yet.",
-        "I'm visiting my family."
+        "I think they are great!",
+        "I don't like them.",
+        "They're too confusing.",
+        "I haven't checked yet."
       ],
       "correctIndex": 0
     }
   ],
   "conversation": {
-    "transcript": "Student: Hey, do you know where the new art exhibit is?\nAdvisor: Yes, it's at the downtown gallery. Have you been there before?\nStudent: No, I haven't. What type of art do they display?\nAdvisor: They focus on contemporary artists, mostly local talent.",
+    "transcript": "Student: Have you seen the new library hours?\nAdvisor: Yes, they changed to be open 24 hours during finals week.\nStudent: That sounds really helpful for us!\nAdvisor: I hope it encourages more students to study when they need to.",
     "questions": [
       {
-        "q": "Where is the new art exhibit located?",
+        "q": "What are the new hours of the library?",
         "options": [
-          "On campus.",
-          "At the downtown gallery.",
-          "In the city park.",
-          "At the museum."
+          "Open 24 hours during finals week",
+          "Open only on weekends",
+          "Closed on holidays",
+          "Open 8 AM to 10 PM"
         ],
-        "correctIndex": 1,
-        "explain": "新的藝術展覽位於市中心的畫廊。"
+        "correctIndex": 0,
+        "explain": "新圖書館的開放時間是考試週期間全天開放。"
       },
       {
-        "q": "What type of art does the exhibit feature?",
+        "q": "Why does the advisor think the new hours are beneficial?",
         "options": [
-          "Classical art.",
-          "Local contemporary art.",
-          "Photography only.",
-          "Sculptures only."
+          "They encourage more studying.",
+          "They save energy costs.",
+          "They allow staff to work longer hours.",
+          "They reduce noise in the library."
         ],
-        "correctIndex": 1,
-        "explain": "該展覽以當代藝術家為主，主要是本地人才的作品。"
+        "correctIndex": 0,
+        "explain": "顧問認為新的開放時間能鼓勵更多學生學習。"
       }
     ]
   },
   "announcement": {
-    "transcript": "Attention students! The library will be closing early today at 5 PM due to maintenance. Please plan to finish your studies accordingly. Thank you for your understanding.",
+    "transcript": "Attention students! We are pleased to announce that starting next week, the campus gym will be open 24 hours a day to accommodate all workout schedules. Be sure to check the gym's website for updates on classes and facility availability.",
     "questions": [
       {
-        "q": "Why is the library closing early today?",
+        "q": "When will the gym be open 24 hours?",
         "options": [
-          "For a special event.",
-          "Due to maintenance.",
-          "For staff training.",
-          "To restock supplies."
+          "Starting next week",
+          "Next month",
+          "This weekend",
+          "Immediately"
         ],
-        "correctIndex": 1,
-        "explain": "圖書館今天因為維護工作而提早關閉。"
+        "correctIndex": 0,
+        "explain": "健身房將從下週開始全天候開放。"
       },
       {
-        "q": "What time will the library close?",
+        "q": "Where can students find updates about the gym?",
         "options": [
-          "At 4 PM.",
-          "At 5 PM.",
-          "At 6 PM.",
-          "At 7 PM."
+          "On the gym's website",
+          "On social media",
+          "At the student center",
+          "Through email"
         ],
-        "correctIndex": 1,
-        "explain": "圖書館將於下午五點關閉。"
+        "correctIndex": 0,
+        "explain": "學生可以在健身房的網站上找到更新資訊。"
       }
     ]
   },
   "talk": {
-    "transcript": "Today, I will explain the concept of sustainability. Sustainability refers to practices that meet our current needs without compromising the ability of future generations to meet their own needs. This involves balancing economic growth, environmental care, and social well-being. For example, using renewable energy sources like solar or wind reduces our reliance on fossil fuels, which is essential for minimizing environmental impact. Additionally, sustainable agriculture can help maintain healthy ecosystems while providing food for the population. Overall, the goal of sustainability is to create systems that support long-term ecological balance.",
+    "transcript": "Today, I will explain the concept of photosynthesis, which is crucial for life on Earth. Plants, algae, and some bacteria use sunlight to convert carbon dioxide and water into glucose and oxygen. This process occurs mainly in the chloroplasts of plant cells. The glucose produced is used for energy and growth, while oxygen is released into the atmosphere as a byproduct. Understanding photosynthesis helps us appreciate the role of plants in ecosystems and their importance in the food chain.",
     "questions": [
       {
-        "q": "What does sustainability aim to achieve?",
+        "q": "What is the main product of photosynthesis?",
         "options": [
-          "Immediate profit.",
-          "Long-term ecological balance.",
-          "Short-term resource use.",
-          "Increased consumption."
+          "Glucose",
+          "Carbon dioxide",
+          "Oxygen",
+          "Water"
         ],
-        "correctIndex": 1,
-        "explain": "可持續性旨在實現長期的生態平衡。"
+        "correctIndex": 0,
+        "explain": "光合作用的主要產物是葡萄糖。"
       },
       {
-        "q": "Which energy sources are mentioned as sustainable?",
+        "q": "Where does photosynthesis occur in plant cells?",
         "options": [
-          "Coal and oil.",
-          "Natural gas.",
-          "Solar and wind.",
-          "Nuclear energy."
+          "In the mitochondria",
+          "In the nucleus",
+          "In the chloroplasts",
+          "In the cell wall"
         ],
         "correctIndex": 2,
-        "explain": "提到的可持續能源來源為太陽能和風能。"
+        "explain": "光合作用在植物細胞的葉綠體中進行。"
       },
       {
-        "q": "What is one benefit of sustainable agriculture?",
+        "q": "Why is oxygen important in photosynthesis?",
         "options": [
-          "Higher chemical use.",
-          "Loss of biodiversity.",
-          "Maintaining healthy ecosystems.",
-          "Decreased food production."
+          "It's a waste product.",
+          "It helps plants grow.",
+          "It contributes to global warming.",
+          "It is used for energy storage."
         ],
-        "correctIndex": 2,
-        "explain": "可持續農業的好處之一是維持健康的生態系統。"
+        "correctIndex": 0,
+        "explain": "氧氣是光合作用的副產品。"
       },
       {
-        "q": "Why is reducing reliance on fossil fuels important?",
+        "q": "What does photosynthesis convert sunlight into?",
         "options": [
-          "To increase pollution.",
-          "To minimize environmental impact.",
-          "To maximize energy use.",
-          "To reduce costs."
+          "Water",
+          "Glucose",
+          "Oxygen",
+          "Carbon dioxide"
         ],
         "correctIndex": 1,
-        "explain": "減少對化石燃料的依賴對於最小化環境影響至關重要。"
+        "explain": "光合作用將陽光轉換為葡萄糖。"
       }
     ]
   }

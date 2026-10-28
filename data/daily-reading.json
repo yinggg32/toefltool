@@ -2,104 +2,119 @@
   "cloze": {
     "segments": [
       {
-        "text": "The study of ancient civilizations often involves examining their art, architecture, and daily life. One such civilization is the Mesopotamians, who are credited with inventing writ"
+        "text": "The concept of atmospheric "
       },
       {
-        "blank": "ing"
+        "blank": "pres"
       },
       {
-        "text": " and creating one of the first known legal codes. Their society was highly advanced, with significant contributions to mathematics, astronomy, and agricul"
+        "text": "ure plays a crucial role in weather patterns. High atmospheric pressure typically indicates "
       },
       {
-        "blank": "ture."
+        "blank": "clea"
       },
       {
-        "text": " They developed a complex irrigation system that allowed them to thrive in a arid land. The influence of Mesopotamian culture can still be seen in modern le"
+        "text": "r skies and stable weather, while low pressure is associated with "
       },
       {
-        "blank": "gal"
+        "blank": "sto"
       },
       {
-        "text": " systems and agricultural practices. Understanding their achievements helps us appreciate the foundations of contemporary civi"
+        "text": "rms and precipitation. The movement of air masses is influenced by the "
       },
       {
-        "blank": "lization."
+        "blank": "gra"
+      },
+      {
+        "text": "dients in pressure, leading to wind formation. Meteorologists use various tools to "
+      },
+      {
+        "blank": "mo"
+      },
+      {
+        "text": "nitor these changes and predict upcoming weather. Understanding pressure systems is vital for "
+      },
+      {
+        "blank": "navi"
+      },
+      {
+        "text": "gating aviation and agriculture."
       }
     ]
   },
   "academic": {
-    "passage": "The study of ancient civilizations often reveals significant insights into human development. Mesopotamia, known as the cradle of civilization, contributed immensely to various fields including mathematics and law. Their innovations in irrigation transformed agriculture, allowing societies to flourish. This early civilization's achievements not only shaped their own society but also laid the groundwork for future cultures. A deeper understanding of such civilizations is crucial in grasping the complexities of modern human achievements.",
+    "passage": "Atmospheric pressure is an essential concept in meteorology. It refers to the weight of air above a specific point on Earth's surface. Changes in atmospheric pressure can significantly influence weather patterns. High pressure often correlates with clear and stable weather, while low pressure is usually linked to stormy conditions. Meteorologists analyze pressure systems to forecast weather events, using instruments such as barometers. By understanding how pressure systems interact, scientists can better predict the impacts of severe weather on various sectors, including agriculture and transportation.",
     "questions": [
       {
         "q": "What is the main idea of the passage?",
         "options": [
-          "The contributions of Mesopotamia to various fields.",
-          "The history of ancient civilizations in general.",
-          "The agricultural practices of modern societies.",
-          "The role of art in Mesopotamian culture."
+          "Atmospheric pressure affects weather patterns.",
+          "Meteorologists use barometers.",
+          "High pressure indicates clear weather.",
+          "Low pressure leads to storms."
         ],
         "correctIndex": 0,
-        "explain": "這段話的主要意思是美索不達米亞對多個領域的貢獻，包括數學和法律。"
+        "explain": "這段文字的主旨是大氣壓力對天氣模式的影響。"
       },
       {
-        "q": "Which field did the Mesopotamians NOT contribute to, according to the passage?",
+        "q": "What tools do meteorologists use to measure atmospheric pressure?",
         "options": [
-          "Mathematics",
-          "Astronomy",
-          "Literature",
-          "Medicine"
-        ],
-        "correctIndex": 3,
-        "explain": "根據文本，美索不達米亞人在數學、天文學和法律方面做出了貢獻，但沒有提到醫學。"
-      },
-      {
-        "q": "What can be inferred about the impact of Mesopotamian culture?",
-        "options": [
-          "It is irrelevant to modern civilization.",
-          "It laid important foundations for future cultures.",
-          "It was isolated from other civilizations.",
-          "It only influenced agricultural practices."
+          "Thermometers",
+          "Barometers",
+          "Hygrometers",
+          "Anemometers"
         ],
         "correctIndex": 1,
-        "explain": "可以推斷，美索不達米亞文化為未來的文化奠定了重要的基礎，因為它的成就影響了當代文明。"
+        "explain": "氣象學家使用氣壓計來測量大氣壓力。"
       },
       {
-        "q": "What does the term 'cradle of civilization' refer to?",
+        "q": "What can be inferred about low pressure systems?",
         "options": [
-          "A modern agricultural practice.",
-          "An ancient civilization's innovations.",
-          "The beginning of human history.",
-          "A geographical location."
+          "They are always beneficial.",
+          "They are generally linked to stormy weather.",
+          "They have no effect on weather.",
+          "They indicate high temperatures."
         ],
-        "correctIndex": 2,
-        "explain": "'文明的搖籃'一詞指的是人類歷史的開始，特別是早期文明的發展。"
+        "correctIndex": 1,
+        "explain": "低壓系統通常與暴風雨天氣有關。"
+      },
+      {
+        "q": "What does the term 'barometer' refer to in the context of this passage?",
+        "options": [
+          "A device for measuring temperature.",
+          "A device for measuring pressure.",
+          "A device for measuring humidity.",
+          "A device for measuring wind speed."
+        ],
+        "correctIndex": 1,
+        "explain": "在這段文字中，'barometer' 指的是用來測量大氣壓的儀器。"
       }
     ]
   },
   "daily": {
-    "passage": "Attention students! The annual campus clean-up day will take place this Saturday. Volunteers are needed to help with landscaping and waste removal. Snacks and drinks will be provided. Join us in keeping our campus beautiful!",
+    "passage": "Attention students: The library will be closed for maintenance this weekend. Please plan accordingly and return any borrowed materials by Friday evening. Thank you for your understanding!",
     "questions": [
       {
-        "q": "When is the campus clean-up day scheduled?",
+        "q": "When will the library be closed?",
         "options": [
-          "Next Saturday",
-          "This Saturday",
-          "Tomorrow",
-          "Next week"
+          "This weekend",
+          "Next weekend",
+          "Friday evening",
+          "Monday morning"
         ],
-        "correctIndex": 1,
-        "explain": "通告中提到清理日是安排在本週六。"
+        "correctIndex": 0,
+        "explain": "圖書館將於本週末關閉。"
       },
       {
-        "q": "What will be provided for volunteers during the event?",
+        "q": "What should students do with borrowed materials?",
         "options": [
-          "Free lunch",
-          "Snacks and drinks",
-          "T-shirts",
-          "Gift cards"
+          "Return them by Friday evening",
+          "Keep them until next week",
+          "Donate them",
+          "Read them in the library"
         ],
-        "correctIndex": 1,
-        "explain": "志願者在活動期間將獲得小吃和飲料。"
+        "correctIndex": 0,
+        "explain": "學生需要在星期五晚上之前歸還借出的材料。"
       }
     ]
   }

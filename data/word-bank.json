@@ -10062,5 +10062,45 @@
     "zh": "可视化；形象化",
     "ex": "Artists often visualize concepts before translating them into tangible forms.",
     "cat": "📰 每日新詞：art and architecture"
+  },
+  {
+    "word": "herbivore",
+    "pos": "n.",
+    "root": "herbi-植物+vore-吃的",
+    "zh": "草食動物",
+    "ex": "Herbivores primarily consume plants for their energy needs.",
+    "cat": "📰 每日新詞：biology"
+  },
+  {
+    "word": "carnivore",
+    "pos": "n.",
+    "root": "carni-肉+vore-吃的",
+    "zh": "肉食動物",
+    "ex": "Carnivores are animals that mainly eat other animals.",
+    "cat": "📰 每日新詞：biology"
+  },
+  {
+    "word": "abiotic",
+    "pos": "adj.",
+    "root": "a-無+biot-生命+ic-的",
+    "zh": "非生物的",
+    "ex": "Abiotic factors such as sunlight and temperature influence ecosystem dynamics.",
+    "cat": "📰 每日新詞：biology"
+  },
+  {
+    "word": "trophic",
+    "pos": "adj.",
+    "root": "troph-營養+ic-的",
+    "zh": "營養的",
+    "ex": "Trophic levels describe the hierarchy of energy transfer in an ecosystem.",
+    "cat": "📰 每日新詞：biology"
+  },
+  {
+    "word": "contaminant",
+    "pos": "n.",
+    "root": "contamin-污染+ant-物質",
+    "zh": "污染物",
+    "ex": "Contaminants in water can pose serious health risks to humans and wildlife.",
+    "cat": "📰 每日新詞：biology"
   }
 ]
