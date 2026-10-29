@@ -1,116 +1,116 @@
 {
   "chooseResponse": [
     {
-      "q": "What do you think about the new library hours?",
+      "q": "Did you finish the reading assignment?",
       "options": [
-        "I think they are great!",
-        "I don't like them.",
-        "They're too confusing.",
-        "I haven't checked yet."
+        "Yes, it was interesting.",
+        "No, I didn't have time.",
+        "I started but got distracted.",
+        "I plan to do it later."
       ],
       "correctIndex": 0
     }
   ],
   "conversation": {
-    "transcript": "Student: Have you seen the new library hours?\nAdvisor: Yes, they changed to be open 24 hours during finals week.\nStudent: That sounds really helpful for us!\nAdvisor: I hope it encourages more students to study when they need to.",
+    "transcript": "Student: Hey, did you attend the guest lecture yesterday?\nAdvisor: Yes, I did! It was really informative. Did you go?\nStudent: No, I missed it. What was it about?\nAdvisor: It covered sustainable energy solutions. Very relevant to our studies.",
     "questions": [
       {
-        "q": "What are the new hours of the library?",
+        "q": "What topic did the guest lecture cover?",
         "options": [
-          "Open 24 hours during finals week",
-          "Open only on weekends",
-          "Closed on holidays",
-          "Open 8 AM to 10 PM"
+          "Sustainable energy solutions",
+          "Renewable resources",
+          "Climate change",
+          "Technology in education"
         ],
         "correctIndex": 0,
-        "explain": "新圖書館的開放時間是考試週期間全天開放。"
+        "explain": "這個講座的主題是可持續能源解決方案。"
       },
       {
-        "q": "Why does the advisor think the new hours are beneficial?",
+        "q": "Why did the student miss the lecture?",
         "options": [
-          "They encourage more studying.",
-          "They save energy costs.",
-          "They allow staff to work longer hours.",
-          "They reduce noise in the library."
+          "They were busy studying.",
+          "They forgot about it.",
+          "They didn't have time.",
+          "They didn't know about it."
         ],
-        "correctIndex": 0,
-        "explain": "顧問認為新的開放時間能鼓勵更多學生學習。"
+        "correctIndex": 2,
+        "explain": "學生因為沒有時間而錯過了講座。"
       }
     ]
   },
   "announcement": {
-    "transcript": "Attention students! We are pleased to announce that starting next week, the campus gym will be open 24 hours a day to accommodate all workout schedules. Be sure to check the gym's website for updates on classes and facility availability.",
+    "transcript": "Attention students: The library will be closed for renovations starting next Monday. We expect to reopen in two weeks. Please plan accordingly and check our website for updates.",
     "questions": [
       {
-        "q": "When will the gym be open 24 hours?",
+        "q": "When will the library close?",
         "options": [
-          "Starting next week",
-          "Next month",
-          "This weekend",
-          "Immediately"
+          "Next Monday",
+          "This Friday",
+          "Next Wednesday",
+          "Tomorrow"
         ],
         "correctIndex": 0,
-        "explain": "健身房將從下週開始全天候開放。"
+        "explain": "圖書館將於下週一關閉。"
       },
       {
-        "q": "Where can students find updates about the gym?",
+        "q": "How long is the library expected to be closed?",
         "options": [
-          "On the gym's website",
-          "On social media",
-          "At the student center",
-          "Through email"
+          "One week",
+          "Two weeks",
+          "Three weeks",
+          "Indefinitely"
         ],
-        "correctIndex": 0,
-        "explain": "學生可以在健身房的網站上找到更新資訊。"
+        "correctIndex": 1,
+        "explain": "預計圖書館將關閉兩週。"
       }
     ]
   },
   "talk": {
-    "transcript": "Today, I will explain the concept of photosynthesis, which is crucial for life on Earth. Plants, algae, and some bacteria use sunlight to convert carbon dioxide and water into glucose and oxygen. This process occurs mainly in the chloroplasts of plant cells. The glucose produced is used for energy and growth, while oxygen is released into the atmosphere as a byproduct. Understanding photosynthesis helps us appreciate the role of plants in ecosystems and their importance in the food chain.",
+    "transcript": "Today, we will discuss the concept of biodiversity. Biodiversity refers to the variety of life found on Earth, including different species of plants, animals, and microorganisms. It is crucial for ecosystem health, providing services such as pollination, water purification, and climate regulation. High biodiversity can enhance resilience to environmental changes and support human well-being. However, human activities, such as deforestation and pollution, are threatening biodiversity worldwide. Conservation efforts aim to protect ecosystems and promote sustainable practices to preserve this vital resource for future generations.",
     "questions": [
       {
-        "q": "What is the main product of photosynthesis?",
+        "q": "What is biodiversity?",
         "options": [
-          "Glucose",
-          "Carbon dioxide",
-          "Oxygen",
-          "Water"
+          "Variety of life on Earth",
+          "Types of ecosystems",
+          "Human impact on nature",
+          "Species extinction"
         ],
         "correctIndex": 0,
-        "explain": "光合作用的主要產物是葡萄糖。"
+        "explain": "生物多樣性是地球上生命的多樣性。"
       },
       {
-        "q": "Where does photosynthesis occur in plant cells?",
+        "q": "Why is biodiversity important?",
         "options": [
-          "In the mitochondria",
-          "In the nucleus",
-          "In the chloroplasts",
-          "In the cell wall"
-        ],
-        "correctIndex": 2,
-        "explain": "光合作用在植物細胞的葉綠體中進行。"
-      },
-      {
-        "q": "Why is oxygen important in photosynthesis?",
-        "options": [
-          "It's a waste product.",
-          "It helps plants grow.",
-          "It contributes to global warming.",
-          "It is used for energy storage."
-        ],
-        "correctIndex": 0,
-        "explain": "氧氣是光合作用的副產品。"
-      },
-      {
-        "q": "What does photosynthesis convert sunlight into?",
-        "options": [
-          "Water",
-          "Glucose",
-          "Oxygen",
-          "Carbon dioxide"
+          "It creates jobs.",
+          "It helps regulate climate.",
+          "It reduces pollution.",
+          "It increases food production."
         ],
         "correctIndex": 1,
-        "explain": "光合作用將陽光轉換為葡萄糖。"
+        "explain": "生物多樣性對於氣候調節非常重要。"
+      },
+      {
+        "q": "What threatens biodiversity?",
+        "options": [
+          "Urbanization",
+          "Deforestation",
+          "Climate change",
+          "All of the above"
+        ],
+        "correctIndex": 3,
+        "explain": "城市化、森林砍伐和氣候變化都威脅著生物多樣性。"
+      },
+      {
+        "q": "What do conservation efforts aim to do?",
+        "options": [
+          "Increase pollution",
+          "Commercialize ecosystems",
+          "Protect ecosystems",
+          "Promote urban development"
+        ],
+        "correctIndex": 2,
+        "explain": "保護工作旨在保護生態系統。"
       }
     ]
   }

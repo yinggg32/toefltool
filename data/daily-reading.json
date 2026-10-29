@@ -2,119 +2,95 @@
   "cloze": {
     "segments": [
       {
-        "text": "The concept of atmospheric "
+        "text": "The process of photosynthesis is vital for life on Earth. It occurs primarily in plants, where chlorophyll captures sunlight, enabling the conversion of carbon dioxide and water into glucose and oxyge"
       },
       {
-        "blank": "pres"
+        "blank": "n."
       },
       {
-        "text": "ure plays a crucial role in weather patterns. High atmospheric pressure typically indicates "
+        "text": " This remarkable biochemical reaction not only provides energy for the plant but also releases oxygen, which is essential for other organisms. The overall equation for photosynthesis can be summarized as follows: carbon dioxide plus water, in the presence of light, yields glucose and oxyge"
       },
       {
-        "blank": "clea"
+        "blank": "n."
       },
       {
-        "text": "r skies and stable weather, while low pressure is associated with "
-      },
-      {
-        "blank": "sto"
-      },
-      {
-        "text": "rms and precipitation. The movement of air masses is influenced by the "
-      },
-      {
-        "blank": "gra"
-      },
-      {
-        "text": "dients in pressure, leading to wind formation. Meteorologists use various tools to "
-      },
-      {
-        "blank": "mo"
-      },
-      {
-        "text": "nitor these changes and predict upcoming weather. Understanding pressure systems is vital for "
-      },
-      {
-        "blank": "navi"
-      },
-      {
-        "text": "gating aviation and agriculture."
+        "text": " Understanding photosynthesis is crucial for comprehending ecological dynamics, as it forms the basis of food webs. Moreover, studying this process can help us address issues related to climate change and food security, as enhancements in photosynthetic efficiency could lead to more sustainable agricultural practices."
       }
     ]
   },
   "academic": {
-    "passage": "Atmospheric pressure is an essential concept in meteorology. It refers to the weight of air above a specific point on Earth's surface. Changes in atmospheric pressure can significantly influence weather patterns. High pressure often correlates with clear and stable weather, while low pressure is usually linked to stormy conditions. Meteorologists analyze pressure systems to forecast weather events, using instruments such as barometers. By understanding how pressure systems interact, scientists can better predict the impacts of severe weather on various sectors, including agriculture and transportation.",
+    "passage": "Photosynthesis is the process by which green plants, algae, and some bacteria convert light energy into chemical energy stored in glucose. This process is fundamental to life on Earth, as it produces oxygen and organic compounds that serve as food for various organisms. Understanding the mechanisms and efficiency of photosynthesis can help improve agricultural productivity and address environmental challenges, such as climate change.",
     "questions": [
       {
         "q": "What is the main idea of the passage?",
         "options": [
-          "Atmospheric pressure affects weather patterns.",
-          "Meteorologists use barometers.",
-          "High pressure indicates clear weather.",
-          "Low pressure leads to storms."
+          "Photosynthesis is crucial for life on Earth.",
+          "Plants convert sunlight into energy through photosynthesis.",
+          "Photosynthesis helps in improving agricultural productivity.",
+          "Photosynthesis occurs only in green plants."
         ],
         "correctIndex": 0,
-        "explain": "這段文字的主旨是大氣壓力對天氣模式的影響。"
+        "explain": "這段文字的主旨是闡述光合作用對地球生命的重要性。"
       },
       {
-        "q": "What tools do meteorologists use to measure atmospheric pressure?",
+        "q": "Which organisms primarily perform photosynthesis according to the passage?",
         "options": [
-          "Thermometers",
-          "Barometers",
-          "Hygrometers",
-          "Anemometers"
+          "Only plants",
+          "Algae and bacteria",
+          "Green plants, algae, and some bacteria",
+          "Only bacteria"
         ],
-        "correctIndex": 1,
-        "explain": "氣象學家使用氣壓計來測量大氣壓力。"
+        "correctIndex": 2,
+        "explain": "根據這段文字，光合作用主要發生在綠色植物、藻類和某些細菌中。"
       },
       {
-        "q": "What can be inferred about low pressure systems?",
+        "q": "What inference can be drawn about the importance of studying photosynthesis?",
         "options": [
-          "They are always beneficial.",
-          "They are generally linked to stormy weather.",
-          "They have no effect on weather.",
-          "They indicate high temperatures."
+          "It is only relevant to scientists.",
+          "It can lead to advancements in technology.",
+          "It helps improve food security and environmental sustainability.",
+          "It is not relevant to climate change."
         ],
-        "correctIndex": 1,
-        "explain": "低壓系統通常與暴風雨天氣有關。"
+        "correctIndex": 2,
+        "explain": "研究光合作用對於改善食物安全和環境可持續性具有重要意義。"
       },
       {
-        "q": "What does the term 'barometer' refer to in the context of this passage?",
+        "q": "What does the term 'organic compounds' refer to in the context of the passage?",
         "options": [
-          "A device for measuring temperature.",
-          "A device for measuring pressure.",
-          "A device for measuring humidity.",
-          "A device for measuring wind speed."
+          "Substances produced by non-living processes.",
+          "Compounds made by organisms that contain carbon.",
+          "Chemical compounds with no biological relevance.",
+          "Only carbohydrates produced by plants."
         ],
         "correctIndex": 1,
-        "explain": "在這段文字中，'barometer' 指的是用來測量大氣壓的儀器。"
+        "explain": "在這段文字中，'有機化合物'指的是由生物製造且含碳的化合物。"
       }
     ]
   },
   "daily": {
-    "passage": "Attention students: The library will be closed for maintenance this weekend. Please plan accordingly and return any borrowed materials by Friday evening. Thank you for your understanding!",
+    "passage": "Attention students: The library will be closed for maintenance from March 1st to March 5th. Please plan accordingly and return materials before the closure. Thank you for your understanding.",
     "questions": [
       {
         "q": "When will the library be closed?",
         "options": [
-          "This weekend",
-          "Next weekend",
-          "Friday evening",
-          "Monday morning"
+          "From March 1st to March 5th",
+          "On March 5th only",
+          "For the entire month of March",
+          "From March 1st to March 3rd"
         ],
         "correctIndex": 0,
-        "explain": "圖書館將於本週末關閉。"
+        "explain": "圖書館將於3月1日至3月5日關閉。"
       },
       {
-        "q": "What should students do with borrowed materials?",
+        "q": "What should students do before the library closes?",
         "options": [
-          "Return them by Friday evening",
-          "Keep them until next week",
-          "Donate them",
-          "Read them in the library"
+          "Return borrowed materials",
+          "Check out more books",
+          "Attend a meeting",
+          "Visit other libraries"
         ],
         "correctIndex": 0,
-        "explain": "學生需要在星期五晚上之前歸還借出的材料。"
+        "explain": "學生們應在圖書館關閉前歸還借用的資料。"
       }
     ]
   }

@@ -1,45 +1,45 @@
 {
   "shadowSentences": [
-    "I love reading books at night.",
-    "The sun sets beautifully over the ocean.",
-    "Cooking is one of my favorite hobbies.",
-    "I often go for walks in the park.",
-    "Traveling to new places excites me a lot.",
-    "My family enjoys playing board games together.",
-    "Listening to music helps me relax after work.",
-    "I like to try different kinds of cuisine from around the world.",
-    "Volunteering at the local shelter has been very rewarding.",
-    "Exploring nature trails gives me a sense of peace and adventure."
+    "I enjoy reading books every night.",
+    "My favorite season is autumn because of the colors.",
+    "I often go hiking in the mountains near my home.",
+    "Cooking new recipes helps me relax after a long day.",
+    "I like to listen to music while I work on projects.",
+    "Traveling to new places really broadens my perspective.",
+    "I often volunteer at the local animal shelter on weekends.",
+    "Watching documentaries gives me a better understanding of the world.",
+    "Practicing a new language can be challenging but rewarding.",
+    "Gardening in my backyard has taught me patience and care."
   ],
   "interviewScenarios": [
     {
-      "topic": "環保意識",
-      "intro": "You have agreed to take part in a research study about environmental awareness.",
+      "topic": "旅行經歷",
+      "intro": "You have agreed to take part in a research study about travel experiences.",
       "questions": [
-        "Q1: Can you share a personal experience that made you more aware of environmental issues?",
-        "Q2: What do you think are some common challenges people face when trying to be environmentally friendly?",
-        "Q3: In your opinion, how important is it to protect the environment?",
-        "Q4: What advice would you give someone who wants to live a more eco-friendly lifestyle?"
-      ]
-    },
-    {
-      "topic": "時間管理",
-      "intro": "You have agreed to take part in a research study about time management.",
-      "questions": [
-        "Q1: Can you describe a time when you struggled with managing your time effectively?",
-        "Q2: What are some difficulties you encounter when trying to stick to a schedule?",
-        "Q3: How do you feel about the importance of time management in daily life?",
-        "Q4: What tips would you offer to someone looking to improve their time management skills?"
+        "Q1: Can you share a memorable travel experience you had?",
+        "Q2: What challenges did you face during your travels?",
+        "Q3: In your opinion, what is the value of traveling?",
+        "Q4: What advice would you give to someone planning their first trip?"
       ]
     },
     {
       "topic": "運動習慣",
-      "intro": "You have agreed to take part in a research study about exercise habits.",
+      "intro": "You have agreed to take part in a research study about sports habits.",
       "questions": [
-        "Q1: What is your personal experience with maintaining a regular exercise routine?",
-        "Q2: What obstacles do you think people face when trying to stay active?",
-        "Q3: How do you view the role of exercise in a healthy lifestyle?",
-        "Q4: What recommendations would you give to someone who wants to start exercising regularly?"
+        "Q1: What sports do you enjoy playing or watching?",
+        "Q2: How do you find the time to stay active?",
+        "Q3: Why do you think sports are important in our lives?",
+        "Q4: What recommendations do you have for someone starting a new sport?"
+      ]
+    },
+    {
+      "topic": "音樂品味",
+      "intro": "You have agreed to take part in a research study about music preferences.",
+      "questions": [
+        "Q1: What type of music do you enjoy the most?",
+        "Q2: How has your taste in music changed over the years?",
+        "Q3: Why do you believe music is significant to people?",
+        "Q4: What tips can you give someone looking to explore new genres?"
       ]
     }
   ]

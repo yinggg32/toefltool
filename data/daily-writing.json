@@ -2,123 +2,134 @@
   "buildSentences": [
     {
       "words": [
-        "students",
-        "library",
+        "the",
+        "birds",
+        "singing",
         "in",
         "the",
-        "quiet",
-        "study",
-        "prefer",
-        "to"
-      ],
-      "display": "Students prefer to study in the quiet library."
-    },
-    {
-      "words": [
-        "benefits",
-        "exercise",
-        "there",
-        "many",
+        "trees",
         "are",
-        "of",
-        "physical",
-        "health"
+        "beautiful"
       ],
-      "display": "There are many benefits of exercise for physical health."
+      "display": "The birds singing in the trees are beautiful."
     },
     {
       "words": [
+        "students",
+        "understand",
         "the",
         "importance",
         "of",
-        "learning",
-        "second",
-        "languages",
-        "in",
-        "globalization"
+        "time",
+        "management",
+        "better"
       ],
-      "display": "The importance of learning second languages in globalization."
+      "display": "Students understand the importance of time management better."
     },
     {
       "words": [
-        "research",
-        "scientists",
-        "conducted",
+        "she",
+        "enjoys",
+        "reading",
+        "books",
+        "by",
         "the",
+        "fireplace",
+        "during",
+        "winter"
+      ],
+      "display": "She enjoys reading books by the fireplace during winter."
+    },
+    {
+      "words": [
+        "the",
+        "conference",
+        "will",
+        "be",
+        "held",
+        "next",
+        "week",
+        "in",
+        "the",
+        "auditorium"
+      ],
+      "display": "The conference will be held next week in the auditorium."
+    },
+    {
+      "words": [
+        "in",
+        "the",
+        "summer",
+        "we",
+        "plan",
         "to",
-        "find",
-        "new",
-        "treatments"
+        "travel",
+        "to",
+        "europe",
+        "together"
       ],
-      "display": "The scientists conducted research to find new treatments."
+      "display": "In the summer we plan to travel to Europe together."
     },
     {
       "words": [
-        "students",
-        "should",
-        "take",
-        "advantage",
-        "of",
-        "available",
-        "resources",
-        "university"
-      ],
-      "display": "Students should take advantage of the available resources at university."
-    },
-    {
-      "words": [
-        "effects",
+        "the",
+        "scientists",
+        "are",
+        "conducting",
+        "research",
+        "on",
         "climate",
         "change",
-        "on",
-        "the",
-        "environment",
-        "are",
-        "significant"
+        "effects"
       ],
-      "display": "The effects of climate change on the environment are significant."
+      "display": "The scientists are conducting research on climate change effects."
     },
     {
       "words": [
-        "reading",
-        "improves",
-        "writing",
-        "skills",
-        "and",
-        "comprehension",
-        "in",
-        "students"
-      ],
-      "display": "Reading improves writing skills and comprehension in students."
-    },
-    {
-      "words": [
-        "technology",
+        "music",
         "has",
-        "changed",
         "the",
-        "way",
-        "we",
-        "communicate",
-        "dramatically"
+        "power",
+        "to",
+        "influence",
+        "people's",
+        "emotions",
+        "and",
+        "thoughts"
       ],
-      "display": "Technology has changed the way we communicate dramatically."
+      "display": "Music has the power to influence people's emotions and thoughts."
+    },
+    {
+      "words": [
+        "he",
+        "was",
+        "surprised",
+        "to",
+        "find",
+        "his",
+        "lost",
+        "keys",
+        "in",
+        "the",
+        "garden"
+      ],
+      "display": "He was surprised to find his lost keys in the garden."
     }
   ],
   "emailPrompts": [
-    "寄信給教授，詢問關於課程作業的延遲提交政策。",
-    "寄信給宿舍辦公室，請求更換房間的安排。",
-    "寄信給圖書館，詢問圖書的借閱政策和罰款問題。",
-    "寄信給學生會，表達對即將舉行的活動的興趣並請求更多資訊。",
-    "寄信給客戶服務，詢問訂單的運送進度和問題解決方案。",
-    "寄信給輔導老師，請求關於學習方法的建議和指導。"
+    "寄信給教授，詢問有關期末報告的格式要求。",
+    "寄信給宿舍辦公室，請求更換房間。",
+    "寄信給圖書館，詢問如何延長書籍借閱期限。",
+    "寄信給社團負責人，表達參加下次會議的意願。",
+    "寄信給客服，反映最近購買的產品出現的問題。",
+    "寄信給導師，請求安排一次輔導時間。"
   ],
   "discussionPrompts": [
-    "教授問：「你認為科技在教育中的角色是正面的還是負面的？」",
-    "教授問：「文化多樣性如何影響社會和諧？」",
-    "教授問：「全球化對地方經濟的影響有哪些？」",
-    "教授問：「環保政策與經濟發展之間的衝突如何解決？」",
-    "教授問：「社交媒體對人際關係的影響是什麼？」",
-    "教授問：「人工智慧會改變未來工作市場的方式嗎？」"
+    "教授問：「科技進步對教育的影響是正面還是負面？」",
+    "教授問：「環保措施應該優先考量經濟發展嗎？」",
+    "教授問：「社交媒體對人際關係的影響如何？」",
+    "教授問：「文化多樣性對社會的貢獻是什麼？」",
+    "教授問：「應該如何評估藝術作品的價值？」",
+    "教授問：「全球化是否削弱了本地文化的發展？」"
   ]
 }
