@@ -1,45 +1,45 @@
 {
   "shadowSentences": [
-    "I enjoy reading books every night.",
-    "My favorite season is autumn because of the colors.",
-    "I often go hiking in the mountains near my home.",
-    "Cooking new recipes helps me relax after a long day.",
-    "I like to listen to music while I work on projects.",
-    "Traveling to new places really broadens my perspective.",
-    "I often volunteer at the local animal shelter on weekends.",
-    "Watching documentaries gives me a better understanding of the world.",
-    "Practicing a new language can be challenging but rewarding.",
-    "Gardening in my backyard has taught me patience and care."
+    "I love to read books every night.",
+    "My favorite season is autumn for the colors.",
+    "Cooking new recipes brings me a lot of joy.",
+    "I enjoy hiking in the mountains during weekends.",
+    "Traveling allows me to learn about new cultures.",
+    "Listening to music helps me relax after a long day.",
+    "I think volunteering is a great way to give back.",
+    "Playing sports with friends keeps me active and healthy.",
+    "I prefer studying in quiet places to focus better.",
+    "Finding a balance between work and play is essential for happiness."
   ],
   "interviewScenarios": [
     {
-      "topic": "旅行經歷",
-      "intro": "You have agreed to take part in a research study about travel experiences.",
+      "topic": "興趣與愛好",
+      "intro": "You have agreed to take part in a research study about hobbies.",
       "questions": [
-        "Q1: Can you share a memorable travel experience you had?",
-        "Q2: What challenges did you face during your travels?",
-        "Q3: In your opinion, what is the value of traveling?",
-        "Q4: What advice would you give to someone planning their first trip?"
+        "Q1: What is a hobby that you enjoy doing?",
+        "Q2: Have you ever faced challenges in pursuing your hobby?",
+        "Q3: Why do you think hobbies are important for people?",
+        "Q4: What advice would you give someone trying to find a hobby?"
       ]
     },
     {
-      "topic": "運動習慣",
-      "intro": "You have agreed to take part in a research study about sports habits.",
+      "topic": "環保意識",
+      "intro": "You have agreed to take part in a research study about environmental awareness.",
       "questions": [
-        "Q1: What sports do you enjoy playing or watching?",
-        "Q2: How do you find the time to stay active?",
-        "Q3: Why do you think sports are important in our lives?",
-        "Q4: What recommendations do you have for someone starting a new sport?"
+        "Q1: Can you describe a time when you practiced eco-friendly habits?",
+        "Q2: What are some challenges people face in being environmentally conscious?",
+        "Q3: In your opinion, how important is it to protect the environment?",
+        "Q4: What tips would you give someone looking to live a greener lifestyle?"
       ]
     },
     {
-      "topic": "音樂品味",
-      "intro": "You have agreed to take part in a research study about music preferences.",
+      "topic": "職業選擇",
+      "intro": "You have agreed to take part in a research study about career choices.",
       "questions": [
-        "Q1: What type of music do you enjoy the most?",
-        "Q2: How has your taste in music changed over the years?",
-        "Q3: Why do you believe music is significant to people?",
-        "Q4: What tips can you give someone looking to explore new genres?"
+        "Q1: What was your first job and how did you feel about it?",
+        "Q2: What challenges did you encounter when starting your career?",
+        "Q3: How do you think job satisfaction impacts a person’s life?",
+        "Q4: What advice would you offer to someone choosing a career path?"
       ]
     }
   ]

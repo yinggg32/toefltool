@@ -1,116 +1,116 @@
 {
   "chooseResponse": [
     {
-      "q": "Did you finish the reading assignment?",
+      "q": "What did you think of the lecture?",
       "options": [
-        "Yes, it was interesting.",
-        "No, I didn't have time.",
-        "I started but got distracted.",
-        "I plan to do it later."
+        "It was really interesting.",
+        "I didn't understand much.",
+        "I don't like this topic.",
+        "It was too long."
       ],
       "correctIndex": 0
     }
   ],
   "conversation": {
-    "transcript": "Student: Hey, did you attend the guest lecture yesterday?\nAdvisor: Yes, I did! It was really informative. Did you go?\nStudent: No, I missed it. What was it about?\nAdvisor: It covered sustainable energy solutions. Very relevant to our studies.",
+    "transcript": "Student: Hey, did you attend the guest lecture on climate change?\nProfessor: Yes, I did. What did you think of it?\nStudent: I found it quite informative, especially the part about renewable energy.\nProfessor: I agree, it’s crucial for our future. Did anything surprise you?",
     "questions": [
       {
         "q": "What topic did the guest lecture cover?",
         "options": [
-          "Sustainable energy solutions",
-          "Renewable resources",
           "Climate change",
-          "Technology in education"
+          "Art history",
+          "Quantum physics",
+          "Nutrition"
         ],
         "correctIndex": 0,
-        "explain": "這個講座的主題是可持續能源解決方案。"
+        "explain": "這場嘉賓講座的主題是氣候變化。"
       },
       {
-        "q": "Why did the student miss the lecture?",
+        "q": "What aspect of the lecture did the student find informative?",
         "options": [
-          "They were busy studying.",
-          "They forgot about it.",
-          "They didn't have time.",
-          "They didn't know about it."
+          "Renewable energy",
+          "Statistics",
+          "Global warming",
+          "Recycling methods"
         ],
-        "correctIndex": 2,
-        "explain": "學生因為沒有時間而錯過了講座。"
+        "correctIndex": 0,
+        "explain": "學生對可再生能源這一部分覺得很有啟發。"
       }
     ]
   },
   "announcement": {
-    "transcript": "Attention students: The library will be closed for renovations starting next Monday. We expect to reopen in two weeks. Please plan accordingly and check our website for updates.",
+    "transcript": "Attention students! The annual Sustainability Fair will take place this Saturday in the main quad. Join us for workshops, guest speakers, and a chance to learn about eco-friendly practices. Don't miss out on free giveaways! We hope to see you all there!",
     "questions": [
       {
-        "q": "When will the library close?",
+        "q": "What event is being announced?",
         "options": [
-          "Next Monday",
-          "This Friday",
-          "Next Wednesday",
-          "Tomorrow"
+          "Sustainability Fair",
+          "Career Day",
+          "Art Exhibition",
+          "Sports Tournament"
         ],
         "correctIndex": 0,
-        "explain": "圖書館將於下週一關閉。"
+        "explain": "這裡宣布的是年度可持續性博覽會。"
       },
       {
-        "q": "How long is the library expected to be closed?",
+        "q": "When will the event take place?",
         "options": [
-          "One week",
-          "Two weeks",
-          "Three weeks",
-          "Indefinitely"
+          "This Saturday",
+          "Next Friday",
+          "Tomorrow",
+          "Next month"
         ],
-        "correctIndex": 1,
-        "explain": "預計圖書館將關閉兩週。"
+        "correctIndex": 0,
+        "explain": "活動將在這個星期六舉行。"
       }
     ]
   },
   "talk": {
-    "transcript": "Today, we will discuss the concept of biodiversity. Biodiversity refers to the variety of life found on Earth, including different species of plants, animals, and microorganisms. It is crucial for ecosystem health, providing services such as pollination, water purification, and climate regulation. High biodiversity can enhance resilience to environmental changes and support human well-being. However, human activities, such as deforestation and pollution, are threatening biodiversity worldwide. Conservation efforts aim to protect ecosystems and promote sustainable practices to preserve this vital resource for future generations.",
+    "transcript": "Today, I want to talk about the importance of biodiversity. Biodiversity refers to the variety of life on Earth, including different species of plants, animals, and microorganisms. It plays a crucial role in maintaining ecosystem services, such as pollination, nutrient cycling, and climate regulation. The loss of biodiversity can lead to a decline in these services, impacting food security and human health. Conserving biodiversity is essential for our survival and well-being. It can also enhance resilience to environmental changes and provide resources for future generations. In summary, biodiversity is vital for a healthy planet and should be prioritized in our conservation efforts.",
     "questions": [
       {
-        "q": "What is biodiversity?",
+        "q": "What does biodiversity refer to?",
         "options": [
-          "Variety of life on Earth",
+          "Variety of life",
           "Types of ecosystems",
-          "Human impact on nature",
-          "Species extinction"
+          "Climate change effects",
+          "Human population"
         ],
         "correctIndex": 0,
-        "explain": "生物多樣性是地球上生命的多樣性。"
+        "explain": "生物多樣性指的是地球上生命的多樣性。"
       },
       {
         "q": "Why is biodiversity important?",
         "options": [
-          "It creates jobs.",
-          "It helps regulate climate.",
+          "It helps maintain ecosystem services.",
           "It reduces pollution.",
-          "It increases food production."
+          "It increases human population.",
+          "It improves technology."
         ],
-        "correctIndex": 1,
-        "explain": "生物多樣性對於氣候調節非常重要。"
+        "correctIndex": 0,
+        "explain": "生物多樣性有助於維持生態系統服務。"
       },
       {
-        "q": "What threatens biodiversity?",
+        "q": "What can lead to a decline in ecosystem services?",
         "options": [
-          "Urbanization",
-          "Deforestation",
-          "Climate change",
-          "All of the above"
+          "Loss of biodiversity",
+          "Increased pollution",
+          "Urban development",
+          "Climate change"
         ],
-        "correctIndex": 3,
-        "explain": "城市化、森林砍伐和氣候變化都威脅著生物多樣性。"
+        "correctIndex": 0,
+        "explain": "生物多樣性的喪失會導致生態系統服務的下降。"
       },
       {
-        "q": "What do conservation efforts aim to do?",
+        "q": "What should be prioritized according to the talk?",
         "options": [
-          "Increase pollution",
-          "Commercialize ecosystems",
-          "Protect ecosystems",
-          "Promote urban development"
+          "Conservation of biodiversity",
+          "Industrial growth",
+          "Urban expansion",
+          "Technological innovation"
         ],
-        "correctIndex": 2,
-        "explain": "保護工作旨在保護生態系統。"
+        "correctIndex": 0,
+        "explain": "根據講座，應該優先保護生物多樣性。"
       }
     ]
   }

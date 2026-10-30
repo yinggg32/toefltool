@@ -10110,5 +10110,29 @@
     "zh": "制度化",
     "ex": "To institutionalize a practice means to establish it as a formal part of society.",
     "cat": "📰 每日新詞：sociology"
+  },
+  {
+    "word": "horizon",
+    "pos": "n.",
+    "root": "horiz-水平方向+on名詞後綴",
+    "zh": "地平線",
+    "ex": "The horizon marks the boundary between the Earth and the sky.",
+    "cat": "📰 每日新詞：astronomy and space science"
+  },
+  {
+    "word": "atmosphere",
+    "pos": "n.",
+    "root": "atmo-氣體+sphere球體",
+    "zh": "大氣層",
+    "ex": "The Earth's atmosphere is crucial for sustaining life and protecting us from solar radiation.",
+    "cat": "📰 每日新詞：astronomy and space science"
+  },
+  {
+    "word": "light pollution",
+    "pos": "n.",
+    "root": "light光+pollution污染",
+    "zh": "光污染",
+    "ex": "Light pollution disrupts our ability to observe celestial objects clearly.",
+    "cat": "📰 每日新詞：astronomy and space science"
   }
 ]

@@ -3,133 +3,132 @@
     {
       "words": [
         "the",
-        "birds",
-        "singing",
-        "in",
-        "the",
-        "trees",
-        "are",
-        "beautiful"
-      ],
-      "display": "The birds singing in the trees are beautiful."
-    },
-    {
-      "words": [
-        "students",
-        "understand",
-        "the",
-        "importance",
-        "of",
-        "time",
-        "management",
-        "better"
-      ],
-      "display": "Students understand the importance of time management better."
-    },
-    {
-      "words": [
-        "she",
-        "enjoys",
-        "reading",
-        "books",
+        "research",
+        "conducted",
         "by",
         "the",
-        "fireplace",
-        "during",
-        "winter"
+        "students",
+        "was",
+        "successful"
       ],
-      "display": "She enjoys reading books by the fireplace during winter."
+      "display": "The research conducted by the students was successful."
     },
     {
       "words": [
         "the",
-        "conference",
+        "book",
+        "analyzes",
+        "various",
+        "themes",
+        "within",
+        "the",
+        "novel"
+      ],
+      "display": "The book analyzes various themes within the novel."
+    },
+    {
+      "words": [
+        "to",
+        "understand",
+        "the",
+        "problem",
+        "we",
+        "need",
+        "more",
+        "data"
+      ],
+      "display": "To understand the problem, we need more data."
+    },
+    {
+      "words": [
+        "the",
+        "project",
         "will",
         "be",
-        "held",
+        "completed",
+        "by",
+        "the",
+        "end",
+        "of",
+        "this",
+        "month"
+      ],
+      "display": "The project will be completed by the end of this month."
+    },
+    {
+      "words": [
+        "after",
+        "the",
+        "lecture",
+        "students",
+        "were",
+        "encouraged",
+        "to",
+        "ask",
+        "questions"
+      ],
+      "display": "After the lecture, students were encouraged to ask questions."
+    },
+    {
+      "words": [
+        "the",
+        "professor",
+        "assigned",
+        "a",
+        "new",
+        "topic",
+        "for",
+        "discussion",
         "next",
-        "week",
+        "week"
+      ],
+      "display": "The professor assigned a new topic for discussion next week."
+    },
+    {
+      "words": [
+        "the",
+        "results",
+        "of",
+        "the",
+        "experiment",
+        "were",
+        "published",
         "in",
-        "the",
-        "auditorium"
+        "a",
+        "scientific",
+        "journal"
       ],
-      "display": "The conference will be held next week in the auditorium."
+      "display": "The results of the experiment were published in a scientific journal."
     },
     {
       "words": [
-        "in",
-        "the",
-        "summer",
-        "we",
-        "plan",
-        "to",
-        "travel",
-        "to",
-        "europe",
-        "together"
-      ],
-      "display": "In the summer we plan to travel to Europe together."
-    },
-    {
-      "words": [
-        "the",
-        "scientists",
-        "are",
-        "conducting",
-        "research",
-        "on",
-        "climate",
-        "change",
-        "effects"
-      ],
-      "display": "The scientists are conducting research on climate change effects."
-    },
-    {
-      "words": [
-        "music",
-        "has",
-        "the",
-        "power",
-        "to",
-        "influence",
-        "people's",
-        "emotions",
+        "attending",
+        "conferences",
+        "is",
+        "beneficial",
+        "for",
+        "professional",
+        "development",
         "and",
-        "thoughts"
+        "networking"
       ],
-      "display": "Music has the power to influence people's emotions and thoughts."
-    },
-    {
-      "words": [
-        "he",
-        "was",
-        "surprised",
-        "to",
-        "find",
-        "his",
-        "lost",
-        "keys",
-        "in",
-        "the",
-        "garden"
-      ],
-      "display": "He was surprised to find his lost keys in the garden."
+      "display": "Attending conferences is beneficial for professional development and networking."
     }
   ],
   "emailPrompts": [
-    "寄信給教授，詢問有關期末報告的格式要求。",
-    "寄信給宿舍辦公室，請求更換房間。",
-    "寄信給圖書館，詢問如何延長書籍借閱期限。",
-    "寄信給社團負責人，表達參加下次會議的意願。",
-    "寄信給客服，反映最近購買的產品出現的問題。",
-    "寄信給導師，請求安排一次輔導時間。"
+    "寄信給教授，詢問有關期末報告的要求。",
+    "寄信給宿舍辦公室，請求更換房間的事宜。",
+    "寄信給圖書館，詢問延遲歸還書籍的罰款問題。",
+    "寄信給學生俱樂部，詢問加入流程和活動安排。",
+    "寄信給客服中心，反映購買產品的問題並要求退款。",
+    "寄信給導師，請求更多指導以提高學習成效。"
   ],
   "discussionPrompts": [
-    "教授問：「科技進步對教育的影響是正面還是負面？」",
-    "教授問：「環保措施應該優先考量經濟發展嗎？」",
-    "教授問：「社交媒體對人際關係的影響如何？」",
-    "教授問：「文化多樣性對社會的貢獻是什麼？」",
-    "教授問：「應該如何評估藝術作品的價值？」",
-    "教授問：「全球化是否削弱了本地文化的發展？」"
+    "教授問：「在當今社會，科技對人類生活的影響是正面還是負面？」",
+    "教授問：「應該如何在校園中推廣可持續發展的理念？」",
+    "教授問：「藝術與科學的關係如何影響創造力？」",
+    "教授問：「社交媒體對青少年的心理健康有何影響？」",
+    "教授問：「在學術研究中，倫理的重要性為何？」",
+    "教授問：「全球化對地方文化的影響是正面還是負面？」"
   ]
 }
