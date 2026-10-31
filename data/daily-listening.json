@@ -1,116 +1,116 @@
 {
   "chooseResponse": [
     {
-      "q": "What did you think of the lecture?",
+      "q": "What time does the library open?",
       "options": [
-        "It was really interesting.",
-        "I didn't understand much.",
-        "I don't like this topic.",
-        "It was too long."
+        "At 8 AM",
+        "At noon",
+        "At 6 PM",
+        "All day"
       ],
       "correctIndex": 0
     }
   ],
   "conversation": {
-    "transcript": "Student: Hey, did you attend the guest lecture on climate change?\nProfessor: Yes, I did. What did you think of it?\nStudent: I found it quite informative, especially the part about renewable energy.\nProfessor: I agree, it’s crucial for our future. Did anything surprise you?",
+    "transcript": "Student: Hey, do you know where I can find the new art exhibit?\nAdvisor: Yes, it's in the art gallery on the second floor.\nStudent: Thanks! Is it open to all students?\nAdvisor: Absolutely, just show your student ID at the entrance.",
     "questions": [
       {
-        "q": "What topic did the guest lecture cover?",
+        "q": "Where is the art exhibit located?",
         "options": [
-          "Climate change",
-          "Art history",
-          "Quantum physics",
-          "Nutrition"
+          "In the cafeteria",
+          "In the library",
+          "In the art gallery",
+          "In the gym"
         ],
-        "correctIndex": 0,
-        "explain": "這場嘉賓講座的主題是氣候變化。"
+        "correctIndex": 2,
+        "explain": "藝術展覽位於藝術畫廊。"
       },
       {
-        "q": "What aspect of the lecture did the student find informative?",
+        "q": "What do students need to enter the exhibit?",
         "options": [
-          "Renewable energy",
-          "Statistics",
-          "Global warming",
-          "Recycling methods"
+          "A ticket",
+          "A student ID",
+          "A guest pass",
+          "No requirement"
         ],
-        "correctIndex": 0,
-        "explain": "學生對可再生能源這一部分覺得很有啟發。"
+        "correctIndex": 1,
+        "explain": "學生需要出示學生證進入展覽。"
       }
     ]
   },
   "announcement": {
-    "transcript": "Attention students! The annual Sustainability Fair will take place this Saturday in the main quad. Join us for workshops, guest speakers, and a chance to learn about eco-friendly practices. Don't miss out on free giveaways! We hope to see you all there!",
+    "transcript": "Attention, students! The annual campus festival will be held this Saturday from 10 AM to 5 PM. Join us for food, games, and live performances. Don't forget to bring your friends and enjoy a day full of fun!",
     "questions": [
       {
-        "q": "What event is being announced?",
+        "q": "When will the campus festival take place?",
         "options": [
-          "Sustainability Fair",
-          "Career Day",
-          "Art Exhibition",
-          "Sports Tournament"
+          "This Friday",
+          "This Saturday",
+          "Next Saturday",
+          "Next Sunday"
         ],
-        "correctIndex": 0,
-        "explain": "這裡宣布的是年度可持續性博覽會。"
+        "correctIndex": 1,
+        "explain": "校園節慶將於本週六舉行。"
       },
       {
-        "q": "When will the event take place?",
+        "q": "What activities are mentioned for the festival?",
         "options": [
-          "This Saturday",
-          "Next Friday",
-          "Tomorrow",
-          "Next month"
+          "Sports tournaments",
+          "Food and games",
+          "Workshops",
+          "Art exhibits"
         ],
-        "correctIndex": 0,
-        "explain": "活動將在這個星期六舉行。"
+        "correctIndex": 1,
+        "explain": "提到的活動包括食物和遊戲。"
       }
     ]
   },
   "talk": {
-    "transcript": "Today, I want to talk about the importance of biodiversity. Biodiversity refers to the variety of life on Earth, including different species of plants, animals, and microorganisms. It plays a crucial role in maintaining ecosystem services, such as pollination, nutrient cycling, and climate regulation. The loss of biodiversity can lead to a decline in these services, impacting food security and human health. Conserving biodiversity is essential for our survival and well-being. It can also enhance resilience to environmental changes and provide resources for future generations. In summary, biodiversity is vital for a healthy planet and should be prioritized in our conservation efforts.",
+    "transcript": "Today, we'll explore the concept of sustainability. Sustainability refers to meeting our own needs without compromising the ability of future generations to meet theirs. It encompasses environmental, social, and economic dimensions. For instance, sustainable practices include renewable energy usage, waste reduction, and conserving biodiversity. By adopting sustainable lifestyles, we can protect our planet and ensure a healthy environment for the years to come.",
     "questions": [
       {
-        "q": "What does biodiversity refer to?",
+        "q": "What is sustainability?",
         "options": [
-          "Variety of life",
-          "Types of ecosystems",
-          "Climate change effects",
-          "Human population"
+          "A way to waste resources",
+          "Meeting current needs",
+          "Focusing only on economics",
+          "Ignoring environmental issues"
         ],
-        "correctIndex": 0,
-        "explain": "生物多樣性指的是地球上生命的多樣性。"
+        "correctIndex": 1,
+        "explain": "可持續性是滿足當前需求的概念。"
       },
       {
-        "q": "Why is biodiversity important?",
+        "q": "Which of the following is NOT a sustainable practice?",
         "options": [
-          "It helps maintain ecosystem services.",
-          "It reduces pollution.",
-          "It increases human population.",
-          "It improves technology."
+          "Using renewable energy",
+          "Reducing waste",
+          "Conserving biodiversity",
+          "Polluting water sources"
         ],
-        "correctIndex": 0,
-        "explain": "生物多樣性有助於維持生態系統服務。"
+        "correctIndex": 3,
+        "explain": "污染水源不是可持續的做法。"
       },
       {
-        "q": "What can lead to a decline in ecosystem services?",
+        "q": "What dimensions does sustainability encompass?",
         "options": [
-          "Loss of biodiversity",
-          "Increased pollution",
-          "Urban development",
-          "Climate change"
+          "Cultural",
+          "Environmental",
+          "Social and economic",
+          "Only environmental"
         ],
-        "correctIndex": 0,
-        "explain": "生物多樣性的喪失會導致生態系統服務的下降。"
+        "correctIndex": 2,
+        "explain": "可持續性包括環境、社會和經濟維度。"
       },
       {
-        "q": "What should be prioritized according to the talk?",
+        "q": "Why is adopting sustainable lifestyles important?",
         "options": [
-          "Conservation of biodiversity",
-          "Industrial growth",
-          "Urban expansion",
-          "Technological innovation"
+          "To increase consumption",
+          "To protect the planet",
+          "To ignore future generations",
+          "To promote waste"
         ],
-        "correctIndex": 0,
-        "explain": "根據講座，應該優先保護生物多樣性。"
+        "correctIndex": 1,
+        "explain": "採用可持續生活方式對保護地球至關重要。"
       }
     ]
   }

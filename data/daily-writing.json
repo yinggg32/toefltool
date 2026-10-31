@@ -3,132 +3,132 @@
     {
       "words": [
         "the",
-        "research",
-        "conducted",
-        "by",
-        "the",
         "students",
-        "was",
-        "successful"
-      ],
-      "display": "The research conducted by the students was successful."
-    },
-    {
-      "words": [
+        "discussed",
         "the",
-        "book",
-        "analyzes",
-        "various",
-        "themes",
-        "within",
-        "the",
-        "novel"
-      ],
-      "display": "The book analyzes various themes within the novel."
-    },
-    {
-      "words": [
-        "to",
-        "understand",
-        "the",
-        "problem",
-        "we",
-        "need",
-        "more",
-        "data"
-      ],
-      "display": "To understand the problem, we need more data."
-    },
-    {
-      "words": [
-        "the",
-        "project",
-        "will",
-        "be",
-        "completed",
-        "by",
-        "the",
-        "end",
+        "importance",
         "of",
-        "this",
-        "month"
+        "community",
+        "service"
       ],
-      "display": "The project will be completed by the end of this month."
+      "display": "The students discussed the importance of community service."
     },
     {
       "words": [
-        "after",
         "the",
-        "lecture",
-        "students",
-        "were",
-        "encouraged",
-        "to",
-        "ask",
-        "questions"
+        "researchers",
+        "presented",
+        "their",
+        "findings",
+        "at",
+        "the",
+        "conference"
       ],
-      "display": "After the lecture, students were encouraged to ask questions."
+      "display": "The researchers presented their findings at the conference."
+    },
+    {
+      "words": [
+        "many",
+        "people",
+        "believe",
+        "that",
+        "exercise",
+        "is",
+        "beneficial",
+        "for",
+        "health"
+      ],
+      "display": "Many people believe that exercise is beneficial for health."
     },
     {
       "words": [
         "the",
         "professor",
-        "assigned",
-        "a",
-        "new",
-        "topic",
-        "for",
-        "discussion",
-        "next",
-        "week"
-      ],
-      "display": "The professor assigned a new topic for discussion next week."
-    },
-    {
-      "words": [
+        "encouraged",
         "the",
-        "results",
-        "of",
-        "the",
-        "experiment",
-        "were",
-        "published",
+        "students",
+        "to",
+        "participate",
         "in",
-        "a",
-        "scientific",
-        "journal"
+        "debates"
       ],
-      "display": "The results of the experiment were published in a scientific journal."
+      "display": "The professor encouraged the students to participate in debates."
     },
     {
       "words": [
-        "attending",
-        "conferences",
-        "is",
-        "beneficial",
-        "for",
-        "professional",
-        "development",
-        "and",
-        "networking"
+        "the",
+        "project",
+        "requires",
+        "collaboration",
+        "between",
+        "different",
+        "departments",
+        "to",
+        "succeed"
       ],
-      "display": "Attending conferences is beneficial for professional development and networking."
+      "display": "The project requires collaboration between different departments to succeed."
+    },
+    {
+      "words": [
+        "the",
+        "library",
+        "offers",
+        "various",
+        "resources",
+        "for",
+        "students",
+        "to",
+        "study"
+      ],
+      "display": "The library offers various resources for students to study."
+    },
+    {
+      "words": [
+        "the",
+        "club",
+        "organized",
+        "an",
+        "event",
+        "to",
+        "raise",
+        "awareness",
+        "for",
+        "environmental",
+        "issues"
+      ],
+      "display": "The club organized an event to raise awareness for environmental issues."
+    },
+    {
+      "words": [
+        "students",
+        "should",
+        "manage",
+        "their",
+        "time",
+        "effectively",
+        "to",
+        "balance",
+        "studies",
+        "and",
+        "leisure"
+      ],
+      "display": "Students should manage their time effectively to balance studies and leisure."
     }
   ],
   "emailPrompts": [
-    "寄信給教授，詢問有關期末報告的要求。",
-    "寄信給宿舍辦公室，請求更換房間的事宜。",
-    "寄信給圖書館，詢問延遲歸還書籍的罰款問題。",
-    "寄信給學生俱樂部，詢問加入流程和活動安排。",
-    "寄信給客服中心，反映購買產品的問題並要求退款。",
-    "寄信給導師，請求更多指導以提高學習成效。"
+    "寄信給教授，說明因病無法參加期中考，詢問補考事宜。",
+    "寄信給宿舍辦公室，請求更換房間的原因。",
+    "寄信給圖書館，詢問有關延長書籍借閱期限的流程。",
+    "寄信給社團，報名參加即將舉行的活動。",
+    "寄信給客戶服務，反映產品使用中遇到的問題。",
+    "寄信給學校，詢問關於學費繳納的截止日期。"
   ],
   "discussionPrompts": [
-    "教授問：「在當今社會，科技對人類生活的影響是正面還是負面？」",
-    "教授問：「應該如何在校園中推廣可持續發展的理念？」",
-    "教授問：「藝術與科學的關係如何影響創造力？」",
-    "教授問：「社交媒體對青少年的心理健康有何影響？」",
-    "教授問：「在學術研究中，倫理的重要性為何？」",
-    "教授問：「全球化對地方文化的影響是正面還是負面？」"
+    "教授問：「如何看待社交媒體對人際關係的影響？」",
+    "教授問：「在學術界，開放存取對研究的影響為何？」",
+    "教授問：「可持續發展在當今社會中的重要性是什麼？」",
+    "教授問：「如何評價傳統教育與在線教育的優缺點？」",
+    "教授問：「科技對未來職場的影響將如何？」",
+    "教授問：「文化多樣性在全球化中的角色是什麼？」"
   ]
 }

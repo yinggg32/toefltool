@@ -10134,5 +10134,37 @@
     "zh": "光污染",
     "ex": "Light pollution disrupts our ability to observe celestial objects clearly.",
     "cat": "📰 每日新詞：astronomy and space science"
+  },
+  {
+    "word": "sophism",
+    "pos": "n.",
+    "root": "sophisma (詭辯)",
+    "zh": "詭辯",
+    "ex": "Sophism refers to a fallacious argument, especially one used deliberately to deceive.",
+    "cat": "📰 每日新詞：philosophy"
+  },
+  {
+    "word": "virtue",
+    "pos": "n.",
+    "root": "virtus (品德)",
+    "zh": "美德",
+    "ex": "Virtue is a trait or quality deemed to be morally good and valued as a foundation of good character.",
+    "cat": "📰 每日新詞：philosophy"
+  },
+  {
+    "word": "principle",
+    "pos": "n.",
+    "root": "principium (原則)",
+    "zh": "原則",
+    "ex": "A principle is a fundamental truth or proposition serving as the foundation for a system of belief.",
+    "cat": "📰 每日新詞：philosophy"
+  },
+  {
+    "word": "reason",
+    "pos": "n./v.",
+    "root": "ratio (理性)",
+    "zh": "理智",
+    "ex": "Reason is the capacity for consciously making sense of things, establishing and verifying facts.",
+    "cat": "📰 每日新詞：philosophy"
   }
 ]

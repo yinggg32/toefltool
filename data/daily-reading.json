@@ -2,95 +2,110 @@
   "cloze": {
     "segments": [
       {
-        "text": "The process of photosynthesis is vital for life on Earth. It occurs primarily in plants, where chlorophyll captures sunlight, enabling the conversion of carbon dioxide and water into glucose and oxyge"
+        "text": "The process of pho"
       },
       {
-        "blank": "n."
+        "blank": "tosynthesis"
       },
       {
-        "text": " This remarkable biochemical reaction not only provides energy for the plant but also releases oxygen, which is essential for other organisms. The overall equation for photosynthesis can be summarized as follows: carbon dioxide plus water, in the presence of light, yields glucose and oxyge"
+        "text": " is essential for life on Earth. Plants utilize sunlight to convert carbon dioxide and water into glucose and oxy"
       },
       {
-        "blank": "n."
+        "blank": "gen"
       },
       {
-        "text": " Understanding photosynthesis is crucial for comprehending ecological dynamics, as it forms the basis of food webs. Moreover, studying this process can help us address issues related to climate change and food security, as enhancements in photosynthetic efficiency could lead to more sustainable agricultural practices."
+        "text": ". This transformation occurs in chloroplasts, which contain chlorophyll, the green pigment that captures solar e"
+      },
+      {
+        "blank": "nergy"
+      },
+      {
+        "text": ". The overall reaction can be summarized by the equation: carbon dioxide plus water, in the presence of light, yields glucose and oxygen. This process not only sustains plants but also supports"
+      },
+      {
+        "blank": "other"
+      },
+      {
+        "text": " organisms, as they rely on plants for food. Moreover, photosynthesis plays a crucial role in regulating atmospheric "
+      },
+      {
+        "blank": "gases."
       }
     ]
   },
   "academic": {
-    "passage": "Photosynthesis is the process by which green plants, algae, and some bacteria convert light energy into chemical energy stored in glucose. This process is fundamental to life on Earth, as it produces oxygen and organic compounds that serve as food for various organisms. Understanding the mechanisms and efficiency of photosynthesis can help improve agricultural productivity and address environmental challenges, such as climate change.",
+    "passage": "Photosynthesis is the process by which green plants, algae, and some bacteria convert light energy into chemical energy stored in glucose. This process consists of two main stages: the light-dependent reactions and the light-independent reactions, also known as the Calvin cycle. During the light-dependent reactions, sunlight is absorbed, and water molecules are split, producing oxygen and energy-rich compounds. In the Calvin cycle, carbon dioxide is fixed into glucose, which serves as an energy source for plants and, ultimately, for animals that consume them.",
     "questions": [
       {
         "q": "What is the main idea of the passage?",
         "options": [
-          "Photosynthesis is crucial for life on Earth.",
-          "Plants convert sunlight into energy through photosynthesis.",
-          "Photosynthesis helps in improving agricultural productivity.",
-          "Photosynthesis occurs only in green plants."
+          "Photosynthesis is crucial for the energy cycle in ecosystems.",
+          "Light-independent reactions occur in the presence of light.",
+          "Plants require soil to grow.",
+          "Oxygen is produced during photosynthesis."
         ],
         "correctIndex": 0,
-        "explain": "這段文字的主旨是闡述光合作用對地球生命的重要性。"
+        "explain": "本文的主要思想是光合作用在生態系統中的能量循環中至關重要。"
       },
       {
-        "q": "Which organisms primarily perform photosynthesis according to the passage?",
+        "q": "What happens during the light-dependent reactions?",
         "options": [
-          "Only plants",
-          "Algae and bacteria",
-          "Green plants, algae, and some bacteria",
-          "Only bacteria"
+          "Glucose is converted into energy.",
+          "Carbon dioxide is fixed into glucose.",
+          "Sunlight is absorbed and water is split.",
+          "Oxygen is consumed."
         ],
         "correctIndex": 2,
-        "explain": "根據這段文字，光合作用主要發生在綠色植物、藻類和某些細菌中。"
+        "explain": "在光依賴反應中，陽光被吸收，水分子被分解。"
       },
       {
-        "q": "What inference can be drawn about the importance of studying photosynthesis?",
+        "q": "What can be inferred about the relationship between plants and animals?",
         "options": [
-          "It is only relevant to scientists.",
-          "It can lead to advancements in technology.",
-          "It helps improve food security and environmental sustainability.",
-          "It is not relevant to climate change."
-        ],
-        "correctIndex": 2,
-        "explain": "研究光合作用對於改善食物安全和環境可持續性具有重要意義。"
-      },
-      {
-        "q": "What does the term 'organic compounds' refer to in the context of the passage?",
-        "options": [
-          "Substances produced by non-living processes.",
-          "Compounds made by organisms that contain carbon.",
-          "Chemical compounds with no biological relevance.",
-          "Only carbohydrates produced by plants."
+          "Animals do not need plants for survival.",
+          "Plants are the primary source of energy for animals.",
+          "Plants and animals thrive in isolation.",
+          "Photosynthesis only benefits plants."
         ],
         "correctIndex": 1,
-        "explain": "在這段文字中，'有機化合物'指的是由生物製造且含碳的化合物。"
+        "explain": "可以推斷，植物是動物的主要能量來源。"
+      },
+      {
+        "q": "What does the term 'Calvin cycle' refer to?",
+        "options": [
+          "A type of plant growth cycle.",
+          "A stage of photosynthesis.",
+          "A cycle of animal reproduction.",
+          "An energy storage process."
+        ],
+        "correctIndex": 1,
+        "explain": "'卡爾文循環'是指光合作用中的一個階段。"
       }
     ]
   },
   "daily": {
-    "passage": "Attention students: The library will be closed for maintenance from March 1st to March 5th. Please plan accordingly and return materials before the closure. Thank you for your understanding.",
+    "passage": "Attention students! There will be a campus-wide cleanup event this Saturday at 10 AM. We encourage everyone to participate in helping make our campus cleaner and more welcoming. Supplies will be provided. Let's work together to improve our environment!",
     "questions": [
       {
-        "q": "When will the library be closed?",
+        "q": "When is the cleanup event scheduled to take place?",
         "options": [
-          "From March 1st to March 5th",
-          "On March 5th only",
-          "For the entire month of March",
-          "From March 1st to March 3rd"
+          "This Friday at 10 AM.",
+          "This Saturday at 10 AM.",
+          "Next Saturday at 10 AM.",
+          "Tomorrow at 10 AM."
         ],
-        "correctIndex": 0,
-        "explain": "圖書館將於3月1日至3月5日關閉。"
+        "correctIndex": 1,
+        "explain": "清理活動定於本週六上午10點舉行。"
       },
       {
-        "q": "What should students do before the library closes?",
+        "q": "What will be provided for the participants?",
         "options": [
-          "Return borrowed materials",
-          "Check out more books",
-          "Attend a meeting",
-          "Visit other libraries"
+          "Food and drinks.",
+          "Cleaning supplies.",
+          "Transportation.",
+          "Certificates of participation."
         ],
-        "correctIndex": 0,
-        "explain": "學生們應在圖書館關閉前歸還借用的資料。"
+        "correctIndex": 1,
+        "explain": "參與者將免費提供清理所需的工具。"
       }
     ]
   }
