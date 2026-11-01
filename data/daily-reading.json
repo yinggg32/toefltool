@@ -2,110 +2,107 @@
   "cloze": {
     "segments": [
       {
-        "text": "The process of pho"
+        "text": "The concept of a"
       },
       {
-        "blank": "tosynthesis"
+        "blank": "biont"
       },
       {
-        "text": " is essential for life on Earth. Plants utilize sunlight to convert carbon dioxide and water into glucose and oxy"
+        "text": " is integral to understanding how living organisms interact with their environment. In ecology, a biont refers to an individual organism that plays a role in the ecosystem. Bionts can be classified as"
       },
       {
-        "blank": "gen"
+        "blank": "produc"
       },
       {
-        "text": ". This transformation occurs in chloroplasts, which contain chlorophyll, the green pigment that captures solar e"
+        "text": "ers, consumers, or decomposers, each contributing to the energy flow and nutrient cycling. For instance, producers, such as plants, utilize sunlight to create energy through"
       },
       {
-        "blank": "nergy"
+        "blank": "photosy"
       },
       {
-        "text": ". The overall reaction can be summarized by the equation: carbon dioxide plus water, in the presence of light, yields glucose and oxygen. This process not only sustains plants but also supports"
+        "text": "nthesis. Consumers, including animals, rely on these producers for sustenance. Conversely, decomposers like fungi break down dead organic matter, returning essential nutrients to the soil, thus maintaining the balance of the ecosystem. Understanding the role of bionts is crucial for"
       },
       {
-        "blank": "other"
+        "blank": "preser"
       },
       {
-        "text": " organisms, as they rely on plants for food. Moreover, photosynthesis plays a crucial role in regulating atmospheric "
-      },
-      {
-        "blank": "gases."
+        "text": "ving biodiversity and ensuring ecological health."
       }
     ]
   },
   "academic": {
-    "passage": "Photosynthesis is the process by which green plants, algae, and some bacteria convert light energy into chemical energy stored in glucose. This process consists of two main stages: the light-dependent reactions and the light-independent reactions, also known as the Calvin cycle. During the light-dependent reactions, sunlight is absorbed, and water molecules are split, producing oxygen and energy-rich compounds. In the Calvin cycle, carbon dioxide is fixed into glucose, which serves as an energy source for plants and, ultimately, for animals that consume them.",
+    "passage": "Biodiversity plays a critical role in maintaining ecosystem stability. Healthy ecosystems provide essential services, including clean water, pollination, and climate regulation. However, human activities, such as deforestation and pollution, have led to significant biodiversity loss. The decline of various species can disrupt food chains, reduce genetic diversity, and impair ecosystem functions. Conservation efforts are essential to protect endangered species and restore habitats. By fostering biodiversity, we ensure the resilience of ecosystems against environmental changes and promote overall planetary health.",
     "questions": [
       {
         "q": "What is the main idea of the passage?",
         "options": [
-          "Photosynthesis is crucial for the energy cycle in ecosystems.",
-          "Light-independent reactions occur in the presence of light.",
-          "Plants require soil to grow.",
-          "Oxygen is produced during photosynthesis."
+          "The importance of biodiversity for ecosystems.",
+          "Human activities are harming ecosystems.",
+          "Conservation efforts are necessary for species protection.",
+          "Pollution affects clean water supplies."
         ],
         "correctIndex": 0,
-        "explain": "本文的主要思想是光合作用在生態系統中的能量循環中至關重要。"
+        "explain": "這段文字的主要思想是生物多樣性對生態系統的重要性。"
       },
       {
-        "q": "What happens during the light-dependent reactions?",
+        "q": "What human activity is mentioned as a threat to biodiversity?",
         "options": [
-          "Glucose is converted into energy.",
-          "Carbon dioxide is fixed into glucose.",
-          "Sunlight is absorbed and water is split.",
-          "Oxygen is consumed."
+          "Conservation efforts.",
+          "Deforestation.",
+          "Climate regulation.",
+          "Pollination."
+        ],
+        "correctIndex": 1,
+        "explain": "文中提到的威脅生物多樣性的活動是森林砍伐。"
+      },
+      {
+        "q": "What can happen if various species decline?",
+        "options": [
+          "Increased genetic diversity.",
+          "Improved ecosystem functions.",
+          "Disruption of food chains.",
+          "Enhanced climate regulation."
         ],
         "correctIndex": 2,
-        "explain": "在光依賴反應中，陽光被吸收，水分子被分解。"
+        "explain": "如果多種物種減少，可能會擾亂食物鏈。"
       },
       {
-        "q": "What can be inferred about the relationship between plants and animals?",
+        "q": "What does the term 'ecosystem stability' refer to?",
         "options": [
-          "Animals do not need plants for survival.",
-          "Plants are the primary source of energy for animals.",
-          "Plants and animals thrive in isolation.",
-          "Photosynthesis only benefits plants."
+          "The ability of ecosystems to maintain balance.",
+          "The number of species in an ecosystem.",
+          "The human impact on nature.",
+          "The variety of habitats in an area."
         ],
-        "correctIndex": 1,
-        "explain": "可以推斷，植物是動物的主要能量來源。"
-      },
-      {
-        "q": "What does the term 'Calvin cycle' refer to?",
-        "options": [
-          "A type of plant growth cycle.",
-          "A stage of photosynthesis.",
-          "A cycle of animal reproduction.",
-          "An energy storage process."
-        ],
-        "correctIndex": 1,
-        "explain": "'卡爾文循環'是指光合作用中的一個階段。"
+        "correctIndex": 0,
+        "explain": "生態系統穩定性指的是生態系統維持平衡的能力."
       }
     ]
   },
   "daily": {
-    "passage": "Attention students! There will be a campus-wide cleanup event this Saturday at 10 AM. We encourage everyone to participate in helping make our campus cleaner and more welcoming. Supplies will be provided. Let's work together to improve our environment!",
+    "passage": "Attention students! The campus library will be closed for maintenance this Saturday from 9 AM to 5 PM. Please plan your study time accordingly. We apologize for any inconvenience and appreciate your understanding.",
     "questions": [
       {
-        "q": "When is the cleanup event scheduled to take place?",
+        "q": "When will the library be closed?",
         "options": [
-          "This Friday at 10 AM.",
-          "This Saturday at 10 AM.",
-          "Next Saturday at 10 AM.",
-          "Tomorrow at 10 AM."
+          "Friday from 9 AM to 5 PM.",
+          "Saturday from 9 AM to 5 PM.",
+          "Saturday from 8 AM to 4 PM.",
+          "Sunday from 9 AM to 5 PM."
         ],
         "correctIndex": 1,
-        "explain": "清理活動定於本週六上午10點舉行。"
+        "explain": "圖書館在星期六上午九點到下午五點關閉。"
       },
       {
-        "q": "What will be provided for the participants?",
+        "q": "Why is the library closing?",
         "options": [
-          "Food and drinks.",
-          "Cleaning supplies.",
-          "Transportation.",
-          "Certificates of participation."
+          "For a special event.",
+          "For maintenance.",
+          "To update the collection.",
+          "For staff training."
         ],
         "correctIndex": 1,
-        "explain": "參與者將免費提供清理所需的工具。"
+        "explain": "圖書館關閉的原因是進行維護。"
       }
     ]
   }

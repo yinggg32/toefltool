@@ -10166,5 +10166,53 @@
     "zh": "理智",
     "ex": "Reason is the capacity for consciously making sense of things, establishing and verifying facts.",
     "cat": "📰 每日新詞：philosophy"
+  },
+  {
+    "word": "disparities",
+    "pos": "n.",
+    "root": "差異—disparity condition",
+    "zh": "差異",
+    "ex": "Health disparities among different populations highlight the need for targeted interventions.",
+    "cat": "📰 每日新詞：public health"
+  },
+  {
+    "word": "determinants",
+    "pos": "n.",
+    "root": "決定因素—determine element",
+    "zh": "決定因素",
+    "ex": "Social determinants of health significantly impact individual and community well-being.",
+    "cat": "📰 每日新詞：public health"
+  },
+  {
+    "word": "education",
+    "pos": "n.",
+    "root": "教育—educate action",
+    "zh": "教育",
+    "ex": "Health education is vital in promoting healthy behaviors among populations.",
+    "cat": "📰 每日新詞：public health"
+  },
+  {
+    "word": "resources",
+    "pos": "n.",
+    "root": "資源—resource material",
+    "zh": "資源",
+    "ex": "Access to healthcare resources is crucial for effective disease management.",
+    "cat": "📰 每日新詞：public health"
+  },
+  {
+    "word": "strategies",
+    "pos": "n.",
+    "root": "策略—strategy plan",
+    "zh": "策略",
+    "ex": "Public health strategies must be evidence-based to be effective.",
+    "cat": "📰 每日新詞：public health"
+  },
+  {
+    "word": "engagement",
+    "pos": "n.",
+    "root": "參與—engage action",
+    "zh": "參與",
+    "ex": "Community engagement is essential for the success of public health campaigns.",
+    "cat": "📰 每日新詞：public health"
   }
 ]

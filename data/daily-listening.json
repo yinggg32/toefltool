@@ -1,116 +1,116 @@
 {
   "chooseResponse": [
     {
-      "q": "What time does the library open?",
+      "q": "What's your favorite type of music?",
       "options": [
-        "At 8 AM",
-        "At noon",
-        "At 6 PM",
-        "All day"
+        "I love jazz!",
+        "I prefer classical.",
+        "I only listen to pop.",
+        "I enjoy rock music."
       ],
       "correctIndex": 0
     }
   ],
   "conversation": {
-    "transcript": "Student: Hey, do you know where I can find the new art exhibit?\nAdvisor: Yes, it's in the art gallery on the second floor.\nStudent: Thanks! Is it open to all students?\nAdvisor: Absolutely, just show your student ID at the entrance.",
+    "transcript": "Student: Hey, have you heard the new band that’s coming to town?\nAdvisor: No, I haven’t! What genre do they play?\nStudent: They’re a mix of rock and electronic music.\nAdvisor: That sounds interesting! Are you planning to go to their concert?",
     "questions": [
       {
-        "q": "Where is the art exhibit located?",
+        "q": "What genre does the new band play?",
         "options": [
-          "In the cafeteria",
-          "In the library",
-          "In the art gallery",
-          "In the gym"
-        ],
-        "correctIndex": 2,
-        "explain": "藝術展覽位於藝術畫廊。"
-      },
-      {
-        "q": "What do students need to enter the exhibit?",
-        "options": [
-          "A ticket",
-          "A student ID",
-          "A guest pass",
-          "No requirement"
+          "Jazz",
+          "Rock and electronic",
+          "Classical",
+          "Hip-hop"
         ],
         "correctIndex": 1,
-        "explain": "學生需要出示學生證進入展覽。"
+        "explain": "這支新樂隊的音樂風格是搖滾和電子的混合。"
+      },
+      {
+        "q": "What is the student's intention about the concert?",
+        "options": [
+          "To perform",
+          "To attend",
+          "To cancel",
+          "To organize"
+        ],
+        "correctIndex": 1,
+        "explain": "學生正在考慮去參加音樂會。"
       }
     ]
   },
   "announcement": {
-    "transcript": "Attention, students! The annual campus festival will be held this Saturday from 10 AM to 5 PM. Join us for food, games, and live performances. Don't forget to bring your friends and enjoy a day full of fun!",
+    "transcript": "Attention all students! The campus library will be closing early today at 5 PM due to a scheduled maintenance. Please ensure you have all your materials checked out before that time. Thank you for your understanding.",
     "questions": [
       {
-        "q": "When will the campus festival take place?",
+        "q": "Why is the library closing early?",
         "options": [
-          "This Friday",
-          "This Saturday",
-          "Next Saturday",
-          "Next Sunday"
+          "For a special event",
+          "Due to maintenance",
+          "For a holiday",
+          "For cleaning"
         ],
         "correctIndex": 1,
-        "explain": "校園節慶將於本週六舉行。"
+        "explain": "圖書館因為進行維修而提前關閉。"
       },
       {
-        "q": "What activities are mentioned for the festival?",
+        "q": "What time will the library close?",
         "options": [
-          "Sports tournaments",
-          "Food and games",
-          "Workshops",
-          "Art exhibits"
+          "4 PM",
+          "5 PM",
+          "6 PM",
+          "7 PM"
         ],
         "correctIndex": 1,
-        "explain": "提到的活動包括食物和遊戲。"
+        "explain": "圖書館將在下午5點關閉。"
       }
     ]
   },
   "talk": {
-    "transcript": "Today, we'll explore the concept of sustainability. Sustainability refers to meeting our own needs without compromising the ability of future generations to meet theirs. It encompasses environmental, social, and economic dimensions. For instance, sustainable practices include renewable energy usage, waste reduction, and conserving biodiversity. By adopting sustainable lifestyles, we can protect our planet and ensure a healthy environment for the years to come.",
+    "transcript": "Today, we’re going to discuss the concept of biodiversity. Biodiversity refers to the variety of life found on Earth, including the different species of plants, animals, and microorganisms. It also encompasses the genetic diversity within these species and the ecosystems they form. Biodiversity is crucial for ecosystem stability. When biodiversity is high, ecosystems can better withstand changes and recover from disturbances. Conversely, a loss of biodiversity can lead to ecosystem degradation, affecting food security and human health. Protecting biodiversity is vital for maintaining the health of our planet for future generations.",
     "questions": [
       {
-        "q": "What is sustainability?",
+        "q": "What is biodiversity?",
         "options": [
-          "A way to waste resources",
-          "Meeting current needs",
-          "Focusing only on economics",
-          "Ignoring environmental issues"
+          "The variety of life on Earth",
+          "A type of ecosystem",
+          "A conservation method",
+          "A breeding program"
+        ],
+        "correctIndex": 0,
+        "explain": "生物多樣性指的是地球上生命的多樣性。"
+      },
+      {
+        "q": "Why is biodiversity important?",
+        "options": [
+          "For tourism",
+          "For ecosystem stability",
+          "For human recreation",
+          "For genetic modification"
         ],
         "correctIndex": 1,
-        "explain": "可持續性是滿足當前需求的概念。"
+        "explain": "生物多樣性對於生態系統的穩定性至關重要。"
       },
       {
-        "q": "Which of the following is NOT a sustainable practice?",
+        "q": "What can a loss of biodiversity lead to?",
         "options": [
-          "Using renewable energy",
-          "Reducing waste",
-          "Conserving biodiversity",
-          "Polluting water sources"
+          "More species",
+          "Ecosystem degradation",
+          "Higher biodiversity",
+          "Better health"
         ],
-        "correctIndex": 3,
-        "explain": "污染水源不是可持續的做法。"
+        "correctIndex": 1,
+        "explain": "生物多樣性的喪失會導致生態系統的退化。"
       },
       {
-        "q": "What dimensions does sustainability encompass?",
+        "q": "Who does biodiversity affect?",
         "options": [
-          "Cultural",
-          "Environmental",
-          "Social and economic",
-          "Only environmental"
+          "Only animals",
+          "Only plants",
+          "Human health and food security",
+          "Only the ecosystem"
         ],
         "correctIndex": 2,
-        "explain": "可持續性包括環境、社會和經濟維度。"
-      },
-      {
-        "q": "Why is adopting sustainable lifestyles important?",
-        "options": [
-          "To increase consumption",
-          "To protect the planet",
-          "To ignore future generations",
-          "To promote waste"
-        ],
-        "correctIndex": 1,
-        "explain": "採用可持續生活方式對保護地球至關重要。"
+        "explain": "生物多樣性影響人類健康和糧食安全。"
       }
     ]
   }
