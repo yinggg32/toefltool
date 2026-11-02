@@ -1,45 +1,45 @@
 {
   "shadowSentences": [
-    "The sun is shining brightly.",
-    "I enjoy reading books in my free time.",
-    "Cooking new recipes can be quite fun.",
-    "Traveling to new places makes me happy.",
-    "I often listen to music while studying.",
-    "Walking in the park helps me relax.",
-    "Spending time with friends is very important.",
-    "Learning a new language takes dedication and patience.",
-    "Exercise is essential for maintaining good health.",
-    "Planning my week ahead helps me stay organized."
+    "I like to drink coffee in the morning.",
+    "The weather is nice today, isn't it?",
+    "She enjoys reading books in her free time.",
+    "We should try that new restaurant downtown soon.",
+    "He plays soccer with his friends every weekend.",
+    "They went hiking in the mountains last summer.",
+    "I recently watched a fascinating documentary about space.",
+    "Cooking can be a fun activity to share with friends.",
+    "Traveling to new places helps broaden your horizons.",
+    "Learning a new language opens up many opportunities in life."
   ],
   "interviewScenarios": [
-    {
-      "topic": "運動習慣",
-      "intro": "You have agreed to take part in a research study about exercise habits.",
-      "questions": [
-        "Q1: What types of exercise do you enjoy doing?",
-        "Q2: Have you faced any challenges in sticking to an exercise routine?",
-        "Q3: How important do you think exercise is for overall well-being?",
-        "Q4: What advice would you give someone trying to start exercising regularly?"
-      ]
-    },
     {
       "topic": "志願服務",
       "intro": "You have agreed to take part in a research study about volunteering.",
       "questions": [
-        "Q1: Can you share a memorable experience from your volunteering work?",
-        "Q2: What challenges did you encounter while volunteering?",
-        "Q3: Why do you think volunteering is valuable for the community?",
-        "Q4: What recommendations would you give to first-time volunteers?"
+        "Q1: Can you share your experience with volunteering?",
+        "Q2: What challenges did you face while volunteering?",
+        "Q3: How do you feel about the impact of volunteering on communities?",
+        "Q4: What advice would you give to someone considering volunteering?"
       ]
     },
     {
       "topic": "環境保護",
-      "intro": "You have agreed to take part in a research study about environmental conservation.",
+      "intro": "You have agreed to take part in a research study about environmental protection.",
       "questions": [
-        "Q1: What actions do you take to help protect the environment?",
-        "Q2: Have you faced any obstacles in your efforts to be eco-friendly?",
-        "Q3: What is your opinion on the importance of environmental conservation?",
-        "Q4: What advice would you give to others wanting to contribute to conservation efforts?"
+        "Q1: What steps do you take to protect the environment?",
+        "Q2: Have you encountered any challenges in being environmentally friendly?",
+        "Q3: What is your opinion on the importance of protecting the environment?",
+        "Q4: What recommendations do you have for others to help the environment?"
+      ]
+    },
+    {
+      "topic": "藝術欣賞",
+      "intro": "You have agreed to take part in a research study about art appreciation.",
+      "questions": [
+        "Q1: What type of art do you enjoy the most and why?",
+        "Q2: Have you ever struggled to understand or appreciate certain art forms?",
+        "Q3: How do you think art influences society and culture?",
+        "Q4: What tips would you offer someone looking to learn more about art?"
       ]
     }
   ]

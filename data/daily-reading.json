@@ -2,107 +2,113 @@
   "cloze": {
     "segments": [
       {
-        "text": "The concept of a"
+        "text": "The process of photosynth"
       },
       {
-        "blank": "biont"
+        "blank": "esis"
       },
       {
-        "text": " is integral to understanding how living organisms interact with their environment. In ecology, a biont refers to an individual organism that plays a role in the ecosystem. Bionts can be classified as"
+        "text": " is vital for life on Earth. Through this process, plants convert sunlight into en"
       },
       {
-        "blank": "produc"
+        "blank": "ergy"
       },
       {
-        "text": "ers, consumers, or decomposers, each contributing to the energy flow and nutrient cycling. For instance, producers, such as plants, utilize sunlight to create energy through"
+        "text": ", using carbon dioxide and water. The byproducts of photosynthesis are oxyg"
       },
       {
-        "blank": "photosy"
+        "blank": "en"
       },
       {
-        "text": "nthesis. Consumers, including animals, rely on these producers for sustenance. Conversely, decomposers like fungi break down dead organic matter, returning essential nutrients to the soil, thus maintaining the balance of the ecosystem. Understanding the role of bionts is crucial for"
+        "text": ", which is released into the atmosphere, and glucose, which serves as food for the plant. This process also supports the entire food c"
       },
       {
-        "blank": "preser"
+        "blank": "hain"
       },
       {
-        "text": "ving biodiversity and ensuring ecological health."
+        "text": ", as herbivores consume plants for energy, and carnivores eat herbivores. Photosynthesis not only fuels the growth of plants but also regulates the le"
+      },
+      {
+        "blank": "vel"
+      },
+      {
+        "text": ", of carbon dioxide in the atmosphere."
       }
     ]
   },
   "academic": {
-    "passage": "Biodiversity plays a critical role in maintaining ecosystem stability. Healthy ecosystems provide essential services, including clean water, pollination, and climate regulation. However, human activities, such as deforestation and pollution, have led to significant biodiversity loss. The decline of various species can disrupt food chains, reduce genetic diversity, and impair ecosystem functions. Conservation efforts are essential to protect endangered species and restore habitats. By fostering biodiversity, we ensure the resilience of ecosystems against environmental changes and promote overall planetary health.",
+    "passage": "Photosynthesis is a fundamental process that enables plants to convert light energy into chemical energy. During this process, carbon dioxide from the air and water from the soil are transformed into glucose and oxygen. The glucose produced is utilized by the plants for growth, while the oxygen is released back into the atmosphere, which is crucial for the survival of aerobic organisms. Understanding photosynthesis is essential for appreciating ecosystems and addressing global challenges such as climate change and food security.",
     "questions": [
       {
         "q": "What is the main idea of the passage?",
         "options": [
-          "The importance of biodiversity for ecosystems.",
-          "Human activities are harming ecosystems.",
-          "Conservation efforts are necessary for species protection.",
-          "Pollution affects clean water supplies."
+          "The significance of photosynthesis",
+          "The types of plants",
+          "The role of oxygen",
+          "The structure of leaves"
         ],
         "correctIndex": 0,
-        "explain": "這段文字的主要思想是生物多樣性對生態系統的重要性。"
+        "explain": "本段落的主要思想是光合作用的重要性。"
       },
       {
-        "q": "What human activity is mentioned as a threat to biodiversity?",
+        "q": "What do plants produce during photosynthesis?",
         "options": [
-          "Conservation efforts.",
-          "Deforestation.",
-          "Climate regulation.",
-          "Pollination."
+          "Water and carbon dioxide",
+          "Oxygen and glucose",
+          "Light and energy",
+          "Soil and nutrients"
         ],
         "correctIndex": 1,
-        "explain": "文中提到的威脅生物多樣性的活動是森林砍伐。"
+        "explain": "植物在光合作用中产生氧氣和葡萄糖。"
       },
       {
-        "q": "What can happen if various species decline?",
+        "q": "What can be inferred about photosynthesis and food chains?",
         "options": [
-          "Increased genetic diversity.",
-          "Improved ecosystem functions.",
-          "Disruption of food chains.",
-          "Enhanced climate regulation."
+          "Photosynthesis is not important for food chains",
+          "Only carnivores depend on photosynthesis",
+          "Photosynthesis supports plant growth and food chains",
+          "Food chains can exist without plants"
         ],
         "correctIndex": 2,
-        "explain": "如果多種物種減少，可能會擾亂食物鏈。"
+        "explain": "可以推斷，光合作用支持植物生長，並在食物鏈中扮演重要角色。"
       },
       {
-        "q": "What does the term 'ecosystem stability' refer to?",
+        "q": "What does the term 'aerobic organisms' refer to in the passage?",
         "options": [
-          "The ability of ecosystems to maintain balance.",
-          "The number of species in an ecosystem.",
-          "The human impact on nature.",
-          "The variety of habitats in an area."
+          "Organisms that use oxygen",
+          "Organisms that do not need air",
+          "Plants that perform photosynthesis",
+          "Creatures living underwater"
         ],
         "correctIndex": 0,
-        "explain": "生態系統穩定性指的是生態系統維持平衡的能力."
+        "explain": "文中提到的“需氧生物”是指需要氧氣的生物。"
       }
     ]
   },
   "daily": {
-    "passage": "Attention students! The campus library will be closed for maintenance this Saturday from 9 AM to 5 PM. Please plan your study time accordingly. We apologize for any inconvenience and appreciate your understanding.",
+    "passage": "Attention students: The library will be closed for renovations next week. Please plan to return or check out materials before the closure. We apologize for any inconvenience this may cause and appreciate your understanding.",
     "questions": [
       {
         "q": "When will the library be closed?",
         "options": [
-          "Friday from 9 AM to 5 PM.",
-          "Saturday from 9 AM to 5 PM.",
-          "Saturday from 8 AM to 4 PM.",
-          "Sunday from 9 AM to 5 PM."
+          "Next week",
+          "This week",
+          "Last week",
+          "In two weeks"
         ],
-        "correctIndex": 1,
-        "explain": "圖書館在星期六上午九點到下午五點關閉。"
+        "correctIndex": 0,
+        "explain": "圖書館將在下週關閉。"
       },
       {
-        "q": "Why is the library closing?",
+        "q": "What should students do before the library closes?",
         "options": [
-          "For a special event.",
-          "For maintenance.",
-          "To update the collection.",
-          "For staff training."
+          "Check their emails",
+          "Return or check out materials",
+          "Attend a meeting",
+          "Visit the gym"
         ],
         "correctIndex": 1,
-        "explain": "圖書館關閉的原因是進行維護。"
+        "explain": "學生應在圖書館關閉之前歸還或借出資料。"
       }
     ]
   }

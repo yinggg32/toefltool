@@ -1,116 +1,116 @@
 {
   "chooseResponse": [
     {
-      "q": "What's your favorite type of music?",
+      "q": "What time is the meeting?",
       "options": [
-        "I love jazz!",
-        "I prefer classical.",
-        "I only listen to pop.",
-        "I enjoy rock music."
+        "At two o'clock.",
+        "No, I don't think so.",
+        "Yes, I'll be there.",
+        "Can you repeat that?"
       ],
       "correctIndex": 0
     }
   ],
   "conversation": {
-    "transcript": "Student: Hey, have you heard the new band that’s coming to town?\nAdvisor: No, I haven’t! What genre do they play?\nStudent: They’re a mix of rock and electronic music.\nAdvisor: That sounds interesting! Are you planning to go to their concert?",
+    "transcript": "Student: Have you seen the new library study rooms?\nLibrarian: Yes, they opened last week! Have you visited them yet?\nStudent: Not yet, but I've heard they're really nice.\nLibrarian: Absolutely! They have great resources and are very quiet.",
     "questions": [
       {
-        "q": "What genre does the new band play?",
+        "q": "What did the librarian mention about the study rooms?",
         "options": [
-          "Jazz",
-          "Rock and electronic",
-          "Classical",
-          "Hip-hop"
+          "They're noisy.",
+          "They opened last week.",
+          "They are not available.",
+          "They are too small."
         ],
         "correctIndex": 1,
-        "explain": "這支新樂隊的音樂風格是搖滾和電子的混合。"
+        "explain": "圖書館員提到新開的自習室上週開放。"
       },
       {
-        "q": "What is the student's intention about the concert?",
+        "q": "What does the student think about the study rooms?",
         "options": [
-          "To perform",
-          "To attend",
-          "To cancel",
-          "To organize"
+          "They are too crowded.",
+          "They are nice.",
+          "They are not worth visiting.",
+          "They are always booked."
         ],
         "correctIndex": 1,
-        "explain": "學生正在考慮去參加音樂會。"
+        "explain": "學生聽說這些自習室很不錯。"
       }
     ]
   },
   "announcement": {
-    "transcript": "Attention all students! The campus library will be closing early today at 5 PM due to a scheduled maintenance. Please ensure you have all your materials checked out before that time. Thank you for your understanding.",
+    "transcript": "Attention students: The campus will be hosting a career fair this Friday from 10 AM to 4 PM in the Student Union. Please bring copies of your resume and dress professionally. We look forward to seeing you there!",
     "questions": [
       {
-        "q": "Why is the library closing early?",
+        "q": "When is the career fair scheduled?",
         "options": [
-          "For a special event",
-          "Due to maintenance",
-          "For a holiday",
-          "For cleaning"
+          "This Friday.",
+          "Next Monday.",
+          "Tomorrow.",
+          "This Wednesday."
         ],
-        "correctIndex": 1,
-        "explain": "圖書館因為進行維修而提前關閉。"
+        "correctIndex": 0,
+        "explain": "職業博覽會定於本週五舉行。"
       },
       {
-        "q": "What time will the library close?",
+        "q": "Where will the career fair take place?",
         "options": [
-          "4 PM",
-          "5 PM",
-          "6 PM",
-          "7 PM"
+          "In the library.",
+          "In the gym.",
+          "In the Student Union.",
+          "In the cafeteria."
         ],
-        "correctIndex": 1,
-        "explain": "圖書館將在下午5點關閉。"
+        "correctIndex": 2,
+        "explain": "職業博覽會在學生聯合會舉行。"
       }
     ]
   },
   "talk": {
-    "transcript": "Today, we’re going to discuss the concept of biodiversity. Biodiversity refers to the variety of life found on Earth, including the different species of plants, animals, and microorganisms. It also encompasses the genetic diversity within these species and the ecosystems they form. Biodiversity is crucial for ecosystem stability. When biodiversity is high, ecosystems can better withstand changes and recover from disturbances. Conversely, a loss of biodiversity can lead to ecosystem degradation, affecting food security and human health. Protecting biodiversity is vital for maintaining the health of our planet for future generations.",
+    "transcript": "Today, we're going to discuss photosynthesis, a vital process for plants. Photosynthesis occurs when plants convert sunlight into energy. This process takes place in the chloroplasts of plant cells, where chlorophyll captures light energy. Carbon dioxide from the air and water from the soil are used to create glucose and oxygen. This not only provides energy for the plants but also releases oxygen, which is essential for all living beings. Understanding photosynthesis helps us appreciate the role of plants in our ecosystem.",
     "questions": [
       {
-        "q": "What is biodiversity?",
+        "q": "What is the main purpose of photosynthesis?",
         "options": [
-          "The variety of life on Earth",
-          "A type of ecosystem",
-          "A conservation method",
-          "A breeding program"
-        ],
-        "correctIndex": 0,
-        "explain": "生物多樣性指的是地球上生命的多樣性。"
-      },
-      {
-        "q": "Why is biodiversity important?",
-        "options": [
-          "For tourism",
-          "For ecosystem stability",
-          "For human recreation",
-          "For genetic modification"
+          "To absorb nutrients.",
+          "To convert sunlight into energy.",
+          "To produce carbon dioxide.",
+          "To grow flowers."
         ],
         "correctIndex": 1,
-        "explain": "生物多樣性對於生態系統的穩定性至關重要。"
+        "explain": "光合作用的主要目的是將陽光轉化為能量。"
       },
       {
-        "q": "What can a loss of biodiversity lead to?",
+        "q": "Where does photosynthesis occur in plants?",
         "options": [
-          "More species",
-          "Ecosystem degradation",
-          "Higher biodiversity",
-          "Better health"
+          "In the roots.",
+          "In the leaves.",
+          "In the flowers.",
+          "In the seeds."
         ],
         "correctIndex": 1,
-        "explain": "生物多樣性的喪失會導致生態系統的退化。"
+        "explain": "光合作用在植物的葉子中進行。"
       },
       {
-        "q": "Who does biodiversity affect?",
+        "q": "What do plants produce during photosynthesis?",
         "options": [
-          "Only animals",
-          "Only plants",
-          "Human health and food security",
-          "Only the ecosystem"
+          "Carbon dioxide and water.",
+          "Sugar and oxygen.",
+          "Heat and light.",
+          "Minerals and salts."
+        ],
+        "correctIndex": 1,
+        "explain": "植物在光合作用中產生糖和氧氣。"
+      },
+      {
+        "q": "Why is photosynthesis important for living beings?",
+        "options": [
+          "It helps plants grow faster.",
+          "It provides shelter from the sun.",
+          "It releases oxygen essential for life.",
+          "It prevents soil erosion."
         ],
         "correctIndex": 2,
-        "explain": "生物多樣性影響人類健康和糧食安全。"
+        "explain": "光合作用釋放的氧氣對生命至關重要。"
       }
     ]
   }
