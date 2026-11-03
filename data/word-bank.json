@@ -10230,5 +10230,37 @@
     "zh": "基層的",
     "ex": "Grassroots movements often play a vital role in effecting social change.",
     "cat": "📰 每日新詞：political science"
+  },
+  {
+    "word": "neolithic",
+    "pos": "adj.",
+    "root": "neo-新 + lith-石頭 + ic-形容詞後綴",
+    "zh": "新石器時代的",
+    "ex": "The Neolithic era marked a significant transition in human history.",
+    "cat": "📰 每日新詞：anthropology"
+  },
+  {
+    "word": "post-colonialism",
+    "pos": "n.",
+    "root": "post-後 + colon-殖民 + ial-形容詞後綴 + ism-主義",
+    "zh": "後殖民主義",
+    "ex": "Post-colonialism analyzes the effects of colonial rule on former colonies.",
+    "cat": "📰 每日新詞：anthropology"
+  },
+  {
+    "word": "social dynamics",
+    "pos": "n.",
+    "root": "social-社會 + dynamics-動態",
+    "zh": "社會動態",
+    "ex": "Social dynamics can influence the evolution of cultural practices.",
+    "cat": "📰 每日新詞：anthropology"
+  },
+  {
+    "word": "social networks",
+    "pos": "n.",
+    "root": "social-社會 + networks-網絡",
+    "zh": "社會網絡",
+    "ex": "Social networks are crucial for understanding community interactions.",
+    "cat": "📰 每日新詞：anthropology"
   }
 ]

@@ -1,116 +1,116 @@
 {
   "chooseResponse": [
     {
-      "q": "What time is the meeting?",
+      "q": "Are you going to the game tonight?",
       "options": [
-        "At two o'clock.",
-        "No, I don't think so.",
-        "Yes, I'll be there.",
-        "Can you repeat that?"
+        "Yes, I can't wait!",
+        "No, I'm busy.",
+        "Maybe, I'll think about it.",
+        "I don't like sports."
       ],
       "correctIndex": 0
     }
   ],
   "conversation": {
-    "transcript": "Student: Have you seen the new library study rooms?\nLibrarian: Yes, they opened last week! Have you visited them yet?\nStudent: Not yet, but I've heard they're really nice.\nLibrarian: Absolutely! They have great resources and are very quiet.",
+    "transcript": "Student: Have you heard about the new art exhibit downtown?\nAdvisor: Yes, I’ve seen some posters around the campus. It's supposed to be really interesting.\nStudent: I heard it features local artists. Are you planning to go?\nAdvisor: Definitely! I think it’s a great way to support the community.",
     "questions": [
       {
-        "q": "What did the librarian mention about the study rooms?",
+        "q": "What is the main topic of the conversation?",
         "options": [
-          "They're noisy.",
-          "They opened last week.",
-          "They are not available.",
-          "They are too small."
+          "A new art exhibit",
+          "A concert event",
+          "A sports game",
+          "A movie screening"
         ],
-        "correctIndex": 1,
-        "explain": "圖書館員提到新開的自習室上週開放。"
+        "correctIndex": 0,
+        "explain": "這段對話的主要主題是關於一個新的藝術展覽。"
       },
       {
-        "q": "What does the student think about the study rooms?",
+        "q": "What does the advisor think about the exhibit?",
         "options": [
-          "They are too crowded.",
-          "They are nice.",
-          "They are not worth visiting.",
-          "They are always booked."
+          "It's not worth seeing.",
+          "It will be boring.",
+          "It's interesting and worth attending.",
+          "It's only for students."
         ],
-        "correctIndex": 1,
-        "explain": "學生聽說這些自習室很不錯。"
+        "correctIndex": 2,
+        "explain": "顧問認為這個展覽有趣並值得參加。"
       }
     ]
   },
   "announcement": {
-    "transcript": "Attention students: The campus will be hosting a career fair this Friday from 10 AM to 4 PM in the Student Union. Please bring copies of your resume and dress professionally. We look forward to seeing you there!",
+    "transcript": "Attention students: The library will be closed for renovations starting next Monday and will reopen in two weeks. Please plan accordingly and make sure to check out any materials you need before then. Thank you for your understanding.",
     "questions": [
       {
-        "q": "When is the career fair scheduled?",
+        "q": "Why will the library be closed?",
         "options": [
-          "This Friday.",
-          "Next Monday.",
-          "Tomorrow.",
-          "This Wednesday."
+          "For a holiday",
+          "For renovations",
+          "For a special event",
+          "For inventory"
         ],
-        "correctIndex": 0,
-        "explain": "職業博覽會定於本週五舉行。"
+        "correctIndex": 1,
+        "explain": "圖書館將因為翻修而關閉。"
       },
       {
-        "q": "Where will the career fair take place?",
+        "q": "When will the library reopen?",
         "options": [
-          "In the library.",
-          "In the gym.",
-          "In the Student Union.",
-          "In the cafeteria."
+          "Next week",
+          "In one month",
+          "In two weeks",
+          "This weekend"
         ],
         "correctIndex": 2,
-        "explain": "職業博覽會在學生聯合會舉行。"
+        "explain": "圖書館將在兩週後重新開放。"
       }
     ]
   },
   "talk": {
-    "transcript": "Today, we're going to discuss photosynthesis, a vital process for plants. Photosynthesis occurs when plants convert sunlight into energy. This process takes place in the chloroplasts of plant cells, where chlorophyll captures light energy. Carbon dioxide from the air and water from the soil are used to create glucose and oxygen. This not only provides energy for the plants but also releases oxygen, which is essential for all living beings. Understanding photosynthesis helps us appreciate the role of plants in our ecosystem.",
+    "transcript": "Today, I want to discuss the concept of renewable energy. Renewable energy comes from resources that are naturally replenished, such as sunlight, wind, and water. Unlike fossil fuels, which can deplete and cause environmental harm, renewable energy sources provide a sustainable way to meet our energy needs. For example, solar panels convert sunlight into electricity, while wind turbines harness wind power. Transitioning to renewable energy is crucial for reducing greenhouse gas emissions and combating climate change. As technology advances, we are seeing more innovative solutions to harness these resources efficiently.",
     "questions": [
       {
-        "q": "What is the main purpose of photosynthesis?",
+        "q": "What is renewable energy?",
         "options": [
-          "To absorb nutrients.",
-          "To convert sunlight into energy.",
-          "To produce carbon dioxide.",
-          "To grow flowers."
-        ],
-        "correctIndex": 1,
-        "explain": "光合作用的主要目的是將陽光轉化為能量。"
-      },
-      {
-        "q": "Where does photosynthesis occur in plants?",
-        "options": [
-          "In the roots.",
-          "In the leaves.",
-          "In the flowers.",
-          "In the seeds."
-        ],
-        "correctIndex": 1,
-        "explain": "光合作用在植物的葉子中進行。"
-      },
-      {
-        "q": "What do plants produce during photosynthesis?",
-        "options": [
-          "Carbon dioxide and water.",
-          "Sugar and oxygen.",
-          "Heat and light.",
-          "Minerals and salts."
-        ],
-        "correctIndex": 1,
-        "explain": "植物在光合作用中產生糖和氧氣。"
-      },
-      {
-        "q": "Why is photosynthesis important for living beings?",
-        "options": [
-          "It helps plants grow faster.",
-          "It provides shelter from the sun.",
-          "It releases oxygen essential for life.",
-          "It prevents soil erosion."
+          "Energy from fossil fuels",
+          "Energy that is non-renewable",
+          "Energy from naturally replenished sources",
+          "Energy that cannot be used"
         ],
         "correctIndex": 2,
-        "explain": "光合作用釋放的氧氣對生命至關重要。"
+        "explain": "可再生能源是來自自然再生的資源的能源。"
+      },
+      {
+        "q": "Why is transitioning to renewable energy important?",
+        "options": [
+          "To increase pollution",
+          "To reduce fossil fuel use",
+          "To combat climate change",
+          "To save costs"
+        ],
+        "correctIndex": 2,
+        "explain": "轉向可再生能源對於對抗氣候變化至關重要。"
+      },
+      {
+        "q": "What do solar panels do?",
+        "options": [
+          "Store energy",
+          "Convert sunlight into electricity",
+          "Cool buildings",
+          "Generate wind power"
+        ],
+        "correctIndex": 1,
+        "explain": "太陽能板將陽光轉換為電力。"
+      },
+      {
+        "q": "What is one source of renewable energy mentioned?",
+        "options": [
+          "Coal",
+          "Nuclear",
+          "Wind",
+          "Natural gas"
+        ],
+        "correctIndex": 2,
+        "explain": "提到的可再生能源之一是風能。"
       }
     ]
   }

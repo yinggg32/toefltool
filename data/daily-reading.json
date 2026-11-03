@@ -2,113 +2,98 @@
   "cloze": {
     "segments": [
       {
-        "text": "The process of photosynth"
+        "text": "The phenomenon of photosynthesis is essential for life on Earth. It begins when chlorophyll, the green pigment in plants, absorbs sunlight. This energy is used to convert carbon dioxide and water into sugars and oxyge"
       },
       {
-        "blank": "esis"
+        "blank": "n."
       },
       {
-        "text": " is vital for life on Earth. Through this process, plants convert sunlight into en"
+        "text": " The overall process can be represented by a simple chemical equation. During this process, light energy is transformed into chemical energy, allowing plants to produce their own food. This not only sustains the plants themselves but also supports the entire food chai"
       },
       {
-        "blank": "ergy"
+        "blank": "n."
       },
       {
-        "text": ", using carbon dioxide and water. The byproducts of photosynthesis are oxyg"
+        "text": " In addition, photosynthesis plays a critical role in regulating atmospheric gases, primarily by consuming carbon dioxide and releasing oxygen. Given its importance, studying the mechanisms of photosynthesis is vital for advancing agricultural technology, especially in a world facing climate change and food security ch"
       },
       {
-        "blank": "en"
-      },
-      {
-        "text": ", which is released into the atmosphere, and glucose, which serves as food for the plant. This process also supports the entire food c"
-      },
-      {
-        "blank": "hain"
-      },
-      {
-        "text": ", as herbivores consume plants for energy, and carnivores eat herbivores. Photosynthesis not only fuels the growth of plants but also regulates the le"
-      },
-      {
-        "blank": "vel"
-      },
-      {
-        "text": ", of carbon dioxide in the atmosphere."
+        "blank": "allenges."
       }
     ]
   },
   "academic": {
-    "passage": "Photosynthesis is a fundamental process that enables plants to convert light energy into chemical energy. During this process, carbon dioxide from the air and water from the soil are transformed into glucose and oxygen. The glucose produced is utilized by the plants for growth, while the oxygen is released back into the atmosphere, which is crucial for the survival of aerobic organisms. Understanding photosynthesis is essential for appreciating ecosystems and addressing global challenges such as climate change and food security.",
+    "passage": "Photosynthesis is the process by which green plants, algae, and some bacteria convert light energy into chemical energy. This is essential for life on Earth as it produces organic compounds that serve as food for a variety of organisms. During photosynthesis, plants absorb carbon dioxide from the atmosphere and water from the soil, using sunlight to generate glucose and oxygen. The overall equation summarizing this process highlights its significance in maintaining ecological balance.",
     "questions": [
       {
         "q": "What is the main idea of the passage?",
         "options": [
-          "The significance of photosynthesis",
-          "The types of plants",
-          "The role of oxygen",
-          "The structure of leaves"
+          "Photosynthesis is crucial for life on Earth.",
+          "Plants absorb water and carbon dioxide.",
+          "Glucose is a product of photosynthesis.",
+          "Photosynthesis occurs only in green plants."
         ],
         "correctIndex": 0,
-        "explain": "本段落的主要思想是光合作用的重要性。"
+        "explain": "這篇文章的主要思想是光合作用對地球生命至關重要。"
       },
       {
-        "q": "What do plants produce during photosynthesis?",
+        "q": "Which of the following is a product of photosynthesis?",
         "options": [
-          "Water and carbon dioxide",
-          "Oxygen and glucose",
-          "Light and energy",
-          "Soil and nutrients"
-        ],
-        "correctIndex": 1,
-        "explain": "植物在光合作用中产生氧氣和葡萄糖。"
-      },
-      {
-        "q": "What can be inferred about photosynthesis and food chains?",
-        "options": [
-          "Photosynthesis is not important for food chains",
-          "Only carnivores depend on photosynthesis",
-          "Photosynthesis supports plant growth and food chains",
-          "Food chains can exist without plants"
+          "Carbon dioxide",
+          "Water",
+          "Oxygen",
+          "Nutrients"
         ],
         "correctIndex": 2,
-        "explain": "可以推斷，光合作用支持植物生長，並在食物鏈中扮演重要角色。"
+        "explain": "光合作用的產物是氧氣。"
       },
       {
-        "q": "What does the term 'aerobic organisms' refer to in the passage?",
+        "q": "What can be inferred about the study of photosynthesis?",
         "options": [
-          "Organisms that use oxygen",
-          "Organisms that do not need air",
-          "Plants that perform photosynthesis",
-          "Creatures living underwater"
+          "It is not necessary for food security.",
+          "It could help address climate change.",
+          "It only benefits plants.",
+          "It is a recent discovery."
         ],
-        "correctIndex": 0,
-        "explain": "文中提到的“需氧生物”是指需要氧氣的生物。"
+        "correctIndex": 1,
+        "explain": "學習光合作用有助於解決氣候變化。"
+      },
+      {
+        "q": "What does the term 'chemical energy' refer to in the context of the passage?",
+        "options": [
+          "Energy from sunlight",
+          "Energy stored in organic molecules",
+          "Energy from water",
+          "Energy from carbon dioxide"
+        ],
+        "correctIndex": 1,
+        "explain": "在這篇文章中，'化學能'指的是儲存在有機分子中的能量。"
       }
     ]
   },
   "daily": {
-    "passage": "Attention students: The library will be closed for renovations next week. Please plan to return or check out materials before the closure. We apologize for any inconvenience this may cause and appreciate your understanding.",
+    "passage": "Attention students: The library will be closed for renovations from May 1st to May 15th. Please plan accordingly and utilize online resources during this time. We apologize for any inconvenience caused and appreciate your understanding.",
     "questions": [
       {
         "q": "When will the library be closed?",
         "options": [
-          "Next week",
-          "This week",
-          "Last week",
-          "In two weeks"
-        ],
-        "correctIndex": 0,
-        "explain": "圖書館將在下週關閉。"
-      },
-      {
-        "q": "What should students do before the library closes?",
-        "options": [
-          "Check their emails",
-          "Return or check out materials",
-          "Attend a meeting",
-          "Visit the gym"
+          "April 1st to April 15th",
+          "May 1st to May 15th",
+          "May 1st to May 30th",
+          "April 15th to April 30th"
         ],
         "correctIndex": 1,
-        "explain": "學生應在圖書館關閉之前歸還或借出資料。"
+        "explain": "圖書館將於5月1日至5月15日關閉。"
+      },
+      {
+        "q": "What should students do during the library closure?",
+        "options": [
+          "Visit other libraries",
+          "Use online resources",
+          "Attend workshops",
+          "Speak with librarians"
+        ],
+        "correctIndex": 1,
+        "explain": "在圖書館關閉期間，學生應該利用線上資源。"
       }
     ]
   }

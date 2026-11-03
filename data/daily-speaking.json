@@ -1,45 +1,45 @@
 {
   "shadowSentences": [
-    "I like to drink coffee in the morning.",
-    "The weather is nice today, isn't it?",
-    "She enjoys reading books in her free time.",
-    "We should try that new restaurant downtown soon.",
-    "He plays soccer with his friends every weekend.",
-    "They went hiking in the mountains last summer.",
-    "I recently watched a fascinating documentary about space.",
-    "Cooking can be a fun activity to share with friends.",
-    "Traveling to new places helps broaden your horizons.",
-    "Learning a new language opens up many opportunities in life."
+    "I enjoy reading books in my free time.",
+    "Walking in the park is my favorite activity.",
+    "Cooking new recipes can be quite fun.",
+    "Traveling to new places teaches us a lot.",
+    "Listening to music helps me relax after work.",
+    "Gardening is a rewarding hobby for many people.",
+    "Volunteering in the community brings joy to others.",
+    "Watching movies with friends is a great way to bond.",
+    "Practicing a new language opens up many opportunities.",
+    "Learning to play an instrument requires patience and practice."
   ],
   "interviewScenarios": [
     {
-      "topic": "志願服務",
-      "intro": "You have agreed to take part in a research study about volunteering.",
+      "topic": "藝術愛好",
+      "intro": "You have agreed to take part in a research study about artistic hobbies.",
       "questions": [
-        "Q1: Can you share your experience with volunteering?",
-        "Q2: What challenges did you face while volunteering?",
-        "Q3: How do you feel about the impact of volunteering on communities?",
-        "Q4: What advice would you give to someone considering volunteering?"
+        "Q1: What artistic hobbies do you enjoy?",
+        "Q2: What challenges do you face while pursuing these hobbies?",
+        "Q3: How important do you think art is in daily life?",
+        "Q4: What advice would you give someone starting an artistic hobby?"
       ]
     },
     {
-      "topic": "環境保護",
-      "intro": "You have agreed to take part in a research study about environmental protection.",
+      "topic": "環保意識",
+      "intro": "You have agreed to take part in a research study about environmental awareness.",
       "questions": [
-        "Q1: What steps do you take to protect the environment?",
-        "Q2: Have you encountered any challenges in being environmentally friendly?",
-        "Q3: What is your opinion on the importance of protecting the environment?",
-        "Q4: What recommendations do you have for others to help the environment?"
+        "Q1: What actions do you take to be more environmentally friendly?",
+        "Q2: What difficulties do people face in adopting sustainable practices?",
+        "Q3: Why do you think environmental awareness is crucial today?",
+        "Q4: What recommendations would you make to encourage others to be eco-friendly?"
       ]
     },
     {
-      "topic": "藝術欣賞",
-      "intro": "You have agreed to take part in a research study about art appreciation.",
+      "topic": "飲食習慣",
+      "intro": "You have agreed to take part in a research study about eating habits.",
       "questions": [
-        "Q1: What type of art do you enjoy the most and why?",
-        "Q2: Have you ever struggled to understand or appreciate certain art forms?",
-        "Q3: How do you think art influences society and culture?",
-        "Q4: What tips would you offer someone looking to learn more about art?"
+        "Q1: Can you describe your typical eating habits?",
+        "Q2: What challenges do you encounter with maintaining healthy eating?",
+        "Q3: In your opinion, how does diet affect overall health?",
+        "Q4: What tips would you suggest for someone wanting to improve their diet?"
       ]
     }
   ]
