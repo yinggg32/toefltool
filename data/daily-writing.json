@@ -3,142 +3,141 @@
     {
       "words": [
         "the",
-        "students",
-        "attended",
-        "the",
-        "conference",
-        "to",
-        "learn",
-        "about",
-        "new",
-        "research"
-      ],
-      "display": "The students attended the conference to learn about new research."
-    },
-    {
-      "words": [
-        "the",
-        "author",
-        "argues",
-        "that",
-        "climate",
-        "change",
-        "is",
-        "a",
-        "global",
-        "issue"
-      ],
-      "display": "The author argues that climate change is a global issue."
-    },
-    {
-      "words": [
-        "the",
+        "latest",
         "research",
-        "team",
-        "discovered",
-        "a",
-        "new",
-        "method",
-        "for",
-        "treatment",
-        "of",
-        "disease"
+        "study",
+        "reveals",
+        "that",
+        "exercise",
+        "improves",
+        "mental",
+        "health"
       ],
-      "display": "The research team discovered a new method for treatment of disease."
+      "display": "The latest research study reveals that exercise improves mental health."
     },
     {
       "words": [
         "students",
         "should",
-        "participate",
-        "in",
-        "extracurricular",
-        "activities",
+        "practice",
+        "time",
+        "management",
+        "skills",
         "to",
-        "enhance",
-        "their",
-        "learning"
+        "achieve",
+        "academic",
+        "success"
       ],
-      "display": "Students should participate in extracurricular activities to enhance their learning."
+      "display": "Students should practice time management skills to achieve academic success."
     },
     {
       "words": [
         "the",
-        "professor",
-        "recommended",
-        "reading",
-        "the",
-        "latest",
-        "journal",
-        "articles",
-        "for",
-        "deeper",
-        "understanding"
+        "government",
+        "has",
+        "implemented",
+        "new",
+        "policies",
+        "to",
+        "address",
+        "climate",
+        "change"
       ],
-      "display": "The professor recommended reading the latest journal articles for deeper understanding."
+      "display": "The government has implemented new policies to address climate change."
+    },
+    {
+      "words": [
+        "reading",
+        "fiction",
+        "can",
+        "enhance",
+        "empathy",
+        "and",
+        "understanding",
+        "of",
+        "different",
+        "cultures"
+      ],
+      "display": "Reading fiction can enhance empathy and understanding of different cultures."
+    },
+    {
+      "words": [
+        "participating",
+        "in",
+        "extracurricular",
+        "activities",
+        "helps",
+        "students",
+        "develop",
+        "social",
+        "skills",
+        "and",
+        "friendships"
+      ],
+      "display": "Participating in extracurricular activities helps students develop social skills and friendships."
     },
     {
       "words": [
         "technology",
-        "has",
-        "revolutionized",
+        "is",
+        "changing",
         "the",
         "way",
         "we",
         "communicate",
+        "with",
+        "each",
+        "other"
+      ],
+      "display": "Technology is changing the way we communicate with each other."
+    },
+    {
+      "words": [
+        "traveling",
+        "can",
+        "broaden",
+        "one's",
+        "perspective",
         "and",
-        "share",
-        "information"
+        "help",
+        "develop",
+        "appreciation",
+        "for",
+        "diversity"
       ],
-      "display": "Technology has revolutionized the way we communicate and share information."
+      "display": "Traveling can broaden one's perspective and help develop appreciation for diversity."
     },
     {
       "words": [
         "the",
-        "university",
-        "offers",
-        "a",
-        "variety",
-        "of",
-        "programs",
+        "internet",
+        "provides",
+        "access",
         "to",
-        "support",
-        "student",
-        "success"
-      ],
-      "display": "The university offers a variety of programs to support student success."
-    },
-    {
-      "words": [
-        "the",
-        "debate",
-        "focused",
-        "on",
-        "the",
-        "impact",
+        "vast",
+        "amounts",
         "of",
-        "social",
-        "media",
-        "on",
-        "youth"
+        "information",
+        "and",
+        "resources"
       ],
-      "display": "The debate focused on the impact of social media on youth."
+      "display": "The internet provides access to vast amounts of information and resources."
     }
   ],
   "emailPrompts": [
-    "寄信給教授，說明因病無法參加期中考，詢問補考事宜。",
-    "向宿舍管理辦公室詢問關於房間分配的問題。",
-    "寄信給圖書館，請求延長書籍的借用期限。",
-    "寫封信給社團主席，表達希望參加即將舉行的活動。",
-    "向客戶服務部門詢問產品保修的細節。",
-    "寄信給系主任，請求討論有關課程安排的建議。"
+    "寄信給教授，請求延遲提交論文的截止日期。",
+    "寄信給宿舍辦公室，詢問有關房間分配的問題。",
+    "寄信給圖書館，反映書籍遺失的問題並尋求幫助。",
+    "寄信給社團，詢問即將舉行的活動詳情。",
+    "寄信給客服，尋求產品退換貨的資訊。",
+    "寄信給課程助教，請教作業的具體要求。"
   ],
   "discussionPrompts": [
-    "教授問：「在當今社會中，科技對教育的影響是正面還是負面？」",
-    "教授問：「應該如何評估社交媒體對年輕人的心理健康影響？」",
-    "教授問：「氣候變化是否應該成為我們當前的首要議題？」",
-    "教授問：「大學教育的價值是否仍然高於實習經驗？」",
-    "教授問：「全球化如何影響不同文化的保存？」",
-    "教授問：「人工智慧的發展對勞動市場會產生什麼樣的影響？」"
+    "教授問：「你認為社交媒體對青少年的心理健康有何影響？」",
+    "教授問：「在當前的經濟環境中，政府應該如何支持小型企業？」",
+    "教授問：「文化遺產的保護與經濟發展之間應如何取得平衡？」",
+    "教授問：「人工智慧的發展將如何改變未來的職場？」",
+    "教授問：「氣候變遷的影響是否應該成為國際政策的重點？」",
+    "教授問：「教育應該如何應對快速變化的科技環境？」"
   ]
 }

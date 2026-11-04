@@ -10262,5 +10262,37 @@
     "zh": "社會網絡",
     "ex": "Social networks are crucial for understanding community interactions.",
     "cat": "📰 每日新詞：anthropology"
+  },
+  {
+    "word": "smog",
+    "pos": "n.",
+    "root": "煙霧+—",
+    "zh": "煙霧",
+    "ex": "Smog can significantly reduce air quality and visibility in urban areas.",
+    "cat": "📰 每日新詞：environmental science"
+  },
+  {
+    "word": "climate policy",
+    "pos": "n.",
+    "root": "氣候+政策",
+    "zh": "氣候政策",
+    "ex": "Effective climate policy is essential for addressing global warming.",
+    "cat": "📰 每日新詞：environmental science"
+  },
+  {
+    "word": "photovoltaic",
+    "pos": "adj.",
+    "root": "光伏+—",
+    "zh": "光伏的",
+    "ex": "Photovoltaic technology converts sunlight directly into electricity.",
+    "cat": "📰 每日新詞：environmental science"
+  },
+  {
+    "word": "ecosystem restoration",
+    "pos": "n.",
+    "root": "生態系統+恢復",
+    "zh": "生態系統恢復",
+    "ex": "Ecosystem restoration helps to revive degraded environments and promote biodiversity.",
+    "cat": "📰 每日新詞：environmental science"
   }
 ]

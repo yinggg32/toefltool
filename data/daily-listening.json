@@ -1,116 +1,116 @@
 {
   "chooseResponse": [
     {
-      "q": "Are you going to the game tonight?",
+      "q": "How was your weekend?",
       "options": [
-        "Yes, I can't wait!",
-        "No, I'm busy.",
-        "Maybe, I'll think about it.",
-        "I don't like sports."
+        "It was great, thanks!",
+        "I need to study more.",
+        "I traveled to the mountains.",
+        "I watched a new movie."
       ],
       "correctIndex": 0
     }
   ],
   "conversation": {
-    "transcript": "Student: Have you heard about the new art exhibit downtown?\nAdvisor: Yes, I’ve seen some posters around the campus. It's supposed to be really interesting.\nStudent: I heard it features local artists. Are you planning to go?\nAdvisor: Definitely! I think it’s a great way to support the community.",
+    "transcript": "Student: Hey, did you finish the group project?\nProfessor: Yes, we wrapped it up last night. How about you?\nStudent: I'm almost done, just need to add a few more details.\nProfessor: Make sure to proofread it before submission!",
     "questions": [
       {
-        "q": "What is the main topic of the conversation?",
+        "q": "What did the student say about the project?",
         "options": [
-          "A new art exhibit",
-          "A concert event",
-          "A sports game",
-          "A movie screening"
-        ],
-        "correctIndex": 0,
-        "explain": "這段對話的主要主題是關於一個新的藝術展覽。"
-      },
-      {
-        "q": "What does the advisor think about the exhibit?",
-        "options": [
-          "It's not worth seeing.",
-          "It will be boring.",
-          "It's interesting and worth attending.",
-          "It's only for students."
+          "They didn't start it.",
+          "They finished it last night.",
+          "They are almost done.",
+          "They need help with it."
         ],
         "correctIndex": 2,
-        "explain": "顧問認為這個展覽有趣並值得參加。"
+        "explain": "學生說他們快完成了。"
+      },
+      {
+        "q": "What does the professor suggest?",
+        "options": [
+          "To submit it immediately.",
+          "To proofread it before submission.",
+          "To work on it more.",
+          "To ask for help."
+        ],
+        "correctIndex": 1,
+        "explain": "教授建議在提交之前校對。"
       }
     ]
   },
   "announcement": {
-    "transcript": "Attention students: The library will be closed for renovations starting next Monday and will reopen in two weeks. Please plan accordingly and make sure to check out any materials you need before then. Thank you for your understanding.",
+    "transcript": "Attention students! The library will be closing early today at 4 PM for maintenance. Please make sure to check out any materials you need before the early closing time. Thank you for your understanding.",
     "questions": [
       {
-        "q": "Why will the library be closed?",
+        "q": "Why is the library closing early?",
         "options": [
-          "For a holiday",
-          "For renovations",
-          "For a special event",
-          "For inventory"
+          "For new books arriving.",
+          "For maintenance work.",
+          "For a special event.",
+          "For staff training."
         ],
         "correctIndex": 1,
-        "explain": "圖書館將因為翻修而關閉。"
+        "explain": "圖書館今天因為維護工作提早關閉。"
       },
       {
-        "q": "When will the library reopen?",
+        "q": "What time does the library close?",
         "options": [
-          "Next week",
-          "In one month",
-          "In two weeks",
-          "This weekend"
+          "5 PM",
+          "6 PM",
+          "4 PM",
+          "3 PM"
         ],
         "correctIndex": 2,
-        "explain": "圖書館將在兩週後重新開放。"
+        "explain": "圖書館今天將在下午4點關閉。"
       }
     ]
   },
   "talk": {
-    "transcript": "Today, I want to discuss the concept of renewable energy. Renewable energy comes from resources that are naturally replenished, such as sunlight, wind, and water. Unlike fossil fuels, which can deplete and cause environmental harm, renewable energy sources provide a sustainable way to meet our energy needs. For example, solar panels convert sunlight into electricity, while wind turbines harness wind power. Transitioning to renewable energy is crucial for reducing greenhouse gas emissions and combating climate change. As technology advances, we are seeing more innovative solutions to harness these resources efficiently.",
+    "transcript": "Today, I want to discuss the concept of 'supply and demand' in economics. Supply refers to the quantity of a good or service that producers are willing to sell at various prices. On the other hand, demand is the quantity that consumers are willing to purchase at those prices. The interaction between supply and demand determines the market price and quantity of goods sold. If demand exceeds supply, prices tend to rise, leading to potential shortages. Conversely, if supply exceeds demand, prices may fall, resulting in surpluses. Understanding this concept is crucial for analyzing market behavior and making informed economic decisions.",
     "questions": [
       {
-        "q": "What is renewable energy?",
+        "q": "What does supply refer to?",
         "options": [
-          "Energy from fossil fuels",
-          "Energy that is non-renewable",
-          "Energy from naturally replenished sources",
-          "Energy that cannot be used"
+          "Consumer preferences.",
+          "Market regulations.",
+          "Producers' willingness to sell.",
+          "Government policies."
         ],
         "correctIndex": 2,
-        "explain": "可再生能源是來自自然再生的資源的能源。"
+        "explain": "供應指的是生產者願意出售的商品或服務的數量。"
       },
       {
-        "q": "Why is transitioning to renewable energy important?",
+        "q": "What happens when demand exceeds supply?",
         "options": [
-          "To increase pollution",
-          "To reduce fossil fuel use",
-          "To combat climate change",
-          "To save costs"
-        ],
-        "correctIndex": 2,
-        "explain": "轉向可再生能源對於對抗氣候變化至關重要。"
-      },
-      {
-        "q": "What do solar panels do?",
-        "options": [
-          "Store energy",
-          "Convert sunlight into electricity",
-          "Cool buildings",
-          "Generate wind power"
+          "Prices tend to fall.",
+          "Shortages may occur.",
+          "Surpluses are created.",
+          "Quality improves."
         ],
         "correctIndex": 1,
-        "explain": "太陽能板將陽光轉換為電力。"
+        "explain": "當需求超過供應，價格往往上漲，可能導致短缺。"
       },
       {
-        "q": "What is one source of renewable energy mentioned?",
+        "q": "What does demand refer to?",
         "options": [
-          "Coal",
-          "Nuclear",
-          "Wind",
-          "Natural gas"
+          "Producers' costs.",
+          "Consumers' willingness to buy.",
+          "Market competition.",
+          "Product advertising."
+        ],
+        "correctIndex": 1,
+        "explain": "需求指的是消費者願意在各種價格下購買的商品數量。"
+      },
+      {
+        "q": "Why is understanding supply and demand important?",
+        "options": [
+          "It helps with marketing strategies.",
+          "It influences consumer behavior.",
+          "It is crucial for analyzing market behavior.",
+          "It simplifies accounting procedures."
         ],
         "correctIndex": 2,
-        "explain": "提到的可再生能源之一是風能。"
+        "explain": "理解供應和需求對於分析市場行為和做出明智的經濟決策至關重要。"
       }
     ]
   }
