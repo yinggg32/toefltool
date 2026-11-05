@@ -1,116 +1,116 @@
 {
   "chooseResponse": [
     {
-      "q": "How was your weekend?",
+      "q": "What do you think of the new library hours?",
       "options": [
-        "It was great, thanks!",
-        "I need to study more.",
-        "I traveled to the mountains.",
-        "I watched a new movie."
+        "They're great!",
+        "I don't care.",
+        "They need to change.",
+        "I like them."
       ],
       "correctIndex": 0
     }
   ],
   "conversation": {
-    "transcript": "Student: Hey, did you finish the group project?\nProfessor: Yes, we wrapped it up last night. How about you?\nStudent: I'm almost done, just need to add a few more details.\nProfessor: Make sure to proofread it before submission!",
+    "transcript": "Student: Have you seen the new library hours?\nAdvisor: Yes, I think they are quite convenient. They open earlier now.\nStudent: I agree! It makes it easier to study in the morning.\nAdvisor: Exactly, especially for those with morning classes.",
     "questions": [
       {
-        "q": "What did the student say about the project?",
+        "q": "What is the main topic of the conversation?",
         "options": [
-          "They didn't start it.",
-          "They finished it last night.",
-          "They are almost done.",
-          "They need help with it."
+          "Library hours",
+          "Morning classes",
+          "Study schedules",
+          "Convenience of resources"
         ],
-        "correctIndex": 2,
-        "explain": "學生說他們快完成了。"
+        "correctIndex": 0,
+        "explain": "這段對話的主要主題是圖書館的開放時間。"
       },
       {
-        "q": "What does the professor suggest?",
+        "q": "How does the student feel about the library hours?",
         "options": [
-          "To submit it immediately.",
-          "To proofread it before submission.",
-          "To work on it more.",
-          "To ask for help."
+          "Indifferent",
+          "Negative",
+          "Positive",
+          "Confused"
         ],
-        "correctIndex": 1,
-        "explain": "教授建議在提交之前校對。"
+        "correctIndex": 2,
+        "explain": "學生對圖書館的開放時間感到積極。"
       }
     ]
   },
   "announcement": {
-    "transcript": "Attention students! The library will be closing early today at 4 PM for maintenance. Please make sure to check out any materials you need before the early closing time. Thank you for your understanding.",
+    "transcript": "Attention students, the annual campus festival will be held this Saturday from 10 AM to 6 PM. There will be food trucks, games, and live performances. Don't miss out on this great opportunity to enjoy and connect with fellow students!",
     "questions": [
       {
-        "q": "Why is the library closing early?",
+        "q": "What is happening this Saturday?",
         "options": [
-          "For new books arriving.",
-          "For maintenance work.",
-          "For a special event.",
-          "For staff training."
+          "A workshop",
+          "A campus festival",
+          "An exam",
+          "A lecture series"
         ],
         "correctIndex": 1,
-        "explain": "圖書館今天因為維護工作提早關閉。"
+        "explain": "這個星期六將舉行校園節。"
       },
       {
-        "q": "What time does the library close?",
+        "q": "What will be present at the festival?",
         "options": [
-          "5 PM",
-          "6 PM",
-          "4 PM",
-          "3 PM"
+          "Food trucks",
+          "Only games",
+          "Class lectures",
+          "Library tours"
         ],
-        "correctIndex": 2,
-        "explain": "圖書館今天將在下午4點關閉。"
+        "correctIndex": 0,
+        "explain": "節慶上將有美食卡車。"
       }
     ]
   },
   "talk": {
-    "transcript": "Today, I want to discuss the concept of 'supply and demand' in economics. Supply refers to the quantity of a good or service that producers are willing to sell at various prices. On the other hand, demand is the quantity that consumers are willing to purchase at those prices. The interaction between supply and demand determines the market price and quantity of goods sold. If demand exceeds supply, prices tend to rise, leading to potential shortages. Conversely, if supply exceeds demand, prices may fall, resulting in surpluses. Understanding this concept is crucial for analyzing market behavior and making informed economic decisions.",
+    "transcript": "Today, we will discuss the concept of biodiversity. Biodiversity refers to the variety of life found in a particular habitat or ecosystem. This includes the different species of plants, animals, and microorganisms, as well as the genetic diversity within those species. Biodiversity is crucial for ecosystem health, providing resilience against environmental changes. Higher biodiversity also supports ecosystem services like pollination, nutrient cycling, and clean water. Protecting biodiversity is essential for maintaining the balance of our planet's ecosystems.",
     "questions": [
       {
-        "q": "What does supply refer to?",
+        "q": "What does biodiversity include?",
         "options": [
-          "Consumer preferences.",
-          "Market regulations.",
-          "Producers' willingness to sell.",
-          "Government policies."
+          "Only animal species",
+          "Genetic diversity",
+          "Ecosystem services",
+          "All of the above"
         ],
-        "correctIndex": 2,
-        "explain": "供應指的是生產者願意出售的商品或服務的數量。"
+        "correctIndex": 3,
+        "explain": "生物多樣性包括所有這些方面。"
       },
       {
-        "q": "What happens when demand exceeds supply?",
+        "q": "Why is biodiversity important?",
         "options": [
-          "Prices tend to fall.",
-          "Shortages may occur.",
-          "Surpluses are created.",
-          "Quality improves."
+          "It increases population size",
+          "It helps ecosystems adapt",
+          "It reduces species variety",
+          "It lowers food production"
         ],
         "correctIndex": 1,
-        "explain": "當需求超過供應，價格往往上漲，可能導致短缺。"
+        "explain": "生物多樣性對生態系統的適應性有幫助。"
       },
       {
-        "q": "What does demand refer to?",
+        "q": "What is an example of an ecosystem service?",
         "options": [
-          "Producers' costs.",
-          "Consumers' willingness to buy.",
-          "Market competition.",
-          "Product advertising."
+          "Climate regulation",
+          "Pollination",
+          "Species extinction",
+          "Soil erosion"
         ],
         "correctIndex": 1,
-        "explain": "需求指的是消費者願意在各種價格下購買的商品數量。"
+        "explain": "授粉是生態系統服務的一個例子。"
       },
       {
-        "q": "Why is understanding supply and demand important?",
+        "q": "What can threaten biodiversity?",
         "options": [
-          "It helps with marketing strategies.",
-          "It influences consumer behavior.",
-          "It is crucial for analyzing market behavior.",
-          "It simplifies accounting procedures."
+          "Conservation efforts",
+          "Natural disasters",
+          "Habitat destruction",
+          "Ecosystem balance"
         ],
         "correctIndex": 2,
-        "explain": "理解供應和需求對於分析市場行為和做出明智的經濟決策至關重要。"
+        "explain": "棲息地破壞可以威脅到生物多樣性。"
       }
     ]
   }

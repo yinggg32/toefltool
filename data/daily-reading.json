@@ -2,98 +2,101 @@
   "cloze": {
     "segments": [
       {
-        "text": "The phenomenon of photosynthesis is essential for life on Earth. It begins when chlorophyll, the green pigment in plants, absorbs sunlight. This energy is used to convert carbon dioxide and water into sugars and oxyge"
+        "text": "The theory of relativity, proposed by Albert Einstein in the early 20th century, revolutionized our understanding of "
       },
       {
-        "blank": "n."
+        "blank": "phys"
       },
       {
-        "text": " The overall process can be represented by a simple chemical equation. During this process, light energy is transformed into chemical energy, allowing plants to produce their own food. This not only sustains the plants themselves but also supports the entire food chai"
+        "text": "ics. It introduced the idea that time and space are not absolute, but rather relative to the observer's state of motion. One of its key components is the equation E=mc², which expresses the equivalence of energy (E) and mass (m) with c representing the speed of light. This groundbreaking concept has far-reaching "
       },
       {
-        "blank": "n."
+        "blank": "impac"
       },
       {
-        "text": " In addition, photosynthesis plays a critical role in regulating atmospheric gases, primarily by consuming carbon dioxide and releasing oxygen. Given its importance, studying the mechanisms of photosynthesis is vital for advancing agricultural technology, especially in a world facing climate change and food security ch"
+        "text": "ts on both theoretical and applied physics, influencing everything from nuclear energy to our understanding of black holes. Furthermore, the implications of relativity challenge our intuitive notions of "
       },
       {
-        "blank": "allenges."
+        "blank": "space"
+      },
+      {
+        "text": " and time, suggesting that these dimensions can be warped by gravity. This theory not only changed the landscape of modern physics but also inspired further research into the fabric of the universe."
       }
     ]
   },
   "academic": {
-    "passage": "Photosynthesis is the process by which green plants, algae, and some bacteria convert light energy into chemical energy. This is essential for life on Earth as it produces organic compounds that serve as food for a variety of organisms. During photosynthesis, plants absorb carbon dioxide from the atmosphere and water from the soil, using sunlight to generate glucose and oxygen. The overall equation summarizing this process highlights its significance in maintaining ecological balance.",
+    "passage": "The theory of relativity has fundamentally altered our approach to physics. It shows that measurements of space and time can vary based on the relative motion of observers. The famous equation E=mc² indicates that energy and mass are interchangeable. This revelation has influenced numerous fields including astrophysics, where it helps explain phenomena such as black holes and gravitational waves. Moreover, relativity challenges conventional ideas about how the universe operates.",
     "questions": [
       {
         "q": "What is the main idea of the passage?",
         "options": [
-          "Photosynthesis is crucial for life on Earth.",
-          "Plants absorb water and carbon dioxide.",
-          "Glucose is a product of photosynthesis.",
-          "Photosynthesis occurs only in green plants."
+          "The theory of relativity has transformed physics.",
+          "Astrophysics is primarily about black holes.",
+          "Albert Einstein's life and achievements.",
+          "The importance of energy in physics."
         ],
         "correctIndex": 0,
-        "explain": "這篇文章的主要思想是光合作用對地球生命至關重要。"
+        "explain": "這段文字的主要思想是相對論如何變革了物理學的理解。"
       },
       {
-        "q": "Which of the following is a product of photosynthesis?",
+        "q": "Which equation is associated with the theory of relativity?",
         "options": [
-          "Carbon dioxide",
-          "Water",
-          "Oxygen",
-          "Nutrients"
+          "F=ma",
+          "E=mc²",
+          "pV=nRT",
+          "a²+b²=c²"
+        ],
+        "correctIndex": 1,
+        "explain": "E=mc²是相對論的核心方程，表達了能量與質量的等價性。"
+      },
+      {
+        "q": "What can be inferred about the theory of relativity's impact?",
+        "options": [
+          "It has no real-world applications.",
+          "It is solely a theoretical concept.",
+          "It has led to developments in various scientific fields.",
+          "It is only understood by physicists."
         ],
         "correctIndex": 2,
-        "explain": "光合作用的產物是氧氣。"
+        "explain": "相對論的影響是深遠的，促進了多個科學領域的發展。"
       },
       {
-        "q": "What can be inferred about the study of photosynthesis?",
+        "q": "What does the term 'warped' in the context of space refer to?",
         "options": [
-          "It is not necessary for food security.",
-          "It could help address climate change.",
-          "It only benefits plants.",
-          "It is a recent discovery."
+          "Curved or distorted",
+          "Flat and unchanging",
+          "Static and eternal",
+          "Dynamic and fluid"
         ],
-        "correctIndex": 1,
-        "explain": "學習光合作用有助於解決氣候變化。"
-      },
-      {
-        "q": "What does the term 'chemical energy' refer to in the context of the passage?",
-        "options": [
-          "Energy from sunlight",
-          "Energy stored in organic molecules",
-          "Energy from water",
-          "Energy from carbon dioxide"
-        ],
-        "correctIndex": 1,
-        "explain": "在這篇文章中，'化學能'指的是儲存在有機分子中的能量。"
+        "correctIndex": 0,
+        "explain": "在此上下文中，'warped'指的是空間的曲率或變形。"
       }
     ]
   },
   "daily": {
-    "passage": "Attention students: The library will be closed for renovations from May 1st to May 15th. Please plan accordingly and utilize online resources during this time. We apologize for any inconvenience caused and appreciate your understanding.",
+    "passage": "Attention students: The library will have extended hours during finals week. From Monday to Friday, the library will be open from 8 AM to midnight. We encourage all students to take advantage of this time to study effectively.",
     "questions": [
       {
-        "q": "When will the library be closed?",
+        "q": "What are the new hours for the library during finals week?",
         "options": [
-          "April 1st to April 15th",
-          "May 1st to May 15th",
-          "May 1st to May 30th",
-          "April 15th to April 30th"
+          "8 AM to midnight",
+          "9 AM to 10 PM",
+          "7 AM to 11 PM",
+          "8 AM to 10 PM"
         ],
-        "correctIndex": 1,
-        "explain": "圖書館將於5月1日至5月15日關閉。"
+        "correctIndex": 0,
+        "explain": "圖書館在 finals 週的開放時間是早上8點到午夜。"
       },
       {
-        "q": "What should students do during the library closure?",
+        "q": "On which days will the library have extended hours?",
         "options": [
-          "Visit other libraries",
-          "Use online resources",
-          "Attend workshops",
-          "Speak with librarians"
+          "Only Monday",
+          "Monday to Friday",
+          "Saturday and Sunday",
+          "Every day of the week"
         ],
         "correctIndex": 1,
-        "explain": "在圖書館關閉期間，學生應該利用線上資源。"
+        "explain": "圖書館在 finals 週的延長開放時間是從星期一到星期五。"
       }
     ]
   }

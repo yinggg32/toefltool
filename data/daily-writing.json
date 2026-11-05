@@ -3,141 +3,145 @@
     {
       "words": [
         "the",
-        "latest",
         "research",
         "study",
         "reveals",
-        "that",
-        "exercise",
-        "improves",
-        "mental",
-        "health"
+        "significant",
+        "findings",
+        "about",
+        "climate",
+        "change"
       ],
-      "display": "The latest research study reveals that exercise improves mental health."
+      "display": "The research study reveals significant findings about climate change."
     },
     {
       "words": [
-        "students",
-        "should",
-        "practice",
-        "time",
-        "management",
-        "skills",
-        "to",
-        "achieve",
-        "academic",
-        "success"
+        "advancements",
+        "in",
+        "technology",
+        "have",
+        "transformed",
+        "the",
+        "way",
+        "we",
+        "communicate"
       ],
-      "display": "Students should practice time management skills to achieve academic success."
+      "display": "Advancements in technology have transformed the way we communicate."
+    },
+    {
+      "words": [
+        "many",
+        "students",
+        "believe",
+        "that",
+        "participating",
+        "in",
+        "extracurricular",
+        "activities",
+        "improves",
+        "their",
+        "skills"
+      ],
+      "display": "Many students believe that participating in extracurricular activities improves their skills."
     },
     {
       "words": [
         "the",
         "government",
-        "has",
-        "implemented",
-        "new",
-        "policies",
+        "should",
+        "invest",
+        "more",
+        "in",
+        "renewable",
+        "energy",
+        "resources",
         "to",
-        "address",
-        "climate",
-        "change"
+        "combat",
+        "global",
+        "warming"
       ],
-      "display": "The government has implemented new policies to address climate change."
+      "display": "The government should invest more in renewable energy resources to combat global warming."
     },
     {
       "words": [
         "reading",
-        "fiction",
-        "can",
-        "enhance",
-        "empathy",
+        "books",
+        "enhances",
+        "critical",
+        "thinking",
         "and",
-        "understanding",
-        "of",
-        "different",
-        "cultures"
+        "improves",
+        "vocabulary",
+        "among",
+        "students"
       ],
-      "display": "Reading fiction can enhance empathy and understanding of different cultures."
-    },
-    {
-      "words": [
-        "participating",
-        "in",
-        "extracurricular",
-        "activities",
-        "helps",
-        "students",
-        "develop",
-        "social",
-        "skills",
-        "and",
-        "friendships"
-      ],
-      "display": "Participating in extracurricular activities helps students develop social skills and friendships."
-    },
-    {
-      "words": [
-        "technology",
-        "is",
-        "changing",
-        "the",
-        "way",
-        "we",
-        "communicate",
-        "with",
-        "each",
-        "other"
-      ],
-      "display": "Technology is changing the way we communicate with each other."
+      "display": "Reading books enhances critical thinking and improves vocabulary among students."
     },
     {
       "words": [
         "traveling",
+        "abroad",
         "can",
+        "provide",
+        "valuable",
+        "cultural",
+        "experiences",
+        "and",
         "broaden",
         "one's",
-        "perspective",
-        "and",
-        "help",
-        "develop",
-        "appreciation",
-        "for",
-        "diversity"
+        "perspective"
       ],
-      "display": "Traveling can broaden one's perspective and help develop appreciation for diversity."
+      "display": "Traveling abroad can provide valuable cultural experiences and broaden one's perspective."
     },
     {
       "words": [
         "the",
-        "internet",
-        "provides",
-        "access",
+        "professor",
+        "encouraged",
+        "students",
         "to",
-        "vast",
-        "amounts",
-        "of",
-        "information",
-        "and",
-        "resources"
+        "engage",
+        "in",
+        "class",
+        "discussions",
+        "for",
+        "deeper",
+        "understanding"
       ],
-      "display": "The internet provides access to vast amounts of information and resources."
+      "display": "The professor encouraged students to engage in class discussions for deeper understanding."
+    },
+    {
+      "words": [
+        "consuming",
+        "a",
+        "balanced",
+        "diet",
+        "is",
+        "essential",
+        "for",
+        "maintaining",
+        "good",
+        "health",
+        "and",
+        "wellbeing"
+      ],
+      "display": "Consuming a balanced diet is essential for maintaining good health and wellbeing."
     }
   ],
   "emailPrompts": [
-    "寄信給教授，請求延遲提交論文的截止日期。",
-    "寄信給宿舍辦公室，詢問有關房間分配的問題。",
-    "寄信給圖書館，反映書籍遺失的問題並尋求幫助。",
-    "寄信給社團，詢問即將舉行的活動詳情。",
-    "寄信給客服，尋求產品退換貨的資訊。",
-    "寄信給課程助教，請教作業的具體要求。"
+    "寄信給教授，詢問課程的進度及未來的考試安排。",
+    "寄信給宿舍管理辦公室，請求修理房間內的水管問題。",
+    "寄信給圖書館，詢問新書的借閱政策及歸還期限。",
+    "寄信給社團，表達對活動的興趣並詢問如何參加。",
+    "寄信給客戶服務，請求有關產品的保修和退換貨政策的詳細信息。",
+    "寄信給導師，請教有關實習機會的建議及應聘流程。"
   ],
   "discussionPrompts": [
-    "教授問：「你認為社交媒體對青少年的心理健康有何影響？」",
-    "教授問：「在當前的經濟環境中，政府應該如何支持小型企業？」",
-    "教授問：「文化遺產的保護與經濟發展之間應如何取得平衡？」",
-    "教授問：「人工智慧的發展將如何改變未來的職場？」",
-    "教授問：「氣候變遷的影響是否應該成為國際政策的重點？」",
-    "教授問：「教育應該如何應對快速變化的科技環境？」"
+    "教授問：「你認為科技進步對社會的影響是正面還是負面？」",
+    "教授問：「全球化對本地文化帶來的挑戰與機會有哪些？」",
+    "教授問：「教育公平在不同國家之間的差異如何影響學生的未來？」",
+    "教授問：「氣候變遷問題應該由誰來負責解決，政府還是企業？」",
+    "教授問：「藝術在社會運動中扮演的角色是什麼？」",
+    "教授問：「心理健康問題在當代社會中受到的重視程度是否足夠？」"
   ]
 }
