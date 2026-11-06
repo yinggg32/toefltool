@@ -2,101 +2,95 @@
   "cloze": {
     "segments": [
       {
-        "text": "The theory of relativity, proposed by Albert Einstein in the early 20th century, revolutionized our understanding of "
+        "text": "The human brain is an incredibly complex organ, responsible for controlling ",
+        "blank": "cogniti"
       },
       {
-        "blank": "phys"
+        "text": ", emotions, and behavior. It is estimated that the average adult brain contains around 86 billion neurons, each connected by synapses that transmit information. These connections are not static; they can be strengthened or weakened based on a person's ",
+        "blank": "experi"
       },
       {
-        "text": "ics. It introduced the idea that time and space are not absolute, but rather relative to the observer's state of motion. One of its key components is the equation E=mc², which expresses the equivalence of energy (E) and mass (m) with c representing the speed of light. This groundbreaking concept has far-reaching "
+        "text": ". Neuroplasticity refers to the brain's ability to reorganize itself by forming new neural connections. This adaptability is crucial for learning and recovering from injuries. For instance, when a person loses a limb, the brain can ",
+        "blank": "reorgani"
       },
       {
-        "blank": "impac"
-      },
-      {
-        "text": "ts on both theoretical and applied physics, influencing everything from nuclear energy to our understanding of black holes. Furthermore, the implications of relativity challenge our intuitive notions of "
-      },
-      {
-        "blank": "space"
-      },
-      {
-        "text": " and time, suggesting that these dimensions can be warped by gravity. This theory not only changed the landscape of modern physics but also inspired further research into the fabric of the universe."
+        "text": "ze the areas associated with missing inputs. The brain's capacity to change highlights the importance of mental stimulation and lifelong learning in maintaining cognitive health."
       }
     ]
   },
   "academic": {
-    "passage": "The theory of relativity has fundamentally altered our approach to physics. It shows that measurements of space and time can vary based on the relative motion of observers. The famous equation E=mc² indicates that energy and mass are interchangeable. This revelation has influenced numerous fields including astrophysics, where it helps explain phenomena such as black holes and gravitational waves. Moreover, relativity challenges conventional ideas about how the universe operates.",
+    "passage": "The study of renewable energy sources has gained significant attention in recent years. As global energy demands increase, researchers are exploring alternatives to fossil fuels. Solar, wind, and hydroelectric power are at the forefront of these efforts. Solar energy harnesses sunlight, while wind energy captures air movement to generate electricity. Hydroelectric power utilizes flowing water to produce energy. Each source has its own advantages and challenges, but together they offer a sustainable path forward for energy production.",
     "questions": [
       {
-        "q": "What is the main idea of the passage?",
+        "q": "What is the main focus of the passage?",
         "options": [
-          "The theory of relativity has transformed physics.",
-          "Astrophysics is primarily about black holes.",
-          "Albert Einstein's life and achievements.",
-          "The importance of energy in physics."
-        ],
-        "correctIndex": 0,
-        "explain": "這段文字的主要思想是相對論如何變革了物理學的理解。"
-      },
-      {
-        "q": "Which equation is associated with the theory of relativity?",
-        "options": [
-          "F=ma",
-          "E=mc²",
-          "pV=nRT",
-          "a²+b²=c²"
-        ],
-        "correctIndex": 1,
-        "explain": "E=mc²是相對論的核心方程，表達了能量與質量的等價性。"
-      },
-      {
-        "q": "What can be inferred about the theory of relativity's impact?",
-        "options": [
-          "It has no real-world applications.",
-          "It is solely a theoretical concept.",
-          "It has led to developments in various scientific fields.",
-          "It is only understood by physicists."
+          "The benefits of fossil fuels",
+          "The challenges of renewable energy sources",
+          "The exploration of renewable energy alternatives",
+          "The history of energy production"
         ],
         "correctIndex": 2,
-        "explain": "相對論的影響是深遠的，促進了多個科學領域的發展。"
+        "explain": "這段文字主要探討可再生能源的替代選擇。"
       },
       {
-        "q": "What does the term 'warped' in the context of space refer to?",
+        "q": "Which of the following is NOT mentioned as a renewable energy source?",
         "options": [
-          "Curved or distorted",
-          "Flat and unchanging",
-          "Static and eternal",
-          "Dynamic and fluid"
+          "Solar",
+          "Wind",
+          "Coal",
+          "Hydroelectric"
+        ],
+        "correctIndex": 2,
+        "explain": "煤炭並不是可再生能源，文中提到的是太陽能、風能和水能。"
+      },
+      {
+        "q": "What can be inferred about the future of energy production?",
+        "options": [
+          "It will rely solely on fossil fuels.",
+          "It will incorporate various renewable sources.",
+          "It will completely eliminate the need for energy.",
+          "It will focus only on solar energy."
+        ],
+        "correctIndex": 1,
+        "explain": "可以推斷未來的能源生產將會整合多種可再生能源。"
+      },
+      {
+        "q": "What does the word 'harness' in the passage most likely mean?",
+        "options": [
+          "To capture and use",
+          "To ignore",
+          "To complicate",
+          "To reduce"
         ],
         "correctIndex": 0,
-        "explain": "在此上下文中，'warped'指的是空間的曲率或變形。"
+        "explain": "在這段文字中，'harness' 指的是捕獲並利用某種資源。"
       }
     ]
   },
   "daily": {
-    "passage": "Attention students: The library will have extended hours during finals week. From Monday to Friday, the library will be open from 8 AM to midnight. We encourage all students to take advantage of this time to study effectively.",
+    "passage": "Attention students: The library will be closed for maintenance this Friday from 9 AM to 5 PM. We apologize for any inconvenience. Please plan your study time accordingly.",
     "questions": [
       {
-        "q": "What are the new hours for the library during finals week?",
+        "q": "When will the library be closed?",
         "options": [
-          "8 AM to midnight",
-          "9 AM to 10 PM",
-          "7 AM to 11 PM",
-          "8 AM to 10 PM"
+          "This Friday",
+          "Next Monday",
+          "Tomorrow",
+          "Last Friday"
         ],
         "correctIndex": 0,
-        "explain": "圖書館在 finals 週的開放時間是早上8點到午夜。"
+        "explain": "圖書館將於本週五關閉。"
       },
       {
-        "q": "On which days will the library have extended hours?",
+        "q": "What should students do in response to this announcement?",
         "options": [
-          "Only Monday",
-          "Monday to Friday",
-          "Saturday and Sunday",
-          "Every day of the week"
+          "Visit the library early",
+          "Ignore the notice",
+          "Stay in the library after it closes",
+          "Leave campus"
         ],
-        "correctIndex": 1,
-        "explain": "圖書館在 finals 週的延長開放時間是從星期一到星期五。"
+        "correctIndex": 0,
+        "explain": "學生應提前去圖書館以避免不便。"
       }
     ]
   }

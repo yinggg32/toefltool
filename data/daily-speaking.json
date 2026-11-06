@@ -1,45 +1,45 @@
 {
   "shadowSentences": [
-    "I love to read books.",
-    "My favorite movie is a comedy.",
-    "She enjoys cooking new recipes.",
-    "We often go hiking on weekends.",
-    "I like to listen to music while studying.",
-    "Traveling to new places is exciting for me.",
-    "I prefer coffee over tea in the morning.",
-    "He spends his evenings drawing and painting.",
-    "My family gathers for dinner every Sunday.",
-    "Learning a new language opens many doors."
+    "I enjoy reading every evening.",
+    "The weather is perfect for a walk.",
+    "She plays the piano beautifully at home.",
+    "We went hiking last weekend in the mountains.",
+    "He always makes time for his family.",
+    "Traveling can be a great way to learn.",
+    "Cooking new recipes can be a fun challenge.",
+    "Listening to music helps me relax after work.",
+    "Spending time outdoors improves my mood and health.",
+    "Taking care of pets can be both rewarding and demanding."
   ],
   "interviewScenarios": [
     {
-      "topic": "旅行計畫",
-      "intro": "You have agreed to take part in a research study about travel planning.",
+      "topic": "旅行經歷",
+      "intro": "You have agreed to take part in a research study about travel experiences.",
       "questions": [
-        "Q1: What was your most memorable trip, and why?",
-        "Q2: What challenges do you face when planning a vacation?",
-        "Q3: How important do you think travel is in personal development?",
+        "Q1: Can you share a memorable travel experience you have had?",
+        "Q2: What challenges did you face while traveling?",
+        "Q3: How do you feel travel impacts personal growth?",
         "Q4: What advice would you give someone planning their first trip?"
       ]
     },
     {
-      "topic": "運動習慣",
-      "intro": "You have agreed to participate in a study about exercise habits.",
+      "topic": "健康飲食",
+      "intro": "You have agreed to take part in a research study about healthy eating habits.",
       "questions": [
-        "Q1: What types of exercise do you enjoy the most?",
-        "Q2: What obstacles do you encounter when trying to stay active?",
-        "Q3: In your opinion, how does regular exercise impact mental health?",
-        "Q4: What tips would you offer to someone starting a fitness journey?"
+        "Q1: What does a typical healthy meal look like for you?",
+        "Q2: What difficulties do you encounter in maintaining a healthy diet?",
+        "Q3: Why do you think healthy eating is important?",
+        "Q4: What tips would you give to someone trying to eat healthier?"
       ]
     },
     {
-      "topic": "飲食習慣",
-      "intro": "You have agreed to take part in a study about dietary habits.",
+      "topic": "藝術創作",
+      "intro": "You have agreed to take part in a research study about creative arts.",
       "questions": [
-        "Q1: What is your favorite meal of the day and why?",
-        "Q2: What difficulties do you face in maintaining a healthy diet?",
-        "Q3: How do you feel about the role of diet in overall health?",
-        "Q4: What recommendations would you make for someone trying to eat healthier?"
+        "Q1: Can you describe a creative project you recently completed?",
+        "Q2: What obstacles did you face during this creative process?",
+        "Q3: How do you believe creativity influences our daily lives?",
+        "Q4: What suggestions would you give to someone looking to start a creative hobby?"
       ]
     }
   ]

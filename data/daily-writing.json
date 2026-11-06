@@ -3,145 +3,138 @@
     {
       "words": [
         "the",
-        "research",
-        "study",
-        "reveals",
-        "significant",
-        "findings",
-        "about",
-        "climate",
-        "change"
-      ],
-      "display": "The research study reveals significant findings about climate change."
-    },
-    {
-      "words": [
-        "advancements",
-        "in",
-        "technology",
-        "have",
-        "transformed",
-        "the",
-        "way",
-        "we",
-        "communicate"
-      ],
-      "display": "Advancements in technology have transformed the way we communicate."
-    },
-    {
-      "words": [
-        "many",
         "students",
-        "believe",
-        "that",
-        "participating",
-        "in",
-        "extracurricular",
-        "activities",
-        "improves",
-        "their",
-        "skills"
-      ],
-      "display": "Many students believe that participating in extracurricular activities improves their skills."
-    },
-    {
-      "words": [
+        "discussed",
         "the",
-        "government",
-        "should",
-        "invest",
-        "more",
+        "importance",
+        "of",
+        "collaboration",
         "in",
-        "renewable",
-        "energy",
-        "resources",
-        "to",
-        "combat",
-        "global",
-        "warming"
+        "group",
+        "projects"
       ],
-      "display": "The government should invest more in renewable energy resources to combat global warming."
+      "display": "The students discussed the importance of collaboration in group projects."
     },
     {
       "words": [
         "reading",
         "books",
+        "increases",
+        "knowledge",
+        "and",
         "enhances",
         "critical",
         "thinking",
-        "and",
-        "improves",
-        "vocabulary",
-        "among",
-        "students"
+        "skills"
       ],
-      "display": "Reading books enhances critical thinking and improves vocabulary among students."
+      "display": "Reading books increases knowledge and enhances critical thinking skills."
     },
     {
       "words": [
-        "traveling",
-        "abroad",
-        "can",
-        "provide",
-        "valuable",
-        "cultural",
-        "experiences",
+        "many",
+        "people",
+        "travel",
+        "to",
+        "experience",
+        "different",
+        "cultures",
         "and",
-        "broaden",
-        "one's",
-        "perspective"
+        "traditions"
       ],
-      "display": "Traveling abroad can provide valuable cultural experiences and broaden one's perspective."
+      "display": "Many people travel to experience different cultures and traditions."
     },
     {
       "words": [
         "the",
         "professor",
-        "encouraged",
-        "students",
-        "to",
-        "engage",
-        "in",
-        "class",
-        "discussions",
-        "for",
-        "deeper",
-        "understanding"
+        "explained",
+        "the",
+        "theory",
+        "with",
+        "real",
+        "world",
+        "examples",
+        "during",
+        "the",
+        "lecture"
       ],
-      "display": "The professor encouraged students to engage in class discussions for deeper understanding."
+      "display": "The professor explained the theory with real-world examples during the lecture."
     },
     {
       "words": [
-        "consuming",
-        "a",
-        "balanced",
-        "diet",
-        "is",
-        "essential",
-        "for",
-        "maintaining",
-        "good",
-        "health",
-        "and",
-        "wellbeing"
+        "environmental",
+        "issues",
+        "require",
+        "immediate",
+        "action",
+        "to",
+        "safeguard",
+        "the",
+        "planet"
       ],
-      "display": "Consuming a balanced diet is essential for maintaining good health and wellbeing."
+      "display": "Environmental issues require immediate action to safeguard the planet."
+    },
+    {
+      "words": [
+        "students",
+        "should",
+        "engage",
+        "in",
+        "extracurricular",
+        "activities",
+        "to",
+        "develop",
+        "their",
+        "skills"
+      ],
+      "display": "Students should engage in extracurricular activities to develop their skills."
+    },
+    {
+      "words": [
+        "technology",
+        "has",
+        "changed",
+        "the",
+        "way",
+        "we",
+        "communicate",
+        "with",
+        "each",
+        "other"
+      ],
+      "display": "Technology has changed the way we communicate with each other."
+    },
+    {
+      "words": [
+        "learning",
+        "a",
+        "new",
+        "language",
+        "can",
+        "open",
+        "up",
+        "many",
+        "opportunities",
+        "for",
+        "individuals"
+      ],
+      "display": "Learning a new language can open up many opportunities for individuals."
     }
   ],
   "emailPrompts": [
-    "寄信給教授，詢問課程的進度及未來的考試安排。",
-    "寄信給宿舍管理辦公室，請求修理房間內的水管問題。",
-    "寄信給圖書館，詢問新書的借閱政策及歸還期限。",
-    "寄信給社團，表達對活動的興趣並詢問如何參加。",
-    "寄信給客戶服務，請求有關產品的保修和退換貨政策的詳細信息。",
-    "寄信給導師，請教有關實習機會的建議及應聘流程。"
+    "寄信給教授，說明因病無法參加期中考，詢問補考事宜。",
+    "寄信給宿舍辦公室，請求更換房間的原因及相關步驟。",
+    "寄信給圖書館，詢問書籍的續借政策及相關規定。",
+    "寄信給社團，表達對參加活動的興趣並詢問詳情。",
+    "寄信給客服，反映購買商品時遇到的問題，請求協助。",
+    "寄信給導師，詢問學期結束前的成績確認及其影響。"
   ],
   "discussionPrompts": [
-    "教授問：「你認為科技進步對社會的影響是正面還是負面？」",
-    "教授問：「全球化對本地文化帶來的挑戰與機會有哪些？」",
-    "教授問：「教育公平在不同國家之間的差異如何影響學生的未來？」",
-    "教授問：「氣候變遷問題應該由誰來負責解決，政府還是企業？」",
-    "教授問：「藝術在社會運動中扮演的角色是什麼？」",
-    "教授問：「心理健康問題在當代社會中受到的重視程度是否足夠？」"
+    "教授問：「在數位時代，書籍的價值是否仍然存在？」",
+    "教授問：「科技進步是否使人們的社交能力減弱？」",
+    "教授問：「全球化對文化多樣性有何影響？」",
+    "教授問：「環保與經濟發展之間應如何取得平衡？」",
+    "教授問：「教育體系應如何應對未來職場的變化？」",
+    "教授問：「社會媒體對青少年的心理健康有什麼影響？」"
   ]
 }

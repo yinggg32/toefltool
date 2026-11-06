@@ -1,116 +1,116 @@
 {
   "chooseResponse": [
     {
-      "q": "What do you think of the new library hours?",
+      "q": "What time is the meeting scheduled for?",
       "options": [
-        "They're great!",
-        "I don't care.",
-        "They need to change.",
-        "I like them."
+        "At 10 AM",
+        "In the library",
+        "Next week",
+        "With the professor"
       ],
       "correctIndex": 0
     }
   ],
   "conversation": {
-    "transcript": "Student: Have you seen the new library hours?\nAdvisor: Yes, I think they are quite convenient. They open earlier now.\nStudent: I agree! It makes it easier to study in the morning.\nAdvisor: Exactly, especially for those with morning classes.",
-    "questions": [
-      {
-        "q": "What is the main topic of the conversation?",
-        "options": [
-          "Library hours",
-          "Morning classes",
-          "Study schedules",
-          "Convenience of resources"
-        ],
-        "correctIndex": 0,
-        "explain": "這段對話的主要主題是圖書館的開放時間。"
-      },
-      {
-        "q": "How does the student feel about the library hours?",
-        "options": [
-          "Indifferent",
-          "Negative",
-          "Positive",
-          "Confused"
-        ],
-        "correctIndex": 2,
-        "explain": "學生對圖書館的開放時間感到積極。"
-      }
-    ]
+    "transcript": "Student: Hi, do you know where the art gallery is?\nAdvisor: Yes, it's just down the hall from the main entrance.\nStudent: Is it open today?\nAdvisor: Yes, it is open until 5 PM."
   },
+  "questions": [
+    {
+      "q": "Where is the art gallery located?",
+      "options": [
+        "Next to the library",
+        "Down the hall from the main entrance",
+        "In the cafeteria",
+        "On the second floor"
+      ],
+      "correctIndex": 1,
+      "explain": "藝術畫廊在主入口的走廊下。"
+    },
+    {
+      "q": "What time does the gallery close?",
+      "options": [
+        "At 4 PM",
+        "At 5 PM",
+        "At 6 PM",
+        "At 7 PM"
+      ],
+      "correctIndex": 1,
+      "explain": "畫廊今天開放到下午5點。"
+    }
+  ],
   "announcement": {
-    "transcript": "Attention students, the annual campus festival will be held this Saturday from 10 AM to 6 PM. There will be food trucks, games, and live performances. Don't miss out on this great opportunity to enjoy and connect with fellow students!",
+    "transcript": "Attention students! The annual cultural festival will take place this Saturday from 12 PM to 6 PM on the lawn. Join us for food, games, and various performances from different cultures. Don’t miss it!",
     "questions": [
       {
-        "q": "What is happening this Saturday?",
+        "q": "What day is the cultural festival?",
         "options": [
-          "A workshop",
-          "A campus festival",
-          "An exam",
-          "A lecture series"
+          "Friday",
+          "Saturday",
+          "Sunday",
+          "Monday"
         ],
         "correctIndex": 1,
-        "explain": "這個星期六將舉行校園節。"
+        "explain": "文化節在星期六舉行。"
       },
       {
-        "q": "What will be present at the festival?",
+        "q": "What activities are mentioned?",
         "options": [
-          "Food trucks",
-          "Only games",
-          "Class lectures",
-          "Library tours"
+          "Only food",
+          "Food, games, and performances",
+          "Workshops and meetings",
+          "Art exhibits"
         ],
-        "correctIndex": 0,
-        "explain": "節慶上將有美食卡車。"
+        "correctIndex": 1,
+        "explain": "活動包括食物、遊戲和表演。"
       }
     ]
   },
   "talk": {
-    "transcript": "Today, we will discuss the concept of biodiversity. Biodiversity refers to the variety of life found in a particular habitat or ecosystem. This includes the different species of plants, animals, and microorganisms, as well as the genetic diversity within those species. Biodiversity is crucial for ecosystem health, providing resilience against environmental changes. Higher biodiversity also supports ecosystem services like pollination, nutrient cycling, and clean water. Protecting biodiversity is essential for maintaining the balance of our planet's ecosystems.",
+    "transcript": "Today, we will explore the concept of biodiversity, which refers to the variety of life found on Earth. This includes the diversity of species, ecosystems, and genetic variations within species. Biodiversity is crucial for ecosystem health, providing services such as pollination, climate regulation, and water purification. The loss of biodiversity can lead to ecosystem collapse, affecting both human populations and wildlife. Conservation efforts are essential to protect the rich variety of life and ensure a sustainable future.",
     "questions": [
       {
-        "q": "What does biodiversity include?",
+        "q": "What does biodiversity refer to?",
         "options": [
-          "Only animal species",
-          "Genetic diversity",
-          "Ecosystem services",
-          "All of the above"
+          "Only plant life",
+          "The variety of life on Earth",
+          "The study of ecosystems",
+          "The extinction of species"
         ],
-        "correctIndex": 3,
-        "explain": "生物多樣性包括所有這些方面。"
+        "correctIndex": 1,
+        "explain": "生物多樣性指地球上生命的多樣性。"
       },
       {
         "q": "Why is biodiversity important?",
         "options": [
-          "It increases population size",
-          "It helps ecosystems adapt",
-          "It reduces species variety",
-          "It lowers food production"
+          "It only matters for plants",
+          "It affects ecosystem health",
+          "It only benefits wildlife",
+          "It is not important"
         ],
         "correctIndex": 1,
-        "explain": "生物多樣性對生態系統的適應性有幫助。"
+        "explain": "生物多樣性對生態系統的健康至關重要。"
       },
       {
-        "q": "What is an example of an ecosystem service?",
+        "q": "What can loss of biodiversity lead to?",
         "options": [
-          "Climate regulation",
-          "Pollination",
-          "Species extinction",
-          "Soil erosion"
+          "More species",
+          "Ecosystem collapse",
+          "More food",
+          "Faster growth"
         ],
         "correctIndex": 1,
-        "explain": "授粉是生態系統服務的一個例子。"
+        "explain": "生物多樣性的喪失可能導致生態系統崩潰。"
       },
       {
-        "q": "What can threaten biodiversity?",
+        "q": "What are conservation efforts?",
         "options": [
-          "Conservation efforts",
-          "Natural disasters",
-          "Habitat destruction",
-          "Ecosystem balance"
+          "Reducing biodiversity",
+          "Enhancing species extinction",
+          "Protecting variety of life",
+          "Ignoring environmental issues"
         ],
         "correctIndex": 2,
-        "explain": "棲息地破壞可以威脅到生物多樣性。"
+        "explain": "保護工作是為了保護生命的多樣性。"
       }
     ]
   }
