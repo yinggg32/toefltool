@@ -4,137 +4,128 @@
       "words": [
         "the",
         "students",
-        "discussed",
+        "enjoyed",
         "the",
-        "importance",
-        "of",
-        "collaboration",
-        "in",
-        "group",
-        "projects"
+        "guest",
+        "speaker",
+        "at",
+        "the",
+        "conference"
       ],
-      "display": "The students discussed the importance of collaboration in group projects."
+      "display": "The students enjoyed the guest speaker at the conference."
     },
     {
       "words": [
-        "reading",
-        "books",
-        "increases",
-        "knowledge",
-        "and",
-        "enhances",
-        "critical",
-        "thinking",
-        "skills"
-      ],
-      "display": "Reading books increases knowledge and enhances critical thinking skills."
-    },
-    {
-      "words": [
-        "many",
-        "people",
-        "travel",
+        "the",
+        "researchers",
+        "presented",
+        "their",
+        "findings",
         "to",
-        "experience",
-        "different",
-        "cultures",
-        "and",
-        "traditions"
+        "the",
+        "audience"
       ],
-      "display": "Many people travel to experience different cultures and traditions."
+      "display": "The researchers presented their findings to the audience."
+    },
+    {
+      "words": [
+        "after",
+        "finishing",
+        "the",
+        "project",
+        "the",
+        "team",
+        "celebrated",
+        "their",
+        "success"
+      ],
+      "display": "After finishing the project, the team celebrated their success."
     },
     {
       "words": [
         "the",
         "professor",
-        "explained",
-        "the",
-        "theory",
-        "with",
-        "real",
-        "world",
-        "examples",
-        "during",
-        "the",
-        "lecture"
-      ],
-      "display": "The professor explained the theory with real-world examples during the lecture."
-    },
-    {
-      "words": [
-        "environmental",
-        "issues",
-        "require",
-        "immediate",
-        "action",
-        "to",
-        "safeguard",
-        "the",
-        "planet"
-      ],
-      "display": "Environmental issues require immediate action to safeguard the planet."
-    },
-    {
-      "words": [
-        "students",
-        "should",
-        "engage",
-        "in",
-        "extracurricular",
-        "activities",
-        "to",
-        "develop",
-        "their",
-        "skills"
-      ],
-      "display": "Students should engage in extracurricular activities to develop their skills."
-    },
-    {
-      "words": [
-        "technology",
-        "has",
-        "changed",
-        "the",
-        "way",
-        "we",
-        "communicate",
-        "with",
-        "each",
-        "other"
-      ],
-      "display": "Technology has changed the way we communicate with each other."
-    },
-    {
-      "words": [
-        "learning",
+        "assigned",
         "a",
-        "new",
-        "language",
-        "can",
-        "open",
-        "up",
-        "many",
-        "opportunities",
+        "difficult",
+        "reading",
         "for",
-        "individuals"
+        "the",
+        "class"
       ],
-      "display": "Learning a new language can open up many opportunities for individuals."
+      "display": "The professor assigned a difficult reading for the class."
+    },
+    {
+      "words": [
+        "the",
+        "students",
+        "discussed",
+        "the",
+        "importance",
+        "of",
+        "sustainable",
+        "practices"
+      ],
+      "display": "The students discussed the importance of sustainable practices."
+    },
+    {
+      "words": [
+        "the",
+        "library",
+        "provides",
+        "various",
+        "resources",
+        "to",
+        "support",
+        "student",
+        "research"
+      ],
+      "display": "The library provides various resources to support student research."
+    },
+    {
+      "words": [
+        "the",
+        "club",
+        "organized",
+        "an",
+        "event",
+        "to",
+        "raise",
+        "awareness",
+        "for",
+        "charity"
+      ],
+      "display": "The club organized an event to raise awareness for charity."
+    },
+    {
+      "words": [
+        "the",
+        "professor",
+        "encouraged",
+        "students",
+        "to",
+        "participate",
+        "in",
+        "the",
+        "debate"
+      ],
+      "display": "The professor encouraged students to participate in the debate."
     }
   ],
   "emailPrompts": [
-    "寄信給教授，說明因病無法參加期中考，詢問補考事宜。",
-    "寄信給宿舍辦公室，請求更換房間的原因及相關步驟。",
-    "寄信給圖書館，詢問書籍的續借政策及相關規定。",
-    "寄信給社團，表達對參加活動的興趣並詢問詳情。",
-    "寄信給客服，反映購買商品時遇到的問題，請求協助。",
-    "寄信給導師，詢問學期結束前的成績確認及其影響。"
+    "寄信給教授，請求延長提交報告的截止日期，因為遇到一些個人困難。",
+    "寄信給宿舍辦公室，詢問有關更換房間的流程和可用性。",
+    "寄信給圖書館，請求延長借書期限，因為需要更多時間閱讀。",
+    "寄信給學生俱樂部，表達對參加即將舉行的活動的興趣，並詢問細節。",
+    "寄信給客服，反映購買的產品有缺陷，並請求退款或更換。",
+    "寄信給學校輔導員，尋求有關心理健康資源的建議，因為感到壓力很大。"
   ],
   "discussionPrompts": [
-    "教授問：「在數位時代，書籍的價值是否仍然存在？」",
-    "教授問：「科技進步是否使人們的社交能力減弱？」",
-    "教授問：「全球化對文化多樣性有何影響？」",
-    "教授問：「環保與經濟發展之間應如何取得平衡？」",
-    "教授問：「教育體系應如何應對未來職場的變化？」",
-    "教授問：「社會媒體對青少年的心理健康有什麼影響？」"
+    "教授問：「你認為科技對教育的影響是正面的還是負面的？」",
+    "教授問：「全球暖化的主要原因是什麼？我們應該怎麼做？」",
+    "教授問：「社交媒體對人際關係有何影響？」",
+    "教授問：「在當今社會，藝術的角色有多重要？」",
+    "教授問：「你對基因編輯技術的倫理問題有何看法？」",
+    "教授問：「在不同文化中，時間觀念如何影響人際互動？」"
   ]
 }

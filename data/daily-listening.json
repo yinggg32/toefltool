@@ -3,114 +3,114 @@
     {
       "q": "What time is the meeting scheduled for?",
       "options": [
-        "At 10 AM",
-        "In the library",
-        "Next week",
-        "With the professor"
+        "At 2 PM",
+        "I forgot",
+        "Let me check",
+        "Not sure"
       ],
       "correctIndex": 0
     }
   ],
   "conversation": {
-    "transcript": "Student: Hi, do you know where the art gallery is?\nAdvisor: Yes, it's just down the hall from the main entrance.\nStudent: Is it open today?\nAdvisor: Yes, it is open until 5 PM."
-  },
-  "questions": [
-    {
-      "q": "Where is the art gallery located?",
-      "options": [
-        "Next to the library",
-        "Down the hall from the main entrance",
-        "In the cafeteria",
-        "On the second floor"
-      ],
-      "correctIndex": 1,
-      "explain": "藝術畫廊在主入口的走廊下。"
-    },
-    {
-      "q": "What time does the gallery close?",
-      "options": [
-        "At 4 PM",
-        "At 5 PM",
-        "At 6 PM",
-        "At 7 PM"
-      ],
-      "correctIndex": 1,
-      "explain": "畫廊今天開放到下午5點。"
-    }
-  ],
-  "announcement": {
-    "transcript": "Attention students! The annual cultural festival will take place this Saturday from 12 PM to 6 PM on the lawn. Join us for food, games, and various performances from different cultures. Don’t miss it!",
+    "transcript": "Student: Hi, do you know where the art exhibit is happening?\nAdvisor: Yes, it's in the main gallery on the second floor.\nStudent: Great! Is there a cost to enter?\nAdvisor: No, it's free for all students this week.",
     "questions": [
       {
-        "q": "What day is the cultural festival?",
+        "q": "Where is the art exhibit located?",
         "options": [
-          "Friday",
-          "Saturday",
-          "Sunday",
-          "Monday"
+          "In the library",
+          "In the main gallery",
+          "On the first floor",
+          "In the student center"
         ],
         "correctIndex": 1,
-        "explain": "文化節在星期六舉行。"
+        "explain": "展覽位於主畫廊，二樓。"
       },
       {
-        "q": "What activities are mentioned?",
+        "q": "Is there an entry fee for students?",
         "options": [
-          "Only food",
-          "Food, games, and performances",
-          "Workshops and meetings",
-          "Art exhibits"
+          "Yes, $5",
+          "No, it's free",
+          "Only for non-students",
+          "Depends on the event"
         ],
         "correctIndex": 1,
-        "explain": "活動包括食物、遊戲和表演。"
+        "explain": "對學生來說是免費的。"
+      }
+    ]
+  },
+  "announcement": {
+    "transcript": "Attention, students! The annual Science Fair will take place this Saturday in the auditorium from 10 AM to 4 PM. Come and explore innovative projects created by your peers and enjoy interactive demonstrations. Prizes will be awarded for the best projects.",
+    "questions": [
+      {
+        "q": "When will the Science Fair occur?",
+        "options": [
+          "Next Saturday",
+          "This Saturday",
+          "Tomorrow",
+          "In two weeks"
+        ],
+        "correctIndex": 1,
+        "explain": "科學展將在本週六舉行。"
+      },
+      {
+        "q": "What is one of the activities at the Science Fair?",
+        "options": [
+          "Art exhibits",
+          "Interactive demonstrations",
+          "Sports competitions",
+          "Music performances"
+        ],
+        "correctIndex": 1,
+        "explain": "展覽中將有互動演示。"
       }
     ]
   },
   "talk": {
-    "transcript": "Today, we will explore the concept of biodiversity, which refers to the variety of life found on Earth. This includes the diversity of species, ecosystems, and genetic variations within species. Biodiversity is crucial for ecosystem health, providing services such as pollination, climate regulation, and water purification. The loss of biodiversity can lead to ecosystem collapse, affecting both human populations and wildlife. Conservation efforts are essential to protect the rich variety of life and ensure a sustainable future.",
+    "transcript": "Today, we'll discuss the concept of biodiversity. Biodiversity refers to the variety of life forms in an ecosystem, including the different species of plants, animals, and microorganisms. It is essential for ecosystem resilience, allowing environments to adapt to changes. High biodiversity contributes to ecosystem services, such as pollination of crops, clean water, and climate regulation. Loss of biodiversity, often caused by human activities, can lead to ecological imbalances, affecting food security and health. Protecting biodiversity is crucial for sustainable development.",
     "questions": [
       {
         "q": "What does biodiversity refer to?",
         "options": [
-          "Only plant life",
-          "The variety of life on Earth",
-          "The study of ecosystems",
-          "The extinction of species"
+          "Only animal species",
+          "Variety of life forms",
+          "Only plant species",
+          "Ecosystem services"
         ],
         "correctIndex": 1,
-        "explain": "生物多樣性指地球上生命的多樣性。"
+        "explain": "生物多樣性是指生態系統中生命形式的多樣性。"
       },
       {
-        "q": "Why is biodiversity important?",
+        "q": "Why is biodiversity important for ecosystems?",
         "options": [
-          "It only matters for plants",
-          "It affects ecosystem health",
-          "It only benefits wildlife",
-          "It is not important"
+          "It has no impact",
+          "It helps in ecosystem resilience",
+          "It decreases species variety",
+          "It is only important for humans"
         ],
         "correctIndex": 1,
-        "explain": "生物多樣性對生態系統的健康至關重要。"
+        "explain": "生物多樣性有助於生態系統的韌性。"
       },
       {
-        "q": "What can loss of biodiversity lead to?",
+        "q": "What can lead to the loss of biodiversity?",
         "options": [
-          "More species",
-          "Ecosystem collapse",
-          "More food",
-          "Faster growth"
+          "Natural disasters",
+          "Human activities",
+          "Seasonal changes",
+          "Genetic mutations"
         ],
         "correctIndex": 1,
-        "explain": "生物多樣性的喪失可能導致生態系統崩潰。"
+        "explain": "人類活動可以導致生物多樣性的喪失。"
       },
       {
-        "q": "What are conservation efforts?",
+        "q": "What is one benefit of high biodiversity mentioned?",
         "options": [
-          "Reducing biodiversity",
-          "Enhancing species extinction",
-          "Protecting variety of life",
-          "Ignoring environmental issues"
+          "Enhanced tourism",
+          "Faster growth rates",
+          "Pollination of crops",
+          "Higher temperatures"
         ],
         "correctIndex": 2,
-        "explain": "保護工作是為了保護生命的多樣性。"
+        "explain": "高生物多樣性可促進作物的授粉。"
       }
     ]
   }

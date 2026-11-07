@@ -1,45 +1,45 @@
 {
   "shadowSentences": [
-    "I enjoy reading every evening.",
-    "The weather is perfect for a walk.",
-    "She plays the piano beautifully at home.",
-    "We went hiking last weekend in the mountains.",
-    "He always makes time for his family.",
-    "Traveling can be a great way to learn.",
-    "Cooking new recipes can be a fun challenge.",
-    "Listening to music helps me relax after work.",
-    "Spending time outdoors improves my mood and health.",
-    "Taking care of pets can be both rewarding and demanding."
+    "I enjoy reading books in my free time.",
+    "My favorite movie is a science fiction film.",
+    "Traveling helps me to understand different cultures.",
+    "I usually go for a run in the morning.",
+    "Cooking new recipes is a fun way to spend weekends.",
+    "Listening to music can improve my mood instantly.",
+    "I love visiting museums to learn about history.",
+    "Photography allows me to capture beautiful moments.",
+    "Volunteering at the shelter has taught me a lot about empathy.",
+    "Learning a new language opens up many opportunities for communication."
   ],
   "interviewScenarios": [
     {
-      "topic": "旅行經歷",
+      "topic": "旅行经历",
       "intro": "You have agreed to take part in a research study about travel experiences.",
       "questions": [
-        "Q1: Can you share a memorable travel experience you have had?",
+        "Q1: Can you share a memorable trip you have taken?",
         "Q2: What challenges did you face while traveling?",
         "Q3: How do you feel travel impacts personal growth?",
-        "Q4: What advice would you give someone planning their first trip?"
+        "Q4: What advice would you give to someone planning their first trip?"
       ]
     },
     {
-      "topic": "健康飲食",
-      "intro": "You have agreed to take part in a research study about healthy eating habits.",
+      "topic": "环保意识",
+      "intro": "You have agreed to take part in a research study about environmental awareness.",
       "questions": [
-        "Q1: What does a typical healthy meal look like for you?",
-        "Q2: What difficulties do you encounter in maintaining a healthy diet?",
-        "Q3: Why do you think healthy eating is important?",
-        "Q4: What tips would you give to someone trying to eat healthier?"
+        "Q1: What steps do you take to be more environmentally friendly?",
+        "Q2: What challenges do people face when trying to be eco-conscious?",
+        "Q3: In your opinion, how important is it to protect the environment?",
+        "Q4: What recommendations would you give to others about reducing waste?"
       ]
     },
     {
-      "topic": "藝術創作",
-      "intro": "You have agreed to take part in a research study about creative arts.",
+      "topic": "学习方法",
+      "intro": "You have agreed to take part in a research study about effective study methods.",
       "questions": [
-        "Q1: Can you describe a creative project you recently completed?",
-        "Q2: What obstacles did you face during this creative process?",
-        "Q3: How do you believe creativity influences our daily lives?",
-        "Q4: What suggestions would you give to someone looking to start a creative hobby?"
+        "Q1: What study technique works best for you?",
+        "Q2: Have you encountered any obstacles while studying?",
+        "Q3: How do you think effective studying affects academic performance?",
+        "Q4: What tips would you offer to students struggling with their studies?"
       ]
     }
   ]

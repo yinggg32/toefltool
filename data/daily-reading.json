@@ -2,95 +2,113 @@
   "cloze": {
     "segments": [
       {
-        "text": "The human brain is an incredibly complex organ, responsible for controlling ",
-        "blank": "cogniti"
+        "text": "The phenomenon of photosynthesis is crucial for life on Earth as it allows p"
       },
       {
-        "text": ", emotions, and behavior. It is estimated that the average adult brain contains around 86 billion neurons, each connected by synapses that transmit information. These connections are not static; they can be strengthened or weakened based on a person's ",
-        "blank": "experi"
+        "blank": "lants"
       },
       {
-        "text": ". Neuroplasticity refers to the brain's ability to reorganize itself by forming new neural connections. This adaptability is crucial for learning and recovering from injuries. For instance, when a person loses a limb, the brain can ",
-        "blank": "reorgani"
+        "text": " to convert light energy into chemical energy. This process takes place in the c"
       },
       {
-        "text": "ze the areas associated with missing inputs. The brain's capacity to change highlights the importance of mental stimulation and lifelong learning in maintaining cognitive health."
+        "blank": "hloroplasts"
+      },
+      {
+        "text": " of plant cells, where chlorophyll captures sunlight. During photosynthesis, p"
+      },
+      {
+        "blank": "lants"
+      },
+      {
+        "text": " absorb carbon dioxide and water, releasing oxygen as a byproduct. This not only m"
+      },
+      {
+        "blank": "aintains"
+      },
+      {
+        "text": " the balance of oxygen in the atmosphere but also supports the food chain by provi"
+      },
+      {
+        "blank": "ding"
+      },
+      {
+        "text": " energy for herbivores and, subsequently, carnivores."
       }
     ]
   },
   "academic": {
-    "passage": "The study of renewable energy sources has gained significant attention in recent years. As global energy demands increase, researchers are exploring alternatives to fossil fuels. Solar, wind, and hydroelectric power are at the forefront of these efforts. Solar energy harnesses sunlight, while wind energy captures air movement to generate electricity. Hydroelectric power utilizes flowing water to produce energy. Each source has its own advantages and challenges, but together they offer a sustainable path forward for energy production.",
+    "passage": "Photosynthesis is the process by which green plants, algae, and some bacteria convert light energy into chemical energy stored in glucose. This process is vital for the survival of life on Earth, as it provides the primary energy source for nearly all ecosystems. In addition to producing glucose, photosynthesis releases oxygen into the atmosphere, which is essential for the respiration of most living organisms. The rate of photosynthesis can be influenced by factors such as light intensity, carbon dioxide concentration, and temperature, making it a critical area of study in environmental science.",
     "questions": [
       {
-        "q": "What is the main focus of the passage?",
+        "q": "What is the main idea of the passage?",
         "options": [
-          "The benefits of fossil fuels",
-          "The challenges of renewable energy sources",
-          "The exploration of renewable energy alternatives",
-          "The history of energy production"
-        ],
-        "correctIndex": 2,
-        "explain": "這段文字主要探討可再生能源的替代選擇。"
-      },
-      {
-        "q": "Which of the following is NOT mentioned as a renewable energy source?",
-        "options": [
-          "Solar",
-          "Wind",
-          "Coal",
-          "Hydroelectric"
-        ],
-        "correctIndex": 2,
-        "explain": "煤炭並不是可再生能源，文中提到的是太陽能、風能和水能。"
-      },
-      {
-        "q": "What can be inferred about the future of energy production?",
-        "options": [
-          "It will rely solely on fossil fuels.",
-          "It will incorporate various renewable sources.",
-          "It will completely eliminate the need for energy.",
-          "It will focus only on solar energy."
-        ],
-        "correctIndex": 1,
-        "explain": "可以推斷未來的能源生產將會整合多種可再生能源。"
-      },
-      {
-        "q": "What does the word 'harness' in the passage most likely mean?",
-        "options": [
-          "To capture and use",
-          "To ignore",
-          "To complicate",
-          "To reduce"
+          "Photosynthesis is essential for life on Earth.",
+          "Photosynthesis only occurs in plants.",
+          "Photosynthesis is a complex chemical reaction.",
+          "Photosynthesis is not important for ecosystems."
         ],
         "correctIndex": 0,
-        "explain": "在這段文字中，'harness' 指的是捕獲並利用某種資源。"
+        "explain": "這段落的主旨是光合作用對地球上生命的重要性。"
+      },
+      {
+        "q": "What factors influence the rate of photosynthesis?",
+        "options": [
+          "Soil quality and humidity",
+          "Light intensity, carbon dioxide concentration, and temperature",
+          "Wind speed and rainfall",
+          "Species diversity and habitat size"
+        ],
+        "correctIndex": 1,
+        "explain": "本段落提到光合作用的速率受到光強度、二氧化碳濃度和溫度的影響。"
+      },
+      {
+        "q": "Why is photosynthesis important for ecosystems?",
+        "options": [
+          "It helps in the decomposition of organic matter.",
+          "It provides energy for herbivores and carnivores.",
+          "It reduces carbon dioxide levels in the atmosphere.",
+          "It protects plants from diseases."
+        ],
+        "correctIndex": 1,
+        "explain": "光合作用為植食性動物和肉食性動物提供能量，這在生態系統中是至關重要的。"
+      },
+      {
+        "q": "What does the term 'glucose' refer to in the passage?",
+        "options": [
+          "A type of light energy",
+          "A waste product of photosynthesis",
+          "A chemical energy source",
+          "A type of plant"
+        ],
+        "correctIndex": 2,
+        "explain": "'葡萄糖'一詞在本文中指的是一種化學能量來源，由光合作用產生。"
       }
     ]
   },
   "daily": {
-    "passage": "Attention students: The library will be closed for maintenance this Friday from 9 AM to 5 PM. We apologize for any inconvenience. Please plan your study time accordingly.",
+    "passage": "Attention students! The library will be closed for renovations from March 1 to March 15. During this time, please plan accordingly and utilize the online resources available. We apologize for any inconvenience caused.",
     "questions": [
       {
         "q": "When will the library be closed?",
         "options": [
-          "This Friday",
-          "Next Monday",
-          "Tomorrow",
-          "Last Friday"
+          "February 1 to February 15",
+          "March 1 to March 15",
+          "March 1 to March 30",
+          "April 1 to April 15"
         ],
-        "correctIndex": 0,
-        "explain": "圖書館將於本週五關閉。"
+        "correctIndex": 1,
+        "explain": "圖書館將於3月1日至3月15日關閉，這是公告中的明確信息。"
       },
       {
-        "q": "What should students do in response to this announcement?",
+        "q": "What should students do during the library closure?",
         "options": [
-          "Visit the library early",
-          "Ignore the notice",
-          "Stay in the library after it closes",
-          "Leave campus"
+          "Visit other libraries",
+          "Use online resources",
+          "Take a break from studying",
+          "Wait for the library to reopen"
         ],
-        "correctIndex": 0,
-        "explain": "學生應提前去圖書館以避免不便。"
+        "correctIndex": 1,
+        "explain": "學生在圖書館關閉期間應該利用可用的在線資源，這是公告的建議。"
       }
     ]
   }

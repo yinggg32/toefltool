@@ -10366,5 +10366,21 @@
     "zh": "反思性",
     "ex": "Reflexivity in research allows psychologists to consider their own biases.",
     "cat": "📰 每日新詞：psychology"
+  },
+  {
+    "word": "automate",
+    "pos": "v.",
+    "root": "auto (self) + mate (to cause to)",
+    "zh": "自動化",
+    "ex": "Companies are beginning to automate their manufacturing processes to increase efficiency.",
+    "cat": "📰 每日新詞：technology and innovation"
+  },
+  {
+    "word": "synchronization",
+    "pos": "n.",
+    "root": "synchronize (to occur at the same time) + -ation (process)",
+    "zh": "同步",
+    "ex": "Synchronization of data across devices is essential for user convenience.",
+    "cat": "📰 每日新詞：technology and innovation"
   }
 ]
