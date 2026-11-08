@@ -10382,5 +10382,53 @@
     "zh": "同步",
     "ex": "Synchronization of data across devices is essential for user convenience.",
     "cat": "📰 每日新詞：technology and innovation"
+  },
+  {
+    "word": "primary source",
+    "pos": "n.",
+    "root": "prim-第一+ary-形容词后缀",
+    "zh": "原始资料",
+    "ex": "Letters and diaries are examples of primary sources used by researchers.",
+    "cat": "📰 每日新詞：history"
+  },
+  {
+    "word": "secondary source",
+    "pos": "n.",
+    "root": "second-第二+ary-形容词后缀",
+    "zh": "次级资料",
+    "ex": "Textbooks often serve as secondary sources in historical research.",
+    "cat": "📰 每日新詞：history"
+  },
+  {
+    "word": "imperialism",
+    "pos": "n.",
+    "root": "imper-命令+ial-形容词后缀+ism-主义",
+    "zh": "帝国主义",
+    "ex": "Imperialism significantly affected global trade patterns in the 19th century.",
+    "cat": "📰 每日新詞：history"
+  },
+  {
+    "word": "insurrection",
+    "pos": "n.",
+    "root": "in-向内+sur-起立+rection-名词后缀",
+    "zh": "叛乱，暴动",
+    "ex": "The insurrection was a response to oppressive government policies.",
+    "cat": "📰 每日新詞：history"
+  },
+  {
+    "word": "oral history",
+    "pos": "n.",
+    "root": "oral-口头的+history-历史",
+    "zh": "口述历史",
+    "ex": "Oral history preserves the experiences of communities often overlooked in written records.",
+    "cat": "📰 每日新詞：history"
+  },
+  {
+    "word": "tension",
+    "pos": "n.",
+    "root": "tens-拉伸+ion-名词后缀",
+    "zh": "紧张，冲突",
+    "ex": "Political tension in the region has historical roots dating back centuries.",
+    "cat": "📰 每日新詞：history"
   }
 ]

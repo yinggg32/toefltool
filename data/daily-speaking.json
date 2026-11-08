@@ -1,45 +1,45 @@
 {
   "shadowSentences": [
-    "I enjoy reading books in my free time.",
-    "My favorite movie is a science fiction film.",
-    "Traveling helps me to understand different cultures.",
-    "I usually go for a run in the morning.",
-    "Cooking new recipes is a fun way to spend weekends.",
-    "Listening to music can improve my mood instantly.",
-    "I love visiting museums to learn about history.",
-    "Photography allows me to capture beautiful moments.",
-    "Volunteering at the shelter has taught me a lot about empathy.",
+    "I love to read books every day.",
+    "The weather is perfect for a picnic.",
+    "She enjoys playing the guitar in her free time.",
+    "We should travel to new places this year.",
+    "He always finds time to help his friends.",
+    "Cooking can be a fun and creative activity.",
+    "I prefer to listen to music while studying.",
+    "Meeting new people can lead to interesting experiences.",
+    "Exploring different cultures expands our understanding of the world.",
     "Learning a new language opens up many opportunities for communication."
   ],
   "interviewScenarios": [
     {
-      "topic": "旅行经历",
-      "intro": "You have agreed to take part in a research study about travel experiences.",
+      "topic": "旅行計劃",
+      "intro": "You have agreed to take part in a research study about travel planning.",
       "questions": [
-        "Q1: Can you share a memorable trip you have taken?",
-        "Q2: What challenges did you face while traveling?",
-        "Q3: How do you feel travel impacts personal growth?",
-        "Q4: What advice would you give to someone planning their first trip?"
+        "Q1: Can you describe your last travel experience?",
+        "Q2: What challenges do you face when planning a trip?",
+        "Q3: In your opinion, how important is travel for personal growth?",
+        "Q4: What advice would you give someone planning their first trip?"
       ]
     },
     {
-      "topic": "环保意识",
-      "intro": "You have agreed to take part in a research study about environmental awareness.",
+      "topic": "環保生活",
+      "intro": "You have agreed to take part in a research study about eco-friendly living.",
       "questions": [
-        "Q1: What steps do you take to be more environmentally friendly?",
-        "Q2: What challenges do people face when trying to be eco-conscious?",
-        "Q3: In your opinion, how important is it to protect the environment?",
-        "Q4: What recommendations would you give to others about reducing waste?"
+        "Q1: What changes have you made in your life to be more eco-friendly?",
+        "Q2: What do you find most difficult about living sustainably?",
+        "Q3: How do you feel about the importance of environmental protection?",
+        "Q4: What tips would you share for someone looking to reduce their carbon footprint?"
       ]
     },
     {
-      "topic": "学习方法",
-      "intro": "You have agreed to take part in a research study about effective study methods.",
+      "topic": "網絡安全",
+      "intro": "You have agreed to take part in a research study about internet safety.",
       "questions": [
-        "Q1: What study technique works best for you?",
-        "Q2: Have you encountered any obstacles while studying?",
-        "Q3: How do you think effective studying affects academic performance?",
-        "Q4: What tips would you offer to students struggling with their studies?"
+        "Q1: Can you share an experience related to online security?",
+        "Q2: What concerns do you have about your online privacy?",
+        "Q3: In your opinion, how serious is the issue of cybercrime today?",
+        "Q4: What advice would you give others to stay safe online?"
       ]
     }
   ]

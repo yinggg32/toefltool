@@ -1,116 +1,116 @@
 {
   "chooseResponse": [
     {
-      "q": "What time is the meeting scheduled for?",
+      "q": "What time is the meeting?",
       "options": [
-        "At 2 PM",
-        "I forgot",
-        "Let me check",
-        "Not sure"
+        "At 10 AM",
+        "I forgot the time",
+        "In the library",
+        "Next week"
       ],
       "correctIndex": 0
     }
   ],
   "conversation": {
-    "transcript": "Student: Hi, do you know where the art exhibit is happening?\nAdvisor: Yes, it's in the main gallery on the second floor.\nStudent: Great! Is there a cost to enter?\nAdvisor: No, it's free for all students this week.",
+    "transcript": "Student: I heard there's a new art exhibit opening this weekend.\nAdvisor: Yes, it's supposed to be quite impressive. Are you planning to go?\nStudent: Definitely! I love contemporary art.\nAdvisor: That sounds great. You should also check out the workshops they’re offering.",
     "questions": [
       {
-        "q": "Where is the art exhibit located?",
+        "q": "What is the student interested in?",
         "options": [
-          "In the library",
-          "In the main gallery",
-          "On the first floor",
-          "In the student center"
+          "Contemporary art",
+          "Music",
+          "Sports",
+          "History"
         ],
-        "correctIndex": 1,
-        "explain": "展覽位於主畫廊，二樓。"
+        "correctIndex": 0,
+        "explain": "學生對當代藝術感興趣。"
       },
       {
-        "q": "Is there an entry fee for students?",
+        "q": "What will the student do this weekend?",
         "options": [
-          "Yes, $5",
-          "No, it's free",
-          "Only for non-students",
-          "Depends on the event"
+          "Attend a workshop",
+          "Visit an art exhibit",
+          "Go to a concert",
+          "Study for exams"
         ],
         "correctIndex": 1,
-        "explain": "對學生來說是免費的。"
+        "explain": "學生這個週末會去參觀藝術展。"
       }
     ]
   },
   "announcement": {
-    "transcript": "Attention, students! The annual Science Fair will take place this Saturday in the auditorium from 10 AM to 4 PM. Come and explore innovative projects created by your peers and enjoy interactive demonstrations. Prizes will be awarded for the best projects.",
+    "transcript": "Attention students: The library will be closed this Saturday for maintenance. Please plan accordingly and make sure to check out any materials you may need beforehand. We apologize for any inconvenience this may cause.",
     "questions": [
       {
-        "q": "When will the Science Fair occur?",
+        "q": "Why will the library be closed?",
         "options": [
-          "Next Saturday",
-          "This Saturday",
-          "Tomorrow",
-          "In two weeks"
+          "For a holiday",
+          "For maintenance",
+          "For a ceremony",
+          "For inventory"
         ],
         "correctIndex": 1,
-        "explain": "科學展將在本週六舉行。"
+        "explain": "圖書館將於星期六關閉進行維護。"
       },
       {
-        "q": "What is one of the activities at the Science Fair?",
+        "q": "When should students check out materials?",
         "options": [
-          "Art exhibits",
-          "Interactive demonstrations",
-          "Sports competitions",
-          "Music performances"
+          "Before Saturday",
+          "After Saturday",
+          "Next week",
+          "This afternoon"
         ],
-        "correctIndex": 1,
-        "explain": "展覽中將有互動演示。"
+        "correctIndex": 0,
+        "explain": "學生應在星期六之前借出材料。"
       }
     ]
   },
   "talk": {
-    "transcript": "Today, we'll discuss the concept of biodiversity. Biodiversity refers to the variety of life forms in an ecosystem, including the different species of plants, animals, and microorganisms. It is essential for ecosystem resilience, allowing environments to adapt to changes. High biodiversity contributes to ecosystem services, such as pollination of crops, clean water, and climate regulation. Loss of biodiversity, often caused by human activities, can lead to ecological imbalances, affecting food security and health. Protecting biodiversity is crucial for sustainable development.",
+    "transcript": "Today, we will discuss the concept of ecosystems. An ecosystem is a community of living organisms and their physical environment interacting as a system. These interactions include both the biotic factors, such as plants and animals, and abiotic factors like climate and soil. Ecosystems can be large, like a forest, or small, like a pond. Understanding ecosystems is crucial because they provide essential services, such as clean air, water, and food. Additionally, they help to regulate the climate and support biodiversity, which is vital for resilience against environmental changes.",
     "questions": [
       {
-        "q": "What does biodiversity refer to?",
+        "q": "What is an ecosystem?",
         "options": [
-          "Only animal species",
-          "Variety of life forms",
-          "Only plant species",
-          "Ecosystem services"
+          "A type of animal",
+          "A community of organisms",
+          "A weather pattern",
+          "A geographical location"
         ],
         "correctIndex": 1,
-        "explain": "生物多樣性是指生態系統中生命形式的多樣性。"
+        "explain": "生態系統是生物和它們的環境的社區。"
       },
       {
-        "q": "Why is biodiversity important for ecosystems?",
+        "q": "What are biotic factors?",
         "options": [
-          "It has no impact",
-          "It helps in ecosystem resilience",
-          "It decreases species variety",
-          "It is only important for humans"
+          "Physical elements",
+          "Living organisms",
+          "Weather conditions",
+          "Soil types"
         ],
         "correctIndex": 1,
-        "explain": "生物多樣性有助於生態系統的韌性。"
+        "explain": "生物因素是指生命體，例如植物和動物。"
       },
       {
-        "q": "What can lead to the loss of biodiversity?",
+        "q": "Why are ecosystems important?",
         "options": [
-          "Natural disasters",
-          "Human activities",
-          "Seasonal changes",
-          "Genetic mutations"
+          "For recreational purposes",
+          "For providing services",
+          "For studying history",
+          "For urban development"
         ],
         "correctIndex": 1,
-        "explain": "人類活動可以導致生物多樣性的喪失。"
+        "explain": "生態系統提供重要的服務，如清潔空氣和水。"
       },
       {
-        "q": "What is one benefit of high biodiversity mentioned?",
+        "q": "What can ecosystems help regulate?",
         "options": [
-          "Enhanced tourism",
-          "Faster growth rates",
-          "Pollination of crops",
-          "Higher temperatures"
+          "Population growth",
+          "Economic systems",
+          "Climate",
+          "Cultural practices"
         ],
         "correctIndex": 2,
-        "explain": "高生物多樣性可促進作物的授粉。"
+        "explain": "生態系統有助於調節氣候。"
       }
     ]
   }
