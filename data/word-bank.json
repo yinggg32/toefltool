@@ -10430,5 +10430,29 @@
     "zh": "紧张，冲突",
     "ex": "Political tension in the region has historical roots dating back centuries.",
     "cat": "📰 每日新詞：history"
+  },
+  {
+    "word": "idiom",
+    "pos": "n.",
+    "root": "idio-獨特+om-群體",
+    "zh": "成語",
+    "ex": "An idiom is a phrase whose meaning is not directly derived from its individual words.",
+    "cat": "📰 每日新詞：linguistics"
+  },
+  {
+    "word": "polysemy",
+    "pos": "n.",
+    "root": "poly-多+sem-意義+y-性質",
+    "zh": "多義性",
+    "ex": "Polysemy occurs when a single word has multiple meanings.",
+    "cat": "📰 每日新詞：linguistics"
+  },
+  {
+    "word": "grapheme",
+    "pos": "n.",
+    "root": "graph-寫+eme-單位",
+    "zh": "字素",
+    "ex": "A grapheme is the smallest unit of written language.",
+    "cat": "📰 每日新詞：linguistics"
   }
 ]

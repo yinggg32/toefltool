@@ -1,45 +1,45 @@
 {
   "shadowSentences": [
-    "I love to read books every day.",
-    "The weather is perfect for a picnic.",
-    "She enjoys playing the guitar in her free time.",
-    "We should travel to new places this year.",
-    "He always finds time to help his friends.",
-    "Cooking can be a fun and creative activity.",
-    "I prefer to listen to music while studying.",
-    "Meeting new people can lead to interesting experiences.",
-    "Exploring different cultures expands our understanding of the world.",
-    "Learning a new language opens up many opportunities for communication."
+    "The sun is shining brightly today.",
+    "I enjoy reading books in my free time.",
+    "My favorite season is autumn because of the colors.",
+    "Cooking a new recipe can be very exciting.",
+    "Traveling helps me learn about different cultures.",
+    "I often play soccer with friends on weekends.",
+    "Listening to music can improve my mood significantly.",
+    "I like to explore new hiking trails when I travel.",
+    "Volunteering at local shelters makes me feel fulfilled.",
+    "Keeping a journal has helped me reflect on my thoughts."
   ],
   "interviewScenarios": [
     {
-      "topic": "旅行計劃",
-      "intro": "You have agreed to take part in a research study about travel planning.",
+      "topic": "家庭旅行",
+      "intro": "You have agreed to take part in a research study about family vacations.",
       "questions": [
-        "Q1: Can you describe your last travel experience?",
-        "Q2: What challenges do you face when planning a trip?",
-        "Q3: In your opinion, how important is travel for personal growth?",
-        "Q4: What advice would you give someone planning their first trip?"
+        "Q1: Can you share a memorable family vacation you have had?",
+        "Q2: What challenges did your family face while traveling together?",
+        "Q3: Why do you think family vacations are important for bonding?",
+        "Q4: What advice would you give to families planning a trip?"
       ]
     },
     {
-      "topic": "環保生活",
-      "intro": "You have agreed to take part in a research study about eco-friendly living.",
+      "topic": "環保意識",
+      "intro": "You have agreed to take part in a research study about environmental awareness.",
       "questions": [
-        "Q1: What changes have you made in your life to be more eco-friendly?",
-        "Q2: What do you find most difficult about living sustainably?",
-        "Q3: How do you feel about the importance of environmental protection?",
-        "Q4: What tips would you share for someone looking to reduce their carbon footprint?"
+        "Q1: How did you first become interested in environmental issues?",
+        "Q2: What obstacles do people face in adopting eco-friendly habits?",
+        "Q3: In your opinion, how important is it to protect the environment?",
+        "Q4: What suggestions do you have for individuals wanting to be more environmentally conscious?"
       ]
     },
     {
-      "topic": "網絡安全",
-      "intro": "You have agreed to take part in a research study about internet safety.",
+      "topic": "自我提升",
+      "intro": "You have agreed to take part in a research study about self-improvement.",
       "questions": [
-        "Q1: Can you share an experience related to online security?",
-        "Q2: What concerns do you have about your online privacy?",
-        "Q3: In your opinion, how serious is the issue of cybercrime today?",
-        "Q4: What advice would you give others to stay safe online?"
+        "Q1: What personal development goal have you worked towards recently?",
+        "Q2: What difficulties have you encountered while trying to improve yourself?",
+        "Q3: How do you feel self-improvement impacts your overall happiness?",
+        "Q4: What tips would you share with someone looking to better themselves?"
       ]
     }
   ]

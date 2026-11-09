@@ -2,113 +2,107 @@
   "cloze": {
     "segments": [
       {
-        "text": "The phenomenon of photosynthesis is crucial for life on Earth as it allows p"
+        "text": "The concept of artificial intelli"
       },
       {
-        "blank": "lants"
+        "blank": "gence"
       },
       {
-        "text": " to convert light energy into chemical energy. This process takes place in the c"
+        "text": " has evolved significantly over the last few decades. It involves programming machines to simulate human thinking and learning. One crucial component is machine lea"
       },
       {
-        "blank": "hloroplasts"
+        "blank": "rning"
       },
       {
-        "text": " of plant cells, where chlorophyll captures sunlight. During photosynthesis, p"
+        "text": ", which allows computers to improve their performance based on data. This technology has applications in various fields, including healthcare, where algorithms can assist in diag"
       },
       {
-        "blank": "lants"
+        "blank": "nosing"
       },
       {
-        "text": " absorb carbon dioxide and water, releasing oxygen as a byproduct. This not only m"
+        "text": " diseases. The ethical implications are being widely discussed, as there are concerns about privacy and the potential for bias in decision-"
       },
       {
-        "blank": "aintains"
+        "blank": "making"
       },
       {
-        "text": " the balance of oxygen in the atmosphere but also supports the food chain by provi"
-      },
-      {
-        "blank": "ding"
-      },
-      {
-        "text": " energy for herbivores and, subsequently, carnivores."
+        "text": ". Overall, the field of artificial intelligence continues to grow, reshaping how we interact with technology."
       }
     ]
   },
   "academic": {
-    "passage": "Photosynthesis is the process by which green plants, algae, and some bacteria convert light energy into chemical energy stored in glucose. This process is vital for the survival of life on Earth, as it provides the primary energy source for nearly all ecosystems. In addition to producing glucose, photosynthesis releases oxygen into the atmosphere, which is essential for the respiration of most living organisms. The rate of photosynthesis can be influenced by factors such as light intensity, carbon dioxide concentration, and temperature, making it a critical area of study in environmental science.",
+    "passage": "Artificial intelligence (AI) is a rapidly advancing field that focuses on creating systems capable of performing tasks that typically require human intelligence. AI technologies include natural language processing, robotics, and machine learning. The integration of AI into various sectors, such as finance and healthcare, has the potential to revolutionize industries by enhancing efficiency and accuracy. However, challenges such as ethical concerns and job displacement must be critically assessed.",
     "questions": [
       {
-        "q": "What is the main idea of the passage?",
+        "q": "What is the main focus of artificial intelligence?",
         "options": [
-          "Photosynthesis is essential for life on Earth.",
-          "Photosynthesis only occurs in plants.",
-          "Photosynthesis is a complex chemical reaction.",
-          "Photosynthesis is not important for ecosystems."
+          "Creating systems that perform human-like tasks",
+          "Developing robotic machines",
+          "Improving financial systems",
+          "Enhancing traditional education"
         ],
         "correctIndex": 0,
-        "explain": "這段落的主旨是光合作用對地球上生命的重要性。"
+        "explain": "人工智慧的主要重點是創建能執行需要人類智能的任務的系統。"
       },
       {
-        "q": "What factors influence the rate of photosynthesis?",
+        "q": "Which technology is specifically mentioned as a part of AI?",
         "options": [
-          "Soil quality and humidity",
-          "Light intensity, carbon dioxide concentration, and temperature",
-          "Wind speed and rainfall",
-          "Species diversity and habitat size"
+          "Natural language processing",
+          "Quantum computing",
+          "Data mining",
+          "Blockchain"
+        ],
+        "correctIndex": 0,
+        "explain": "文中提到自然語言處理是人工智慧的一部分技術。"
+      },
+      {
+        "q": "What can be inferred about the impact of AI on job markets?",
+        "options": [
+          "It will create more jobs than it eliminates",
+          "It may lead to job displacement",
+          "It will have no effect on employment",
+          "It will only create low-skilled jobs"
         ],
         "correctIndex": 1,
-        "explain": "本段落提到光合作用的速率受到光強度、二氧化碳濃度和溫度的影響。"
+        "explain": "可以推斷，人工智慧的發展可能會導致某些工作被取代。"
       },
       {
-        "q": "Why is photosynthesis important for ecosystems?",
+        "q": "What does the term 'machine learning' refer to in the context of AI?",
         "options": [
-          "It helps in the decomposition of organic matter.",
-          "It provides energy for herbivores and carnivores.",
-          "It reduces carbon dioxide levels in the atmosphere.",
-          "It protects plants from diseases."
+          "A method that allows machines to learn from data",
+          "A strategy for increasing computational power",
+          "A technique for manual programming",
+          "A type of robotic interaction"
         ],
-        "correctIndex": 1,
-        "explain": "光合作用為植食性動物和肉食性動物提供能量，這在生態系統中是至關重要的。"
-      },
-      {
-        "q": "What does the term 'glucose' refer to in the passage?",
-        "options": [
-          "A type of light energy",
-          "A waste product of photosynthesis",
-          "A chemical energy source",
-          "A type of plant"
-        ],
-        "correctIndex": 2,
-        "explain": "'葡萄糖'一詞在本文中指的是一種化學能量來源，由光合作用產生。"
+        "correctIndex": 0,
+        "explain": "在人工智慧背景下，'機器學習'指的是一種允許機器根據數據學習的方法。"
       }
     ]
   },
   "daily": {
-    "passage": "Attention students! The library will be closed for renovations from March 1 to March 15. During this time, please plan accordingly and utilize the online resources available. We apologize for any inconvenience caused.",
+    "passage": "Attention students: The library will be closed for renovations from January 15 to February 5. Please plan accordingly and utilize online resources during this time. We apologize for any inconvenience caused.",
     "questions": [
       {
         "q": "When will the library be closed?",
         "options": [
-          "February 1 to February 15",
-          "March 1 to March 15",
-          "March 1 to March 30",
-          "April 1 to April 15"
+          "From January 15 to February 5",
+          "From February 1 to February 15",
+          "Only on weekends",
+          "For the entire month of January"
         ],
-        "correctIndex": 1,
-        "explain": "圖書館將於3月1日至3月15日關閉，這是公告中的明確信息。"
+        "correctIndex": 0,
+        "explain": "圖書館將在一月十五日至二月五日關閉。"
       },
       {
-        "q": "What should students do during the library closure?",
+        "q": "What should students use during the library's closure?",
         "options": [
-          "Visit other libraries",
-          "Use online resources",
-          "Take a break from studying",
-          "Wait for the library to reopen"
+          "Online resources",
+          "Other libraries",
+          "Their textbooks",
+          "Study groups"
         ],
-        "correctIndex": 1,
-        "explain": "學生在圖書館關閉期間應該利用可用的在線資源，這是公告的建議。"
+        "correctIndex": 0,
+        "explain": "學生們在圖書館關閉期間應使用線上資源。"
       }
     ]
   }

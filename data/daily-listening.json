@@ -1,116 +1,116 @@
 {
   "chooseResponse": [
     {
-      "q": "What time is the meeting?",
+      "q": "Can you help me with my project?",
       "options": [
-        "At 10 AM",
-        "I forgot the time",
-        "In the library",
-        "Next week"
+        "Sure, what do you need?",
+        "I don't have time right now.",
+        "That's a great idea!",
+        "Ask someone else."
       ],
       "correctIndex": 0
     }
   ],
   "conversation": {
-    "transcript": "Student: I heard there's a new art exhibit opening this weekend.\nAdvisor: Yes, it's supposed to be quite impressive. Are you planning to go?\nStudent: Definitely! I love contemporary art.\nAdvisor: That sounds great. You should also check out the workshops they’re offering.",
+    "transcript": "Student: Hey, have you seen the new art exhibit on campus?\nAdvisor: Yes, I heard it features local artists. Are you planning to go?\nStudent: Definitely, I love supporting local talent!\nAdvisor: That’s wonderful! It’s a great opportunity to learn more about their work.",
     "questions": [
       {
-        "q": "What is the student interested in?",
+        "q": "What is the main topic of the conversation?",
         "options": [
-          "Contemporary art",
-          "Music",
-          "Sports",
-          "History"
+          "Art exhibit on campus",
+          "Local artists",
+          "Student projects",
+          "Campus events"
         ],
         "correctIndex": 0,
-        "explain": "學生對當代藝術感興趣。"
+        "explain": "對話的主要主題是校園的藝術展。"
       },
       {
-        "q": "What will the student do this weekend?",
+        "q": "How does the student feel about the exhibit?",
         "options": [
-          "Attend a workshop",
-          "Visit an art exhibit",
-          "Go to a concert",
-          "Study for exams"
+          "Indifferent",
+          "Excited",
+          "Disappointed",
+          "Confused"
         ],
         "correctIndex": 1,
-        "explain": "學生這個週末會去參觀藝術展。"
+        "explain": "學生對展覽感到興奮。"
       }
     ]
   },
   "announcement": {
-    "transcript": "Attention students: The library will be closed this Saturday for maintenance. Please plan accordingly and make sure to check out any materials you may need beforehand. We apologize for any inconvenience this may cause.",
+    "transcript": "Attention students! The library will be hosting a special event this Friday at 6 PM, featuring a guest speaker on sustainable living. Everyone is welcome, and refreshments will be provided. We hope to see you there!",
     "questions": [
       {
-        "q": "Why will the library be closed?",
+        "q": "What is the main purpose of the announcement?",
         "options": [
-          "For a holiday",
-          "For maintenance",
-          "For a ceremony",
-          "For inventory"
+          "To inform about a closure",
+          "To invite students to an event",
+          "To discuss library rules",
+          "To introduce a new service"
         ],
         "correctIndex": 1,
-        "explain": "圖書館將於星期六關閉進行維護。"
+        "explain": "公告的主要目的是邀請學生參加活動。"
       },
       {
-        "q": "When should students check out materials?",
+        "q": "When is the event taking place?",
         "options": [
-          "Before Saturday",
-          "After Saturday",
-          "Next week",
-          "This afternoon"
+          "This Saturday",
+          "Next Friday",
+          "This Friday",
+          "Tomorrow"
         ],
-        "correctIndex": 0,
-        "explain": "學生應在星期六之前借出材料。"
+        "correctIndex": 2,
+        "explain": "活動將在本週五舉行。"
       }
     ]
   },
   "talk": {
-    "transcript": "Today, we will discuss the concept of ecosystems. An ecosystem is a community of living organisms and their physical environment interacting as a system. These interactions include both the biotic factors, such as plants and animals, and abiotic factors like climate and soil. Ecosystems can be large, like a forest, or small, like a pond. Understanding ecosystems is crucial because they provide essential services, such as clean air, water, and food. Additionally, they help to regulate the climate and support biodiversity, which is vital for resilience against environmental changes.",
+    "transcript": "Today, I want to discuss renewable energy sources. Renewable energy comes from natural processes that are continuously replenished, such as sunlight, wind, and water. These energy sources are sustainable and reduce our carbon footprint. Solar panels convert sunlight into electricity, while wind turbines harness wind energy to generate power. Hydropower is another major source, utilizing flowing water to produce energy. As we face climate change, transitioning to renewable energy is crucial for a sustainable future.",
     "questions": [
       {
-        "q": "What is an ecosystem?",
+        "q": "What are examples of renewable energy sources mentioned?",
         "options": [
-          "A type of animal",
-          "A community of organisms",
-          "A weather pattern",
-          "A geographical location"
+          "Coal and natural gas",
+          "Sunlight and wind",
+          "Nuclear and fossil fuels",
+          "Geothermal and biomass"
         ],
         "correctIndex": 1,
-        "explain": "生態系統是生物和它們的環境的社區。"
+        "explain": "提到的可再生能源來源包括陽光和風。"
       },
       {
-        "q": "What are biotic factors?",
+        "q": "Why is renewable energy important?",
         "options": [
-          "Physical elements",
-          "Living organisms",
-          "Weather conditions",
-          "Soil types"
+          "It is cheaper than fossil fuels",
+          "It helps reduce carbon footprint",
+          "It is easier to store",
+          "It requires less technology"
         ],
         "correctIndex": 1,
-        "explain": "生物因素是指生命體，例如植物和動物。"
+        "explain": "可再生能源重要是因為它有助於減少碳足跡。"
       },
       {
-        "q": "Why are ecosystems important?",
+        "q": "How does solar energy work?",
         "options": [
-          "For recreational purposes",
-          "For providing services",
-          "For studying history",
-          "For urban development"
-        ],
-        "correctIndex": 1,
-        "explain": "生態系統提供重要的服務，如清潔空氣和水。"
-      },
-      {
-        "q": "What can ecosystems help regulate?",
-        "options": [
-          "Population growth",
-          "Economic systems",
-          "Climate",
-          "Cultural practices"
+          "It is collected by wind turbines",
+          "It is generated by flowing water",
+          "It is converted from sunlight",
+          "It is extracted from coal"
         ],
         "correctIndex": 2,
-        "explain": "生態系統有助於調節氣候。"
+        "explain": "太陽能是通過將陽光轉換來產生的。"
+      },
+      {
+        "q": "What is a major benefit of wind energy?",
+        "options": [
+          "It's very expensive",
+          "It produces a lot of waste",
+          "It is sustainable",
+          "It requires a lot of land"
+        ],
+        "correctIndex": 2,
+        "explain": "風能的一個主要好處是它是可持續的。"
       }
     ]
   }
