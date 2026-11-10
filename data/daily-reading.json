@@ -2,107 +2,119 @@
   "cloze": {
     "segments": [
       {
-        "text": "The concept of artificial intelli"
+        "text": "The human brain is an incredibly complex organ, primarily responsible for "
       },
       {
-        "blank": "gence"
+        "blank": "co"
       },
       {
-        "text": " has evolved significantly over the last few decades. It involves programming machines to simulate human thinking and learning. One crucial component is machine lea"
+        "text": "nsciousness, thought, and memory. It consists of billions of neurons that "
       },
       {
-        "blank": "rning"
+        "blank": "tra"
       },
       {
-        "text": ", which allows computers to improve their performance based on data. This technology has applications in various fields, including healthcare, where algorithms can assist in diag"
+        "text": "nsmit signals. These neurons communicate through synapses, using "
       },
       {
-        "blank": "nosing"
+        "blank": "che"
       },
       {
-        "text": " diseases. The ethical implications are being widely discussed, as there are concerns about privacy and the potential for bias in decision-"
+        "text": "micals called neurotransmitters. The brain is divided into several "
       },
       {
-        "blank": "making"
+        "blank": "sec"
       },
       {
-        "text": ". Overall, the field of artificial intelligence continues to grow, reshaping how we interact with technology."
+        "text": "tions, each specializing in different functions, such as movement, "
+      },
+      {
+        "blank": "sen"
+      },
+      {
+        "text": "sation, and higher-level cognitive processes. Understanding how the brain "
+      },
+      {
+        "blank": "fun"
+      },
+      {
+        "text": "ctions is crucial for advancing treatments for neurological diseases."
       }
     ]
   },
   "academic": {
-    "passage": "Artificial intelligence (AI) is a rapidly advancing field that focuses on creating systems capable of performing tasks that typically require human intelligence. AI technologies include natural language processing, robotics, and machine learning. The integration of AI into various sectors, such as finance and healthcare, has the potential to revolutionize industries by enhancing efficiency and accuracy. However, challenges such as ethical concerns and job displacement must be critically assessed.",
+    "passage": "The human brain is an extraordinary organ crucial for cognitive functions. It is divided into the cerebrum, cerebellum, and brainstem, each serving distinct roles. The cerebrum handles higher brain functions, while the cerebellum coordinates movement and balance. Research in neuroscience aims to decode the functions of various brain regions, helping us understand both normal operations and disorders. This field is expanding rapidly, offering insights into the mechanisms underlying learning, memory, and emotions, which are essential for human experience.",
     "questions": [
       {
-        "q": "What is the main focus of artificial intelligence?",
+        "q": "What is the main focus of research in neuroscience?",
         "options": [
-          "Creating systems that perform human-like tasks",
-          "Developing robotic machines",
-          "Improving financial systems",
-          "Enhancing traditional education"
+          "Understanding brain functions",
+          "Developing new medications",
+          "Improving physical health",
+          "Studying human emotions"
         ],
         "correctIndex": 0,
-        "explain": "人工智慧的主要重點是創建能執行需要人類智能的任務的系統。"
+        "explain": "這個問題的重點在於研究神經科學的主要目標，即理解大腦的功能。"
       },
       {
-        "q": "Which technology is specifically mentioned as a part of AI?",
+        "q": "Which part of the brain is responsible for balance?",
         "options": [
-          "Natural language processing",
-          "Quantum computing",
-          "Data mining",
-          "Blockchain"
-        ],
-        "correctIndex": 0,
-        "explain": "文中提到自然語言處理是人工智慧的一部分技術。"
-      },
-      {
-        "q": "What can be inferred about the impact of AI on job markets?",
-        "options": [
-          "It will create more jobs than it eliminates",
-          "It may lead to job displacement",
-          "It will have no effect on employment",
-          "It will only create low-skilled jobs"
+          "Cerebrum",
+          "Cerebellum",
+          "Brainstem",
+          "Limbic system"
         ],
         "correctIndex": 1,
-        "explain": "可以推斷，人工智慧的發展可能會導致某些工作被取代。"
+        "explain": "小腦是協調運動和平衡的主要部分。"
       },
       {
-        "q": "What does the term 'machine learning' refer to in the context of AI?",
+        "q": "What can understanding brain functions help with?",
         "options": [
-          "A method that allows machines to learn from data",
-          "A strategy for increasing computational power",
-          "A technique for manual programming",
-          "A type of robotic interaction"
+          "It can aid in computer programming.",
+          "It can improve intelligence.",
+          "It can enhance treatments for disorders.",
+          "It can decrease stress levels."
         ],
-        "correctIndex": 0,
-        "explain": "在人工智慧背景下，'機器學習'指的是一種允許機器根據數據學習的方法。"
+        "correctIndex": 2,
+        "explain": "了解大腦功能有助於改善對神經疾病的治療。"
+      },
+      {
+        "q": "What does the term 'cognitive' refer to?",
+        "options": [
+          "Physical abilities",
+          "Mental processes",
+          "Emotional responses",
+          "Social interactions"
+        ],
+        "correctIndex": 1,
+        "explain": "認知指的是與心智過程相關的概念，包括思考、記憶等。"
       }
     ]
   },
   "daily": {
-    "passage": "Attention students: The library will be closed for renovations from January 15 to February 5. Please plan accordingly and utilize online resources during this time. We apologize for any inconvenience caused.",
+    "passage": "Attention students! The library will be closed for maintenance this Saturday. Please plan your studies accordingly. We apologize for any inconvenience caused.",
     "questions": [
       {
         "q": "When will the library be closed?",
         "options": [
-          "From January 15 to February 5",
-          "From February 1 to February 15",
-          "Only on weekends",
-          "For the entire month of January"
+          "This Friday",
+          "This Saturday",
+          "Next Monday",
+          "Next Saturday"
         ],
-        "correctIndex": 0,
-        "explain": "圖書館將在一月十五日至二月五日關閉。"
+        "correctIndex": 1,
+        "explain": "圖書館將於本週六關閉。"
       },
       {
-        "q": "What should students use during the library's closure?",
+        "q": "Why will the library be closed?",
         "options": [
-          "Online resources",
-          "Other libraries",
-          "Their textbooks",
-          "Study groups"
+          "For cleaning",
+          "For an event",
+          "For maintenance",
+          "For inventory"
         ],
-        "correctIndex": 0,
-        "explain": "學生們在圖書館關閉期間應使用線上資源。"
+        "correctIndex": 2,
+        "explain": "圖書館因維護工作而關閉。"
       }
     ]
   }

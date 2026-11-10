@@ -10454,5 +10454,37 @@
     "zh": "字素",
     "ex": "A grapheme is the smallest unit of written language.",
     "cat": "📰 每日新詞：linguistics"
+  },
+  {
+    "word": "critique",
+    "pos": "n./v.",
+    "root": "批評—critique",
+    "zh": "批評",
+    "ex": "The critique of the exhibition highlighted its innovative approaches.",
+    "cat": "📰 每日新詞：art and architecture"
+  },
+  {
+    "word": "gallery",
+    "pos": "n.",
+    "root": "畫廊—gallery",
+    "zh": "畫廊",
+    "ex": "The gallery showcases a diverse range of artistic styles.",
+    "cat": "📰 每日新詞：art and architecture"
+  },
+  {
+    "word": "unique",
+    "pos": "adj.",
+    "root": "獨特—unique",
+    "zh": "獨特的",
+    "ex": "Her unique approach to sculpture has garnered international attention.",
+    "cat": "📰 每日新詞：art and architecture"
+  },
+  {
+    "word": "vivid",
+    "pos": "adj.",
+    "root": "生動的—vivid",
+    "zh": "生動的",
+    "ex": "The vivid colors in the painting evoke strong emotions.",
+    "cat": "📰 每日新詞：art and architecture"
   }
 ]

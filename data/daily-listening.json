@@ -1,116 +1,116 @@
 {
   "chooseResponse": [
     {
-      "q": "Can you help me with my project?",
+      "q": "What do you think about the new cafe?",
       "options": [
-        "Sure, what do you need?",
-        "I don't have time right now.",
-        "That's a great idea!",
-        "Ask someone else."
+        "It's fantastic!",
+        "I don't like coffee.",
+        "I haven't tried it.",
+        "It's too expensive."
       ],
       "correctIndex": 0
     }
   ],
   "conversation": {
-    "transcript": "Student: Hey, have you seen the new art exhibit on campus?\nAdvisor: Yes, I heard it features local artists. Are you planning to go?\nStudent: Definitely, I love supporting local talent!\nAdvisor: That’s wonderful! It’s a great opportunity to learn more about their work.",
+    "transcript": "Student: Have you tried the new cafe on campus?\nAdvisor: Yes, I went there yesterday. The atmosphere is great!\nStudent: Really? I heard they have a lot of vegan options.\nAdvisor: They do! The smoothies are especially good.",
     "questions": [
       {
-        "q": "What is the main topic of the conversation?",
+        "q": "What did the advisor think of the cafe?",
         "options": [
-          "Art exhibit on campus",
-          "Local artists",
-          "Student projects",
-          "Campus events"
+          "It's great!",
+          "It's too noisy.",
+          "It has limited options.",
+          "It's very expensive."
         ],
         "correctIndex": 0,
-        "explain": "對話的主要主題是校園的藝術展。"
+        "explain": "顧問認為咖啡廳的氛圍很好。"
       },
       {
-        "q": "How does the student feel about the exhibit?",
+        "q": "What kind of food does the cafe offer?",
         "options": [
-          "Indifferent",
-          "Excited",
-          "Disappointed",
-          "Confused"
+          "Italian food",
+          "Vegan options",
+          "Burgers",
+          "Desserts only"
         ],
         "correctIndex": 1,
-        "explain": "學生對展覽感到興奮。"
+        "explain": "咖啡廳提供素食選擇。"
       }
     ]
   },
   "announcement": {
-    "transcript": "Attention students! The library will be hosting a special event this Friday at 6 PM, featuring a guest speaker on sustainable living. Everyone is welcome, and refreshments will be provided. We hope to see you there!",
+    "transcript": "Attention students! There will be an open mic night at the student center this Friday at 7 PM. Everyone is welcome to showcase their talents, whether it's music, poetry, or comedy. Don't miss out on this opportunity to support your peers and enjoy a fun evening!",
     "questions": [
       {
-        "q": "What is the main purpose of the announcement?",
+        "q": "What is happening this Friday?",
         "options": [
-          "To inform about a closure",
-          "To invite students to an event",
-          "To discuss library rules",
-          "To introduce a new service"
+          "A dance party",
+          "An open mic night",
+          "A guest lecture",
+          "A movie screening"
         ],
         "correctIndex": 1,
-        "explain": "公告的主要目的是邀請學生參加活動。"
+        "explain": "這週五將舉行開放麥克風之夜。"
       },
       {
-        "q": "When is the event taking place?",
+        "q": "Where will the event take place?",
         "options": [
-          "This Saturday",
-          "Next Friday",
-          "This Friday",
-          "Tomorrow"
+          "At the library",
+          "In the cafeteria",
+          "At the student center",
+          "On the football field"
         ],
         "correctIndex": 2,
-        "explain": "活動將在本週五舉行。"
+        "explain": "活動將在學生中心舉行。"
       }
     ]
   },
   "talk": {
-    "transcript": "Today, I want to discuss renewable energy sources. Renewable energy comes from natural processes that are continuously replenished, such as sunlight, wind, and water. These energy sources are sustainable and reduce our carbon footprint. Solar panels convert sunlight into electricity, while wind turbines harness wind energy to generate power. Hydropower is another major source, utilizing flowing water to produce energy. As we face climate change, transitioning to renewable energy is crucial for a sustainable future.",
+    "transcript": "Today, I want to discuss the concept of biodiversity. Biodiversity refers to the variety of life in a particular habitat or ecosystem. It includes all living organisms, from the smallest microorganisms to the largest mammals. Biodiversity is crucial for ecosystem stability, as it allows ecosystems to recover from stresses and maintain functionality. Moreover, high levels of biodiversity can enhance food security, provide raw materials for industries, and contribute to health and well-being. Conservation efforts are essential to protect this biodiversity, as many species are at risk due to human activities such as habitat destruction and climate change.",
     "questions": [
       {
-        "q": "What are examples of renewable energy sources mentioned?",
+        "q": "What does biodiversity include?",
         "options": [
-          "Coal and natural gas",
-          "Sunlight and wind",
-          "Nuclear and fossil fuels",
-          "Geothermal and biomass"
-        ],
-        "correctIndex": 1,
-        "explain": "提到的可再生能源來源包括陽光和風。"
-      },
-      {
-        "q": "Why is renewable energy important?",
-        "options": [
-          "It is cheaper than fossil fuels",
-          "It helps reduce carbon footprint",
-          "It is easier to store",
-          "It requires less technology"
-        ],
-        "correctIndex": 1,
-        "explain": "可再生能源重要是因為它有助於減少碳足跡。"
-      },
-      {
-        "q": "How does solar energy work?",
-        "options": [
-          "It is collected by wind turbines",
-          "It is generated by flowing water",
-          "It is converted from sunlight",
-          "It is extracted from coal"
+          "Only animals",
+          "Only plants",
+          "All living organisms",
+          "Only microorganisms"
         ],
         "correctIndex": 2,
-        "explain": "太陽能是通過將陽光轉換來產生的。"
+        "explain": "生物多樣性包括所有生物組織。"
       },
       {
-        "q": "What is a major benefit of wind energy?",
+        "q": "Why is biodiversity important?",
         "options": [
-          "It's very expensive",
-          "It produces a lot of waste",
-          "It is sustainable",
-          "It requires a lot of land"
+          "For aesthetic purposes",
+          "For ecosystem stability",
+          "For reducing pollution",
+          "For increasing population"
         ],
-        "correctIndex": 2,
-        "explain": "風能的一個主要好處是它是可持續的。"
+        "correctIndex": 1,
+        "explain": "生物多樣性對生態系統的穩定性至關重要。"
+      },
+      {
+        "q": "What threats are mentioned regarding biodiversity?",
+        "options": [
+          "Natural disasters",
+          "Human activities",
+          "Pollution",
+          "Overpopulation"
+        ],
+        "correctIndex": 1,
+        "explain": "人類活動對生物多樣性造成威脅。"
+      },
+      {
+        "q": "What can high levels of biodiversity enhance?",
+        "options": [
+          "Air quality",
+          "Food security",
+          "Climate change",
+          "Technological advancement"
+        ],
+        "correctIndex": 1,
+        "explain": "高水平的生物多樣性可以增強食物安全。"
       }
     ]
   }

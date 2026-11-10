@@ -2,129 +2,129 @@
   "buildSentences": [
     {
       "words": [
+        "students",
+        "should",
+        "attend",
+        "lectures",
+        "to",
+        "understand",
         "the",
-        "research",
-        "team",
-        "has",
-        "developed",
-        "an",
-        "innovative",
-        "solution"
+        "material"
       ],
-      "display": "The research team has developed an innovative solution."
+      "display": "Students should attend lectures to understand the material."
     },
     {
       "words": [
-        "students",
-        "should",
-        "review",
-        "the",
-        "material",
-        "before",
-        "the",
-        "exam"
+        "reading",
+        "books",
+        "is",
+        "essential",
+        "for",
+        "gaining",
+        "knowledge",
+        "and",
+        "insight"
       ],
-      "display": "Students should review the material before the exam."
+      "display": "Reading books is essential for gaining knowledge and insight."
+    },
+    {
+      "words": [
+        "the",
+        "researchers",
+        "found",
+        "significant",
+        "results",
+        "in",
+        "their",
+        "study"
+      ],
+      "display": "The researchers found significant results in their study."
+    },
+    {
+      "words": [
+        "participating",
+        "in",
+        "extracurricular",
+        "activities",
+        "benefits",
+        "students",
+        "in",
+        "many",
+        "ways"
+      ],
+      "display": "Participating in extracurricular activities benefits students in many ways."
+    },
+    {
+      "words": [
+        "the",
+        "team",
+        "worked",
+        "tirelessly",
+        "to",
+        "meet",
+        "the",
+        "project",
+        "deadline"
+      ],
+      "display": "The team worked tirelessly to meet the project deadline."
+    },
+    {
+      "words": [
+        "technology",
+        "has",
+        "changed",
+        "the",
+        "way",
+        "we",
+        "communicate",
+        "and",
+        "learn"
+      ],
+      "display": "Technology has changed the way we communicate and learn."
     },
     {
       "words": [
         "climate",
         "change",
-        "is",
+        "presents",
         "a",
-        "significant",
-        "issue",
-        "affecting",
-        "the",
-        "world"
-      ],
-      "display": "Climate change is a significant issue affecting the world."
-    },
-    {
-      "words": [
-        "the",
-        "professor",
-        "encouraged",
-        "us",
-        "to",
-        "participate",
-        "in",
-        "the",
-        "study"
-      ],
-      "display": "The professor encouraged us to participate in the study."
-    },
-    {
-      "words": [
-        "the",
-        "library",
-        "will",
-        "be",
-        "closed",
+        "serious",
+        "challenge",
         "for",
-        "renovation",
-        "next",
-        "month"
+        "future",
+        "generations"
       ],
-      "display": "The library will be closed for renovation next month."
-    },
-    {
-      "words": [
-        "attending",
-        "workshops",
-        "can",
-        "help",
-        "improve",
-        "your",
-        "skills",
-        "significantly"
-      ],
-      "display": "Attending workshops can help improve your skills significantly."
-    },
-    {
-      "words": [
-        "the",
-        "new",
-        "policy",
-        "aims",
-        "to",
-        "reduce",
-        "waste",
-        "and",
-        "promote",
-        "recycling"
-      ],
-      "display": "The new policy aims to reduce waste and promote recycling."
+      "display": "Climate change presents a serious challenge for future generations."
     },
     {
       "words": [
         "students",
-        "are",
-        "encouraged",
+        "must",
+        "develop",
+        "effective",
+        "study",
+        "habits",
         "to",
-        "engage",
-        "in",
-        "discussions",
-        "during",
-        "class"
+        "succeed",
+        "academically"
       ],
-      "display": "Students are encouraged to engage in discussions during class."
+      "display": "Students must develop effective study habits to succeed academically."
     }
   ],
   "emailPrompts": [
-    "寄信給宿舍辦公室，詢問房間分配的問題。",
-    "寄信給圖書館，要求延長借書期限。",
-    "寄信給學生會，請求加入某個俱樂部的申請表。",
-    "寄信給教授，詢問有關最新課程作業的問題。",
-    "寄信給客服，反映商品的質量問題。",
-    "寄信給實習辦公室，確認面試的時間與地點。"
+    "寄信給教授，請求延長提交期末報告的截止日期。",
+    "寫信給宿舍管理處，詢問有關水電費的計算方式。",
+    "寄信給圖書館，反映某一書籍的損壞情況並請求修理。",
+    "寫信給學生會，表達希望舉辦一場文化活動的想法。",
+    "寄信給客戶服務部門，詢問有關訂單遲延的情況。",
+    "寫信給導師，請求指導研究計畫的相關問題。"
   ],
   "discussionPrompts": [
-    "教授問：「你認為科技發展對社會的影響是正面還是負面？」",
-    "教授問：「在當前的經濟形勢下，政府應該如何調整政策？」",
-    "教授問：「我們如何才能更有效地推動可持續發展？」",
-    "教授問：「文化差異在國際交流中扮演什麼角色？」",
-    "教授問：「社交媒體對青少年的心理健康有何影響？」",
-    "教授問：「教育體系應該如何應對迅速變化的職場需求？」"
+    "教授問：「請討論科技對現代教育的影響。」",
+    "教授問：「你如何看待全球化對文化多樣性的影響？」",
+    "教授問：「社交媒體對人際關係的影響是正面還是負面？」",
+    "教授問：「氣候變遷的挑戰應由誰來承擔？」",
+    "教授問：「應該如何平衡經濟發展與環境保護？」",
+    "教授問：「藝術在社會運動中扮演什麼樣的角色？」"
   ]
 }

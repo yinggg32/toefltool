@@ -1,45 +1,45 @@
 {
   "shadowSentences": [
-    "The sun is shining brightly today.",
-    "I enjoy reading books in my free time.",
+    "I enjoy reading books on weekends.",
     "My favorite season is autumn because of the colors.",
-    "Cooking a new recipe can be very exciting.",
-    "Traveling helps me learn about different cultures.",
-    "I often play soccer with friends on weekends.",
-    "Listening to music can improve my mood significantly.",
-    "I like to explore new hiking trails when I travel.",
-    "Volunteering at local shelters makes me feel fulfilled.",
-    "Keeping a journal has helped me reflect on my thoughts."
+    "I often go hiking in the mountains with friends.",
+    "Cooking new recipes can be challenging yet fun.",
+    "Traveling to new places helps broaden my perspective.",
+    "Listening to music while studying improves my focus.",
+    "I like to volunteer at local animal shelters during summer.",
+    "Gardening gives me a sense of peace and accomplishment.",
+    "Learning a new language opens up many opportunities for communication.",
+    "Spending time in nature can greatly enhance mental well-being."
   ],
   "interviewScenarios": [
     {
-      "topic": "家庭旅行",
-      "intro": "You have agreed to take part in a research study about family vacations.",
+      "topic": "飲食習慣",
+      "intro": "You have agreed to take part in a research study about eating habits.",
       "questions": [
-        "Q1: Can you share a memorable family vacation you have had?",
-        "Q2: What challenges did your family face while traveling together?",
-        "Q3: Why do you think family vacations are important for bonding?",
-        "Q4: What advice would you give to families planning a trip?"
+        "Q1: Can you describe your typical daily meals?",
+        "Q2: What challenges do you face in maintaining a healthy diet?",
+        "Q3: How important do you think eating habits are for overall health?",
+        "Q4: What advice would you give someone trying to improve their eating habits?"
       ]
     },
     {
-      "topic": "環保意識",
-      "intro": "You have agreed to take part in a research study about environmental awareness.",
+      "topic": "家庭娛樂",
+      "intro": "You have agreed to take part in a research study about family entertainment activities.",
       "questions": [
-        "Q1: How did you first become interested in environmental issues?",
-        "Q2: What obstacles do people face in adopting eco-friendly habits?",
-        "Q3: In your opinion, how important is it to protect the environment?",
-        "Q4: What suggestions do you have for individuals wanting to be more environmentally conscious?"
+        "Q1: What activities do you enjoy doing with your family?",
+        "Q2: What are some challenges your family faces in finding time for entertainment?",
+        "Q3: In your opinion, how does family entertainment strengthen relationships?",
+        "Q4: What suggestions do you have for families looking to enjoy more time together?"
       ]
     },
     {
-      "topic": "自我提升",
-      "intro": "You have agreed to take part in a research study about self-improvement.",
+      "topic": "運動習慣",
+      "intro": "You have agreed to take part in a research study about exercise habits.",
       "questions": [
-        "Q1: What personal development goal have you worked towards recently?",
-        "Q2: What difficulties have you encountered while trying to improve yourself?",
-        "Q3: How do you feel self-improvement impacts your overall happiness?",
-        "Q4: What tips would you share with someone looking to better themselves?"
+        "Q1: What type of exercise do you prefer and why?",
+        "Q2: What obstacles do you encounter when trying to maintain a regular workout routine?",
+        "Q3: How beneficial do you believe exercise is for mental health?",
+        "Q4: What tips would you offer to someone who wants to start exercising regularly?"
       ]
     }
   ]
