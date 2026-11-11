@@ -2,119 +2,107 @@
   "cloze": {
     "segments": [
       {
-        "text": "The human brain is an incredibly complex organ, primarily responsible for "
+        "text": "The process of photosynthesis is vital for plants, enabling them to convert sunlight into energy. This complex proce"
       },
       {
-        "blank": "co"
+        "blank": "ss"
       },
       {
-        "text": "nsciousness, thought, and memory. It consists of billions of neurons that "
+        "text": " occurs in the chloroplasts, where chlorophyll captures light energy. The absorbed energy is used to transform carbon diox"
       },
       {
-        "blank": "tra"
+        "blank": "ide"
       },
       {
-        "text": "nsmit signals. These neurons communicate through synapses, using "
+        "text": " and water into glucose and oxygen. This transformation not only supports plant life but also contributes to the atmo"
       },
       {
-        "blank": "che"
+        "blank": "sphere"
       },
       {
-        "text": "micals called neurotransmitters. The brain is divided into several "
+        "text": " by releasing oxygen, which is essential for the survival of most living organisms. Furthermore, photosynthesis plays a"
       },
       {
-        "blank": "sec"
+        "blank": "critical"
       },
       {
-        "text": "tions, each specializing in different functions, such as movement, "
-      },
-      {
-        "blank": "sen"
-      },
-      {
-        "text": "sation, and higher-level cognitive processes. Understanding how the brain "
-      },
-      {
-        "blank": "fun"
-      },
-      {
-        "text": "ctions is crucial for advancing treatments for neurological diseases."
+        "text": " role in maintaining the balance of ecosystems and influencing climate patterns."
       }
     ]
   },
   "academic": {
-    "passage": "The human brain is an extraordinary organ crucial for cognitive functions. It is divided into the cerebrum, cerebellum, and brainstem, each serving distinct roles. The cerebrum handles higher brain functions, while the cerebellum coordinates movement and balance. Research in neuroscience aims to decode the functions of various brain regions, helping us understand both normal operations and disorders. This field is expanding rapidly, offering insights into the mechanisms underlying learning, memory, and emotions, which are essential for human experience.",
+    "passage": "Photosynthesis is a biochemical process that allows green plants to convert light energy into chemical energy. This occurs primarily in chloroplasts, where light energy is captured by chlorophyll, converting carbon dioxide and water into glucose and oxygen. This process is fundamental not only for plant growth but also for supplying oxygen to the atmosphere, playing a crucial role in sustaining life on Earth and impacting global climates.",
     "questions": [
       {
-        "q": "What is the main focus of research in neuroscience?",
+        "q": "What is the main idea of the passage?",
         "options": [
-          "Understanding brain functions",
-          "Developing new medications",
-          "Improving physical health",
-          "Studying human emotions"
+          "Photosynthesis is essential for life on Earth.",
+          "Chloroplasts are the main site of photosynthesis.",
+          "Photosynthesis converts sunlight into energy.",
+          "Plants use glucose for growth."
         ],
         "correctIndex": 0,
-        "explain": "這個問題的重點在於研究神經科學的主要目標，即理解大腦的功能。"
+        "explain": "這篇文章的主要思想是光合作用對地球生命的必要性。"
       },
       {
-        "q": "Which part of the brain is responsible for balance?",
+        "q": "Where does photosynthesis primarily take place?",
         "options": [
-          "Cerebrum",
-          "Cerebellum",
-          "Brainstem",
-          "Limbic system"
+          "In the leaf epidermis.",
+          "In the chloroplasts.",
+          "In the root system.",
+          "In the stem."
         ],
         "correctIndex": 1,
-        "explain": "小腦是協調運動和平衡的主要部分。"
+        "explain": "光合作用主要發生在葉綠體中。"
       },
       {
-        "q": "What can understanding brain functions help with?",
+        "q": "What can be inferred about the relationship between photosynthesis and ecosystems?",
         "options": [
-          "It can aid in computer programming.",
-          "It can improve intelligence.",
-          "It can enhance treatments for disorders.",
-          "It can decrease stress levels."
+          "Photosynthesis has no impact on ecosystems.",
+          "Ecosystems are entirely dependent on animals.",
+          "Photosynthesis assists in maintaining ecological balance.",
+          "Only animals can affect climate patterns."
         ],
         "correctIndex": 2,
-        "explain": "了解大腦功能有助於改善對神經疾病的治療。"
+        "explain": "可以推導出光合作用有助於維持生態平衡。"
       },
       {
-        "q": "What does the term 'cognitive' refer to?",
+        "q": "What does the term 'chlorophyll' refer to in the passage?",
         "options": [
-          "Physical abilities",
-          "Mental processes",
-          "Emotional responses",
-          "Social interactions"
+          "A type of plant nutrient.",
+          "A pigment that captures light energy.",
+          "A structure in the cell.",
+          "A form of carbon dioxide."
         ],
         "correctIndex": 1,
-        "explain": "認知指的是與心智過程相關的概念，包括思考、記憶等。"
+        "explain": "在文章中，'葉綠素'指的是捕捉光能的色素。"
       }
     ]
   },
   "daily": {
-    "passage": "Attention students! The library will be closed for maintenance this Saturday. Please plan your studies accordingly. We apologize for any inconvenience caused.",
+    "passage": "Attention students: The library will close early on Friday at 3 PM for maintenance. Please ensure you have all materials checked out before this time. Thank you for your understanding.",
     "questions": [
       {
-        "q": "When will the library be closed?",
+        "q": "What time will the library close on Friday?",
         "options": [
-          "This Friday",
-          "This Saturday",
-          "Next Monday",
-          "Next Saturday"
+          "2 PM",
+          "3 PM",
+          "4 PM",
+          "5 PM"
         ],
         "correctIndex": 1,
-        "explain": "圖書館將於本週六關閉。"
+        "explain": "圖書館週五將於下午3點關閉。"
       },
       {
-        "q": "Why will the library be closed?",
+        "q": "Why will the library close early?",
         "options": [
-          "For cleaning",
-          "For an event",
-          "For maintenance",
-          "For inventory"
+          "For a special event.",
+          "For staff training.",
+          "For maintenance.",
+          "For inventory."
         ],
         "correctIndex": 2,
-        "explain": "圖書館因維護工作而關閉。"
+        "explain": "圖書館將提前關閉是因為需要進行維護。"
       }
     ]
   }

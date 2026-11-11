@@ -2,129 +2,126 @@
   "buildSentences": [
     {
       "words": [
-        "students",
-        "should",
-        "attend",
-        "lectures",
-        "to",
-        "understand",
         "the",
-        "material"
+        "students",
+        "enjoyed",
+        "the",
+        "lecture",
+        "about",
+        "environmental",
+        "issues"
       ],
-      "display": "Students should attend lectures to understand the material."
+      "display": "The students enjoyed the lecture about environmental issues."
     },
     {
       "words": [
-        "reading",
-        "books",
-        "is",
-        "essential",
-        "for",
-        "gaining",
-        "knowledge",
-        "and",
-        "insight"
+        "many",
+        "people",
+        "prefer",
+        "to",
+        "travel",
+        "by",
+        "train",
+        "instead"
       ],
-      "display": "Reading books is essential for gaining knowledge and insight."
+      "display": "Many people prefer to travel by train instead."
     },
     {
       "words": [
         "the",
         "researchers",
-        "found",
-        "significant",
-        "results",
-        "in",
-        "their",
-        "study"
+        "discovered",
+        "new",
+        "methods",
+        "to",
+        "reduce",
+        "pollution"
       ],
-      "display": "The researchers found significant results in their study."
+      "display": "The researchers discovered new methods to reduce pollution."
     },
     {
       "words": [
-        "participating",
-        "in",
-        "extracurricular",
-        "activities",
-        "benefits",
-        "students",
-        "in",
-        "many",
-        "ways"
-      ],
-      "display": "Participating in extracurricular activities benefits students in many ways."
-    },
-    {
-      "words": [
+        "she",
+        "decided",
+        "to",
+        "join",
         "the",
+        "debate",
         "team",
-        "worked",
-        "tirelessly",
-        "to",
-        "meet",
+        "this",
+        "semester"
+      ],
+      "display": "She decided to join the debate team this semester."
+    },
+    {
+      "words": [
         "the",
-        "project",
-        "deadline"
-      ],
-      "display": "The team worked tirelessly to meet the project deadline."
-    },
-    {
-      "words": [
-        "technology",
-        "has",
-        "changed",
-        "the",
-        "way",
-        "we",
-        "communicate",
-        "and",
-        "learn"
-      ],
-      "display": "Technology has changed the way we communicate and learn."
-    },
-    {
-      "words": [
-        "climate",
-        "change",
-        "presents",
-        "a",
-        "serious",
-        "challenge",
-        "for",
-        "future",
-        "generations"
-      ],
-      "display": "Climate change presents a serious challenge for future generations."
-    },
-    {
-      "words": [
+        "professor",
+        "encouraged",
         "students",
-        "must",
-        "develop",
-        "effective",
-        "study",
-        "habits",
         "to",
-        "succeed",
-        "academically"
+        "participate",
+        "in",
+        "discussions"
       ],
-      "display": "Students must develop effective study habits to succeed academically."
+      "display": "The professor encouraged students to participate in discussions."
+    },
+    {
+      "words": [
+        "he",
+        "has",
+        "been",
+        "studying",
+        "hard",
+        "for",
+        "the",
+        "upcoming",
+        "exams"
+      ],
+      "display": "He has been studying hard for the upcoming exams."
+    },
+    {
+      "words": [
+        "the",
+        "library",
+        "offers",
+        "many",
+        "resources",
+        "for",
+        "students",
+        "to",
+        "use"
+      ],
+      "display": "The library offers many resources for students to use."
+    },
+    {
+      "words": [
+        "attending",
+        "workshops",
+        "can",
+        "help",
+        "improve",
+        "your",
+        "writing",
+        "skills"
+      ],
+      "display": "Attending workshops can help improve your writing skills."
     }
   ],
   "emailPrompts": [
-    "寄信給教授，請求延長提交期末報告的截止日期。",
-    "寫信給宿舍管理處，詢問有關水電費的計算方式。",
-    "寄信給圖書館，反映某一書籍的損壞情況並請求修理。",
-    "寫信給學生會，表達希望舉辦一場文化活動的想法。",
-    "寄信給客戶服務部門，詢問有關訂單遲延的情況。",
-    "寫信給導師，請求指導研究計畫的相關問題。"
+    "寄信給圖書館，詢問如何借書和還書的程序。",
+    "寄信給宿舍辦公室，請求更換房間因為噪音問題。",
+    "寄信給學生會，表達對新活動的興趣並詢問參加方式。",
+    "寄信給教授，請假因為有醫療約會，並詢問課堂內容。",
+    "寄信給客服，反映你對產品的不滿並請求退款。",
+    "寄信給研究小組，表達參與其最新研究的意願。"
   ],
   "discussionPrompts": [
-    "教授問：「請討論科技對現代教育的影響。」",
-    "教授問：「你如何看待全球化對文化多樣性的影響？」",
-    "教授問：「社交媒體對人際關係的影響是正面還是負面？」",
-    "教授問：「氣候變遷的挑戰應由誰來承擔？」",
-    "教授問：「應該如何平衡經濟發展與環境保護？」",
-    "教授問：「藝術在社會運動中扮演什麼樣的角色？」"
+    "教授問：「你認為社交媒體對青少年有正面還是負面的影響？」",
+    "教授問：「在全球化的背景下，本地文化的保護是否必要？」",
+    "教授問：「應該如何看待科技對於人類工作未來的影響？」",
+    "教授問：「氣候變化是人類面臨的最大挑戰嗎？為什麼？」",
+    "教授問：「教育體系應該如何適應快速變化的社會需求？」",
+    "教授問：「研究倫理在當代科學研究中有多重要？」"
   ]
 }

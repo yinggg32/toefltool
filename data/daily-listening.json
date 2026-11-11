@@ -1,116 +1,116 @@
 {
   "chooseResponse": [
     {
-      "q": "What do you think about the new cafe?",
+      "q": "What time is the study group meeting?",
       "options": [
-        "It's fantastic!",
-        "I don't like coffee.",
-        "I haven't tried it.",
-        "It's too expensive."
+        "It's at 3 PM.",
+        "I forgot the time.",
+        "Let me check my calendar.",
+        "It's cancelled."
       ],
       "correctIndex": 0
     }
   ],
   "conversation": {
-    "transcript": "Student: Have you tried the new cafe on campus?\nAdvisor: Yes, I went there yesterday. The atmosphere is great!\nStudent: Really? I heard they have a lot of vegan options.\nAdvisor: They do! The smoothies are especially good.",
+    "transcript": "Student: Hey, do you know when the study group is meeting?\nAdvisor: Yes, it's scheduled for 3 PM in the library.\nStudent: Great! How many people are attending?\nAdvisor: There should be around five of us.",
     "questions": [
       {
-        "q": "What did the advisor think of the cafe?",
+        "q": "Where is the study group meeting?",
         "options": [
-          "It's great!",
-          "It's too noisy.",
-          "It has limited options.",
-          "It's very expensive."
+          "In the library.",
+          "In the cafeteria.",
+          "At my house.",
+          "In the park."
         ],
         "correctIndex": 0,
-        "explain": "顧問認為咖啡廳的氛圍很好。"
+        "explain": "研究小組在圖書館舉行。"
       },
       {
-        "q": "What kind of food does the cafe offer?",
+        "q": "How many people are expected to attend?",
         "options": [
-          "Italian food",
-          "Vegan options",
-          "Burgers",
-          "Desserts only"
+          "About three.",
+          "Around five.",
+          "Only one.",
+          "None."
         ],
         "correctIndex": 1,
-        "explain": "咖啡廳提供素食選擇。"
+        "explain": "預計會有大約五個人參加。"
       }
     ]
   },
   "announcement": {
-    "transcript": "Attention students! There will be an open mic night at the student center this Friday at 7 PM. Everyone is welcome to showcase their talents, whether it's music, poetry, or comedy. Don't miss out on this opportunity to support your peers and enjoy a fun evening!",
+    "transcript": "Attention students! The annual campus fair will take place this Saturday from 10 AM to 4 PM on the main quad. There will be games, food stalls, and information booths. Don't miss out on the fun!",
     "questions": [
       {
-        "q": "What is happening this Friday?",
+        "q": "When is the campus fair scheduled?",
         "options": [
-          "A dance party",
-          "An open mic night",
-          "A guest lecture",
-          "A movie screening"
+          "This Saturday.",
+          "Next Sunday.",
+          "Tomorrow.",
+          "Last Saturday."
         ],
-        "correctIndex": 1,
-        "explain": "這週五將舉行開放麥克風之夜。"
+        "correctIndex": 0,
+        "explain": "校園博覽會定於本週六舉行。"
       },
       {
-        "q": "Where will the event take place?",
+        "q": "What activities can students expect at the fair?",
         "options": [
-          "At the library",
-          "In the cafeteria",
-          "At the student center",
-          "On the football field"
+          "Only food stalls.",
+          "Only games.",
+          "Games and food stalls.",
+          "No activities."
         ],
         "correctIndex": 2,
-        "explain": "活動將在學生中心舉行。"
+        "explain": "學生可以期待遊戲和食品攤位。"
       }
     ]
   },
   "talk": {
-    "transcript": "Today, I want to discuss the concept of biodiversity. Biodiversity refers to the variety of life in a particular habitat or ecosystem. It includes all living organisms, from the smallest microorganisms to the largest mammals. Biodiversity is crucial for ecosystem stability, as it allows ecosystems to recover from stresses and maintain functionality. Moreover, high levels of biodiversity can enhance food security, provide raw materials for industries, and contribute to health and well-being. Conservation efforts are essential to protect this biodiversity, as many species are at risk due to human activities such as habitat destruction and climate change.",
+    "transcript": "Today, I will discuss the concept of 'cognitive dissonance'. Cognitive dissonance occurs when an individual experiences discomfort due to conflicting beliefs or behaviors. For example, if someone values health but smokes, the inconsistency between their beliefs and actions leads to psychological stress. To alleviate this, they might change their beliefs about smoking or reduce their smoking habits. This concept is crucial in understanding how people strive for internal consistency in their thoughts and actions.",
     "questions": [
       {
-        "q": "What does biodiversity include?",
+        "q": "What is cognitive dissonance?",
         "options": [
-          "Only animals",
-          "Only plants",
-          "All living organisms",
-          "Only microorganisms"
+          "Comfort from consistent beliefs.",
+          "Discomfort from conflicting beliefs.",
+          "Stress from exercise.",
+          "Pleasure from smoking."
+        ],
+        "correctIndex": 1,
+        "explain": "認知失調是由於信念或行為之間的衝突而產生的不適。"
+      },
+      {
+        "q": "What might someone do to reduce cognitive dissonance?",
+        "options": [
+          "Change their beliefs.",
+          "Ignore the discomfort.",
+          "Smoke more.",
+          "Avoid thinking about it."
+        ],
+        "correctIndex": 0,
+        "explain": "他們可能會改變自己的信念來減少認知失調。"
+      },
+      {
+        "q": "Why is cognitive dissonance significant?",
+        "options": [
+          "It helps in making friends.",
+          "It shows how people adapt to change.",
+          "It explains our internal consistency.",
+          "It makes life easier."
         ],
         "correctIndex": 2,
-        "explain": "生物多樣性包括所有生物組織。"
+        "explain": "它是理解人們如何追求思想和行為內部一致性的關鍵。"
       },
       {
-        "q": "Why is biodiversity important?",
+        "q": "What is an example of cognitive dissonance?",
         "options": [
-          "For aesthetic purposes",
-          "For ecosystem stability",
-          "For reducing pollution",
-          "For increasing population"
+          "Eating healthy food.",
+          "Exercising regularly.",
+          "Smoking despite valuing health.",
+          "Reading books."
         ],
-        "correctIndex": 1,
-        "explain": "生物多樣性對生態系統的穩定性至關重要。"
-      },
-      {
-        "q": "What threats are mentioned regarding biodiversity?",
-        "options": [
-          "Natural disasters",
-          "Human activities",
-          "Pollution",
-          "Overpopulation"
-        ],
-        "correctIndex": 1,
-        "explain": "人類活動對生物多樣性造成威脅。"
-      },
-      {
-        "q": "What can high levels of biodiversity enhance?",
-        "options": [
-          "Air quality",
-          "Food security",
-          "Climate change",
-          "Technological advancement"
-        ],
-        "correctIndex": 1,
-        "explain": "高水平的生物多樣性可以增強食物安全。"
+        "correctIndex": 2,
+        "explain": "抽煙與重視健康之間的矛盾是一個認知失調的例子。"
       }
     ]
   }
