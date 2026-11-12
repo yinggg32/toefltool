@@ -1,116 +1,116 @@
 {
   "chooseResponse": [
     {
-      "q": "What time is the study group meeting?",
+      "q": "What did you think of the lecture?",
       "options": [
-        "It's at 3 PM.",
-        "I forgot the time.",
-        "Let me check my calendar.",
-        "It's cancelled."
+        "It was really interesting!",
+        "I didn't understand much.",
+        "It was too long.",
+        "I loved the visuals!"
       ],
       "correctIndex": 0
     }
   ],
   "conversation": {
-    "transcript": "Student: Hey, do you know when the study group is meeting?\nAdvisor: Yes, it's scheduled for 3 PM in the library.\nStudent: Great! How many people are attending?\nAdvisor: There should be around five of us.",
+    "transcript": "Student: Hey, did you attend the guest lecture on climate change?\nProfessor: Yes, I did! What did you think of it?\nStudent: I found it quite enlightening, especially the part about renewable energy.\nProfessor: I agree, it’s fascinating how technology is evolving in that field.",
     "questions": [
       {
-        "q": "Where is the study group meeting?",
+        "q": "What did the student find enlightening?",
         "options": [
-          "In the library.",
-          "In the cafeteria.",
-          "At my house.",
-          "In the park."
-        ],
-        "correctIndex": 0,
-        "explain": "研究小組在圖書館舉行。"
-      },
-      {
-        "q": "How many people are expected to attend?",
-        "options": [
-          "About three.",
-          "Around five.",
-          "Only one.",
-          "None."
+          "The professor's credentials",
+          "The part about renewable energy",
+          "The duration of the lecture",
+          "The guest speaker's biography"
         ],
         "correctIndex": 1,
-        "explain": "預計會有大約五個人參加。"
+        "explain": "學生覺得可再生能源的部分很有啟發性。"
+      },
+      {
+        "q": "What topic did the guest lecture cover?",
+        "options": [
+          "Renewable energy",
+          "Climate change",
+          "Technology trends",
+          "Environmental policies"
+        ],
+        "correctIndex": 1,
+        "explain": "客座講座的主題是氣候變化。"
       }
     ]
   },
   "announcement": {
-    "transcript": "Attention students! The annual campus fair will take place this Saturday from 10 AM to 4 PM on the main quad. There will be games, food stalls, and information booths. Don't miss out on the fun!",
+    "transcript": "Attention students! The university will be hosting a cultural festival this Saturday from 10 AM to 5 PM in the main hall. There will be food, performances, and workshops showcasing various cultural traditions. Don't miss this chance to explore and celebrate diversity on campus!",
     "questions": [
       {
-        "q": "When is the campus fair scheduled?",
+        "q": "When is the cultural festival scheduled?",
         "options": [
-          "This Saturday.",
-          "Next Sunday.",
-          "Tomorrow.",
-          "Last Saturday."
+          "This Friday",
+          "This Saturday",
+          "Next Saturday",
+          "Next Sunday"
         ],
-        "correctIndex": 0,
-        "explain": "校園博覽會定於本週六舉行。"
+        "correctIndex": 1,
+        "explain": "文化節定於這個星期六舉行。"
       },
       {
-        "q": "What activities can students expect at the fair?",
+        "q": "Where will the festival take place?",
         "options": [
-          "Only food stalls.",
-          "Only games.",
-          "Games and food stalls.",
-          "No activities."
+          "In the library",
+          "In the main hall",
+          "At the student union",
+          "Outside campus"
         ],
-        "correctIndex": 2,
-        "explain": "學生可以期待遊戲和食品攤位。"
+        "correctIndex": 1,
+        "explain": "節日將在主樓舉行。"
       }
     ]
   },
   "talk": {
-    "transcript": "Today, I will discuss the concept of 'cognitive dissonance'. Cognitive dissonance occurs when an individual experiences discomfort due to conflicting beliefs or behaviors. For example, if someone values health but smokes, the inconsistency between their beliefs and actions leads to psychological stress. To alleviate this, they might change their beliefs about smoking or reduce their smoking habits. This concept is crucial in understanding how people strive for internal consistency in their thoughts and actions.",
+    "transcript": "Today, we will discuss the concept of biodiversity. Biodiversity refers to the variety of life forms on Earth, including different species of animals, plants, and microorganisms. It is crucial for ecosystem resilience, enabling ecosystems to recover from various disturbances. Moreover, biodiversity supports ecosystem services, such as pollination and water purification, which are vital for human survival. Sadly, human activities like deforestation and pollution threaten biodiversity, and protecting it is essential for maintaining the balance of our environment.",
     "questions": [
       {
-        "q": "What is cognitive dissonance?",
+        "q": "What is biodiversity?",
         "options": [
-          "Comfort from consistent beliefs.",
-          "Discomfort from conflicting beliefs.",
-          "Stress from exercise.",
-          "Pleasure from smoking."
-        ],
-        "correctIndex": 1,
-        "explain": "認知失調是由於信念或行為之間的衝突而產生的不適。"
-      },
-      {
-        "q": "What might someone do to reduce cognitive dissonance?",
-        "options": [
-          "Change their beliefs.",
-          "Ignore the discomfort.",
-          "Smoke more.",
-          "Avoid thinking about it."
+          "Variety of life forms",
+          "Climate change impact",
+          "Urban development",
+          "Soil composition"
         ],
         "correctIndex": 0,
-        "explain": "他們可能會改變自己的信念來減少認知失調。"
+        "explain": "生物多樣性是地球上生命形式的多樣性。"
       },
       {
-        "q": "Why is cognitive dissonance significant?",
+        "q": "Why is biodiversity important?",
         "options": [
-          "It helps in making friends.",
-          "It shows how people adapt to change.",
-          "It explains our internal consistency.",
-          "It makes life easier."
+          "For recreational purposes",
+          "For ecosystem resilience",
+          "For agricultural efficiency",
+          "For industrial development"
         ],
-        "correctIndex": 2,
-        "explain": "它是理解人們如何追求思想和行為內部一致性的關鍵。"
+        "correctIndex": 1,
+        "explain": "生物多樣性對生態系統的韌性至關重要。"
       },
       {
-        "q": "What is an example of cognitive dissonance?",
+        "q": "What threatens biodiversity?",
         "options": [
-          "Eating healthy food.",
-          "Exercising regularly.",
-          "Smoking despite valuing health.",
-          "Reading books."
+          "Technological innovation",
+          "Human activities",
+          "Natural disasters",
+          "Medical advancements"
+        ],
+        "correctIndex": 1,
+        "explain": "人類活動如森林砍伐和污染威脅生物多樣性。"
+      },
+      {
+        "q": "What are ecosystem services?",
+        "options": [
+          "Cultural heritage",
+          "Natural resources",
+          "Pollination and water purification",
+          "Urban infrastructure"
         ],
         "correctIndex": 2,
-        "explain": "抽煙與重視健康之間的矛盾是一個認知失調的例子。"
+        "explain": "生態系統服務包括授粉和水質淨化。"
       }
     ]
   }

@@ -1,45 +1,45 @@
 {
   "shadowSentences": [
-    "I enjoy reading books every evening.",
-    "She often goes for a walk in the park.",
-    "They love cooking new recipes on weekends.",
-    "He usually listens to music while studying.",
-    "We like to travel to different countries each year.",
-    "I often visit local museums to learn about history.",
-    "She prefers to work out in the morning before class.",
-    "They often watch movies together on Friday nights.",
-    "He enjoys volunteering at the animal shelter every month.",
-    "We frequently explore new hiking trails during holidays."
+    "I enjoy reading books in my free time.",
+    "My favorite season is autumn because of the colors.",
+    "Learning a new language can be quite challenging.",
+    "I often go hiking on weekends with my friends.",
+    "Cooking a meal from scratch is very rewarding for me.",
+    "Traveling to new places helps me learn about different cultures.",
+    "Listening to music can improve my mood and focus.",
+    "Volunteering at local shelters is an important part of my life.",
+    "Spending time in nature has many benefits for mental health.",
+    "Having a daily routine helps me stay productive and organized."
   ],
   "interviewScenarios": [
     {
-      "topic": "飲食偏好",
-      "intro": "You have agreed to take part in a research study about food preferences.",
+      "topic": "旅行經驗",
+      "intro": "You have agreed to take part in a research study about travel experiences.",
       "questions": [
-        "Q1: What are some of your favorite foods?",
-        "Q2: Have you ever tried cooking a dish from another country?",
-        "Q3: How important do you think healthy eating is?",
-        "Q4: What advice would you give someone trying to eat healthier?"
+        "Q1: Can you share a memorable trip you took recently?",
+        "Q2: What challenges did you face during your travels?",
+        "Q3: How do you think traveling impacts a person's perspective on life?",
+        "Q4: What advice would you give someone planning their first trip abroad?"
       ]
     },
     {
-      "topic": "戶外活動",
-      "intro": "You have agreed to take part in a research study about outdoor activities.",
+      "topic": "興趣與愛好",
+      "intro": "You have agreed to take part in a research study about hobbies and interests.",
       "questions": [
-        "Q1: What outdoor activities do you enjoy the most?",
-        "Q2: Have you faced any challenges when doing outdoor activities?",
-        "Q3: In your opinion, why is spending time outdoors important?",
-        "Q4: What recommendations do you have for someone new to outdoor activities?"
+        "Q1: What is a hobby you enjoy and why?",
+        "Q2: Have you encountered any difficulties in pursuing this hobby?",
+        "Q3: In your opinion, how important are hobbies for personal well-being?",
+        "Q4: What recommendations do you have for someone looking to find a new hobby?"
       ]
     },
     {
-      "topic": "學習新技能",
-      "intro": "You have agreed to take part in a research study about learning new skills.",
+      "topic": "學習策略",
+      "intro": "You have agreed to take part in a research study about study strategies.",
       "questions": [
-        "Q1: What skill did you recently learn, and how did you start?",
-        "Q2: Did you encounter any difficulties while learning this skill?",
-        "Q3: Why do you think learning new skills is valuable?",
-        "Q4: What tips would you give to someone wanting to learn a new skill?"
+        "Q1: What study methods have worked best for you?",
+        "Q2: What obstacles do you face when trying to study effectively?",
+        "Q3: How do you think effective study habits can influence academic success?",
+        "Q4: What advice would you give to someone struggling with their study routine?"
       ]
     }
   ]

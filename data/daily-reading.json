@@ -2,107 +2,95 @@
   "cloze": {
     "segments": [
       {
-        "text": "The process of photosynthesis is vital for plants, enabling them to convert sunlight into energy. This complex proce"
+        "text": "The process of photosynthesis is essential for plant growth and occurs mainly in the leaves. During this process, plants use sunlight to convert carbon di",
+        "blank": "oxide"
       },
       {
-        "blank": "ss"
+        "text": "and water into glucose, which serves as energy. The byproduct of photosynthesis is oxygen, which is released into the atmosphere. This process is crucial for maintaining the balance of gases in the en",
+        "blank": "vironment"
       },
       {
-        "text": " occurs in the chloroplasts, where chlorophyll captures light energy. The absorbed energy is used to transform carbon diox"
+        "text": ", as it provides the oxygen that many organisms depend on. Furthermore, photosynthesis also plays a significant role in the carbon cycle, helping to mitigate the effects of cli",
+        "blank": "mate"
       },
       {
-        "blank": "ide"
-      },
-      {
-        "text": " and water into glucose and oxygen. This transformation not only supports plant life but also contributes to the atmo"
-      },
-      {
-        "blank": "sphere"
-      },
-      {
-        "text": " by releasing oxygen, which is essential for the survival of most living organisms. Furthermore, photosynthesis plays a"
-      },
-      {
-        "blank": "critical"
-      },
-      {
-        "text": " role in maintaining the balance of ecosystems and influencing climate patterns."
+        "text": "change by absorbing carbon dioxide. Understanding photosynthesis is vital, as it supports not only plant life but also the entire ecosystem, highlighting its importance in sustaining life on Earth."
       }
     ]
   },
   "academic": {
-    "passage": "Photosynthesis is a biochemical process that allows green plants to convert light energy into chemical energy. This occurs primarily in chloroplasts, where light energy is captured by chlorophyll, converting carbon dioxide and water into glucose and oxygen. This process is fundamental not only for plant growth but also for supplying oxygen to the atmosphere, playing a crucial role in sustaining life on Earth and impacting global climates.",
+    "passage": "Photosynthesis is the biochemical process by which green plants, algae, and some bacteria convert light energy into chemical energy. This process occurs in the chloroplasts, where chlorophyll captures sunlight. The overall equation for photosynthesis can be summarized as: carbon dioxide + water + light energy → glucose + oxygen. This process is essential not only for plant growth but also for life on Earth, as it provides oxygen and serves as the foundation of food chains.",
     "questions": [
       {
         "q": "What is the main idea of the passage?",
         "options": [
-          "Photosynthesis is essential for life on Earth.",
-          "Chloroplasts are the main site of photosynthesis.",
-          "Photosynthesis converts sunlight into energy.",
-          "Plants use glucose for growth."
+          "Photosynthesis is crucial for life on Earth.",
+          "Plants use sunlight to grow.",
+          "The process occurs in chloroplasts.",
+          "Oxygen is a byproduct of photosynthesis."
         ],
         "correctIndex": 0,
-        "explain": "這篇文章的主要思想是光合作用對地球生命的必要性。"
+        "explain": "這段文字的主要思想是光合作用對地球生命的重要性。"
       },
       {
-        "q": "Where does photosynthesis primarily take place?",
+        "q": "Where does photosynthesis primarily occur?",
         "options": [
-          "In the leaf epidermis.",
-          "In the chloroplasts.",
-          "In the root system.",
-          "In the stem."
+          "In the roots.",
+          "In the leaves.",
+          "In the flowers.",
+          "In the soil."
         ],
         "correctIndex": 1,
-        "explain": "光合作用主要發生在葉綠體中。"
+        "explain": "光合作用主要在植物的葉子中進行。"
       },
       {
-        "q": "What can be inferred about the relationship between photosynthesis and ecosystems?",
+        "q": "What can be inferred about the role of photosynthesis in the carbon cycle?",
         "options": [
-          "Photosynthesis has no impact on ecosystems.",
-          "Ecosystems are entirely dependent on animals.",
-          "Photosynthesis assists in maintaining ecological balance.",
-          "Only animals can affect climate patterns."
-        ],
-        "correctIndex": 2,
-        "explain": "可以推導出光合作用有助於維持生態平衡。"
-      },
-      {
-        "q": "What does the term 'chlorophyll' refer to in the passage?",
-        "options": [
-          "A type of plant nutrient.",
-          "A pigment that captures light energy.",
-          "A structure in the cell.",
-          "A form of carbon dioxide."
+          "It has no effect on climate change.",
+          "It helps reduce carbon dioxide levels.",
+          "It increases oxygen levels only.",
+          "It solely benefits plants."
         ],
         "correctIndex": 1,
-        "explain": "在文章中，'葉綠素'指的是捕捉光能的色素。"
+        "explain": "可以推斷光合作用有助於降低二氧化碳水平，這對減緩氣候變化至關重要。"
+      },
+      {
+        "q": "What does the term 'chloroplasts' refer to in the passage?",
+        "options": [
+          "The part of the plant that absorbs water.",
+          "The site of photosynthesis in the plant.",
+          "The pigment that captures light.",
+          "The energy produced by plants."
+        ],
+        "correctIndex": 1,
+        "explain": "在這段文字中，'chloroplasts'指的是植物內進行光合作用的部位。"
       }
     ]
   },
   "daily": {
-    "passage": "Attention students: The library will close early on Friday at 3 PM for maintenance. Please ensure you have all materials checked out before this time. Thank you for your understanding.",
+    "passage": "Attention students! The library will be closed this Friday for maintenance. Please plan your study schedule accordingly. We apologize for any inconvenience this may cause.",
     "questions": [
       {
-        "q": "What time will the library close on Friday?",
+        "q": "When will the library be closed?",
         "options": [
-          "2 PM",
-          "3 PM",
-          "4 PM",
-          "5 PM"
+          "This Friday.",
+          "Next Monday.",
+          "This Saturday.",
+          "Next Friday."
         ],
-        "correctIndex": 1,
-        "explain": "圖書館週五將於下午3點關閉。"
+        "correctIndex": 0,
+        "explain": "圖書館將在本週五關閉。"
       },
       {
-        "q": "Why will the library close early?",
+        "q": "Why is the library closing?",
         "options": [
           "For a special event.",
-          "For staff training.",
           "For maintenance.",
-          "For inventory."
+          "For inventory check.",
+          "For renovation."
         ],
-        "correctIndex": 2,
-        "explain": "圖書館將提前關閉是因為需要進行維護。"
+        "correctIndex": 1,
+        "explain": "圖書館因為維護而關閉。"
       }
     ]
   }
