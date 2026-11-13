@@ -4,128 +4,137 @@
       "words": [
         "the",
         "students",
-        "in",
+        "attended",
         "the",
-        "library",
-        "are",
-        "studying",
-        "quietly"
-      ],
-      "display": "The students in the library are studying quietly."
-    },
-    {
-      "words": [
-        "we",
-        "should",
-        "discuss",
-        "the",
-        "importance",
-        "of",
+        "lecture",
+        "on",
         "environmental",
-        "protection"
+        "science"
       ],
-      "display": "We should discuss the importance of environmental protection."
+      "display": "The students attended the lecture on environmental science."
+    },
+    {
+      "words": [
+        "she",
+        "enjoys",
+        "reading",
+        "mystery",
+        "novels",
+        "in",
+        "her",
+        "free",
+        "time"
+      ],
+      "display": "She enjoys reading mystery novels in her free time."
     },
     {
       "words": [
         "the",
-        "professor",
-        "gave",
-        "us",
-        "a",
-        "challenging",
-        "assignment",
-        "yesterday"
+        "team",
+        "worked",
+        "hard",
+        "to",
+        "complete",
+        "the",
+        "project",
+        "on",
+        "time"
       ],
-      "display": "The professor gave us a challenging assignment yesterday."
+      "display": "The team worked hard to complete the project on time."
     },
     {
       "words": [
-        "please",
-        "submit",
-        "your",
+        "he",
+        "decided",
+        "to",
+        "join",
+        "the",
+        "debate",
+        "club",
+        "to",
+        "improve",
+        "his",
+        "public",
+        "speaking"
+      ],
+      "display": "He decided to join the debate club to improve his public speaking."
+    },
+    {
+      "words": [
+        "the",
         "research",
-        "papers",
-        "by",
+        "study",
+        "focused",
+        "on",
         "the",
-        "deadline"
+        "effects",
+        "of",
+        "climate",
+        "change"
       ],
-      "display": "Please submit your research papers by the deadline."
+      "display": "The research study focused on the effects of climate change."
+    },
+    {
+      "words": [
+        "during",
+        "the",
+        "summer",
+        "break",
+        "students",
+        "can",
+        "intern",
+        "or",
+        "travel",
+        "abroad"
+      ],
+      "display": "During the summer break, students can intern or travel abroad."
     },
     {
       "words": [
         "the",
-        "new",
         "library",
-        "opening",
-        "event",
-        "will",
-        "take",
-        "place",
+        "is",
+        "hosting",
+        "a",
+        "workshop",
+        "on",
+        "time",
+        "management",
         "next",
         "week"
       ],
-      "display": "The new library opening event will take place next week."
+      "display": "The library is hosting a workshop on time management next week."
     },
     {
       "words": [
-        "students",
-        "are",
-        "encouraged",
-        "to",
-        "participate",
+        "after",
+        "school",
+        "the",
+        "children",
+        "played",
+        "soccer",
         "in",
         "the",
-        "upcoming",
-        "seminar"
+        "park",
+        "together"
       ],
-      "display": "Students are encouraged to participate in the upcoming seminar."
-    },
-    {
-      "words": [
-        "the",
-        "club",
-        "meeting",
-        "has",
-        "been",
-        "rescheduled",
-        "to",
-        "friday",
-        "evening"
-      ],
-      "display": "The club meeting has been rescheduled to Friday evening."
-    },
-    {
-      "words": [
-        "if",
-        "you",
-        "have",
-        "any",
-        "questions",
-        "about",
-        "the",
-        "course",
-        "content",
-        "contact",
-        "me"
-      ],
-      "display": "If you have any questions about the course content, contact me."
+      "display": "After school, the children played soccer in the park together."
     }
   ],
   "emailPrompts": [
-    "寄信給教授，請求補考的許可，因為生病無法參加期中考。",
-    "寄信給宿舍辦公室，詢問關於房間維修的進度。",
-    "寄信給圖書館，詢問是否可以延長書籍的借閱期限。",
-    "寄信給社團，表達對參加即將舉辦的活動的興趣。",
-    "寄信給客戶服務，反映最近一次購物的問題，請求協助解決。",
-    "寄信給學校行政部門，詢問獎學金申請的截止日期。"
+    "寄信給教授，詢問課程內容的詳細資料。",
+    "寄信給宿舍辦公室，請求修理水管問題。",
+    "寄信給圖書館，詢問如何借書的流程。",
+    "寄信給社團，表達想要加入的意願。",
+    "寄信給客服，反映產品的問題並要求退換貨。",
+    "寄信給系主任，請求關於獎學金的資訊。"
   ],
   "discussionPrompts": [
-    "教授問：「您認為科技對教育的影響是正面還是負面？」",
-    "教授問：「在全球化的背景下，文化多樣性應該如何保護？」",
+    "教授問：「你認為科技對教育的影響是正面還是負面？」",
+    "教授問：「在全球化的影響下，文化多樣性是否會消失？」",
+    "教授問：「環境保護和經濟發展之間的平衡應該如何掌握？」",
     "教授問：「社交媒體對人際關係的影響是什麼？」",
-    "教授問：「在當今社會中，環保與經濟發展應該如何平衡？」",
-    "教授問：「您如何看待大學教育與職業需求之間的差距？」",
-    "教授問：「在討論歷史事件時，應該如何處理不同的觀點？」"
+    "教授問：「應該如何看待人工智慧取代人類工作的未來？」",
+    "教授問：「大學應該如何應對氣候變化的挑戰？」"
   ]
 }

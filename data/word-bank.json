@@ -10502,5 +10502,45 @@
     "zh": "機構的",
     "ex": "Institutional policies can significantly impact social behavior and community development.",
     "cat": "📰 每日新詞：sociology"
+  },
+  {
+    "word": "constellation",
+    "pos": "n.",
+    "root": "con-共同+stell-星+ation狀態",
+    "zh": "星座",
+    "ex": "A constellation is a group of stars that forms a recognizable pattern in the night sky.",
+    "cat": "📰 每日新詞：astronomy and space science"
+  },
+  {
+    "word": "ionosphere",
+    "pos": "n.",
+    "root": "iono-離子+sphere層",
+    "zh": "電離層",
+    "ex": "The ionosphere is a region of the Earth's upper atmosphere that is ionized by solar radiation.",
+    "cat": "📰 每日新詞：astronomy and space science"
+  },
+  {
+    "word": "solar flare",
+    "pos": "n.",
+    "root": "solar-太陽+flare閃光",
+    "zh": "太陽耀斑",
+    "ex": "Solar flares can disrupt satellite communications and affect space weather.",
+    "cat": "📰 每日新詞：astronomy and space science"
+  },
+  {
+    "word": "terraforming",
+    "pos": "n.",
+    "root": "terra-地球+forming形成",
+    "zh": "地球化",
+    "ex": "Terraforming is the hypothetical process of modifying a planet's environment to make it habitable.",
+    "cat": "📰 每日新詞：astronomy and space science"
+  },
+  {
+    "word": "nanotechnology",
+    "pos": "n.",
+    "root": "nano-納米+technology技術",
+    "zh": "納米技術",
+    "ex": "Nanotechnology is being explored for various applications in space exploration.",
+    "cat": "📰 每日新詞：astronomy and space science"
   }
 ]

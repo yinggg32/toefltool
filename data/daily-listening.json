@@ -1,116 +1,116 @@
 {
   "chooseResponse": [
     {
-      "q": "What did you think of the lecture?",
+      "q": "What do you think about the new library hours?",
       "options": [
-        "It was really interesting!",
-        "I didn't understand much.",
-        "It was too long.",
-        "I loved the visuals!"
+        "They're great!",
+        "I disagree.",
+        "I haven't noticed.",
+        "They're too late."
       ],
       "correctIndex": 0
     }
   ],
   "conversation": {
-    "transcript": "Student: Hey, did you attend the guest lecture on climate change?\nProfessor: Yes, I did! What did you think of it?\nStudent: I found it quite enlightening, especially the part about renewable energy.\nProfessor: I agree, it’s fascinating how technology is evolving in that field.",
+    "transcript": "Student: Have you checked out the new study rooms in the library?\nAdvisor: Yes, I just saw them yesterday. They look really nice!\nStudent: I heard they're equipped with smart boards.\nAdvisor: That's true! They should be really helpful for group projects.",
     "questions": [
       {
-        "q": "What did the student find enlightening?",
+        "q": "What did the student mention about the study rooms?",
         "options": [
-          "The professor's credentials",
-          "The part about renewable energy",
-          "The duration of the lecture",
-          "The guest speaker's biography"
+          "They're noisy.",
+          "They're equipped with smart boards.",
+          "They're too small.",
+          "They're not open yet."
         ],
         "correctIndex": 1,
-        "explain": "學生覺得可再生能源的部分很有啟發性。"
+        "explain": "學生提到新研究室配備了智慧白板。"
       },
       {
-        "q": "What topic did the guest lecture cover?",
+        "q": "How does the advisor feel about the study rooms?",
         "options": [
-          "Renewable energy",
-          "Climate change",
-          "Technology trends",
-          "Environmental policies"
+          "They are not impressive.",
+          "They look nice.",
+          "They are too crowded.",
+          "They are not useful."
         ],
         "correctIndex": 1,
-        "explain": "客座講座的主題是氣候變化。"
+        "explain": "顧問認為這些研究室看起來真的很不錯。"
       }
     ]
   },
   "announcement": {
-    "transcript": "Attention students! The university will be hosting a cultural festival this Saturday from 10 AM to 5 PM in the main hall. There will be food, performances, and workshops showcasing various cultural traditions. Don't miss this chance to explore and celebrate diversity on campus!",
+    "transcript": "Attention students: The university will host a career fair this Friday in the student center from 10 AM to 3 PM. Many companies will be attending, so be sure to bring your resumes and dress professionally. Don't miss this opportunity to network and explore job options!",
     "questions": [
       {
-        "q": "When is the cultural festival scheduled?",
+        "q": "When is the career fair scheduled?",
         "options": [
-          "This Friday",
-          "This Saturday",
-          "Next Saturday",
-          "Next Sunday"
+          "This Saturday.",
+          "Next Friday.",
+          "This Friday.",
+          "Next Monday."
         ],
-        "correctIndex": 1,
-        "explain": "文化節定於這個星期六舉行。"
+        "correctIndex": 2,
+        "explain": "職業博覽會定於本週五舉行。"
       },
       {
-        "q": "Where will the festival take place?",
+        "q": "What should students bring to the career fair?",
         "options": [
-          "In the library",
-          "In the main hall",
-          "At the student union",
-          "Outside campus"
+          "Books and notes.",
+          "Their resumes.",
+          "Food and drinks.",
+          "Casual clothes."
         ],
         "correctIndex": 1,
-        "explain": "節日將在主樓舉行。"
+        "explain": "學生應帶上他們的履歷。"
       }
     ]
   },
   "talk": {
-    "transcript": "Today, we will discuss the concept of biodiversity. Biodiversity refers to the variety of life forms on Earth, including different species of animals, plants, and microorganisms. It is crucial for ecosystem resilience, enabling ecosystems to recover from various disturbances. Moreover, biodiversity supports ecosystem services, such as pollination and water purification, which are vital for human survival. Sadly, human activities like deforestation and pollution threaten biodiversity, and protecting it is essential for maintaining the balance of our environment.",
+    "transcript": "Today, we will discuss the process of photosynthesis, which is fundamental to plant life. Photosynthesis occurs in the chloroplasts of plant cells, where sunlight is converted into chemical energy. This process uses carbon dioxide from the air and water from the soil to produce glucose and oxygen. The overall equation can be summarized as: carbon dioxide plus water, in the presence of sunlight, yields glucose and oxygen. This not only provides energy for plants but also produces the oxygen we breathe, making it essential for life on Earth.",
     "questions": [
       {
-        "q": "What is biodiversity?",
+        "q": "What is produced during photosynthesis?",
         "options": [
-          "Variety of life forms",
-          "Climate change impact",
-          "Urban development",
-          "Soil composition"
-        ],
-        "correctIndex": 0,
-        "explain": "生物多樣性是地球上生命形式的多樣性。"
-      },
-      {
-        "q": "Why is biodiversity important?",
-        "options": [
-          "For recreational purposes",
-          "For ecosystem resilience",
-          "For agricultural efficiency",
-          "For industrial development"
+          "Carbon dioxide.",
+          "Glucose and oxygen.",
+          "Water.",
+          "Chlorophyll."
         ],
         "correctIndex": 1,
-        "explain": "生物多樣性對生態系統的韌性至關重要。"
+        "explain": "光合作用產生葡萄糖和氧氣。"
       },
       {
-        "q": "What threatens biodiversity?",
+        "q": "Where does photosynthesis occur?",
         "options": [
-          "Technological innovation",
-          "Human activities",
-          "Natural disasters",
-          "Medical advancements"
-        ],
-        "correctIndex": 1,
-        "explain": "人類活動如森林砍伐和污染威脅生物多樣性。"
-      },
-      {
-        "q": "What are ecosystem services?",
-        "options": [
-          "Cultural heritage",
-          "Natural resources",
-          "Pollination and water purification",
-          "Urban infrastructure"
+          "In the roots.",
+          "In the flowers.",
+          "In the chloroplasts.",
+          "In the soil."
         ],
         "correctIndex": 2,
-        "explain": "生態系統服務包括授粉和水質淨化。"
+        "explain": "光合作用發生在植物細胞的葉綠體中。"
+      },
+      {
+        "q": "What do plants need for photosynthesis?",
+        "options": [
+          "Fertilizer and soil.",
+          "Sunlight and carbon dioxide.",
+          "Oxygen and sugar.",
+          "Water and minerals."
+        ],
+        "correctIndex": 1,
+        "explain": "植物需要陽光和二氧化碳進行光合作用。"
+      },
+      {
+        "q": "Why is photosynthesis important for humans?",
+        "options": [
+          "It creates more carbon dioxide.",
+          "It provides food and oxygen.",
+          "It reduces soil nutrients.",
+          "It produces energy directly for humans."
+        ],
+        "correctIndex": 1,
+        "explain": "光合作用對人類重要，因為它提供食物和氧氣。"
       }
     ]
   }

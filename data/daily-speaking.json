@@ -1,45 +1,45 @@
 {
   "shadowSentences": [
-    "I enjoy reading books in my free time.",
-    "My favorite season is autumn because of the colors.",
-    "Learning a new language can be quite challenging.",
-    "I often go hiking on weekends with my friends.",
-    "Cooking a meal from scratch is very rewarding for me.",
-    "Traveling to new places helps me learn about different cultures.",
-    "Listening to music can improve my mood and focus.",
-    "Volunteering at local shelters is an important part of my life.",
-    "Spending time in nature has many benefits for mental health.",
-    "Having a daily routine helps me stay productive and organized."
+    "I enjoy reading books every day.",
+    "My favorite season is springtime in the park.",
+    "Traveling to new places opens your mind.",
+    "Cooking at home can save you money.",
+    "I often listen to music while studying.",
+    "Volunteering helps people and builds community.",
+    "Regular exercise improves your physical health significantly.",
+    "Exploring different cultures enriches our understanding of life.",
+    "Having a pet can bring joy and companionship.",
+    "Learning a new language can be challenging but rewarding."
   ],
   "interviewScenarios": [
     {
       "topic": "旅行經驗",
       "intro": "You have agreed to take part in a research study about travel experiences.",
       "questions": [
-        "Q1: Can you share a memorable trip you took recently?",
-        "Q2: What challenges did you face during your travels?",
-        "Q3: How do you think traveling impacts a person's perspective on life?",
-        "Q4: What advice would you give someone planning their first trip abroad?"
+        "Q1: Can you share a memorable travel experience you had?",
+        "Q2: What challenges did you face during that trip?",
+        "Q3: How do you feel travel impacts personal growth?",
+        "Q4: What advice would you give to someone planning their first trip?"
       ]
     },
     {
-      "topic": "興趣與愛好",
-      "intro": "You have agreed to take part in a research study about hobbies and interests.",
+      "topic": "環保意識",
+      "intro": "You have agreed to take part in a research study about environmental awareness.",
       "questions": [
-        "Q1: What is a hobby you enjoy and why?",
-        "Q2: Have you encountered any difficulties in pursuing this hobby?",
-        "Q3: In your opinion, how important are hobbies for personal well-being?",
-        "Q4: What recommendations do you have for someone looking to find a new hobby?"
+        "Q1: What is a personal experience that made you more aware of environmental issues?",
+        "Q2: What challenges do you think people face in being eco-friendly?",
+        "Q3: Why do you think environmental awareness is important today?",
+        "Q4: What steps can individuals take to be more environmentally responsible?"
       ]
     },
     {
-      "topic": "學習策略",
-      "intro": "You have agreed to take part in a research study about study strategies.",
+      "topic": "職業選擇",
+      "intro": "You have agreed to take part in a research study about career choices.",
       "questions": [
-        "Q1: What study methods have worked best for you?",
-        "Q2: What obstacles do you face when trying to study effectively?",
-        "Q3: How do you think effective study habits can influence academic success?",
-        "Q4: What advice would you give to someone struggling with their study routine?"
+        "Q1: What influenced your decision when choosing a career?",
+        "Q2: What challenges do you think people face when selecting a job?",
+        "Q3: In your opinion, what factors are most important when choosing a career?",
+        "Q4: What advice would you give to someone unsure about their career path?"
       ]
     }
   ]

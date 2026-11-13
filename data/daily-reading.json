@@ -2,95 +2,103 @@
   "cloze": {
     "segments": [
       {
-        "text": "The process of photosynthesis is essential for plant growth and occurs mainly in the leaves. During this process, plants use sunlight to convert carbon di",
-        "blank": "oxide"
+        "text": "The study of human genetics involves the examination of how genes are inherited, and it plays a crucial role in understanding various diseases. One key concept is the idea of gene ex",
+        "blank": "pression"
       },
       {
-        "text": "and water into glucose, which serves as energy. The byproduct of photosynthesis is oxygen, which is released into the atmosphere. This process is crucial for maintaining the balance of gases in the en",
-        "blank": "vironment"
+        "text": ", which refers to how genes are turned on or off in different cells. This process is regulated by several factors, including envi",
+        "blank": "ronmental"
       },
       {
-        "text": ", as it provides the oxygen that many organisms depend on. Furthermore, photosynthesis also plays a significant role in the carbon cycle, helping to mitigate the effects of cli",
-        "blank": "mate"
+        "text": " conditions and cellular mechanisms. Researchers utilize advanced techniques, such as CRISPR, to manipulate gene ex",
+        "blank": "pression"
       },
       {
-        "text": "change by absorbing carbon dioxide. Understanding photosynthesis is vital, as it supports not only plant life but also the entire ecosystem, highlighting its importance in sustaining life on Earth."
+        "text": ", allowing them to study specific genetic conditions. Understanding gene functions can lead to better treatments for genetic dis",
+        "blank": "orders"
+      },
+      {
+        "text": ", enhancing the quality of life for affected individuals. Moreover, the ethical implications of genetic research are widely debated, particularly concerning gene",
+        "blank": "therapy"
+      },
+      {
+        "text": ", which raises questions about the potential for genetic modification in humans."
       }
     ]
   },
   "academic": {
-    "passage": "Photosynthesis is the biochemical process by which green plants, algae, and some bacteria convert light energy into chemical energy. This process occurs in the chloroplasts, where chlorophyll captures sunlight. The overall equation for photosynthesis can be summarized as: carbon dioxide + water + light energy → glucose + oxygen. This process is essential not only for plant growth but also for life on Earth, as it provides oxygen and serves as the foundation of food chains.",
+    "passage": "Human genetics is a vital field that explores the inheritance of genes and how this knowledge can impact health. By studying gene expression, researchers uncover how genes contribute to diseases. Techniques like CRISPR allow manipulation of genetic material, facilitating insight into conditions that were once poorly understood. The ethical dimensions of this research invite discussion, particularly regarding gene therapy and its implications for future generations.",
     "questions": [
       {
-        "q": "What is the main idea of the passage?",
+        "q": "What is the main focus of human genetics?",
         "options": [
-          "Photosynthesis is crucial for life on Earth.",
-          "Plants use sunlight to grow.",
-          "The process occurs in chloroplasts.",
-          "Oxygen is a byproduct of photosynthesis."
+          "The inheritance of genes",
+          "The study of diseases",
+          "The ethical implications of research",
+          "The impact on agricultural practices"
         ],
         "correctIndex": 0,
-        "explain": "這段文字的主要思想是光合作用對地球生命的重要性。"
+        "explain": "人類遺傳學的主要焦點是基因的遺傳。"
       },
       {
-        "q": "Where does photosynthesis primarily occur?",
+        "q": "Which technique is mentioned as being used in genetic research?",
         "options": [
-          "In the roots.",
-          "In the leaves.",
-          "In the flowers.",
-          "In the soil."
+          "Genome sequencing",
+          "CRISPR",
+          "Gene therapy",
+          "Cell culture"
         ],
         "correctIndex": 1,
-        "explain": "光合作用主要在植物的葉子中進行。"
+        "explain": "文中提到CRISPR技術被用於遺傳研究中。"
       },
       {
-        "q": "What can be inferred about the role of photosynthesis in the carbon cycle?",
+        "q": "What can be inferred about the relationship between gene expression and diseases?",
         "options": [
-          "It has no effect on climate change.",
-          "It helps reduce carbon dioxide levels.",
-          "It increases oxygen levels only.",
-          "It solely benefits plants."
+          "Gene expression is unrelated to diseases.",
+          "Manipulating gene expression can help in disease treatment.",
+          "All diseases are caused by genetic factors.",
+          "Gene expression only affects physical traits."
         ],
         "correctIndex": 1,
-        "explain": "可以推斷光合作用有助於降低二氧化碳水平，這對減緩氣候變化至關重要。"
+        "explain": "可以推測操縱基因表達有助於疾病的治療。"
       },
       {
-        "q": "What does the term 'chloroplasts' refer to in the passage?",
+        "q": "What does the term 'gene therapy' refer to in the passage?",
         "options": [
-          "The part of the plant that absorbs water.",
-          "The site of photosynthesis in the plant.",
-          "The pigment that captures light.",
-          "The energy produced by plants."
+          "A treatment focusing on nutrition",
+          "A method to change gene expression",
+          "A technique for studying genetic disorders",
+          "A way to modify human genes"
         ],
-        "correctIndex": 1,
-        "explain": "在這段文字中，'chloroplasts'指的是植物內進行光合作用的部位。"
+        "correctIndex": 3,
+        "explain": "文中提到基因治療是修改人類基因的一種方式。"
       }
     ]
   },
   "daily": {
-    "passage": "Attention students! The library will be closed this Friday for maintenance. Please plan your study schedule accordingly. We apologize for any inconvenience this may cause.",
+    "passage": "Attention students! The campus library will be closed for maintenance on Saturday, March 5th. Please plan your study accordingly and return any borrowed materials before this date.",
     "questions": [
       {
         "q": "When will the library be closed?",
         "options": [
-          "This Friday.",
-          "Next Monday.",
-          "This Saturday.",
-          "Next Friday."
+          "Saturday, March 5th",
+          "Friday, March 4th",
+          "Sunday, March 6th",
+          "Monday, March 7th"
         ],
         "correctIndex": 0,
-        "explain": "圖書館將在本週五關閉。"
+        "explain": "圖書館將於3月5日星期六關閉。"
       },
       {
-        "q": "Why is the library closing?",
+        "q": "What should students do before the library closes?",
         "options": [
-          "For a special event.",
-          "For maintenance.",
-          "For inventory check.",
-          "For renovation."
+          "Start new projects",
+          "Return borrowed materials",
+          "Attend a workshop",
+          "Take a break"
         ],
         "correctIndex": 1,
-        "explain": "圖書館因為維護而關閉。"
+        "explain": "學生在圖書館關閉之前應該歸還借出的材料。"
       }
     ]
   }
