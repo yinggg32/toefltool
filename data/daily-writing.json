@@ -3,138 +3,126 @@
     {
       "words": [
         "the",
-        "students",
-        "attended",
-        "the",
-        "lecture",
+        "dog",
+        "chewed",
         "on",
-        "environmental",
-        "science"
+        "the",
+        "old",
+        "shoe",
+        "happily"
       ],
-      "display": "The students attended the lecture on environmental science."
+      "display": "The dog chewed on the old shoe happily."
+    },
+    {
+      "words": [
+        "the",
+        "students",
+        "were",
+        "excited",
+        "to",
+        "attend",
+        "the",
+        "concert"
+      ],
+      "display": "The students were excited to attend the concert."
     },
     {
       "words": [
         "she",
-        "enjoys",
-        "reading",
-        "mystery",
-        "novels",
+        "found",
+        "the",
+        "missing",
+        "book",
         "in",
-        "her",
-        "free",
-        "time"
+        "the",
+        "library"
       ],
-      "display": "She enjoys reading mystery novels in her free time."
+      "display": "She found the missing book in the library."
+    },
+    {
+      "words": [
+        "they",
+        "decided",
+        "to",
+        "go",
+        "for",
+        "a",
+        "walk",
+        "together"
+      ],
+      "display": "They decided to go for a walk together."
     },
     {
       "words": [
         "the",
         "team",
-        "worked",
-        "hard",
-        "to",
-        "complete",
+        "will",
+        "practice",
+        "every",
+        "afternoon",
+        "before",
         "the",
-        "project",
-        "on",
-        "time"
+        "tournament"
       ],
-      "display": "The team worked hard to complete the project on time."
-    },
-    {
-      "words": [
-        "he",
-        "decided",
-        "to",
-        "join",
-        "the",
-        "debate",
-        "club",
-        "to",
-        "improve",
-        "his",
-        "public",
-        "speaking"
-      ],
-      "display": "He decided to join the debate club to improve his public speaking."
-    },
-    {
-      "words": [
-        "the",
-        "research",
-        "study",
-        "focused",
-        "on",
-        "the",
-        "effects",
-        "of",
-        "climate",
-        "change"
-      ],
-      "display": "The research study focused on the effects of climate change."
-    },
-    {
-      "words": [
-        "during",
-        "the",
-        "summer",
-        "break",
-        "students",
-        "can",
-        "intern",
-        "or",
-        "travel",
-        "abroad"
-      ],
-      "display": "During the summer break, students can intern or travel abroad."
-    },
-    {
-      "words": [
-        "the",
-        "library",
-        "is",
-        "hosting",
-        "a",
-        "workshop",
-        "on",
-        "time",
-        "management",
-        "next",
-        "week"
-      ],
-      "display": "The library is hosting a workshop on time management next week."
+      "display": "The team will practice every afternoon before the tournament."
     },
     {
       "words": [
         "after",
-        "school",
-        "the",
-        "children",
-        "played",
-        "soccer",
-        "in",
-        "the",
-        "park",
-        "together"
+        "class",
+        "he",
+        "likes",
+        "to",
+        "play",
+        "video",
+        "games"
       ],
-      "display": "After school, the children played soccer in the park together."
+      "display": "After class he likes to play video games."
+    },
+    {
+      "words": [
+        "the",
+        "presentation",
+        "was",
+        "informative",
+        "and",
+        "well",
+        "received",
+        "by",
+        "the",
+        "audience"
+      ],
+      "display": "The presentation was informative and well received by the audience."
+    },
+    {
+      "words": [
+        "they",
+        "are",
+        "planning",
+        "to",
+        "visit",
+        "the",
+        "museum",
+        "next",
+        "week"
+      ],
+      "display": "They are planning to visit the museum next week."
     }
   ],
   "emailPrompts": [
-    "寄信給教授，詢問課程內容的詳細資料。",
-    "寄信給宿舍辦公室，請求修理水管問題。",
-    "寄信給圖書館，詢問如何借書的流程。",
-    "寄信給社團，表達想要加入的意願。",
-    "寄信給客服，反映產品的問題並要求退換貨。",
-    "寄信給系主任，請求關於獎學金的資訊。"
+    "寄信給宿舍辦公室，詢問有關宿舍搬遷的程序。",
+    "寄信給圖書館，請求延長書籍的借閱期限。",
+    "寄信給社團會長，表達希望參加社團活動的意願。",
+    "寄信給教授，請教上課內容的疑問。",
+    "寄信給顧客服務，反映最近購買商品的問題。",
+    "寄信給學校行政，詢問修課的選擇及建議。"
   ],
   "discussionPrompts": [
     "教授問：「你認為科技對教育的影響是正面還是負面？」",
-    "教授問：「在全球化的影響下，文化多樣性是否會消失？」",
-    "教授問：「環境保護和經濟發展之間的平衡應該如何掌握？」",
-    "教授問：「社交媒體對人際關係的影響是什麼？」",
-    "教授問：「應該如何看待人工智慧取代人類工作的未來？」",
-    "教授問：「大學應該如何應對氣候變化的挑戰？」"
+    "教授問：「全球暖化的主要原因是什麼？」",
+    "教授問：「社交媒體對人際關係的影響有多大？」",
+    "教授問：「你認為藝術在現代社會中扮演什麼角色？」",
+    "教授問：「學校應該如何應對學生的心理健康問題？」",
+    "教授問：「你認為移民政策應該如何改變？」"
   ]
 }

@@ -2,103 +2,91 @@
   "cloze": {
     "segments": [
       {
-        "text": "The study of human genetics involves the examination of how genes are inherited, and it plays a crucial role in understanding various diseases. One key concept is the idea of gene ex",
-        "blank": "pression"
+        "text": "The process of photosynthesis is essential for life on Earth. It begins when plants absorb sunlight through their leaves, using the energy to convert carbon di",
+        "blank": "oxide"
       },
       {
-        "text": ", which refers to how genes are turned on or off in different cells. This process is regulated by several factors, including envi",
-        "blank": "ronmental"
+        "text": " and water into glucose and oxygen. This process not only provides energy for plants but also produces oxygen, which is crucial for the survival of most living organisms. Photosynthesis occurs in two stages: the light-dependent reactions and the light-independent reactions, commonly known as the Calvin cy",
+        "blank": "cle"
       },
       {
-        "text": " conditions and cellular mechanisms. Researchers utilize advanced techniques, such as CRISPR, to manipulate gene ex",
-        "blank": "pression"
-      },
-      {
-        "text": ", allowing them to study specific genetic conditions. Understanding gene functions can lead to better treatments for genetic dis",
-        "blank": "orders"
-      },
-      {
-        "text": ", enhancing the quality of life for affected individuals. Moreover, the ethical implications of genetic research are widely debated, particularly concerning gene",
-        "blank": "therapy"
-      },
-      {
-        "text": ", which raises questions about the potential for genetic modification in humans."
+        "text": ". These processes allow plants to harness solar energy and are fundamental to the Earth's ecosystem."
       }
     ]
   },
   "academic": {
-    "passage": "Human genetics is a vital field that explores the inheritance of genes and how this knowledge can impact health. By studying gene expression, researchers uncover how genes contribute to diseases. Techniques like CRISPR allow manipulation of genetic material, facilitating insight into conditions that were once poorly understood. The ethical dimensions of this research invite discussion, particularly regarding gene therapy and its implications for future generations.",
+    "passage": "Photosynthesis is a vital process carried out by plants, algae, and some bacteria, converting light energy into chemical energy stored in glucose. This process occurs mainly in the chloroplasts of plant cells and is critical for producing oxygen as a byproduct. The overall equation of photosynthesis can be summarized as carbon dioxide plus water, in the presence of light, yielding glucose and oxygen. Understanding photosynthesis is important for fields ranging from agriculture to renewable energy, as it underpins the food chain and impacts global carbon cycles.",
     "questions": [
       {
-        "q": "What is the main focus of human genetics?",
+        "q": "What is the main idea of the passage?",
         "options": [
-          "The inheritance of genes",
-          "The study of diseases",
-          "The ethical implications of research",
-          "The impact on agricultural practices"
+          "Photosynthesis is essential for life.",
+          "Chloroplasts are critical for energy storage.",
+          "Oxygen production is vital for organisms.",
+          "Bacteria play a significant role in photosynthesis."
         ],
         "correctIndex": 0,
-        "explain": "人類遺傳學的主要焦點是基因的遺傳。"
+        "explain": "這段文字的主旨是說光合作用對生命是必不可少的。"
       },
       {
-        "q": "Which technique is mentioned as being used in genetic research?",
+        "q": "Where does photosynthesis primarily take place?",
         "options": [
-          "Genome sequencing",
-          "CRISPR",
-          "Gene therapy",
-          "Cell culture"
+          "In the roots of plants.",
+          "In the chloroplasts of plant cells.",
+          "In the soil.",
+          "In all living organisms."
         ],
         "correctIndex": 1,
-        "explain": "文中提到CRISPR技術被用於遺傳研究中。"
+        "explain": "光合作用主要發生在植物細胞的葉綠體中。"
       },
       {
-        "q": "What can be inferred about the relationship between gene expression and diseases?",
+        "q": "What can be inferred about the importance of photosynthesis in agriculture?",
         "options": [
-          "Gene expression is unrelated to diseases.",
-          "Manipulating gene expression can help in disease treatment.",
-          "All diseases are caused by genetic factors.",
-          "Gene expression only affects physical traits."
+          "It reduces the need for fertilizers.",
+          "It helps in producing food and oxygen.",
+          "It increases soil contamination.",
+          "It eliminates pests naturally."
         ],
         "correctIndex": 1,
-        "explain": "可以推測操縱基因表達有助於疾病的治療。"
+        "explain": "光合作用對農業的重要性在於它有助於生產食物和氧氣。"
       },
       {
-        "q": "What does the term 'gene therapy' refer to in the passage?",
+        "q": "What does the term 'chemical energy' refer to in the context of photosynthesis?",
         "options": [
-          "A treatment focusing on nutrition",
-          "A method to change gene expression",
-          "A technique for studying genetic disorders",
-          "A way to modify human genes"
+          "Energy from sunlight.",
+          "Energy stored in glucose.",
+          "Energy lost as heat.",
+          "Energy used for respiration."
         ],
-        "correctIndex": 3,
-        "explain": "文中提到基因治療是修改人類基因的一種方式。"
+        "correctIndex": 1,
+        "explain": "在光合作用的背景下，'化學能量'指的是儲存在葡萄糖中的能量。"
       }
     ]
   },
   "daily": {
-    "passage": "Attention students! The campus library will be closed for maintenance on Saturday, March 5th. Please plan your study accordingly and return any borrowed materials before this date.",
+    "passage": "Attention students: The library will be closed for renovations from April 1 to April 15. During this time, all book returns and checkouts will be handled at the student center. We apologize for any inconvenience and appreciate your understanding.",
     "questions": [
       {
-        "q": "When will the library be closed?",
+        "q": "When will the library be closed for renovations?",
         "options": [
-          "Saturday, March 5th",
-          "Friday, March 4th",
-          "Sunday, March 6th",
-          "Monday, March 7th"
-        ],
-        "correctIndex": 0,
-        "explain": "圖書館將於3月5日星期六關閉。"
-      },
-      {
-        "q": "What should students do before the library closes?",
-        "options": [
-          "Start new projects",
-          "Return borrowed materials",
-          "Attend a workshop",
-          "Take a break"
+          "March 1 to March 15",
+          "April 1 to April 15",
+          "May 1 to May 15",
+          "June 1 to June 15"
         ],
         "correctIndex": 1,
-        "explain": "學生在圖書館關閉之前應該歸還借出的材料。"
+        "explain": "圖書館將在四月一日至四月十五日關閉。"
+      },
+      {
+        "q": "Where can students return or check out books during the renovation?",
+        "options": [
+          "At the main entrance",
+          "At the student center",
+          "At the local bookstore",
+          "Online only"
+        ],
+        "correctIndex": 1,
+        "explain": "在翻修期間，學生可以在學生中心歸還或借閱書籍。"
       }
     ]
   }

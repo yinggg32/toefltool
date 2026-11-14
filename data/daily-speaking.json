@@ -1,45 +1,45 @@
 {
   "shadowSentences": [
-    "I enjoy reading books every day.",
-    "My favorite season is springtime in the park.",
-    "Traveling to new places opens your mind.",
-    "Cooking at home can save you money.",
-    "I often listen to music while studying.",
-    "Volunteering helps people and builds community.",
-    "Regular exercise improves your physical health significantly.",
-    "Exploring different cultures enriches our understanding of life.",
-    "Having a pet can bring joy and companionship.",
-    "Learning a new language can be challenging but rewarding."
+    "The sun is shining brightly today.",
+    "I enjoy reading books in my free time.",
+    "My favorite season is autumn because of the colors.",
+    "She often goes for a walk after dinner to relax.",
+    "Cooking at home can be a fun and rewarding experience.",
+    "Many people prefer working in teams rather than alone.",
+    "Traveling to new places helps broaden your perspective.",
+    "Listening to music can improve your mood and focus.",
+    "Choosing a good study environment can enhance your learning.",
+    "Developing a daily routine can lead to better productivity."
   ],
   "interviewScenarios": [
     {
-      "topic": "旅行經驗",
-      "intro": "You have agreed to take part in a research study about travel experiences.",
+      "topic": "運動習慣",
+      "intro": "You have agreed to take part in a research study about exercise habits.",
       "questions": [
-        "Q1: Can you share a memorable travel experience you had?",
-        "Q2: What challenges did you face during that trip?",
-        "Q3: How do you feel travel impacts personal growth?",
-        "Q4: What advice would you give to someone planning their first trip?"
+        "Q1: Can you tell me about your exercise routine?",
+        "Q2: What challenges do you face in maintaining that routine?",
+        "Q3: How important do you think exercise is for overall health?",
+        "Q4: What advice would you give someone starting to exercise?"
       ]
     },
     {
-      "topic": "環保意識",
-      "intro": "You have agreed to take part in a research study about environmental awareness.",
+      "topic": "志願服務",
+      "intro": "You have agreed to take part in a research study about volunteering.",
       "questions": [
-        "Q1: What is a personal experience that made you more aware of environmental issues?",
-        "Q2: What challenges do you think people face in being eco-friendly?",
-        "Q3: Why do you think environmental awareness is important today?",
-        "Q4: What steps can individuals take to be more environmentally responsible?"
+        "Q1: Have you ever volunteered for a community service project?",
+        "Q2: What do you think makes volunteering challenging for some people?",
+        "Q3: In your opinion, how does volunteering benefit the community?",
+        "Q4: What would you suggest to someone considering volunteering?"
       ]
     },
     {
-      "topic": "職業選擇",
-      "intro": "You have agreed to take part in a research study about career choices.",
+      "topic": "數位學習",
+      "intro": "You have agreed to take part in a research study about digital learning.",
       "questions": [
-        "Q1: What influenced your decision when choosing a career?",
-        "Q2: What challenges do you think people face when selecting a job?",
-        "Q3: In your opinion, what factors are most important when choosing a career?",
-        "Q4: What advice would you give to someone unsure about their career path?"
+        "Q1: What has been your experience with online learning?",
+        "Q2: What difficulties have you encountered with digital platforms?",
+        "Q3: How do you feel about the effectiveness of digital learning?",
+        "Q4: What tips would you give to someone new to online courses?"
       ]
     }
   ]

@@ -1,116 +1,116 @@
 {
   "chooseResponse": [
     {
-      "q": "What do you think about the new library hours?",
+      "q": "What time is the meeting tomorrow?",
       "options": [
-        "They're great!",
-        "I disagree.",
-        "I haven't noticed.",
-        "They're too late."
+        "At 10 AM.",
+        "In the library.",
+        "With the professor.",
+        "On Thursday."
       ],
       "correctIndex": 0
     }
   ],
   "conversation": {
-    "transcript": "Student: Have you checked out the new study rooms in the library?\nAdvisor: Yes, I just saw them yesterday. They look really nice!\nStudent: I heard they're equipped with smart boards.\nAdvisor: That's true! They should be really helpful for group projects.",
+    "transcript": "Student: Hi, do you know where the art exhibition is being held?\nAdvisor: Yes, it's at the student center.\nStudent: Great! Do I need a ticket?\nAdvisor: No, it's free for all students.",
     "questions": [
       {
-        "q": "What did the student mention about the study rooms?",
+        "q": "Where is the art exhibition?",
         "options": [
-          "They're noisy.",
-          "They're equipped with smart boards.",
-          "They're too small.",
-          "They're not open yet."
+          "At the student center.",
+          "In the library.",
+          "At the gym.",
+          "In the cafeteria."
         ],
-        "correctIndex": 1,
-        "explain": "學生提到新研究室配備了智慧白板。"
+        "correctIndex": 0,
+        "explain": "展覽在學生中心舉行。"
       },
       {
-        "q": "How does the advisor feel about the study rooms?",
+        "q": "Do students need to pay for tickets?",
         "options": [
-          "They are not impressive.",
-          "They look nice.",
-          "They are too crowded.",
-          "They are not useful."
+          "Yes, they do.",
+          "No, it's free.",
+          "Only for guests.",
+          "Only for members."
         ],
         "correctIndex": 1,
-        "explain": "顧問認為這些研究室看起來真的很不錯。"
+        "explain": "學生不需要支付票價，免費入場。"
       }
     ]
   },
   "announcement": {
-    "transcript": "Attention students: The university will host a career fair this Friday in the student center from 10 AM to 3 PM. Many companies will be attending, so be sure to bring your resumes and dress professionally. Don't miss this opportunity to network and explore job options!",
+    "transcript": "Attention students! The library will be closing early today at 5 PM for maintenance. Please plan your study time accordingly. We apologize for any inconvenience and thank you for your understanding.",
     "questions": [
       {
-        "q": "When is the career fair scheduled?",
+        "q": "Why is the library closing early?",
         "options": [
-          "This Saturday.",
-          "Next Friday.",
-          "This Friday.",
-          "Next Monday."
+          "For maintenance.",
+          "For a special event.",
+          "For holiday preparations.",
+          "For cleaning."
         ],
-        "correctIndex": 2,
-        "explain": "職業博覽會定於本週五舉行。"
+        "correctIndex": 0,
+        "explain": "圖書館因為維護而提前關閉。"
       },
       {
-        "q": "What should students bring to the career fair?",
+        "q": "What time will the library close today?",
         "options": [
-          "Books and notes.",
-          "Their resumes.",
-          "Food and drinks.",
-          "Casual clothes."
+          "At 5 PM.",
+          "At 6 PM.",
+          "At 4 PM.",
+          "At 7 PM."
         ],
-        "correctIndex": 1,
-        "explain": "學生應帶上他們的履歷。"
+        "correctIndex": 0,
+        "explain": "今天圖書館將在下午五點關閉。"
       }
     ]
   },
   "talk": {
-    "transcript": "Today, we will discuss the process of photosynthesis, which is fundamental to plant life. Photosynthesis occurs in the chloroplasts of plant cells, where sunlight is converted into chemical energy. This process uses carbon dioxide from the air and water from the soil to produce glucose and oxygen. The overall equation can be summarized as: carbon dioxide plus water, in the presence of sunlight, yields glucose and oxygen. This not only provides energy for plants but also produces the oxygen we breathe, making it essential for life on Earth.",
+    "transcript": "Today, I want to discuss the concept of renewable energy. Renewable energy comes from natural sources that are constantly replenished, such as sunlight, wind, and water. Unlike fossil fuels, which can take millions of years to form and are limited in supply, renewable energy sources are abundant and sustainable. Using renewable energy can help reduce greenhouse gas emissions and combat climate change. Additionally, it can provide energy security and drive economic growth by creating jobs in the green technology sector. As we move forward, transitioning to renewable energy sources is crucial for a sustainable future.",
     "questions": [
       {
-        "q": "What is produced during photosynthesis?",
+        "q": "What is renewable energy?",
         "options": [
-          "Carbon dioxide.",
-          "Glucose and oxygen.",
-          "Water.",
-          "Chlorophyll."
+          "Energy from natural sources.",
+          "Energy from fossil fuels.",
+          "Energy used in offices.",
+          "Energy only from solar panels."
         ],
-        "correctIndex": 1,
-        "explain": "光合作用產生葡萄糖和氧氣。"
+        "correctIndex": 0,
+        "explain": "可再生能源來自不斷再生的自然資源。"
       },
       {
-        "q": "Where does photosynthesis occur?",
+        "q": "Why is renewable energy important?",
         "options": [
-          "In the roots.",
-          "In the flowers.",
-          "In the chloroplasts.",
-          "In the soil."
+          "It reduces emissions.",
+          "It is always available.",
+          "It costs less than coal.",
+          "It is used by everyone."
         ],
-        "correctIndex": 2,
-        "explain": "光合作用發生在植物細胞的葉綠體中。"
+        "correctIndex": 0,
+        "explain": "可再生能源有助於減少溫室氣體排放。"
       },
       {
-        "q": "What do plants need for photosynthesis?",
+        "q": "What is one benefit mentioned about renewable energy?",
         "options": [
-          "Fertilizer and soil.",
-          "Sunlight and carbon dioxide.",
-          "Oxygen and sugar.",
-          "Water and minerals."
+          "It creates jobs.",
+          "It uses less water.",
+          "It is easy to store.",
+          "It needs no land."
         ],
-        "correctIndex": 1,
-        "explain": "植物需要陽光和二氧化碳進行光合作用。"
+        "correctIndex": 0,
+        "explain": "可再生能源創造了綠色技術領域的工作機會。"
       },
       {
-        "q": "Why is photosynthesis important for humans?",
+        "q": "Which source is NOT considered renewable?",
         "options": [
-          "It creates more carbon dioxide.",
-          "It provides food and oxygen.",
-          "It reduces soil nutrients.",
-          "It produces energy directly for humans."
+          "Fossil fuels.",
+          "Wind.",
+          "Solar.",
+          "Hydro."
         ],
-        "correctIndex": 1,
-        "explain": "光合作用對人類重要，因為它提供食物和氧氣。"
+        "correctIndex": 0,
+        "explain": "化石燃料不被視為可再生能源。"
       }
     ]
   }

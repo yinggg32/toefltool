@@ -10542,5 +10542,37 @@
     "zh": "納米技術",
     "ex": "Nanotechnology is being explored for various applications in space exploration.",
     "cat": "📰 每日新詞：astronomy and space science"
+  },
+  {
+    "word": "subjective",
+    "pos": "adj.",
+    "root": "subiectus (主觀的)",
+    "zh": "主觀的",
+    "ex": "Subjective experiences shape individual perceptions of reality.",
+    "cat": "📰 每日新詞：philosophy"
+  },
+  {
+    "word": "objective",
+    "pos": "adj.",
+    "root": "objectus (客觀的)",
+    "zh": "客觀的",
+    "ex": "Objective truths are those that exist independently of individual beliefs.",
+    "cat": "📰 每日新詞：philosophy"
+  },
+  {
+    "word": "existentialist",
+    "pos": "n.",
+    "root": "existere (存在) + ist (主義者)",
+    "zh": "存在主義者",
+    "ex": "An existentialist philosopher explores the individual's search for meaning in an absurd world.",
+    "cat": "📰 每日新詞：philosophy"
+  },
+  {
+    "word": "metaphysical",
+    "pos": "adj.",
+    "root": "meta (超越) + physika (物理的)",
+    "zh": "形而上學的",
+    "ex": "Metaphysical inquiries often address questions that lie beyond the physical realm.",
+    "cat": "📰 每日新詞：philosophy"
   }
 ]
