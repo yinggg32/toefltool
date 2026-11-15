@@ -1,116 +1,116 @@
 {
   "chooseResponse": [
     {
-      "q": "What time is the meeting tomorrow?",
+      "q": "What did you think of the presentation?",
       "options": [
-        "At 10 AM.",
-        "In the library.",
-        "With the professor.",
-        "On Thursday."
+        "It was very informative.",
+        "I didn't like it.",
+        "It was too long.",
+        "I fell asleep."
       ],
       "correctIndex": 0
     }
   ],
   "conversation": {
-    "transcript": "Student: Hi, do you know where the art exhibition is being held?\nAdvisor: Yes, it's at the student center.\nStudent: Great! Do I need a ticket?\nAdvisor: No, it's free for all students.",
+    "transcript": "Student: Did you attend the guest lecture on climate change?\nAdvisor: Yes, I thought it was really engaging. What about you?\nStudent: I missed it. Was it worth going?\nAdvisor: Definitely! The speaker had some great insights on renewable energy.",
     "questions": [
       {
-        "q": "Where is the art exhibition?",
+        "q": "What did the advisor think of the lecture?",
         "options": [
-          "At the student center.",
-          "In the library.",
-          "At the gym.",
-          "In the cafeteria."
+          "It was engaging.",
+          "It was boring.",
+          "It was too short.",
+          "It was confusing."
         ],
         "correctIndex": 0,
-        "explain": "展覽在學生中心舉行。"
+        "explain": "顧問覺得演講非常引人入勝。"
       },
       {
-        "q": "Do students need to pay for tickets?",
+        "q": "What topic was discussed in the lecture?",
         "options": [
-          "Yes, they do.",
-          "No, it's free.",
-          "Only for guests.",
-          "Only for members."
+          "Climate change.",
+          "Artificial intelligence.",
+          "Social media.",
+          "Globalization."
         ],
-        "correctIndex": 1,
-        "explain": "學生不需要支付票價，免費入場。"
+        "correctIndex": 0,
+        "explain": "演講的主題是氣候變化。"
       }
     ]
   },
   "announcement": {
-    "transcript": "Attention students! The library will be closing early today at 5 PM for maintenance. Please plan your study time accordingly. We apologize for any inconvenience and thank you for your understanding.",
+    "transcript": "Attention students, the library will be hosting a special event this Friday at 3 PM. Join us for a workshop on research skills where you will learn effective strategies for academic writing and citation. Refreshments will be provided. Don't miss out!",
     "questions": [
       {
-        "q": "Why is the library closing early?",
+        "q": "What is the event about?",
         "options": [
-          "For maintenance.",
-          "For a special event.",
-          "For holiday preparations.",
-          "For cleaning."
+          "Research skills workshop.",
+          "Art exhibition.",
+          "Study group meeting.",
+          "Guest lecture."
         ],
         "correctIndex": 0,
-        "explain": "圖書館因為維護而提前關閉。"
+        "explain": "活動是關於研究技能的工作坊。"
       },
       {
-        "q": "What time will the library close today?",
+        "q": "When will the event take place?",
         "options": [
-          "At 5 PM.",
-          "At 6 PM.",
-          "At 4 PM.",
-          "At 7 PM."
+          "This Friday at 3 PM.",
+          "Next Monday at 1 PM.",
+          "Tomorrow at 2 PM.",
+          "This weekend at noon."
         ],
         "correctIndex": 0,
-        "explain": "今天圖書館將在下午五點關閉。"
+        "explain": "活動將在本週五下午三點舉行。"
       }
     ]
   },
   "talk": {
-    "transcript": "Today, I want to discuss the concept of renewable energy. Renewable energy comes from natural sources that are constantly replenished, such as sunlight, wind, and water. Unlike fossil fuels, which can take millions of years to form and are limited in supply, renewable energy sources are abundant and sustainable. Using renewable energy can help reduce greenhouse gas emissions and combat climate change. Additionally, it can provide energy security and drive economic growth by creating jobs in the green technology sector. As we move forward, transitioning to renewable energy sources is crucial for a sustainable future.",
+    "transcript": "Today, we will discuss the concept of 'cognitive dissonance.' This psychological theory suggests that when individuals experience conflicting beliefs or behaviors, they feel discomfort or tension. For example, if a person believes that smoking is harmful yet continues to smoke, they may feel a disparity between their actions and beliefs. To alleviate this discomfort, individuals often change their beliefs or rationalize their behaviors. Understanding cognitive dissonance can help in recognizing how people justify their decisions and actions.",
     "questions": [
       {
-        "q": "What is renewable energy?",
+        "q": "What is cognitive dissonance?",
         "options": [
-          "Energy from natural sources.",
-          "Energy from fossil fuels.",
-          "Energy used in offices.",
-          "Energy only from solar panels."
+          "Conflict between beliefs and behaviors.",
+          "A type of memory recall.",
+          "A learning strategy.",
+          "An emotional response."
         ],
         "correctIndex": 0,
-        "explain": "可再生能源來自不斷再生的自然資源。"
+        "explain": "認知失調是信念和行為之間的衝突。"
       },
       {
-        "q": "Why is renewable energy important?",
+        "q": "What example is given in the talk?",
         "options": [
-          "It reduces emissions.",
-          "It is always available.",
-          "It costs less than coal.",
-          "It is used by everyone."
+          "A smoker who knows it’s harmful.",
+          "A student studying for exams.",
+          "A person exercising regularly.",
+          "A chef preparing a meal."
         ],
         "correctIndex": 0,
-        "explain": "可再生能源有助於減少溫室氣體排放。"
+        "explain": "舉的例子是一位知道吸煙有害的吸煙者。"
       },
       {
-        "q": "What is one benefit mentioned about renewable energy?",
+        "q": "What do individuals often do to reduce dissonance?",
         "options": [
-          "It creates jobs.",
-          "It uses less water.",
-          "It is easy to store.",
-          "It needs no land."
+          "Change their beliefs or rationalize behaviors.",
+          "Ignore the conflict.",
+          "Seek advice from others.",
+          "Increase tension."
         ],
         "correctIndex": 0,
-        "explain": "可再生能源創造了綠色技術領域的工作機會。"
+        "explain": "個體通常改變信念或合理化行為以減少認知失調。"
       },
       {
-        "q": "Which source is NOT considered renewable?",
+        "q": "Why is understanding cognitive dissonance important?",
         "options": [
-          "Fossil fuels.",
-          "Wind.",
-          "Solar.",
-          "Hydro."
+          "It helps in recognizing justifications for decisions.",
+          "It explains emotional reactions.",
+          "It provides learning techniques.",
+          "It measures memory accuracy."
         ],
         "correctIndex": 0,
-        "explain": "化石燃料不被視為可再生能源。"
+        "explain": "理解認知失調有助於認識人們如何為他們的決策和行為辯護。"
       }
     ]
   }

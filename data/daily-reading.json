@@ -2,91 +2,113 @@
   "cloze": {
     "segments": [
       {
-        "text": "The process of photosynthesis is essential for life on Earth. It begins when plants absorb sunlight through their leaves, using the energy to convert carbon di",
-        "blank": "oxide"
+        "text": "The process of phot"
       },
       {
-        "text": " and water into glucose and oxygen. This process not only provides energy for plants but also produces oxygen, which is crucial for the survival of most living organisms. Photosynthesis occurs in two stages: the light-dependent reactions and the light-independent reactions, commonly known as the Calvin cy",
-        "blank": "cle"
+        "blank": "osynthesis"
       },
       {
-        "text": ". These processes allow plants to harness solar energy and are fundamental to the Earth's ecosystem."
+        "text": " is essential for life on Earth. Through this process, plants convert light energy into chemical energy, producing "
+      },
+      {
+        "blank": "glucose"
+      },
+      {
+        "text": ", which serves as food. During photosynthesis, plants also release oxygen as a byproduct, contributing to the "
+      },
+      {
+        "blank": "atmosphere"
+      },
+      {
+        "text": ". This complex process involves pigments, primarily chlorophyll, which capture light energy. In the presence of carbon "
+      },
+      {
+        "blank": "dioxide"
+      },
+      {
+        "text": ", water is also utilized to create the necessary substrates for glucose formation. Therefore, photosynthesis is not only vital for plants but also plays a crucial role in "
+      },
+      {
+        "blank": "ecosystems"
+      },
+      {
+        "text": ", supporting a wide range of life forms."
       }
     ]
   },
   "academic": {
-    "passage": "Photosynthesis is a vital process carried out by plants, algae, and some bacteria, converting light energy into chemical energy stored in glucose. This process occurs mainly in the chloroplasts of plant cells and is critical for producing oxygen as a byproduct. The overall equation of photosynthesis can be summarized as carbon dioxide plus water, in the presence of light, yielding glucose and oxygen. Understanding photosynthesis is important for fields ranging from agriculture to renewable energy, as it underpins the food chain and impacts global carbon cycles.",
+    "passage": "Photosynthesis is a critical process whereby green plants, algae, and certain bacteria convert light energy into chemical energy. During this process, carbon dioxide and water are transformed into glucose and oxygen, making it fundamental for sustaining life. This process occurs mainly in chloroplasts, where chlorophyll captures sunlight. The oxygen released is essential for the survival of aerobic organisms. Additionally, the glucose produced serves as an energy source for growth, reproduction, and various metabolic activities.",
     "questions": [
       {
         "q": "What is the main idea of the passage?",
         "options": [
           "Photosynthesis is essential for life.",
-          "Chloroplasts are critical for energy storage.",
-          "Oxygen production is vital for organisms.",
-          "Bacteria play a significant role in photosynthesis."
+          "Chlorophyll captures sunlight for plants.",
+          "Oxygen is vital for aerobic organisms.",
+          "Glucose is produced during plant growth."
         ],
         "correctIndex": 0,
-        "explain": "這段文字的主旨是說光合作用對生命是必不可少的。"
+        "explain": "這段文字的主題是光合作用對生命的重要性。"
       },
       {
-        "q": "Where does photosynthesis primarily take place?",
+        "q": "What do plants produce during photosynthesis?",
         "options": [
-          "In the roots of plants.",
-          "In the chloroplasts of plant cells.",
-          "In the soil.",
-          "In all living organisms."
+          "Carbon dioxide",
+          "Sunlight",
+          "Glucose",
+          "Chlorophyll"
         ],
-        "correctIndex": 1,
-        "explain": "光合作用主要發生在植物細胞的葉綠體中。"
+        "correctIndex": 2,
+        "explain": "植物在光合作用過程中產生葡萄糖。"
       },
       {
-        "q": "What can be inferred about the importance of photosynthesis in agriculture?",
+        "q": "Why is oxygen released during photosynthesis?",
         "options": [
-          "It reduces the need for fertilizers.",
-          "It helps in producing food and oxygen.",
-          "It increases soil contamination.",
-          "It eliminates pests naturally."
+          "It is used by plants.",
+          "It is a byproduct of the process.",
+          "It helps in plant growth.",
+          "It attracts sunlight."
         ],
         "correctIndex": 1,
-        "explain": "光合作用對農業的重要性在於它有助於生產食物和氧氣。"
+        "explain": "氧氣是光合作用的副產品。"
       },
       {
-        "q": "What does the term 'chemical energy' refer to in the context of photosynthesis?",
+        "q": "What is the role of chlorophyll in photosynthesis?",
         "options": [
-          "Energy from sunlight.",
-          "Energy stored in glucose.",
-          "Energy lost as heat.",
-          "Energy used for respiration."
+          "It absorbs nutrients.",
+          "It captures light energy.",
+          "It protects the plant.",
+          "It produces glucose."
         ],
         "correctIndex": 1,
-        "explain": "在光合作用的背景下，'化學能量'指的是儲存在葡萄糖中的能量。"
+        "explain": "葉綠素在光合作用中吸收光能。"
       }
     ]
   },
   "daily": {
-    "passage": "Attention students: The library will be closed for renovations from April 1 to April 15. During this time, all book returns and checkouts will be handled at the student center. We apologize for any inconvenience and appreciate your understanding.",
+    "passage": "Attention students! The library will be closed for renovations from September 1st to September 15th. Please plan accordingly to ensure you have access to all necessary resources before this date. Thank you for your understanding!",
     "questions": [
       {
-        "q": "When will the library be closed for renovations?",
+        "q": "When will the library be closed?",
         "options": [
-          "March 1 to March 15",
-          "April 1 to April 15",
-          "May 1 to May 15",
-          "June 1 to June 15"
+          "August 1st to August 15th",
+          "September 1st to September 15th",
+          "October 1st to October 15th",
+          "November 1st to November 15th"
         ],
         "correctIndex": 1,
-        "explain": "圖書館將在四月一日至四月十五日關閉。"
+        "explain": "圖書館將在九月一日至九月十五日關閉。"
       },
       {
-        "q": "Where can students return or check out books during the renovation?",
+        "q": "What should students do before the closure?",
         "options": [
-          "At the main entrance",
-          "At the student center",
-          "At the local bookstore",
-          "Online only"
+          "Return all books",
+          "Use the library for resources",
+          "Attend a workshop",
+          "Take a break"
         ],
         "correctIndex": 1,
-        "explain": "在翻修期間，學生可以在學生中心歸還或借閱書籍。"
+        "explain": "學生應在關閉之前確保能夠使用所有必要的資源。"
       }
     ]
   }

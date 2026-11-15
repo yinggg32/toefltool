@@ -1,45 +1,45 @@
 {
   "shadowSentences": [
-    "The sun is shining brightly today.",
-    "I enjoy reading books in my free time.",
+    "I enjoy reading books in the park.",
     "My favorite season is autumn because of the colors.",
-    "She often goes for a walk after dinner to relax.",
-    "Cooking at home can be a fun and rewarding experience.",
-    "Many people prefer working in teams rather than alone.",
-    "Traveling to new places helps broaden your perspective.",
-    "Listening to music can improve your mood and focus.",
-    "Choosing a good study environment can enhance your learning.",
-    "Developing a daily routine can lead to better productivity."
+    "I like to cook new recipes on weekends.",
+    "Traveling to new places is always an adventure.",
+    "Hiking helps me relax and appreciate nature.",
+    "I often listen to music while studying for exams.",
+    "Gardening has become my new favorite hobby this year.",
+    "Spending time with friends makes my weekends special.",
+    "I try to exercise regularly to stay healthy and fit.",
+    "Volunteering at the local animal shelter brings me joy."
   ],
   "interviewScenarios": [
     {
-      "topic": "運動習慣",
-      "intro": "You have agreed to take part in a research study about exercise habits.",
+      "topic": "飲食習慣",
+      "intro": "You have agreed to take part in a research study about eating habits.",
       "questions": [
-        "Q1: Can you tell me about your exercise routine?",
-        "Q2: What challenges do you face in maintaining that routine?",
-        "Q3: How important do you think exercise is for overall health?",
-        "Q4: What advice would you give someone starting to exercise?"
+        "Q1: Can you describe your typical daily meals?",
+        "Q2: What challenges do you face when trying to eat healthy?",
+        "Q3: How important do you think eating habits are for overall well-being?",
+        "Q4: What advice would you give someone trying to improve their eating habits?"
       ]
     },
     {
-      "topic": "志願服務",
-      "intro": "You have agreed to take part in a research study about volunteering.",
+      "topic": "學習方法",
+      "intro": "You have agreed to take part in a research study about study methods.",
       "questions": [
-        "Q1: Have you ever volunteered for a community service project?",
-        "Q2: What do you think makes volunteering challenging for some people?",
-        "Q3: In your opinion, how does volunteering benefit the community?",
-        "Q4: What would you suggest to someone considering volunteering?"
+        "Q1: What study techniques do you use to prepare for exams?",
+        "Q2: Have you encountered any difficulties while studying?",
+        "Q3: In your opinion, what is the most effective study method?",
+        "Q4: What tips would you offer to someone struggling with their studies?"
       ]
     },
     {
-      "topic": "數位學習",
-      "intro": "You have agreed to take part in a research study about digital learning.",
+      "topic": "旅行計畫",
+      "intro": "You have agreed to take part in a research study about travel planning.",
       "questions": [
-        "Q1: What has been your experience with online learning?",
-        "Q2: What difficulties have you encountered with digital platforms?",
-        "Q3: How do you feel about the effectiveness of digital learning?",
-        "Q4: What tips would you give to someone new to online courses?"
+        "Q1: Can you share your favorite travel destination and why?",
+        "Q2: What challenges do you face when planning a trip?",
+        "Q3: How do you think travel experiences influence personal growth?",
+        "Q4: What recommendations would you give for someone planning their first trip?"
       ]
     }
   ]

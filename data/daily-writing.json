@@ -3,126 +3,125 @@
     {
       "words": [
         "the",
-        "dog",
-        "chewed",
-        "on",
-        "the",
-        "old",
-        "shoe",
-        "happily"
-      ],
-      "display": "The dog chewed on the old shoe happily."
-    },
-    {
-      "words": [
-        "the",
         "students",
-        "were",
-        "excited",
         "to",
-        "attend",
-        "the",
-        "concert"
-      ],
-      "display": "The students were excited to attend the concert."
-    },
-    {
-      "words": [
-        "she",
-        "found",
-        "the",
-        "missing",
-        "book",
+        "learn",
+        "important",
+        "concepts",
         "in",
-        "the",
-        "library"
+        "class"
       ],
-      "display": "She found the missing book in the library."
+      "display": "The students learn important concepts in class."
     },
     {
       "words": [
-        "they",
-        "decided",
-        "to",
-        "go",
+        "the",
+        "researchers",
+        "presented",
+        "their",
+        "findings",
+        "at",
+        "the",
+        "conference"
+      ],
+      "display": "The researchers presented their findings at the conference."
+    },
+    {
+      "words": [
+        "it",
+        "is",
+        "essential",
         "for",
-        "a",
-        "walk",
+        "students",
+        "to",
+        "participate",
+        "actively"
+      ],
+      "display": "It is essential for students to participate actively."
+    },
+    {
+      "words": [
+        "the",
+        "professor",
+        "encouraged",
+        "discussion",
+        "during",
+        "the",
+        "lecture",
+        "today"
+      ],
+      "display": "The professor encouraged discussion during the lecture today."
+    },
+    {
+      "words": [
+        "many",
+        "students",
+        "prefer",
+        "to",
+        "study",
+        "in",
+        "groups",
         "together"
       ],
-      "display": "They decided to go for a walk together."
+      "display": "Many students prefer to study together in groups."
     },
     {
       "words": [
         "the",
-        "team",
-        "will",
-        "practice",
-        "every",
-        "afternoon",
-        "before",
-        "the",
-        "tournament"
+        "library",
+        "offers",
+        "a",
+        "variety",
+        "of",
+        "resources",
+        "for",
+        "research"
       ],
-      "display": "The team will practice every afternoon before the tournament."
+      "display": "The library offers a variety of resources for research."
     },
     {
       "words": [
-        "after",
-        "class",
-        "he",
-        "likes",
-        "to",
-        "play",
-        "video",
-        "games"
+        "online",
+        "courses",
+        "have",
+        "become",
+        "more",
+        "popular",
+        "in",
+        "recent",
+        "years"
       ],
-      "display": "After class he likes to play video games."
+      "display": "Online courses have become more popular in recent years."
     },
     {
       "words": [
+        "participating",
+        "in",
+        "extracurricular",
+        "activities",
+        "can",
+        "enhance",
         "the",
-        "presentation",
-        "was",
-        "informative",
-        "and",
-        "well",
-        "received",
-        "by",
-        "the",
-        "audience"
+        "college",
+        "experience"
       ],
-      "display": "The presentation was informative and well received by the audience."
-    },
-    {
-      "words": [
-        "they",
-        "are",
-        "planning",
-        "to",
-        "visit",
-        "the",
-        "museum",
-        "next",
-        "week"
-      ],
-      "display": "They are planning to visit the museum next week."
+      "display": "Participating in extracurricular activities can enhance the college experience."
     }
   ],
   "emailPrompts": [
-    "寄信給宿舍辦公室，詢問有關宿舍搬遷的程序。",
-    "寄信給圖書館，請求延長書籍的借閱期限。",
-    "寄信給社團會長，表達希望參加社團活動的意願。",
-    "寄信給教授，請教上課內容的疑問。",
-    "寄信給顧客服務，反映最近購買商品的問題。",
-    "寄信給學校行政，詢問修課的選擇及建議。"
+    "寄信給教授，說明因病無法參加期中考，詢問補考事宜。",
+    "寫信給宿舍管理辦公室，請求更換房間的事宜。",
+    "寄信給圖書館，詢問是否可以延長借書期限。",
+    "寄信給社團，表達希望加入的意願並詢問活動時間。",
+    "寫信給客服，反映最近購買商品的問題，請求退換貨。",
+    "寄信給校內活動組織，詢問志願者的機會和條件。"
   ],
   "discussionPrompts": [
-    "教授問：「你認為科技對教育的影響是正面還是負面？」",
-    "教授問：「全球暖化的主要原因是什麼？」",
-    "教授問：「社交媒體對人際關係的影響有多大？」",
-    "教授問：「你認為藝術在現代社會中扮演什麼角色？」",
-    "教授問：「學校應該如何應對學生的心理健康問題？」",
-    "教授問：「你認為移民政策應該如何改變？」"
+    "教授問：「在學校教育中，實踐與理論哪個更重要呢？」",
+    "教授問：「科技在當代社會中扮演了什麼角色？」",
+    "教授問：「個人自由與公共安全之間的界限應該如何劃分？」",
+    "教授問：「藝術應該如何反映社會現實？」",
+    "教授問：「氣候變化對經濟發展有何影響？」",
+    "教授問：「社交媒體對人際關係的影響是正面還是負面？」"
   ]
 }
