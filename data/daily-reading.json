@@ -2,113 +2,113 @@
   "cloze": {
     "segments": [
       {
-        "text": "The process of phot"
+        "text": "The theory of e"
       },
       {
-        "blank": "osynthesis"
+        "blank": "volu"
       },
       {
-        "text": " is essential for life on Earth. Through this process, plants convert light energy into chemical energy, producing "
+        "text": "tion explains how species c"
       },
       {
-        "blank": "glucose"
+        "blank": "hang"
       },
       {
-        "text": ", which serves as food. During photosynthesis, plants also release oxygen as a byproduct, contributing to the "
+        "text": "e over time. Natural selection is a k"
       },
       {
-        "blank": "atmosphere"
+        "blank": "ey"
       },
       {
-        "text": ". This complex process involves pigments, primarily chlorophyll, which capture light energy. In the presence of carbon "
+        "text": " mechanism that drives this p"
       },
       {
-        "blank": "dioxide"
+        "blank": "roces"
       },
       {
-        "text": ", water is also utilized to create the necessary substrates for glucose formation. Therefore, photosynthesis is not only vital for plants but also plays a crucial role in "
+        "text": "s. It suggests that individuals with favorable traits are more lik"
       },
       {
-        "blank": "ecosystems"
+        "blank": "ely"
       },
       {
-        "text": ", supporting a wide range of life forms."
+        "text": " to survive and reproduce, passing those beneficial traits to their offspring."
       }
     ]
   },
   "academic": {
-    "passage": "Photosynthesis is a critical process whereby green plants, algae, and certain bacteria convert light energy into chemical energy. During this process, carbon dioxide and water are transformed into glucose and oxygen, making it fundamental for sustaining life. This process occurs mainly in chloroplasts, where chlorophyll captures sunlight. The oxygen released is essential for the survival of aerobic organisms. Additionally, the glucose produced serves as an energy source for growth, reproduction, and various metabolic activities.",
+    "passage": "The theory of evolution is a fundamental concept in biology that explains how species change over time through a process known as natural selection. This process suggests that individuals with traits that enhance their chances of survival and reproduction are more likely to pass on these traits to future generations. Over long periods, this leads to the gradual development of new species and the adaptation of existing ones to their environments.",
     "questions": [
       {
         "q": "What is the main idea of the passage?",
         "options": [
-          "Photosynthesis is essential for life.",
-          "Chlorophyll captures sunlight for plants.",
-          "Oxygen is vital for aerobic organisms.",
-          "Glucose is produced during plant growth."
+          "The theory of evolution explains species change.",
+          "Natural selection is not important in evolution.",
+          "Evolution only affects certain species.",
+          "All species evolve at the same rate."
         ],
         "correctIndex": 0,
-        "explain": "這段文字的主題是光合作用對生命的重要性。"
+        "explain": "這段文字的主要觀點是進化論解釋了物種的變化。"
       },
       {
-        "q": "What do plants produce during photosynthesis?",
+        "q": "What is natural selection?",
         "options": [
-          "Carbon dioxide",
-          "Sunlight",
-          "Glucose",
-          "Chlorophyll"
-        ],
-        "correctIndex": 2,
-        "explain": "植物在光合作用過程中產生葡萄糖。"
-      },
-      {
-        "q": "Why is oxygen released during photosynthesis?",
-        "options": [
-          "It is used by plants.",
-          "It is a byproduct of the process.",
-          "It helps in plant growth.",
-          "It attracts sunlight."
+          "A process that prevents species from evolving.",
+          "A mechanism that drives evolution.",
+          "A method used to categorize species.",
+          "A theory that is no longer supported."
         ],
         "correctIndex": 1,
-        "explain": "氧氣是光合作用的副產品。"
+        "explain": "自然選擇是驅動進化的機制。"
       },
       {
-        "q": "What is the role of chlorophyll in photosynthesis?",
+        "q": "What can be inferred about species over time?",
         "options": [
-          "It absorbs nutrients.",
-          "It captures light energy.",
-          "It protects the plant.",
-          "It produces glucose."
+          "They remain unchanged.",
+          "They adapt to their environments.",
+          "They all become extinct.",
+          "They evolve in isolation."
         ],
         "correctIndex": 1,
-        "explain": "葉綠素在光合作用中吸收光能。"
+        "explain": "可以推斷出物種隨著時間的推移會適應其環境。"
+      },
+      {
+        "q": "What does the word 'traits' refer to in this context?",
+        "options": [
+          "Physical characteristics of organisms.",
+          "Environmental factors.",
+          "Behavioral patterns.",
+          "Genetic mutations."
+        ],
+        "correctIndex": 0,
+        "explain": "在這個上下文中，'traits'指的是生物的物理特徵。"
       }
     ]
   },
   "daily": {
-    "passage": "Attention students! The library will be closed for renovations from September 1st to September 15th. Please plan accordingly to ensure you have access to all necessary resources before this date. Thank you for your understanding!",
+    "passage": "Attention students! The university will be holding a career fair on March 15th in the main hall. Various companies will be present to recruit graduates. Make sure to bring multiple copies of your resume!",
     "questions": [
       {
-        "q": "When will the library be closed?",
+        "q": "When will the career fair take place?",
         "options": [
-          "August 1st to August 15th",
-          "September 1st to September 15th",
-          "October 1st to October 15th",
-          "November 1st to November 15th"
+          "March 1st",
+          "March 15th",
+          "April 1st",
+          "April 15th"
         ],
         "correctIndex": 1,
-        "explain": "圖書館將在九月一日至九月十五日關閉。"
+        "explain": "職業博覽會將於3月15日舉行，這是通知中提到的日期。"
       },
       {
-        "q": "What should students do before the closure?",
+        "q": "What should students bring to the career fair?",
         "options": [
-          "Return all books",
-          "Use the library for resources",
-          "Attend a workshop",
-          "Take a break"
+          "Business cards",
+          "Multiple copies of their resume",
+          "College brochures",
+          "Textbooks"
         ],
         "correctIndex": 1,
-        "explain": "學生應在關閉之前確保能夠使用所有必要的資源。"
+        "explain": "學生們應該帶多份簡歷參加職業博覽會。"
       }
     ]
   }

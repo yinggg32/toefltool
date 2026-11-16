@@ -1,116 +1,116 @@
 {
   "chooseResponse": [
     {
-      "q": "What did you think of the presentation?",
+      "q": "What time is the meeting?",
       "options": [
-        "It was very informative.",
-        "I didn't like it.",
-        "It was too long.",
-        "I fell asleep."
+        "At three o'clock.",
+        "Yes, I did.",
+        "No, I'm busy.",
+        "Let's discuss it later."
       ],
       "correctIndex": 0
     }
   ],
   "conversation": {
-    "transcript": "Student: Did you attend the guest lecture on climate change?\nAdvisor: Yes, I thought it was really engaging. What about you?\nStudent: I missed it. Was it worth going?\nAdvisor: Definitely! The speaker had some great insights on renewable energy.",
+    "transcript": "Student: Hey, have you heard about the new library hours?\nAdvisor: Yes, they’ve extended them for finals week.\nStudent: That’s great! When do they close now?\nAdvisor: They’re open until midnight every day until the exams are over.",
     "questions": [
       {
-        "q": "What did the advisor think of the lecture?",
+        "q": "What do the new library hours provide?",
         "options": [
-          "It was engaging.",
-          "It was boring.",
-          "It was too short.",
-          "It was confusing."
+          "More study time.",
+          "Less time for breaks.",
+          "Fewer resources available.",
+          "No change at all."
         ],
         "correctIndex": 0,
-        "explain": "顧問覺得演講非常引人入勝。"
+        "explain": "新圖書館開放時間為考試周延長，提供更多學習時間。"
       },
       {
-        "q": "What topic was discussed in the lecture?",
+        "q": "When do the extended hours end?",
         "options": [
-          "Climate change.",
-          "Artificial intelligence.",
-          "Social media.",
-          "Globalization."
+          "After finals week.",
+          "Next semester.",
+          "The end of the month.",
+          "On weekends only."
         ],
         "correctIndex": 0,
-        "explain": "演講的主題是氣候變化。"
+        "explain": "延長的開放時間會在考試周結束後結束。"
       }
     ]
   },
   "announcement": {
-    "transcript": "Attention students, the library will be hosting a special event this Friday at 3 PM. Join us for a workshop on research skills where you will learn effective strategies for academic writing and citation. Refreshments will be provided. Don't miss out!",
+    "transcript": "Attention students: The campus gym will be closed for maintenance from April 1st through April 7th. We apologize for any inconvenience this may cause and encourage you to utilize other facilities during this time.",
     "questions": [
       {
-        "q": "What is the event about?",
+        "q": "Why will the gym be closed?",
         "options": [
-          "Research skills workshop.",
-          "Art exhibition.",
-          "Study group meeting.",
-          "Guest lecture."
+          "For maintenance.",
+          "For a sports event.",
+          "For renovations.",
+          "For staff training."
         ],
         "correctIndex": 0,
-        "explain": "活動是關於研究技能的工作坊。"
+        "explain": "健身房因維修而關閉，這是公告的主要原因。"
       },
       {
-        "q": "When will the event take place?",
+        "q": "When will the gym reopen?",
         "options": [
-          "This Friday at 3 PM.",
-          "Next Monday at 1 PM.",
-          "Tomorrow at 2 PM.",
-          "This weekend at noon."
+          "April 8th.",
+          "April 1st.",
+          "May 1st.",
+          "March 31st."
         ],
         "correctIndex": 0,
-        "explain": "活動將在本週五下午三點舉行。"
+        "explain": "健身房將在四月八日重新開放。"
       }
     ]
   },
   "talk": {
-    "transcript": "Today, we will discuss the concept of 'cognitive dissonance.' This psychological theory suggests that when individuals experience conflicting beliefs or behaviors, they feel discomfort or tension. For example, if a person believes that smoking is harmful yet continues to smoke, they may feel a disparity between their actions and beliefs. To alleviate this discomfort, individuals often change their beliefs or rationalize their behaviors. Understanding cognitive dissonance can help in recognizing how people justify their decisions and actions.",
+    "transcript": "Today, we will discuss the importance of biodiversity. Biodiversity refers to the variety of life in a given ecosystem. It includes the different species of plants, animals, and microorganisms, as well as the genetic differences within these species. Biodiversity is crucial for ecosystem health; it helps maintain ecological balance and provides resources for food, medicine, and other services. Additionally, diverse ecosystems are better able to adapt to changes such as climate change, making conservation efforts essential for a sustainable future.",
     "questions": [
       {
-        "q": "What is cognitive dissonance?",
+        "q": "What is biodiversity?",
         "options": [
-          "Conflict between beliefs and behaviors.",
-          "A type of memory recall.",
-          "A learning strategy.",
-          "An emotional response."
+          "Variety of life forms.",
+          "The study of ecosystems.",
+          "The number of species in one area.",
+          "Only animal species diversity."
         ],
         "correctIndex": 0,
-        "explain": "認知失調是信念和行為之間的衝突。"
+        "explain": "生物多樣性是指某一生態系統中生命的多樣性，包括各種植物、動物和微生物。"
       },
       {
-        "q": "What example is given in the talk?",
+        "q": "Why is biodiversity important?",
         "options": [
-          "A smoker who knows it’s harmful.",
-          "A student studying for exams.",
-          "A person exercising regularly.",
-          "A chef preparing a meal."
+          "It aids in ecological balance.",
+          "It reduces the number of species.",
+          "It prevents all species from adapting.",
+          "It is only relevant to animals."
         ],
         "correctIndex": 0,
-        "explain": "舉的例子是一位知道吸煙有害的吸煙者。"
+        "explain": "生物多樣性對生態平衡至關重要，能提供食物和藥品等資源。"
       },
       {
-        "q": "What do individuals often do to reduce dissonance?",
+        "q": "How do diverse ecosystems react to change?",
         "options": [
-          "Change their beliefs or rationalize behaviors.",
-          "Ignore the conflict.",
-          "Seek advice from others.",
-          "Increase tension."
+          "They adapt better.",
+          "They become more fragile.",
+          "They vanish completely.",
+          "They only support few species."
         ],
         "correctIndex": 0,
-        "explain": "個體通常改變信念或合理化行為以減少認知失調。"
+        "explain": "多樣化的生態系統能更好地適應環境變化，這是其一大優勢。"
       },
       {
-        "q": "Why is understanding cognitive dissonance important?",
+        "q": "What should be prioritized for the future?",
         "options": [
-          "It helps in recognizing justifications for decisions.",
-          "It explains emotional reactions.",
-          "It provides learning techniques.",
-          "It measures memory accuracy."
+          "Conservation efforts.",
+          "Industrial growth.",
+          "Urban development.",
+          "Agricultural expansion."
         ],
         "correctIndex": 0,
-        "explain": "理解認知失調有助於認識人們如何為他們的決策和行為辯護。"
+        "explain": "對於未來，保護工作是優先考量，因為它有助於維持生物多樣性。"
       }
     ]
   }
