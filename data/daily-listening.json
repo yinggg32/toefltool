@@ -1,116 +1,116 @@
 {
   "chooseResponse": [
     {
-      "q": "What time is the meeting?",
+      "q": "What time does the meeting start?",
       "options": [
-        "At three o'clock.",
-        "Yes, I did.",
-        "No, I'm busy.",
-        "Let's discuss it later."
+        "At 2 PM.",
+        "In the library.",
+        "On Monday.",
+        "With snacks."
       ],
       "correctIndex": 0
     }
   ],
   "conversation": {
-    "transcript": "Student: Hey, have you heard about the new library hours?\nAdvisor: Yes, they’ve extended them for finals week.\nStudent: That’s great! When do they close now?\nAdvisor: They’re open until midnight every day until the exams are over.",
+    "transcript": "Student: Hi, I heard there's a new study group forming for Biology 101.\nAdvisor: Yes, that's correct! They're meeting every Wednesday afternoon.\nStudent: Who's leading the group?\nAdvisor: It's being led by Professor Smith, who is really great at explaining concepts.",
     "questions": [
       {
-        "q": "What do the new library hours provide?",
+        "q": "When does the study group meet?",
         "options": [
-          "More study time.",
-          "Less time for breaks.",
-          "Fewer resources available.",
-          "No change at all."
+          "Every Tuesday.",
+          "Every Wednesday.",
+          "Every Thursday.",
+          "Every Monday."
         ],
-        "correctIndex": 0,
-        "explain": "新圖書館開放時間為考試周延長，提供更多學習時間。"
+        "correctIndex": 1,
+        "explain": "這個學習小組每週三開會。"
       },
       {
-        "q": "When do the extended hours end?",
+        "q": "Who is leading the study group?",
         "options": [
-          "After finals week.",
-          "Next semester.",
-          "The end of the month.",
-          "On weekends only."
+          "Professor Johnson.",
+          "Professor Lee.",
+          "Professor Smith.",
+          "Professor Brown."
         ],
-        "correctIndex": 0,
-        "explain": "延長的開放時間會在考試周結束後結束。"
+        "correctIndex": 2,
+        "explain": "這個學習小組由史密斯教授領導。"
       }
     ]
   },
   "announcement": {
-    "transcript": "Attention students: The campus gym will be closed for maintenance from April 1st through April 7th. We apologize for any inconvenience this may cause and encourage you to utilize other facilities during this time.",
+    "transcript": "Attention all students! The library will have extended hours this weekend from 8 AM to midnight. Please take advantage of this opportunity to study for your midterms. Thank you!",
     "questions": [
       {
-        "q": "Why will the gym be closed?",
+        "q": "What are the new library hours?",
         "options": [
-          "For maintenance.",
-          "For a sports event.",
-          "For renovations.",
-          "For staff training."
+          "8 AM to 10 PM.",
+          "8 AM to 11 PM.",
+          "8 AM to midnight.",
+          "8 AM to 9 PM."
         ],
-        "correctIndex": 0,
-        "explain": "健身房因維修而關閉，這是公告的主要原因。"
+        "correctIndex": 2,
+        "explain": "圖書館這週末的開放時間是早上八點到午夜。"
       },
       {
-        "q": "When will the gym reopen?",
+        "q": "Why are the hours extended?",
         "options": [
-          "April 8th.",
-          "April 1st.",
-          "May 1st.",
-          "March 31st."
+          "For a special event.",
+          "For midterm studying.",
+          "For maintenance work.",
+          "For a book sale."
         ],
-        "correctIndex": 0,
-        "explain": "健身房將在四月八日重新開放。"
+        "correctIndex": 1,
+        "explain": "這是為了讓學生準備期中考試。"
       }
     ]
   },
   "talk": {
-    "transcript": "Today, we will discuss the importance of biodiversity. Biodiversity refers to the variety of life in a given ecosystem. It includes the different species of plants, animals, and microorganisms, as well as the genetic differences within these species. Biodiversity is crucial for ecosystem health; it helps maintain ecological balance and provides resources for food, medicine, and other services. Additionally, diverse ecosystems are better able to adapt to changes such as climate change, making conservation efforts essential for a sustainable future.",
+    "transcript": "Today, I'm going to talk about the concept of photosynthesis, which is essential for plant life. Photosynthesis is the process by which green plants, algae, and some bacteria convert light energy, usually from the sun, into chemical energy stored in glucose. This process takes place mainly in the leaves of plants, where chlorophyll absorbs sunlight. The overall reaction involves carbon dioxide and water, which, when combined with sunlight, produce glucose and oxygen. The oxygen is released into the atmosphere, while glucose provides energy for the plant's growth and development. Understanding photosynthesis is crucial, as it forms the basis for life on Earth by providing food and oxygen for living organisms.",
     "questions": [
       {
-        "q": "What is biodiversity?",
+        "q": "What is photosynthesis?",
         "options": [
-          "Variety of life forms.",
-          "The study of ecosystems.",
-          "The number of species in one area.",
-          "Only animal species diversity."
+          "A process of respiration.",
+          "A process of energy conversion.",
+          "A type of growth.",
+          "A form of reproduction."
         ],
-        "correctIndex": 0,
-        "explain": "生物多樣性是指某一生態系統中生命的多樣性，包括各種植物、動物和微生物。"
+        "correctIndex": 1,
+        "explain": "光合作用是能量轉換的過程。"
       },
       {
-        "q": "Why is biodiversity important?",
+        "q": "Where does photosynthesis mainly occur?",
         "options": [
-          "It aids in ecological balance.",
-          "It reduces the number of species.",
-          "It prevents all species from adapting.",
-          "It is only relevant to animals."
+          "In the roots.",
+          "In the flowers.",
+          "In the leaves.",
+          "In the stems."
         ],
-        "correctIndex": 0,
-        "explain": "生物多樣性對生態平衡至關重要，能提供食物和藥品等資源。"
+        "correctIndex": 2,
+        "explain": "光合作用主要發生在植物的葉子中。"
       },
       {
-        "q": "How do diverse ecosystems react to change?",
+        "q": "What two products are produced during photosynthesis?",
         "options": [
-          "They adapt better.",
-          "They become more fragile.",
-          "They vanish completely.",
-          "They only support few species."
+          "Glucose and nitrogen.",
+          "Glucose and oxygen.",
+          "Glucose and carbon dioxide.",
+          "Glucose and water."
         ],
-        "correctIndex": 0,
-        "explain": "多樣化的生態系統能更好地適應環境變化，這是其一大優勢。"
+        "correctIndex": 1,
+        "explain": "光合作用產生葡萄糖和氧氣。"
       },
       {
-        "q": "What should be prioritized for the future?",
+        "q": "Why is photosynthesis important?",
         "options": [
-          "Conservation efforts.",
-          "Industrial growth.",
-          "Urban development.",
-          "Agricultural expansion."
+          "It provides shade.",
+          "It produces food and oxygen.",
+          "It helps with soil formation.",
+          "It attracts pollinators."
         ],
-        "correctIndex": 0,
-        "explain": "對於未來，保護工作是優先考量，因為它有助於維持生物多樣性。"
+        "correctIndex": 1,
+        "explain": "光合作用對地球生命至關重要，因為它提供食物和氧氣。"
       }
     ]
   }

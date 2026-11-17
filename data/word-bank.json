@@ -10606,5 +10606,45 @@
     "zh": "單邊的",
     "ex": "Unilateral actions by a state can lead to tensions in international relations.",
     "cat": "📰 每日新詞：political science"
+  },
+  {
+    "word": "domestication",
+    "pos": "n.",
+    "root": "domesticate-馴化 + ion-行為",
+    "zh": "馴化",
+    "ex": "The domestication of plants and animals marked a significant turning point in human history.",
+    "cat": "📰 每日新詞：anthropology"
+  },
+  {
+    "word": "affinity",
+    "pos": "n.",
+    "root": "—",
+    "zh": "親和性",
+    "ex": "The affinity between language and culture enhances our understanding of human behavior.",
+    "cat": "📰 每日新詞：anthropology"
+  },
+  {
+    "word": "power dynamics",
+    "pos": "n.",
+    "root": "power-權力 + dynamics-動態",
+    "zh": "權力動態",
+    "ex": "Power dynamics within a community can affect social relationships and hierarchies.",
+    "cat": "📰 每日新詞：anthropology"
+  },
+  {
+    "word": "exogamy",
+    "pos": "n.",
+    "root": "exo-外部 + gamy-婚姻",
+    "zh": "外婚制",
+    "ex": "Exogamy is often practiced to strengthen alliances between different families or clans.",
+    "cat": "📰 每日新詞：anthropology"
+  },
+  {
+    "word": "repatriation",
+    "pos": "n.",
+    "root": "re-重新 + patriate-歸國",
+    "zh": "遣返",
+    "ex": "Repatriation of cultural artifacts is a contentious issue in the field of anthropology.",
+    "cat": "📰 每日新詞：anthropology"
   }
 ]

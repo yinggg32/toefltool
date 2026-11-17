@@ -2,113 +2,104 @@
   "cloze": {
     "segments": [
       {
-        "text": "The theory of e"
+        "text": "The process of photosynthesis is essential for life on Earth. It occurs mainly in the leaves of plants, where light energy is converted into chemical energy. The primary pigment involved in this process is chlorophyll, which absorbs light most efficiently in the blue and red wavelengths. During photosynthesis, carbon dioxide (CO2) from the air and water (H2O) from the soil are taken in by plants. The light energy triggers a series of chemical reactions that transform these raw materials into glucose, a simple sugar that serves as food for the plant. Additionally, oxygen is released as a byproduct, which is vital for the survival of most living organisms."
       },
       {
-        "blank": "volu"
+        "blank": "ph",
+        "text": "otosynthesis is a fundamental process..."
       },
       {
-        "text": "tion explains how species c"
+        "text": "The glucose produced is used by plants to grow and develop, providing energy for various cellular processes. Plants use this energy for growth, reproduction, and maintenance of their structure. In addition to supporting plant life, photosynthesis plays a critical role in Earth's atmosphere. It helps regulate levels of carbon dioxide, a greenhouse gas, thereby influencing climate and weather patterns. Furthermore, the oxygen released during photosynthesis is crucial for the survival of animals and humans alike."
       },
       {
-        "blank": "hang"
+        "blank": "fies",
+        "text": "t is crucial for the survival..."
       },
       {
-        "text": "e over time. Natural selection is a k"
+        "text": "Understanding photosynthesis can provide insights into agricultural practices and environmental conservation. For instance, scientists are exploring ways to enhance photosynthetic efficiency in crops to increase yield and reduce the need for chemical fertilizers. Advances in this field may help address global food security challenges as the world’s population continues to grow."
       },
       {
-        "blank": "ey"
+        "blank": "crop",
+        "text": "s to enhance photosynthetic efficiency..."
       },
       {
-        "text": " mechanism that drives this p"
-      },
-      {
-        "blank": "roces"
-      },
-      {
-        "text": "s. It suggests that individuals with favorable traits are more lik"
-      },
-      {
-        "blank": "ely"
-      },
-      {
-        "text": " to survive and reproduce, passing those beneficial traits to their offspring."
+        "text": "In summary, photosynthesis is a vital process that sustains life on our planet, making it a key focus of research and innovation."
       }
     ]
   },
   "academic": {
-    "passage": "The theory of evolution is a fundamental concept in biology that explains how species change over time through a process known as natural selection. This process suggests that individuals with traits that enhance their chances of survival and reproduction are more likely to pass on these traits to future generations. Over long periods, this leads to the gradual development of new species and the adaptation of existing ones to their environments.",
+    "passage": "Photosynthesis is the process by which green plants and some other organisms use sunlight to synthesize foods with the help of chlorophyll. This process is essential for life on Earth as it produces oxygen, which is necessary for the survival of most living organisms. During photosynthesis, carbon dioxide and water are converted into glucose and oxygen, effectively supporting the growth and development of plants. Understanding photosynthesis is crucial for advancing agricultural techniques and addressing food security challenges, as it plays a significant role in the Earth's ecosystem.",
     "questions": [
       {
-        "q": "What is the main idea of the passage?",
+        "q": "What is the main purpose of photosynthesis?",
         "options": [
-          "The theory of evolution explains species change.",
-          "Natural selection is not important in evolution.",
-          "Evolution only affects certain species.",
-          "All species evolve at the same rate."
+          "To produce glucose and oxygen",
+          "To absorb carbon dioxide",
+          "To regulate temperature",
+          "To enhance soil nutrients"
         ],
         "correctIndex": 0,
-        "explain": "這段文字的主要觀點是進化論解釋了物種的變化。"
+        "explain": "光合作用的主要目的是產生葡萄糖和氧氣。"
       },
       {
-        "q": "What is natural selection?",
+        "q": "Which pigment is primarily involved in photosynthesis?",
         "options": [
-          "A process that prevents species from evolving.",
-          "A mechanism that drives evolution.",
-          "A method used to categorize species.",
-          "A theory that is no longer supported."
+          "Carotenoid",
+          "Chlorophyll",
+          "Xanthophyll",
+          "Melanin"
         ],
         "correctIndex": 1,
-        "explain": "自然選擇是驅動進化的機制。"
+        "explain": "綠色植物中主要參與光合作用的色素是葉綠素。"
       },
       {
-        "q": "What can be inferred about species over time?",
+        "q": "What can be inferred about the importance of oxygen produced during photosynthesis?",
         "options": [
-          "They remain unchanged.",
-          "They adapt to their environments.",
-          "They all become extinct.",
-          "They evolve in isolation."
+          "It is only necessary for plants.",
+          "It contributes to air quality.",
+          "It has no significant role.",
+          "It is a waste product."
         ],
         "correctIndex": 1,
-        "explain": "可以推斷出物種隨著時間的推移會適應其環境。"
+        "explain": "光合作用產生的氧氣對改善空氣質量至關重要。"
       },
       {
-        "q": "What does the word 'traits' refer to in this context?",
+        "q": "What does the term 'photosynthesis' mean in the context of this passage?",
         "options": [
-          "Physical characteristics of organisms.",
-          "Environmental factors.",
-          "Behavioral patterns.",
-          "Genetic mutations."
+          "The process of energy absorption",
+          "The process of food synthesis using light",
+          "The process of plant growth",
+          "The process of soil nutrient enhancement"
         ],
-        "correctIndex": 0,
-        "explain": "在這個上下文中，'traits'指的是生物的物理特徵。"
+        "correctIndex": 1,
+        "explain": "在本文中，'光合作用'指的是利用光進行食物合成的過程。"
       }
     ]
   },
   "daily": {
-    "passage": "Attention students! The university will be holding a career fair on March 15th in the main hall. Various companies will be present to recruit graduates. Make sure to bring multiple copies of your resume!",
+    "passage": "Attention students! The library will be closed for maintenance this Friday from 8 AM to 4 PM. Please plan to visit us before or after these hours. Thank you for your understanding.",
     "questions": [
       {
-        "q": "When will the career fair take place?",
+        "q": "When will the library be closed for maintenance?",
         "options": [
-          "March 1st",
-          "March 15th",
-          "April 1st",
-          "April 15th"
+          "Friday",
+          "Monday",
+          "Saturday",
+          "Wednesday"
         ],
-        "correctIndex": 1,
-        "explain": "職業博覽會將於3月15日舉行，這是通知中提到的日期。"
+        "correctIndex": 0,
+        "explain": "圖書館將在星期五關閉進行維護。"
       },
       {
-        "q": "What should students bring to the career fair?",
+        "q": "What hours will the library be closed?",
         "options": [
-          "Business cards",
-          "Multiple copies of their resume",
-          "College brochures",
-          "Textbooks"
+          "8 AM to 4 PM",
+          "9 AM to 5 PM",
+          "10 AM to 6 PM",
+          "7 AM to 3 PM"
         ],
-        "correctIndex": 1,
-        "explain": "學生們應該帶多份簡歷參加職業博覽會。"
+        "correctIndex": 0,
+        "explain": "圖書館將在上午八點到下午四點關閉。"
       }
     ]
   }

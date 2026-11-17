@@ -4,122 +4,128 @@
       "words": [
         "the",
         "students",
-        "will",
-        "attend",
+        "have",
+        "completed",
         "the",
-        "workshop",
+        "assignment",
         "on",
-        "monday"
+        "time"
       ],
-      "display": "The students will attend the workshop on Monday."
+      "display": "The students have completed the assignment on time."
     },
     {
       "words": [
         "the",
         "researchers",
-        "found",
-        "significant",
-        "results",
+        "discovered",
+        "a",
+        "new",
+        "species",
         "in",
-        "their",
-        "study"
+        "the",
+        "rainforest"
       ],
-      "display": "The researchers found significant results in their study."
+      "display": "The researchers discovered a new species in the rainforest."
     },
     {
       "words": [
-        "many",
-        "people",
-        "believe",
-        "that",
-        "exercise",
-        "improves",
-        "mental",
-        "health"
+        "climate",
+        "change",
+        "is",
+        "a",
+        "significant",
+        "issue",
+        "facing",
+        "humanity"
       ],
-      "display": "Many people believe that exercise improves mental health."
+      "display": "Climate change is a significant issue facing humanity."
+    },
+    {
+      "words": [
+        "the",
+        "conference",
+        "will",
+        "be",
+        "held",
+        "at",
+        "the",
+        "university",
+        "next",
+        "month"
+      ],
+      "display": "The conference will be held at the university next month."
+    },
+    {
+      "words": [
+        "students",
+        "should",
+        "participate",
+        "in",
+        "extracurricular",
+        "activities",
+        "for",
+        "personal",
+        "growth"
+      ],
+      "display": "Students should participate in extracurricular activities for personal growth."
     },
     {
       "words": [
         "the",
         "professor",
-        "discussed",
-        "various",
-        "theories",
-        "during",
-        "the",
-        "lecture"
-      ],
-      "display": "The professor discussed various theories during the lecture."
-    },
-    {
-      "words": [
-        "students",
-        "are",
         "encouraged",
+        "his",
+        "students",
         "to",
-        "participate",
-        "in",
-        "group",
-        "projects"
+        "read",
+        "more",
+        "research",
+        "articles"
       ],
-      "display": "Students are encouraged to participate in group projects."
+      "display": "The professor encouraged his students to read more research articles."
     },
     {
       "words": [
         "the",
         "new",
-        "library",
-        "system",
+        "policy",
         "will",
-        "be",
-        "implemented",
-        "soon"
+        "benefit",
+        "both",
+        "students",
+        "and",
+        "faculty"
       ],
-      "display": "The new library system will be implemented soon."
+      "display": "The new policy will benefit both students and faculty."
     },
     {
       "words": [
-        "an",
-        "interesting",
-        "debate",
-        "took",
-        "place",
-        "about",
-        "climate",
-        "change"
+        "attending",
+        "lectures",
+        "regularly",
+        "is",
+        "crucial",
+        "for",
+        "academic",
+        "success"
       ],
-      "display": "An interesting debate took place about climate change."
-    },
-    {
-      "words": [
-        "the",
-        "team",
-        "will",
-        "present",
-        "their",
-        "findings",
-        "at",
-        "the",
-        "conference"
-      ],
-      "display": "The team will present their findings at the conference."
+      "display": "Attending lectures regularly is crucial for academic success."
     }
   ],
   "emailPrompts": [
-    "寄信給宿舍辦公室，請求更換宿舍房間的原因。",
-    "寄信給圖書館，詢問如何延長書籍的借閱期限。",
-    "寄信給社團，報名參加即將舉行的活動。",
-    "寄信給教授，請求延長作業的截止日期。",
-    "寄信給客服，詢問關於退貨的流程。",
-    "寄信給校友，邀請參加即將舉行的校友聚會。"
+    "寄信給圖書館，詢問借書的流程及逾期罰款的相關規定。",
+    "寄信給宿舍管理處，請求更換房間因為室友不合。",
+    "寄信給學會，表達對即將舉行的活動的興趣並詢問參加方式。",
+    "寄信給顧客服務部，反映最近購物的產品質量問題。",
+    "寄信給教授，請假說明因家中緊急事件無法參加課程。",
+    "寄信給班主任，詢問有關期末考的具體安排和建議。"
   ],
   "discussionPrompts": [
-    "教授問：「你認為科技對社交互動的影響是正面還是負面？」",
-    "教授問：「關於移民政策，你有哪些看法？」",
-    "教授問：「環保與經濟發展之間的平衡應該如何取得？」",
-    "教授問：「社會媒體對青少年心理健康的影響是什麼？」",
-    "教授問：「你如何看待大學教育與職場需求之間的差距？」",
-    "教授問：「在全球化的背景下，文化保護的必要性如何？」"
+    "教授問：「社交媒體對青少年的影響是正面還是負面？」",
+    "教授問：「大學教育是否應更加注重實踐經驗？」",
+    "教授問：「科技進步會使人類失去工作機會嗎？」",
+    "教授問：「環保與經濟發展之間的平衡應如何維持？」",
+    "教授問：「全球化對文化多樣性的影響是什麼？」",
+    "教授問：「人工智慧的發展是否會威脅到人類的未來？」"
   ]
 }
