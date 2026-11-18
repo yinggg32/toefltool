@@ -2,130 +2,133 @@
   "buildSentences": [
     {
       "words": [
-        "the",
         "students",
-        "have",
-        "completed",
-        "the",
-        "assignment",
-        "on",
-        "time"
+        "need",
+        "to",
+        "submit",
+        "their",
+        "assignments",
+        "by",
+        "friday"
       ],
-      "display": "The students have completed the assignment on time."
+      "display": "Students need to submit their assignments by Friday."
     },
     {
       "words": [
         "the",
-        "researchers",
-        "discovered",
-        "a",
-        "new",
-        "species",
+        "research",
+        "study",
+        "was",
+        "published",
         "in",
-        "the",
-        "rainforest"
-      ],
-      "display": "The researchers discovered a new species in the rainforest."
-    },
-    {
-      "words": [
-        "climate",
-        "change",
-        "is",
         "a",
-        "significant",
-        "issue",
-        "facing",
-        "humanity"
+        "renowned",
+        "journal"
       ],
-      "display": "Climate change is a significant issue facing humanity."
+      "display": "The research study was published in a renowned journal."
     },
     {
       "words": [
+        "she",
+        "wants",
+        "to",
+        "attend",
         "the",
         "conference",
-        "will",
-        "be",
-        "held",
-        "at",
-        "the",
-        "university",
         "next",
         "month"
       ],
-      "display": "The conference will be held at the university next month."
-    },
-    {
-      "words": [
-        "students",
-        "should",
-        "participate",
-        "in",
-        "extracurricular",
-        "activities",
-        "for",
-        "personal",
-        "growth"
-      ],
-      "display": "Students should participate in extracurricular activities for personal growth."
+      "display": "She wants to attend the conference next month."
     },
     {
       "words": [
         "the",
         "professor",
-        "encouraged",
-        "his",
+        "provided",
+        "valuable",
+        "feedback",
+        "on",
+        "the",
         "students",
-        "to",
-        "read",
-        "more",
-        "research",
-        "articles"
+        "projects"
       ],
-      "display": "The professor encouraged his students to read more research articles."
+      "display": "The professor provided valuable feedback on the students' projects."
+    },
+    {
+      "words": [
+        "we",
+        "should",
+        "discuss",
+        "the",
+        "results",
+        "of",
+        "the",
+        "experiment",
+        "in",
+        "class"
+      ],
+      "display": "We should discuss the results of the experiment in class."
+    },
+    {
+      "words": [
+        "he",
+        "is",
+        "working",
+        "on",
+        "a",
+        "new",
+        "theory",
+        "in",
+        "quantum",
+        "physics"
+      ],
+      "display": "He is working on a new theory in quantum physics."
     },
     {
       "words": [
         "the",
-        "new",
-        "policy",
-        "will",
-        "benefit",
-        "both",
-        "students",
-        "and",
-        "faculty"
+        "library",
+        "is",
+        "offering",
+        "a",
+        "workshop",
+        "on",
+        "effective",
+        "research",
+        "strategies"
       ],
-      "display": "The new policy will benefit both students and faculty."
+      "display": "The library is offering a workshop on effective research strategies."
     },
     {
       "words": [
-        "attending",
-        "lectures",
-        "regularly",
-        "is",
-        "crucial",
-        "for",
-        "academic",
-        "success"
+        "many",
+        "students",
+        "find",
+        "it",
+        "difficult",
+        "to",
+        "balance",
+        "school",
+        "and",
+        "work"
       ],
-      "display": "Attending lectures regularly is crucial for academic success."
+      "display": "Many students find it difficult to balance school and work."
     }
   ],
   "emailPrompts": [
-    "寄信給圖書館，詢問借書的流程及逾期罰款的相關規定。",
-    "寄信給宿舍管理處，請求更換房間因為室友不合。",
-    "寄信給學會，表達對即將舉行的活動的興趣並詢問參加方式。",
-    "寄信給顧客服務部，反映最近購物的產品質量問題。",
-    "寄信給教授，請假說明因家中緊急事件無法參加課程。",
-    "寄信給班主任，詢問有關期末考的具體安排和建議。"
+    "寄信給教授，詢問期末考的範圍和準備建議。",
+    "寄信給宿舍辦公室，要求更換房間的原因和程序。",
+    "寄信給圖書館，詢問有關延長借書期限的政策。",
+    "寄信給社團主管，表達參加下次會議的意願。",
+    "寄信給客戶服務，反映最近購買產品的問題和請求幫助。",
+    "寄信給同學，邀請他們參加下週的學術研討會。"
   ],
   "discussionPrompts": [
+    "教授問：「你認為科技在教育中應該扮演什麼角色？」",
+    "教授問：「如何看待環保與經濟發展之間的平衡？」",
     "教授問：「社交媒體對青少年的影響是正面還是負面？」",
-    "教授問：「大學教育是否應更加注重實踐經驗？」",
-    "教授問：「科技進步會使人類失去工作機會嗎？」",
-    "教授問：「環保與經濟發展之間的平衡應如何維持？」",
-    "教授問：「全球化對文化多樣性的影響是什麼？」",
-    "教授問：「人工智慧的發展是否會威脅到人類的未來？」"
+    "教授問：「應該如何評估文學作品的價值？」",
+    "教授問：「你認為人工智慧會取代人類工作嗎？」",
+    "教授問：「在當今社會中，文化多樣性的重要性為何？」"
   ]
 }

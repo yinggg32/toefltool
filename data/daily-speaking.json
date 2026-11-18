@@ -1,24 +1,24 @@
 {
   "shadowSentences": [
-    "I enjoy reading books every evening.",
-    "My friend plays soccer every weekend.",
-    "I love trying new recipes from different cuisines.",
-    "We often visit the park during the summer.",
-    "Traveling helps me learn about different cultures.",
-    "I usually drink coffee in the morning to wake up.",
-    "My family often goes hiking in the mountains together.",
-    "I like to practice yoga to relax after a long day.",
-    "My favorite way to unwind is listening to music.",
-    "I enjoy volunteering at the local animal shelter on weekends."
+    "I love to read books.",
+    "She enjoys playing the guitar.",
+    "They went to the beach yesterday.",
+    "He always wakes up early in the morning.",
+    "We should try that new restaurant downtown.",
+    "My friends and I are planning a movie night soon.",
+    "This weekend, I am going to visit my grandparents.",
+    "I recently started learning how to cook Italian dishes.",
+    "Traveling abroad has always been a dream of mine.",
+    "I think volunteering is a great way to give back to the community."
   ],
   "interviewScenarios": [
     {
       "topic": "旅行經歷",
       "intro": "You have agreed to take part in a research study about travel experiences.",
       "questions": [
-        "Q1: Can you share a memorable travel experience you've had?",
-        "Q2: What challenges did you face while traveling?",
-        "Q3: How do you think travel impacts personal growth?",
+        "Q1: Can you share a memorable travel experience you had?",
+        "Q2: What challenges did you face during that trip?",
+        "Q3: How do you feel about traveling to different cultures?",
         "Q4: What advice would you give someone planning their first trip?"
       ]
     },
@@ -26,20 +26,20 @@
       "topic": "飲食習慣",
       "intro": "You have agreed to take part in a research study about eating habits.",
       "questions": [
-        "Q1: What is your favorite meal of the day and why?",
-        "Q2: Have you ever tried to change your eating habits? What happened?",
-        "Q3: What do you think influences people's food choices the most?",
-        "Q4: What tips would you offer for someone trying to eat healthier?"
+        "Q1: What is your favorite type of food and why?",
+        "Q2: Have you ever tried cooking a new recipe? What was it?",
+        "Q3: What do you think about healthy eating in today's world?",
+        "Q4: What would you recommend to someone wanting to eat healthier?"
       ]
     },
     {
-      "topic": "運動與健身",
-      "intro": "You have agreed to take part in a research study about fitness and exercise.",
+      "topic": "運動習慣",
+      "intro": "You have agreed to take part in a research study about exercise habits.",
       "questions": [
         "Q1: What type of exercise do you enjoy the most?",
-        "Q2: Have you faced any obstacles in maintaining a fitness routine?",
-        "Q3: In your opinion, why is staying active important for health?",
-        "Q4: What recommendations do you have for someone starting a workout program?"
+        "Q2: What obstacles do you encounter when trying to stay fit?",
+        "Q3: How important do you think exercise is for overall health?",
+        "Q4: What tips do you have for someone starting an exercise routine?"
       ]
     }
   ]

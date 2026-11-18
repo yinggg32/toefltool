@@ -2,104 +2,89 @@
   "cloze": {
     "segments": [
       {
-        "text": "The process of photosynthesis is essential for life on Earth. It occurs mainly in the leaves of plants, where light energy is converted into chemical energy. The primary pigment involved in this process is chlorophyll, which absorbs light most efficiently in the blue and red wavelengths. During photosynthesis, carbon dioxide (CO2) from the air and water (H2O) from the soil are taken in by plants. The light energy triggers a series of chemical reactions that transform these raw materials into glucose, a simple sugar that serves as food for the plant. Additionally, oxygen is released as a byproduct, which is vital for the survival of most living organisms."
+        "text": "The process of photosynthesis is crucial for life on Earth. It occurs primarily in the leaves of plants, where sunlight is absorbed by chlorophyll. During this process, plants convert carbon dioxide and water into glucose and oxygen. This conversion is fundamental for the sustenance of not only the plants themselves but also for all organisms that rely on them for food. The overall equation for photosynthesis can be summarized as follows: carbon dioxide plus water, in the presence of light energy, yields glucose and oxyge"
       },
       {
-        "blank": "ph",
-        "text": "otosynthesis is a fundamental process..."
+        "blank": "n."
       },
       {
-        "text": "The glucose produced is used by plants to grow and develop, providing energy for various cellular processes. Plants use this energy for growth, reproduction, and maintenance of their structure. In addition to supporting plant life, photosynthesis plays a critical role in Earth's atmosphere. It helps regulate levels of carbon dioxide, a greenhouse gas, thereby influencing climate and weather patterns. Furthermore, the oxygen released during photosynthesis is crucial for the survival of animals and humans alike."
-      },
-      {
-        "blank": "fies",
-        "text": "t is crucial for the survival..."
-      },
-      {
-        "text": "Understanding photosynthesis can provide insights into agricultural practices and environmental conservation. For instance, scientists are exploring ways to enhance photosynthetic efficiency in crops to increase yield and reduce the need for chemical fertilizers. Advances in this field may help address global food security challenges as the world’s population continues to grow."
-      },
-      {
-        "blank": "crop",
-        "text": "s to enhance photosynthetic efficiency..."
-      },
-      {
-        "text": "In summary, photosynthesis is a vital process that sustains life on our planet, making it a key focus of research and innovation."
+        "text": " The importance of photosynthesis extends beyond just providing food; it plays a key role in regulating atmospheric carbon levels. By absorbing carbon dioxide, plants help mitigate climate change. Furthermore, the oxygen produced is essential for the respiration of most living creatures. In essence, photosynthesis is not just a process for plants but a vital component of global ecological balance."
       }
     ]
   },
   "academic": {
-    "passage": "Photosynthesis is the process by which green plants and some other organisms use sunlight to synthesize foods with the help of chlorophyll. This process is essential for life on Earth as it produces oxygen, which is necessary for the survival of most living organisms. During photosynthesis, carbon dioxide and water are converted into glucose and oxygen, effectively supporting the growth and development of plants. Understanding photosynthesis is crucial for advancing agricultural techniques and addressing food security challenges, as it plays a significant role in the Earth's ecosystem.",
+    "passage": "Photosynthesis is the process by which green plants, algae, and some bacteria convert light energy into chemical energy. It is essential for life on Earth, as plants serve as the foundation of the food chain. Through photosynthesis, these organisms synthesize glucose from carbon dioxide and water, releasing oxygen as a byproduct. This process not only provides energy for the plants themselves but also supports life by supplying oxygen to the atmosphere. Understanding photosynthesis is crucial for addressing environmental issues such as climate change and food security.",
     "questions": [
       {
-        "q": "What is the main purpose of photosynthesis?",
+        "q": "What is the main idea of the passage?",
         "options": [
-          "To produce glucose and oxygen",
-          "To absorb carbon dioxide",
-          "To regulate temperature",
-          "To enhance soil nutrients"
+          "Photosynthesis supports life on Earth.",
+          "Photosynthesis is only important for plants.",
+          "Photosynthesis occurs in the dark.",
+          "Photosynthesis is an outdated concept."
         ],
         "correctIndex": 0,
-        "explain": "光合作用的主要目的是產生葡萄糖和氧氣。"
+        "explain": "本文的主要思想是光合作用支持地球上的生命。"
       },
       {
-        "q": "Which pigment is primarily involved in photosynthesis?",
+        "q": "What do plants produce during photosynthesis?",
         "options": [
-          "Carotenoid",
-          "Chlorophyll",
-          "Xanthophyll",
-          "Melanin"
+          "Carbon dioxide",
+          "Glucose",
+          "Water",
+          "Heat"
         ],
         "correctIndex": 1,
-        "explain": "綠色植物中主要參與光合作用的色素是葉綠素。"
+        "explain": "植物在光合作用中产生葡萄糖。"
       },
       {
-        "q": "What can be inferred about the importance of oxygen produced during photosynthesis?",
+        "q": "What can be inferred about the role of oxygen produced by photosynthesis?",
         "options": [
-          "It is only necessary for plants.",
-          "It contributes to air quality.",
-          "It has no significant role.",
-          "It is a waste product."
+          "It is not necessary for most organisms.",
+          "It is harmful to the environment.",
+          "It is important for respiration.",
+          "It decreases plant growth."
         ],
-        "correctIndex": 1,
-        "explain": "光合作用產生的氧氣對改善空氣質量至關重要。"
+        "correctIndex": 2,
+        "explain": "可以推断光合作用产生的氧气对呼吸是重要的。"
       },
       {
-        "q": "What does the term 'photosynthesis' mean in the context of this passage?",
+        "q": "What does 'synthesize' most closely mean in the context of the passage?",
         "options": [
-          "The process of energy absorption",
-          "The process of food synthesis using light",
-          "The process of plant growth",
-          "The process of soil nutrient enhancement"
+          "To analyze",
+          "To break down",
+          "To produce",
+          "To consume"
         ],
-        "correctIndex": 1,
-        "explain": "在本文中，'光合作用'指的是利用光進行食物合成的過程。"
+        "correctIndex": 2,
+        "explain": "在本文中，'合成'意为'生产'。"
       }
     ]
   },
   "daily": {
-    "passage": "Attention students! The library will be closed for maintenance this Friday from 8 AM to 4 PM. Please plan to visit us before or after these hours. Thank you for your understanding.",
+    "passage": "Attention students! The campus library will be closed for renovations from March 1st to March 15th. During this time, please utilize the online resources available through the library website. We appreciate your understanding and patience as we work to improve our facilities.",
     "questions": [
       {
-        "q": "When will the library be closed for maintenance?",
+        "q": "When will the campus library be closed?",
         "options": [
-          "Friday",
-          "Monday",
-          "Saturday",
-          "Wednesday"
+          "From March 1st to March 15th",
+          "From April 1st to April 15th",
+          "From February 1st to February 15th",
+          "From March 15th to March 30th"
         ],
         "correctIndex": 0,
-        "explain": "圖書館將在星期五關閉進行維護。"
+        "explain": "校图书馆将在3月1日至3月15日间关闭。"
       },
       {
-        "q": "What hours will the library be closed?",
+        "q": "What should students do during the closure?",
         "options": [
-          "8 AM to 4 PM",
-          "9 AM to 5 PM",
-          "10 AM to 6 PM",
-          "7 AM to 3 PM"
+          "Visit other libraries",
+          "Use online resources",
+          "Wait for the library to reopen",
+          "Read in the courtyard"
         ],
-        "correctIndex": 0,
-        "explain": "圖書館將在上午八點到下午四點關閉。"
+        "correctIndex": 1,
+        "explain": "学生在关闭期间应使用在线资源。"
       }
     ]
   }

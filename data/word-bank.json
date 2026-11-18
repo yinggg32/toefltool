@@ -10646,5 +10646,53 @@
     "zh": "遣返",
     "ex": "Repatriation of cultural artifacts is a contentious issue in the field of anthropology.",
     "cat": "📰 每日新詞：anthropology"
+  },
+  {
+    "word": "circulation",
+    "pos": "n.",
+    "root": "circulate循環 + ion名詞後綴",
+    "zh": "循環",
+    "ex": "Ocean circulation patterns influence global climate systems.",
+    "cat": "📰 每日新詞：environmental science"
+  },
+  {
+    "word": "urban ecology",
+    "pos": "n.",
+    "root": "urban城市 + ecology生態學",
+    "zh": "城市生態學",
+    "ex": "Urban ecology studies the interactions between living organisms and their urban environments.",
+    "cat": "📰 每日新詞：environmental science"
+  },
+  {
+    "word": "integrated",
+    "pos": "adj.",
+    "root": "integrate整合 + ed形容詞後綴",
+    "zh": "整合的",
+    "ex": "Integrated approaches to environmental management can enhance sustainability outcomes.",
+    "cat": "📰 每日新詞：environmental science"
+  },
+  {
+    "word": "nonnative species",
+    "pos": "n.",
+    "root": "non-非 + native本地的 + species物種",
+    "zh": "外來物種",
+    "ex": "Nonnative species can disrupt local ecosystems and outcompete native species.",
+    "cat": "📰 每日新詞：environmental science"
+  },
+  {
+    "word": "ecosystem dynamics",
+    "pos": "n.",
+    "root": "eco-生態 + system系統 + dynamics動力學",
+    "zh": "生態系統動態",
+    "ex": "Ecosystem dynamics are influenced by various biotic and abiotic factors.",
+    "cat": "📰 每日新詞：environmental science"
+  },
+  {
+    "word": "climate variability",
+    "pos": "n.",
+    "root": "climate氣候 + variability變異性",
+    "zh": "氣候變異性",
+    "ex": "Climate variability affects agricultural practices and food security.",
+    "cat": "📰 每日新詞：environmental science"
   }
 ]

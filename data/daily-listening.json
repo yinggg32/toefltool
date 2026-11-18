@@ -1,116 +1,116 @@
 {
   "chooseResponse": [
     {
-      "q": "What time does the meeting start?",
+      "q": "What do you think about the art exhibit?",
       "options": [
-        "At 2 PM.",
-        "In the library.",
-        "On Monday.",
-        "With snacks."
+        "It's fascinating!",
+        "I don't care for art.",
+        "Sounds boring to me.",
+        "I haven't seen it."
       ],
       "correctIndex": 0
     }
   ],
   "conversation": {
-    "transcript": "Student: Hi, I heard there's a new study group forming for Biology 101.\nAdvisor: Yes, that's correct! They're meeting every Wednesday afternoon.\nStudent: Who's leading the group?\nAdvisor: It's being led by Professor Smith, who is really great at explaining concepts.",
+    "transcript": "Student: Did you check out the new art exhibit at the gallery?\nAdvisor: Yes, I went yesterday! It was amazing. Did you get a chance to go?\nStudent: Not yet, but I've heard great things about it.\nAdvisor: You should definitely go. The modern pieces are particularly striking.",
     "questions": [
       {
-        "q": "When does the study group meet?",
+        "q": "What did the advisor think of the exhibit?",
         "options": [
-          "Every Tuesday.",
-          "Every Wednesday.",
-          "Every Thursday.",
-          "Every Monday."
+          "It was amazing.",
+          "It was boring.",
+          "It was small.",
+          "It was crowded."
         ],
-        "correctIndex": 1,
-        "explain": "這個學習小組每週三開會。"
+        "correctIndex": 0,
+        "explain": "顧問認為這次展覽非常精彩。"
       },
       {
-        "q": "Who is leading the study group?",
+        "q": "What did the student say about going to the exhibit?",
         "options": [
-          "Professor Johnson.",
-          "Professor Lee.",
-          "Professor Smith.",
-          "Professor Brown."
+          "They have already gone.",
+          "They plan to go soon.",
+          "They don't like art.",
+          "They are too busy."
         ],
-        "correctIndex": 2,
-        "explain": "這個學習小組由史密斯教授領導。"
+        "correctIndex": 1,
+        "explain": "學生表示他們還沒有去過，但計劃很快去。"
       }
     ]
   },
   "announcement": {
-    "transcript": "Attention all students! The library will have extended hours this weekend from 8 AM to midnight. Please take advantage of this opportunity to study for your midterms. Thank you!",
+    "transcript": "Attention all students! The university library will have extended hours during finals week. Starting Monday, the library will open at 8 AM and close at midnight until Friday. Make sure to take advantage of this time to study!",
     "questions": [
       {
-        "q": "What are the new library hours?",
+        "q": "What special hours will the library have?",
         "options": [
-          "8 AM to 10 PM.",
-          "8 AM to 11 PM.",
-          "8 AM to midnight.",
-          "8 AM to 9 PM."
-        ],
-        "correctIndex": 2,
-        "explain": "圖書館這週末的開放時間是早上八點到午夜。"
-      },
-      {
-        "q": "Why are the hours extended?",
-        "options": [
-          "For a special event.",
-          "For midterm studying.",
-          "For maintenance work.",
-          "For a book sale."
+          "Open 24 hours.",
+          "Open until midnight.",
+          "Close early.",
+          "Only open on weekends."
         ],
         "correctIndex": 1,
-        "explain": "這是為了讓學生準備期中考試。"
+        "explain": "圖書館在期末考週將延長開放時間，直到午夜。"
+      },
+      {
+        "q": "When do the extended hours begin?",
+        "options": [
+          "Next week.",
+          "This Monday.",
+          "Today.",
+          "Next month."
+        ],
+        "correctIndex": 1,
+        "explain": "延長開放時間從下週一開始。"
       }
     ]
   },
   "talk": {
-    "transcript": "Today, I'm going to talk about the concept of photosynthesis, which is essential for plant life. Photosynthesis is the process by which green plants, algae, and some bacteria convert light energy, usually from the sun, into chemical energy stored in glucose. This process takes place mainly in the leaves of plants, where chlorophyll absorbs sunlight. The overall reaction involves carbon dioxide and water, which, when combined with sunlight, produce glucose and oxygen. The oxygen is released into the atmosphere, while glucose provides energy for the plant's growth and development. Understanding photosynthesis is crucial, as it forms the basis for life on Earth by providing food and oxygen for living organisms.",
+    "transcript": "Today, I’d like to discuss the concept of sustainable development. Sustainable development aims to meet the needs of the present without compromising the ability of future generations to meet their own needs. It encompasses various fields including environmental protection, economic growth, and social inclusion. For instance, sustainable practices in agriculture not only preserve resources but also ensure food security for the future. By balancing environmental, social, and economic factors, sustainable development seeks to create a world where everyone can thrive. The importance of this concept is increasingly recognized globally, as nations strive to address climate change and resource depletion.",
     "questions": [
       {
-        "q": "What is photosynthesis?",
+        "q": "What is the main goal of sustainable development?",
         "options": [
-          "A process of respiration.",
-          "A process of energy conversion.",
-          "A type of growth.",
-          "A form of reproduction."
+          "To promote economic growth.",
+          "To help future generations.",
+          "To increase food production.",
+          "To protect wildlife."
         ],
         "correctIndex": 1,
-        "explain": "光合作用是能量轉換的過程。"
+        "explain": "可持續發展的主要目標是確保未來世代的需求得以滿足。"
       },
       {
-        "q": "Where does photosynthesis mainly occur?",
+        "q": "Which area does sustainable development encompass?",
         "options": [
-          "In the roots.",
-          "In the flowers.",
-          "In the leaves.",
-          "In the stems."
+          "Only environmental protection.",
+          "Only economic growth.",
+          "Environmental, economic, and social factors.",
+          "Only social inclusion."
         ],
         "correctIndex": 2,
-        "explain": "光合作用主要發生在植物的葉子中。"
+        "explain": "可持續發展涵蓋環境、經濟和社會等多個領域。"
       },
       {
-        "q": "What two products are produced during photosynthesis?",
+        "q": "What is one example of sustainable practices mentioned?",
         "options": [
-          "Glucose and nitrogen.",
-          "Glucose and oxygen.",
-          "Glucose and carbon dioxide.",
-          "Glucose and water."
+          "Increasing fossil fuel use.",
+          "Traditional farming techniques.",
+          "Sustainable practices in agriculture.",
+          "Urban development projects."
         ],
-        "correctIndex": 1,
-        "explain": "光合作用產生葡萄糖和氧氣。"
+        "correctIndex": 2,
+        "explain": "提到的可持續實踐的例子是農業中的可持續實踐。"
       },
       {
-        "q": "Why is photosynthesis important?",
+        "q": "Why is sustainable development increasingly recognized?",
         "options": [
-          "It provides shade.",
-          "It produces food and oxygen.",
-          "It helps with soil formation.",
-          "It attracts pollinators."
+          "To boost tourism.",
+          "To address climate change.",
+          "To reduce energy costs.",
+          "To increase urbanization."
         ],
         "correctIndex": 1,
-        "explain": "光合作用對地球生命至關重要，因為它提供食物和氧氣。"
+        "explain": "可持續發展越來越受到重視，是因為它能解決氣候變化問題。"
       }
     ]
   }
