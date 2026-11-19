@@ -10694,5 +10694,29 @@
     "zh": "氣候變異性",
     "ex": "Climate variability affects agricultural practices and food security.",
     "cat": "📰 每日新詞：environmental science"
+  },
+  {
+    "word": "export",
+    "pos": "n./v.",
+    "root": "出口—export",
+    "zh": "出口",
+    "ex": "The country relies heavily on the export of agricultural products.",
+    "cat": "📰 每日新詞：economics"
+  },
+  {
+    "word": "import",
+    "pos": "n./v.",
+    "root": "進口—import",
+    "zh": "進口",
+    "ex": "Import tariffs can affect the price of foreign goods.",
+    "cat": "📰 每日新詞：economics"
+  },
+  {
+    "word": "marketshare",
+    "pos": "n.",
+    "root": "市場佔有率—market share",
+    "zh": "市場佔有率",
+    "ex": "Increasing market share is a common goal for businesses.",
+    "cat": "📰 每日新詞：economics"
   }
 ]

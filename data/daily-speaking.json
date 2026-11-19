@@ -1,45 +1,45 @@
 {
   "shadowSentences": [
-    "I love to read books.",
-    "She enjoys playing the guitar.",
-    "They went to the beach yesterday.",
-    "He always wakes up early in the morning.",
-    "We should try that new restaurant downtown.",
-    "My friends and I are planning a movie night soon.",
-    "This weekend, I am going to visit my grandparents.",
-    "I recently started learning how to cook Italian dishes.",
-    "Traveling abroad has always been a dream of mine.",
-    "I think volunteering is a great way to give back to the community."
+    "I enjoy reading books on the weekend.",
+    "My favorite season of the year is autumn.",
+    "I like to cook new recipes for dinner.",
+    "Traveling to new places is always exciting for me.",
+    "I often listen to music while I work or study.",
+    "Going for walks helps me clear my mind and relax.",
+    "I believe learning a new language opens many doors.",
+    "My friends and I love to play board games on Fridays.",
+    "Finding a balance between work and hobbies can be challenging.",
+    "Volunteering in my community has been a rewarding experience."
   ],
   "interviewScenarios": [
     {
-      "topic": "旅行經歷",
+      "topic": "旅遊經驗",
       "intro": "You have agreed to take part in a research study about travel experiences.",
       "questions": [
-        "Q1: Can you share a memorable travel experience you had?",
-        "Q2: What challenges did you face during that trip?",
-        "Q3: How do you feel about traveling to different cultures?",
-        "Q4: What advice would you give someone planning their first trip?"
+        "Q1: Can you tell me about your most memorable travel experience?",
+        "Q2: What challenges did you face while traveling to that destination?",
+        "Q3: How do you think travel impacts a person's worldview?",
+        "Q4: What advice would you give someone planning their first trip abroad?"
       ]
     },
     {
-      "topic": "飲食習慣",
-      "intro": "You have agreed to take part in a research study about eating habits.",
+      "topic": "環保意識",
+      "intro": "You have agreed to take part in a research study about environmental awareness.",
       "questions": [
-        "Q1: What is your favorite type of food and why?",
-        "Q2: Have you ever tried cooking a new recipe? What was it?",
-        "Q3: What do you think about healthy eating in today's world?",
-        "Q4: What would you recommend to someone wanting to eat healthier?"
+        "Q1: What motivated you to become more environmentally conscious?",
+        "Q2: Have you encountered any difficulties in adopting eco-friendly habits?",
+        "Q3: In your opinion, how important is it to protect the environment?",
+        "Q4: What steps can individuals take to live a more sustainable lifestyle?"
       ]
     },
     {
-      "topic": "運動習慣",
-      "intro": "You have agreed to take part in a research study about exercise habits.",
+      "topic": "藝術愛好",
+      "intro": "You have agreed to take part in a research study about hobbies related to art.",
       "questions": [
-        "Q1: What type of exercise do you enjoy the most?",
-        "Q2: What obstacles do you encounter when trying to stay fit?",
-        "Q3: How important do you think exercise is for overall health?",
-        "Q4: What tips do you have for someone starting an exercise routine?"
+        "Q1: What type of art do you enjoy creating or experiencing?",
+        "Q2: Have you faced any obstacles while pursuing your art hobby?",
+        "Q3: How do you think engaging with art benefits mental health?",
+        "Q4: What tips would you offer someone who wants to start an art hobby?"
       ]
     }
   ]
