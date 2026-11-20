@@ -1,116 +1,116 @@
 {
   "chooseResponse": [
     {
-      "q": "What did you think of the lecture?",
+      "q": "What do you think about the new art exhibit?",
       "options": [
-        "It was really interesting.",
-        "I didn’t understand it.",
-        "It was too long.",
-        "I liked the examples."
+        "It's fascinating!",
+        "I haven't seen it yet.",
+        "I'm not interested.",
+        "I love modern art."
       ],
       "correctIndex": 0
     }
   ],
   "conversation": {
-    "transcript": "Student: Hi, Professor Lee! I wanted to ask about the final project.\nProfessor: Sure! What do you need to know?\nStudent: I’m a bit confused about the guidelines.\nProfessor: No problem. Let’s go over them together.",
+    "transcript": "Student: Have you checked out the new art exhibit at the gallery?\nAdvisor: Not yet! What's the theme?\nStudent: It's about contemporary artists from around the world.\nAdvisor: That sounds interesting! I should go this weekend.",
     "questions": [
       {
-        "q": "What is the student confused about?",
+        "q": "What is the theme of the exhibit?",
         "options": [
-          "The exam schedule.",
-          "The final project guidelines.",
-          "The reading materials.",
-          "The grading system."
+          "Contemporary artists",
+          "Historical paintings",
+          "Photography",
+          "Sculpture"
         ],
-        "correctIndex": 1,
-        "explain": "學生對期末專案的指導方針感到困惑。"
+        "correctIndex": 0,
+        "explain": "這個展覽的主題是當代藝術家。"
       },
       {
-        "q": "Who is the speaker addressing?",
+        "q": "When does the student recommend going?",
         "options": [
-          "A classmate.",
-          "The professor.",
-          "The teaching assistant.",
-          "The librarian."
+          "Next month",
+          "This weekend",
+          "Tomorrow",
+          "Today"
         ],
         "correctIndex": 1,
-        "explain": "講者在向教授提問。"
+        "explain": "學生建議這個週末去參觀。"
       }
     ]
   },
   "announcement": {
-    "transcript": "Attention students! The library will be hosting a special event this Friday at 4 PM. Join us for an afternoon of poetry readings and discussions with renowned authors. Refreshments will be provided. We hope to see you there!",
+    "transcript": "Attention students! The annual art fair is scheduled for next Friday in the main hall. Join us to explore various artworks and meet the artists. Entry is free for all students. We hope to see you there!",
     "questions": [
       {
-        "q": "What type of event is being announced?",
+        "q": "When is the art fair scheduled?",
         "options": [
-          "A book sale.",
-          "Poetry readings and discussions.",
-          "A lecture series.",
-          "A study group."
+          "Next week",
+          "Next month",
+          "This weekend",
+          "Tomorrow"
         ],
-        "correctIndex": 1,
-        "explain": "公告中提到的活動是詩歌朗讀和討論。"
+        "correctIndex": 0,
+        "explain": "藝術博覽會定於下週舉行。"
       },
       {
-        "q": "When is the event scheduled?",
+        "q": "Is there an entry fee for students?",
         "options": [
-          "This Thursday at 5 PM.",
-          "Next Monday at 3 PM.",
-          "This Friday at 4 PM.",
-          "Next Sunday at noon."
+          "Yes, $10",
+          "No, it's free",
+          "$5 for students",
+          "Only for non-students"
         ],
-        "correctIndex": 2,
-        "explain": "活動定於本週五下午4點舉行。"
+        "correctIndex": 1,
+        "explain": "對學生來說，入場是免費的。"
       }
     ]
   },
   "talk": {
-    "transcript": "Today, we will discuss the concept of biodiversity, which refers to the variety of life found on Earth. This includes the different species of plants, animals, and microorganisms, as well as the genetic diversity within these species. Biodiversity is crucial for ecosystem stability, providing resources such as food, medicine, and clean air. It also plays a key role in climate regulation and the resilience of ecosystems to changes. Protecting biodiversity is essential for maintaining the health of our planet and ensuring that future generations can enjoy the benefits of a diverse natural world.",
+    "transcript": "Today, we will discuss the concept of cultural relativism in anthropology. Cultural relativism suggests that a person's beliefs and activities should be understood based on that person's own culture, rather than be judged against the criteria of another culture. This perspective encourages openness and understanding in a multicultural world, acknowledging that norms and values differ across societies. For example, practices that may seem unusual in one culture can hold significant meaning in another. By adopting a culturally relativistic approach, anthropologists aim to appreciate the diversity of human experiences and avoid ethnocentrism, the belief that one's own culture is superior. This helps foster a deeper connection and respect among different cultures.",
     "questions": [
       {
-        "q": "What does biodiversity refer to?",
+        "q": "What is cultural relativism?",
         "options": [
-          "The variety of life on Earth.",
-          "The study of ecosystems.",
-          "The extinction of species.",
-          "The climate change impact."
+          "Judging cultures by one's own standards",
+          "Understanding cultures within their own context",
+          "Rejecting all cultural practices",
+          "Promoting one culture over another"
         ],
-        "correctIndex": 0,
-        "explain": "生物多樣性是指地球上生命的多樣性。"
+        "correctIndex": 1,
+        "explain": "文化相對主義是指根據一個人的文化來理解其信念和行為。"
       },
       {
-        "q": "Why is biodiversity important?",
+        "q": "What does cultural relativism encourage?",
         "options": [
-          "It reduces climate change.",
-          "It helps in food production.",
-          "It is essential for ecosystem stability.",
-          "It increases pollution."
+          "Ethnocentrism",
+          "Openness and understanding",
+          "Cultural superiority",
+          "Cultural isolation"
+        ],
+        "correctIndex": 1,
+        "explain": "文化相對主義鼓勵開放和理解。"
+      },
+      {
+        "q": "Why is cultural relativism important in anthropology?",
+        "options": [
+          "To promote a single culture",
+          "To appreciate human diversity",
+          "To judge other cultures",
+          "To eliminate cultural practices"
+        ],
+        "correctIndex": 1,
+        "explain": "文化相對主義在文化人類學中重要，因為它幫助我們欣賞人類的多樣性。"
+      },
+      {
+        "q": "What is ethnocentrism?",
+        "options": [
+          "Understanding cultures",
+          "Rejecting all cultures",
+          "Belief in cultural superiority",
+          "Respecting all cultures"
         ],
         "correctIndex": 2,
-        "explain": "生物多樣性對生態系統的穩定性至關重要。"
-      },
-      {
-        "q": "Which resources does biodiversity provide?",
-        "options": [
-          "Only food and water.",
-          "Medicine and renewable energy.",
-          "Food, medicine, and clean air.",
-          "None of the above."
-        ],
-        "correctIndex": 2,
-        "explain": "生物多樣性提供食物、藥品和清潔空氣等資源。"
-      },
-      {
-        "q": "What is a consequence of losing biodiversity?",
-        "options": [
-          "Increased genetic variety.",
-          "Enhanced ecosystem resilience.",
-          "Healthier ecosystems.",
-          "Unstable ecosystems."
-        ],
-        "correctIndex": 3,
-        "explain": "失去生物多樣性會導致生態系統不穩定。"
+        "explain": "民族中心主義是認為自己的文化優於其他文化的信念。"
       }
     ]
   }
