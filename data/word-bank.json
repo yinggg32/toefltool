@@ -10734,5 +10734,45 @@
     "zh": "情感",
     "ex": "Affect refers to the experience of feeling or emotion in psychological contexts.",
     "cat": "📰 每日新詞：psychology"
+  },
+  {
+    "word": "digitization",
+    "pos": "n.",
+    "root": "數位化 (shu wei hua) - digitization",
+    "zh": "數位化",
+    "ex": "The digitization of records has made information retrieval more efficient.",
+    "cat": "📰 每日新詞：technology and innovation"
+  },
+  {
+    "word": "sensor",
+    "pos": "n.",
+    "root": "傳感器 (chuan gan qi) - sensor",
+    "zh": "傳感器",
+    "ex": "Sensors play a critical role in the Internet of Things (IoT) ecosystem.",
+    "cat": "📰 每日新詞：technology and innovation"
+  },
+  {
+    "word": "cryptocurrency",
+    "pos": "n.",
+    "root": "加密貨幣 (jia mi huo bi) - cryptocurrency",
+    "zh": "加密貨幣",
+    "ex": "Cryptocurrency has gained popularity as an alternative investment option.",
+    "cat": "📰 每日新詞：technology and innovation"
+  },
+  {
+    "word": "smart technology",
+    "pos": "n.",
+    "root": "智能技術 (zhi neng ji shu) - smart technology",
+    "zh": "智能技術",
+    "ex": "Smart technology integrates advanced features to improve user experience.",
+    "cat": "📰 每日新詞：technology and innovation"
+  },
+  {
+    "word": "machine learning",
+    "pos": "n.",
+    "root": "機器學習 (ji qi xue xi) - machine learning",
+    "zh": "機器學習",
+    "ex": "Machine learning algorithms analyze large datasets to identify patterns.",
+    "cat": "📰 每日新詞：technology and innovation"
   }
 ]

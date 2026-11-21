@@ -1,116 +1,116 @@
 {
   "chooseResponse": [
     {
-      "q": "What do you think about the new art exhibit?",
+      "q": "What should I study for finals?",
       "options": [
-        "It's fascinating!",
-        "I haven't seen it yet.",
-        "I'm not interested.",
-        "I love modern art."
+        "Focus on key concepts.",
+        "Take a break.",
+        "Ask a friend.",
+        "Watch a movie."
       ],
       "correctIndex": 0
     }
   ],
   "conversation": {
-    "transcript": "Student: Have you checked out the new art exhibit at the gallery?\nAdvisor: Not yet! What's the theme?\nStudent: It's about contemporary artists from around the world.\nAdvisor: That sounds interesting! I should go this weekend.",
+    "transcript": "Student: Hey, have you started studying for the finals?\nAdvisor: Yes, I'm reviewing the main topics. How about you?\nStudent: I'm a bit overwhelmed. Any tips?\nAdvisor: Definitely! Focus on summarizing your notes first.",
     "questions": [
       {
-        "q": "What is the theme of the exhibit?",
+        "q": "What is the student feeling about finals?",
         "options": [
-          "Contemporary artists",
-          "Historical paintings",
-          "Photography",
-          "Sculpture"
-        ],
-        "correctIndex": 0,
-        "explain": "這個展覽的主題是當代藝術家。"
-      },
-      {
-        "q": "When does the student recommend going?",
-        "options": [
-          "Next month",
-          "This weekend",
-          "Tomorrow",
-          "Today"
+          "Excited",
+          "Overwhelmed",
+          "Confident",
+          "Indifferent"
         ],
         "correctIndex": 1,
-        "explain": "學生建議這個週末去參觀。"
+        "explain": "學生對期末考感到焦慮。"
+      },
+      {
+        "q": "What does the advisor suggest?",
+        "options": [
+          "Review textbooks",
+          "Summarize notes",
+          "Attend more classes",
+          "Take practice exams"
+        ],
+        "correctIndex": 1,
+        "explain": "顧問建議總結筆記。"
       }
     ]
   },
   "announcement": {
-    "transcript": "Attention students! The annual art fair is scheduled for next Friday in the main hall. Join us to explore various artworks and meet the artists. Entry is free for all students. We hope to see you there!",
+    "transcript": "Attention students! The campus library will be closing early tomorrow at 5 PM due to maintenance. Please plan your study time accordingly.",
     "questions": [
       {
-        "q": "When is the art fair scheduled?",
+        "q": "Why is the library closing early?",
         "options": [
-          "Next week",
-          "Next month",
-          "This weekend",
-          "Tomorrow"
-        ],
-        "correctIndex": 0,
-        "explain": "藝術博覽會定於下週舉行。"
-      },
-      {
-        "q": "Is there an entry fee for students?",
-        "options": [
-          "Yes, $10",
-          "No, it's free",
-          "$5 for students",
-          "Only for non-students"
+          "For a holiday",
+          "For maintenance",
+          "For a special event",
+          "For inventory"
         ],
         "correctIndex": 1,
-        "explain": "對學生來說，入場是免費的。"
+        "explain": "圖書館因維護而提前關閉。"
+      },
+      {
+        "q": "What time will the library close?",
+        "options": [
+          "4 PM",
+          "5 PM",
+          "6 PM",
+          "7 PM"
+        ],
+        "correctIndex": 1,
+        "explain": "圖書館將在下午5點關閉。"
       }
     ]
   },
   "talk": {
-    "transcript": "Today, we will discuss the concept of cultural relativism in anthropology. Cultural relativism suggests that a person's beliefs and activities should be understood based on that person's own culture, rather than be judged against the criteria of another culture. This perspective encourages openness and understanding in a multicultural world, acknowledging that norms and values differ across societies. For example, practices that may seem unusual in one culture can hold significant meaning in another. By adopting a culturally relativistic approach, anthropologists aim to appreciate the diversity of human experiences and avoid ethnocentrism, the belief that one's own culture is superior. This helps foster a deeper connection and respect among different cultures.",
+    "transcript": "Today, I will explain the concept of photosynthesis. Photosynthesis is the process by which green plants use sunlight to convert carbon dioxide and water into glucose and oxygen. This process occurs mainly in the leaves, where chlorophyll captures sunlight. The glucose produced serves as energy for the plant, while oxygen is released into the atmosphere. Photosynthesis is essential for life on Earth, as it provides the oxygen we breathe and forms the base of the food chain.",
     "questions": [
       {
-        "q": "What is cultural relativism?",
+        "q": "What do plants convert during photosynthesis?",
         "options": [
-          "Judging cultures by one's own standards",
-          "Understanding cultures within their own context",
-          "Rejecting all cultural practices",
-          "Promoting one culture over another"
-        ],
-        "correctIndex": 1,
-        "explain": "文化相對主義是指根據一個人的文化來理解其信念和行為。"
-      },
-      {
-        "q": "What does cultural relativism encourage?",
-        "options": [
-          "Ethnocentrism",
-          "Openness and understanding",
-          "Cultural superiority",
-          "Cultural isolation"
-        ],
-        "correctIndex": 1,
-        "explain": "文化相對主義鼓勵開放和理解。"
-      },
-      {
-        "q": "Why is cultural relativism important in anthropology?",
-        "options": [
-          "To promote a single culture",
-          "To appreciate human diversity",
-          "To judge other cultures",
-          "To eliminate cultural practices"
-        ],
-        "correctIndex": 1,
-        "explain": "文化相對主義在文化人類學中重要，因為它幫助我們欣賞人類的多樣性。"
-      },
-      {
-        "q": "What is ethnocentrism?",
-        "options": [
-          "Understanding cultures",
-          "Rejecting all cultures",
-          "Belief in cultural superiority",
-          "Respecting all cultures"
+          "Sunlight",
+          "Glucose",
+          "Carbon dioxide and water",
+          "Oxygen"
         ],
         "correctIndex": 2,
-        "explain": "民族中心主義是認為自己的文化優於其他文化的信念。"
+        "explain": "植物在光合作用中轉化二氧化碳和水。"
+      },
+      {
+        "q": "Where does photosynthesis primarily occur?",
+        "options": [
+          "In the roots",
+          "In the stems",
+          "In the leaves",
+          "In the flowers"
+        ],
+        "correctIndex": 2,
+        "explain": "光合作用主要發生在葉子中。"
+      },
+      {
+        "q": "What is produced as a byproduct of photosynthesis?",
+        "options": [
+          "Glucose",
+          "Carbon dioxide",
+          "Oxygen",
+          "Water"
+        ],
+        "correctIndex": 2,
+        "explain": "光合作用的副產品是氧氣。"
+      },
+      {
+        "q": "Why is photosynthesis important?",
+        "options": [
+          "It produces carbon dioxide",
+          "It is a source of energy",
+          "It provides oxygen and food",
+          "It helps plants grow faster"
+        ],
+        "correctIndex": 2,
+        "explain": "光合作用提供氧氣和食物，對生命至關重要。"
       }
     ]
   }
