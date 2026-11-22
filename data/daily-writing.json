@@ -4,40 +4,42 @@
       "words": [
         "students",
         "should",
-        "prepare",
-        "for",
-        "exams",
+        "submit",
+        "their",
+        "assignments",
         "by",
-        "reviewing",
-        "material"
+        "the",
+        "deadline"
       ],
-      "display": "Students should prepare for exams by reviewing material."
+      "display": "Students should submit their assignments by the deadline."
     },
     {
       "words": [
         "the",
-        "government",
-        "should",
-        "invest",
-        "more",
-        "in",
-        "renewable",
-        "energy"
+        "results",
+        "of",
+        "the",
+        "experiment",
+        "were",
+        "not",
+        "as",
+        "expected"
       ],
-      "display": "The government should invest more in renewable energy."
+      "display": "The results of the experiment were not as expected."
     },
     {
       "words": [
-        "reading",
-        "books",
-        "is",
-        "essential",
-        "for",
-        "developing",
-        "critical",
-        "thinking"
+        "the",
+        "library",
+        "has",
+        "extended",
+        "its",
+        "hours",
+        "to",
+        "accommodate",
+        "students"
       ],
-      "display": "Reading books is essential for developing critical thinking."
+      "display": "The library has extended its hours to accommodate students."
     },
     {
       "words": [
@@ -45,82 +47,83 @@
         "in",
         "extracurricular",
         "activities",
-        "helps",
-        "students",
-        "gain",
-        "experience"
-      ],
-      "display": "Participating in extracurricular activities helps students gain experience."
-    },
-    {
-      "words": [
-        "traveling",
         "can",
-        "broaden",
-        "a",
-        "person's",
-        "perspective",
-        "on",
+        "improve",
+        "student",
         "life"
       ],
-      "display": "Traveling can broaden a person's perspective on life."
+      "display": "Participating in extracurricular activities can improve student life."
     },
     {
       "words": [
-        "effective",
-        "communication",
-        "skills",
-        "are",
-        "important",
-        "in",
         "the",
-        "workplace"
+        "professor",
+        "assigned",
+        "a",
+        "research",
+        "paper",
+        "on",
+        "climate",
+        "change"
       ],
-      "display": "Effective communication skills are important in the workplace."
+      "display": "The professor assigned a research paper on climate change."
     },
     {
       "words": [
-        "technology",
-        "has",
-        "changed",
+        "many",
+        "students",
+        "find",
+        "study",
+        "groups",
+        "helpful",
+        "for",
+        "preparing",
+        "exams"
+      ],
+      "display": "Many students find study groups helpful for preparing exams."
+    },
+    {
+      "words": [
+        "attending",
+        "lectures",
+        "regularly",
+        "helps",
+        "students",
+        "understand",
         "the",
-        "way",
-        "we",
-        "learn",
-        "and",
-        "interact"
+        "material"
       ],
-      "display": "Technology has changed the way we learn and interact."
+      "display": "Attending lectures regularly helps students understand the material."
     },
     {
       "words": [
-        "volunteering",
-        "provides",
-        "opportunities",
-        "to",
-        "help",
-        "others",
-        "and",
-        "gain",
-        "skills"
+        "the",
+        "university",
+        "offers",
+        "various",
+        "resources",
+        "for",
+        "mental",
+        "health",
+        "support"
       ],
-      "display": "Volunteering provides opportunities to help others and gain skills."
+      "display": "The university offers various resources for mental health support."
     }
   ],
   "emailPrompts": [
-    "寄信給教授，請假因家庭緊急事件，希望能補上課程。",
-    "寄信給宿舍辦公室，詢問有關網路連接問題的解決方案。",
+    "寄信給宿舍辦公室，詢問如何申請更換宿舍房間。",
     "寄信給圖書館，請求延長書籍的借閱期限。",
-    "寄信給學生會，表達對即將舉行的活動的關注與建議。",
-    "寄信給客服，反映最近購買產品的品質問題，請求退貨。",
-    "寄信給志願者組織，表達對參與社區服務活動的興趣。"
+    "寄信給學生會，表達希望參加即將舉辦的活動。",
+    "寄信給教授，詢問有關課程內容的進一步問題。",
+    "寄信給客戶服務，反映產品的問題並尋求幫助。",
+    "寄信給實習主管，確認面試的時間和地點。"
   ],
   "discussionPrompts": [
-    "教授問：「科技對於教育的影響是正面還是負面？」",
-    "教授問：「大學應該如何平衡學術與實習的重視？」",
-    "教授問：「文化多樣性在社會中的角色有何重要性？」",
-    "教授問：「在當今社會，社交媒體的影響是否過於強大？」",
-    "教授問：「全球暖化的解決方案應該由誰來負責？」",
-    "教授問：「藝術在現代社會中應扮演什麼樣的角色？」"
+    "教授問：「在當今社會，科技對教育的影響是正面還是負面？」",
+    "教授問：「應該如何平衡學業與社交生活？」",
+    "教授問：「環保政策的實施對經濟發展有何影響？」",
+    "教授問：「藝術在社會變革中的角色是什麼？」",
+    "教授問：「社交媒體對青少年心理健康的影響如何？」",
+    "教授問：「全球化對文化多樣性的影響有哪些？」"
   ]
 }

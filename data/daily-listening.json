@@ -1,116 +1,116 @@
 {
   "chooseResponse": [
     {
-      "q": "What should I study for finals?",
+      "q": "What are your plans for the weekend?",
       "options": [
-        "Focus on key concepts.",
-        "Take a break.",
-        "Ask a friend.",
-        "Watch a movie."
+        "I'm going hiking.",
+        "I might study.",
+        "I have to work.",
+        "I'm not sure yet."
       ],
       "correctIndex": 0
     }
   ],
   "conversation": {
-    "transcript": "Student: Hey, have you started studying for the finals?\nAdvisor: Yes, I'm reviewing the main topics. How about you?\nStudent: I'm a bit overwhelmed. Any tips?\nAdvisor: Definitely! Focus on summarizing your notes first.",
-    "questions": [
-      {
-        "q": "What is the student feeling about finals?",
-        "options": [
-          "Excited",
-          "Overwhelmed",
-          "Confident",
-          "Indifferent"
-        ],
-        "correctIndex": 1,
-        "explain": "學生對期末考感到焦慮。"
-      },
-      {
-        "q": "What does the advisor suggest?",
-        "options": [
-          "Review textbooks",
-          "Summarize notes",
-          "Attend more classes",
-          "Take practice exams"
-        ],
-        "correctIndex": 1,
-        "explain": "顧問建議總結筆記。"
-      }
-    ]
+    "transcript": "Student: Hey, did you finish the history project?\nProfessor: Yes, I completed it yesterday. How about you?\nStudent: I'm almost done, just need to finalize my sources.\nProfessor: Make sure to check the citation format."
   },
+  "questions": [
+    {
+      "q": "What is the student mainly concerned about?",
+      "options": [
+        "The project deadline.",
+        "The citation format.",
+        "The project topic.",
+        "The professor's opinion."
+      ],
+      "correctIndex": 1,
+      "explain": "學生主要擔心引用格式。"
+    },
+    {
+      "q": "When did the professor finish the project?",
+      "options": [
+        "Last week.",
+        "Yesterday.",
+        "This morning.",
+        "Today."
+      ],
+      "correctIndex": 1,
+      "explain": "教授昨天完成了專案。"
+    }
+  ],
   "announcement": {
-    "transcript": "Attention students! The campus library will be closing early tomorrow at 5 PM due to maintenance. Please plan your study time accordingly.",
+    "transcript": "Attention students: The library will be closed for renovations starting next Monday and will reopen in three weeks. Please plan your study sessions accordingly. Thank you for your understanding.",
     "questions": [
       {
-        "q": "Why is the library closing early?",
+        "q": "Why will the library be closed?",
         "options": [
-          "For a holiday",
-          "For maintenance",
-          "For a special event",
-          "For inventory"
+          "For staff training.",
+          "For book inventory.",
+          "For renovations.",
+          "For cleaning."
         ],
-        "correctIndex": 1,
-        "explain": "圖書館因維護而提前關閉。"
+        "correctIndex": 2,
+        "explain": "圖書館將關閉以進行翻修。"
       },
       {
-        "q": "What time will the library close?",
+        "q": "When will the library reopen?",
         "options": [
-          "4 PM",
-          "5 PM",
-          "6 PM",
-          "7 PM"
+          "Next Monday.",
+          "In one week.",
+          "In two weeks.",
+          "In three weeks."
         ],
-        "correctIndex": 1,
-        "explain": "圖書館將在下午5點關閉。"
+        "correctIndex": 3,
+        "explain": "圖書館將在三週後重新開放。"
       }
     ]
   },
   "talk": {
-    "transcript": "Today, I will explain the concept of photosynthesis. Photosynthesis is the process by which green plants use sunlight to convert carbon dioxide and water into glucose and oxygen. This process occurs mainly in the leaves, where chlorophyll captures sunlight. The glucose produced serves as energy for the plant, while oxygen is released into the atmosphere. Photosynthesis is essential for life on Earth, as it provides the oxygen we breathe and forms the base of the food chain.",
+    "transcript": "Today, we're going to discuss the concept of sustainable development. Sustainable development refers to meeting the needs of the present without compromising the ability of future generations to meet their own needs. It encompasses various aspects, including environmental protection, social equity, and economic growth. An important principle is the balance between these three pillars, ensuring that advancements in one area do not negatively impact the others. For instance, investing in renewable energy can boost economic growth while reducing environmental harm. Ultimately, sustainable development aims to create a better quality of life for all, both now and in the future.",
     "questions": [
       {
-        "q": "What do plants convert during photosynthesis?",
+        "q": "What does sustainable development aim to achieve?",
         "options": [
-          "Sunlight",
-          "Glucose",
-          "Carbon dioxide and water",
-          "Oxygen"
+          "Economic growth only.",
+          "Environmental protection only.",
+          "Better quality of life for all.",
+          "Social equity only."
         ],
         "correctIndex": 2,
-        "explain": "植物在光合作用中轉化二氧化碳和水。"
+        "explain": "可持續發展旨在為所有人創造更好的生活品質。"
       },
       {
-        "q": "Where does photosynthesis primarily occur?",
+        "q": "Which of the following is NOT a pillar of sustainable development?",
         "options": [
-          "In the roots",
-          "In the stems",
-          "In the leaves",
-          "In the flowers"
+          "Environmental protection.",
+          "Social equity.",
+          "Economic growth.",
+          "Technology advancement."
         ],
-        "correctIndex": 2,
-        "explain": "光合作用主要發生在葉子中。"
+        "correctIndex": 3,
+        "explain": "科技進步不是可持續發展的支柱之一。"
       },
       {
-        "q": "What is produced as a byproduct of photosynthesis?",
+        "q": "How can investing in renewable energy benefit society?",
         "options": [
-          "Glucose",
-          "Carbon dioxide",
-          "Oxygen",
-          "Water"
+          "It reduces jobs.",
+          "It harms the economy.",
+          "It increases environmental harm.",
+          "It boosts economic growth."
         ],
-        "correctIndex": 2,
-        "explain": "光合作用的副產品是氧氣。"
+        "correctIndex": 3,
+        "explain": "投資可再生能源可以促進經濟增長。"
       },
       {
-        "q": "Why is photosynthesis important?",
+        "q": "What is essential for sustainable development?",
         "options": [
-          "It produces carbon dioxide",
-          "It is a source of energy",
-          "It provides oxygen and food",
-          "It helps plants grow faster"
+          "Focusing on one area only.",
+          "Balancing all pillars.",
+          "Ignoring future generations.",
+          "Maximizing profit."
         ],
-        "correctIndex": 2,
-        "explain": "光合作用提供氧氣和食物，對生命至關重要。"
+        "correctIndex": 1,
+        "explain": "可持續發展需要平衡所有支柱。"
       }
     ]
   }

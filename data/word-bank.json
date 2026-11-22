@@ -10774,5 +10774,21 @@
     "zh": "機器學習",
     "ex": "Machine learning algorithms analyze large datasets to identify patterns.",
     "cat": "📰 每日新詞：technology and innovation"
+  },
+  {
+    "word": "source",
+    "pos": "n.",
+    "root": "—",
+    "zh": "来源",
+    "ex": "Primary sources are essential for conducting thorough historical research.",
+    "cat": "📰 每日新詞：history"
+  },
+  {
+    "word": "emancipation",
+    "pos": "n.",
+    "root": "e-出 + mancip-掌控 + -ation-过程",
+    "zh": "解放",
+    "ex": "The Emancipation Proclamation was a pivotal moment in American history.",
+    "cat": "📰 每日新詞：history"
   }
 ]
