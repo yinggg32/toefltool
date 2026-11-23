@@ -1,45 +1,45 @@
 {
   "shadowSentences": [
-    "I love reading books in my free time.",
-    "My favorite season is autumn because of the colors.",
-    "I often cook new recipes on the weekend.",
-    "Traveling to new places brings me joy and excitement.",
-    "I enjoy listening to music while I work on projects.",
-    "Exercising regularly helps me stay healthy and focused.",
-    "I find gardening to be a relaxing and rewarding hobby.",
-    "Learning new languages opens up many opportunities for me.",
-    "Spending time with family is important for my happiness.",
-    "Volunteering at local shelters has taught me the value of community."
+    "I enjoy reading books.",
+    "My favorite sport is basketball.",
+    "I like to cook on weekends.",
+    "Traveling opens up new experiences for me.",
+    "Listening to music helps me relax after work.",
+    "I often go hiking in the mountains nearby.",
+    "Gardening has become a peaceful hobby for me.",
+    "I find photography a wonderful way to capture moments.",
+    "Volunteering at the local shelter is very rewarding.",
+    "Writing in a journal helps me reflect on my day."
   ],
   "interviewScenarios": [
     {
-      "topic": "旅行經驗",
-      "intro": "You have agreed to take part in a research study about travel experiences.",
+      "topic": "饮食习惯",
+      "intro": "You have agreed to take part in a research study about eating habits.",
       "questions": [
-        "Q1: What is the most memorable trip you have taken?",
-        "Q2: What challenges did you face while traveling?",
-        "Q3: How do you feel about traveling alone versus with friends?",
-        "Q4: What tips would you give someone planning their first trip?"
+        "Q1: What are some typical foods you eat daily?",
+        "Q2: Have you ever faced challenges in maintaining a healthy diet?",
+        "Q3: How do you feel about the importance of nutrition in our lives?",
+        "Q4: What advice would you give someone trying to eat healthier?"
       ]
     },
     {
-      "topic": "學習策略",
-      "intro": "You have agreed to take part in a research study about learning strategies.",
+      "topic": "宠物养护",
+      "intro": "You have agreed to take part in a research study about pet care.",
       "questions": [
-        "Q1: What study methods have worked best for you?",
-        "Q2: How do you handle distractions while studying?",
-        "Q3: What do you think about group study sessions?",
-        "Q4: What advice would you give to students struggling to stay focused?"
+        "Q1: Can you tell me about any pets you have owned?",
+        "Q2: What challenges have you encountered while caring for pets?",
+        "Q3: In your opinion, what makes a good pet owner?",
+        "Q4: What recommendations would you give to new pet owners?"
       ]
     },
     {
-      "topic": "藝術愛好",
-      "intro": "You have agreed to take part in a research study about artistic hobbies.",
+      "topic": "环保意识",
+      "intro": "You have agreed to take part in a research study about environmental awareness.",
       "questions": [
-        "Q1: What artistic hobby do you enjoy the most?",
-        "Q2: Have you faced any obstacles in pursuing this hobby?",
-        "Q3: Why do you think artistic expression is important?",
-        "Q4: What recommendations do you have for beginners in this art form?"
+        "Q1: What steps do you take to be more environmentally friendly?",
+        "Q2: Have you faced any obstacles in reducing your carbon footprint?",
+        "Q3: What is your opinion on climate change and its effects?",
+        "Q4: What advice would you offer to someone wanting to live sustainably?"
       ]
     }
   ]

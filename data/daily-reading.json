@@ -2,113 +2,95 @@
   "cloze": {
     "segments": [
       {
-        "text": "The process of photosynthesis is vital for life on Earth. It occurs primarily in plants, where chlorophyll, the green pigment, plays a key role. Through this process, plants convert carbon dioxide and water into glucose and oxygen, using sunlight as an energy source. The overall equation for photosynthesis can be summarized as: \nCO₂ + H₂O + light energy → C₆H₁₂O₆ + O₂. This transformation not only supports plants but also provides oxygen, which is essential for many living organisms. Understanding photosynthesis helps scientists address issues like climate change and food security."
+        "text": "The human brain is an incredibly complex organ responsible for many functions, including thought, memory, and emotion. It is composed of billions of neurons, each connected through synapses. The process of how these connections are formed is known as neuropla"
       },
       {
-        "blank": "proce"
+        "blank": "sticity"
       },
       {
-        "text": "ss involves several stages, including light-dependent reactions and the Calvin cycle. During the light-dependent reactions, sunlight is absorbed and converted into chemical energy."
+        "text": ", which allows the brain to adapt and reorganize itself in response to new experiences. Research shows that learning new skills can lead to the formation of new synaptic connections. Furthermore, the brain's ability to change is not limited to childhood; it can occur throughout a person's "
       },
       {
-        "blank": "chlo"
+        "blank": "life."
       },
       {
-        "text": "rophyll absorbs light energy at specific wavelengths, leading to the production of ATP and NADPH. These molecules then play a crucial role in the Calvin cycle, where carbon fixation occurs."
-      },
-      {
-        "blank": "cyle"
-      },
-      {
-        "text": "The significance of photosynthesis extends beyond plants, affecting ecosystems and global carbon cycles."
-      },
-      {
-        "blank": "gluc"
-      },
-      {
-        "text": "ose produced during the process serves as an energy source for various organisms."
-      },
-      {
-        "blank": "essent"
-      },
-      {
-        "text": "ial for understanding ecological balance, photosynthesis is a fundamental concept in biology and environmental science."
+        "text": " This has significant implications for education and rehabilitation, suggesting that targeted interventions can enhance cognitive functions even in older adults. Overall, understanding brain plasticity is vital for advancing techniques in cognitive therapy and educational practices."
       }
     ]
   },
   "academic": {
-    "passage": "Photosynthesis is a complex process allowing plants to convert light into chemical energy. This process occurs mainly in the chloroplasts of plant cells, where chlorophyll captures sunlight. The light-dependent reactions generate ATP and NADPH, which are essential for the subsequent Calvin cycle where carbon dioxide is fixed into glucose. This process not only sustains plant life but also provides oxygen, which is crucial for aerobic organisms. Understanding photosynthesis is vital for addressing challenges like food security and climate change.",
+    "passage": "Neuroplasticity is the brain's ability to reorganize itself by forming new neural connections. This phenomenon is crucial for learning and memory, allowing individuals to acquire new skills and adapt to changes in their environment. Studies indicate that both mental and physical activities can stimulate neuroplastic changes, enhancing cognitive functions. Furthermore, neuroplasticity is not confined to the early stages of life; it continues to occur throughout adulthood, providing lifelong opportunities for personal growth and rehabilitation.",
     "questions": [
       {
-        "q": "What is the main purpose of photosynthesis?",
+        "q": "What is the main idea of the passage?",
         "options": [
-          "To convert light energy into chemical energy",
-          "To produce carbon dioxide",
-          "To absorb sunlight",
-          "To create glucose only"
+          "Neuroplasticity allows lifelong learning",
+          "Neuroplasticity only occurs in childhood",
+          "The brain cannot change after a certain age",
+          "Neuroplasticity has no educational implications"
         ],
         "correctIndex": 0,
-        "explain": "這是因為光合作用的主要目的是將光能轉化為化學能。"
+        "explain": "這段文字的主旨是神經可塑性使得終身學習成為可能。"
       },
       {
-        "q": "Where does photosynthesis primarily occur?",
+        "q": "What activities can stimulate neuroplastic changes?",
         "options": [
-          "In the chloroplasts of plant cells",
-          "In the roots of plants",
-          "In the soil",
-          "In animal cells"
+          "Only mental activities",
+          "Only physical activities",
+          "Both mental and physical activities",
+          "No activities can stimulate changes"
+        ],
+        "correctIndex": 2,
+        "explain": "這段中提到心理和身體活動都可以促進神經可塑性的改變。"
+      },
+      {
+        "q": "What inference can be made about neuroplasticity in adults?",
+        "options": [
+          "It stops after childhood",
+          "It occurs less frequently than in children",
+          "It can be enhanced through targeted interventions",
+          "It only affects physical abilities"
+        ],
+        "correctIndex": 2,
+        "explain": "成年人也能夠透過針對性的介入來增強神經可塑性。"
+      },
+      {
+        "q": "What does the term 'neural connections' refer to in the passage?",
+        "options": [
+          "Links between neurons",
+          "Physical activities",
+          "Cognitive functions",
+          "Educational techniques"
         ],
         "correctIndex": 0,
-        "explain": "因為光合作用主要在植物細胞的葉綠體中進行。"
-      },
-      {
-        "q": "What inference can be drawn about the role of chlorophyll?",
-        "options": [
-          "It is not important for photosynthesis",
-          "It absorbs sunlight for energy",
-          "It helps in nutrient absorption",
-          "It only functions at night"
-        ],
-        "correctIndex": 1,
-        "explain": "葉綠素吸收陽光以提供能量，因此對光合作用至關重要。"
-      },
-      {
-        "q": "What does the term 'carbon fixation' refer to in the context of photosynthesis?",
-        "options": [
-          "The conversion of carbon dioxide into glucose",
-          "The release of carbon dioxide",
-          "The increase of carbon levels in the atmosphere",
-          "The process of storing carbon in soil"
-        ],
-        "correctIndex": 0,
-        "explain": "碳固定指的是在光合作用過程中將二氧化碳轉化為葡萄糖。"
+        "explain": "在這段文字中，'神經連接'指的是神經元之間的連結。"
       }
     ]
   },
   "daily": {
-    "passage": "Attention students: The library will be closed for renovation from June 1st to June 15th. Please make sure to return all borrowed materials before the deadline. We apologize for any inconvenience and appreciate your understanding.",
+    "passage": "Attention students! The campus library will be closed for renovations from March 1st to March 15th. During this time, all study areas and resources will be unavailable. Please plan accordingly and utilize other study spaces on campus.",
     "questions": [
       {
-        "q": "What dates will the library be closed?",
+        "q": "When will the campus library be closed?",
         "options": [
-          "June 1st to June 15th",
-          "June 1st to June 5th",
-          "May 31st to June 15th",
-          "June 10th to June 20th"
+          "March 1st to March 15th",
+          "March 1st to March 10th",
+          "March 15th to March 20th",
+          "It will remain open"
         ],
         "correctIndex": 0,
-        "explain": "因為公告中明確提到了圖書館將於6月1日至6月15日關閉。"
+        "explain": "圖書館將於三月一日到三月十五日關閉。"
       },
       {
-        "q": "What should students do before the library closes?",
+        "q": "What should students do during the library closure?",
         "options": [
-          "Borrow more books",
-          "Return all borrowed materials",
-          "Start new projects",
-          "Visit the library on weekends"
+          "Use the library resources",
+          "Plan to study elsewhere",
+          "Ignore the announcement",
+          "Wait for the library to reopen"
         ],
         "correctIndex": 1,
-        "explain": "學生應在閉館之前歸還所有借用的資料。"
+        "explain": "學生應該計畫去校園其他地方學習。"
       }
     ]
   }

@@ -2,128 +2,123 @@
   "buildSentences": [
     {
       "words": [
+        "the",
+        "researchers",
+        "conducted",
+        "a",
+        "study",
+        "on",
+        "the",
+        "effects"
+      ],
+      "display": "The researchers conducted a study on the effects."
+    },
+    {
+      "words": [
         "students",
         "should",
-        "submit",
+        "balance",
         "their",
-        "assignments",
+        "studies",
+        "and",
+        "extracurricular",
+        "activities"
+      ],
+      "display": "Students should balance their studies and extracurricular activities."
+    },
+    {
+      "words": [
+        "the",
+        "environment",
+        "is",
+        "impacted",
         "by",
-        "the",
-        "deadline"
+        "human",
+        "activities",
+        "significantly"
       ],
-      "display": "Students should submit their assignments by the deadline."
+      "display": "The environment is impacted by human activities significantly."
     },
     {
       "words": [
-        "the",
-        "results",
-        "of",
-        "the",
-        "experiment",
-        "were",
-        "not",
-        "as",
-        "expected"
-      ],
-      "display": "The results of the experiment were not as expected."
-    },
-    {
-      "words": [
-        "the",
-        "library",
+        "technology",
         "has",
-        "extended",
-        "its",
-        "hours",
-        "to",
-        "accommodate",
-        "students"
+        "changed",
+        "the",
+        "way",
+        "we",
+        "communicate",
+        "with"
       ],
-      "display": "The library has extended its hours to accommodate students."
+      "display": "Technology has changed the way we communicate with."
+    },
+    {
+      "words": [
+        "higher",
+        "education",
+        "can",
+        "lead",
+        "to",
+        "better",
+        "job",
+        "opportunities"
+      ],
+      "display": "Higher education can lead to better job opportunities."
     },
     {
       "words": [
         "participating",
         "in",
-        "extracurricular",
-        "activities",
-        "can",
-        "improve",
-        "student",
-        "life"
-      ],
-      "display": "Participating in extracurricular activities can improve student life."
-    },
-    {
-      "words": [
-        "the",
-        "professor",
-        "assigned",
-        "a",
-        "research",
-        "paper",
-        "on",
-        "climate",
-        "change"
-      ],
-      "display": "The professor assigned a research paper on climate change."
-    },
-    {
-      "words": [
-        "many",
-        "students",
-        "find",
-        "study",
-        "groups",
-        "helpful",
-        "for",
-        "preparing",
-        "exams"
-      ],
-      "display": "Many students find study groups helpful for preparing exams."
-    },
-    {
-      "words": [
-        "attending",
-        "lectures",
-        "regularly",
+        "team",
+        "sports",
         "helps",
-        "students",
-        "understand",
-        "the",
-        "material"
+        "develop",
+        "leadership",
+        "skills"
       ],
-      "display": "Attending lectures regularly helps students understand the material."
+      "display": "Participating in team sports helps develop leadership skills."
     },
     {
       "words": [
+        "climate",
+        "change",
+        "is",
+        "one",
+        "of",
         "the",
-        "university",
-        "offers",
-        "various",
-        "resources",
-        "for",
-        "mental",
-        "health",
-        "support"
+        "biggest",
+        "challenges"
       ],
-      "display": "The university offers various resources for mental health support."
+      "display": "Climate change is one of the biggest challenges."
+    },
+    {
+      "words": [
+        "books",
+        "can",
+        "provide",
+        "insightful",
+        "perspectives",
+        "on",
+        "various",
+        "topics"
+      ],
+      "display": "Books can provide insightful perspectives on various topics."
     }
   ],
   "emailPrompts": [
-    "寄信給宿舍辦公室，詢問如何申請更換宿舍房間。",
-    "寄信給圖書館，請求延長書籍的借閱期限。",
-    "寄信給學生會，表達希望參加即將舉辦的活動。",
-    "寄信給教授，詢問有關課程內容的進一步問題。",
-    "寄信給客戶服務，反映產品的問題並尋求幫助。",
-    "寄信給實習主管，確認面試的時間和地點。"
+    "寄信給教授，說明因病無法參加期中考，詢問補考事宜。",
+    "寄信給宿舍辦公室，請求延遲繳交宿舍費的期限。",
+    "寄信給圖書館，詢問如何申請借書證的相關流程。",
+    "寄信給學校社團，詢問加入社團的條件和流程。",
+    "寄信給客服，反映購買的產品有問題並請求退貨。",
+    "寄信給導師，詢問關於研究報告的指導建議。"
   ],
   "discussionPrompts": [
-    "教授問：「在當今社會，科技對教育的影響是正面還是負面？」",
-    "教授問：「應該如何平衡學業與社交生活？」",
-    "教授問：「環保政策的實施對經濟發展有何影響？」",
-    "教授問：「藝術在社會變革中的角色是什麼？」",
-    "教授問：「社交媒體對青少年心理健康的影響如何？」",
-    "教授問：「全球化對文化多樣性的影響有哪些？」"
+    "教授問：「如何看待社交媒體對人際關係的影響？」",
+    "教授問：「你認為科技應該在教育中扮演什麼角色？」",
+    "教授問：「環保與經濟發展之間應如何平衡？」",
+    "教授問：「全球化對文化多樣性造成了什麼影響？」",
+    "教授問：「在當今社會中，藝術的價值何在？」",
+    "教授問：「如何解釋人口老化對社會的挑戰？」"
   ]
 }

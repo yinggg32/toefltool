@@ -1,116 +1,116 @@
 {
   "chooseResponse": [
     {
-      "q": "What are your plans for the weekend?",
+      "q": "What are you studying this semester?",
       "options": [
-        "I'm going hiking.",
-        "I might study.",
-        "I have to work.",
-        "I'm not sure yet."
+        "Biology",
+        "History",
+        "Mathematics",
+        "Art History"
       ],
-      "correctIndex": 0
+      "correctIndex": 1
     }
   ],
   "conversation": {
-    "transcript": "Student: Hey, did you finish the history project?\nProfessor: Yes, I completed it yesterday. How about you?\nStudent: I'm almost done, just need to finalize my sources.\nProfessor: Make sure to check the citation format."
-  },
-  "questions": [
-    {
-      "q": "What is the student mainly concerned about?",
-      "options": [
-        "The project deadline.",
-        "The citation format.",
-        "The project topic.",
-        "The professor's opinion."
-      ],
-      "correctIndex": 1,
-      "explain": "學生主要擔心引用格式。"
-    },
-    {
-      "q": "When did the professor finish the project?",
-      "options": [
-        "Last week.",
-        "Yesterday.",
-        "This morning.",
-        "Today."
-      ],
-      "correctIndex": 1,
-      "explain": "教授昨天完成了專案。"
-    }
-  ],
-  "announcement": {
-    "transcript": "Attention students: The library will be closed for renovations starting next Monday and will reopen in three weeks. Please plan your study sessions accordingly. Thank you for your understanding.",
+    "transcript": "Student: Hey, did you find out about the guest lecture this Thursday?\nProfessor: Yes, I just read about it. It's on ancient civilizations.\nStudent: Sounds interesting! Do you think it covers Egypt?\nProfessor: Definitely, the speaker specializes in that area.",
     "questions": [
       {
-        "q": "Why will the library be closed?",
+        "q": "What is the topic of the guest lecture?",
         "options": [
-          "For staff training.",
-          "For book inventory.",
-          "For renovations.",
-          "For cleaning."
+          "Modern architecture",
+          "Ancient civilizations",
+          "Climate change",
+          "Literature"
         ],
-        "correctIndex": 2,
-        "explain": "圖書館將關閉以進行翻修。"
+        "correctIndex": 1,
+        "explain": "這次的客座講座主題是古代文明。"
       },
       {
-        "q": "When will the library reopen?",
+        "q": "What area does the speaker specialize in?",
         "options": [
-          "Next Monday.",
-          "In one week.",
-          "In two weeks.",
-          "In three weeks."
+          "Prehistoric art",
+          "Egyptian history",
+          "Cultural anthropology",
+          "Medieval literature"
         ],
-        "correctIndex": 3,
-        "explain": "圖書館將在三週後重新開放。"
+        "correctIndex": 1,
+        "explain": "這位講者專攻埃及歷史。"
+      }
+    ]
+  },
+  "announcement": {
+    "transcript": "Attention students! There will be a campus-wide clean-up event this Saturday from 9 AM to 1 PM. Volunteers will receive community service hours and refreshments. Meet at the Student Center. Your help is greatly appreciated!",
+    "questions": [
+      {
+        "q": "What is the purpose of the event?",
+        "options": [
+          "Fundraising",
+          "Campus clean-up",
+          "Sports competition",
+          "Art exhibition"
+        ],
+        "correctIndex": 1,
+        "explain": "這個活動是為了清理校園。"
+      },
+      {
+        "q": "Where should volunteers meet?",
+        "options": [
+          "Library",
+          "Student Center",
+          "Gymnasium",
+          "Cafeteria"
+        ],
+        "correctIndex": 1,
+        "explain": "志願者在學生中心集合。"
       }
     ]
   },
   "talk": {
-    "transcript": "Today, we're going to discuss the concept of sustainable development. Sustainable development refers to meeting the needs of the present without compromising the ability of future generations to meet their own needs. It encompasses various aspects, including environmental protection, social equity, and economic growth. An important principle is the balance between these three pillars, ensuring that advancements in one area do not negatively impact the others. For instance, investing in renewable energy can boost economic growth while reducing environmental harm. Ultimately, sustainable development aims to create a better quality of life for all, both now and in the future.",
+    "transcript": "Today, we will explore the concept of photosynthesis. This process allows plants to convert sunlight into energy. Through photosynthesis, plants absorb carbon dioxide and water, using sunlight to transform them into glucose and oxygen. This not only fuels plant growth but also produces the oxygen we breathe. Understanding photosynthesis is crucial for appreciating how ecosystems function and how vital plants are to life on Earth. Additionally, it has significant implications for agriculture and climate change.",
     "questions": [
       {
-        "q": "What does sustainable development aim to achieve?",
+        "q": "What do plants convert sunlight into?",
         "options": [
-          "Economic growth only.",
-          "Environmental protection only.",
-          "Better quality of life for all.",
-          "Social equity only."
+          "Carbon dioxide",
+          "Chlorophyll",
+          "Energy",
+          "Oxygen"
         ],
         "correctIndex": 2,
-        "explain": "可持續發展旨在為所有人創造更好的生活品質。"
+        "explain": "植物將陽光轉換為能量。"
       },
       {
-        "q": "Which of the following is NOT a pillar of sustainable development?",
+        "q": "What two substances do plants absorb for photosynthesis?",
         "options": [
-          "Environmental protection.",
-          "Social equity.",
-          "Economic growth.",
-          "Technology advancement."
-        ],
-        "correctIndex": 3,
-        "explain": "科技進步不是可持續發展的支柱之一。"
-      },
-      {
-        "q": "How can investing in renewable energy benefit society?",
-        "options": [
-          "It reduces jobs.",
-          "It harms the economy.",
-          "It increases environmental harm.",
-          "It boosts economic growth."
-        ],
-        "correctIndex": 3,
-        "explain": "投資可再生能源可以促進經濟增長。"
-      },
-      {
-        "q": "What is essential for sustainable development?",
-        "options": [
-          "Focusing on one area only.",
-          "Balancing all pillars.",
-          "Ignoring future generations.",
-          "Maximizing profit."
+          "Nitrogen and oxygen",
+          "Carbon dioxide and water",
+          "Sugar and sunlight",
+          "Minerals and air"
         ],
         "correctIndex": 1,
-        "explain": "可持續發展需要平衡所有支柱。"
+        "explain": "植物吸收二氧化碳和水進行光合作用。"
+      },
+      {
+        "q": "Why is photosynthesis important for us?",
+        "options": [
+          "It produces food",
+          "It creates energy",
+          "It generates oxygen",
+          "It controls temperature"
+        ],
+        "correctIndex": 2,
+        "explain": "光合作用產生氧氣，對我們至關重要。"
+      },
+      {
+        "q": "What implications does photosynthesis have?",
+        "options": [
+          "Art and culture",
+          "Agriculture and climate change",
+          "Technological advancements",
+          "Animal behavior"
+        ],
+        "correctIndex": 1,
+        "explain": "光合作用對農業和氣候變化有重要影響。"
       }
     ]
   }
