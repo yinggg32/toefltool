@@ -1,45 +1,45 @@
 {
   "shadowSentences": [
-    "I enjoy reading books.",
-    "My favorite sport is basketball.",
-    "I like to cook on weekends.",
-    "Traveling opens up new experiences for me.",
-    "Listening to music helps me relax after work.",
-    "I often go hiking in the mountains nearby.",
-    "Gardening has become a peaceful hobby for me.",
-    "I find photography a wonderful way to capture moments.",
-    "Volunteering at the local shelter is very rewarding.",
-    "Writing in a journal helps me reflect on my day."
+    "The cat is sleeping on the couch.",
+    "I enjoy reading books on weekends.",
+    "She likes to go hiking in the mountains.",
+    "They are planning a trip to the beach next month.",
+    "We should try that new restaurant downtown soon.",
+    "He often plays soccer with his friends after school.",
+    "My sister loves painting and drawing in her free time.",
+    "I find it relaxing to listen to music while studying.",
+    "Traveling to new places helps me learn about different cultures.",
+    "Cooking at home can be a fun and creative way to eat well."
   ],
   "interviewScenarios": [
     {
-      "topic": "饮食习惯",
-      "intro": "You have agreed to take part in a research study about eating habits.",
+      "topic": "環保生活",
+      "intro": "You have agreed to take part in a research study about sustainable living.",
       "questions": [
-        "Q1: What are some typical foods you eat daily?",
-        "Q2: Have you ever faced challenges in maintaining a healthy diet?",
-        "Q3: How do you feel about the importance of nutrition in our lives?",
-        "Q4: What advice would you give someone trying to eat healthier?"
+        "Q1: Can you share your personal experience with eco-friendly habits?",
+        "Q2: What challenges do you face when trying to live sustainably?",
+        "Q3: In your opinion, why is sustainable living important?",
+        "Q4: What advice would you give someone who wants to adopt a greener lifestyle?"
       ]
     },
     {
-      "topic": "宠物养护",
-      "intro": "You have agreed to take part in a research study about pet care.",
+      "topic": "旅行計劃",
+      "intro": "You have agreed to take part in a research study about travel planning.",
       "questions": [
-        "Q1: Can you tell me about any pets you have owned?",
-        "Q2: What challenges have you encountered while caring for pets?",
-        "Q3: In your opinion, what makes a good pet owner?",
-        "Q4: What recommendations would you give to new pet owners?"
+        "Q1: What is your favorite travel experience, and why?",
+        "Q2: What difficulties do you encounter when planning a trip?",
+        "Q3: How do you think travel affects personal growth?",
+        "Q4: What tips would you offer for planning an enjoyable vacation?"
       ]
     },
     {
-      "topic": "环保意识",
-      "intro": "You have agreed to take part in a research study about environmental awareness.",
+      "topic": "運動習慣",
+      "intro": "You have agreed to take part in a research study about exercise habits.",
       "questions": [
-        "Q1: What steps do you take to be more environmentally friendly?",
-        "Q2: Have you faced any obstacles in reducing your carbon footprint?",
-        "Q3: What is your opinion on climate change and its effects?",
-        "Q4: What advice would you offer to someone wanting to live sustainably?"
+        "Q1: What types of exercise do you enjoy the most?",
+        "Q2: Have you faced any obstacles in maintaining a fitness routine?",
+        "Q3: Why do you think regular exercise is beneficial for health?",
+        "Q4: What recommendations would you give to someone starting to exercise?"
       ]
     }
   ]

@@ -10806,5 +10806,53 @@
     "zh": "同義詞",
     "ex": "A synonym is a word that has the same or nearly the same meaning as another word.",
     "cat": "📰 每日新詞：linguistics"
+  },
+  {
+    "word": "impression",
+    "pos": "n.",
+    "root": "印象—impress",
+    "zh": "印象",
+    "ex": "The artist's work leaves a lasting impression on viewers.",
+    "cat": "📰 每日新詞：art and architecture"
+  },
+  {
+    "word": "urban",
+    "pos": "adj.",
+    "root": "城市—urban",
+    "zh": "城市的",
+    "ex": "Urban art often reflects the challenges faced by city dwellers.",
+    "cat": "📰 每日新詞：art and architecture"
+  },
+  {
+    "word": "classical",
+    "pos": "adj.",
+    "root": "古典—classical",
+    "zh": "古典的",
+    "ex": "Classical architecture is characterized by its symmetry and proportions.",
+    "cat": "📰 每日新詞：art and architecture"
+  },
+  {
+    "word": "functional",
+    "pos": "adj.",
+    "root": "功能—function",
+    "zh": "功能性的",
+    "ex": "A functional design prioritizes usability without sacrificing aesthetics.",
+    "cat": "📰 每日新詞：art and architecture"
+  },
+  {
+    "word": "palatial",
+    "pos": "adj.",
+    "root": "宫殿—palace",
+    "zh": "宫殿般的",
+    "ex": "The palatial estate reflects the wealth of its former owner.",
+    "cat": "📰 每日新詞：art and architecture"
+  },
+  {
+    "word": "thematic",
+    "pos": "adj.",
+    "root": "主题—theme",
+    "zh": "主题的",
+    "ex": "Thematic exhibitions often explore specific cultural or historical narratives.",
+    "cat": "📰 每日新詞：art and architecture"
   }
 ]

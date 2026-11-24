@@ -1,116 +1,116 @@
 {
   "chooseResponse": [
     {
-      "q": "What are you studying this semester?",
+      "q": "What time is the club meeting?",
       "options": [
-        "Biology",
-        "History",
-        "Mathematics",
-        "Art History"
+        "At 5 PM.",
+        "In the library.",
+        "Next week.",
+        "Let's cancel."
       ],
-      "correctIndex": 1
+      "correctIndex": 0
     }
   ],
   "conversation": {
-    "transcript": "Student: Hey, did you find out about the guest lecture this Thursday?\nProfessor: Yes, I just read about it. It's on ancient civilizations.\nStudent: Sounds interesting! Do you think it covers Egypt?\nProfessor: Definitely, the speaker specializes in that area.",
+    "transcript": "Student: Hey, do you know when the art club meeting is?\nAdvisor: Yes, it's scheduled for this Friday at 5 PM.\nStudent: Great! Where will it be held?\nAdvisor: It will be in the main hall of the arts building.",
     "questions": [
       {
-        "q": "What is the topic of the guest lecture?",
+        "q": "What day is the art club meeting?",
         "options": [
-          "Modern architecture",
-          "Ancient civilizations",
-          "Climate change",
-          "Literature"
+          "Monday",
+          "Wednesday",
+          "Friday",
+          "Saturday"
         ],
-        "correctIndex": 1,
-        "explain": "這次的客座講座主題是古代文明。"
+        "correctIndex": 2,
+        "explain": "藝術社的會議在星期五。"
       },
       {
-        "q": "What area does the speaker specialize in?",
+        "q": "Where is the meeting located?",
         "options": [
-          "Prehistoric art",
-          "Egyptian history",
-          "Cultural anthropology",
-          "Medieval literature"
+          "In the library",
+          "In the main hall",
+          "Outside",
+          "Online"
         ],
         "correctIndex": 1,
-        "explain": "這位講者專攻埃及歷史。"
+        "explain": "會議在藝術大樓的主廳舉行。"
       }
     ]
   },
   "announcement": {
-    "transcript": "Attention students! There will be a campus-wide clean-up event this Saturday from 9 AM to 1 PM. Volunteers will receive community service hours and refreshments. Meet at the Student Center. Your help is greatly appreciated!",
+    "transcript": "Attention students! The campus bookstore will have a sale on art supplies this weekend. Get up to 20% off on selected items. Don’t miss this chance to stock up! The sale starts Saturday at 9 AM.",
     "questions": [
       {
-        "q": "What is the purpose of the event?",
+        "q": "When does the sale start?",
         "options": [
-          "Fundraising",
-          "Campus clean-up",
-          "Sports competition",
-          "Art exhibition"
+          "Friday",
+          "Saturday",
+          "Sunday",
+          "Monday"
         ],
         "correctIndex": 1,
-        "explain": "這個活動是為了清理校園。"
+        "explain": "促銷活動將於星期六開始。"
       },
       {
-        "q": "Where should volunteers meet?",
+        "q": "What discount can students get?",
         "options": [
-          "Library",
-          "Student Center",
-          "Gymnasium",
-          "Cafeteria"
+          "10%",
+          "15%",
+          "20%",
+          "25%"
         ],
-        "correctIndex": 1,
-        "explain": "志願者在學生中心集合。"
+        "correctIndex": 2,
+        "explain": "學生可以獲得高達20%的折扣。"
       }
     ]
   },
   "talk": {
-    "transcript": "Today, we will explore the concept of photosynthesis. This process allows plants to convert sunlight into energy. Through photosynthesis, plants absorb carbon dioxide and water, using sunlight to transform them into glucose and oxygen. This not only fuels plant growth but also produces the oxygen we breathe. Understanding photosynthesis is crucial for appreciating how ecosystems function and how vital plants are to life on Earth. Additionally, it has significant implications for agriculture and climate change.",
+    "transcript": "Today, we'll discuss the concept of 'sustainability' in environmental science. Sustainability refers to the ability to meet current needs without compromising future generations' ability to meet theirs. It involves using resources wisely and responsibly, ensuring that ecosystems remain healthy and balanced. Sustainable practices include reducing waste, conserving energy, and protecting biodiversity. By adopting sustainable methods, individuals and communities can contribute to a healthier planet. Understanding sustainability is crucial as we face global challenges like climate change and resource depletion.",
     "questions": [
       {
-        "q": "What do plants convert sunlight into?",
+        "q": "What does sustainability mean?",
         "options": [
-          "Carbon dioxide",
-          "Chlorophyll",
-          "Energy",
-          "Oxygen"
-        ],
-        "correctIndex": 2,
-        "explain": "植物將陽光轉換為能量。"
-      },
-      {
-        "q": "What two substances do plants absorb for photosynthesis?",
-        "options": [
-          "Nitrogen and oxygen",
-          "Carbon dioxide and water",
-          "Sugar and sunlight",
-          "Minerals and air"
+          "Using resources without care",
+          "Meeting current and future needs",
+          "Ignoring environmental issues",
+          "Only focusing on profit"
         ],
         "correctIndex": 1,
-        "explain": "植物吸收二氧化碳和水進行光合作用。"
+        "explain": "可持續性是指滿足當前需求而不損害未來需求的能力。"
       },
       {
-        "q": "Why is photosynthesis important for us?",
+        "q": "Why is sustainability important?",
         "options": [
-          "It produces food",
-          "It creates energy",
-          "It generates oxygen",
-          "It controls temperature"
+          "It helps to waste resources",
+          "It prevents future needs",
+          "It addresses global challenges",
+          "It focuses solely on profit"
         ],
         "correctIndex": 2,
-        "explain": "光合作用產生氧氣，對我們至關重要。"
+        "explain": "可持續性對於應對像氣候變化等全球挑戰至關重要。"
       },
       {
-        "q": "What implications does photosynthesis have?",
+        "q": "What is a sustainable practice?",
         "options": [
-          "Art and culture",
-          "Agriculture and climate change",
-          "Technological advancements",
-          "Animal behavior"
+          "Using more plastic",
+          "Reducing waste",
+          "Increasing pollution",
+          "Depleting resources"
         ],
         "correctIndex": 1,
-        "explain": "光合作用對農業和氣候變化有重要影響。"
+        "explain": "減少浪費是一種可持續做法。"
+      },
+      {
+        "q": "What challenge is mentioned in the talk?",
+        "options": [
+          "Resource abundance",
+          "Overpopulation",
+          "Climate change",
+          "Economic growth"
+        ],
+        "correctIndex": 2,
+        "explain": "演講中提到了氣候變化這一挑戰。"
       }
     ]
   }

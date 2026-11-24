@@ -2,95 +2,116 @@
   "cloze": {
     "segments": [
       {
-        "text": "The human brain is an incredibly complex organ responsible for many functions, including thought, memory, and emotion. It is composed of billions of neurons, each connected through synapses. The process of how these connections are formed is known as neuropla"
+        "text": "The phenomenon of photosynthesis is essential for life on Earth. During this process, plants convert sunlight into chemical energy, allowing them to grow and produce oxygen. The process begins with the absorption of light by chlorophyll, a green pigment found in plant cells. Once light is absorbed, it energizes electrons, which are then used to convert carbon dioxide and water into glucose and oxygen. This process not only sustains the plants themselves but also provides oxygen for other living organisms. Understanding this fundamental process is important for addressing environmental challenges, such as climate change and food security."
       },
       {
-        "blank": "sticity"
+        "blank": "sis"
       },
       {
-        "text": ", which allows the brain to adapt and reorganize itself in response to new experiences. Research shows that learning new skills can lead to the formation of new synaptic connections. Furthermore, the brain's ability to change is not limited to childhood; it can occur throughout a person's "
+        "text": "Photosynthe..."
       },
       {
-        "blank": "life."
+        "blank": "light"
       },
       {
-        "text": " This has significant implications for education and rehabilitation, suggesting that targeted interventions can enhance cognitive functions even in older adults. Overall, understanding brain plasticity is vital for advancing techniques in cognitive therapy and educational practices."
+        "text": "...energy into chemical..."
+      },
+      {
+        "blank": "growing"
+      },
+      {
+        "text": "...and producing oxygen. The..."
+      },
+      {
+        "blank": "di"
+      },
+      {
+        "text": "...of light is crucial for this..."
+      },
+      {
+        "blank": "chlor"
+      },
+      {
+        "text": "... pigment found in..."
+      },
+      {
+        "blank": "ell"
       }
     ]
   },
   "academic": {
-    "passage": "Neuroplasticity is the brain's ability to reorganize itself by forming new neural connections. This phenomenon is crucial for learning and memory, allowing individuals to acquire new skills and adapt to changes in their environment. Studies indicate that both mental and physical activities can stimulate neuroplastic changes, enhancing cognitive functions. Furthermore, neuroplasticity is not confined to the early stages of life; it continues to occur throughout adulthood, providing lifelong opportunities for personal growth and rehabilitation.",
+    "passage": "Photosynthesis is the process through which green plants, algae, and some bacteria convert light energy into chemical energy stored in glucose. This process primarily takes place in chloroplasts, where chlorophyll captures sunlight. The overall reaction can be summarized by the equation: 6CO2 + 6H2O + light energy → C6H12O6 + 6O2. This transformation not only supports plant growth but also plays a vital role in the Earth's ecosystem by releasing oxygen and serving as the base of the food chain.",
     "questions": [
       {
-        "q": "What is the main idea of the passage?",
+        "q": "What is the main process discussed in the passage?",
         "options": [
-          "Neuroplasticity allows lifelong learning",
-          "Neuroplasticity only occurs in childhood",
-          "The brain cannot change after a certain age",
-          "Neuroplasticity has no educational implications"
+          "Photosynthesis",
+          "Cellular respiration",
+          "Fermentation",
+          "Nutrient absorption"
         ],
         "correctIndex": 0,
-        "explain": "這段文字的主旨是神經可塑性使得終身學習成為可能。"
+        "explain": "該段落的主要主題是光合作用，即植物如何將光能轉化為化學能。"
       },
       {
-        "q": "What activities can stimulate neuroplastic changes?",
+        "q": "Where does photosynthesis mainly occur?",
         "options": [
-          "Only mental activities",
-          "Only physical activities",
-          "Both mental and physical activities",
-          "No activities can stimulate changes"
+          "In the roots",
+          "In the chloroplasts",
+          "In the mitochondria",
+          "In the soil"
+        ],
+        "correctIndex": 1,
+        "explain": "光合作用主要在葉綠體中進行，這是植物細胞中的一種細胞器。"
+      },
+      {
+        "q": "What can be inferred about the role of oxygen produced during photosynthesis?",
+        "options": [
+          "It is harmful to plants",
+          "It is used by plants for energy",
+          "It supports life on Earth",
+          "It has no significant role"
         ],
         "correctIndex": 2,
-        "explain": "這段中提到心理和身體活動都可以促進神經可塑性的改變。"
+        "explain": "光合作用產生的氧氣對地球上的生命至關重要，因為許多生物依賴氧氣呼吸。"
       },
       {
-        "q": "What inference can be made about neuroplasticity in adults?",
+        "q": "What does the term 'glucose' refer to in this context?",
         "options": [
-          "It stops after childhood",
-          "It occurs less frequently than in children",
-          "It can be enhanced through targeted interventions",
-          "It only affects physical abilities"
+          "A type of pigment",
+          "A form of energy",
+          "A waste product",
+          "A nutrient for plants"
         ],
-        "correctIndex": 2,
-        "explain": "成年人也能夠透過針對性的介入來增強神經可塑性。"
-      },
-      {
-        "q": "What does the term 'neural connections' refer to in the passage?",
-        "options": [
-          "Links between neurons",
-          "Physical activities",
-          "Cognitive functions",
-          "Educational techniques"
-        ],
-        "correctIndex": 0,
-        "explain": "在這段文字中，'神經連接'指的是神經元之間的連結。"
+        "correctIndex": 3,
+        "explain": "在這個上下文中，'葡萄糖'是指植物的營養來源，為其生長提供能量。"
       }
     ]
   },
   "daily": {
-    "passage": "Attention students! The campus library will be closed for renovations from March 1st to March 15th. During this time, all study areas and resources will be unavailable. Please plan accordingly and utilize other study spaces on campus.",
+    "passage": "Attention all students: The university library will be closed for maintenance this Saturday. Please plan your study sessions accordingly and ensure you have all necessary materials before the closure. We appreciate your understanding and cooperation.",
     "questions": [
       {
-        "q": "When will the campus library be closed?",
+        "q": "When will the university library be closed?",
         "options": [
-          "March 1st to March 15th",
-          "March 1st to March 10th",
-          "March 15th to March 20th",
-          "It will remain open"
+          "This Saturday",
+          "Next Monday",
+          "This Friday",
+          "Next Saturday"
         ],
         "correctIndex": 0,
-        "explain": "圖書館將於三月一日到三月十五日關閉。"
+        "explain": "根據公告，圖書館將於本週六關閉進行維修。"
       },
       {
-        "q": "What should students do during the library closure?",
+        "q": "What should students do before the library closes?",
         "options": [
-          "Use the library resources",
-          "Plan to study elsewhere",
-          "Ignore the announcement",
-          "Wait for the library to reopen"
+          "Return books",
+          "Plan study sessions",
+          "Attend a seminar",
+          "Meet with advisors"
         ],
         "correctIndex": 1,
-        "explain": "學生應該計畫去校園其他地方學習。"
+        "explain": "學生應在圖書館關閉之前規劃好學習時間，確保擁有所需的學習材料。"
       }
     ]
   }
