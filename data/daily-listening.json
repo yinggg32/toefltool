@@ -1,116 +1,116 @@
 {
   "chooseResponse": [
     {
-      "q": "What time is the club meeting?",
+      "q": "What time is the meeting?",
       "options": [
-        "At 5 PM.",
-        "In the library.",
-        "Next week.",
-        "Let's cancel."
+        "At 3 PM",
+        "In the library",
+        "Next week",
+        "I forgot"
       ],
       "correctIndex": 0
     }
   ],
   "conversation": {
-    "transcript": "Student: Hey, do you know when the art club meeting is?\nAdvisor: Yes, it's scheduled for this Friday at 5 PM.\nStudent: Great! Where will it be held?\nAdvisor: It will be in the main hall of the arts building.",
+    "transcript": "Student: Hey, have you heard about the study group meeting?\nAdvisor: Yes, it's scheduled for this Friday. Are you planning to attend?\nStudent: I think so. What time is it?\nAdvisor: It's at 3 PM in the student lounge. You should come prepared with your notes.",
     "questions": [
       {
-        "q": "What day is the art club meeting?",
+        "q": "Where will the study group meeting be held?",
         "options": [
-          "Monday",
-          "Wednesday",
-          "Friday",
-          "Saturday"
+          "In the student lounge",
+          "In the library",
+          "In the classroom",
+          "In the cafeteria"
         ],
-        "correctIndex": 2,
-        "explain": "藝術社的會議在星期五。"
+        "correctIndex": 0,
+        "explain": "學習小組會議將在學生休息室舉行。"
       },
       {
-        "q": "Where is the meeting located?",
+        "q": "What should the student bring to the meeting?",
         "options": [
-          "In the library",
-          "In the main hall",
-          "Outside",
-          "Online"
+          "Snacks",
+          "A laptop",
+          "Notes",
+          "A friend"
         ],
-        "correctIndex": 1,
-        "explain": "會議在藝術大樓的主廳舉行。"
+        "correctIndex": 2,
+        "explain": "學生應該帶上筆記。"
       }
     ]
   },
   "announcement": {
-    "transcript": "Attention students! The campus bookstore will have a sale on art supplies this weekend. Get up to 20% off on selected items. Don’t miss this chance to stock up! The sale starts Saturday at 9 AM.",
+    "transcript": "Attention students: The annual career fair will take place next Thursday from 10 AM to 4 PM in the gymnasium. Don't miss the chance to meet potential employers and explore job opportunities. Bring copies of your resume and dress professionally.",
     "questions": [
       {
-        "q": "When does the sale start?",
+        "q": "When is the career fair scheduled?",
         "options": [
-          "Friday",
-          "Saturday",
-          "Sunday",
-          "Monday"
+          "Next Thursday",
+          "This Saturday",
+          "Tomorrow",
+          "Next Monday"
         ],
-        "correctIndex": 1,
-        "explain": "促銷活動將於星期六開始。"
+        "correctIndex": 0,
+        "explain": "職業博覽會定於下周四舉行。"
       },
       {
-        "q": "What discount can students get?",
+        "q": "What should students bring to the career fair?",
         "options": [
-          "10%",
-          "15%",
-          "20%",
-          "25%"
+          "Lunch",
+          "Books",
+          "Resumes",
+          "Friends"
         ],
         "correctIndex": 2,
-        "explain": "學生可以獲得高達20%的折扣。"
+        "explain": "學生應該帶上簡歷。"
       }
     ]
   },
   "talk": {
-    "transcript": "Today, we'll discuss the concept of 'sustainability' in environmental science. Sustainability refers to the ability to meet current needs without compromising future generations' ability to meet theirs. It involves using resources wisely and responsibly, ensuring that ecosystems remain healthy and balanced. Sustainable practices include reducing waste, conserving energy, and protecting biodiversity. By adopting sustainable methods, individuals and communities can contribute to a healthier planet. Understanding sustainability is crucial as we face global challenges like climate change and resource depletion.",
+    "transcript": "Today, we're going to discuss the importance of biodiversity. Biodiversity refers to the variety of life on Earth, including the different species of plants, animals, and microorganisms. High biodiversity is crucial for ecosystem stability and resilience. It helps ecosystems recover from disturbances and supports a greater variety of functions, such as pollination and nutrient cycling. Furthermore, biodiversity also contributes to human well-being by providing essential resources like food, medicine, and clean water. Protecting biodiversity is vital in ensuring a healthy planet for future generations.",
     "questions": [
       {
-        "q": "What does sustainability mean?",
+        "q": "What does biodiversity refer to?",
         "options": [
-          "Using resources without care",
-          "Meeting current and future needs",
-          "Ignoring environmental issues",
-          "Only focusing on profit"
+          "Variety of life on Earth",
+          "Human population growth",
+          "Climate change effects",
+          "Types of ecosystems"
+        ],
+        "correctIndex": 0,
+        "explain": "生物多樣性指地球上生命的多樣性。"
+      },
+      {
+        "q": "Why is high biodiversity important?",
+        "options": [
+          "For faster economic growth",
+          "For ecosystem stability",
+          "For reducing pollution",
+          "For increasing population"
         ],
         "correctIndex": 1,
-        "explain": "可持續性是指滿足當前需求而不損害未來需求的能力。"
+        "explain": "高生物多樣性對生態系統的穩定性至關重要。"
       },
       {
-        "q": "Why is sustainability important?",
+        "q": "How does biodiversity contribute to human well-being?",
         "options": [
-          "It helps to waste resources",
-          "It prevents future needs",
-          "It addresses global challenges",
-          "It focuses solely on profit"
-        ],
-        "correctIndex": 2,
-        "explain": "可持續性對於應對像氣候變化等全球挑戰至關重要。"
-      },
-      {
-        "q": "What is a sustainable practice?",
-        "options": [
-          "Using more plastic",
-          "Reducing waste",
-          "Increasing pollution",
-          "Depleting resources"
+          "By increasing technology",
+          "By providing resources",
+          "By promoting tourism",
+          "By reducing waste"
         ],
         "correctIndex": 1,
-        "explain": "減少浪費是一種可持續做法。"
+        "explain": "生物多樣性通過提供基本資源來促進人類福祉。"
       },
       {
-        "q": "What challenge is mentioned in the talk?",
+        "q": "What should we do to protect biodiversity?",
         "options": [
-          "Resource abundance",
-          "Overpopulation",
-          "Climate change",
-          "Economic growth"
+          "Ignore climate change",
+          "Plant more trees",
+          "Limit urban development",
+          "All of the above"
         ],
-        "correctIndex": 2,
-        "explain": "演講中提到了氣候變化這一挑戰。"
+        "correctIndex": 3,
+        "explain": "保護生物多樣性需要綜合措施，包括植樹和限制城市發展。"
       }
     ]
   }

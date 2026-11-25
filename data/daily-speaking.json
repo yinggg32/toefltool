@@ -1,45 +1,45 @@
 {
   "shadowSentences": [
-    "The cat is sleeping on the couch.",
-    "I enjoy reading books on weekends.",
-    "She likes to go hiking in the mountains.",
-    "They are planning a trip to the beach next month.",
-    "We should try that new restaurant downtown soon.",
-    "He often plays soccer with his friends after school.",
-    "My sister loves painting and drawing in her free time.",
-    "I find it relaxing to listen to music while studying.",
-    "Traveling to new places helps me learn about different cultures.",
-    "Cooking at home can be a fun and creative way to eat well."
+    "I love to read books every day.",
+    "She enjoys cooking new recipes at home.",
+    "They went hiking in the mountains last weekend.",
+    "He plays soccer with his friends every Saturday.",
+    "We often visit the local farmers' market for fresh produce.",
+    "My favorite hobby is painting landscapes in my free time.",
+    "I started learning a new language during the pandemic.",
+    "Traveling to new countries opens my mind to different cultures.",
+    "Studying history helps me understand the world better.",
+    "Volunteering at the local shelter has been a rewarding experience."
   ],
   "interviewScenarios": [
-    {
-      "topic": "環保生活",
-      "intro": "You have agreed to take part in a research study about sustainable living.",
-      "questions": [
-        "Q1: Can you share your personal experience with eco-friendly habits?",
-        "Q2: What challenges do you face when trying to live sustainably?",
-        "Q3: In your opinion, why is sustainable living important?",
-        "Q4: What advice would you give someone who wants to adopt a greener lifestyle?"
-      ]
-    },
     {
       "topic": "旅行計劃",
       "intro": "You have agreed to take part in a research study about travel planning.",
       "questions": [
-        "Q1: What is your favorite travel experience, and why?",
-        "Q2: What difficulties do you encounter when planning a trip?",
-        "Q3: How do you think travel affects personal growth?",
-        "Q4: What tips would you offer for planning an enjoyable vacation?"
+        "Q1: Can you share a memorable travel experience you had?",
+        "Q2: What are some challenges you face when planning a trip?",
+        "Q3: How important do you think travel is for personal growth?",
+        "Q4: What advice would you give someone planning their first trip abroad?"
       ]
     },
     {
-      "topic": "運動習慣",
-      "intro": "You have agreed to take part in a research study about exercise habits.",
+      "topic": "健康飲食",
+      "intro": "You have agreed to take part in a research study about healthy eating.",
       "questions": [
-        "Q1: What types of exercise do you enjoy the most?",
-        "Q2: Have you faced any obstacles in maintaining a fitness routine?",
-        "Q3: Why do you think regular exercise is beneficial for health?",
-        "Q4: What recommendations would you give to someone starting to exercise?"
+        "Q1: What does a typical healthy meal look like for you?",
+        "Q2: Have you ever struggled to maintain a healthy diet?",
+        "Q3: Why do you believe healthy eating is important for overall well-being?",
+        "Q4: What tips would you offer someone looking to eat healthier?"
+      ]
+    },
+    {
+      "topic": "宅家娛樂",
+      "intro": "You have agreed to take part in a research study about home entertainment.",
+      "questions": [
+        "Q1: What activities do you enjoy doing at home during your free time?",
+        "Q2: Have you encountered any difficulties finding entertainment at home?",
+        "Q3: How do you think home entertainment has changed in recent years?",
+        "Q4: What recommendations do you have for someone looking to have fun at home?"
       ]
     }
   ]

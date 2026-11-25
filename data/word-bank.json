@@ -10854,5 +10854,37 @@
     "zh": "主题的",
     "ex": "Thematic exhibitions often explore specific cultural or historical narratives.",
     "cat": "📰 每日新詞：art and architecture"
+  },
+  {
+    "word": "nucleus",
+    "pos": "n.",
+    "root": "nucle-核 + -us-名詞",
+    "zh": "細胞核",
+    "ex": "The nucleus contains the cell's genetic material and regulates its functions.",
+    "cat": "📰 每日新詞：biology"
+  },
+  {
+    "word": "embryo",
+    "pos": "n.",
+    "root": "embr-擁抱 + yo-小",
+    "zh": "胚胎",
+    "ex": "The embryo develops into a fetus during the gestation period.",
+    "cat": "📰 每日新詞：biology"
+  },
+  {
+    "word": "heredity",
+    "pos": "n.",
+    "root": "here-繼承 + -dity-狀態",
+    "zh": "遺傳",
+    "ex": "Heredity plays a significant role in determining an individual's traits.",
+    "cat": "📰 每日新詞：biology"
+  },
+  {
+    "word": "omnivore",
+    "pos": "n.",
+    "root": "omni-所有 + vore-食者",
+    "zh": "雜食動物",
+    "ex": "Omnivores have a diverse diet that includes both plants and animals.",
+    "cat": "📰 每日新詞：biology"
   }
 ]
