@@ -4,101 +4,100 @@
       "words": [
         "the",
         "students",
-        "will",
-        "submit",
-        "their",
-        "assignments",
-        "by",
-        "friday"
-      ],
-      "display": "The students will submit their assignments by Friday."
-    },
-    {
-      "words": [
+        "enjoyed",
         "the",
-        "results",
-        "from",
-        "the",
-        "experiment",
-        "were",
-        "unexpected",
-        "but",
-        "interesting"
-      ],
-      "display": "The results from the experiment were unexpected but interesting."
-    },
-    {
-      "words": [
-        "many",
-        "people",
-        "believe",
-        "that",
+        "presentation",
+        "about",
         "climate",
-        "change",
-        "is",
-        "a",
-        "critical",
-        "issue"
+        "change"
       ],
-      "display": "Many people believe that climate change is a critical issue."
+      "display": "The students enjoyed the presentation about climate change."
     },
     {
       "words": [
-        "reading",
-        "books",
-        "can",
-        "help",
-        "improve",
-        "language",
-        "skills",
-        "significantly"
-      ],
-      "display": "Reading books can help improve language skills significantly."
-    },
-    {
-      "words": [
+        "to",
+        "understand",
         "the",
-        "professor",
-        "will",
-        "provide",
-        "feedback",
-        "on",
+        "concepts",
         "the",
-        "drafts",
-        "next",
-        "week"
-      ],
-      "display": "The professor will provide feedback on the drafts next week."
-    },
-    {
-      "words": [
         "students",
-        "should",
-        "attend",
+        "studied",
         "the",
-        "workshop",
-        "to",
-        "enhance",
-        "their",
-        "research",
-        "skills"
+        "textbook"
       ],
-      "display": "Students should attend the workshop to enhance their research skills."
+      "display": "To understand the concepts, the students studied the textbook."
     },
     {
       "words": [
         "the",
-        "university",
-        "is",
-        "planning",
+        "team",
+        "worked",
+        "hard",
         "to",
-        "host",
-        "a",
-        "conference",
-        "on",
-        "sustainability"
+        "complete",
+        "the",
+        "project"
       ],
-      "display": "The university is planning to host a conference on sustainability."
+      "display": "The team worked hard to complete the project."
+    },
+    {
+      "words": [
+        "every",
+        "year",
+        "many",
+        "students",
+        "apply",
+        "for",
+        "scholarships",
+        "to",
+        "study"
+      ],
+      "display": "Every year, many students apply for scholarships to study."
+    },
+    {
+      "words": [
+        "the",
+        "research",
+        "focuses",
+        "on",
+        "the",
+        "effects",
+        "of",
+        "pollution",
+        "on",
+        "health"
+      ],
+      "display": "The research focuses on the effects of pollution on health."
+    },
+    {
+      "words": [
+        "after",
+        "careful",
+        "consideration",
+        "the",
+        "committee",
+        "decided",
+        "to",
+        "approve",
+        "the",
+        "proposal"
+      ],
+      "display": "After careful consideration, the committee decided to approve the proposal."
+    },
+    {
+      "words": [
+        "it",
+        "is",
+        "important",
+        "to",
+        "communicate",
+        "effectively",
+        "in",
+        "a",
+        "team",
+        "environment"
+      ],
+      "display": "It is important to communicate effectively in a team environment."
     },
     {
       "words": [
@@ -107,29 +106,30 @@
         "offers",
         "many",
         "resources",
-        "that",
-        "can",
-        "support",
-        "student",
-        "learning"
+        "for",
+        "students",
+        "to",
+        "improve",
+        "their",
+        "skills"
       ],
-      "display": "The library offers many resources that can support student learning."
+      "display": "The library offers many resources for students to improve their skills."
     }
   ],
   "emailPrompts": [
-    "寄信給宿舍辦公室，請求更換房間的事宜。",
-    "寄信給圖書館，詢問圖書館開放時間和借書規定。",
-    "寄信給社團，表達希望加入該社團的意願，並詢問加入方式。",
-    "寄信給教授，請求延長報告的提交期限。",
-    "寄信給客戶服務部，反映產品的問題並請求解決方案。",
-    "寄信給校友，邀請他們參加即將舉行的校友聚會。"
+    "寄信給教授，詢問期末報告的格式要求。",
+    "寄信給宿舍管理辦公室，請求更換房間因為室友問題。",
+    "寄信給圖書館，詢問延遲還書的罰款政策。",
+    "寄信給社團負責人，表達對參加活動的興趣及詢問詳情。",
+    "寄信給客戶服務，反映最近購買的產品出現問題。",
+    "寄信給學校行政部門，要求獲取成績單的副本。"
   ],
   "discussionPrompts": [
-    "教授問：「你認為人工智慧在未來的社會中會扮演什麼角色？」",
-    "教授問：「環保與經濟發展之間的平衡該如何實現？」",
-    "教授問：「全球化對文化多樣性的影響是正面還是負面？」",
-    "教授問：「教育改革應該優先考慮哪些方面？」",
-    "教授問：「科技進步對人類未來的影響有哪些？」",
-    "教授問：「在疫情後，社會如何重建人際關係？」"
+    "教授問：「網路對現代社會的影響是正面還是負面？」",
+    "教授問：「應該如何平衡科技進步與環境保護？」",
+    "教授問：「大學教育的主要目的究竟是什麼？」",
+    "教授問：「社會媒體對青少年心理健康的影響如何？」",
+    "教授問：「政府在經濟發展中應扮演什麼角色？」",
+    "教授問：「全球化對地方文化的影響是好是壞？」"
   ]
 }

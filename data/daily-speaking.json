@@ -1,45 +1,45 @@
 {
   "shadowSentences": [
-    "I love to read books every day.",
-    "She enjoys cooking new recipes at home.",
-    "They went hiking in the mountains last weekend.",
-    "He plays soccer with his friends every Saturday.",
-    "We often visit the local farmers' market for fresh produce.",
-    "My favorite hobby is painting landscapes in my free time.",
-    "I started learning a new language during the pandemic.",
-    "Traveling to new countries opens my mind to different cultures.",
-    "Studying history helps me understand the world better.",
-    "Volunteering at the local shelter has been a rewarding experience."
+    "I love reading books in my free time.",
+    "My favorite season is autumn because of the colors.",
+    "I enjoy cooking new recipes on weekends.",
+    "Traveling to new places helps me learn a lot.",
+    "Listening to music makes me feel relaxed and happy.",
+    "I often go for walks in the park near my house.",
+    "Spending time with friends is very important to me.",
+    "Hiking in the mountains is one of my favorite activities.",
+    "I try to learn something new every month to grow.",
+    "Volunteering in my community gives me a sense of purpose."
   ],
   "interviewScenarios": [
     {
-      "topic": "旅行計劃",
-      "intro": "You have agreed to take part in a research study about travel planning.",
+      "topic": "旅行經歷",
+      "intro": "You have agreed to take part in a research study about travel experiences.",
       "questions": [
-        "Q1: Can you share a memorable travel experience you had?",
-        "Q2: What are some challenges you face when planning a trip?",
-        "Q3: How important do you think travel is for personal growth?",
-        "Q4: What advice would you give someone planning their first trip abroad?"
+        "Q1: Can you share a memorable trip you have taken?",
+        "Q2: What were some challenges you faced while traveling?",
+        "Q3: How do you feel travel impacts personal growth?",
+        "Q4: What advice would you give someone planning their first trip?"
       ]
     },
     {
-      "topic": "健康飲食",
-      "intro": "You have agreed to take part in a research study about healthy eating.",
+      "topic": "學習方法",
+      "intro": "You have agreed to take part in a research study about study methods.",
       "questions": [
-        "Q1: What does a typical healthy meal look like for you?",
-        "Q2: Have you ever struggled to maintain a healthy diet?",
-        "Q3: Why do you believe healthy eating is important for overall well-being?",
-        "Q4: What tips would you offer someone looking to eat healthier?"
+        "Q1: What study techniques have worked best for you?",
+        "Q2: Have you encountered any difficulties while studying?",
+        "Q3: In your opinion, what makes a study method effective?",
+        "Q4: What recommendations would you offer to improve study habits?"
       ]
     },
     {
-      "topic": "宅家娛樂",
-      "intro": "You have agreed to take part in a research study about home entertainment.",
+      "topic": "科技影響",
+      "intro": "You have agreed to take part in a research study about the impact of technology.",
       "questions": [
-        "Q1: What activities do you enjoy doing at home during your free time?",
-        "Q2: Have you encountered any difficulties finding entertainment at home?",
-        "Q3: How do you think home entertainment has changed in recent years?",
-        "Q4: What recommendations do you have for someone looking to have fun at home?"
+        "Q1: How has technology changed the way you communicate?",
+        "Q2: What challenges do you face with technology in daily life?",
+        "Q3: What is your opinion on the role of technology in education?",
+        "Q4: What advice would you give to someone struggling with tech usage?"
       ]
     }
   ]

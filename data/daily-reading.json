@@ -2,99 +2,113 @@
   "cloze": {
     "segments": [
       {
-        "text": "The human brain is an incredibly complex organ, primarily responsible for ",
-        "blank": "cogni"
+        "text": "The theory of relativity, proposed by A. Einstein, revolutionized our understanding of space and t"
       },
       {
-        "text": "tion, thought processing, and emotional regulation. It is made up of ",
-        "blank": "billio"
+        "blank": "ime"
       },
       {
-        "text": "ns of neurons that communicate through synapses, facilitating the exchange of ",
-        "blank": "infor"
+        "text": ". It consists of two parts: special relativity, which focuses on objects moving at a constant v"
       },
       {
-        "text": "mation. Recent studies have shown that the brain is not as fixed as once ",
-        "blank": "thought"
+        "blank": "elocity"
       },
       {
-        "text": ", but rather exhibits a remarkable ability to adapt, a phenomenon known as neuroplasticity. This adaptability allows individuals to learn new skills and recover from injuries. Understanding the brain's functions is essential for treating various neurological disorders and enhancing cognitive abilities."
+        "text": ", and general relativity, which considers the effect of gravity on the fabric of spac"
+      },
+      {
+        "blank": "etime"
+      },
+      {
+        "text": ". One of the critical implications of relativity is that time can appear to pass at diff"
+      },
+      {
+        "blank": "erent"
+      },
+      {
+        "text": " rates depending on the observer's relative speed and gravitational field. Such insights have led to adv"
+      },
+      {
+        "blank": "ancements"
+      },
+      {
+        "text": " in technology, such as GPS systems that require adjustments based on relativistic effects."
       }
     ]
   },
   "academic": {
-    "passage": "The study of neuroplasticity has gained significant traction in recent years. Neuroplasticity refers to the brain's ability to reorganize itself by forming new neural connections throughout life. This phenomenon is crucial not only for learning and memory but also for recovery after brain injuries. Researchers have found that engaging in mental exercises, such as puzzles and learning new skills, can enhance neuroplasticity. This has implications for rehabilitation therapies, as harnessing the brain's plasticity can lead to improved outcomes for patients recovering from strokes or traumatic brain injuries.",
+    "passage": "The theory of relativity, proposed by Albert Einstein, has fundamentally changed our understanding of fundamental physics. It includes two main concepts: special relativity and general relativity. Special relativity deals with the physics of objects moving at constant speeds, while general relativity introduces the impact of gravity on space-time. These theories reveal that time and space are not absolute but can vary based on relative motion and gravitational forces, leading to practical applications in modern technology, particularly in navigation systems like GPS.",
     "questions": [
       {
         "q": "What is the main idea of the passage?",
         "options": [
-          "The study of neuroplasticity is important for rehabilitation.",
-          "Engaging in mental exercises improves physical health.",
-          "Neuroplasticity only occurs in children.",
-          "The brain is incapable of forming new connections."
+          "The theory of relativity's impact on physics",
+          "The history of Einstein's life",
+          "The importance of gravity",
+          "The concept of constant speed"
         ],
         "correctIndex": 0,
-        "explain": "這段文字主要講述神經可塑性對康復的重要性。"
+        "explain": "這段文字主要講述相對論對物理學的影響。"
       },
       {
-        "q": "What activities are mentioned as beneficial for enhancing neuroplasticity?",
+        "q": "What are the two parts of the theory of relativity mentioned?",
         "options": [
-          "Physical therapy and yoga",
-          "Reading and writing",
-          "Puzzles and learning new skills",
-          "Meditation and relaxation"
-        ],
-        "correctIndex": 2,
-        "explain": "文章提到解謎和學習新技能可以促進神經可塑性。"
-      },
-      {
-        "q": "What inference can be drawn about neuroplasticity and aging?",
-        "options": [
-          "Neuroplasticity only occurs in young brains.",
-          "Older adults cannot benefit from neuroplasticity.",
-          "Neuroplasticity may continue throughout life.",
-          "Neuroplasticity decreases with age."
-        ],
-        "correctIndex": 2,
-        "explain": "可以推斷神經可塑性可能會持續整個生命。"
-      },
-      {
-        "q": "What does the term 'neural connections' refer to in the context of the passage?",
-        "options": [
-          "Connections between different organs in the body.",
-          "Links between neurons that facilitate communication.",
-          "The physical structure of the brain.",
-          "Emotional bonds between individuals."
+          "Quantum mechanics and thermodynamics",
+          "Special relativity and general relativity",
+          "Classical mechanics and electromagnetism",
+          "Relativity and Newtonian physics"
         ],
         "correctIndex": 1,
-        "explain": "在文中，'神經連結'指的是促進神經元交流的連結。"
+        "explain": "文中提到相對論的兩個部分是特殊相對論和一般相對論。"
+      },
+      {
+        "q": "What can be inferred about the application of relativity in technology?",
+        "options": [
+          "It has no practical applications.",
+          "It is only theoretical and not used practically.",
+          "It requires adjustments for effective use in technology.",
+          "It is outdated and irrelevant."
+        ],
+        "correctIndex": 2,
+        "explain": "可以推斷，相對論在技術中需要調整才能有效使用，特別是GPS系統。"
+      },
+      {
+        "q": "What does the term 'space-time' refer to in the context of the passage?",
+        "options": [
+          "A type of technology",
+          "The measurement of time only",
+          "The combination of space and time in physics",
+          "A concept unrelated to relativity"
+        ],
+        "correctIndex": 2,
+        "explain": "在文中，'時空'指的是物理學中空間和時間的結合。"
       }
     ]
   },
   "daily": {
-    "passage": "Attention students: The university library will be closed for maintenance on Saturday from 9 AM to 5 PM. Please plan your study schedule accordingly and return any borrowed materials before this date. Thank you for your understanding.",
+    "passage": "Attention students: The library will be closed for maintenance this weekend. Please return any borrowed materials by Friday to avoid late fees. Thank you for your understanding.",
     "questions": [
       {
         "q": "When will the library be closed?",
         "options": [
-          "Friday from 9 AM to 5 PM",
-          "Saturday from 9 AM to 5 PM",
-          "Sunday from 9 AM to 5 PM",
-          "Monday from 9 AM to 5 PM"
+          "This weekend",
+          "Next weekend",
+          "Starting next month",
+          "Today"
         ],
-        "correctIndex": 1,
-        "explain": "圖書館將在星期六關閉。"
+        "correctIndex": 0,
+        "explain": "根據公告，圖書館將在本週末關閉。"
       },
       {
-        "q": "What should students do before the library closes?",
+        "q": "What should students do by Friday?",
         "options": [
           "Borrow more materials",
-          "Return any borrowed materials",
-          "Study in the library",
-          "Attend a workshop"
+          "Return borrowed materials",
+          "Visit the library",
+          "Complete assignments"
         ],
         "correctIndex": 1,
-        "explain": "學生應在圖書館關閉之前歸還借用的資料。"
+        "explain": "學生應在星期五之前歸還已借的資料。"
       }
     ]
   }

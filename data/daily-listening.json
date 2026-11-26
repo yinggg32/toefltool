@@ -1,116 +1,116 @@
 {
   "chooseResponse": [
     {
-      "q": "What time is the meeting?",
+      "q": "Are you joining the study group?",
       "options": [
-        "At 3 PM",
-        "In the library",
-        "Next week",
-        "I forgot"
+        "Yes, I would love to.",
+        "No, I have other plans.",
+        "I'll think about it.",
+        "Maybe next time."
       ],
       "correctIndex": 0
     }
   ],
   "conversation": {
-    "transcript": "Student: Hey, have you heard about the study group meeting?\nAdvisor: Yes, it's scheduled for this Friday. Are you planning to attend?\nStudent: I think so. What time is it?\nAdvisor: It's at 3 PM in the student lounge. You should come prepared with your notes.",
+    "transcript": "Student: Hey, did you get the email about the study group?\nAdvisor: Yes, I did! Are you planning to join?\nStudent: I think so, it sounds helpful.\nAdvisor: It really can be. What subject is it for?\nStudent: It's for biology, we have an exam coming up.\nAdvisor: That’s a good idea. Do you know who else is joining?",
     "questions": [
       {
-        "q": "Where will the study group meeting be held?",
+        "q": "What subject is the study group about?",
         "options": [
-          "In the student lounge",
-          "In the library",
-          "In the classroom",
-          "In the cafeteria"
+          "Math",
+          "Biology",
+          "History",
+          "Chemistry"
         ],
-        "correctIndex": 0,
-        "explain": "學習小組會議將在學生休息室舉行。"
+        "correctIndex": 1,
+        "explain": "學習小組是關於生物學的。"
       },
       {
-        "q": "What should the student bring to the meeting?",
+        "q": "Why does the advisor recommend the group?",
         "options": [
-          "Snacks",
-          "A laptop",
-          "Notes",
-          "A friend"
+          "To meet new people",
+          "To help with the exam",
+          "To learn teaching techniques",
+          "To improve grades"
         ],
-        "correctIndex": 2,
-        "explain": "學生應該帶上筆記。"
+        "correctIndex": 1,
+        "explain": "顧問建議這個小組是為了幫助考試。"
       }
     ]
   },
   "announcement": {
-    "transcript": "Attention students: The annual career fair will take place next Thursday from 10 AM to 4 PM in the gymnasium. Don't miss the chance to meet potential employers and explore job opportunities. Bring copies of your resume and dress professionally.",
+    "transcript": "Attention all students! There will be a guest lecture on climate change this Thursday at 6 PM in the auditorium. Don't miss out on this opportunity to learn from an expert in the field. We hope to see you there!",
     "questions": [
       {
-        "q": "When is the career fair scheduled?",
+        "q": "What is the topic of the guest lecture?",
         "options": [
-          "Next Thursday",
-          "This Saturday",
-          "Tomorrow",
-          "Next Monday"
+          "Renewable energy",
+          "Climate change",
+          "Wildlife conservation",
+          "Pollution"
         ],
-        "correctIndex": 0,
-        "explain": "職業博覽會定於下周四舉行。"
+        "correctIndex": 1,
+        "explain": "客座講座的主題是氣候變化。"
       },
       {
-        "q": "What should students bring to the career fair?",
+        "q": "When will the lecture take place?",
         "options": [
-          "Lunch",
-          "Books",
-          "Resumes",
-          "Friends"
+          "This Wednesday",
+          "This Friday",
+          "This Thursday",
+          "Next Monday"
         ],
         "correctIndex": 2,
-        "explain": "學生應該帶上簡歷。"
+        "explain": "講座將在本週四舉行。"
       }
     ]
   },
   "talk": {
-    "transcript": "Today, we're going to discuss the importance of biodiversity. Biodiversity refers to the variety of life on Earth, including the different species of plants, animals, and microorganisms. High biodiversity is crucial for ecosystem stability and resilience. It helps ecosystems recover from disturbances and supports a greater variety of functions, such as pollination and nutrient cycling. Furthermore, biodiversity also contributes to human well-being by providing essential resources like food, medicine, and clean water. Protecting biodiversity is vital in ensuring a healthy planet for future generations.",
+    "transcript": "Today, we will discuss the concept of biodiversity. Biodiversity refers to the variety of life in a particular habitat or ecosystem. It includes the diversity of species, genetic variation, and the variety of ecosystems. Biodiversity is crucial for ecosystem health and resilience, providing essential services such as clean air, water, and food. Loss of biodiversity can lead to ecosystem collapse and jeopardize the resources that humans rely on. Protecting biodiversity is not only beneficial for the environment but also vital for human well-being.",
     "questions": [
       {
-        "q": "What does biodiversity refer to?",
+        "q": "What does biodiversity include?",
         "options": [
-          "Variety of life on Earth",
-          "Human population growth",
-          "Climate change effects",
-          "Types of ecosystems"
+          "Only species diversity",
+          "Ecosystem variety",
+          "Species and ecosystem diversity",
+          "Only genetic variation"
         ],
-        "correctIndex": 0,
-        "explain": "生物多樣性指地球上生命的多樣性。"
+        "correctIndex": 2,
+        "explain": "生物多樣性包括物種和生態系統的多樣性。"
       },
       {
-        "q": "Why is high biodiversity important?",
+        "q": "Why is biodiversity important?",
         "options": [
-          "For faster economic growth",
-          "For ecosystem stability",
-          "For reducing pollution",
-          "For increasing population"
+          "It helps with climate",
+          "It provides essential services",
+          "It increases competition",
+          "It limits population growth"
         ],
         "correctIndex": 1,
-        "explain": "高生物多樣性對生態系統的穩定性至關重要。"
+        "explain": "生物多樣性提供重要的生態系統服務。"
       },
       {
-        "q": "How does biodiversity contribute to human well-being?",
+        "q": "What can happen if biodiversity is lost?",
         "options": [
-          "By increasing technology",
-          "By providing resources",
-          "By promoting tourism",
-          "By reducing waste"
+          "Increased species population",
+          "Improved ecosystem services",
+          "Ecosystem collapse",
+          "Better human health"
         ],
-        "correctIndex": 1,
-        "explain": "生物多樣性通過提供基本資源來促進人類福祉。"
+        "correctIndex": 2,
+        "explain": "如果失去生物多樣性，可能會導致生態系統崩潰。"
       },
       {
-        "q": "What should we do to protect biodiversity?",
+        "q": "How does biodiversity affect human well-being?",
         "options": [
-          "Ignore climate change",
-          "Plant more trees",
-          "Limit urban development",
-          "All of the above"
+          "It decreases resources",
+          "It is irrelevant",
+          "It provides food and clean water",
+          "It increases pollution"
         ],
-        "correctIndex": 3,
-        "explain": "保護生物多樣性需要綜合措施，包括植樹和限制城市發展。"
+        "correctIndex": 2,
+        "explain": "生物多樣性提供食物和清潔水，對人類健康至關重要。"
       }
     ]
   }

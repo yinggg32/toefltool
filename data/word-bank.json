@@ -10886,5 +10886,61 @@
     "zh": "雜食動物",
     "ex": "Omnivores have a diverse diet that includes both plants and animals.",
     "cat": "📰 每日新詞：biology"
+  },
+  {
+    "word": "collective consciousness",
+    "pos": "n.",
+    "root": "集體 (collective) + 意識 (consciousness)",
+    "zh": "集體意識",
+    "ex": "The concept of collective consciousness highlights shared beliefs and values within a society.",
+    "cat": "📰 每日新詞：sociology"
+  },
+  {
+    "word": "social inequality",
+    "pos": "n.",
+    "root": "社會 (social) + 不平等 (inequality)",
+    "zh": "社會不平等",
+    "ex": "Social inequality can manifest in various forms, including economic, racial, and gender disparities.",
+    "cat": "📰 每日新詞：sociology"
+  },
+  {
+    "word": "social mobility",
+    "pos": "n.",
+    "root": "社會 (social) + 流動性 (mobility)",
+    "zh": "社會流動性",
+    "ex": "Social mobility refers to the ability of individuals to move up or down the social ladder.",
+    "cat": "📰 每日新詞：sociology"
+  },
+  {
+    "word": "feminism",
+    "pos": "n.",
+    "root": "女性 (feminine) + 主義 (ism)",
+    "zh": "女性主義",
+    "ex": "Feminism advocates for the social, political, and economic equality of the sexes.",
+    "cat": "📰 每日新詞：sociology"
+  },
+  {
+    "word": "classism",
+    "pos": "n.",
+    "root": "階級 (class) + 主義 (ism)",
+    "zh": "階級主義",
+    "ex": "Classism refers to discrimination based on social class or socioeconomic status.",
+    "cat": "📰 每日新詞：sociology"
+  },
+  {
+    "word": "social justice",
+    "pos": "n.",
+    "root": "社會 (social) + 正義 (justice)",
+    "zh": "社會正義",
+    "ex": "Social justice seeks to address inequalities and promote fairness in society.",
+    "cat": "📰 每日新詞：sociology"
+  },
+  {
+    "word": "intersectionality",
+    "pos": "n.",
+    "root": "交叉 (intersect) + 性 (ality)",
+    "zh": "交叉性",
+    "ex": "Intersectionality examines how various forms of social stratification intersect.",
+    "cat": "📰 每日新詞：sociology"
   }
 ]
