@@ -1,116 +1,116 @@
 {
   "chooseResponse": [
     {
-      "q": "Are you joining the study group?",
+      "q": "What do you think about the new study group?",
       "options": [
-        "Yes, I would love to.",
-        "No, I have other plans.",
-        "I'll think about it.",
-        "Maybe next time."
+        "It's a great idea!",
+        "I don't think it's necessary.",
+        "I'm not sure yet.",
+        "Let's wait and see."
       ],
       "correctIndex": 0
     }
   ],
   "conversation": {
-    "transcript": "Student: Hey, did you get the email about the study group?\nAdvisor: Yes, I did! Are you planning to join?\nStudent: I think so, it sounds helpful.\nAdvisor: It really can be. What subject is it for?\nStudent: It's for biology, we have an exam coming up.\nAdvisor: That’s a good idea. Do you know who else is joining?",
+    "transcript": "Student: Hey, did you hear about the new study group starting next week?\nAdvisor: Yes, I think it could really help students prepare for exams. Are you planning to join?\nStudent: I'm considering it, but I'm not sure how it will fit into my schedule.\nAdvisor: That's understandable. Maybe attending the first session will give you a better idea.",
     "questions": [
       {
-        "q": "What subject is the study group about?",
+        "q": "What is the main topic of the conversation?",
         "options": [
-          "Math",
-          "Biology",
-          "History",
-          "Chemistry"
+          "A new study group",
+          "A lecture schedule",
+          "Exam results",
+          "A club meeting"
         ],
-        "correctIndex": 1,
-        "explain": "學習小組是關於生物學的。"
+        "correctIndex": 0,
+        "explain": "這段對話的主要話題是關於一個新的學習小組。"
       },
       {
-        "q": "Why does the advisor recommend the group?",
+        "q": "What does the advisor suggest the student do?",
         "options": [
-          "To meet new people",
-          "To help with the exam",
-          "To learn teaching techniques",
-          "To improve grades"
+          "Join the study group immediately",
+          "Attend the first session",
+          "Talk to other students",
+          "Skip the group altogether"
         ],
         "correctIndex": 1,
-        "explain": "顧問建議這個小組是為了幫助考試。"
+        "explain": "顧問建議學生參加第一次會議以了解更多資訊。"
       }
     ]
   },
   "announcement": {
-    "transcript": "Attention all students! There will be a guest lecture on climate change this Thursday at 6 PM in the auditorium. Don't miss out on this opportunity to learn from an expert in the field. We hope to see you there!",
+    "transcript": "Attention all students! The library will be closed for renovations starting next Monday and will reopen in two weeks. Please plan your study time accordingly and check for online resources during this period.",
     "questions": [
       {
-        "q": "What is the topic of the guest lecture?",
+        "q": "Why will the library be closed?",
         "options": [
-          "Renewable energy",
-          "Climate change",
-          "Wildlife conservation",
-          "Pollution"
+          "For cleaning",
+          "For renovations",
+          "For a special event",
+          "For staff training"
         ],
         "correctIndex": 1,
-        "explain": "客座講座的主題是氣候變化。"
+        "explain": "圖書館將關閉是因為正在進行翻修。"
       },
       {
-        "q": "When will the lecture take place?",
+        "q": "When will the library reopen?",
         "options": [
-          "This Wednesday",
-          "This Friday",
-          "This Thursday",
-          "Next Monday"
+          "Next Monday",
+          "In one week",
+          "In two weeks",
+          "Next month"
         ],
         "correctIndex": 2,
-        "explain": "講座將在本週四舉行。"
+        "explain": "圖書館將在兩週後重新開放。"
       }
     ]
   },
   "talk": {
-    "transcript": "Today, we will discuss the concept of biodiversity. Biodiversity refers to the variety of life in a particular habitat or ecosystem. It includes the diversity of species, genetic variation, and the variety of ecosystems. Biodiversity is crucial for ecosystem health and resilience, providing essential services such as clean air, water, and food. Loss of biodiversity can lead to ecosystem collapse and jeopardize the resources that humans rely on. Protecting biodiversity is not only beneficial for the environment but also vital for human well-being.",
+    "transcript": "Today, we will discuss the concept of ecosystem services. Ecosystem services are the benefits that humans derive from natural ecosystems, such as clean water, pollination of crops, and climate regulation. These services are critical for our survival and well-being. For example, forests help maintain air quality and provide habitat for countless species. Understanding and valuing these services is essential as we face environmental challenges and strive for sustainable development. By protecting ecosystems, we can ensure that these services continue to support life on Earth.",
     "questions": [
       {
-        "q": "What does biodiversity include?",
+        "q": "What are ecosystem services?",
         "options": [
-          "Only species diversity",
-          "Ecosystem variety",
-          "Species and ecosystem diversity",
-          "Only genetic variation"
-        ],
-        "correctIndex": 2,
-        "explain": "生物多樣性包括物種和生態系統的多樣性。"
-      },
-      {
-        "q": "Why is biodiversity important?",
-        "options": [
-          "It helps with climate",
-          "It provides essential services",
-          "It increases competition",
-          "It limits population growth"
+          "Benefits from technology",
+          "Benefits from natural ecosystems",
+          "Benefits from urban development",
+          "Benefits from agriculture"
         ],
         "correctIndex": 1,
-        "explain": "生物多樣性提供重要的生態系統服務。"
+        "explain": "生態系統服務是人類從自然生態系統中獲得的利益。"
       },
       {
-        "q": "What can happen if biodiversity is lost?",
+        "q": "Give an example of an ecosystem service.",
         "options": [
-          "Increased species population",
-          "Improved ecosystem services",
-          "Ecosystem collapse",
-          "Better human health"
+          "Building roads",
+          "Creating jobs",
+          "Maintaining air quality",
+          "Producing energy"
         ],
         "correctIndex": 2,
-        "explain": "如果失去生物多樣性，可能會導致生態系統崩潰。"
+        "explain": "維持空氣質量是一個生態系統服務的例子。"
       },
       {
-        "q": "How does biodiversity affect human well-being?",
+        "q": "Why is it important to understand ecosystem services?",
         "options": [
-          "It decreases resources",
-          "It is irrelevant",
-          "It provides food and clean water",
-          "It increases pollution"
+          "To promote urbanization",
+          "To manage technology",
+          "To face environmental challenges",
+          "To increase population growth"
         ],
         "correctIndex": 2,
-        "explain": "生物多樣性提供食物和清潔水，對人類健康至關重要。"
+        "explain": "理解生態系統服務對應對環境挑戰至關重要。"
+      },
+      {
+        "q": "What can be done to protect ecosystem services?",
+        "options": [
+          "Urban development",
+          "Pollution control",
+          "Deforestation",
+          "Industrialization"
+        ],
+        "correctIndex": 1,
+        "explain": "控制污染是保護生態系統服務的措施之一。"
       }
     ]
   }

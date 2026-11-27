@@ -4,132 +4,125 @@
       "words": [
         "the",
         "students",
-        "enjoyed",
+        "completed",
         "the",
-        "presentation",
-        "about",
-        "climate",
-        "change"
+        "assignment",
+        "before",
+        "the",
+        "deadline"
       ],
-      "display": "The students enjoyed the presentation about climate change."
+      "display": "The students completed the assignment before the deadline."
     },
     {
       "words": [
+        "the",
+        "new",
+        "policy",
+        "will",
+        "affect",
+        "all",
+        "employees",
+        "severely"
+      ],
+      "display": "The new policy will affect all employees severely."
+    },
+    {
+      "words": [
+        "she",
+        "decided",
         "to",
-        "understand",
-        "the",
-        "concepts",
-        "the",
-        "students",
-        "studied",
-        "the",
-        "textbook"
-      ],
-      "display": "To understand the concepts, the students studied the textbook."
-    },
-    {
-      "words": [
-        "the",
-        "team",
-        "worked",
-        "hard",
-        "to",
-        "complete",
-        "the",
-        "project"
-      ],
-      "display": "The team worked hard to complete the project."
-    },
-    {
-      "words": [
-        "every",
-        "year",
-        "many",
-        "students",
-        "apply",
+        "study",
+        "abroad",
         "for",
-        "scholarships",
-        "to",
-        "study"
+        "a",
+        "year"
       ],
-      "display": "Every year, many students apply for scholarships to study."
+      "display": "She decided to study abroad for a year."
     },
     {
       "words": [
         "the",
         "research",
-        "focuses",
-        "on",
-        "the",
-        "effects",
-        "of",
-        "pollution",
-        "on",
-        "health"
-      ],
-      "display": "The research focuses on the effects of pollution on health."
-    },
-    {
-      "words": [
-        "after",
-        "careful",
-        "consideration",
-        "the",
-        "committee",
-        "decided",
-        "to",
-        "approve",
-        "the",
-        "proposal"
-      ],
-      "display": "After careful consideration, the committee decided to approve the proposal."
-    },
-    {
-      "words": [
-        "it",
-        "is",
-        "important",
-        "to",
-        "communicate",
-        "effectively",
-        "in",
-        "a",
         "team",
-        "environment"
+        "is",
+        "analyzing",
+        "the",
+        "data",
+        "carefully"
       ],
-      "display": "It is important to communicate effectively in a team environment."
+      "display": "The research team is analyzing the data carefully."
+    },
+    {
+      "words": [
+        "many",
+        "students",
+        "prefer",
+        "online",
+        "courses",
+        "over",
+        "traditional",
+        "classes"
+      ],
+      "display": "Many students prefer online courses over traditional classes."
     },
     {
       "words": [
         "the",
-        "library",
-        "offers",
-        "many",
-        "resources",
-        "for",
+        "conference",
+        "will",
+        "take",
+        "place",
+        "next",
+        "month",
+        "in",
+        "new",
+        "york"
+      ],
+      "display": "The conference will take place next month in New York."
+    },
+    {
+      "words": [
+        "he",
+        "wants",
+        "to",
+        "join",
+        "the",
+        "debate",
+        "team",
+        "next",
+        "semester"
+      ],
+      "display": "He wants to join the debate team next semester."
+    },
+    {
+      "words": [
+        "the",
+        "professor",
+        "encouraged",
         "students",
         "to",
-        "improve",
-        "their",
-        "skills"
+        "ask",
+        "questions",
+        "during",
+        "lectures"
       ],
-      "display": "The library offers many resources for students to improve their skills."
+      "display": "The professor encouraged students to ask questions during lectures."
     }
   ],
   "emailPrompts": [
-    "寄信給教授，詢問期末報告的格式要求。",
-    "寄信給宿舍管理辦公室，請求更換房間因為室友問題。",
-    "寄信給圖書館，詢問延遲還書的罰款政策。",
-    "寄信給社團負責人，表達對參加活動的興趣及詢問詳情。",
-    "寄信給客戶服務，反映最近購買的產品出現問題。",
-    "寄信給學校行政部門，要求獲取成績單的副本。"
+    "寄信給教授，請求延期提交報告，因為生病無法完成。",
+    "寄信給宿舍辦公室，詢問如何申請更換房間。",
+    "寄信給圖書館，反映圖書館的閱讀環境不佳，希望改善。",
+    "寄信給社團，確認參加下週的會議時間和地點。",
+    "寄信給客服部門，反映購買商品的問題並請求退款。",
+    "寄信給學校行政部門，請求有關獎學金的更多資訊。"
   ],
   "discussionPrompts": [
-    "教授問：「網路對現代社會的影響是正面還是負面？」",
-    "教授問：「應該如何平衡科技進步與環境保護？」",
-    "教授問：「大學教育的主要目的究竟是什麼？」",
-    "教授問：「社會媒體對青少年心理健康的影響如何？」",
-    "教授問：「政府在經濟發展中應扮演什麼角色？」",
-    "教授問：「全球化對地方文化的影響是好是壞？」"
+    "教授問：「應該在學校教授更多的實用技能嗎？」",
+    "教授問：「社交媒體對青少年心理健康的影響是什麼？」",
+    "教授問：「氣候變化是否應該成為政府的首要任務？」",
+    "教授問：「科技在教育中的角色，你怎麼看？」",
+    "教授問：「文化多樣性在社會中的重要性是什麼？」",
+    "教授問：「教育應該更注重知識還是技能的培養？」"
   ]
 }

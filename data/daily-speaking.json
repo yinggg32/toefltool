@@ -1,45 +1,45 @@
 {
   "shadowSentences": [
-    "I love reading books in my free time.",
-    "My favorite season is autumn because of the colors.",
-    "I enjoy cooking new recipes on weekends.",
-    "Traveling to new places helps me learn a lot.",
-    "Listening to music makes me feel relaxed and happy.",
-    "I often go for walks in the park near my house.",
-    "Spending time with friends is very important to me.",
-    "Hiking in the mountains is one of my favorite activities.",
-    "I try to learn something new every month to grow.",
-    "Volunteering in my community gives me a sense of purpose."
+    "I enjoy reading books in my free time.",
+    "My favorite season is spring because of the flowers.",
+    "I often go hiking on weekends with my friends.",
+    "Cooking new recipes is a fun way to relax.",
+    "Traveling to different countries expands my worldview.",
+    "I love listening to music while studying or working.",
+    "Spending time with family is important to me.",
+    "Learning a new language can be both challenging and rewarding.",
+    "Volunteering in my community helps me feel connected to others.",
+    "Finding a balance between work and leisure is essential for happiness."
   ],
   "interviewScenarios": [
     {
-      "topic": "旅行經歷",
-      "intro": "You have agreed to take part in a research study about travel experiences.",
+      "topic": "旅行計劃",
+      "intro": "You have agreed to take part in a research study about travel planning.",
       "questions": [
-        "Q1: Can you share a memorable trip you have taken?",
-        "Q2: What were some challenges you faced while traveling?",
-        "Q3: How do you feel travel impacts personal growth?",
+        "Q1: Can you share a memorable trip you've taken?",
+        "Q2: What challenges did you face when planning that trip?",
+        "Q3: How do you feel about the importance of travel in life?",
         "Q4: What advice would you give someone planning their first trip?"
       ]
     },
     {
-      "topic": "學習方法",
-      "intro": "You have agreed to take part in a research study about study methods.",
+      "topic": "運動習慣",
+      "intro": "You have agreed to take part in a research study about exercise habits.",
       "questions": [
-        "Q1: What study techniques have worked best for you?",
-        "Q2: Have you encountered any difficulties while studying?",
-        "Q3: In your opinion, what makes a study method effective?",
-        "Q4: What recommendations would you offer to improve study habits?"
+        "Q1: What types of exercise do you enjoy the most?",
+        "Q2: Have you ever struggled to maintain a regular exercise routine?",
+        "Q3: Why do you think exercise is important for health?",
+        "Q4: What tips would you offer someone trying to start exercising?"
       ]
     },
     {
-      "topic": "科技影響",
-      "intro": "You have agreed to take part in a research study about the impact of technology.",
+      "topic": "環保行動",
+      "intro": "You have agreed to take part in a research study about eco-friendly practices.",
       "questions": [
-        "Q1: How has technology changed the way you communicate?",
-        "Q2: What challenges do you face with technology in daily life?",
-        "Q3: What is your opinion on the role of technology in education?",
-        "Q4: What advice would you give to someone struggling with tech usage?"
+        "Q1: Can you describe an eco-friendly practice you follow?",
+        "Q2: What difficulties do people face when trying to go green?",
+        "Q3: In your opinion, how important is it to protect the environment?",
+        "Q4: What recommendations do you have for someone wanting to live more sustainably?"
       ]
     }
   ]

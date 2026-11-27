@@ -10942,5 +10942,29 @@
     "zh": "交叉性",
     "ex": "Intersectionality examines how various forms of social stratification intersect.",
     "cat": "📰 每日新詞：sociology"
+  },
+  {
+    "word": "observatory",
+    "pos": "n.",
+    "root": "觀 (observe) + 測 (measure) + —",
+    "zh": "天文台",
+    "ex": "An observatory provides a platform for astronomers to study the night sky.",
+    "cat": "📰 每日新詞：astronomy and space science"
+  },
+  {
+    "word": "meteoroid",
+    "pos": "n.",
+    "root": "流星 (meteor) + —",
+    "zh": "流星體",
+    "ex": "A meteoroid is a small rocky or metallic body in outer space.",
+    "cat": "📰 每日新詞：astronomy and space science"
+  },
+  {
+    "word": "planetology",
+    "pos": "n.",
+    "root": "行星 (planet) + 學 (study)",
+    "zh": "行星學",
+    "ex": "Planetology focuses on the geology and atmospheres of planets within our solar system.",
+    "cat": "📰 每日新詞：astronomy and space science"
   }
 ]

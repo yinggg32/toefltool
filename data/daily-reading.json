@@ -2,113 +2,107 @@
   "cloze": {
     "segments": [
       {
-        "text": "The theory of relativity, proposed by A. Einstein, revolutionized our understanding of space and t"
+        "text": "The process of photosynthesis is essential for plants. It begins when chlorophyll, a green pigment, absorbs sunlight. This energy is used to convert carbon dioxide and water into glucose and oxygen. Glucose serves as a source of energy for plants, while oxygen is released into the atmosphere. Photosynthesis occurs primarily in the leaves, where specialized cells contain chloroplasts. These organelles are crucial, as they house the chlorophyll. Furthermore, the rate of photosynthesis can be affected by factors such as light intensity, temperature, and carbon dioxide levels. Understanding this process is vital for agriculture and environmental science."
       },
       {
-        "blank": "ime"
+        "blank": "sis"
       },
       {
-        "text": ". It consists of two parts: special relativity, which focuses on objects moving at a constant v"
+        "text": "... s..."
       },
       {
-        "blank": "elocity"
+        "blank": "chlo"
       },
       {
-        "text": ", and general relativity, which considers the effect of gravity on the fabric of spac"
+        "text": "...rophyll is a key component."
       },
       {
-        "blank": "etime"
+        "blank": "org"
       },
       {
-        "text": ". One of the critical implications of relativity is that time can appear to pass at diff"
+        "text": "...anelle that facilitates this."
       },
       {
-        "blank": "erent"
+        "blank": "rate"
       },
       {
-        "text": " rates depending on the observer's relative speed and gravitational field. Such insights have led to adv"
-      },
-      {
-        "blank": "ancements"
-      },
-      {
-        "text": " in technology, such as GPS systems that require adjustments based on relativistic effects."
+        "text": "... of photosynthesis changes with environmental conditions."
       }
     ]
   },
   "academic": {
-    "passage": "The theory of relativity, proposed by Albert Einstein, has fundamentally changed our understanding of fundamental physics. It includes two main concepts: special relativity and general relativity. Special relativity deals with the physics of objects moving at constant speeds, while general relativity introduces the impact of gravity on space-time. These theories reveal that time and space are not absolute but can vary based on relative motion and gravitational forces, leading to practical applications in modern technology, particularly in navigation systems like GPS.",
+    "passage": "Photosynthesis is the process by which green plants, algae, and some bacteria convert light energy into chemical energy. This transformation occurs in the chloroplasts and involves two main stages: the light-dependent reactions and the Calvin cycle. During the light-dependent reactions, sunlight is captured and used to produce ATP and NADPH, which are energy carriers. The Calvin cycle then utilizes these energy carriers to convert carbon dioxide into glucose. This two-step process not only supports the plant's growth but also contributes significantly to the Earth's oxygen supply.",
     "questions": [
       {
         "q": "What is the main idea of the passage?",
         "options": [
-          "The theory of relativity's impact on physics",
-          "The history of Einstein's life",
-          "The importance of gravity",
-          "The concept of constant speed"
+          "Photosynthesis converts light energy to chemical energy.",
+          "Chloroplasts are essential for cellular respiration.",
+          "The Calvin cycle requires oxygen to function.",
+          "Plants primarily use glucose for energy."
         ],
         "correctIndex": 0,
-        "explain": "這段文字主要講述相對論對物理學的影響。"
+        "explain": "這段文字主要講述光合作用如何將光能轉換為化學能。"
       },
       {
-        "q": "What are the two parts of the theory of relativity mentioned?",
+        "q": "What are the two main stages of photosynthesis?",
         "options": [
-          "Quantum mechanics and thermodynamics",
-          "Special relativity and general relativity",
-          "Classical mechanics and electromagnetism",
-          "Relativity and Newtonian physics"
+          "Light-dependent reactions and the Calvin cycle.",
+          "Respiration and fermentation.",
+          "Oxygen production and ATP synthesis.",
+          "Chloroplast activation and glucose breakdown."
+        ],
+        "correctIndex": 0,
+        "explain": "光合作用的兩個主要階段是光依賴反應和卡爾文循環。"
+      },
+      {
+        "q": "What can be inferred about the relationship between photosynthesis and oxygen?",
+        "options": [
+          "Photosynthesis decreases oxygen levels in the atmosphere.",
+          "Photosynthesis is essential for producing oxygen.",
+          "Oxygen is not relevant to photosynthesis.",
+          "Only animals need oxygen for survival."
         ],
         "correctIndex": 1,
-        "explain": "文中提到相對論的兩個部分是特殊相對論和一般相對論。"
+        "explain": "可以推斷，光合作用對於氧氣的生成至關重要。"
       },
       {
-        "q": "What can be inferred about the application of relativity in technology?",
+        "q": "What does the term 'ATP' refer to in the context of photosynthesis?",
         "options": [
-          "It has no practical applications.",
-          "It is only theoretical and not used practically.",
-          "It requires adjustments for effective use in technology.",
-          "It is outdated and irrelevant."
+          "A pigment involved in light absorption.",
+          "A type of glucose produced during photosynthesis.",
+          "An energy carrier produced during light reactions.",
+          "A cycle involved in carbon fixation."
         ],
         "correctIndex": 2,
-        "explain": "可以推斷，相對論在技術中需要調整才能有效使用，特別是GPS系統。"
-      },
-      {
-        "q": "What does the term 'space-time' refer to in the context of the passage?",
-        "options": [
-          "A type of technology",
-          "The measurement of time only",
-          "The combination of space and time in physics",
-          "A concept unrelated to relativity"
-        ],
-        "correctIndex": 2,
-        "explain": "在文中，'時空'指的是物理學中空間和時間的結合。"
+        "explain": "在光合作用的上下文中，'ATP'指的是在光反應中產生的能量載體。"
       }
     ]
   },
   "daily": {
-    "passage": "Attention students: The library will be closed for maintenance this weekend. Please return any borrowed materials by Friday to avoid late fees. Thank you for your understanding.",
+    "passage": "Attention all students! The library will be closed for renovations starting next Monday and will reopen in two weeks. Please make sure to return any borrowed materials before this date. We apologize for any inconvenience this may cause. Thank you for your understanding.",
     "questions": [
       {
         "q": "When will the library be closed?",
         "options": [
-          "This weekend",
-          "Next weekend",
-          "Starting next month",
-          "Today"
+          "Next Monday",
+          "This Friday",
+          "Next Wednesday",
+          "Tomorrow"
         ],
         "correctIndex": 0,
-        "explain": "根據公告，圖書館將在本週末關閉。"
+        "explain": "圖書館將於下週一關閉。"
       },
       {
-        "q": "What should students do by Friday?",
+        "q": "How long will the library remain closed?",
         "options": [
-          "Borrow more materials",
-          "Return borrowed materials",
-          "Visit the library",
-          "Complete assignments"
+          "One week",
+          "Two weeks",
+          "Three weeks",
+          "Indefinitely"
         ],
         "correctIndex": 1,
-        "explain": "學生應在星期五之前歸還已借的資料。"
+        "explain": "圖書館將關閉兩週。"
       }
     ]
   }
