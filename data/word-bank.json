@@ -10966,5 +10966,21 @@
     "zh": "行星學",
     "ex": "Planetology focuses on the geology and atmospheres of planets within our solar system.",
     "cat": "📰 每日新詞：astronomy and space science"
+  },
+  {
+    "word": "absurdism",
+    "pos": "n.",
+    "root": "absurd- (illogical) + -ism (belief in)",
+    "zh": "荒謬主義",
+    "ex": "Absurdism explores the conflict between human tendency to seek inherent meaning.",
+    "cat": "📰 每日新詞：philosophy"
+  },
+  {
+    "word": "contextualism",
+    "pos": "n.",
+    "root": "contextu- (context) + -al (related to) + -ism (doctrine)",
+    "zh": "語境主義",
+    "ex": "Contextualism argues that the meaning of a statement can vary with context.",
+    "cat": "📰 每日新詞：philosophy"
   }
 ]

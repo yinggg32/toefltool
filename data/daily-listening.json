@@ -1,116 +1,116 @@
 {
   "chooseResponse": [
     {
-      "q": "What do you think about the new study group?",
+      "q": "How did your exam go?",
       "options": [
-        "It's a great idea!",
-        "I don't think it's necessary.",
-        "I'm not sure yet.",
-        "Let's wait and see."
+        "It was really difficult.",
+        "I think I passed.",
+        "I didn't study enough.",
+        "I'm not sure yet."
       ],
-      "correctIndex": 0
+      "correctIndex": 1
     }
   ],
   "conversation": {
-    "transcript": "Student: Hey, did you hear about the new study group starting next week?\nAdvisor: Yes, I think it could really help students prepare for exams. Are you planning to join?\nStudent: I'm considering it, but I'm not sure how it will fit into my schedule.\nAdvisor: That's understandable. Maybe attending the first session will give you a better idea.",
+    "transcript": "Student: Hey, did you get the chance to study for the history exam?\nAdvisor: Yes, I reviewed the main events. How about you?\nStudent: I focused more on the dates than the causes.\nAdvisor: That might be a good strategy. Understanding the causes could help too.",
     "questions": [
       {
-        "q": "What is the main topic of the conversation?",
+        "q": "What did the student focus on when studying?",
         "options": [
-          "A new study group",
-          "A lecture schedule",
-          "Exam results",
-          "A club meeting"
+          "Causes of events",
+          "Main events",
+          "Important dates",
+          "Historical figures"
         ],
-        "correctIndex": 0,
-        "explain": "這段對話的主要話題是關於一個新的學習小組。"
+        "correctIndex": 2,
+        "explain": "學生在學習時專注於重要的日期。"
       },
       {
-        "q": "What does the advisor suggest the student do?",
+        "q": "What advice did the advisor give?",
         "options": [
-          "Join the study group immediately",
-          "Attend the first session",
-          "Talk to other students",
-          "Skip the group altogether"
+          "Focus only on dates",
+          "Understand the causes",
+          "Skip studying altogether",
+          "Review past exams"
         ],
         "correctIndex": 1,
-        "explain": "顧問建議學生參加第一次會議以了解更多資訊。"
+        "explain": "顧問建議學生理解事件的原因。"
       }
     ]
   },
   "announcement": {
-    "transcript": "Attention all students! The library will be closed for renovations starting next Monday and will reopen in two weeks. Please plan your study time accordingly and check for online resources during this period.",
+    "transcript": "Attention students! The library will be closing early today at 5 PM for maintenance. Please make sure to finish your work and check out any books before that time. Thank you for your understanding!",
     "questions": [
       {
-        "q": "Why will the library be closed?",
+        "q": "Why is the library closing early today?",
         "options": [
-          "For cleaning",
-          "For renovations",
           "For a special event",
-          "For staff training"
+          "For maintenance work",
+          "Due to a holiday",
+          "Because of staff training"
         ],
         "correctIndex": 1,
-        "explain": "圖書館將關閉是因為正在進行翻修。"
+        "explain": "圖書館今天提前關閉是因為維護工作。"
       },
       {
-        "q": "When will the library reopen?",
+        "q": "What time will the library close?",
         "options": [
-          "Next Monday",
-          "In one week",
-          "In two weeks",
-          "Next month"
+          "4 PM",
+          "5 PM",
+          "6 PM",
+          "7 PM"
         ],
-        "correctIndex": 2,
-        "explain": "圖書館將在兩週後重新開放。"
+        "correctIndex": 1,
+        "explain": "圖書館將在下午5點關閉。"
       }
     ]
   },
   "talk": {
-    "transcript": "Today, we will discuss the concept of ecosystem services. Ecosystem services are the benefits that humans derive from natural ecosystems, such as clean water, pollination of crops, and climate regulation. These services are critical for our survival and well-being. For example, forests help maintain air quality and provide habitat for countless species. Understanding and valuing these services is essential as we face environmental challenges and strive for sustainable development. By protecting ecosystems, we can ensure that these services continue to support life on Earth.",
+    "transcript": "Today, we will discuss the importance of biodiversity. Biodiversity refers to the variety of life on Earth, including the variety of species, ecosystems, and genetic differences within species. It plays a critical role in sustaining ecosystem services, such as pollination, nutrient cycling, and climate regulation. A rich biodiversity can enhance resilience against environmental changes, while a loss in biodiversity can lead to ecosystem collapse. Preserving biodiversity is essential not only for the health of our planet but also for our well-being, as it directly impacts food security, clean water access, and medicinal resources.",
     "questions": [
       {
-        "q": "What are ecosystem services?",
+        "q": "What does biodiversity refer to?",
         "options": [
-          "Benefits from technology",
-          "Benefits from natural ecosystems",
-          "Benefits from urban development",
-          "Benefits from agriculture"
+          "Different climates",
+          "Variety of life on Earth",
+          "Different cultures",
+          "Economic diversity"
         ],
         "correctIndex": 1,
-        "explain": "生態系統服務是人類從自然生態系統中獲得的利益。"
+        "explain": "生物多樣性是指地球上生命的多樣性。"
       },
       {
-        "q": "Give an example of an ecosystem service.",
+        "q": "What is one benefit of biodiversity mentioned?",
         "options": [
-          "Building roads",
-          "Creating jobs",
-          "Maintaining air quality",
-          "Producing energy"
+          "Higher temperatures",
+          "Ecosystem collapse",
+          "Improved health",
+          "Resilience against changes"
+        ],
+        "correctIndex": 3,
+        "explain": "生物多樣性可以提高對環境變化的抵抗力。"
+      },
+      {
+        "q": "How does biodiversity affect food security?",
+        "options": [
+          "It decreases it",
+          "It has no impact",
+          "It improves it",
+          "It complicates it"
         ],
         "correctIndex": 2,
-        "explain": "維持空氣質量是一個生態系統服務的例子。"
+        "explain": "生物多樣性對糧食安全有正面影響。"
       },
       {
-        "q": "Why is it important to understand ecosystem services?",
+        "q": "Why is preserving biodiversity important?",
         "options": [
-          "To promote urbanization",
-          "To manage technology",
-          "To face environmental challenges",
-          "To increase population growth"
+          "For economic growth",
+          "To reduce waste",
+          "For ecosystem health",
+          "To increase pollution"
         ],
         "correctIndex": 2,
-        "explain": "理解生態系統服務對應對環境挑戰至關重要。"
-      },
-      {
-        "q": "What can be done to protect ecosystem services?",
-        "options": [
-          "Urban development",
-          "Pollution control",
-          "Deforestation",
-          "Industrialization"
-        ],
-        "correctIndex": 1,
-        "explain": "控制污染是保護生態系統服務的措施之一。"
+        "explain": "保護生物多樣性對生態系統的健康至關重要。"
       }
     ]
   }

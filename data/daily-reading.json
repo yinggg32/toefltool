@@ -2,107 +2,113 @@
   "cloze": {
     "segments": [
       {
-        "text": "The process of photosynthesis is essential for plants. It begins when chlorophyll, a green pigment, absorbs sunlight. This energy is used to convert carbon dioxide and water into glucose and oxygen. Glucose serves as a source of energy for plants, while oxygen is released into the atmosphere. Photosynthesis occurs primarily in the leaves, where specialized cells contain chloroplasts. These organelles are crucial, as they house the chlorophyll. Furthermore, the rate of photosynthesis can be affected by factors such as light intensity, temperature, and carbon dioxide levels. Understanding this process is vital for agriculture and environmental science."
+        "text": "The concept of biodiversity refers to the variety of life forms and their relative "
       },
       {
-        "blank": "sis"
+        "blank": "abun"
       },
       {
-        "text": "... s..."
+        "text": "dance in a given ecosystem. Biodiversity is often measured by the number of species present, as well as their distribution and "
       },
       {
-        "blank": "chlo"
+        "blank": "div"
       },
       {
-        "text": "...rophyll is a key component."
+        "text": "ersity in genetic variations. This rich tapestry of life is essential for ecosystem resilience, allowing environments to adapt to changes and "
       },
       {
-        "blank": "org"
+        "blank": "sur"
       },
       {
-        "text": "...anelle that facilitates this."
+        "text": "vive external pressures. Furthermore, maintaining biodiversity ensures that ecosystems provide vital services, such as pollination and water "
       },
       {
-        "blank": "rate"
+        "blank": "pur"
       },
       {
-        "text": "... of photosynthesis changes with environmental conditions."
+        "text": "ification. The loss of biodiversity, often driven by human activities like deforestation and pollution, can lead to a "
+      },
+      {
+        "blank": "dec"
+      },
+      {
+        "text": "line in ecosystem health and function, emphasizing the importance of conservation efforts."
       }
     ]
   },
   "academic": {
-    "passage": "Photosynthesis is the process by which green plants, algae, and some bacteria convert light energy into chemical energy. This transformation occurs in the chloroplasts and involves two main stages: the light-dependent reactions and the Calvin cycle. During the light-dependent reactions, sunlight is captured and used to produce ATP and NADPH, which are energy carriers. The Calvin cycle then utilizes these energy carriers to convert carbon dioxide into glucose. This two-step process not only supports the plant's growth but also contributes significantly to the Earth's oxygen supply.",
+    "passage": "Biodiversity is crucial for the stability and resilience of ecosystems. It encompasses the variety of species, their genetic differences, and the ecosystems they inhabit. Healthy ecosystems with high biodiversity can better withstand environmental changes, such as climate shifts. Moreover, biodiversity fosters ecosystem services, including food production and clean water supply. The ongoing loss of biodiversity due to human activities poses significant risks, highlighting the need for conservation to protect these natural systems.",
     "questions": [
       {
         "q": "What is the main idea of the passage?",
         "options": [
-          "Photosynthesis converts light energy to chemical energy.",
-          "Chloroplasts are essential for cellular respiration.",
-          "The Calvin cycle requires oxygen to function.",
-          "Plants primarily use glucose for energy."
+          "Biodiversity is essential for ecosystem health.",
+          "Human activities always lead to loss of biodiversity.",
+          "Biodiversity cannot affect ecosystem services.",
+          "Ecosystems with low biodiversity are more resilient."
         ],
         "correctIndex": 0,
-        "explain": "這段文字主要講述光合作用如何將光能轉換為化學能。"
+        "explain": "這段文字的主要觀點是生物多樣性對生態系統健康至關重要。"
       },
       {
-        "q": "What are the two main stages of photosynthesis?",
+        "q": "What is one reason mentioned for the loss of biodiversity?",
         "options": [
-          "Light-dependent reactions and the Calvin cycle.",
-          "Respiration and fermentation.",
-          "Oxygen production and ATP synthesis.",
-          "Chloroplast activation and glucose breakdown."
-        ],
-        "correctIndex": 0,
-        "explain": "光合作用的兩個主要階段是光依賴反應和卡爾文循環。"
-      },
-      {
-        "q": "What can be inferred about the relationship between photosynthesis and oxygen?",
-        "options": [
-          "Photosynthesis decreases oxygen levels in the atmosphere.",
-          "Photosynthesis is essential for producing oxygen.",
-          "Oxygen is not relevant to photosynthesis.",
-          "Only animals need oxygen for survival."
+          "Increased pollination.",
+          "Habitat destruction due to deforestation.",
+          "Climate stability.",
+          "Water purification processes."
         ],
         "correctIndex": 1,
-        "explain": "可以推斷，光合作用對於氧氣的生成至關重要。"
+        "explain": "文章提到人類活動（如森林砍伐）是導致生物多樣性喪失的原因之一。"
       },
       {
-        "q": "What does the term 'ATP' refer to in the context of photosynthesis?",
+        "q": "What can be inferred about ecosystems with low biodiversity?",
         "options": [
-          "A pigment involved in light absorption.",
-          "A type of glucose produced during photosynthesis.",
-          "An energy carrier produced during light reactions.",
-          "A cycle involved in carbon fixation."
+          "They are more productive.",
+          "They are less stable.",
+          "They require more conservation efforts.",
+          "They provide fewer services."
         ],
-        "correctIndex": 2,
-        "explain": "在光合作用的上下文中，'ATP'指的是在光反應中產生的能量載體。"
+        "correctIndex": 1,
+        "explain": "可以推斷出低生物多樣性的生態系統較不穩定。"
+      },
+      {
+        "q": "What does the term 'ecosystem services' imply in this context?",
+        "options": [
+          "Natural disasters caused by human actions.",
+          "Benefits that healthy ecosystems provide to humans.",
+          "The financial profits from biodiversity.",
+          "The varieties of species in a given area."
+        ],
+        "correctIndex": 1,
+        "explain": "在這個上下文中，'生態系統服務'指的是健康生態系統為人類提供的好處。"
       }
     ]
   },
   "daily": {
-    "passage": "Attention all students! The library will be closed for renovations starting next Monday and will reopen in two weeks. Please make sure to return any borrowed materials before this date. We apologize for any inconvenience this may cause. Thank you for your understanding.",
+    "passage": "Attention students: The university library will be closed for maintenance from 8 AM to 12 PM on Saturday. Please make sure to return any books and plan your study time accordingly. We apologize for any inconvenience.",
     "questions": [
       {
         "q": "When will the library be closed?",
         "options": [
-          "Next Monday",
-          "This Friday",
-          "Next Wednesday",
-          "Tomorrow"
-        ],
-        "correctIndex": 0,
-        "explain": "圖書館將於下週一關閉。"
-      },
-      {
-        "q": "How long will the library remain closed?",
-        "options": [
-          "One week",
-          "Two weeks",
-          "Three weeks",
-          "Indefinitely"
+          "Friday afternoon.",
+          "Saturday morning.",
+          "Sunday all day.",
+          "Monday evening."
         ],
         "correctIndex": 1,
-        "explain": "圖書館將關閉兩週。"
+        "explain": "圖書館將在星期六的早上關閉。"
+      },
+      {
+        "q": "What should students do before the library closes?",
+        "options": [
+          "Return any borrowed books.",
+          "Attend a workshop.",
+          "Visit the cafeteria.",
+          "Leave for the weekend."
+        ],
+        "correctIndex": 0,
+        "explain": "在圖書館關閉之前，學生應該歸還借的書籍。"
       }
     ]
   }
